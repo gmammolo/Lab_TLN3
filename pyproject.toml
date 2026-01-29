@@ -3,5 +3,31 @@ name = "dicaro"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
-dependencies = []
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "matplotlib>=3.10.8",
+    "networkx>=3.6.1",
+    "nltk>=3.9.2",
+    "pandas>=3.0.0",
+    "pip>=25.3",
+    "rdflib>=7.5.0",
+    "requests>=2.32.5",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.2.0",
+    "uv>=0.9.26",
+    "wheel>=0.46.3",
+]
+
+# Optional dependency groups for installing torch
+# - Use `pip install .[cpu]` to install CPU-only torch
+# - Use `pip install .[cuda130] --extra-index-url https://download.pytorch.org/whl/cu130` to install CUDA 13.0 build
+[project.optional-dependencies]
+cpu = ["torch", "torchvision"]
+cuda130 = ["torch", "torchvision"]
+
+# Console script to automate torch install: `install-torch` (calls scripts.install_torch:main)
+[project.scripts]
+install-torch = "scripts.install_torch:main"

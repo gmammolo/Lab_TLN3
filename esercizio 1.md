@@ -1,5 +1,6 @@
+scegliere uno dei seguenti punti per il progetto finale del corso:
 1. Integrare risorse eterogenee (es. WordNet + ConceptNet, FrameNet + embeddings) per valutare complementarità.
-2. Estendere o arricchire una risorsa esistente, ad esempio migliorando la copertura semantica dei Property Norms.
+~~~2. Estendere o arricchire una risorsa esistente, ad esempio migliorando la copertura semantica dei Property Norms.~~~
 
 Come criteri di valutazione, verranno presi in esame i seguenti aspetti:
 • Corretta comprensione delle risorse e loro struttura.

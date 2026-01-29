@@ -58,3 +58,26 @@ Sulla base dei risultati ottenuti, provate a rispondere alle seguenti domande:
 
 Questa attività mira a stimolare la consapevolezza delle variazioni definizionali, nonché a introdurre strumenti computazionali per l’analisi del significato e della formulazione del
 linguaggio
+
+
+
+# Slides (spiegano laboratorio in altro modo)
+
+Procedimento: 
+- Calcolo della similarità lessicale (simlex) e semantica (simsem) tra tutte le definizioni create
+- Formula per simlex: ad es. il numero di termini in comune tra le varie definizioni (usando stopword removal, lemmatizzazione, normalizzazione, ecc.) 
+- Formula per simsem: ad es. misura coseno tra word embeddings a scelta vostra 
+- Aggregazione dei valori (simlex e simsem) sulle dimensioni di concretezza e specificità 
+- Ad es. calcolando i valori medi di simlex e simsem tra le definizioni prese due a due (o attraverso altri metodi a vostra scelta) 
+- Analisi dei risultati 
+- Provare a rispondere alle seguenti domande: 
+- La sovrapposizione lessicale è più bassa o più alta rispetto alle vostre aspettative? E quella semantica? C’è variazione tra concetti astratti e concreti? E tra generici e specifici? 
+
+| | Atratto | Concreto |
+|--- | --- | --- |
+| Generico |  - Valore medio simlex - valore medio simsem)      |  - Valore medio simlex - valore medio simsem)   |
+| SPecifico |   - Valore medio simlex - valore medio simsem)   |  - Valore medio simlex - valore medio simsem)   |
+
+Esperimento usando filtri, preprocessing e metriche di sovrapposizione a vostra scelta 
+(es. usando stemming e stopword removal come preprocessing, calcolo frequenze top-k nelle definizioni, ecc.) 
+
