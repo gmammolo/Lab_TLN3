@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "17a2f21d8a6c855de251ecb298ae6d8f8ed73d36",
+    "url": "https://juejin.cn/post/7587322796825870376",
+    "site_full": "juejin.cn",
+    "site": "juejin.cn",
+    "site_section": "https://juejin.cn/rss",
+    "site_categories": [],
+    "section_title": "掘金",
+    "site_title": "稀土掘金",
+    "title": "Python性能翻倍的5个隐藏技巧：让你的代码跑得比同事快50%",
+    "title_full": "Python性能翻倍的5个隐藏技巧：让你的代码跑得比同事快50%",
+    "published": "2025-12-25T06:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 16746,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "17a2f21d8a6c855de251ecb298ae6d8f8ed73d36",
+  "url": "https://juejin.cn/post/7587322796825870376",
+  "ord_in_thread": 0,
+  "author": "阿橙的百宝箱",
+  "published": "2025-12-25T06:16:00.000+02:00",
+  "title": "Python性能翻倍的5个隐藏技巧：让你的代码跑得比同事快50%",
+  "text": "Python性能翻倍的5个隐藏技巧：让你的代码跑得比同事快50%\n引言\nPython因其简洁易读的语法和强大的生态系统而广受欢迎，但在性能方面却常常被人诟病。然而，Python的性能问题并非无解——通过一些鲜为人知的优化技巧，你可以显著提升代码的执行效率。本文将深入探讨5个经过验证的隐藏技巧，帮助你轻松实现性能翻倍，甚至在某些场景下比同事的代码快50%以上。这些技巧涵盖了从数据结构选择到底层优化的多个层面，适合中高级开发者进一步提升代码效率。\n1. 使用内置函数和库替代手动实现\n为什么有效？\nPython的内置函数（如map()\n、filter()\n、sum()\n）和标准库（如collections\n、itertools\n）是用C实现的，执行速度远高于纯Python代码。许多开发者习惯手动实现这些功能，却忽略了内置函数的性能优势。\n示例对比\n# 手动求和\ntotal = 0\nfor num in large_list:\ntotal += num\n# 使用sum()内置函数\ntotal = sum(large_list)\n后者不仅更简洁，而且在处理大规模数据时速度可能快2-3倍。类似的优化还包括：\n- 用\ncollections.defaultdict\n替代字典的手动初始化 - 用\nitertools.chain\n合并多个迭代器而非嵌套循环\n实测数据\n在1000万次加法测试中，sum()\n比手动循环快约60%。\n2. 利用局部变量加速访问\n原理分析\nPython的变量查找遵循LEGB规则（Local → Enclosing → Global → Built-in），局部变量的访问速度最快。将频繁使用的全局变量或类属性赋值给局部变量，可以减少查找时间。\n优化示例\n# 未优化版本\ndef calculate(data):\nresult = []\nfor item in data:\nresult.append(math.sqrt(item) * config.factor) # config.factor是全局变量\n# 优化后版本\ndef calculate(data):\nfactor = config.factor # 局部化全局变量\nsqrt_func = math.sqrt # 避免多次属性查找\nresult = []\nappend = result.append # 方法也转为局部变量\nfor item in data:\nappend(sqrt_func(item) * factor)\n这种优化在循环次数超过10万次时可能带来20%-30%的性能提升。\n3. slots魔法：减少内存占用与加速属性访问\nslots的作用\n默认情况下，Python类的实例使用字典（__dict__\n）存储属性，这带来了灵活性但也增加了内存和访问开销。通过定义__slots__\n，可以固定类的属性列表，节省内存并提升访问速度。\n示例代码\nclass RegularUser:\ndef __init__(self, name, uid):\nself.name = name\nself.uid = uid\nclass SlotUser:\n__slots__ = ['name', 'uid']\ndef __init__(self, name, uid):\nself.name = name\nself.uid = uid\n性能对比\n- 内存占用：在100万个实例的测试中，使用\n__slots__\n可减少40%-50%的内存。 - 访问速度：属性读取速度快约20%。\n注意：仅适用于属性固定的类，且会牺牲动态添加属性的能力。\n4. NumPy/Pandas向量化操作替代循环\n向量化的力量\n对于数值计算任务（如矩阵运算、统计聚合），NumPy和Pandas的底层C/Fortran实现比Python循环高效几个数量级。关键在于避免逐元素操作，转而使用内置的向量化函数。\n典型案例\n# 低效的逐元素平方\nsquares = [x**2 for x in big_list]\n# NumPy向量化版本\nimport numpy as np\narr = np.array(big_list)\nsquares = arr ** 2 # Speedup: ~100x for large arrays\n进阶技巧\n- Pandas的\n.apply()\n仍然较慢，优先使用.map()\n或.transform()\n- NumPy的广播机制（Broadcasting）可避免显式循环\n5. JIT编译：用Numba突破解释器限制\nNumba简介\nNumba是一个JIT（Just-In-Time）编译器，能将Python函数编译为机器码。特别适合数值计算密集型任务（如科学计算、算法核心逻辑）。无需重写代码——只需添加一个装饰器即可获得C级别的速度。\n使用方法\nfrom numba import njit\n@njit(fastmath=True)\ndef monte_carlo_pi(n_samples):\nacc = 0\nfor _ in range(n_samples):\nx, y = np.random.random(), np.random.random()\nif (x**2 + y**2) < 1.0:\nacc +=1\nreturn4 * acc / n_samples\n# First run includes compilation time\npi_estimate=monte_carlo_pi(1000000)# Subsequent calls are极速执行!\n性能收益\n在蒙特卡洛模拟等场景下,Numba可提速100倍以上(对比纯Python实现)。\n###总结\n这五个技巧覆盖了从语言特性(slots\n,局部变量)到工具链(Numba,NumPy)的多维度优化手段:\n1.优先使用内置函数/库 2.局部化频繁访问的变量 3.对固定属性类启用slots 4.数值计算务必向量化 5.关键路径考虑JIT编译\n需要强调的是:优化前务必先用cProfile定位瓶颈!盲目应用这些技术可能导致代码可读性下降却收效甚微。\n当你将这些方法组合使用时,完全可能在保持Python开发效率的同时,让关键代码段的性能匹敌C/Java实现—这才是真正的\"全栈Python\"高手之道!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T07:58:37.971+02:00",
+  "updated": "2025-12-25T08:04:26.000+02:00"
+}

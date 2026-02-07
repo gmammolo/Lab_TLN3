@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "8789896058e0c2fa7471c3eef33e845420d5be79",
+    "url": "https://www.androidheadlines.com/2024/04/android-15-will-enable-lock-screen-widgets-for-tablets.html",
+    "site_full": "www.androidheadlines.com",
+    "site": "androidheadlines.com",
+    "site_section": "http://www.androidheadlines.com/feed",
+    "site_categories": [
+      "cell_phones",
+      "tech",
+      "palmtops_pdas"
+    ],
+    "section_title": "Android Headlines",
+    "title": "Android 15 will enable lock screen widgets for tablets",
+    "title_full": "Android 15 will enable lock screen widgets for tablets",
+    "published": "2024-04-12T01:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Google-Pixel-Tablet-Review-AM-AH2.jpg",
+    "performance_score": 0,
+    "domain_rank": 8546,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8789896058e0c2fa7471c3eef33e845420d5be79",
+  "url": "https://www.androidheadlines.com/2024/04/android-15-will-enable-lock-screen-widgets-for-tablets.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Justin Diaz",
+  "published": "2024-04-12T01:29:00.000+03:00",
+  "title": "Android 15 will enable lock screen widgets for tablets",
+  "text": "Android 15 will enable lock screen widgets for tablets By Justin Diaz April 11, 2024 Android 15 is going to be introducing some nifty new tricks for users, and one of those tricks is going to be enabling the ability to set up widgets on the lock screen. Putting widgets on the lock screen isn’t something that you’ve been able to do in Android natively in quite some time. However, that will be changing soon. The caveat, and it’s a big caveat, is who will be able to use this (old) new feature.\nWith Android 15 lock screen widgets will be available, but only for tablets, it seems. According to Mishaal Rahman , lock screen widgets will be available for Android tablet users in Android 15 using devices like the Pixel Tablet. Presumably with the final rollout coming later this year. Android 15’s first beta was released today and in it, Rahman was able to find some strings of code that reference lock screen widgets for hub mode. This is something you’ll find on the Pixel Tablet, so it’s possible that this will be available for the Pixel Tablet only at first. Advertisement Advertisement\nBut there is a possibility that smartphones might be able to surface widgets on the lock screen at some point. As Rahman notes, Google may end up using its At A Glance view on the lock screen to get widgets to surface. There’s no indication when or if this would happen, though. At least not in this current version of the software.\nImage Credit: Mishaal Rahman (Android Authority)\nAndroid 15 will have a toggle for enabling more widget options Part of the information found in the code of this beta were toggles that impact how widgets work. Or more specifically which widgets you’ll be able to add. There’s a toggle for “allowing any widget on the lock screen” that will give you more options. When disabled, it gives you access to Battery, Calendar, Clock, Drive, Fitbit, Gmail, Google, Google News, Photos, and Pixel Weather. A sizeable list to start. And likely all widgets that Google feels would fit well on the lock screen.\nIf you enable the “any” toggle it adds about 7 more widgets. These are Chrome, contacts, Digital Wellbeing, Google TV, Google Keep , Translate, and YouTube Music. Users will have the option to show widgets on the lock screen even without unlocking the tablet. It’s quite possible that more widget options will pop up over time, once this feature is fully available and natively part of the OS. Although this is something that developers will probably have to implement.\nImage Credit: Mishaal Rahman (Android Authority)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://www.androidauthority.com/android-15-widgets-on-lock-screen-3433406/",
+    "https://www.androidauthority.com/android-15-widgets-on-lock-screen-3433406",
+    "https://androidauthority.com/android-15-widgets-on-lock-screen-3433406/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "justin diaz",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mishaal rahman",
+        "sentiment": "none"
+      },
+      {
+        "name": "rahman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "pixel tablet",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T01:39:35.501+03:00",
+  "updated": "2024-04-25T00:31:01.606+03:00"
+}

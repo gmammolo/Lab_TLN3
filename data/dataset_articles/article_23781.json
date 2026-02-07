@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "10ca89872bef01f4e0f5c460f5e1e429df543497",
+    "url": "https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2170",
+    "site_full": "egusphere.copernicus.org",
+    "site": "copernicus.org",
+    "site_section": "https://egusphere.copernicus.org",
+    "site_categories": [],
+    "section_title": "EGUsphere - Recently posted",
+    "title": "EGUsphere - Uncertainty quantification for overshoots of tipping thresholds",
+    "title_full": "EGUsphere - Uncertainty quantification for overshoots of tipping thresholds",
+    "published": "2024-07-19T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.egusphere.net/EGUSphere_Graphic_preprints_twitter_avatar_600x335px.png",
+    "performance_score": 0,
+    "domain_rank": 3196,
+    "domain_rank_updated": "2024-07-16T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "10ca89872bef01f4e0f5c460f5e1e429df543497",
+  "url": "https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2170",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lux-Gottschalk, Kerstin Monika",
+  "published": "2024-07-19T03:00:00.000+03:00",
+  "title": "EGUsphere - Uncertainty quantification for overshoots of tipping thresholds",
+  "text": "Uncertainty quantification for overshoots of tipping thresholds Abstract. Many subsystems of the Earth are at risk of undergoing abrupt transitions from their current stable state to a drastically different, and often less desired, state due to anthropogenic climate change. These so-called tipping events often present severe consequences for ecosystems and human livelihood that are difficult to reverse. One common mechanism for tipping to occur is via forcing a nonlinear system beyond a critical threshold that signifies self-amplifying feedbacks inducing tipping. However, previous work has shown that it is possible to briefly overshoot a critical threshold and avoid tipping. For some cases, the peak overshoot distance and the time a system can spend beyond a threshold are governed by an inverse square law relationship Ritchie et al. (2019). In the real world or complex models, critical thresholds and other system features are highly uncertain. In this work, we look at how such uncertainties affect the probability of tipping from the perspective of uncertainty quantification. We show the importance of constraining uncertainty in the location of the critical threshold and the linear restoring rate to the system’s stable state to better constrain the location of the boundary separating overshoots that avoid tipping from those that do not. We first prototypically analyse effects of an uncertain critical threshold location separately from effects due to an uncertain linear restoring rate. We then perform an analysis of joint effects of uncertain system characteristics within a conceptual model for the Atlantic Meridional Overturning Circulation (AMOC). The simple box model for the AMOC shows that these uncertainties have the potential to reverse conclusions for mitigation pathways. If the uncertain critical threshold were to be further away than previously considered, a pathway that may have been in danger of tipping, may no longer involve an overshoot at all. In our study, we highlight the need to constrain the highly uncertain diffusive timescale (representative of wind-driven fluxes) within the box model to reduce tipping uncertainty for overshoot scenarios of the AMOC. Status: open (until 30 Aug 2024) Viewed Viewed (geographical distribution) |Country||#||%| |Total:||0| |HTML:||0| |PDF:||0| |XML:||0| - 1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ritchie",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-07-19T13:00:14.734+03:00",
+  "updated": "2024-07-26T15:40:39.310+03:00"
+}

@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "232aae45027f0934a94a3aaeb38157f72759801e",
+    "url": "https://mspoweruser.com/onedrive-shared-folder-showing-as-internet-shortcut-youre-not-the-only-one",
+    "site_full": "mspoweruser.com",
+    "site": "mspoweruser.com",
+    "site_section": "https://www.mspoweruser.com",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "MSPoweruser - Microsoft and Technology News",
+    "title": "OneDrive shared folder showing as internet shortcut? You’re not the only one",
+    "title_full": "OneDrive shared folder showing as internet shortcut? You’re not the only one",
+    "published": "2024-11-22T12:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10647,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "232aae45027f0934a94a3aaeb38157f72759801e",
+  "url": "https://mspoweruser.com/onedrive-shared-folder-showing-as-internet-shortcut-youre-not-the-only-one",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rafly Gilang",
+  "published": "2024-11-22T12:15:00.000+02:00",
+  "title": "OneDrive shared folder showing as internet shortcut? You’re not the only one",
+  "text": "Microsoft still hasn’t fixed the bug that causes the OneDrive shared folder to show as an internet shortcut, despite being alerted by users almost half a year ago.\nAs the company notes on the support page , some OneDrive shared folder shortcuts in the “My Files” section appear as .url internet shortcuts instead of actual folders. When attempting to open them, you’ll be redirected to a webpage and may be prompted to sign in, rather than accessing the folder.\nIt’s an annoying major bug indeed. But, as annoying as it gets, what’s more annoying is how Microsoft still hasn’t said anything about its fix for half a year since the bug first started to appear.\nA long discussion on the Microsoft Community forum from June 2024 details how this issue impacts both personal and business accounts, with many users expressing concerns about being unable to access their data directly, especially for tasks that require local access, such as running scripts.\nThat was weeks and months ago, and now, many are still returning to the thread to express frustration that Microsoft has still not provided a fix. Ouch.\n“The issue is not that a major bug is present and known. The issue is that a major bug is present and hasn’t been fixed for nearly 6 months. This seems like a major lapse in quality and possibly care,” says a user on X who tipped us on this development.\nThe exact cause isn’t clear . Some users think it might be connected to Windows 11 version 22H2, but others haven’t had the issue with that version. There’s also a chance that a recent update (KB5037853) could be involved, but it’s not confirmed.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/Mike_E_angelo/status/1859879776481075563",
+    "https://support.microsoft.com/en-us/office/add-and-sync-shared-folders-to-onedrive-for-home-8a63cd47-1526-4cd8-bd09-ee3f9bfc1504#bkmk_shortcuts",
+    "https://answers.microsoft.com/en-us/msoffice/forum/all/onedrive-shared-folders-are-now-a-url-shortcut-i/9cf793c2-c66a-4ebd-b740-2e8485831266?page=12",
+    "https://answers.microsoft.com/en-us/msoffice/forum/all/onedrive-shared-folders-are-now-a-url-shortcut-i/9cf793c2-c66a-4ebd-b740-2e8485831266",
+    "https://www.x.com/Mike_E_angelo/status/1859879776481075563",
+    "https://www.answers.microsoft.com/en-us/msoffice/forum/all/onedrive-shared-folders-are-now-a-url-shortcut-i/9cf793c2-c66a-4ebd-b740-2e8485831266",
+    "https://www.support.microsoft.com/en-us/office/add-and-sync-shared-folders-to-onedrive-for-home-8a63cd47-1526-4cd8-bd09-ee3f9bfc1504#bkmk_shortcuts",
+    "https://answers.microsoft.com/en-us/msoffice/forum/all/onedrive-shared-folders-are-now-a-url-shortcut-i/9cf793c2-c66a-4ebd-b740-2e8485831266",
+    "https://www.answers.microsoft.com/en-us/msoffice/forum/all/onedrive-shared-folders-are-now-a-url-shortcut-i/9cf793c2-c66a-4ebd-b740-2e8485831266?page=12"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T14:50:53.645+02:00",
+  "updated": "2024-11-22T14:50:53.645+02:00"
+}

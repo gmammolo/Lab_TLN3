@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "d958f294b134a29fc3108a4a5382cf653eb74d8b",
+    "url": "https://www.earth.com/news/new-era-in-forecasting-ai-will-improve-extreme-weather-warnings",
+    "site_full": "www.earth.com",
+    "site": "earth.com",
+    "site_section": "https://www.earth.com/news/short-term-pollution-claims-more-than-one-million-lives-per-year",
+    "site_categories": [
+      "tech",
+      "web_clip_art"
+    ],
+    "section_title": "Short-term pollution claims more than one million lives per year - Earth.com",
+    "title": "New era in forecasting: AI will improve extreme weather warnings",
+    "title_full": "New era in forecasting: AI will improve extreme weather warnings",
+    "published": "2024-10-13T17:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cff2.earth.com/uploads/2024/10/13081901/Weather-forecasting.jpg",
+    "performance_score": 0,
+    "domain_rank": 12178,
+    "domain_rank_updated": "2024-10-08T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d958f294b134a29fc3108a4a5382cf653eb74d8b",
+  "url": "https://www.earth.com/news/new-era-in-forecasting-ai-will-improve-extreme-weather-warnings",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sanjana Gajbhiye",
+  "published": "2024-10-13T17:21:00.000+03:00",
+  "title": "New era in forecasting: AI will improve extreme weather warnings",
+  "text": "Weather forecasting is a tricky business. We rely on it to plan our daily activities, prepare for natural disasters, and even to decide what to wear each day. Yet, despite advances in technology, we only get forecasts about 10 days into the future. Why so? Small changes in atmospheric and surface conditions can trigger larger, unpredictable shifts in weather patterns. For example, consider the devastating Pacific Northwest heat wave in June 2021. Power lines melted, crops were destroyed, and hundreds of people lost their lives. A longer lead time on forecasts could have helped communities better prepare for the extreme heat. Weather scientists commonly turn to adjoint models to gauge how susceptible a forecast is to errors in initial conditions. Ever wondered how a slight tweak in temperature or atmospheric water vapor can alter forecast results? These models help answer that. They clarify the linkage between initial conditions and forecasted errors. Thus, scientists can adjust until they discover the set of initial conditions that yield the most accurate forecast. However, there is a hitch. Running these models demands substantial financial and computing resources. And they can only measure sensitivities up to five days ahead. Researchers in the Department of Atmospheric Sciences at the University of Washington have been exploring whether deep learning could offer an efficient and more precise method to determine the optimal set of initial conditions for a 10-day forecast. To test their hypothesis, the experts modeled forecasts of the disastrous June 2021 Pacific Northwest heat wave. They utilized two different forecasting models: Google DeepMind’s GraphCast model and Huawei Cloud’s Pangu-Weather model. The scientists wanted to check if the models operated similarly and how they stacked up against the actual events of the heat wave . To ensure unbiased results, they excluded the heat wave data from the dataset used to train the models. The researchers carried out a rigorous comparison between the output of the GraphCast and Pangu-Weather models and actual meteorological data from the period of the June 2021 heat wave. They focused on the accuracy of temperature predictions, the models’ ability to anticipate extreme conditions, and their computational efficiency. Preliminary results revealed that both models exhibited a high degree of accuracy, with Pangu-Weather displaying a slight edge in long-term temperature prediction. The advanced models showed promising potential in enhancing forecast accuracy and retiming their delivery, offering valuable insights for emergent situations such as heat waves. The implementation of deep learning models like GraphCast and Pangu-Weather marks a pivotal shift in the realm of meteorology, promising more accurate and timely forecasts. Yet, challenges persist, particularly in ensuring these models can process vast datasets in real-time scenarios and integrate seamlessly into existing forecasting frameworks. Additionally, there is a growing need for collaboration between meteorologists, data scientists, and policymakers to maximize the utility of these technological advancements. As research continues to unfold, these novel approaches hold the potential to revolutionize weather forecasting, resulting in better community preparedness and resilience against climate anomalies. Scaling deep learning approaches for global weather forecasts requires a comprehensive strategy to manage data heterogeneity, computational intensity, and energy consumption. The vast and varied data sources – from satellite imagery to oceanic sensor readings – demand that models harmonize inputs with differing resolutions and formats. The computational power needed to handle such voluminous and diverse datasets is substantial, raising concerns about environmental impact due to energy-intensive processes. Consequently, researchers are exploring energy-efficient algorithms and innovative hardware solutions to mitigate these challenges. Additionally, there is a critical need for robust validation frameworks to ensure these models’ generalizability across diverse climatic regions and conditions. The integration of artificial intelligence in weather forecasting introduces several ethical considerations that warrant careful examination. Predominantly, the question of data privacy emerges, as intricate datasets often include sensitive geolocation information. Additionally, there is an inherent risk of algorithmic bias, where disparities in data collection can skew predictions, disproportionately affecting certain populations or regions. Transparency and accountability in AI decision-making processes are imperative to ensure equitable access to advanced forecasting technologies . The results were nothing short of astonishing. Employing deep learning to pinpoint optimal initial conditions led to a massive 94% reduction in 10-day forecast errors in the GraphCast model. A similar drop in errors was noted when the method was applied to the Pangu-Weather model. Remarkably, the new technique improved forecasts as much as 23 days in advance. So, do we stand at the threshold of a new era in weather forecasting? Can we look forward to forecasts that are not just more accurate, but also offer longer lead times? If the findings are any indication, this might not be too far off. The study is published in the journal Geophysical Research Letters . —– Like what you read? Subscribe to our newsletter for engaging articles, exclusive content, and the latest updates. Check us out on EarthSnap , a free app brought to you by Eric Ralls and Earth.com. —–",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Weather",
+    "Science and Technology",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://atmos.uw.edu)",
+    "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL110651).",
+    "https://www.agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL110651).",
+    "https://www.atmos.uw.edu)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-13T18:02:24.071+03:00",
+  "updated": "2024-10-13T19:01:36.636+03:00"
+}

@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "c785a8ea46ae0cc72a4df5fabb9163a2f658663d",
+    "url": "https://news.knowledia.com/in/en/articles/chrome-extensions-are-abusing-google-s-lousy-security-policies-to-come-5ff4846a7f06b2870ccda485d75a960e6c47f7c0",
+    "site_full": "news.knowledia.com",
+    "site": "knowledia.com",
+    "site_section": "https://news.knowledia.com/in/en",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Knowledia News",
+    "title": "Chrome extensions are abusing Google's lousy security policies to come first in search results",
+    "title_full": "Chrome extensions are abusing Google's lousy security policies to come first in search results",
+    "published": "2025-01-10T09:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 73073,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c785a8ea46ae0cc72a4df5fabb9163a2f658663d",
+  "url": "https://news.knowledia.com/in/en/articles/chrome-extensions-are-abusing-google-s-lousy-security-policies-to-come-5ff4846a7f06b2870ccda485d75a960e6c47f7c0",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alfonso Maruccia",
+  "published": "2025-01-10T09:24:00.000+02:00",
+  "title": "Chrome extensions are abusing Google's lousy security policies to come first in search results",
+  "text": "Despite the forced transition to Manifest V3, Chrome extensions remain as dangerous and malicious as ever. Rogue developers can disguise their creations as legitimate extensions still using... Editor's take: The Chrome Web Store offers numerous tools for extension developers to publish and promote their creations. However, what it should not enable is the misuse of these tools to provide authors with manipulative tactics that push extensions in unexpected or inappropriate contexts.\nthe older Manifest V2 technology or exploit Chrome Web Store's translation system to appear in unrelated search results by Chrome users.\nThis latest tactic was recently discovered by security researcher Wladimir Palant, who detailed his findings in an eye-opening post. While searching for the \"Norton Password Manager\" extension on the Chrome Web Store, Palant encountered numerous seemingly unrelated results. Upon investigating, he…\nAlfonso Maruccia",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.techspot.com/news/106274-chrome-extensions-abusing-google-lousy-security-policies-come.html",
+    "https://techspot.com/news/106274-chrome-extensions-abusing-google-lousy-security-policies-come.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alfonso Maruccia",
+        "sentiment": "none"
+      },
+      {
+        "name": "Wladimir Palant",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:08:11.724+02:00",
+  "updated": "2025-01-10T10:08:11.724+02:00"
+}

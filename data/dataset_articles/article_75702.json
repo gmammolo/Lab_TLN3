@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "cef34284b5652578e1dc679e5be7fab91c52dd04",
+    "url": "https://yro.slashdot.org/story/25/01/09/2116231/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyright-works-filing-claims",
+    "site_full": "yro.slashdot.org",
+    "site": "slashdot.org",
+    "site_section": "https://events.slashdot.org",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Slashdot: News for nerds, stuff that matters",
+    "title": "Mark Zuckerberg Gave Meta's Llama Team the OK To Train On Copyright Works, Filing Claims - Slashdot",
+    "title_full": "Mark Zuckerberg Gave Meta's Llama Team the OK To Train On Copyright Works, Filing Claims - Slashdot",
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://a.fsdn.com/sd/topics/facebook_64.png",
+    "performance_score": 0,
+    "domain_rank": 628,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cef34284b5652578e1dc679e5be7fab91c52dd04",
+  "url": "https://yro.slashdot.org/story/25/01/09/2116231/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyright-works-filing-claims",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "BeauHD",
+  "published": "2025-01-09T02:00:00.000+02:00",
+  "title": "Mark Zuckerberg Gave Meta's Llama Team the OK To Train On Copyright Works, Filing Claims - Slashdot",
+  "text": "[use a dataset of pirated ebooks and articles for training](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/). They further accuse the company of concealing its actions by stripping copyright information and torrenting the data. TechCrunch reports: In\n[newly unredacted documents filed](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf)(PDF) with the U.S. District Court for the Northern District of California late Wednesday, plaintiffs in Kadrey v. Meta, who include bestselling authors Sarah Silverman and Ta-Nehisi Coates, recount Meta's testimony from late last year, during which it was revealed that Zuckerberg approved Meta's use of a data set called LibGen for Llama-related training. LibGen, which describes itself as a \"links aggregator,\" provides access to copyrighted works from publishers including Cengage Learning, Macmillan Learning, McGraw Hill, and Pearson Education. LibGen has been sued a number of times, ordered to shut down, and fined tens of millions of dollars for copyright infringement.\nAccording to Meta's testimony, as relayed by plaintiffs' counsel, Zuckerberg cleared the use of LibGen to train at least one of Meta's Llama models despite concerns within Meta's AI exec team and others at the company. The filing quotes Meta employees as referring to LibGen as a \"data set we know to be pirated,\" and flagging that its use \"may undermine [Meta's] negotiating position with regulators.\" The filing also cites a memo to Meta AI decision-makers noting that after \"escalation to MZ,\" Meta's AI team \"[was] approved to use LibGen.\" (MZ, here, is rather obvious shorthand for \"Mark Zuckerberg.\")\nThe details seemingly line up with reporting from\n[The New York Times](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html)last April, which suggested that Meta cut corners to gather data for its AI. At one point, Meta was hiring contractors in Africa to aggregate summaries of books and considering buying the publisher Simon & Schuster, according to the Times. But the company's execs determined that it would take too long to negotiate licenses and reasoned that fair use was a solid defense. The filing Wednesday contains new accusations, like that Meta might've tried to conceal its alleged infringement by stripping the LibGen data of attribution.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->media and entertainment industry",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/",
+    "https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html",
+    "https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf",
+    "https://nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html",
+    "https://www.techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/",
+    "https://www.storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf",
+    "https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mark Zuckerberg Gave Meta",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Ta-Nehisi Coates",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sarah Silverman",
+        "sentiment": "none"
+      },
+      {
+        "name": "McGraw Hill",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Macmillan Learning",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pearson Education",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:25:46.357+02:00",
+  "updated": "2025-01-10T01:25:46.357+02:00"
+}

@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "e1cc910f26f88635a42acf127928c726a220c51c",
+    "url": "https://dev.to/ajones_codes/how-to-use-function-calling-with-openais-new-tools-feature-to-solve-word-problems-5146",
+    "site_full": "dev.to",
+    "site": "dev.to",
+    "site_section": "https://dev.to/feed",
+    "site_categories": [
+      "javascript",
+      "tech",
+      "databases"
+    ],
+    "section_title": "DEV Community",
+    "title": "How to Use Function Calling with OpenAI's new Tools Feature to Solve Word Problems",
+    "title_full": "How to Use Function Calling with OpenAI's new Tools Feature to Solve Word Problems",
+    "published": "2024-01-05T23:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cuWiVF8W--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4yrii0rpw13pgtsf99la.png",
+    "performance_score": 0,
+    "domain_rank": 1892,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e1cc910f26f88635a42acf127928c726a220c51c",
+  "url": "https://dev.to/ajones_codes/how-to-use-function-calling-with-openais-new-tools-feature-to-solve-word-problems-5146",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Andrew Jones",
+  "published": "2024-01-05T23:45:00.000+02:00",
+  "title": "How to Use Function Calling with OpenAI's new Tools Feature to Solve Word Problems",
+  "text": "With the launch of OpenAI's Assistants, the Function Calling system previously built into the openai SDK was deprecated and replaced with tools. The tools parameter allows developers to call OpenAI hosted tools, like file retrieval and code interpreter, and allows us to define custom tools that our own code handles, using function calling. This allows us to add powerful functionality to our AI applications, because traditional code has different strengths from LLMs - such as mathematical operations, asynchronous requests for data, and more. However, the new Tools system has some different nuances from the old method of Function Calling. This guide shows how to use function calling with the Tools system. [ ](https://dev.to#goals) Goals As a demonstration, we'll make an AI tool that can solve word problems. The flow will look like this: - We'll use the GPT API to understand the word problems and output the needed mathematical expression as a function call, as well as units for the answer. LLMs are great for this purpose due to semantic understanding of natural language. - Our code will call a mathematical expression solver (JS library) using the output from step 1. - We'll ask the LLM to generate a complete sentence to solve the problem, given the answer from step 2 and units from step #1 (remember your middle school math teacher docking points when you didn't answer a word problem with a complete sentence?) [ ](https://dev.to#tutorial) Tutorial First, setup a project: mkdir word-problem-solver && cd word-problem-solver npm init npm i openai math-expression-evaluator Create a file such as solve.js in your project folder, and set up the API client and expression solver: const OpenAI = require(\"openai\"); const MathExp = require(\"math-expression-evaluator\"); const mathExp = new MathExp(); const openai = new OpenAI({ apiKey: \"sk-...\", //replace with your API key }); Next, we need to design our schema for function calling. I used [functioncalling.ai](https://www.functioncalling.ai), a tool I developed for this purpose, for this step - though this is entirely optional. You can run tests on sample word problems or even allow it to generate tests for you. In the end, my schema looked like this: [ { type: \"function\", function: { name: \"calculate\", description: \"Use math-expression-evaluator to simplify an expression to solve the word problem\", parameters: { type: \"object\", properties: { expression: { type: \"string\", description: \"the mathematical expression to simplify to solve the word problem. DO NOT include any units.\", }, answerUnit: { type: \"string\", description: \"unit for the answer to the word problem, if applicable\", }, }, required: [\"expression\", \"answerUnit\"], }, }, }, ] Paste that into your code as a constant: const GPT_TOOLS = [...] You could add additional tools by adding to the tools array, following [OpenAI's docs for other types of tools](https://platform.openai.com/docs/assistants/tools), or adding more functions with similar schemas. Next, we'll create a main async function and a messages array to track our conversation: const main = async () => { const messages = [ { role: \"user\", content: \"13 candy bars weigh 26 oz. How much would 35 candy bars weigh?\", }, ] } main(); Our first call is where gpt-4 will pick the function to call (which must be calculate or none, since we only have one function), and output the expression to simplify, and the units for our answer. Make sure to push all messages to the messages array to maintain context throughout the conversation. const chatCompletionForFunction = await openai.chat.completions.create({ messages, model: \"gpt-4\", // using gpt-4 for highest accuracy tools: GPT_TOOLS, tool_choice: \"auto\", temperature: 0.25, }); messages.push(chatCompletionForFunction.choices[0].message); Next we'll add handling for the output of the tool selection / function calling. We need to track the tool_call_id, which OpenAI uses to provide proper context for further messages - this is one of the key differences from the old function calling system. const tool_call_id = chatCompletionForFunction.choices[0].message.tool_calls[0].id; const function_to_call = chatCompletionForFunction.choices[0].message.tool_calls[0].function.name; if (function_to_call === \"calculate\") { const generatedParams = JSON.parse( chatCompletionForFunction.choices[0].message.tool_calls[0].function .arguments ); const expression = generatedParams.expression; const answerUnit = generatedParams.answerUnit; } Finally, we'll actually simplify the expression, and use the LLM to write a people-friendly response: const expression = generatedParams.expression; const answerUnit = generatedParams.answerUnit; const lexed = mathExp.lex(expression); const postfixed = mathExp.toPostfix(lexed); const answer = mathExp.postfixEval(postfixed); // Add two messages, one to tell the LLM the output of the tool, and one to prompt it to generate a complete answer. messages.push( { role: \"tool\", tool_call_id, name: function_to_call.name, content: `${answer} ${answerUnit}`, }, { role: \"user\", content: `Given the expression ${expression}, the answer is ${answer} ${answerUnit}. Write a complete sentence to answer the word problem.`, } ); const chatCompletion = await openai.chat.completions.create({ messages, model: \"gpt-3.5-turbo-1106\", // using GPT-3.5 for a lower cost since this is an \"easy\" step temperature: 0.4, }); messages.push(chatCompletion.choices[0].message); // only needed if we intent to continue the conversation, but included here for completeness console.log(chatCompletion.choices[0].message.content); } Now we can run the code, and you should see output like: 35 candy bars would weigh 70 oz. Voila! Next try different word problems in the prompt, or turn this into an interactive CLI with Node's readline, or try adding more functions, or try implementing function calling in your own projects! [ ](https://dev.to#complete-code) Complete code const OpenAI = require(\"openai\"); const MathExp = require(\"math-expression-evaluator\"); const mathExp = new MathExp(); const openai = new OpenAI({ apiKey: \"sk-...\", // YOUR API KEY }); const GPT_TOOLS = [ { type: \"function\", function: { name: \"calculate\", description: \"Use math-expression-evaluator to simplify an expression to solve the word problem\", parameters: { type: \"object\", properties: { expression: { type: \"string\", description: \"the mathematical expression to simplify to solve the word problem. DO NOT include any units.\", }, answerUnit: { type: \"string\", description: \"unit for the answer to the word problem, if applicable\", }, }, required: [\"expression\", \"answerUnit\"], }, }, }, ]; const main = async () => { const messages = [ { role: \"user\", content: \"13 candy bars weigh 26 oz. How much would 35 candy bars weigh?\", }, ]; const chatCompletionForFunction = await openai.chat.completions.create({ messages, model: \"gpt-4\", tools: GPT_TOOLS, tool_choice: \"auto\", temperature: 0.25, }); messages.push(chatCompletionForFunction.choices[0].message); const tool_call_id = chatCompletionForFunction.choices[0].message.tool_calls[0].id; const function_to_call = chatCompletionForFunction.choices[0].message.tool_calls[0].function.name; if (function_to_call === \"calculate\") { const generatedParams = JSON.parse( chatCompletionForFunction.choices[0].message.tool_calls[0].function .arguments ); const expression = generatedParams.expression; const answerUnit = generatedParams.answerUnit; const lexed = mathExp.lex(expression); const postfixed = mathExp.toPostfix(lexed); const answer = mathExp.postfixEval(postfixed); messages.push( { role: \"tool\", tool_call_id, name: function_to_call.name, content: `${answer} ${answerUnit}`, }, { role: \"user\", content: `Given the expression ${expression}, the answer is ${answer} ${answerUnit}. Write a complete sentence to answer the word problem.`, } ); const chatCompletion = await openai.chat.completions.create({ messages, model: \"gpt-3.5-turbo-1106\", temperature: 0.4, }); messages.push(chatCompletion.choices[0].message); // not needed in this use case but included for completeness console.log(chatCompletion.choices[0].message.content); } }; main();",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Education"
+  ],
+  "external_links": [
+    "https://platform.openai.com/docs/assistants/tools",
+    "https://www.functioncalling.ai",
+    "https://www.platform.openai.com/docs/assistants/tools",
+    "https://functioncalling.ai"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "sdk",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-06T00:28:08.644+02:00",
+  "updated": "2024-01-06T06:15:18.291+02:00"
+}

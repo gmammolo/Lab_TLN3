@@ -1,0 +1,141 @@
+{
+  "thread": {
+    "uuid": "118cf3d2392ce867815944189bde3a9bef578b39",
+    "url": "https://www.csoonline.com/article/4042464/enterprise-passwords-becoming-even-easier-to-steal-and-abuse.html",
+    "site_full": "www.csoonline.com",
+    "site": "csoonline.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": "CSO Online | Security at the speed of business",
+    "title": "Enterprise passwords becoming even easier to steal and abuse | CSO Online",
+    "title_full": "Enterprise passwords becoming even easier to steal and abuse | CSO Online",
+    "published": "2025-08-20T05:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.csoonline.com/wp-content/uploads/2025/08/4042464-0-14066100-1755759698-shutterstock_1364908688.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 2787,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "118cf3d2392ce867815944189bde3a9bef578b39",
+  "url": "https://www.csoonline.com/article/4042464/enterprise-passwords-becoming-even-easier-to-steal-and-abuse.html",
+  "ord_in_thread": 0,
+  "author": "John Leyden",
+  "published": "2025-08-20T05:15:00.000+03:00",
+  "title": "Enterprise passwords becoming even easier to steal and abuse | CSO Online",
+  "text": "More effective cracking, continued reliance on weak or outdated policies, and security controls against credential leaks being increasingly undermined.\nCredit: akf ffm / Shutterstock Enterprise passwords are becoming easier to steal and increasingly difficult to stop being abused once they leak.\nAccording to the Picus Security’s latest annual Blue Report , based on more than 160 million real-world attack simulations, at least one password hash was cracked in 46% of tested environments — up from 25% in 2024.\nThe rise highlights continued reliance on weak or outdated password policies, Picus concluded.\nSıla Özeren , security research engineer at Picus Security, tells CSO that attackers are getting faster and smarter while many organizations have failed to improve password security practices.\n“There are still too many environments that allow weak or even old passwords — even for privileged accounts — with no force of rotation or complexity,” Özeren says. “And even when there are strong policies, they are very old or only enforced sporadically.”\nDespite years of awareness campaigns , users continue to rely on weak, reused, and easily guessable passwords — a challenge amplified by the growing architectural complexity of the modern enterprise.\n“Identities are fragmented across many on-prem systems, cloud applications, and services,” explains Ivan Milenkovic, vice president of risk technology for EMEA at cloud security vendor Qualys. “This decentralization makes visibility and consistent policy enforcement incredibly difficult, expanding the potential attack surface.”\nCracks in enterprise defenses Attackers are becoming more effective at cracking passwords, using GPU-accelerated brute-forcing, rainbow tables, and infostealer malware to harvest credentials at scale while techniques such as password spraying enable attackers to avoid triggering account lockouts. These methods exploit weak or reused passwords and flaws in how hashes are stored, making it easier to gain valid logins.\n“Storing passwords using old methods such as MD5 or SHA-1 is no longer sufficient,” Picus Security’s Özeren says. “New standards such as bcrypt, Argon2, or scrypt slow down brute-force attacks.”\nStrong hashing should also be combined with salt, a random value unique to each password, and pepper, a secret key stored away from the password. “Without these, an attacker can use rainbow tables and other shortcuts to crack hashes at scale,” he says.\nMatthew Bell , founder of cybersecurity and software development firm Cyber Protection Group, adds: “Too many organizations still rely on weak complexity rules, outdated hashing methods, and static password policies. This leaves the door wide open to credential-based attacks, which are one of the most successful initial access vectors.”\nIndependent experts quizzed by CSO agree that advances in password cracking were an issue while arguing that attacks based on stolen credentials were an even larger threat .\n“While brute-force cracking is a concern, especially for older systems or those still storing hashes in less secure ways, many breaches today start with stolen credentials, often harvested through phishing or social engineering, and then abused via credential stuffing ,” notes Paul Kenny , vice president of customer success for EMEA and APAC at digital identity and security company Daon.\n“Attackers don’t really need to ‘crack’ a password if they can trick someone into handing it over,” he adds.\nRoddy Bergeron , cybersecurity technical fellow at Sherweb, a vendor that works with MSPs to deliver security services, believes attackers are not so much better at cracking passwords but getting better at phishing and social engineering .\n“We’re also still seeing massive amounts of credentials getting leaked due to poor security practices such as customer databases storing plain text passwords and credentials being hardcoded into applications,” Bergeron says. “Defenses exist for these attacks, but they are either not properly invested in or rely on people to follow proper procedures.”\nGrowing threat from stolen credentials Attackers actively target user credentials because they offer the most direct route or foothold into a targeted organization’s network. Once inside, attackers can move laterally across systems, searching for other user accounts to compromise, or they attempt to escalate their privileges and gain administrative control.\nThis hunt for credentials extends beyond user accounts to include code repositories, where developers may have hard-coded access keys and other secrets into application source code.\nAttacks using valid credentials were successful 98% of the time, according to Picus Security.\nPicus Security’s Blue Report also found that data exfiltration attempts were stopped only 3% of the time, down from 9% in 2024. That statistic is particularly bad news at a time when ransomware operators are ramping up double-extortion attacks based on threats to leak compromised information alongside demands for compromised companies to pay in order to regain access to hacked systems.\n“This suggests that even when attackers are detected, response mechanisms are either too slow, poorly integrated or simply ineffective at stopping the damage,” says Cyber Protection Group’s Bell.\nQualys’ Milenkovic argues that organizations should be deploying a range of defensive strategies to protect digital identities.\n“ Multi-factor authentication (MFA) is now considered a baseline control, adding a crucial verification layer beyond a simple password,” Milenkovic tells CSO. “This is often supplemented by user behavior analytics, which can flag anomalous activity indicative of a compromised account.”\nDarren Guccione , CEO and co-founder of zero-trust password management and encryption vendor Keeper Security, says that legacy complexity rules, such as forcing periodic password changes or minor character substitutions offer “little resistance” against modern brute-force and dictionary attacks.\n“Defenses must evolve to include comprehensive credential lifecycle management, privileged access controls and real-time anomaly detection,” Guccione says. “The adoption of phishing-resistant authentication methods, such as passkeys , can also significantly reduce the risk of compromised credentials being exploited and prevent lateral movement in the event of a breach.”\nKevin Curran , IEEE senior member and professor of cybersecurity at Ulster University, notes that too many organizations still rely on legacy systems, inconsistent password policies, and incomplete MFA enforcement.\n“CISOs and security teams should focus on enforcing strong, unique passwords, using MFA everywhere, managing privileged accounts rigorously and testing identity controls regularly,” Curran says. “Combined with well-tuned DLP [ data loss prevention ] and continuous monitoring that can detect abnormal patterns quickly, these measures can help limit the impact of stolen or cracked credentials.”\nPicus Security’s latest findings reveal a concerning gap between the perceived protection of security tools and their actual performance. An overall protection effectiveness score of 62% contrasts with a shockingly low 3% prevention rate for data exfiltration.\n“ Failures in detection rule configuration, logging gaps and system integration continue to undermine visibility across security operations,” according to Picus Security.\nEffective countermeasures require continuous validation Rather than pointing towards inherent limitations of security countermeasures, Qualys’ Milenkovic argues that these findings show that the effectiveness of these tools are often severely undermined by a lack of continuous validation and management.\n“The primary culprit is a ‘set-and-forget’ mentality,” Milenkovic says. “Security controls are potent when deployed, but their effectiveness degrades over time due to configuration drift, environmental changes, and evolving attacker techniques.”\nMilenkovic adds: “For the modern CISO, the key takeaway is the critical need to shift towards a threat-informed defense. This involves moving beyond compliance-based box-ticking and embracing a proactive strategy of continuous security control validation.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->identification technology",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social condition",
+    "Social Issue->discrimination",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/in/paulfkenny/?originalSubdomain=ie",
+    "https://www.linkedin.com/in/roddy-bergeron-cissp-ccsp-csap-33432573/",
+    "https://www.linkedin.com/in/darrenguccione/",
+    "https://www.paloaltonetworks.co.uk/cyberpedia/password-spraying",
+    "https://www.linkedin.com/in/silaozeren/?originalSubdomain=tr",
+    "https://www.picussecurity.com/blue-report",
+    "https://www.linkedin.com/in/matthew-bell-8a5b272b/?originalSubdomain=uk",
+    "https://www.ulster.ac.uk/staff/kj-curran",
+    "https://www.linkedin.com/in/roddy-bergeron-cissp-ccsp-csap-33432573",
+    "https://paloaltonetworks.co.uk/cyberpedia/password-spraying",
+    "https://www.linkedin.com/in/matthew-bell-8a5b272b/",
+    "https://linkedin.com/in/roddy-bergeron-cissp-ccsp-csap-33432573/",
+    "https://www.linkedin.com/in/paulfkenny/",
+    "https://www.linkedin.com/in/silaozeren/",
+    "https://linkedin.com/in/darrenguccione/",
+    "https://picussecurity.com/blue-report",
+    "https://ulster.ac.uk/staff/kj-curran",
+    "https://linkedin.com/in/paulfkenny/?originalSubdomain=ie",
+    "https://linkedin.com/in/silaozeren/?originalSubdomain=tr",
+    "https://linkedin.com/in/matthew-bell-8a5b272b/?originalSubdomain=uk",
+    "https://www.linkedin.com/in/darrenguccione"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Picus",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Picus Security",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "CSO",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:40:31.191+03:00",
+  "updated": "2025-08-21T12:43:45.000+03:00"
+}

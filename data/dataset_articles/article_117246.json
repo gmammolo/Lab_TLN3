@@ -1,0 +1,154 @@
+{
+  "thread": {
+    "uuid": "a5ca5e5bb64714281eec7d9b4582cdc4ae7c950f",
+    "url": "https://www.welt.de/regionales/sachsen-anhalt/article68b004eed492032667a5d509/Warnung-vor-starken-Gewittern-im-Sueden-Sachsen-Anhalts.html",
+    "site_full": "www.welt.de",
+    "site": "welt.de",
+    "site_section": "https://www.welt.de/beta",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Nachrichten, Hintergründe, Videos &amp; News-Ticker - WELT",
+    "site_title": "WELT - Aktuelle Nachrichten, News, Hintergründe &amp; Videos",
+    "title": "Warnung vor starken Gewittern im Süden Sachsen-Anhalts - WELT",
+    "title_full": "Warnung vor starken Gewittern im Süden Sachsen-Anhalts - WELT",
+    "published": "2025-08-28T10:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.welt.de/68b004eed492032667a5d509/6dd5f1d7f61dca096659498a133cfc7c-master/ci16x9-w1200/schwere-gewitter-im-harz",
+    "performance_score": 0,
+    "domain_rank": 960,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a5ca5e5bb64714281eec7d9b4582cdc4ae7c950f",
+  "url": "https://www.welt.de/regionales/sachsen-anhalt/article68b004eed492032667a5d509/Warnung-vor-starken-Gewittern-im-Sueden-Sachsen-Anhalts.html",
+  "ord_in_thread": 0,
+  "author": "@welt",
+  "published": "2025-08-28T10:27:00.000+03:00",
+  "title": "Warnung vor starken Gewittern im Süden Sachsen-Anhalts - WELT",
+  "text": "Am Morgen ziehen Gewitter über den Süden Sachsen-Anhalts. Der Deutsche Wetterdienst warnt vor Blitzschlag, Hagel und überfluteten Straßen.\nAnzeige Der Deutsche Wetterdienst (DWD) warnt im Süden Sachsen-Anhalts vor starken Gewittern mit Starkregen und Windböen am Vormittag. Die Warnung gelte für den Burgenlandkreis, die Landkreise Harz und Mansfeld-Südharz, den Saalekreis, den Salzlandkreis sowie die Stadt Halle (Saale), hieß es in einer Mitteilung. Auch in der Börde seien laut Warnkarte am Morgen einzelne Gewitter mit Windböen möglich.\nEs bestehe Gefahr durch Blitzschlag, vereinzelt herabstürzende Bäume und Gegenstände sowie Hagelschlag, hieß es weiter. Zudem warnte der Wetterdienst vereinzelt vor raschen Überflutungen von Straßen und Unterführungen sowie Aquaplaning.\nDer DWD riet dazu, Aufenthalt im Freien zu vermeiden, Gewässer und Unterführungen zu meiden sowie das Verhalten im Straßenverkehr anzupassen. Auch sollten lose Gegenstände gesichert werden.\ndpa-infocom GmbH",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Social Issue->discrimination",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.welt.de%2Fregionales%2Fsachsen-anhalt%2Farticle68b004eed492032667a5d509%2FWarnung-vor-starken-Gewittern-im-Sueden-Sachsen-Anhalts.html%3Fcid%3Dsocialmedia.linkedin.shared.web",
+    "https://linkedin.com/shareArticle?url=https%3A%2F%2Fwww.welt.de%2Fregionales%2Fsachsen-anhalt%2Farticle68b004eed492032667a5d509%2FWarnung-vor-starken-Gewittern-im-Sueden-Sachsen-Anhalts.html%3Fcid%3Dsocialmedia.linkedin.shared.web",
+    "https://www.linkedin.com/shareArticle"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Sachsen-Anhalts",
+        "sentiment": "none"
+      },
+      {
+        "name": "Saalekreis",
+        "sentiment": "none"
+      },
+      {
+        "name": "Halle",
+        "sentiment": "none"
+      },
+      {
+        "name": "Harz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutsche Wetterdienst",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "dpa-infocom GmbH",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T10:51:20.613+03:00",
+  "updated": "2025-08-29T11:04:19.000+03:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "9d90c1c1a3e212bf3b3b3a92006e2934ab063fbf",
+    "url": "https://www.techtarget.com/searchenterpriseai/tip/Best-practices-for-integrating-AI-and-ESG-strategies",
+    "site_full": "www.techtarget.com",
+    "site": "techtarget.com",
+    "site_section": "https://searchmicroservices.techtarget.com/rss/ContentSyndication.xml",
+    "site_categories": [
+      "javascript",
+      "tech"
+    ],
+    "section_title": "5G NSA vs. SA: How do the deployment modes differ?",
+    "title": "Best practices for integrating AI and ESG strategies | TechTarget",
+    "title_full": "Best practices for integrating AI and ESG strategies | TechTarget",
+    "published": "2024-07-18T20:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.ttgtmedia.com/rms/onlineimages/esg_g1363594237.jpg",
+    "performance_score": 0,
+    "domain_rank": 460,
+    "domain_rank_updated": "2024-07-16T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9d90c1c1a3e212bf3b3b3a92006e2934ab063fbf",
+  "url": "https://www.techtarget.com/searchenterpriseai/tip/Best-practices-for-integrating-AI-and-ESG-strategies",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bill Schmarzo",
+  "published": "2024-07-18T20:32:00.000+03:00",
+  "title": "Best practices for integrating AI and ESG strategies | TechTarget",
+  "text": "Adopting an environmental, social and governance framework can help businesses address the climate and ethical challenges that AI presents.\nESG refers to a framework or set of criteria designed to measure the effects of an organization's actions on the environment, society and its constituents. The ESG approach seeks to address several areas:\nEnvironmental. How does the organization manage its natural resources, reduce its carbon footprint, mitigate environmental risks and contribute to the fight against climate change? Social. How does the organization treat its employees, customers, suppliers and communities? How does it promote diversity, inclusion, human rights and social responsibility? Governance. How does the organization conduct its business; ensure accountability, transparency and compliance; and address ethical dilemmas and conflicts of interest? ESG can also have a significant positive effect on an organization's long-term performance, reputation and value creation. Following an ESG framework can enhance competitive advantage and differentiation in the market by attracting and retaining customers, investors, employees and partners who value sustainability and ethics. In addition, it can improve operational efficiency and innovation by reducing costs, risks and waste, and fostering a culture of collaboration.\nMoreover, an ESG framework can strengthen customer and constituent relationships and trust through thoughtful, relevant engagement. It can help organizations solicit feedback, address customer concerns and set expectations. Internal ESG guidelines also assist organizations in fulfilling their social and environmental obligations and commitments. Guidelines can ensure that organizations comply with relevant laws and regulations and that they contribute to global goals and initiatives, such as the United Nations Sustainable Development Goals .\nTo ensure that ESG delivers more meaningful, relevant, responsible and ethical outcomes, organizations must identify the variables that constitute their ESG aspirations. These variables should be integrated into an AI utility function that guides the actions and decisions of AI models, providing a clear path for achieving ESG goals.\nESG and the AI utility function An AI utility function consists of the variables, metrics and associated weights that guide an AI model's decisions, map probabilistic outcomes to utility values and measure decision effectiveness, enabling the model to continuously learn and adapt.\nThe AI utility function is the beating heart of an AI model. The model uses the utility function to guide its decisions and actions by comparing the expected values of different outcomes and choosing the action or decision that maximizes the expected value, based on the variables and their associated weights.\nCreating an ESG-friendly AI utility function requires integrating several types of ESG measures into the model's algorithmic architecture:\nEthical metrics , such as charitable contributions, volunteering hours, pay equality, corporate social responsibility reporting and individual privacy protections. Environmental metrics , such as energy efficiency, carbon footprint, water usage, biodiversity impact and renewable energy usage. Social metrics , such as workforce diversity, equal employment opportunities, healthcare affordability, workplace safety and human rights adherence. Challenges of ESG from an AI perspective Identifying and prioritizing the ESG measures to integrate into the AI utility function is a complex process involving organizational and technical challenges.\nA key organizational challenge is creating a culture of data literacy and data-driven decision-making, where the entire organization values, communicates and aligns with ESG measures. Collaborating across multiple stakeholders -- including senior leaders, business units, customers, employees and regulators -- is essential to define and validate the ESG variables and their weights in the AI utility function.\nIn addition, organizations must establish clear and measurable ESG goals and metrics that align with the business strategy. This includes balancing tradeoffs and conflicts among ESG variables and other criteria, such as profitability, efficiency and quality, as well as ensuring the accountability, transparency and compliance of AI models and their outcomes.\nTools like materiality matrices can be useful when deciding which of the many possible ESG goals to prioritize. On the technical side, challenges include collecting , preparing, cleaning, aggregating, integrating and analyzing ESG data from a wide variety of internal and external data sources. Developing AI models that incorporate ESG variables and their natural tradeoffs into the utility function is another potential hurdle. Finally, organizations must monitor and evaluate the effectiveness of the AI models on the ESG measures and update the utility function accordingly.\nAI use cases in ESG Using AI to enhance ESG reporting can have beneficial outcomes in a variety of sectors:\nInventory and supply chain management. Incorporating ESG variables such as greenhouse gas emissions, water consumption and recycling rate into the AI utility function can help organizations minimize their carbon footprint and waste generation. Healthcare. Providers can use AI to improve patient care and outcomes while enhancing social responsibility and reputation. ESG variables to incorporate could include patient satisfaction, quality of care and ethical standards. Banking and finance. Financial institutions can use AI to enhance risk management and fraud detection, and can use variables such as compliance, accountability and trust to promote governance and transparency. Manufacturing. Manufacturers that use AI to optimize product design and development can improve environmental and social impact by incorporating ESG variables such as energy efficiency, material usage and waste reduction. Media. Media companies can use AI to personalize content and recommendations while ensuring diversity and inclusion by incorporating ESG variables such as representation, accessibility, quality and relevance. Nonprofits. A nonprofit organization that uses AI to enhance its fundraising and advocacy can advance its mission and vision by incorporating ESG variables such as impact, awareness, engagement and trust. Bill Schmarzo is the former CIO of Hitachi Vantara, where he was recognized for groundbreaking work in data science and automated machine learning. He has also worked at Dell EMC as CTO and as vice president of analytics at Yahoo. He has also written several books on big data.\nDig Deeper on AI business strategies Sustainability ranks low on list of supply chain priorities",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Business and Market Analysis",
+    "Corporate Governance and CSR",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://sdgs.un.org/goals",
+    "https://www.youtube.com/embed/yhpHM6DieTs?autoplay=0&modestbranding=1&rel=0&widget_referrer=https://www.techtarget.com/searchenterpriseai/tip/Best-practices-for-integrating-AI-and-ESG-strategies&enablejsapi=1&origin=https://www.techtarget.com",
+    "https://www.datasciencecentral.com/the-golden-rule-and-the-ai-utility-function-part-i",
+    "https://datasciencecentral.com/the-golden-rule-and-the-ai-utility-function-part-i",
+    "https://youtube.com/embed/yhpHM6DieTs?autoplay=0&modestbranding=1&rel=0&widget_referrer=https://techtarget.com/searchenterpriseai/tip/Best-practices-for-integrating-AI-and-ESG-strategies&enablejsapi=1&origin=https://techtarget.com",
+    "https://www.sdgs.un.org/goals",
+    "https://www.youtube.com/embed/yhpHM6DieTs"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "techtarget",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "esg",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "esg",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-07-19T00:12:21.227+03:00",
+  "updated": "2024-07-19T00:12:21.227+03:00"
+}

@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "0974d66241cc45d2dfce0bfca58b6df35cc80663",
+    "url": "https://www.binance.com/en/square/post/01-10-2025-security-flaw-discovered-in-uniswap-ios-wallet-18733476634122",
+    "site_full": "www.binance.com",
+    "site": "binance.com",
+    "site_section": "https://www.binance.com/en/square/news",
+    "site_categories": [
+      "tech",
+      "finance",
+      "email"
+    ],
+    "section_title": "Top Cryptocurrency News Today | Binance Square",
+    "title": "Security Flaw Discovered In Uniswap iOS Wallet",
+    "title_full": "Security Flaw Discovered In Uniswap iOS Wallet",
+    "published": "2025-01-10T05:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://public.bnbstatic.com/images/common/feed-og-image-2.png",
+    "performance_score": 0,
+    "domain_rank": 815,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0974d66241cc45d2dfce0bfca58b6df35cc80663",
+  "url": "https://www.binance.com/en/square/post/01-10-2025-security-flaw-discovered-in-uniswap-ios-wallet-18733476634122",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Binance News",
+  "published": "2025-01-10T05:33:00.000+02:00",
+  "title": "Security Flaw Discovered In Uniswap iOS Wallet",
+  "text": "According to PANews, the ScaleBit security team under BitsLab has identified a vulnerability in the [Uniswap](/trade/UNI_USDT?contentId=18733476634122) iOS wallet, termed 'Mnemonic Unauthorized Access.' This flaw, discovered in October 2024, allows attackers with physical access to a device to bypass the wallet's authentication mechanism and directly access the mnemonic stored on the device.\nThe root cause of this vulnerability lies in the flawed design of the mnemonic storage and access mechanism. The mnemonic is not effectively encrypted at the application layer, and the conditions for triggering the recovery page are unreasonable. This makes it easy for attackers with physical access to the device to bypass the wallet's authentication mechanism and obtain the mnemonic.\nCurrently, this vulnerability persists in the latest version of the Uniswap Wallet (Version 1.42), posing a potential risk to all users of the wallet. Users are advised to be particularly cautious about the physical security of their devices, avoid disclosing unlock passwords, and refrain from lending their devices to others.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->identification technology",
+    "Science and Technology->technology and engineering",
+    "Social Issue->welfare",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T06:56:46.850+02:00",
+  "updated": "2025-01-10T06:56:46.850+02:00"
+}

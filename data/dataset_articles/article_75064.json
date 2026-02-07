@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "f7d544de6a9c95a0943a704fcfdbab31a1d92a5f",
+    "url": "https://gigazine.net/gsc_news/en/20241122-openai-erases-evidence",
+    "site_full": "gigazine.net",
+    "site": "gigazine.net",
+    "site_section": "https://gigazine.net/gsc_news/en",
+    "site_categories": [
+      "media",
+      "top_news_jp",
+      "top_news"
+    ],
+    "section_title": "GIGAZINE - GIGAZNE",
+    "title": "OpenAI reveals that it mistakenly erased evidence data in copyright lawsuits - GIGAZINE",
+    "title_full": "OpenAI reveals that it mistakenly erased evidence data in copyright lawsuits - GIGAZINE",
+    "published": "2024-11-22T05:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "https://i.gzn.jp/img/2024/11/22/openai-erases-evidence/00.jpg",
+    "performance_score": 0,
+    "domain_rank": 8506,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f7d544de6a9c95a0943a704fcfdbab31a1d92a5f",
+  "url": "https://gigazine.net/gsc_news/en/20241122-openai-erases-evidence",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T05:46:00.000+02:00",
+  "title": "OpenAI reveals that it mistakenly erased evidence data in copyright lawsuits - GIGAZINE",
+  "text": "OpenAI reveals that it mistakenly erased evidence data in copyright lawsuits\nOpenAI is facing a copyright infringement lawsuit from\n[the New York Times,](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA)a major American daily newspaper that claims it used its content to train its generative AI model. However, in a court filing on November 20, 2024, OpenAI revealed that it had accidentally erased all of the evidence related to the trial.\ngov.uscourts.nysd.612697.328.1.pdf\n(PDF file)\n[https://docs.google.com/viewerng/viewer?url=https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf](https://docs.google.com/viewerng/viewer?url=https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf)\ngov.uscourts.nysd.612697.210.2.pdf\n(PDF file)\n[https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf](https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf)\nOpenAI accidentally deleted potential evidence in NY Times copyright lawsuit | TechCrunch\n[https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/](https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/)\nOpenAI accidentally erases potential evidence in training data lawsuit - The Verge\n[https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)\nIn December 2023, the New York Times sued OpenAI and Microsoft for copyright infringement, saying, 'The large-scale language models that power generative AI such as ChatGPT and Copilot are trained on New York Times content, enabling them to output content that mimics The New York Times' style of expression and produces content that directly competes with The New York Times.' 'As a result, The New York Times' relationship with its readers has been damaged, and not only have sources of revenue such as subscription fees, licensing fees, advertising revenue, and affiliate income been lost, but the provision of high-quality journalism has been threatened.'\n[Major daily newspaper New York Times sues OpenAI and Microsoft for copyright infringement - GIGAZINE](https://gigazine.net/news/20231228-new-york-times-sues-openai-microsoft/)\nAs the trial with The New York Times continues, OpenAI is providing the Times with two virtual machines that can search for copyrighted content in the AI training set. According to OpenAI, since November 1, 2024, New York Times lawyers have spent more than 150 hours working with experts to search the training data.\nHowever, in a document filed in the U.S. District Court for the Southern District of New York on November 20, 2024, OpenAI reported that 'on November 14, 2024, our engineers erased all New York Times search data stored on one of our virtual machines.'\nOpenAI immediately restored the data, but the data that was recovered had serious problems with the folder structure and file names. OpenAI said, 'The recovered data makes it difficult to properly understand how the New York Times article was used to build OpenAI's AI models.' In addition, OpenAI has not disclosed the cause of the accident or details of the erased data.\nOpenAI described the data deletion as a 'glitch,' and The New York Times said, 'There is no evidence that the deletion was intentional.' Nevertheless, The New York Times criticized, 'The data that was recovered is largely unusable, and a week's worth of work by experts and lawyers will have to be redone. The data deletion will force us to spend countless hours recreating our work from scratch.'\nAt the time of writing, OpenAI's public relations representative had not commented.\nRelated Posts:\nin [Software](/gsc_news/en/C4/), Posted by log1r_ut",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/",
+    "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf",
+    "https://docs.google.com/viewerng/viewer?url=https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA",
+    "https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+    "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf",
+    "https://www.docs.google.com/viewerng/viewer?url=https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf",
+    "https://docs.google.com/viewerng/viewer",
+    "https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit",
+    "https://www.techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/",
+    "https://theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+    "https://www.ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T10:29:06.518+02:00",
+  "updated": "2024-11-22T10:29:06.518+02:00"
+}

@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "55601c7a156eabd9cf5754f8dbd3008241ee194a",
+    "url": "https://securityonline.info/cisa-flags-critical-exploits-in-palo-alto-networks-expedition-with-public-exploit",
+    "site_full": "securityonline.info",
+    "site": "securityonline.info",
+    "site_section": "https://www.securityonline.info",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Cybersecurity News • Cybersecurity Daily",
+    "title": "CISA Flags Critical Exploits in Palo Alto Networks’ Expedition with Public PoC Code",
+    "title_full": "CISA Flags Critical Exploits in Palo Alto Networks’ Expedition with Public PoC Code",
+    "published": "2024-11-15T04:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 126550,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "55601c7a156eabd9cf5754f8dbd3008241ee194a",
+  "url": "https://securityonline.info/cisa-flags-critical-exploits-in-palo-alto-networks-expedition-with-public-exploit",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "do son",
+  "published": "2024-11-15T04:16:00.000+02:00",
+  "title": "CISA Flags Critical Exploits in Palo Alto Networks’ Expedition with Public PoC Code",
+  "text": "\\n The Cybersecurity and Infrastructure Security Agency (CISA) has issued an urgent warning about two critical vulnerabilities in Palo Alto Networks Expedition that malicious actors are actively exploiting. These flaws, identified as CVE-2024-9463 and CVE-2024-9465, pose a significant risk to organizations using the Expedition platform, potentially leading to complete system compromise.\n\\n CVE-2024-9463: OS Command Injection Vulnerability (CVSS 9.9)\n\\n This highly critical vulnerability allows unauthenticated attackers to execute arbitrary commands on the underlying operating system with root privileges. Successful exploitation could grant attackers access to sensitive information such as firewall usernames, passwords, and API keys.\n\\n CVE-2024-9465: SQL Injection Vulnerability (CVSS 9.2)\n\\n This flaw enables attackers to inject malicious SQL code into Expedition\\u2019s database, allowing them to extract sensitive data. Compromised information could include password hashes, usernames, device configurations, and API keys, potentially providing attackers with the means to take complete control of the system.\n\\n Exposed endpoints without authentication | Image: Horizon3.ai\n\\n Adding to the concern, security researcher Zach Hanley of Horizon3.ai has publicly released a proof-of-concept exploit for CVE-2024-9465, making it easier for malicious actors to exploit this vulnerability.\n\\n Urgent Action Required\n\\nPalo Alto Networks has addressed these vulnerabilities in Expedition version 1.2.96 and urges all users to update their systems immediately. CISA has also added these vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, mandating that all federal agencies patch their systems by December 5, 2024.\n\\n In addition to updating to the latest version, Palo Alto Networks recommends rotating all usernames, passwords, and API keys that have been processed by Expedition. Organizations should also restrict network access to Expedition, limiting it to authorized users only.\n\\n Related Posts: \\n\\n \\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Infrastructure Security Agency",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T05:10:14.679+02:00",
+  "updated": "2024-11-15T05:10:14.679+02:00"
+}

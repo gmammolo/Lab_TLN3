@@ -1,0 +1,139 @@
+{
+  "thread": {
+    "uuid": "0440cf21e91167053f48654509d131d3213ffefc",
+    "url": "https://www.lanacion.com.ar/agencias/aumentan-a-36-los-muertos-por-el-tifon-bualoi-en-vietnam-nid02102025/",
+    "site_full": "www.lanacion.com.ar",
+    "site": "lanacion.com.ar",
+    "site_section": "https://www.lanacion.com.ar/agencias",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_co",
+      "top_news_cl",
+      "top_news_es",
+      "top_news_us",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Noticias de Agencias - LA NACION",
+    "site_title": "Últimas noticias de Argentina y el mundo - LA NACION",
+    "title": "Aumentan a 36 los muertos por el tifón Bualoi en Vietnam - LA NACION",
+    "title_full": "Aumentan a 36 los muertos por el tifón Bualoi en Vietnam - LA NACION",
+    "published": "2025-10-02T09:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://resizer.glanacion.com/resizer/v2/fenomeno-meteorologico-en-las-costas-estados-LTBRJPMMEFDOXLDSBUYPYWCJIE.jpg?auth=94f0380907f8b0360afb8414add9e209ddb6e0a917f0d15aa81c43cabb9fbb8f&amp;width=1200&amp;quality=70&amp;smart=false&amp;height=800",
+    "performance_score": 0,
+    "domain_rank": 2471,
+    "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0440cf21e91167053f48654509d131d3213ffefc",
+  "url": "https://www.lanacion.com.ar/agencias/aumentan-a-36-los-muertos-por-el-tifon-bualoi-en-vietnam-nid02102025/",
+  "ord_in_thread": 0,
+  "author": "@LANACION",
+  "published": "2025-10-02T09:50:00.000+03:00",
+  "title": "Aumentan a 36 los muertos por el tifón Bualoi en Vietnam - LA NACION",
+  "text": "HANÓI, 2 oct (Reuters) - El número de muertos en Vietnam por el tifón Bualoi y las inundaciones que provocó ha aumentado a 36, según un informe del jueves de la agencia gubernamental de gestión de catástrofes.\nBualoi tocó tierra el lunes en el centro-norte de Vietnam trayendo enormes marejadas, fuertes vientos y lluvias torrenciales que también dejaron 21 desaparecidos y 147 heridos, según el informe.\nLa agencia también elevó su estimación de los daños materiales causados por el tifón y sus inundaciones a 11,5 billones de dong (US$435,80 millones), frente a los US$303 millones de un informe anterior publicado el miércoles.\nEl tifón dañó gravemente carreteras, escuelas y oficinas y provocó fallos en la red eléctrica que dejaron sin electricidad a decenas de miles de familias, según el informe.\nMás de 210.000 casas resultaron dañadas o inundadas y más de 51.000 hectáreas de arroz y otros cultivos quedaron destruidas.\n(1 dólar = 26.388 dong) (Información de Khanh Vu; edición de David Stanway; editado en español por Benjamín Mejías Valencia)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Weather"
+  ],
+  "topics": [
+    "Disaster and Accident->natural disaster",
+    "Weather->weather statistic",
+    "Weather->weather phenomena"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "David Stanway",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bualoi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Reuters",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "TRI",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Información de Khanh",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_co",
+      "top_news_cl",
+      "top_news_es",
+      "top_news_us",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-02T11:02:19.117+03:00",
+  "updated": "2025-10-03T11:10:16.000+03:00"
+}

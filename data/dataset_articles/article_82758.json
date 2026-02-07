@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "a4647f40e4a09ea6fbb483c867ac4fe75fd39f9b",
+    "url": "https://www.albany.edu/news-center/news/2025-exploring-ai-enabled-disease-detection-qa-s-m-ashiqul-mishu-islam",
+    "site_full": "www.albany.edu",
+    "site": "albany.edu",
+    "site_section": "https://albany.edu/news",
+    "site_categories": [
+      "graduate_school",
+      "college_administration",
+      "education"
+    ],
+    "section_title": "News Center Home | University at Albany",
+    "site_title": null,
+    "title": "Exploring AI-Enabled Disease Detection: Q&A with S M Ashiqul 'Mishu' Islam | University at Albany",
+    "title_full": "Exploring AI-Enabled Disease Detection: Q&A with S M Ashiqul 'Mishu' Islam | University at Albany",
+    "published": "2025-02-28T00:15:59.557+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.albany.edu/sites/default/files/styles/captioned_slider/public/2025-02/S%20M%20Ashiqul%20Islam.jpg?itok=-YPS6s27",
+    "performance_score": 0,
+    "domain_rank": 3879,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a4647f40e4a09ea6fbb483c867ac4fe75fd39f9b",
+  "url": "https://www.albany.edu/news-center/news/2025-exploring-ai-enabled-disease-detection-qa-s-m-ashiqul-mishu-islam",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-02-28T00:15:59.557+02:00",
+  "title": "Exploring AI-Enabled Disease Detection: Q&A with S M Ashiqul 'Mishu' Islam | University at Albany",
+  "text": "Exploring AI-Enabled Disease Detection: Q&A with S M Ashiqul ‘Mishu’ Islam\nBy Erin Frick\nALBANY, N.Y. (Feb. 27, 2025) — S M Ashiqul \"Mishu\" Islam is an assistant professor in the Department of Epidemiology and Biostatistics at the College of Integrated Health Sciences and a member of UAlbany’s AI Plus Institute. Islam joined the University in August 2024, transitioning into academia from his previous role as a staff scientist with biotech company Thermo Fisher Scientific.\nIslam’s research at the intersection of computer science and biostatistics employs advanced machine learning and AI techniques to analyze molecular signatures that signal disease. His work aims to enhance early detection of cancer and other diseases and support the development of new diagnostic methods and tailored treatment strategies.\nHere, Islam discusses how he is leveraging vast stores of genetic data to find \"fingerprints\" linked to multiple types of cancer and other complex diseases, in order to improve methods for understanding patient risk, getting ahead of disease and advancing capabilities in personalized medicine.\nWhat is the overarching goal of your research program?\nOur vision is to recognize cancerous cells in their early stages while determining an individual’s cancer risks before they become irreversibly sick. This can be done using a combination of molecular information in the cells. For example, we look at mutational signatures, which provide unique holistic patterns of DNA changes. We also look at DNA methylation/demethylation — a type of change at the genetic level that occurs in the earliest stages of cancer and many other diseases.\nModeling mutation and methylation events can provide us with important signals at the onset of the disease. Using cutting-edge genetic sequencing and advanced computation methods, we can detect early warning \"cues\" such as changes in passive tumor DNA and blood biomarkers. This approach can help clinicians identify high-risk patients and potentially intervene before a tumor develops or spreads.\nWhat are mutational signatures, and how do you detect them?\nMutational signatures serve as unique \"fingerprints\" in our DNA that can tell us what caused certain genetic damage or alterations. These harmful alterations may be the result of standard cellular activity, defective DNA repair, or even outside sources like UV radiation and cigarette smoke. These patterns can be identified by sequencing tumor DNA from a sample population then analyzing mutation types along with their surrounding DNA context. Finding these recurring signals allows us to identify certain mutagenic events or processes which can indicate how the cancer was formed. In some cases, this can aid early disease detection, or inform critical decisions regarding treatment methods.\nDo you focus on any particular types of cancers?\nOur current research is not concentrated on a specific type of cancer; instead, we are working to develop a holistic approach to diagnose any cancer, ideally from a single test.\nTo do this, we are using large-scale datasets such as those from The Cancer Genome Atlas. The goal is to understand whether there are coherent associations between mutational signatures and early-stage cancer prognosis across 37 different tumor types reported in the Atlas dataset. This approach enables us to track abnormalities and candidate biomarkers that could be significant in more than one cancer type. These findings could lead to more effective methods for early detection and improved prognosis.\nHow can your approach inform personalized medicine for cancer treatment?\nOur approach identifies specific mutations and patterns that define each patient’s tumor. We can then match this information with the associated cellular process — or \"pathway\" — that is allowing the cancer cells to grow. Identifying this mechanism can help determine which drug would be most effective in treating a specific type of tumor.\nFor instance, if we notice signs of DNA repair complications, which show up as a specific type of genetic mutation in the cancer cell, we can predict that treating the tumor with a specialized \"inhibitor\" drug that disrupts the problematic pathway will work remarkably well. Likewise, tumors exhibiting a deficiency in a cellular process called \"mismatch repair\" are known to respond much better to immune therapy because they display greater immunogenicity — that is, a stronger response against something harmful.\nEffective chemotherapeutic agents could also be predicted using these patterns. For example, if a tumor contains signatures that are associated with sensitivity to platinum-based agents, then we can use those drugs to treat it. All in all, with a better understanding of the biology of the tumor and its associated fingerprints, it is possible to devise optimal treatment approaches using chemotherapy, immunotherapy or other medication strategies.\nCan your research support treatments for other types of diseases?\nThe computational methods we are developing, especially those related to multiomics data integration, can be applied to many other complex diseases. For example, some autoimmune and metabolic disorders, as well as certain neurological diseases, tend to involve complex changes at the genomic and epigenomic levels. Applying machine learning and AI techniques to these analyses can reveal deeper patterns related to the severity of risk that the disease poses to the patient, as well as possible therapeutic intervention targets.\nFor instance, I am currently working with a lab at the LSU Shreveport Health Sciences Center to understand early-stage Alzheimer’s disease by examining a genome-wide methylation profile. The goal of this collaboration is to delineate the epigenetic modifications that are present during the earliest stages of the disease to help devise earlier diagnostic approaches and more precise treatment strategies not just for Alzheimer's, but also for other neurodegenerative disorders.\nHow do your experiences in industry and academia inform your perspective on translating research into real-world healthcare applications?\nI feel lucky to have experience in both academic and industry environments. This has allowed me to witness the journey of innovation from the lab to clinical application. In academia, our attention is often on foundational research, where we pursue basic questions aimed at expanding the frontiers of science. In industry, the attention shifts to how the new idea can be made usable at a wide scale, as well as various matters of legality and expense. These are the parameters that dictate the pros and cons of any new strategy. Because of my previous experience in industry settings, I am able to formulate and answer clinically important research questions while ensuring that the technologies or methodologies we develop can realistically be implemented by patients and clinicians involved in healthcare delivery.\nTaking a broad view of AI applications in biomedical research, what advances are you most excited about?\nAI is changing how we work in the field of biomedical sciences — particularly during drug development and patient treatment — by helping us understand the colossal amounts of data that we produce. I am particularly enthusiastic about the applications of deep learning for analyzing multiomics data (the biological approach that brings together data from across the 'omes' — e.g., genome, transcriptome, microbiome), as it allows us to capture nuances otherwise missing in a traditional data analytics approach.\nFurther, the natural language capabilities of AI can facilitate fast scanning of scientific publications and electronic health records to extract new relationships between disease mechanisms and patient outcomes. I am also interested in the fusion of AI with wearable and remote monitoring devices to allow for proactive health and disease management.\nWhat brought you to UAlbany?\nWhen searching for a faculty position, I found that UAlbany is actively cultivating interdisciplinary interactions with a focus on AI and related fields. With a $75 million investment in AI Plus, UAlbany’s AI supercomputing capacity has significant potential to influence health care, drug development, climate change adaptation and many other fields. At UAlbany, the collaborations among educational, industrial and public health institutions create an energetic research environment that is unparalleled. In one sentence, it was the potential to contribute to creating that environment while training the new generation of scientists who work at the interface of AI, genomics and epidemiology, that attracted me here.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->biotechnology",
+    "Science and Technology->medical research",
+    "Science and Technology->technology and engineering",
+    "Health->health treatment and procedure",
+    "Health->disease and condition",
+    "Health->health organisation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:15:59.557+02:00",
+  "updated": "2025-02-28T00:15:59.557+02:00"
+}

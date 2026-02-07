@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "51d33b70e55796afc3aedc867e22a60f166bfe0d",
+    "url": "https://discuss.rubyonrails.org/t/explaining-thruster-a-new-37signals-gem-that-speeds-up-your-app/85567",
+    "site_full": "discuss.rubyonrails.org",
+    "site": "rubyonrails.org",
+    "site_section": "https://discuss.rubyonrails.org/latest.rss",
+    "site_categories": [],
+    "section_title": "Ruby on Rails Discussions - Latest topics",
+    "title": "Explaining Thruster, a new 37signals gem that speeds up your app",
+    "title_full": "Explaining Thruster, a new 37signals gem that speeds up your app",
+    "published": "2024-04-12T00:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/rubyonrails/original/1X/d8ed67d6489f869100eacbced1ea316808abcfd6.png",
+    "performance_score": 0,
+    "domain_rank": 3722,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "51d33b70e55796afc3aedc867e22a60f166bfe0d",
+  "url": "https://discuss.rubyonrails.org/t/explaining-thruster-a-new-37signals-gem-that-speeds-up-your-app/85567",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brenogazzola",
+  "published": "2024-04-12T00:31:00.000+03:00",
+  "title": "Explaining Thruster, a new 37signals gem that speeds up your app",
+  "text": "Last month, 37Signals introduced Thruster, a “zero-config” gem that makes your web pages load faster by solving various problems that would otherwise require changes in multiple places in your infrastructure.\nThis post explains what those problems are, how Thruster solves them, and why you might want to use it even if you have a CDN like Cloudflare in front of your app, which already implements all the features that Thruster offers.\nBoth web and application servers work by receiving requests and responding with content. The difference between them lies in the type of content they specialize in:\nSo, when a user types the URL of your app (e.g., https://vinklo.com.br), Puma does a great job at generating and returning the HTML, but when the browser starts requesting the assets it needs to actually render the page… not so much.\nThe problem is that Puma does not support two critical features of web servers:\nWithout this, browsers are forced to request one asset at a time per connection. And since they are limited to 6-8 connections per domain and most pages have dozens of assets, this means they need to make multiple round trips to fetch everything they need.\nWhen transferring an asset, Puma has to copy its content from the disk to its memory, and then copy it again from its memory to the network. While this is happening, one of Puma’s threads is “stuck” handling the copy, using CPU time and memory.\nA web server like Nginx handles the transfer by leveraging a Linux kernel command called sendfile(). When it receives the request, instead of handling the copy itself, Nginx tells the OS to handle it, which allows it to immediately handle the next request. The OS, in turn, uses the DMA controller to set up a transfer directly between the disk and the network.\nsendfile()\nThis not only saves CPU time and memory but is also much faster. Some files get transferred in less than one-third of the time.\nNow that we know why forcing Puma to serve files is a bad idea, the question is, how do we solve this problem?\nIf you have control of your infrastructure, one option is to use Nginx as your load balancer and enable object caching for the assets and active storage routes. This way, when a new file is requested for the first time, Nginx will create a copy of the content Puma returned in its disk and start serving it for future requests.\nDownsides: You can’t use this if you are on Heroku; you need to use Nginx as your load balancer for the best performance; you need to know how to configure Nginx; and it’s one more piece in your infrastructure.\nUpload your files to a storage service (e.g., S3), and then let the cloud provider CDN (e.g., Cloudflare) handle serving the files instead of your servers.\nDownsides: Extra setup work; your deploy process is more complicated because you have to upload new CSS/JS files to the CDN; and your Active Storage will place extra load on your database because you will have to use public URLs.\nThe easiest option. Just use Cloudflare as your DNS server and enable proxy mode. You won’t have to change anything in your app, there will be no extra piece of infrastructure to monitor, and you will even get automatic compression for your assets, including images.\nDownsides: They only start caching files on the third request, and the cache is not shared between data centers. So instead of 1 request for application.js, Puma will potentially have to handle 600 of them (300 Cloudflare PoP * 2 requests each). If you are operating an image-heavy app that relies on Active Storage, Puma will basically never stop serving images since retention and freshness are different things.\napplication.js\nEven though it’s distributed as a gem, Thruster is almost entirely written in Go. If you add it to your Gemfile and run bundle open thruster in your terminal, you will see this directory tree:\nbundle open thruster\nthruster\n|-- exe\n| |-- x86_64-darwin\n| | |-- thrust\n| +-- thrust.rb\n+-- lib\n|-- thruster\n| |-- version.rb\n+-- thruster.rb\n|-- MIT-LICENSE\n|-- README.md\nAside from the thrust.rb file, which is what you must execute to initialize Thruster, the only other thing the gem contains is an executable for the platform you have the gem installed on. This means that all configuration environment variables must be set as UNIX environment variables, not Ruby environment variables (e.g., .rbenv-vars).\nthrust.rb\n.rbenv-vars\nThis executable is a proxy server that sits between Puma and your load balancer, providing all the features that are missing in Puma/Rails:\nThe answer to that will depend on what your infrastructure looks like:\nYes, I’m tracking a bug and one possible bug:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://vinklo.com.br),",
+    "https://www.vinklo.com.br),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "cloudflare",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "puma",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T01:41:12.954+03:00",
+  "updated": "2024-04-12T01:41:12.954+03:00"
+}

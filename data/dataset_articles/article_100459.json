@@ -1,0 +1,151 @@
+{
+  "thread": {
+    "uuid": "f34dd7a56c7fa9317bb442ca852289e6c359b3aa",
+    "url": "https://www.breitbart.com/tech/2024/02/01/fbi-finds-chinese-state-hacker-malware-hundreds-infrastructure-related-routers",
+    "site_full": "www.breitbart.com",
+    "site": "breitbart.com",
+    "site_section": "https://breitbart.com/news/",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics"
+    ],
+    "section_title": "All News - Breitbart News Network",
+    "title": "FBI Finds Chinese State Hacker Malware on Hundreds of U.S. Infrastructure-Related Routers",
+    "title_full": "FBI Finds Chinese State Hacker Malware on Hundreds of U.S. Infrastructure-Related Routers",
+    "published": "2024-02-01T02:00:00.000+02:00",
+    "replies_count": 2,
+    "participants_count": 3,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.breitbart.com/media/2024/02/GettyImages-591881449-640x335.jpg",
+    "performance_score": 0,
+    "domain_rank": 1655,
+    "domain_rank_updated": "2024-01-30T12:05:46.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f34dd7a56c7fa9317bb442ca852289e6c359b3aa",
+  "url": "https://www.breitbart.com/tech/2024/02/01/fbi-finds-chinese-state-hacker-malware-hundreds-infrastructure-related-routers",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "John Hayward",
+  "published": "2024-02-01T02:00:00.000+02:00",
+  "title": "FBI Finds Chinese State Hacker Malware on Hundreds of U.S. Infrastructure-Related Routers",
+  "text": "The Department of Justice (DOJ) and Federal Bureau of Investigation (FBI) on Wednesday announced they were able to disrupt a massive Chinese cyber-espionage campaign called Volt Typhoon that penetrated critical American infrastructure systems.\nVolt Typhoon was detected and made public by Microsoft’s cybersecurity team in May 2023. Microsoft described the perpetrators as state-sponsored hackers from China who were developing “capabilities that could disrupt critical communications infrastructure between the United States and Asia region during future crises.”\nMicrosoft’s conclusions were backed by the intelligence agencies of the “Five Eyes” alliance: the U.S., UK, Canada, Australia, and New Zealand. China denied the allegations and accused the Five Eyes nations of pushing “disinformation.”\nVolt Typhoon’s activities were originally thought to be centered on Guam, with the goal of disrupting American network communications across the Pacific in the event of a conflict with China, such as China might cause by invading Taiwan. Further investigation showed the scope of the operation was much greater, with targets including West Coast ports, oil pipelines, and the power grid of Texas.\nThe Cybersecurity and Infrastructure Security Agency (CISA) of the Department of Homeland Security (DHS) said in December that China was clearly “pre-positioning” cyber warfare assets to “disrupt or destroy that critical infrastructure in the event of a conflict, to either prevent the United States from being able to project power into Asia or to cause societal chaos inside the United States.”\nVolt Typhoon was cited by cybersecurity experts as one of the biggest, most dangerous examples of “living off the land,” a technique in which hackers infiltrate a system without causing any damage or revealing their presence, using tools that mimic normal network activity. As DHS put it, the Chinese operation was all about scouting ahead and preparing for destructive attacks that could be triggered if the U.S. and China came into conflict.\nDOJ said on Wednesday that the U.S. and its allies have stepped up their efforts against threats like Volt Typhoon, and that particular threat has been “disrupted” by purging its malicious software from hundreds of routers. U.S. officials remained certain that Chinese state-sponsored hackers were responsible for the intrusions.\nSean Newell, deputy chief of the Justice Department’s National Security Division, explained that Volt Typhoon’s hackers created a “botnet” hidden inside network routers that concealed their other hacking activities. The compromised routers, which were mostly older Cisco and Netgear models nearing the end of their operational lifespans, allowed the hackers to work in secret, without security programs detecting their unusual network traffic.\nFBI Director Christopher Wray told the House Select Committee on the Chinese Communist Party that the nearly-obsolete routers were “easy targets” for the hackers, whose activities targeted water, power, oil, and transportation systems.\nWray said the FBI also believes China will try to interfere in the 2024 elections, as it did in Taiwan’s recent presidential race. He pointed to the tremendous amount of information Chinese applications like TikTok collect about their users as potential espionage weapons since the Chinese military apparatus is legally guaranteed at-will access to all data compiled by Chinese corporations.\n“Today, and literally every day, they’re actively attacking our economic security, engaging in wholesale theft of our innovation, and our personal and corporate data,” said Wray.\nCISA Director Jen Easterly warned that China’s hackers have grown very adept at lurking undetected inside computer systems.\n“They’ve elevated their ability to act like a system administrator so you really can’t tell that’s a Chinese actor,” Easterly said.\nSecurity Week reported some concerns in the cybersecurity community that Volt Typhoon might not be completely “disrupted,” because it was able to penetrate “thousands of organizations,” but the FBI’s court orders covered only hundreds of infected routers.\nThe FBI essentially managed to find a way to order the malware in the infected routers to delete itself, without damaging the routers or the systems that relied upon them. The owners of those routers do not appear to have been warned in advance, but the FBI said it is attempting to notify all of them now and provide some security advice.\nSome hardware experts said the routers may not be completely purged of Volt Typhoon’s influence, so it would be safest to replace them all, as quickly as possible.\nCISA issued a bulletin to router manufacturers this week that explained how Volt Typhoon was able to hijack their hardware. CISA and the FBI asked manufacturers to eliminate the vulnerabilities that were exploited by the Chinese hacking group and “build security into the design, development, and maintenance” of their products. Among the suggestions included in the bulletin was programming routers to download software updates automatically, and making it harder to disable network security remotely.\nAsia National Security Tech China Christopher Wray Cybersecurity Department of Justice FBI hackers",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "War, Conflict and Unrest"
+  ],
+  "external_links": [
+    "https://www.bleepingcomputer.com/news/security/cisa-vendors-must-secure-soho-routers-against-volt-typhoon-attacks/",
+    "https://www.cnbc.com/2024/01/31/fbi-shut-down-china-volt-typhoon-hackers-targeting-us-.html",
+    "https://www.reuters.com/technology/us-disrupts-chinese-botnet-targeting-critical-infrastructure-fbi-says-2024-01-31/",
+    "https://www.securityweek.com/us-gov-disrupts-soho-router-botnet-used-by-chinese-apt-volt-typhoon/",
+    "https://www.bleepingcomputer.com/news/security/cisa-vendors-must-secure-soho-routers-against-volt-typhoon-attacks",
+    "https://www.reuters.com/technology/us-disrupts-chinese-botnet-targeting-critical-infrastructure-fbi-says-2024-01-31",
+    "https://securityweek.com/us-gov-disrupts-soho-router-botnet-used-by-chinese-apt-volt-typhoon/",
+    "https://bleepingcomputer.com/news/security/cisa-vendors-must-secure-soho-routers-against-volt-typhoon-attacks/",
+    "https://cnbc.com/2024/01/31/fbi-shut-down-china-volt-typhoon-hackers-targeting-us-.html",
+    "https://reuters.com/technology/us-disrupts-chinese-botnet-targeting-critical-infrastructure-fbi-says-2024-01-31/",
+    "https://www.securityweek.com/us-gov-disrupts-soho-router-botnet-used-by-chinese-apt-volt-typhoon"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "federal bureau of investigation",
+        "sentiment": "negative"
+      },
+      {
+        "name": "department of justice",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fbi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "new zealand",
+        "sentiment": "none"
+      },
+      {
+        "name": "canada",
+        "sentiment": "none"
+      },
+      {
+        "name": "united states",
+        "sentiment": "none"
+      },
+      {
+        "name": "asia",
+        "sentiment": "none"
+      },
+      {
+        "name": "pacific",
+        "sentiment": "none"
+      },
+      {
+        "name": "china",
+        "sentiment": "none"
+      },
+      {
+        "name": "uk",
+        "sentiment": "none"
+      },
+      {
+        "name": "taiwan",
+        "sentiment": "none"
+      },
+      {
+        "name": "guam",
+        "sentiment": "none"
+      },
+      {
+        "name": "australia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-02-02T02:28:10.171+02:00",
+  "updated": "2024-02-02T02:28:10.171+02:00"
+}

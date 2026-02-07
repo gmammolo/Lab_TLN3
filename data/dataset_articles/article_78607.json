@@ -1,0 +1,216 @@
+{
+  "thread": {
+    "uuid": "5288f98afeb80eaf9a2113ae9abda31ddf060d4c",
+    "url": "https://www.news.de/technik/858448280/linux-kernel-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-vom-20-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "IT-Sicherheit: Linux bedroht - IT-Sicherheitslücke bei Linux Kernel mit hohem Risiko! Warnung erhält Update",
+    "title_full": "IT-Sicherheit: Linux bedroht - IT-Sicherheitslücke bei Linux Kernel mit hohem Risiko! Warnung erhält Update",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771892/images/01/9b/fee50905f5bfef0e0b4d5bad0e61/nopic/no_pic/1200/675/1/1/138/3/746/419/-/-/fuer-linux-liegt-ein-it-sicherheitshinweis-vor-symbolbild_857771892_1200x675_fd1cd8a2d8cf57864fe4f88f4a054dc7.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5288f98afeb80eaf9a2113ae9abda31ddf060d4c",
+  "url": "https://www.news.de/technik/858448280/linux-kernel-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-vom-20-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "IT-Sicherheit: Linux bedroht - IT-Sicherheitslücke bei Linux Kernel mit hohem Risiko! Warnung erhält Update",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 20.08.2025 ein Update zu einer am 27.02.2025 bekanntgewordenen Sicherheitslücke mit mehreren Schwachstellen für Linux Kernel veröffentlicht. Betroffen von der Sicherheitslücke sind das Betriebssystem Linux sowie die Produkte Google Container-Optimized OS, Debian Linux, Amazon Linux 2, Ubuntu Linux, SUSE Linux, Oracle Linux und Open Source Linux Kernel.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: Ubuntu Security Notice USN-7703-2 (Stand: 20.08.2025). Weitere nützliche Links werden weiter unten in diesem Artikel aufgeführt.\nMehrere Schwachstellen für Linux Kernel - Risiko: hoch\nRisikostufe: 3 (hoch)\nCVSS Base Score: 8,6\nCVSS Temporal Score: 7,5\nRemoteangriff: Ja\nZur Bewertung des Schweregrads von Schwachstellen in Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Der Temporal Score berücksichtigt darüber hinaus zeitliche Veränderungen hinsichtlich der Gefahrenlage. Das Risiko der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 8,6 als \"hoch\" eingestuft.\nLinux Kernel Bug: Auswirkungen eines IT-Angriffs\nDer Kernel stellt den Kern des Linux Betriebssystems dar.\nEin Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und um nicht näher spezifizierte Auswirkungen zu erzielen.\nKlassifiziert wurden die Schwachstellen mithilfe des CVE-Bezeichnungssystems (Common Vulnerabilities and Exposures) durch die individuellen Seriennummern CVE-2024-58022, CVE-2024-58034, CVE-2024-58042, CVE-2025-21798, CVE-2025-21799, CVE-2025-21800, CVE-2025-21801, CVE-2025-21802, CVE-2025-21803, CVE-2025-21804, CVE-2025-21805, CVE-2025-21806, CVE-2025-21807, CVE-2025-21808, CVE-2025-21809, CVE-2025-21810, CVE-2025-21811, CVE-2025-21812, CVE-2025-21813, CVE-2025-21814, CVE-2025-21815, CVE-2025-21816, CVE-2025-21817, CVE-2025-21818, CVE-2025-21819, CVE-2025-21820, CVE-2025-21821, CVE-2025-21822, CVE-2025-21823 und CVE-2025-21824.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssystem\nLinux\nProdukte\nGoogle Container-Optimized OS (cpe:/o:google:container-optimized_os)\nDebian Linux (cpe:/o:debian:debian_linux)\nAmazon Linux 2 (cpe:/o:amazon:linux_2)\nUbuntu Linux (cpe:/o:canonical:ubuntu_linux)\nSUSE Linux (cpe:/o:suse:suse_linux)\nOracle Linux (cpe:/o:oracle:linux)\nOpen Source Linux Kernel <6.13.4 (cpe:/o:linux:linux_kernel)\nOpen Source Linux Kernel 6.13.4 (cpe:/o:linux:linux_kernel)\nOpen Source Linux Kernel <6.12.16 (cpe:/o:linux:linux_kernel)\nOpen Source Linux Kernel 6.12.16 (cpe:/o:linux:linux_kernel)\nOpen Source Linux Kernel <6.6.79 (cpe:/o:linux:linux_kernel)\nOpen Source Linux Kernel 6.6.79 (cpe:/o:linux:linux_kernel)\nOpen Source Linux Kernel <6.1.129 (cpe:/o:linux:linux_kernel)\nOpen Source Linux Kernel 6.1.129 (cpe:/o:linux:linux_kernel)\nOpen Source Linux Kernel <6.14-rc3 (cpe:/o:linux:linux_kernel)\nOpen Source Linux Kernel 6.14-rc3 (cpe:/o:linux:linux_kernel)\nAllgemeine Empfehlungen zum Umgang mit IT-Sicherheitslücken\n- Anwender der betroffenen Anwendungen sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten Sicherheitspatches verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten regelmäßig prüfen, wann das herstellende Unternehmen ein neues Sicherheitsupdate zur Verfügung stellt.\nQuellen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nUbuntu Security Notice USN-7703-2 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7703-2\nUbuntu Security Notice USN-7703-1 vom 2025-08-20 (19.08.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7703-1\nDebian Security Advisory DSA-5973 vom 2025-08-12 (12.08.2025)\nWeitere Informationen finden Sie unter: https://lists.debian.org/debian-security-announce/2025/msg00137.html\nUbuntu Security Notice USN-7651-6 vom 2025-07-24 (24.07.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7651-6\nUbuntu Security Notice USN-7651-5 vom 2025-07-24 (23.07.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7651-5\nUbuntu Security Notice USN-7651-4 vom 2025-07-22 (22.07.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7651-4\nUbuntu Security Notice USN-7651-3 vom 2025-07-22 (21.07.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7651-3\nUbuntu Security Notice USN-7651-2 vom 2025-07-18 (17.07.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7651-2\nUbuntu Security Notice USN-7651-1 vom 2025-07-17 (17.07.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7651-1\nUbuntu Security Notice USN-7652-1 vom 2025-07-17 (17.07.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7652-1\nUbuntu Security Notice USN-7653-1 vom 2025-07-17 (17.07.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7653-1\nUbuntu Security Notice USN-7640-1 vom 2025-07-16 (16.07.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7640-1\nSUSE Security Update SUSE-SU-2025:02333-1 vom 2025-07-16 (16.07.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-July/021830.html\nSUSE Security Update SUSE-SU-2025:02307-1 vom 2025-07-14 (14.07.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-July/021804.html\nSUSE Security Update SUSE-SU-2025:02254-1 vom 2025-07-08 (08.07.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-July/021770.html\nOracle Linux Security Advisory ELSA-2025-20406 vom 2025-07-08 (08.07.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-20406.html\nAmazon Linux Security Advisory ALAS2LIVEPATCH-2025-235 vom 2025-06-30 (30.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-235.html\nAmazon Linux Security Advisory ALAS2LIVEPATCH-2025-236 vom 2025-06-30 (30.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-236.html\nAmazon Linux Security Advisory ALAS2LIVEPATCH-2025-238 vom 2025-06-30 (30.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-238.html\nAmazon Linux Security Advisory ALAS2LIVEPATCH-2025-234 vom 2025-06-30 (30.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-234.html\nAmazon Linux Security Advisory ALAS2LIVEPATCH-2025-237 vom 2025-06-30 (30.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-237.html\nUbuntu Security Notice USN-7602-1 vom 2025-06-26 (26.06.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7602-1\nUbuntu Security Notice USN-7593-1 vom 2025-06-24 (23.06.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7593-1\nSUSE Security Update SUSE-SU-2025:20421-1 vom 2025-06-20 (19.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021590.html\nSUSE Security Update SUSE-SU-2025:20419-1 vom 2025-06-20 (19.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021591.html\nSUSE Security Update SUSE-SU-2025:02000-1 vom 2025-06-18 (19.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021568.html\nSUSE Security Update SUSE-SU-2025:01995-1 vom 2025-06-18 (19.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021572.html\nSUSE Security Update SUSE-SU-2025:01982-1 vom 2025-06-17 (17.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021539.html\nSUSE Security Update SUSE-SU-2025:01983-1 vom 2025-06-17 (17.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021538.html\nSUSE Security Update SUSE-SU-2025:20413-1 vom 2025-06-17 (17.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021547.html\nSUSE Security Update SUSE-SU-2025:20408-1 vom 2025-06-17 (17.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021550.html\nSUSE Security Update SUSE-SU-2025:01972-1 vom 2025-06-17 (17.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021537.html\nSUSE Security Update SUSE-SU-2025:01967-1 vom 2025-06-16 (16.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021533.html\nSUSE Security Update SUSE-SU-2025:01965-1 vom 2025-06-16 (16.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021535.html\nSUSE Security Update SUSE-SU-2025:01964-1 vom 2025-06-16 (16.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021531.html\nSUSE Security Update SUSE-SU-2025:01951-1 vom 2025-06-13 (15.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021509.html\nSUSE Security Update SUSE-SU-2025:01919-1 vom 2025-06-12 (11.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021477.html\nAmazon Linux Security Advisory ALASLIVEPATCH-2025-234 vom 2025-06-12 (11.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-234.html\nAmazon Linux Security Advisory ALASLIVEPATCH-2025-235 vom 2025-06-12 (11.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-235.html\nAmazon Linux Security Advisory ALASLIVEPATCH-2025-238 vom 2025-06-12 (11.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-238.html\nAmazon Linux Security Advisory ALASLIVEPATCH-2025-237 vom 2025-06-12 (11.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-237.html\nAmazon Linux Security Advisory ALASLIVEPATCH-2025-236 vom 2025-06-12 (11.06.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-236.html\nSUSE Security Update SUSE-SU-2025:20190-1 vom 2025-06-04 (03.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021154.html\nSUSE Security Update SUSE-SU-2025:20206-1 vom 2025-06-04 (03.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021137.html\nSUSE Security Update SUSE-SU-2025:20192-1 vom 2025-06-04 (03.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021150.html\nSUSE Security Update SUSE-SU-2025:20270-1 vom 2025-06-04 (03.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021056.html\nSUSE Security Update SUSE-SU-2025:20260-1 vom 2025-06-04 (03.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021058.html\nSUSE Security Update SUSE-SU-2025:20283-1 vom 2025-06-04 (03.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021049.html\nSUSE Security Update SUSE-SU-2025:20355-1 vom 2025-06-02 (02.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021015.html\nSUSE Security Update SUSE-SU-2025:20354-1 vom 2025-06-02 (02.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021016.html\nSUSE Security Update SUSE-SU-2025:20344-1 vom 2025-05-29 (29.05.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-May/020964.html\nUbuntu Security Notice USN-7516-8 vom 2025-05-29 (29.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7516-8\nUbuntu Security Notice USN-7516-9 vom 2025-05-29 (29.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7516-9\nSUSE Security Update SUSE-SU-2025:20343-1 vom 2025-05-29 (29.05.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-May/020965.html\nUbuntu Security Notice USN-7510-8 vom 2025-05-29 (29.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7510-8\nUbuntu Security Notice USN-7516-7 vom 2025-05-29 (29.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7516-7\nUbuntu Security Notice USN-7540-1 vom 2025-05-28 (27.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7540-1\nUbuntu Security Notice USN-7510-7 vom 2025-05-28 (27.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7510-7\nUbuntu Security Notice USN-7521-3 vom 2025-05-28 (27.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7521-3\nUbuntu Security Notice USN-7539-1 vom 2025-05-28 (27.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7539-1\nUbuntu Security Notice USN-7510-6 vom 2025-05-27 (27.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7510-6\nUbuntu Security Notice USN-7517-3 vom 2025-05-26 (26.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7517-3\nUbuntu Security Notice USN-7516-6 vom 2025-05-26 (26.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7516-6\nSUSE Security Update SUSE-SU-2025:01707-1 vom 2025-05-26 (26.05.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-May/020902.html\nDebian Security Advisory DLA-4178 vom 2025-05-26 (26.05.2025)\nWeitere Informationen finden Sie unter: https://lists.debian.org/debian-lts-announce/2025/05/msg00030.html\nUbuntu Security Notice USN-7516-5 vom 2025-05-23 (22.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7516-5\nUbuntu Security Notice USN-7521-2 vom 2025-05-22 (22.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7521-2\nUbuntu Security Notice USN-7516-4 vom 2025-05-21 (21.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7516-4\nUbuntu Security Notice USN-7517-2 vom 2025-05-21 (21.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7517-2\nSUSE Security Update SUSE-SU-2025:01620-1 vom 2025-05-21 (21.05.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-May/020867.html\nSUSE Security Update SUSE-SU-2025:01614-1 vom 2025-05-21 (21.05.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-May/020870.html\nSUSE Security Update SUSE-SU-2025:01627-1 vom 2025-05-21 (21.05.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-May/020866.html\nSUSE Security Update SUSE-SU-2025:01640-1 vom 2025-05-21 (21.05.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-May/020861.html\nSUSE Security Update SUSE-SU-2025:01600-1 vom 2025-05-20 (20.05.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-May/020854.html\nUbuntu Security Notice USN-7511-3 vom 2025-05-20 (20.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7511-3\nUbuntu Security Notice USN-7510-3 vom 2025-05-20 (20.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7510-3\nUbuntu Security Notice USN-7510-4 vom 2025-05-20 (20.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7510-4\nUbuntu Security Notice USN-7516-3 vom 2025-05-20 (20.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7516-3\nUbuntu Security Notice USN-7510-5 vom 2025-05-20 (20.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7510-5\nUbuntu Security Notice USN-7521-1 vom 2025-05-20 (20.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7521-1\nUbuntu Security Notice USN-7518-1 vom 2025-05-20 (19.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7518-1\nUbuntu Security Notice USN-7517-1 vom 2025-05-16 (18.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7517-1\nUbuntu Security Notice USN-7511-1 vom 2025-05-16 (18.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7511-1\nUbuntu Security Notice USN-7516-2 vom 2025-05-16 (18.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7511-2\nUbuntu Security Notice USN-7510-2 vom 2025-05-16 (18.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7510-2\nUbuntu Security Notice USN-7512-1 vom 2025-05-16 (18.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7512-1\nUbuntu Security Notice USN-7516-1 vom 2025-05-16 (18.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7516-1\nSUSE Security Update SUSE-SU-2025:1573-1 vom 2025-05-16 (18.05.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-May/020836.html\nUbuntu Security Notice USN-7510-1 vom 2025-05-16 (18.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7510-1\nUbuntu Security Notice USN-7489-2 vom 2025-05-07 (07.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7489-2\nUbuntu Security Notice USN-7499-1 vom 2025-05-07 (06.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7499-1\nUbuntu Security Notice USN-7491-1 vom 2025-05-06 (06.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7491-1\nUbuntu Security Notice USN-7489-1 vom 2025-05-06 (06.05.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7489-1\nAmazon Linux Security Advisory ALASKERNEL-5.10-2025-088 vom 2025-04-16 (16.04.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-088.html\nContainer-Optimized OS release notes vom 2025-04-16 (15.04.2025)\nWeitere Informationen finden Sie unter: https://cloud.google.com/container-optimized-os/docs/release-notes#April_14_2025\nSUSE Security Update SUSE-SU-2025:1293-1 vom 2025-04-16 (15.04.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-April/020712.html\nSUSE Security Update SUSE-SU-2025:1180-1 vom 2025-04-09 (08.04.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/message/DGJ23MSZWYIA7MJ47RNVV6T27Z324VKA/\nSUSE Security Update SUSE-SU-2025:1178-1 vom 2025-04-08 (08.04.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-April/020674.html\nSUSE Security Update SUSE-SU-2025:1177-1 vom 2025-04-08 (08.04.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-April/020670.html\nDebian Security Advisory DLA-4102 vom 2025-04-01 (31.03.2025)\nWeitere Informationen finden Sie unter: https://lists.debian.org/debian-lts-announce/2025/03/msg00028.html\nSUSE Security Update SUSE-SU-2025:0955-1 vom 2025-03-19 (19.03.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-March/020563.html\nSUSE Security Update SUSE-SU-2025:0856-1 vom 2025-03-13 (13.03.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/OSPHACQPT5GWCIN3WJL55RCYA4OHTBLI/\nSUSE Security Update SUSE-SU-2025:0856-1 vom 2025-03-13 (13.03.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/message/OSPHACQPT5GWCIN3WJL55RCYA4OHTBLI/\nSUSE Security Update SUSE-SU-2025:0856-1 vom 2025-03-13 (13.03.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-March/020508.html\nSUSE Security Update SUSE-SU-2025:0847-1 vom 2025-03-12 (12.03.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-March/020505.html\nLinux Kernel CVE Announcement CVE-2025-21824 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022708-CVE-2025-21824-1a04@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21823 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022708-CVE-2025-21823-9027@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21822 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022707-CVE-2025-21822-88c0@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21821 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022707-CVE-2025-21821-ae41@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21820 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022710-CVE-2025-21820-f4ab@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21819 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022710-CVE-2025-21819-5549@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21818 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022710-CVE-2025-21818-27ee@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21817 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022710-CVE-2025-21817-2fc8@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21816 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022709-CVE-2025-21816-bbd4@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21815 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022709-CVE-2025-21815-19c9@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21814 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022709-CVE-2025-21814-d723@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21813 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022709-CVE-2025-21813-9e46@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21812 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022754-CVE-2025-21812-9b17@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21811 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022754-CVE-2025-21811-beb7@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21810 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022754-CVE-2025-21810-0c14@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21809 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022754-CVE-2025-21809-4258@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21808 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022753-CVE-2025-21808-b8bf@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21807 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022753-CVE-2025-21807-a4bb@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21806 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022753-CVE-2025-21806-7910@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21805 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022753-CVE-2025-21805-7256@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21804 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022753-CVE-2025-21804-dea6@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21803 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022752-CVE-2025-21803-e8ea@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21802 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022752-CVE-2025-21802-0cc5@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21801 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022752-CVE-2025-21801-5496@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21800 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022752-CVE-2025-21800-d1e6@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21799 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022752-CVE-2025-21799-0420@gregkh/\nLinux Kernel CVE Announcement CVE-2025-21798 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022751-CVE-2025-21798-5fcb@gregkh/\nLinux Kernel CVE Announcement CVE-2024-58042 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022751-CVE-2024-58042-c5ba@gregkh/\nLinux Kernel CVE Announcement CVE-2024-58034 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022751-CVE-2024-58034-36fb@gregkh/\nLinux Kernel CVE Announcement CVE-2024-58022 (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025022748-CVE-2024-58022-60ab@gregkh/\nKernel CVE Announce Mailingliste (27.02.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/\nVersionshistorie dieser Sicherheitswarnung\nDies ist die 40. Version des vorliegenden IT-Sicherheitshinweises für Linux Kernel. Sollten weitere Updates bekanntgegeben werden, wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.\n27.02.2025 - Initiale Fassung\n12.03.2025 - Neue Updates von SUSE aufgenommen\n13.03.2025 - Neue Updates von SUSE aufgenommen\n19.03.2025 - Neue Updates von SUSE aufgenommen\n31.03.2025 - Neue Updates von Debian aufgenommen\n08.04.2025 - Neue Updates von SUSE aufgenommen\n15.04.2025 - Neue Updates von SUSE aufgenommen\n16.04.2025 - Neue Updates von Amazon aufgenommen\n06.05.2025 - Neue Updates von Ubuntu aufgenommen\n07.05.2025 - Neue Updates von Ubuntu aufgenommen\n18.05.2025 - Neue Updates von Ubuntu und SUSE aufgenommen\n19.05.2025 - Neue Updates von Ubuntu aufgenommen\n20.05.2025 - Neue Updates von Ubuntu und SUSE aufgenommen\n21.05.2025 - Neue Updates von SUSE und Ubuntu aufgenommen\n22.05.2025 - Neue Updates von Ubuntu aufgenommen\n26.05.2025 - Neue Updates von Debian, SUSE und Ubuntu aufgenommen\n27.05.2025 - Neue Updates von Ubuntu aufgenommen\n29.05.2025 - Neue Updates von Ubuntu und SUSE aufgenommen\n02.06.2025 - Neue Updates von SUSE aufgenommen\n03.06.2025 - Neue Updates von SUSE aufgenommen\n11.06.2025 - Neue Updates von Amazon aufgenommen\n15.06.2025 - Neue Updates von SUSE aufgenommen\n16.06.2025 - Neue Updates von SUSE aufgenommen\n17.06.2025 - Neue Updates von SUSE aufgenommen\n19.06.2025 - Neue Updates von SUSE aufgenommen\n23.06.2025 - Neue Updates von Ubuntu aufgenommen\n26.06.2025 - Neue Updates von Ubuntu aufgenommen\n30.06.2025 - Neue Updates von Amazon aufgenommen\n08.07.2025 - Neue Updates von Oracle Linux und SUSE aufgenommen\n14.07.2025 - Neue Updates von SUSE aufgenommen\n16.07.2025 - Neue Updates von SUSE aufgenommen\n17.07.2025 - Neue Updates von Ubuntu aufgenommen\n21.07.2025 - Neue Updates von Ubuntu aufgenommen\n22.07.2025 - Neue Updates von Ubuntu aufgenommen\n23.07.2025 - Neue Updates von Ubuntu aufgenommen\n24.07.2025 - Neue Updates von Ubuntu aufgenommen\n31.07.2025 - Referenz(en) aufgenommen:\n12.08.2025 - Neue Updates von Debian aufgenommen\n19.08.2025 - Neue Updates von Ubuntu aufgenommen\n20.08.2025 - Neue Updates von Ubuntu aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ubuntu.com/security/notices/USN-7489-2",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-March/020563.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-July/021804.html",
+    "https://lore.kernel.org/linux-cve-announce/2025022751-CVE-2025-21798-5fcb@gregkh/",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021550.html",
+    "https://lists.debian.org/debian-lts-announce/2025/05/msg00030.html",
+    "https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-236.html",
+    "https://lore.kernel.org/linux-cve-announce/2025022754-CVE-2025-21812-9b17@gregkh/",
+    "https://alas.aws.amazon.com/AL2/ALASKERNEL-5.10-2025-088.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021154.html",
+    "https://ubuntu.com/security/notices/USN-7517-1",
+    "https://ubuntu.com/security/notices/USN-7511-2",
+    "https://ubuntu.com/security/notices/USN-7517-3",
+    "https://ubuntu.com/security/notices/USN-7517-2",
+    "https://cloud.google.com/container-optimized-os/docs/release-notes#April_14_2025",
+    "https://ubuntu.com/security/notices/USN-7510-6",
+    "https://ubuntu.com/security/notices/USN-7512-1",
+    "https://lore.kernel.org/linux-cve-announce/2025022753-CVE-2025-21805-7256@gregkh/",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-March/020505.html",
+    "https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-234.html",
+    "https://ubuntu.com/security/notices/USN-7651-5",
+    "https://lore.kernel.org/linux-cve-announce/2025022710-CVE-2025-21819-5549@gregkh/",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-April/020674.html",
+    "https://ubuntu.com/security/notices/USN-7510-8",
+    "https://ubuntu.com/security/notices/USN-7510-2",
+    "https://ubuntu.com/security/notices/USN-7510-3",
+    "https://lore.kernel.org/linux-cve-announce/2025022751-CVE-2024-58034-36fb@gregkh/",
+    "https://ubuntu.com/security/notices/USN-7510-1",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021531.html",
+    "https://ubuntu.com/security/notices/USN-7510-7",
+    "https://ubuntu.com/security/notices/USN-7510-4",
+    "https://ubuntu.com/security/notices/USN-7510-5",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021049.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021538.html",
+    "https://ubuntu.com/security/notices/USN-7651-6",
+    "https://ubuntu.com/security/notices/USN-7593-1",
+    "https://lore.kernel.org/linux-cve-announce/2025022754-CVE-2025-21810-0c14@gregkh/",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-May/020861.html",
+    "https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-238.html",
+    "https://lore.kernel.org/linux-cve-announce/2025022709-CVE-2025-21814-d723@gregkh/",
+    "https://lore.kernel.org/linux-cve-announce/2025022753-CVE-2025-21806-7910@gregkh/",
+    "https://lore.kernel.org/linux-cve-announce/2025022754-CVE-2025-21809-4258@gregkh/",
+    "https://ubuntu.com/security/notices/USN-7640-1",
+    "https://ubuntu.com/security/notices/USN-7521-2",
+    "https://ubuntu.com/security/notices/USN-7521-3",
+    "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-238.html",
+    "https://ubuntu.com/security/notices/USN-7521-1",
+    "https://lore.kernel.org/linux-cve-announce/2025022752-CVE-2025-21803-e8ea@gregkh/",
+    "https://twitter.com/news_de",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-April/020712.html",
+    "https://lore.kernel.org/linux-cve-announce/2025022753-CVE-2025-21804-dea6@gregkh/",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021535.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021150.html",
+    "https://www.facebook.com/News.de",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-May/020964.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021509.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-May/020836.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-May/020866.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-July/021770.html",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/message/DGJ23MSZWYIA7MJ47RNVV6T27Z324VKA/",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/OSPHACQPT5GWCIN3WJL55RCYA4OHTBLI/",
+    "https://ubuntu.com/security/notices/USN-7491-1",
+    "https://ubuntu.com/security/notices/USN-7511-3",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021590.html",
+    "https://lore.kernel.org/linux-cve-announce/",
+    "https://ubuntu.com/security/notices/USN-7511-1",
+    "https://linux.oracle.com/errata/ELSA-2025-20406.html",
+    "https://alas.aws.amazon.com/AL2/ALAS2LIVEPATCH-2025-235.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-April/020670.html",
+    "https://lore.kernel.org/linux-cve-announce/2025022752-CVE-2025-21801-5496@gregkh/",
+    "https://lore.kernel.org/linux-cve-announce/2025022710-CVE-2025-21817-2fc8@gregkh/",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021533.html",
+    "https://ubuntu.com/security/notices/USN-7499-1",
+    "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-235.html",
+    "https://lore.kernel.org/linux-cve-announce/2025022707-CVE-2025-21822-88c0@gregkh/",
+    "https://alas.aws.amazon.com/AL2/ALASLIVEPATCH-2025-237.html",
+    "https://ubuntu.com/security/notices/USN-7653-1",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-May/020902.html",
+    "https://lore.kernel.org/linux-cve-announce/2025022708-CVE-2025-21824-1a04@gregkh/",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-May/020870.html",
+    "https://ubuntu.com/security/notices/USN-7518-1",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021539.html",
+    "https://lore.kernel.org/linux-cve-announce/2025022753-CVE-2025-21807-a4bb@gregkh/",
+    "https://lore.kernel.org/linux-cve-announce/2025022751-CVE-2024-58042-c5ba@gregkh/",
+    "https://pin.it/11NQyAf",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021016.html",
+    "https://ubuntu.com/security/notices/USN-7516-1",
+    "https://ubuntu.com/security/notices/USN-7516-3",
+    "https://ubuntu.com/security/notices/USN-7516-4",
+    "https://ubuntu.com/security/notices/USN-7516-5",
+    "https://ubuntu.com/security/notices/USN-7516-6",
+    "https://ubuntu.com/security/notices/USN-7516-7",
+    "https://ubuntu.com/security/notices/USN-7516-8",
+    "https://ubuntu.com/security/notices/USN-7516-9",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021568.html",
+    "https://ubuntu.com/security/notices/USN-7540-1",
+    "https://ubuntu.com/security/notices/USN-7703-1",
+    "https://ubuntu.com/security/notices/USN-7703-2",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/message/OSPHACQPT5GWCIN3WJL55RCYA4OHTBLI/",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-May/020965.html"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Oracle Linux",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Google",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:42.999+03:00",
+  "updated": "2025-08-22T14:05:53.000+03:00"
+}

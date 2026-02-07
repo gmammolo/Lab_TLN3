@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "0e8336eb1431163cef51afa9e06f406954ee6157",
+    "url": "https://thequantuminsider.com/2024/11/22/gao-warns-of-quantum-threat-to-u-s-cybersecurity-amid-leadership-and-strategy-gaps",
+    "site_full": "thequantuminsider.com",
+    "site": "thequantuminsider.com",
+    "site_section": "https://thequantuminsider.com/rss",
+    "site_categories": [],
+    "section_title": "The Quantum Insider",
+    "title": "GAO Warns of Quantum Threat to U.S. Cybersecurity Amid Leadership and Strategy Gaps",
+    "title_full": "GAO Warns of Quantum Threat to U.S. Cybersecurity Amid Leadership and Strategy Gaps",
+    "published": "2024-11-22T11:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 53126,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0e8336eb1431163cef51afa9e06f406954ee6157",
+  "url": "https://thequantuminsider.com/2024/11/22/gao-warns-of-quantum-threat-to-u-s-cybersecurity-amid-leadership-and-strategy-gaps",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Matt Swayne",
+  "published": "2024-11-22T11:34:00.000+02:00",
+  "title": "GAO Warns of Quantum Threat to U.S. Cybersecurity Amid Leadership and Strategy Gaps",
+  "text": "Insider Brief\n- A GAO report warns that the U.S. faces significant cybersecurity risks from quantum computing due to leadership gaps and an incomplete national strategy.\n- While efforts to develop post-quantum cryptography and secure federal systems are underway, critical infrastructure sectors lack clear guidance and support for the transition.\n- The report calls for the Office of the National Cyber Director to take charge, coordinate efforts, and address funding and accountability gaps to mitigate the growing threat.\nThe U.S. faces a critical cybersecurity threat as quantum computers edge closer to disrupting the cryptographic systems that secure vital government and infrastructure data, according to [a Government Accountability Office (GAO) report](https://www.gao.gov/assets/gao-25-107703.pdf). Without clear leadership and a cohesive national strategy, experts warn, the nation remains vulnerable.\nWhat’s at Stake?\nCryptography is the backbone of modern cybersecurity, protecting everything from classified government communications to financial transactions and energy systems, the report states. It works by using complex mathematical puzzles that take conventional computers years — or even centuries — to solve. But quantum computers, with their unique capabilities, could theoretically bypass these defenses in hours, according to the GAO.\nThe report also recognizes a need for action now, even if quantum computers powerful enough to hack current cryptographic schemes remain in the future.\n“Adversaries could intercept sensitive information today, store it, and decrypt it later when quantum computers become more powerful,” GAO analysts wrote. Known as “harvest now, decrypt later,” this threat means action is needed now to secure data for the future.\nThe development of a cryptographically relevant quantum computer (CRQC) — one capable of breaking these mathematical defenses — could happen within the next 10 to 20 years, the report estimates. This timeline has left federal agencies and critical infrastructure owners scrambling to prepare.\nA Patchwork Strategy\nAlthough the U.S. has taken steps to address these risks, the GAO found the national quantum cybersecurity strategy lacking in several areas. Efforts so far have focused on three main goals: creating new cryptographic methods resistant to quantum attacks (post-quantum cryptography, or PQC), transitioning federal systems to these methods and encouraging private industries to follow suit.\nHowever, the GAO report points out that while the first two goals are partially addressed, the third — bringing industries like finance, healthcare, and utilities on board — has been neglected. Milestones for federal agencies are incomplete, and there are no performance measures to gauge progress.\nCritical infrastructure sectors have not received clear guidance or support for the transition to post-quantum cryptography, GAO analysts suggest, adding that this could leave some of the most essential systems unprotected.\nThe report states: “The government’s quantum computing cybersecurity strategy documents identified objectives and activities for the first two goals related to standardizing PQC and transitioning federal agency systems to PQC. However, the documents did not fully define objectives or activities for the\nother goal of encouraging all sectors — including critical infrastructure — to migrate to PQC.”\nLeadership Void\nOne of the report’s starkest findings is the lack of a central authority to oversee and coordinate these efforts. The GAO singled out the [Office of the National Cyber Director](https://www.whitehouse.gov/oncd/) (ONCD), established in 2021, as the agency best positioned to fill this gap. However, the ONCD has not yet embraced this role, leaving agencies and private companies without a unified direction.\nThe leadership vacuum could be slowing progress and increasing risks. Without clear accountability, participants may be left uncertain about their responsibilities and objectives, the report indicates.\nThe Price of Protection\nSecuring federal systems alone will come with a steep price tag. The Office of Management and Budget (OMB) estimates that migrating government systems to quantum-safe cryptography could cost $7.1 billion over the next decade. However, even this figure is uncertain, with the GAO noting that agencies have yet to fully assess their needs and resources.\nReferring to the OMB report, the GAO analysts write: “According to the report, this figure represents an initial rough order of magnitude projection with a high level of uncertainty. OMB’s report added that agencies are required to update their cost estimates annually to allow for adjustments as they gain familiarity with their inventories of existing cryptography and costing methodologies, as well as the transition process.”\nPrivate industry faces an even larger challenge. Many critical infrastructure sectors operate on outdated or specialized equipment that was never designed to handle advanced cryptographic methods. These legacy systems, the report explains, will be particularly difficult and costly to upgrade.\nAn International Race\nThe U.S. is not alone in grappling with quantum threats. International organizations like [NATO](https://www.nato.int/docu/review/articles/2021/06/03/quantum-technologies-in-defence-security/index.html) and the [European Union](https://digital-strategy.ec.europa.eu/en/news/commission-publishes-recommendation-post-quantum-cryptography) are already pushing for quantum-safe encryption. Many have adopted a “hybrid” approach that combines existing cryptographic methods with post-quantum solutions to ensure better protection during the transition.\nMajor tech companies, including Amazon, Apple and Google, have also started incorporating hybrid cryptography into their products. The GAO notes that while these efforts are promising, they bring added complexity and cost, requiring organizations to effectively undergo two migrations: one to hybrid systems and another to fully quantum-safe cryptography.\nThe U.S. strategy, by contrast, lacks integration with these global efforts, leaving gaps that adversaries could exploit. Coordinating with international partners could strengthen protections and reduce duplication of effort, the GAO report suggests.\nWhat Needs to Happen Next\nThe GAO laid out several recommendations to address these vulnerabilities. As mentioned, one of the central recommendations is designating the ONCD as the lead agency for quantum cybersecurity efforts. The ONCD should coordinate with federal agencies, private industries, and international partners to create a unified, actionable strategy. This includes setting measurable goals, timelines, and accountability frameworks.\nThe report also calls for more robust funding plans. Agencies need clear budgets and staffing resources to complete the transition to quantum-safe cryptography. Private industries, meanwhile, could benefit from government incentives to offset the high costs of securing critical infrastructure.\nThis leadership is crucial for the U.S. to keep pace with a rapidly emerging technological area critical to national security, the analysts report.\nA Window of Opportunity\nWhile the threats posed by quantum computing are serious, the GAO emphasizes that there is still time to act. The 10-to-20-year timeline provides a window for federal agencies and private companies to prepare. But this will require decisive action now, the report concludes.\nThe report offers the following conclusion: “Federal agencies and critical infrastructure owners and operators face an urgent need to transition to PQC to address the threat to the cryptography that our nation relies on to protect sensitive information. This transition is particularly critical given the potential for adversaries to copy sensitive data today and access it once a CRQC becomes available. Federal agencies recognize the quantum computing threat and have taken some actions to partially address it. Designating leadership committed to fully implementing desirable characteristics of a national strategy is essential to ensure success. ONCD is well-positioned to fill this gap and provide a comprehensive roadmap for the transition to PQC.”\nThis article attempts to summarize the main points of the GAO analysis, but please read [the entire report for a more full analysis of the situation](https://www.gao.gov/assets/gao-25-107703.pdf).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "GAO",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Government Accountability Office",
+        "sentiment": "none"
+      },
+      {
+        "name": "Office of the National",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:54:41.933+02:00",
+  "updated": "2024-11-27T15:31:29.046+02:00"
+}

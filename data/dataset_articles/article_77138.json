@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "841199f03cf332d180d0c65e7e9452844cd9616b",
+    "url": "https://themalaysianreserve.com/2025/08/14/tenable-cracks-gpt-5-safety-in-24-hours-exposes-critical-ai-vulnerabilities/",
+    "site_full": "themalaysianreserve.com",
+    "site": "themalaysianreserve.com",
+    "site_section": "https://www.arah.my",
+    "site_categories": [
+      "media",
+      "financial_news",
+      "finance"
+    ],
+    "section_title": "Arah.my",
+    "site_title": null,
+    "title": "Tenable cracks GPT-5 safety in 24 hours, exposes critical AI vulnerabilities",
+    "title_full": "Tenable cracks GPT-5 safety in 24 hours, exposes critical AI vulnerabilities",
+    "published": "2025-08-14T09:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 32975,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "841199f03cf332d180d0c65e7e9452844cd9616b",
+  "url": "https://themalaysianreserve.com/2025/08/14/tenable-cracks-gpt-5-safety-in-24-hours-exposes-critical-ai-vulnerabilities/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-14T09:30:00.000+03:00",
+  "title": "Tenable cracks GPT-5 safety in 24 hours, exposes critical AI vulnerabilities",
+  "text": "(Photo by BLOOMBERG) by SHAUQI WAHAB\nCYBER security firm Tenable has bypassed safety features of OpenAI’s newly launched GPT-5 model within 24 hours of its release, which the latter promoted as significantly more sophisticated.\nTenable revealed that by using a social engineering method known as the crescendo technique, its researchers were able to compel the model to provide detailed instructions for building a Molotov cocktail.\nThis was achieved in just four prompts by posing as a history student seeking historical context and a recipe for the incendiary device.\nOpenAI introduced GPT-5 on Aug 7, 2025, touting its enhanced guardrails designed to prevent harmful or illegal use.\nHowever, Tenable’s findings highlight a major vulnerability, showing that even advanced artificial intelligence (AI) systems remain susceptible to manipulation for malicious purposes.\nIts blog joins a growing number of reports from researchers and users who have documented jailbreaks, hallucinations and quality issues with GPT-5 since its debut.\nTenable VP and product management Tomer Avni said the ease where his team bypassed GPT-5’s new safety protocols proves that even the most advanced AI is not foolproof.\nHe added that it creates a significant danger for organisations where these tools are being rapidly adopted by employees, often without oversight.\n“Without proper visibility and governance, businesses are unknowingly exposed to serious security, ethical and compliance risks.\n“This incident is a clear call for a dedicated AI exposure management strategy to secure every model in use,” he said in a statement.\nWhile OpenAI has acknowledged the issue and stated it is working on fixes, the incident points out that built-in safety mechanisms alone are insufficient for protecting against misuse.\nTenable argued that solutions are essential for ensuring organisations can manage and monitor the AI tools they deploy, consume and build, maintaining compliance with global regulations and safeguarding against security and ethical breaches.\nRELATED ARTICLES Tuesday, November 19, 2024 MOH evaluating AI tech for cancer detection\nThursday, December 20, 2018 Osome gearing up to capture Singapore’s new company registration market\nSaturday, October 26, 2024 Govt needs to empower Malaysian MSMEs with AI, digital tech — Gobind\nMonday, April 29, 2019 Everise sees exponential growth in M’sia\nTuesday, January 7, 2020 Alibaba: Tech trends to look out this year\nThursday, October 11, 2018 Huawei to beat Qualcomm, Nvidia with new AI chips\nThe post Tenable cracks GPT-5 safety in 24 hours, exposes critical AI vulnerabilities appeared first on The Malaysian Reserve.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->cyber crime",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://arah.my/wp-content/uploads/2025/08/dzul-1024x731-1.jpeg",
+    "https://www.arah.my/wp-content/uploads/2025/08/dzul-1024x731-1.jpeg"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tomer Avni",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "BLOOMBERG",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:33:00.225+03:00",
+  "updated": "2025-08-14T10:48:19.000+03:00"
+}

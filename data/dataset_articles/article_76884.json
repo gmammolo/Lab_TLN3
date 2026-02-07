@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "1f4d099a4fbc2d91101dbd97d927861dbdeb5c39",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-08-14/doc-infkxpue2451019.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://tech.sina.com.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪科技_新浪网",
+    "site_title": null,
+    "title": "突破！联通可信密算平台：国产化信创环境下打造数据密态计算新引擎|联通_新浪科技_新浪网",
+    "title_full": "突破！联通可信密算平台：国产化信创环境下打造数据密态计算新引擎|联通_新浪科技_新浪网",
+    "published": "2025-08-14T09:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1f4d099a4fbc2d91101dbd97d927861dbdeb5c39",
+  "url": "https://finance.sina.com.cn/tech/roll/2025-08-14/doc-infkxpue2451019.shtml",
+  "ord_in_thread": 0,
+  "author": "飞象网",
+  "published": "2025-08-14T09:10:00.000+03:00",
+  "title": "突破！联通可信密算平台：国产化信创环境下打造数据密态计算新引擎|联通_新浪科技_新浪网",
+  "text": "数字化社会，数据已跃升为 “黄金” 般的核心战略资源，价值与日俱增。《国家数据基础设施建设指引》提出，数据作为关键生产要素，其无限复制性、非损耗性、非竞争性与非排他性等特性，导致未经授权的数据复制与泄露现象屡禁不止，如何在保障安全与隐私前提下充分挖掘数据价值，成为各行业在数据流通利用环节面临的关键难题。\n在此背景下，联通可信密算平台应运而生。该平台融合数据胶囊、密态计算、可信执行环境(Trusted Execution Environment, TEE)等先进技术，在国家倡导的安全可信环境中，保障数据要素及大模型流转全过程 “可用不可见”，既契合国家数据基础设施对数据流通利用设施的安全与效率要求，又为体系内数据安全流通与价值释放提供创新解决方案，助力形成协同联动、规模流通、高效利用、规范可信的数据流通利用公共服务体系。\n技术探秘：前沿科技的深度融合\n联通可信密算平台依据数据基础设施系列标准及技术文件打造，可确保数据提供方的大规模数据、模型出域后仍处于可管、可控、可追溯状态。当前，隐私计算在大规模数据要素流通中存在效率低、成本高、重复部署等问题，尤其难以满足大模型场景下数据大规模流通的需求，而联通可信密算平台给出了破解之法。\n作为基于可信执行环境TEE的全密态计算平台，它融合环境、身份、算法、传输、存储、计算等多维度可信要素，实现了接近明文计算效率的密态计算效果。平台采用 “两端 + 一中心” 架构：数据提供方将加密数据与管控策略深度绑定为数据胶囊;密算中心侧在可信执行环境内，利用可信算法对数据胶囊进行联合计算，结果加密后输出至数据消费方。数据流转全程以密态呈现，关键过程经区块链存证确保可信，传输过程通过可验证证明保障安全，存储过程借助高性能密码学技术筑牢防线。\n目前，平台已全面完成国产化信创适配工作，覆盖芯片、服务器、操作系统、数据库、中间件等全栈关键环节 —— 其中包括飞腾、鲲鹏等主流芯片认证，长城等服务器认证，麒麟、统信等操作系统认证，以及人大金仓、达梦等数据库认证、东方通中间件认证等，构建起从底层硬件到上层软件的全链条信创能力。\n安全保障：筑牢数据安全防线\n安全是联通可信密算平台的核心优势与坚实基石，而可信执行环境 TEE 和数据胶囊是实现这一优势的关键技术支撑。\n在数据传输过程中，依托 “两端 + 一中心” 架构，端侧生成的数据胶囊本身带有加密属性，结合多重加密技术(含高性能国密算法、隐私保护算法等)以及多重认证保护和信道保护机制，让数据在传输过程中如同被严密守护的 “秘密”，有效防范窃取、篡改与非法接入，仅授权设备与用户可参与数据传输。\n在数据存储过程中，首创数据自适应动态胶囊封装技术，将数据以胶囊形式加密存储于安全可靠的介质中，且依托可信执行环境 TEE 对存储环境进行密态交互。即便存储设备受损或被非法获取，攻击者也无法破解数据胶囊，落盘后数据无法被窃取，更无法读取原始数据。同时，完善的访问控制机制在 TEE 环境下运行，根据用户角色与权限对数据访问进行细粒度管控，确保数据仅在授权范围内被合法使用。\n在数据使用过程中，可信执行环境 TEE 构建了一个隔离、安全的计算空间，数据胶囊在其中进行运算，多方安全计算、联邦学习技术、大模型等在此环境内发挥作用，管控策略保证数据按照双方数字合约要求运算，计算节点间相互隔离无法获取彼此数据，从根源上杜绝数据泄露风险。平台对计算任务执行的全程监控审计也在 TEE 环境中完成，一旦发现异常行为，能及时预警并处置。\n应用场景：赋能千行百业\n联通可信密算平台目前已在多个领域应用落地。在金融风控方面，平台通过联合多方数据进行联合运算，融合多类数据构建精准风控模型，有效提升了风控准确率，降低了风险发生概率;在政务数据共享方面，为各部门数据安全联合分析提供有力保障，助力科学决策与服务效率提升;在医疗数据协作方面，支持医疗机构等在不泄露隐私的情况下联合研究病例数据，为医学进步注入动力，全方位赋能千行百业释放数据价值。\n未来展望：持续创新，引领数据安全计算新潮流\n随着数字经济的不断发展，数据安全与价值挖掘的需求愈发迫切，联通数智将对可信密算平台将加大创新投入，提升效率、降低成本以应对大模型、复杂计算、大批量数据训练需求，拓展应用场景并提供定制方案。同时，与产业链伙伴深度合作，产学研协同研发、加速落地，共建安全可信高效的数据生态，为数字经济健康发展注入联通力量。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:31:34.767+03:00",
+  "updated": "2025-08-15T10:06:36.000+03:00"
+}

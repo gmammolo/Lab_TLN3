@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "77ce70a627ebabb85214f4090528d7ffc60ef9de",
+    "url": "https://www.biorxiv.org/content/10.1101/2024.10.14.618255v1",
+    "site_full": "www.biorxiv.org",
+    "site": "biorxiv.org",
+    "site_section": "http://connect.biorxiv.org/biorxiv_xml.php?subject=all",
+    "site_categories": [
+      "science",
+      "biology"
+    ],
+    "section_title": "bioRxiv Subject Collection: All",
+    "title": "Pep2Vec: An Interpretable Model for Peptide-MHC Presentation Prediction and Contaminant Identification in Ligandome Datasets",
+    "title_full": "Pep2Vec: An Interpretable Model for Peptide-MHC Presentation Prediction and Contaminant Identification in Ligandome Datasets",
+    "published": "2024-10-17T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png",
+    "performance_score": 0,
+    "domain_rank": 1407,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "77ce70a627ebabb85214f4090528d7ffc60ef9de",
+  "url": "https://www.biorxiv.org/content/10.1101/2024.10.14.618255v1",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Thrift, W. J., Broadwell, Q., Perera, J., Lounsbury, N. W., Chen, J., Jhunjhunwala, S.",
+  "published": "2024-10-17T08:00:00.000+03:00",
+  "title": "Pep2Vec: An Interpretable Model for Peptide-MHC Presentation Prediction and Contaminant Identification in Ligandome Datasets",
+  "text": "Abstract\nAs personalized cancer vaccines advance, precise modeling of antigen presentation by MHC class I and II is crucial. High-quality training data is essential for clinical models. Existing deep learning models focus on prediction performance but lack interpretability. We introduce Pep2Vec, a modular, transformer-based model trained on MHC I and II ligandome data, transforming input sequences into interpretable vectors. This approach integrates source protein features and elucidates the source of its performance gains, revealing regions that correlate with gene expression and protein-protein interactions. Pep2Vec's peptide latent space shows relationships between peptides of varying MHC class, allotype, lengths, and submotifs. This enables identifying four major contaminant types, constituting 5.0% of our data. Pep2Vec enhances MHC presentation prediction, achieving higher average precision on our presentation test set and immunogenicity datasets than existing models, and reducing contaminant-like peptide recommendations. Pep2Vec addresses a critical need for the development of more precise and effective applications of peptide MHC models, such as for cancer vaccines and antibody deimmunization.\nCompeting Interest Statement\nAll authors are employees of Genentech\nCC-BY-NC-ND 4.0 International license.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://www.creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:54:43.064+03:00",
+  "updated": "2024-10-18T01:54:43.064+03:00"
+}

@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "289599cb604b240e11727c43db1313a2fc98d86c",
+    "url": "https://whtc.com/2024/02/01/cloudflare-says-state-backed-hackers-tried-to-burrow-into-its-global-network",
+    "site_full": "whtc.com",
+    "site": "whtc.com",
+    "site_section": "https://whtc.com/feed",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Holland | WHTC AM &amp; FM | whtc.com",
+    "title": "Cloudflare says state-backed hackers tried to burrow into its global network",
+    "title_full": "Cloudflare says state-backed hackers tried to burrow into its global network",
+    "published": "2024-02-01T23:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2024-02/01/2024-02-01T212236Z_1_LYNXMPEK101XM_RTROPTP_3_GLOBAL-COMPUTERS.JPG",
+    "performance_score": 0,
+    "domain_rank": 99048,
+    "domain_rank_updated": "2024-01-30T12:06:00.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "289599cb604b240e11727c43db1313a2fc98d86c",
+  "url": "https://whtc.com/2024/02/01/cloudflare-says-state-backed-hackers-tried-to-burrow-into-its-global-network",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Syndicated Content",
+  "published": "2024-02-01T23:59:00.000+02:00",
+  "title": "Cloudflare says state-backed hackers tried to burrow into its global network",
+  "text": "By Raphael Satter\nWASHINGTON (Reuters) – Internet firm Cloudflare said in a statement on Thursday that an advanced group of hackers tried to burrow deep into its global network late last year but were thwarted.\nThe company, which did not identify the hackers, said in a blog post that it had discovered the intruders on Thanksgiving in late November and ejected them the following day. The spies were able to access “some documentation and a limited amount of source code” but Cloudflare said the operational impact of the intrusion was “extremely limited.”\n“Based on our collaboration with colleagues in the industry and government, we believe that this attack was performed by a nation state attacker with the goal of obtaining persistent and widespread access to Cloudflare’s global network.”\nCloudflare said it had called in cybersecurity firm CrowdStrike to help remediate the breach and that the company confirmed that the last evidence of “threat activity” was left on Nov. 24.\nCrowdStrike did not immediately respond to a request for comment. The FBI and the American cyber watchdog agency CISA also did not immediately respond to a message seeking comment.\nCloudflare offers a suite of web and application services, including content delivery and network protection. A large chunk of the internet relies on the San Francisco-based company to deliver its web content to users, so any disruption to its network can have serious knock-on effects.\n(Reporting by Raphael Satter; Editing by Bill Berkrot)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "War, Conflict and Unrest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "raphael satter",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cloudflare",
+        "sentiment": "negative"
+      },
+      {
+        "name": "crowdstrike",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fbi",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "cloudflare",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-02-02T00:19:05.653+02:00",
+  "updated": "2024-02-02T00:19:05.653+02:00"
+}

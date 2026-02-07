@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "9e24415ea93add8eaecc169d461c71975b07fc04",
+    "url": "https://www.thestar.com.my/news/world/2025/04/17/feature-sudanese-refugees-in-egypt-embark-on-return-journey-with-hope-for-peace",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/news/world",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "World - News | The Star",
+    "site_title": "The Star | Malaysia News: National, Regional and World News",
+    "title": "Feature: Sudanese refugees in Egypt embark on return journey with hope for peace | The Star",
+    "title_full": "Feature: Sudanese refugees in Egypt embark on return journey with hope for peace | The Star",
+    "published": "2025-04-17T00:37:36.259+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+    "performance_score": 0,
+    "domain_rank": 2110,
+    "domain_rank_updated": "2025-04-15T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9e24415ea93add8eaecc169d461c71975b07fc04",
+  "url": "https://www.thestar.com.my/news/world/2025/04/17/feature-sudanese-refugees-in-egypt-embark-on-return-journey-with-hope-for-peace",
+  "ord_in_thread": 0,
+  "author": "M Ahmoudfouly",
+  "published": "2025-04-17T00:37:36.259+03:00",
+  "title": "Feature: Sudanese refugees in Egypt embark on return journey with hope for peace | The Star",
+  "text": "by Mahmoud Fouly\nCAIRO, April 16 (Xinhua) -- In a yard in Egypt's capital Cairo, a line of buses awaited, ready to transport Sudanese families back to their homeland. Parents organized their luggage and kept a watchful eye on their children, their faces radiating longing and hope as they observed their bags being loaded for the journey ahead.\nAmong them was Youssef Al-Waleed, a man in his 30s, who was arranging his family's luggage next to one of the buses. His wife and two children sat nearby, waiting for the long-anticipated departure.\n\"A stranger has to return to his homeland one day,\" Al-Waleed told Xinhua. \"We must go back to our homes and our land. But Egypt will always remain our second country, without a doubt.\"\nA short distance away, 63-year-old Mousa Othman Yassin sat beside his wife. Yassin explained that he traveled to Egypt to seek medical treatment rather than to escape the war, as securing essential medications in Sudan had become nearly impossible due to the deteriorating security conditions.\n\"Now, I hope to return and never again face the hardships that forced us to leave,\" Yassin said.\nAn armed conflict erupted in mid-April 2023 between the Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces over tensions linked to a planned political transition. The conflict has killed tens of thousands of people, displaced over 15 million, and left Sudan facing what the United Nations calls one of the world's worst humanitarian crises.\nIn late March, the SAF announced territorial gains in the capital Khartoum, calling on citizens abroad to return and help rebuild the country.\nAmin Ismail, an advisor for initiatives at the Sudanese embassy in Cairo, estimated that approximately 3,000 Sudanese embark on a return journey each day, saying the surge began \"after the liberation of the capital\" and is expected to grow with initiatives for free return.\nIsmail highlighted the high morale and the restoration of services in Khartoum, Bahri, and Omdurman -- three major cities in Sudan's capital region -- as key factors behind the surge in the home return of Sudanese refugees.\nAmong the crowd of Sudanese, Mohamed Issa, a travel agent from southern Egypt's Aswan, was busily assisting passengers, ensuring everyone was accounted for before departure.\nHis company offers free rides to Sudanese individuals who are unable to afford a ticket. \"Egyptians and Sudanese are brothers, and we must support each other in times of crisis,\" Issa said. \"It brings me joy to see smiles on their faces as they return home,\" he added.\nIssa noted that such return trips had been organized for over a month, asserting that, according to his estimates, more than 3,000 Sudanese people traveled daily.\nDue to its geographical proximity to and historical ties with Sudan, Egypt has emerged as the largest host country for Sudanese refugees fleeing the civil conflict. According to data from Egypt's government and the UN High Commissioner for Refugees, more than 1.2 million Sudanese have sought refuge in Egypt since the beginning of the ongoing conflict.\nAmong the returnees were Amin Awad and his family, who moved to Egypt about eight months ago to escape intense clashes in their neighborhood in Khartoum.\n\"I never felt like a stranger in Egypt. Egyptians are just like the Sudanese people. We are truly like one nation,\" Awad, a father of six, said.\nThe Sudanese man expressed hope that peace and stability would soon return to Sudan and the Arab world. \"Safety is everything,\" he added.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Politics",
+    "Social Issue"
+  ],
+  "topics": [
+    "Human Interest->human mishap",
+    "Politics->refugees and internally displaced people",
+    "Social Issue->immigration",
+    "Social Issue->demographics",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mahmoud Fouly",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Mousa Othman Yassin",
+        "sentiment": "none"
+      },
+      {
+        "name": "Youssef Al-Waleed",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-04-17T00:37:36.259+03:00",
+  "updated": "2025-04-17T00:37:36.259+03:00"
+}

@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "b4dce3eba6699f0c47c830ab5c626a5014bf7568",
+    "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/minusgrade-in-der-nacht--der-frost-ist-da-36824494.html",
+    "site_full": "www.stern.de",
+    "site": "stern.de",
+    "site_section": "http://stern.de//feed/standard/all/",
+    "site_categories": [
+      "photography",
+      "hobbies_and_interests",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "STERN.DE RSS-Feed - Der Tag im Überblick",
+    "site_title": "Nachrichten, Hintergründe &amp; Reportagen | STERN.de",
+    "title": "Minusgrade in der Nacht: Der Frost ist da",
+    "title_full": "Minusgrade in der Nacht: Der Frost ist da",
+    "published": "2025-11-20T08:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://image.stern.de/36824496/t/z6/v1/w1440/r1.7778/-/20--jnzj6eqezav7axs2048jpeg---b55725e01c8c801f.jpg",
+    "performance_score": 0,
+    "domain_rank": 3844,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b4dce3eba6699f0c47c830ab5c626a5014bf7568",
+  "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/minusgrade-in-der-nacht--der-frost-ist-da-36824494.html",
+  "ord_in_thread": 0,
+  "author": "STERN.de",
+  "published": "2025-11-20T08:14:00.000+02:00",
+  "title": "Minusgrade in der Nacht: Der Frost ist da",
+  "text": "Höchste Zeit, den Garten wintertauglich zu machen und frostempfindliche Kübelblumen wegzustellen: Die Temperaturen fallen unter null Grad.\nNach verregnetem Herbstwetter sind die Vorboten des Winters in Nordrhein-Westfalen angekommen. Wie aus der Prognose des Deutschen Wetterdienstes (DWD) hervorgeht, wird es in dem Bundesland kälter.\nNach schwachen Schneeschauern und Temperaturen knapp über dem Gefrierpunkt am Freitag wird es in der Nacht zu Samstag bitterkalt: Die Tiefstwerte liegen der Prognose zufolge in den frühen Morgenstunden je nach Region bei minus 3 bis minus 6 Grad, im höheren Bergland bei bis zu minus 8 Grad.\nTagsüber werden Plusgrade erwartet, es bleibt trocken. Nur in Hochlagen friert es weiter. In der Nacht zu Sonntag wird es erneut bitterkalt. Zu Wochenbeginn lässt die Kälte nach; der Regen kehrt bereits am Sonntag zurück und verstärkt sich am Montag.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather statistic"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Nordrhein-Westfalen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutschen Wetterdienstes",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T08:21:22.169+02:00",
+  "updated": "2025-11-21T09:04:18.000+02:00"
+}

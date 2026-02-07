@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "a3bc1aa606569d9ab07b92b69f17758304cad0f7",
+    "url": "https://forums.oracle.com/ords/r/apexds/community/q?question=export-query-result-fails-if-the-second-to-last-line-is-a-c-5025&session=5277290834296",
+    "site_full": "forums.oracle.com",
+    "site": "oracle.com",
+    "site_section": "https://forums.oracle.com/ords/apexds/domain/dev-community/category/sql_developer",
+    "site_categories": [],
+    "section_title": " - Oracle Forums",
+    "title": "Export query result fails If the second to last line is a comment - Oracle Forums",
+    "title_full": "Export query result fails If the second to last line is a comment - Oracle Forums",
+    "published": "2024-02-01T20:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/usZakwxzsyewMRwrzramy7IpDhL0NnhNKqIsS4oCJQZlZGXvq0UNqBQXLk6rcQI4/n/axciphqpnohg/b/forums-prod-app/o/300000/static/domain/devforum.png",
+    "performance_score": 0,
+    "domain_rank": 107,
+    "domain_rank_updated": "2024-01-30T12:05:46.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a3bc1aa606569d9ab07b92b69f17758304cad0f7",
+  "url": "https://forums.oracle.com/ords/r/apexds/community/q?question=export-query-result-fails-if-the-second-to-last-line-is-a-c-5025&session=5277290834296",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "user5841680",
+  "published": "2024-02-01T20:55:00.000+02:00",
+  "title": "Export query result fails If the second to last line is a comment - Oracle Forums",
+  "text": "I noticed that when the second to last line is a comment, the query will run fine, but then the query result export (to CSV) will fail.\nI'm still new-ish to SQL, and I noticed that in Oracle SQL Developer Extension for VS Code I will get a syntax error unless the last line is a semi-colon/I end my query with a semi-colon. I previously did not do this when using Oracle SQL Developer.\nConsider this:\nSELECT * FROM V$VERSION --comment ;\nHere's the error message:\nError starting at line : 4 in command -\nSELECT *\nFROM V$VERSION\n--comment;\nSET SQLFORMAT DEFAULT\nSET FEEDBACK ON\nError at Command Line : 7 Column : 1\nError report -\nSQL Error: ORA-00933: SQL command not properly ended\n00933. - \"unexpected keyword at or near %s\"\n*Cause: An unexpected keyword was encountered in the SQL statement at\nor near the position printed in the error message.\nOne of the following occurred:\n1. You had a typo in your SQL statement.\n2. Unsupported syntax was encountered for a clause in the\nstatement.\n3. An unsupported clause was encountered in the statement.\n4. A string was terminated prematurely leading to the rest\nof the string to be interpreted as keywords. For example, an\napostrophe in the string may be causing it to\nend prematurely.\n*Action: Take the action that corresponds with the Cause\n1. Check that your SQL statement has no typos.\n2. Check Oracle Database documentation to find the\ncorrect syntax for the clause and update the problematic\nclause appropriately.\n3. Check Oracle Database documentation to find the correct\nsyntax for the statement and remove the unsupported clause.\n4. Enter two single quotes instead of one to represent an\napostrophe within a string.\n*Params: 1) keyword_value\nkeyword near the keyword causing the error. The keyword value\nmay be truncated for readability if it is too long.\nMore Details :\nhttps://docs.oracle.com/error-help/db/ora-00933/\nHowever, this will export fine:\nSELECT * FROM V$VERSION ;\nMy actual query is more like this, where I will denote the beginning and end of blocks of code I may comment in/out later.\nSELECT TABLE_ONE.SYSTEM_ID ,TABLE_ONE.SYSTEM_NAME ,TABLE_TWO.RULE_ID --,TABLE_TWO.DISPLAY_NAME ,TABLE_TWO.DESCRIPTION FROM TABLE_ONE LEFT OUTER JOIN TABLE_TWO ON TABLE_TWO.SYSTEM_ID=TABLE_ONE.SYSTEM_ID WHERE /* --list A TABLE_ONE.SYSTEM_ID IN ( 2201 ,2202 ,2203 ) --list A */ --list B TABLE_ONE.SYSTEM_ID IN ( 2204 ,2205 ,2206 ) --list B ;\nI'm using:\nVSCode 1.86.0\nOracle SQL Developer Extension for VSCode v23.4.0\nThanks to the developers on this! It's great to be able to write using VSCode!!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "War, Conflict and Unrest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-02-02T01:12:38.616+02:00",
+  "updated": "2024-02-02T01:12:38.616+02:00"
+}

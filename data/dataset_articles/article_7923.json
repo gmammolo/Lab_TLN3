@@ -1,0 +1,158 @@
+{
+  "thread": {
+    "uuid": "735cf2a07042944b997f6f595468847380408fc0",
+    "url": "https://www.exitosanoticias.pe/actualidad/fuerte-temblor-56-sacude-amazonas-sismo-sintio-condorcanqui-igp-n166216",
+    "site_full": "www.exitosanoticias.pe",
+    "site": "exitosanoticias.pe",
+    "site_section": "https://www.exitosanoticias.pe/feed/",
+    "site_categories": [
+      "top_news_pe",
+      "top_news",
+      "crime, law and justice",
+      "politics",
+      "arts, culture and entertainment",
+      "disaster and accident",
+      "economy, business and finance",
+      "sport"
+    ],
+    "section_title": "Exitosa Noticias",
+    "site_title": "Exitosa Noticias - Noticias del Perú y el Mundo | Radio | Tv en vivo | Podcast",
+    "title": "Fuerte temblor de 5.6 sacude Amazonas: Sismo se sintió en Condorcanqui, según el IGP",
+    "title_full": "Fuerte temblor de 5.6 sacude Amazonas: Sismo se sintió en Condorcanqui, según el IGP",
+    "published": "2026-01-08T07:58:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PE",
+    "main_image": "https://statics.exitosanoticias.pe/2026/01/695f4aa852b30.png",
+    "performance_score": 5,
+    "domain_rank": 73760,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 79,
+        "comments": 2,
+        "shares": 21
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "735cf2a07042944b997f6f595468847380408fc0",
+  "url": "https://www.exitosanoticias.pe/actualidad/fuerte-temblor-56-sacude-amazonas-sismo-sintio-condorcanqui-igp-n166216",
+  "ord_in_thread": 0,
+  "author": "Sourtech",
+  "published": "2026-01-08T07:58:00.000+02:00",
+  "title": "Fuerte temblor de 5.6 sacude Amazonas: Sismo se sintió en Condorcanqui, según el IGP",
+  "text": "08/01/2026 / Exitosa Noticias / Actualidad / Actualizado al 08/01/2026\nEn los últimos días, el Perú no ha dejado de temblar a lo largo de todo su territorio. Durante la madrugada de este jueves 8 de enero, un fuerte sismo de 5.6 se registró en la selva norte, precisamente en la región Amazonas. Según el U.S. Geological Survey, el temblor también se sintió en Ecuador.\nSismo de moderada intensidad en la selva\nAl promediar las 00:17 de hoy, la actividad sísmica se produjo a 71 kilómetros al norte de Santa María de Nieva, en la provincia amazónica de Condorcanqui, informó el IGP. Con epicentro en Río Santiago, el temblor de 106 kilómetros de profundidad dio un susto a los ciudadanos de la selva.\nEl Instituto Geofísico del Perú (IGP) calificó al movimiento telúrico como de III a IV de intensidad.\nPor su parte, el Centro de Operaciones de Emergencia Nacional (COEN) del INDECI señaló que el sismo fue percibido entre leve y moderado por la población y que continúan realizando monitoreo en zonas vulnerables. Hasta el momento, no se han reportado daños materiales ni heridos.\nEs importante tomar en cuenta que nuestro país se ubica sobre el \"Cinturón de Fuego del Océano Pacífico\", una zona que concentra el 85 % de actividad sísmica y volcánica en el mundo.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Condorcanqui",
+        "sentiment": "none"
+      },
+      {
+        "name": "Santiago",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Centro de Operaciones de Emergencia Nacional",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Instituto Geofísico del Perú",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "INDECI",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "COEN",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "IGP",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_pe",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T08:49:09.533+02:00",
+  "updated": "2026-01-09T09:08:55.000+02:00"
+}

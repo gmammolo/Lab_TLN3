@@ -1,0 +1,133 @@
+{
+  "thread": {
+    "uuid": "504528b436803c50929192ca3518a0e784775e33",
+    "url": "https://www.thestar.com.my/metro/metro-news/2024/07/19/residents-laud-governments-decision-on-kiara-park",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/metro/metro-news",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "Metro News - Metro | The Star",
+    "title": "Residents laud government’s decision on Kiara park | The Star",
+    "title_full": "Residents laud government’s decision on Kiara park | The Star",
+    "published": "2024-07-18T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+    "performance_score": 0,
+    "domain_rank": 2243,
+    "domain_rank_updated": "2024-07-16T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "504528b436803c50929192ca3518a0e784775e33",
+  "url": "https://www.thestar.com.my/metro/metro-news/2024/07/19/residents-laud-governments-decision-on-kiara-park",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "LEW GUAN XI lewguanxi@thestar.com.my",
+  "published": "2024-07-18T19:00:00.000+03:00",
+  "title": "Residents laud government’s decision on Kiara park | The Star",
+  "text": "STAKEHOLDERS are jubilant over the government keeping Taman Rimba Kiara green.\nSeveral non-government organisations said the decision on the park in Taman Tun Dr Ismail, Kuala Lumpur, demonstrated the government’s commitment to protecting green spaces.\nSave Taman Rimba Kiara Working Group, Persatuan Penduduk Rumah Panjang Bukit Kiara and Friends of Bukit Kiara were reacting to Segambut MP Hannah Yeoh’s comments during a press conference on July 17.\nShe said the government would direct Kuala Lumpur City Hall (DBKL) to keep the park as a green space while also providing permanent housing for 98 families at a long house.\nYeoh said DBKL would be directed to ensure this was reflected in Kuala Lumpur Local Plan 2040 (KLLP2040).\nShe added that housing for the longhouse community should be built on the current 1.62ha footprint without encroaching into Taman Rimba Kiara.\nThe residents groups lauded the government’s effort to honour the Federal Court’s ruling on April 18 last year, which quashed a development order by DBKL for Taman Rimba Kiara.\nJustice Datuk Nallini Pathmanathan had said in her judgment that according to Kuala Lumpur Structure Plan 2020 (KLSP2020), the land alienated for development was demarcated as a green area for public use.\n“It seems that the demarcation was changed without a corresponding rectification in the structure plan,” she said, adding that no hearings were held to gather public input about the change in land status.\nIn 2016, it was reported that a development comprising eight blocks of serviced apartments and one block of affordable housing was planned for the area.\nLegal battles then ensued involving residents, DBKL, Yayasan Wilayah Persekutuan (YWP) and the developer, while a series of negotiations to find a compromise failed.\nIn 2017, residents filed a judicial review against DBKL and the mayor, seeking to quash the development order.\nThe High Court denied this request, concluding that no elements of illegality were found in the order’s issuance.\nIn 2018, residents filed an appeal to challenge the High Court decision, and it was overturned by the Court of Appeal in 2021.\nDBKL, YWP and the developer then filed an appeal with the Federal Court to reinstate the development order.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Politics",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kiara",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "taman rimba kiara",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "hannah yeoh",
+        "sentiment": "none"
+      },
+      {
+        "name": "bukit kiara",
+        "sentiment": "none"
+      },
+      {
+        "name": "yeoh",
+        "sentiment": "none"
+      },
+      {
+        "name": "datuk nallini pathmanathan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dbkl",
+        "sentiment": "none"
+      },
+      {
+        "name": "persatuan penduduk rumah panjang bukit kiara",
+        "sentiment": "none"
+      },
+      {
+        "name": "federal court",
+        "sentiment": "none"
+      },
+      {
+        "name": "save taman rimba kiara working group",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "taman tun dr ismail",
+        "sentiment": "none"
+      },
+      {
+        "name": "kuala lumpur city hall",
+        "sentiment": "none"
+      },
+      {
+        "name": "kuala lumpur",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-07-19T04:09:09.319+03:00",
+  "updated": "2024-07-19T04:09:09.319+03:00"
+}

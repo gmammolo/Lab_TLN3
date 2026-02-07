@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "bff5edb4f455d807461d613e2b41a774f7e40502",
+    "url": "https://vuldb.com/?id.320086",
+    "site_full": "vuldb.com",
+    "site": "vuldb.com",
+    "site_section": "https://vuldb.com/?rss.recent",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "VulDB Recent Entries",
+    "site_title": "Vulnerability Database",
+    "title": "CVE-2025-9021 | SourceCodester Online Bank Management System up to 1.0 /bank/transfer.php email sql injection",
+    "title_full": "CVE-2025-9021 | SourceCodester Online Bank Management System up to 1.0 /bank/transfer.php email sql injection",
+    "published": "2025-08-14T10:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 186376,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bff5edb4f455d807461d613e2b41a774f7e40502",
+  "url": "https://vuldb.com/?id.320086",
+  "ord_in_thread": 0,
+  "author": "vuldb.com",
+  "published": "2025-08-14T10:09:00.000+03:00",
+  "title": "CVE-2025-9021 | SourceCodester Online Bank Management System up to 1.0 /bank/transfer.php email sql injection",
+  "text": "CVSS Meta Temp Score | Current Exploit Price (≈) | CTI Interest Score |\n---|---|---|\n6.6 | $0-$5k | 1.15+ |\nSummary\nA vulnerability, which was classified as critical, has been found in SourceCodester Online Bank Management System up to 1.0. This issue affects some unknown processing of the file /bank/transfer.php. The manipulation of the argument email leads to sql injection.\nThe identification of this vulnerability is CVE-2025-9021. The attack may be initiated remotely. Furthermore, there is an exploit available.\nDetails\nA vulnerability classified as critical was found in SourceCodester Online Bank Management System up to 1.0. This vulnerability affects an unknown code of the file /bank/transfer.php. The manipulation of the argument email\nwith an unknown input leads to a sql injection vulnerability. The CWE definition for the vulnerability is CWE-89. The product constructs all or part of an SQL command using externally-influenced input from an upstream component, but it does not neutralize or incorrectly neutralizes special elements that could modify the intended SQL command when it is sent to a downstream component. As an impact it is known to affect confidentiality, integrity, and availability.\nThis vulnerability was named CVE-2025-9021. The exploitation appears to be easy. The attack can be initiated remotely. No form of authentication is required for a successful exploitation. Technical details and also a exploit are known. The structure of the vulnerability defines a possible price range of USD $0-$5k at the moment (estimation calculated on 08/14/2025). This vulnerability is assigned to T1505 by the MITRE ATT&CK project.\nIt is declared as proof-of-concept. By approaching the search of inurl:bank/transfer.php it is possible to find vulnerable targets with Google Hacking.\nThere is no information about possible countermeasures known. It may be suggested to replace the affected object with an alternative product.\nEntries connected to this vulnerability are available at VDB-318292, VDB-318445, VDB-318465 and VDB-318516.\nProduct\nType\nVendor\nName\nVersion\nLicense\nCPE 2.3\nCPE 2.2\nCVSSv4\nVulDB Vector:🔒\nVulDB Reliability:\n🔍\nCVSSv3\nVulDB Meta Base Score: 7.3VulDB Meta Temp Score: 6.6\nVulDB Base Score:\n7.3\nVulDB Temp Score:\n6.6\nVulDB Vector:\n🔒\nVulDB Reliability:\n🔍\nCVSSv2\nAV | AC | Au | C | I | A |\n---|---|---|---|---|---|\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\nVector | Complexity | Authentication | Confidentiality | Integrity | Availability |\n---|---|---|---|---|---|\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nVulDB Base Score:\n🔒\nVulDB Temp Score:\n🔒\nVulDB Reliability:\n🔍\nExploiting\nClass: Sql injectionCWE:\nCWE-89 / CWE-74 / CWE-707\nCAPEC:\n🔒\nATT&CK:\n🔒\nPhysical: No\nLocal: No\nRemote: Yes\nAvailability:\n🔒\nStatus: Proof-of-Concept\nGoogle Hack:\n🔒\nPrice Prediction:\n🔍\nCurrent Price Estimation:\n🔒\n0-Day | Unlock | Unlock | Unlock | Unlock |\n---|---|---|---|---|\nToday | Unlock | Unlock | Unlock | Unlock |\nThreat Intelligence\nInterest:🔍\nActive Actors:\n🔍\nActive APT Groups:\n🔍\nCountermeasures\nRecommended: no mitigation knownStatus:\n🔍\n0-Day Time:\n🔒\nTimeline\n08/14/2025 Advisory disclosed08/14/2025\nVulDB entry created\n08/14/2025\nVulDB entry last update\nSources\nVendor:sourcecodester.com\nStatus: Not defined\nCVE:\nCVE-2025-9021(\n🔒)\nGCVE (CVE):\nGCVE-0-2025-9021\nGCVE (VulDB):\nGCVE-100-320086\nscip Labs:\nhttps://www.scip.ch/en/?labs.20161013\nSee also:\n🔒\nEntry\nCreated: 08/14/2025 09:09 AMChanges:\n08/14/2025 09:09 AM (53)\nComplete:\n🔍\nSubmitter:\nfirewall\nCache ID: 212:AE5:113\nSubmit\nAccepted\nSubmit #631861: https://www.sourcecodester.com/php/15373 online-banking-management-system 1.0 SQL Injection (by firewall)\nDiscussion\nNo comments yet. Languages: en.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.first.org/cvss/v3.1/specification-document#Base-Metrics",
+    "https://www.sourcecodester.com/",
+    "https://www.first.org/cvss/v3.1/specification-document#Temporal-Metrics",
+    "https://www.scip.ch/en/?labs.20161013",
+    "https://www.sourcecodester.com",
+    "https://scip.ch/en/?labs.20161013",
+    "https://sourcecodester.com/",
+    "https://first.org/cvss/v3.1/specification-document#Base-Metrics",
+    "https://first.org/cvss/v3.1/specification-document#Temporal-Metrics",
+    "https://www.scip.ch/en/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:54:22.719+03:00",
+  "updated": "2025-08-14T12:07:24.000+03:00"
+}

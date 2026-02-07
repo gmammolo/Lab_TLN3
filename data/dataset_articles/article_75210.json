@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "fd1763e8decfa670857b05f8745bda19c76299ad",
+    "url": "https://www.eurekalert.org/news-releases/1065794",
+    "site_full": "www.eurekalert.org",
+    "site": "eurekalert.org",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "science",
+      "education",
+      "k_6_educators",
+      "media"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Broadcast police communications may pose priv | EurekAlert!",
+    "title_full": "Broadcast police communications may pose priv | EurekAlert!",
+    "published": "2024-11-21T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+    "performance_score": 0,
+    "domain_rank": 852,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fd1763e8decfa670857b05f8745bda19c76299ad",
+  "url": "https://www.eurekalert.org/news-releases/1065794",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "penn_state",
+  "published": "2024-11-21T07:00:00.000+02:00",
+  "title": "Broadcast police communications may pose priv | EurekAlert!",
+  "text": "UNIVERSITY PARK, Pa. — Police radio transmissions contain personally identifiable information that could pose privacy risks for members of the public, especially Black males, according to a new study by researchers at Penn State and the University of Chicago. “This study provides a window into police activity as events unfold,” said Shomir Wilson , associate professor of information sciences and technology at Penn State and study co-author. “We found that because police radio transmissions disproportionately involve Black suspects, there’s a proportionally higher privacy risk for Black people in these communications.” The researchers studied a total of 24 hours of human-transcribed and annotated broadcast police communications transmitted on a single day in three Chicago dispatch zones, or regions used to coordinate police activity. According to U.S. census data, one zone was majority non-Hispanic white, one majority Hispanic and one majority non-Hispanic Black. The team found that broadcast police communications mentioned males nine times more frequently than females and that Black males were most often mentioned of all groups, even in the majority white zone. The researchers presented their findings at the 27th Association for Computing Machinery Conference on Computer-Supported Cooperative Work and Social Computing on Nov. 9-13 in Costa Rica. The team received a diversity, equity and inclusion recognition from the conference’s awards committee. “The typical police radio transmission is short and serves a coordinating purpose, something like ‘Car 54, where are you?’” said Chris Graziul , research assistant professor at the University of Chicago, study co-author and one of two principal investigators leading the project. “These transmissions try to communicate what’s happening and describe who’s involved. In the process, sensitive information is often disclosed.” The researchers obtained 9,115 transmissions — what they called “utterances” — that occurred when police or dispatch communicated via radio broadcast. They manually transcribed the transmissions and then randomly chose 2,000 utterances from across the three zones to analyze further. They developed a qualitative annotation scheme to label the text. They divided the annotated data into six categories, ranging from event information, such as “residential alarm break in\" or “traffic stop,” and procedural transmissions, such as the “car 54” example, to casual transmissions like “Morning, squad.” The researchers found that event utterances contained the most references — about 60% — to gender, race/ethnicity, age and protected health information, which can be used to identify individuals. Nearly 68% of utterances that included a sociodemographic indicator used male gendered terms, and approximately 69% of those utterances referred to Black people, according to the researchers. “Our findings contribute to a larger body of evidence about racial disparities in policing. What is novel here is the data source: radio transmissions,” Graziul said. “Despite prolific use by police systems around the world, few have explored what this means of communication can tell us about how policing operates in practice. Disproportionate mentions of Black people reflect a novel way to observe how officers’ attention is unevenly distributed across racial/ethnic groups, and identifying this disparity helps us understand challenges to the ethical use of this data source for research, like preventing leakage of sensitive personal information, which would impact Black communities substantially more than other communities.” After examining the utterances, the team tested a large language model (LLM), a widely used artificial intelligence tool, to determine its capacity to find personal information in the transcripts. Despite the unique nature of the language involved with broadcast police communications, the LLM detected personally identifiable information with high accuracy, highlighting the risk of privacy vulnerability. Bad actors, such as identity thieves, could use AI technology to quickly find and misuse the personal information in transcripts of police radio activity, according to the researchers. “This work reveals a concerning trend of racial inequality in terms of the exposure of sensitive information during police radio transmissions,” said Pranav Narayanan Venkit , graduate student pursuing a doctoral degree in informatics in the College of Information Sciences and Technology and first author on the paper. “This study may help researchers and developers give more thought to interactions between LLM and different segments of society — the policing community, minority populations and various other populations — to identify biases and protect personal information.” Miranda Goodman, who graduated with her bachelor’s degree from Penn State this past summer, and fourth-year Penn State student Samantha Kenny also contributed to this work. The National Institute of Minority Health and Health Disparities of the National Institutes of Health supported this work. This research was also supported by the Urban Resiliency Initiative, which is led by Margaret Beale Spencer, distinguished professor emerita at the University of Chicago and a principal investigator of this larger project. DOI Article Title Race and Privacy in Broadcast Police Communications Article Publication Date 8-Nov-2024",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ist.psu.edu/directory/pnv5011",
+    "https://humdev.uchicago.edu/directory/christopher-graziul",
+    "https://ist.psu.edu/directory/suw724",
+    "https://doi.org/10.1145/3686921",
+    "https://www.ist.psu.edu/directory/pnv5011",
+    "https://www.humdev.uchicago.edu/directory/christopher-graziul",
+    "https://www.doi.org/10.1145/3686921",
+    "https://www.ist.psu.edu/directory/suw724"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T01:08:40.588+02:00",
+  "updated": "2024-11-22T01:08:40.588+02:00"
+}

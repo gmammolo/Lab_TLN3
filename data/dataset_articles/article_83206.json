@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "cad117bd746a6a46c2ffe39f98634851591fcba9",
+    "url": "https://www.scmp.com/tech/tech-war/article/3300391/hong-kong-embraces-risc-v-open-source-chip-design-secure-spot-china-semiconductors",
+    "site_full": "www.scmp.com",
+    "site": "scmp.com",
+    "site_section": "https://www.scmp.com/rss/91/feed",
+    "site_categories": [
+      "media",
+      "top_news_ph",
+      "top_news_au",
+      "top_news_sg",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "News - South China Morning Post",
+    "site_title": null,
+    "title": "Hong Kong embraces RISC-V open-source chip design to secure spot in China semiconductors | South China Morning Post",
+    "title_full": "Hong Kong embraces RISC-V open-source chip design to secure spot in China semiconductors | South China Morning Post",
+    "published": "2025-02-28T01:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/02/27/03c24e34-51e6-44fb-a138-78481d8386a9_0ecb18e9.jpg?itok=pL86xbCf&amp;v=1740648072",
+    "performance_score": 0,
+    "domain_rank": 575,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cad117bd746a6a46c2ffe39f98634851591fcba9",
+  "url": "https://www.scmp.com/tech/tech-war/article/3300391/hong-kong-embraces-risc-v-open-source-chip-design-secure-spot-china-semiconductors",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Xinmei Shen",
+  "published": "2025-02-28T01:00:00.000+02:00",
+  "title": "Hong Kong embraces RISC-V open-source chip design to secure spot in China semiconductors | South China Morning Post",
+  "text": "Hong Kong is betting on the RISC-V open-source chip architecture to drive innovation and secure a position in China’s semiconductor landscape amid escalating US chip restrictions.\\nThe city, which is planning to host the International Young Scientist Forum on Artificial Intelligence, is promoting research in AI and open-source technology, particularly RISC-V, Finance Secretary Paul Chan Mo-po said in his 2025 budget address on Wednesday.\\nRISC-V stands for the fifth generation of the Reduced Instruction Set Computer, a design philosophy for simplified architectures for central processing units (CPUs). As an open-source project, it is free for anyone to use and modify, unlike competing standards such as Intel’s x86, a complex instruction set that dominates personal computers, and Arm’s eponymous proprietary RISC-inspired architecture, which dominates the smartphone market.\\nFirst developed in 2010 by researchers at the University of California, Berkeley, RISC-V is now managed by RISC-V International, a Zurich-based non-profit organisation.\\n\\nWhile not nearly as widely used as x86 or Arm, RISC-V has been rapidly gaining traction because of its open-source code base. This has been especially true in mainland China, where the government and businesses hope it can reduce reliance on foreign proprietary technology amid an intense tech war with the US.\\nLast month, a team from the Chinese Academy of Sciences (CAS), a top government research organisation, announced that it would deliver its RISC-V-based XiangShan CPU this year. The team said earlier this month it had adapted XiangShan to support DeepSeek-R1, the popular open-source reasoning large language model developed by Hangzhou-based AI start-up DeepSeek.\\nChina is doubling down on RISC-V this year, with several large conferences based around the technology. Shanghai will host a RISC-V summit in July, the city announced earlier this week.\\nThe Beijing Institute of Open Source Chip, the CAS-backed XiangShan developer, is hosting a RISC-V ecosystem conference in the Chinese capital on Thursday, followed by a RISC-V conference on Friday organised by Damo Academy, Alibaba Group Holding’s research arm that develops the XuanTie RISC-V processors. Alibaba owns the South China Morning Post.\\nChina’s RISC-V push has alarmed US lawmakers, who last year called for a review of the national security risks associated with China’s advancements in the area, potentially making it a new front in the chip war.\\nHowever, regulatory options for the US to restrain China in this field are “limited”, according to a November report from the Centre for Strategic and International Studies, which noted that RISC-V International operates outside the US.\\nHong Kong’s ambitions to gain a foothold in RISC-V come amid efforts to become an innovation and technology hub, and play a greater role in China’s technological development.\\nLast year, the city said it was setting up its first production line for gallium nitride (GaN) wafers, a third-generation semiconductor material that offers advantages over traditional silicon-based semiconductors, including greater energy efficiency and reduced size. Related manufacturing equipment for this tech currently faces fewer US restrictions.\\nRISC-V represents a “transformative opportunity” for China to achieve technological independence and to lead in semiconductor innovation, said Chan Jun-yu, a partner at Wings Capital Ventures, a Hong Kong-based venture capital fund.\\n“Hong Kong can contribute to China’s RISC-V ecosystem by attracting global applications, fostering international partnerships and serving as a hub for talent and investment,” Chan said.\\nHong Kong’s initiative to develop semiconductors, the “most important component” in all electronics products, could help the city contribute to China’s needs and “solidify” its status as an international hub for innovation and technology, said Edmond Lai, chief digital officer at the Hong Kong Productivity Council. RISC-V is attractive because of its openness, flexibility and low cost, he added.\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Paul Chan Mo-po",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "RISC-V International",
+        "sentiment": "none"
+      },
+      {
+        "name": "Intel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:01:56.057+02:00",
+  "updated": "2025-02-28T01:01:56.057+02:00"
+}

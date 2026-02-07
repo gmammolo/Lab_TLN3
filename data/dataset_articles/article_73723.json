@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "540481030938b7f6fbe95d188d7da4856b050d68",
+    "url": "https://meta.discourse.org/t/discourse-topic-deletion-fails-with-error/336201",
+    "site_full": "meta.discourse.org",
+    "site": "discourse.org",
+    "site_section": "https://meta.discourse.org/latest.rss",
+    "site_categories": [],
+    "section_title": "Discourse Meta - Latest topics",
+    "title": "Discourse Topic Deletion Fails With Error",
+    "title_full": "Discourse Topic Deletion Fails With Error",
+    "published": "2024-11-14T17:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d11a6trkgmumsb.cloudfront.net/original/3X/e/c/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png",
+    "performance_score": 0,
+    "domain_rank": 3288,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "540481030938b7f6fbe95d188d7da4856b050d68",
+  "url": "https://meta.discourse.org/t/discourse-topic-deletion-fails-with-error/336201",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alessandra Casale",
+  "published": "2024-11-14T17:15:00.000+02:00",
+  "title": "Discourse Topic Deletion Fails With Error",
+  "text": "Something in the AI plugin has broken the Discourse app: I realised that all topic are not deletable (500 Internal Server Error). In the admin panel of AI plugin, the tab “LLM”, “Personas” and “Tools” are disappeared, so I cannot delete my LLM model. I have removed the automation related to the toxic topics, disabled the AI plugin, disabled the Automation plugin, but the problem still persists. Then I deleted the AI plugin row from app.yml and destroyed/rebuilded/started the app, but the problem still persists. We took a look in the postgres db and there are still some tables about AI plugin.\nHere are some details about 500 error when we try to delete topic or post:\nArgumentError (Empty list of attributes to change) lib/post_destroyer.rb:361:in `trash_public_post_actions' lib/post_destroyer.rb:186:in `block in perform_delete' lib/post_destroyer.rb:177:in `perform_delete' lib/post_destroyer.rb:79:in `destroy' app/controllers/topics_controller.rb:687:in `destroy' app/controllers/application_controller.rb:424:in `block in with_resolved_locale' app/controllers/application_controller.rb:424:in `with_resolved_locale' lib/middleware/omniauth_bypass_middleware.rb:64:in `call' lib/content_security_policy/middleware.rb:12:in `call' lib/middleware/anonymous_cache.rb:399:in `call' lib/middleware/csp_script_nonce_injector.rb:12:in `call' config/initializers/008-rack-cors.rb:14:in `call' lib/freedom_patches/rails_rack_logger_from_rails_7_2.rb:35:in `call_app' lib/freedom_patches/rails_rack_logger_from_rails_7_2.rb:22:in `call' config/initializers/100-quiet_logger.rb:20:in `call' config/initializers/100-silence_logger.rb:29:in `call' lib/middleware/enforce_hostname.rb:24:in `call' lib/middleware/request_tracker.rb:360:in `call'\nbacktrace\nactiverecord (7.1.3.4) lib/active_record/relation.rb:508:in `update_all' lib/post_destroyer.rb:361:in `trash_public_post_actions' lib/post_destroyer.rb:186:in `block in perform_delete' activerecord (7.1.3.4) lib/active_record/connection_adapters/abstract/transaction.rb:535:in `block in within_new_transaction' activesupport (7.1.3.4) lib/active_support/concurrency/null_lock.rb:9:in `synchronize' activerecord (7.1.3.4) lib/active_record/connection_adapters/abstract/transaction.rb:532:in `within_new_transaction' activerecord (7.1.3.4) lib/active_record/connection_adapters/abstract/database_statements.rb:344:in `transaction' activerecord (7.1.3.4) lib/active_record/transactions.rb:212:in `transaction' lib/post_destroyer.rb:177:in `perform_delete' lib/post_destroyer.rb:79:in `destroy' app/controllers/topics_controller.rb:687:in `destroy' actionpack (7.1.3.4) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action' actionpack (7.1.3.4) lib/abstract_controller/base.rb:224:in `process_action' actionpack (7.1.3.4) lib/action_controller/metal/rendering.rb:165:in `process_action' actionpack (7.1.3.4) lib/abstract_controller/callbacks.rb:259:in `block in process_action' activesupport (7.1.3.4) lib/active_support/callbacks.rb:121:in `block in run_callbacks' app/controllers/application_controller.rb:424:in `block in with_resolved_locale' i18n (1.14.5) lib/i18n.rb:351:in `with_locale' app/controllers/application_controller.rb:424:in `with_resolved_locale' activesupport (7.1.3.4) lib/active_support/callbacks.rb:130:in `block in run_callbacks' activesupport (7.1.3.4) lib/active_support/callbacks.rb:141:in `run_callbacks' actionpack (7.1.3.4) lib/abstract_controller/callbacks.rb:258:in `process_action' actionpack (7.1.3.4) lib/action_controller/metal/rescue.rb:25:in `process_action' actionpack (7.1.3.4) lib/action_controller/metal/instrumentation.rb:74:in `block in process_action' activesupport (7.1.3.4) lib/active_support/notifications.rb:206:in `block in instrument' activesupport (7.1.3.4) lib/active_support/notifications/instrumenter.rb:58:in `instrument' activesupport (7.1.3.4) lib/active_support/notifications.rb:206:in `instrument' actionpack (7.1.3.4) lib/action_controller/metal/instrumentation.rb:73:in `process_action' actionpack (7.1.3.4) lib/action_controller/metal/params_wrapper.rb:261:in `process_action' activerecord (7.1.3.4) lib/active_record/railties/controller_runtime.rb:32:in `process_action' actionpack (7.1.3.4) lib/abstract_controller/base.rb:160:in `process' actionview (7.1.3.4) lib/action_view/rendering.rb:40:in `process' rack-mini-profiler (3.3.1) lib/mini_profiler/profiling_methods.rb:115:in `block in profile_method' actionpack (7.1.3.4) lib/action_controller/metal.rb:227:in `dispatch' actionpack (7.1.3.4) lib/action_controller/metal.rb:309:in `dispatch' actionpack (7.1.3.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch' actionpack (7.1.3.4) lib/action_dispatch/routing/route_set.rb:32:in `serve' actionpack (7.1.3.4) lib/action_dispatch/journey/router.rb:51:in `block in serve' actionpack (7.1.3.4) lib/action_dispatch/journey/router.rb:131:in `block in find_routes' actionpack (7.1.3.4) lib/action_dispatch/journey/router.rb:124:in `each' actionpack (7.1.3.4) lib/action_dispatch/journey/router.rb:124:in `find_routes' actionpack (7.1.3.4) lib/action_dispatch/journey/router.rb:32:in `serve' actionpack (7.1.3.4) lib/action_dispatch/routing/route_set.rb:882:in `call' lib/middleware/omniauth_bypass_middleware.rb:64:in `call' rack (2.2.9) lib/rack/tempfile_reaper.rb:15:in `call' rack (2.2.9) lib/rack/conditional_get.rb:40:in `call' rack (2.2.9) lib/rack/head.rb:12:in `call' actionpack (7.1.3.4) lib/action_dispatch/http/permissions_policy.rb:36:in `call' lib/content_security_policy/middleware.rb:12:in `call' lib/middleware/anonymous_cache.rb:399:in `call' lib/middleware/csp_script_nonce_injector.rb:12:in `call' config/initializers/008-rack-cors.rb:14:in `call' rack (2.2.9) lib/rack/session/abstract/id.rb:266:in `context' rack (2.2.9) lib/rack/session/abstract/id.rb:260:in `call' actionpack (7.1.3.4) lib/action_dispatch/middleware/cookies.rb:689:in `call' actionpack (7.1.3.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call' activesupport (7.1.3.4) lib/active_support/callbacks.rb:101:in `run_callbacks' actionpack (7.1.3.4) lib/action_dispatch/middleware/callbacks.rb:28:in `call' actionpack (7.1.3.4) lib/action_dispatch/middleware/debug_exceptions.rb:29:in `call' actionpack (7.1.3.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call' logster (2.20.0) lib/logster/middleware/reporter.rb:40:in `call' lib/freedom_patches/rails_rack_logger_from_rails_7_2.rb:35:in `call_app' lib/freedom_patches/rails_rack_logger_from_rails_7_2.rb:22:in `call' config/initializers/100-quiet_logger.rb:20:in `call' config/initializers/100-silence_logger.rb:29:in `call' actionpack (7.1.3.4) lib/action_dispatch/middleware/request_id.rb:28:in `call' lib/middleware/enforce_hostname.rb:24:in `call' rack (2.2.9) lib/rack/method_override.rb:24:in `call' actionpack (7.1.3.4) lib/action_dispatch/middleware/executor.rb:14:in `call' rack (2.2.9) lib/rack/sendfile.rb:110:in `call' rack-mini-profiler (3.3.1) lib/mini_profiler.rb:334:in `call' message_bus (4.3.8) lib/message_bus/rack/middleware.rb:60:in `call' lib/middleware/request_tracker.rb:360:in `call' actionpack (7.1.3.4) lib/action_dispatch/middleware/remote_ip.rb:92:in `call' railties (7.1.3.4) lib/rails/engine.rb:536:in `call' railties (7.1.3.4) lib/rails/railtie.rb:226:in `public_send' railties (7.1.3.4) lib/rails/railtie.rb:226:in `method_missing' rack (2.2.9) lib/rack/urlmap.rb:74:in `block in call' rack (2.2.9) lib/rack/urlmap.rb:58:in `each' rack (2.2.9) lib/rack/urlmap.rb:58:in `call' unicorn (6.1.0) lib/unicorn/http_server.rb:634:in `process_client' unicorn (6.1.0) lib/unicorn/http_server.rb:739:in `worker_loop' unicorn (6.1.0) lib/unicorn/http_server.rb:547:in `spawn_missing_workers' unicorn (6.1.0) lib/unicorn/http_server.rb:143:in `start' unicorn (6.1.0) bin/unicorn:128:in `<top (required)>' vendor/bundle/ruby/3.3.0/bin/unicorn:25:in `load' vendor/bundle/ruby/3.3.0/bin/unicorn:25:in `<main>'\nFurthermore, there’s a Job exception: undefined method `scheduled?’ for nil with this backtrace\n/var/www/discourse/app/jobs/scheduled/run_problem_checks.rb:19:in `block in execute' activerecord-7.1.3.4/lib/active_record/relation/delegation.rb:100:in `each' activerecord-7.1.3.4/lib/active_record/relation/delegation.rb:100:in `each' /var/www/discourse/app/jobs/scheduled/run_problem_checks.rb:18:in `filter_map' /var/www/discourse/app/jobs/scheduled/run_problem_checks.rb:18:in `execute' /var/www/discourse/app/jobs/base.rb:305:in `block (2 levels) in perform' rails_multisite-6.0.0/lib/rails_multisite/connection_management/null_instance.rb:49:in `with_connection' rails_multisite-6.0.0/lib/rails_multisite/connection_management.rb:21:in `with_connection' /var/www/discourse/app/jobs/base.rb:292:in `block in perform' /var/www/discourse/app/jobs/base.rb:288:in `each' /var/www/discourse/app/jobs/base.rb:288:in `perform' /var/www/discourse/app/jobs/base.rb:359:in `perform' mini_scheduler-0.16.0/lib/mini_scheduler/manager.rb:122:in `process_queue' mini_scheduler-0.16.0/lib/mini_scheduler/manager.rb:70:in `worker_loop' mini_scheduler-0.16.0/lib/mini_scheduler/manager.rb:59:in `block (2 levels) in ensure_worker_threads'\nThank you\nHey @Alessandra_Casale / @ecesarini,\nThis behavior is quite uncommon, and as it persists after removing a plugin, it is not caused by it.\nCan you share more details about how did you install Discourse? What version are you running? This errors are still happening after a rebuild?\nFrom the logs it appears that the installation is corrupted and missing files, so we need more information to help you.\nHi, thank for your help.\nPost.find(<#ID>).destroy\nIf we try to edit or move post/topic everything works fine.\nHere’s the plugin list if it could be useful\n- git clone https://github.com/discourse/discourse-oauth2-basic.git - git clone https://github.com/discourse/discourse-openid-connect.git - git clone https://github.com/discourse/discourse-saml.git - git clone https://github.com/discourse/discourse-post-voting.git - git clone https://github.com/discourse/discourse-solved.git - git clone https://github.com/discourse/discourse-docs.git - git clone https://github.com/discourse/discourse-chat-integration.git #- git clone https://github.com/discourse/discourse-ai.git - git clone https://github.com/discourse/discourse-math.git - git clone https://github.com/discourse/discourse-tooltips.git #- git clone https://github.com/discourse/discourse-jira.git - git clone https://github.com/discourse/discourse-category-experts.git - git clone https://github.com/discourse/discourse-topic-voting.git - git clone https://github.com/discourse/discourse-assign.git - git clone https://github.com/discourse/discourse-templates.git - git clone https://github.com/discourse/discourse-translator.git - git clone https://github.com/discourse/discourse-gamification.git\nIn the last rebuild ai and jira are commented out but those errors are still happening",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/discourse/discourse-tooltips.git",
+    "https://github.com/discourse/discourse-saml.git",
+    "https://github.com/discourse/discourse-gamification.git",
+    "https://github.com/discourse/discourse-docs.git",
+    "https://github.com/discourse/discourse-ai.git",
+    "https://github.com/discourse/discourse-assign.git",
+    "https://github.com/discourse/discourse-category-experts.git",
+    "https://github.com/discourse/discourse-oauth2-basic.git",
+    "https://github.com/discourse/discourse-translator.git",
+    "https://github.com/discourse/discourse-chat-integration.git",
+    "https://github.com/discourse/discourse-math.git",
+    "https://github.com/discourse/discourse-topic-voting.git",
+    "https://github.com/discourse/discourse-templates.git",
+    "https://github.com/discourse/discourse-openid-connect.git",
+    "https://github.com/discourse/discourse-solved.git",
+    "https://github.com/discourse/discourse-jira.git",
+    "https://github.com/discourse/discourse-post-voting.git",
+    "https://www.github.com/discourse/discourse-category-experts.git",
+    "https://www.github.com/discourse/discourse-translator.git",
+    "https://www.github.com/discourse/discourse-chat-integration.git",
+    "https://www.github.com/discourse/discourse-assign.git",
+    "https://www.github.com/discourse/discourse-oauth2-basic.git",
+    "https://www.github.com/discourse/discourse-post-voting.git",
+    "https://www.github.com/discourse/discourse-solved.git",
+    "https://www.github.com/discourse/discourse-math.git",
+    "https://www.github.com/discourse/discourse-topic-voting.git",
+    "https://www.github.com/discourse/discourse-tooltips.git",
+    "https://www.github.com/discourse/discourse-docs.git",
+    "https://www.github.com/discourse/discourse-ai.git",
+    "https://www.github.com/discourse/discourse-jira.git",
+    "https://www.github.com/discourse/discourse-gamification.git",
+    "https://www.github.com/discourse/discourse-templates.git",
+    "https://www.github.com/discourse/discourse-openid-connect.git",
+    "https://www.github.com/discourse/discourse-saml.git"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:56:48.403+02:00",
+  "updated": "2024-11-15T02:56:48.403+02:00"
+}

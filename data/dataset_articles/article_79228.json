@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "1edac1db6bbf70407f700e5d7ce978963e877db6",
+    "url": "https://cdm.link/2023/12/modular-playdate/",
+    "site_full": "cdm.link",
+    "site": "cdm.link",
+    "site_section": "https://cdm.link/feed/",
+    "site_categories": [
+      "music",
+      "entertainment"
+    ],
+    "section_title": "CDM Create Digital Music",
+    "title": "Chill out to some granular goodness in Modular Play on Playdate portable",
+    "title_full": "Chill out to some granular goodness in Modular Play on Playdate portable",
+    "published": "2023-12-29T00:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdm.link/app/uploads/2023/12/granular-love.png",
+    "performance_score": 0,
+    "domain_rank": 22743,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1edac1db6bbf70407f700e5d7ce978963e877db6",
+  "url": "https://cdm.link/2023/12/modular-playdate/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Peter Kirn",
+  "published": "2023-12-29T00:39:00.000+02:00",
+  "title": "Chill out to some granular goodness in Modular Play on Playdate portable",
+  "text": "Creator Orllewin didn’t just produce a magical minimalistic modular in glorious black and white on\nPanic’s Playdate mobile system. There is beautiful music to go along with it – and an upcoming free port to Lua (meaning support for other platforms).\nModular Play is an elegant, pedalboard-style modular for sequencers, drum machines, synths, and effects. And coming soon is a port of Granular, an\nexperimental grain sampler for Playdate I wrote about previously. Having Granular in this virtual patchable environment makes it even more irresistible. And yes, it runs on the Playdate, the mobile platform built by Panic in collaboration with Teenage Engineering – the thing that looks like a compact Game Boy with a crank.\nThe month of December has seen wondrous short videos with tranquil sounds emerge on the Öppenlab Yorkshire account – a reference to the Yorkshire home base of the developer. We get some short jams, plus previews of new mods for Modular Play there.\nGranular debut:\nGranular and reversed chime-y sounds, they just never ever get old:\nAdd some beats and sync:\nOh yeah, why did we need AI again? Thumb pianos and music boxes and microphones and humans…\nIt’s beautiful seeing these ultra-portable units. But if you’re not in the mood (or budget) to buy yet another platform, it’s encouraging to see the December Adventure coding project, which aims to port the same Modular Play environment coming to the Lua framework as a free tool. That effort is dubbed, naturally, ModularLöve.\nIt’s also coming along nicely. Not only is this the musical documentation of coding adventures, but it could nicely soundtrack your own coding/patching adventures. (4x LP please!)\nThis software is in-progress and very much unreleased, but it’s strangely mesmerizing just to read through the coding notes and learn a thing or two – or just watch the tool evolve. Orllewin’s December journal is built in Obsidian, the open coding tool that’s become the go-to platform-independent nerd option of choice. (No more getting sucked into proprietary platforms like Evernote and OneNote!)\nDecember Adventure: ModularLöve\nI didn’t know about LÖVE; it’s a really nice open source Lua 2D gaming framework with macOS, Windows, Linux, Android, and iOS support:\nIt seems the Granular tool will come to both environments.\nIf you’re lucky enough to have a Panic Playdate, you should absolutely go grab the app for $15.\nModular Play itch.io page (and purchase link)\nThe features above are\ncoming soon to the release, with the Granular module and clock sync.\nPreviously:\nMore on the system:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Lifestyle and Leisure",
+    "Science and Technology",
+    "Arts, Culture and Entertainment"
+  ],
+  "external_links": [
+    "https://orllewin.itch.io/modularplay/devlog/651588/coming-soon",
+    "https://orllewin.itch.io/modularplay",
+    "https://orllewin.itch.io/granular",
+    "https://publish.obsidian.md/orllewin/software/ModularL%C3%B6ve",
+    "https://www.publish.obsidian.md/orllewin/software/ModularL%C3%B6ve",
+    "https://www.orllewin.itch.io/modularplay",
+    "https://www.orllewin.itch.io/granular",
+    "https://www.orllewin.itch.io/modularplay/devlog/651588/coming-soon"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "orllewin",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "öppenlab yorkshire",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "yorkshire",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:14:36.859+02:00",
+  "updated": "2023-12-29T02:14:36.859+02:00"
+}

@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "80eddb05e5bcf3f277fe4b4c8b351c334ad58ea9",
+    "url": "https://ubuntuhandbook.org/index.php/2023/11/install-dotnet-8-ubuntu-22-04/",
+    "site_full": "ubuntuhandbook.org",
+    "site": "ubuntuhandbook.org",
+    "site_section": "https://ubuntuhandbook.org/",
+    "site_categories": [
+      "unix",
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "UbuntuHandbook | News, Tutorials, Howtos for Ubuntu Linux",
+    "title": "How to Install .NET 8 in Ubuntu 22.04 LTS | UbuntuHandbook",
+    "title_full": "How to Install .NET 8 in Ubuntu 22.04 LTS | UbuntuHandbook",
+    "published": "2024-01-05T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 74574,
+    "domain_rank_updated": "2024-01-02T12:06:53.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "80eddb05e5bcf3f277fe4b4c8b351c334ad58ea9",
+  "url": "https://ubuntuhandbook.org/index.php/2023/11/install-dotnet-8-ubuntu-22-04/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ji m",
+  "published": "2024-01-05T07:00:00.000+02:00",
+  "title": "How to Install .NET 8 in Ubuntu 22.04 LTS | UbuntuHandbook",
+  "text": "Microsoft announced .NET 8 a few days ago. Here’s a step by step guide shows how to install it in Ubuntu 22.04 LTS. .NET 8 is a new LTS release with 3 years support. It features new code generator “Dynamic Profile-Guided Optimization” (PGO), AVX-512 instruction set, out-of-the-box AI features, first preview of .NET Aspire, native AoT, and various other changes. See the [release note](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/) for details. How to Install .NET 8 SDK/Run-time in Ubuntu 22.04 Ubuntu has included the new release package into system repository for Ubuntu 23.10. Don’t know if it will be backported to Ubuntu 22.04 LTS repository, but here you can install it through Microsoft’s official apt repository. 1. install the key To add the Microsoft repository, you have to first download & install the key file. To do so, press Ctrl+Alt+T on keyboard to open terminal. When terminal opens, run single command: sudo wget -O - https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor | sudo tee /etc/apt/keyrings/microsoft.gpg This command will download the key, dearmor it (so it’s unreadable code, see the screenshot), and save to ‘/etc/apt/keyrings’ directory. 2. Add the Microsoft repository Next, in terminal window, run command to create & edit the sources file: sudo gedit /etc/apt/sources.list.d/microsoft.sources Depends on your desktop environment, replace gedit with mousepad for XFCE, pluma for MATE, or nano that works in most cases. When the file opens, add following lines and save it. Types: deb URIs: https://packages.microsoft.com/ubuntu/22.04/prod/ Suites: jammy Components: main Architectures: amd64 Signed-By: /etc/apt/keyrings/microsoft.gpg For Ubuntu 20.04, replace 22.04 with 20.04, and jammy with focal. 3. Install .NET 8 Finally, update system package cache by running command: sudo apt update And, install .NET 8 SDK, runtime: sudo apt install dotnet-sdk-8.0 I’m not .NET developer, but you can try dotnet --version after installation to verify. Uninstall .NET 8 To remove .NET 8, open terminal (Ctrl+Alt+T) and run command: sudo apt remove --autoremove aspnetcore-runtime-8.0 dotnet-sdk-8.0 dotnet-runtime-8.0 And, remove the Microsoft repository by running the 2 commands below to delete sources and key files: sudo rm /etc/apt/keyrings/microsoft.gpg sudo rm /etc/apt/sources.list.d/microsoft.sources Finally, run sudo apt update to refresh cache.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://packages.microsoft.com/ubuntu/22.04/prod/",
+    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)",
+    "https://packages.microsoft.com/keys/microsoft.asc",
+    "https://packages.microsoft.com/ubuntu/22.04/prod",
+    "https://www.packages.microsoft.com/keys/microsoft.asc",
+    "https://www.devblogs.microsoft.com/dotnet/announcing-dotnet-8/)",
+    "https://www.packages.microsoft.com/ubuntu/22.04/prod/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "ubuntuhandbook microsoft",
+        "sentiment": "negative"
+      },
+      {
+        "name": "avx",
+        "sentiment": "none"
+      },
+      {
+        "name": "microsoft",
+        "sentiment": "none"
+      },
+      {
+        "name": "sdk",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ubuntu 22.04 ubuntu",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-06T03:55:19.075+02:00",
+  "updated": "2024-01-06T03:55:19.075+02:00"
+}

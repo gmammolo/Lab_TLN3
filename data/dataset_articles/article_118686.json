@@ -1,0 +1,135 @@
+{
+  "thread": {
+    "uuid": "176434291a50391a678e728dcad463c1ad6f0d4a",
+    "url": "https://www.zeit.de/news/2025-11/20/wintereinbruch-im-suedosten-sonne-am-tag-frost-in-der-nacht",
+    "site_full": "www.zeit.de",
+    "site": "zeit.de",
+    "site_section": "https://www.zeit.de/news/index",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Aktuelle Schlagzeilen und Newsticker | DIE ZEIT",
+    "site_title": "ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten",
+    "title": "Bis zu -10 Grad: Wintereinbruch im Südosten: Sonne am Tag, Frost in der Nacht | DIE ZEIT",
+    "title_full": "Bis zu -10 Grad: Wintereinbruch im Südosten: Sonne am Tag, Frost in der Nacht | DIE ZEIT",
+    "published": "2025-11-20T08:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.zeit.de/news/2025-11/20/wintereinbruch-im-suedosten-sonne-am-tag-frost-in-der-nacht-image-group/wide__1300x731",
+    "performance_score": 0,
+    "domain_rank": 2839,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "176434291a50391a678e728dcad463c1ad6f0d4a",
+  "url": "https://www.zeit.de/news/2025-11/20/wintereinbruch-im-suedosten-sonne-am-tag-frost-in-der-nacht",
+  "ord_in_thread": 0,
+  "author": "@zeitonline",
+  "published": "2025-11-20T08:32:00.000+02:00",
+  "title": "Bis zu -10 Grad: Wintereinbruch im Südosten: Sonne am Tag, Frost in der Nacht | DIE ZEIT",
+  "text": "Im Südosten Deutschlands wird es zum Wochenende klirrend kalt. Vor allem nachts fallen die Temperaturen auf bis zu minus 10 Grad, wie der Deutsche Wetterdienst (DWD) mitteilte. Tagsüber zeigt sich häufig die Sonne.\nDer Donnerstag beginnt mit dichten Wolken und vereinzelten Schauern, die oberhalb von 400 Metern Schnee bringen können. Im Harz und Erzgebirge sind laut DWD bis zu fünf Zentimeter Neuschnee möglich. Dort klettert das Thermometer am Tag kaum über minus 6 Grad. In tieferen Lagen liegen die Werte zwischen minus 2 und 5 Grad.\nAb den Mittagsstunden klart es auf, der Regen zieht ab. Nur in Sachsen hält sich die Wolkendecke bis in die Abendstunden. In der Nacht zu Freitag wird es noch kälter: minus 2 bis minus 8 Grad, im Harz bis minus 9. Der DWD warnt dabei verbreitet vor Glätte.\nMinusgrade – mit Aussicht auf Besserung\nAuch zum Start in das Wochenende bleibt es winterlich. Am Freitag liegen die Temperaturen bei 0 bis 2 Grad, im Bergland im negativen Bereich.\nRund um Leipzig scheint besonders häufig die Sonne, und auch sonst bleibt es heiter und trocken. In der Nacht wird es jedoch erneut sehr kalt: minus 3 bis minus 8 Grad, unter Schneedecken sogar bis minus 10. Am Samstag steigen die Temperaturen leicht auf bis zu 4 Grad. In den Nächten wird es mit bis minus 7 Grad etwas weniger frostig.\n© dpa-infocom, dpa:251120-930-316173/1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather statistic",
+    "Weather->weather forecast"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Deutschlands",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sachsen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Leipzig",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutsche Wetterdienst",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T08:35:51.785+02:00",
+  "updated": "2025-11-21T09:10:10.000+02:00"
+}

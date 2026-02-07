@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "420db5bcc22f91e585328232586cd187af58affb",
+    "url": "https://www.moneycontrol.com/technology/ai-hits-a-speed-bump-why-the-next-big-thing-isnt-coming-so-fast-article-12868079.html",
+    "site_full": "www.moneycontrol.com",
+    "site": "moneycontrol.com",
+    "site_section": "https://www.moneycontrol.com",
+    "site_categories": [
+      "investing",
+      "financial_news",
+      "finance"
+    ],
+    "section_title": "Business News Today: Stock and Share Market News, Economy and Finance News, Sensex, Nifty, Global Market, NSE, BSE Live IPO News",
+    "title": "AI hits a speed bump: Why the next big thing isn't coming so fast",
+    "title_full": "AI hits a speed bump: Why the next big thing isn't coming so fast",
+    "published": "2024-11-15T06:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.moneycontrol.com/static-mcnews/2024/11/20241115063209_AI-slowdown.jpg",
+    "performance_score": 0,
+    "domain_rank": 2611,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "420db5bcc22f91e585328232586cd187af58affb",
+  "url": "https://www.moneycontrol.com/technology/ai-hits-a-speed-bump-why-the-next-big-thing-isnt-coming-so-fast-article-12868079.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Arun Padmanabhan",
+  "published": "2024-11-15T06:26:00.000+02:00",
+  "title": "AI hits a speed bump: Why the next big thing isn't coming so fast",
+  "text": "For the past few years, the tech world has been caught up in the frenzy of what’s often called the 'AI arms race' —a non-stop push to build the most powerful artificial intelligence systems, capable of surpassing human intelligence, transforming everything from healthcare to entertainment. Each breakthrough has been met with excitement, from the launch of GPT-3.5 to the first truly multimodal models like GPT-4 and Google’s Gemini. With every step forward, companies have bet big on a future where artificial general intelligence (AGI) is just around the corner. But lately, the race to build smarter AI seems to have kind of plateaued! AI giants—OpenAI, Google, and Anthropic—are realising that bigger models, more data, and faster computing power aren’t delivering the results they expected. In fact, some of their latest models are falling short of expectations, raising questions about the future of AI development and achieving AGI. Yann LeCun, AI pioneer and senior researcher at Meta, recently went to the extent of calling AI a dumber than a cat. &quot;Today’s models are really just predicting the next word in a text. But they’re so good at this that they fool us. And because of their enormous memory capacity, they can seem to be reasoning when, in fact, they’re merely regurgitating information they’ve already been trained on,&quot; LeCun told the Wall Street Journal in a recent interview. Also read | AI pioneer Yann LeCun: India must embrace open source, invest in research to become an AI hub like France Is bigger always better? For years, the AI industry has followed the so-called &quot;scaling laws&quot; which suggest that increasing the size of models (in terms of computing power, data, and parameters) will lead to more powerful AI systems. Let’s make it simpler. Imagine you're baking a cake. You know that the bigger the cake, the more ingredients and oven time you'll need. AI scaling laws are similar, but instead of a cake, we're talking about AI models. These laws tell us that bigger AI models, trained on more data, generally perform better. It's like saying that a larger cake, baked longer, will taste better. However, there's a limit to this. Just like you can't keep making a cake infinitely bigger, there's a point where increasing an AI model's size and training data won't significantly improve its performance. OpenAI co-founder Ilya Sutskever, who now runs his own AI lab, Safe Superintelligence (SSI), claims that the ChatGPT-maker’s recent tests trying to scale up its models suggest that those efforts have plateaued. &quot;The 2010s were the age of scaling, now we're back in the age of wonder and discovery once again,&quot; Sutskever, who quit OpenAI in May last year, told Reuters in an interview. &quot;Everyone is looking for the next thing.&quot; OpenAI’s Orion model, for instance, reportedly faced issues in performing coding tasks due to insufficient training data in the domain. While improvements have been made through a post-training process, Orion is still not ready for public release, with OpenAI reportedly set to delay its rollout until early next year. According to a report in The Information, although OpenAI has completed only 20 percent of Orion’s training, it is already on a par with GPT-4 in intelligence, task fulfillment, and question-answering abilities. While Orion outperforms previous models, the quality improvement is less dramatic than the leap from GPT-3 to GPT-4. Similarly, Anthropic’s Claude 3.5 Opus has not significantly outperformed earlier models, despite being larger and more resource-intensive. &quot;Is there a plateau? Well, the facts are obvious, we have not seen a GPT-4 kind of release, we have seen other models catch up like Claude 3.5, but we have really not seen a significant leap of progress that we have to assume the labs are trying with bigger parameters, more data, more computing,” Tanuj Bhojwani, head of People + AI, said. “We have to assume that they have been trying the same strategy that they have been trying all the way up to GPT-4 and 4o, and if those strategies would have yielded results, we would have seen it by now, and that seems to be the reason for the slowdown,&quot; Bhojwani said. Ganesh Gopalan, co-founder and CEO of Gnani.ai, a Bengaluru-based AI startup, sees a shift in focus towards small language models as a way to solve real business problems. &quot;I think what we're actually observing is the focus shifting towards Small Language Models (SLMs) for solving real business problems. While large language models have been groundbreaking, SLMs offer some compelling advantages, especially when it comes to efficiency, accuracy and low latency,&quot; said Ganesh Gopalan. The data dilemma A key issue with training AI models is the availability of high-quality, human-made data. While AI companies have relied on scraping publicly available data from the internet, this approach is starting to hit limits. To train models that can handle complex, specialised tasks, companies need access to high-quality datasets, which are harder and more expensive to acquire. In response, companies like OpenAI have started to form partnerships with publishers and other organisations to get more targeted and diverse datasets. This approach is time-consuming and costly. Moreover, there's the growing problem of synthetic data. While computer-generated content (like text or images) is useful, it doesn’t always have the the richness or unpredictability of human-created material. &quot;Access to unique, human-generated data is paramount in the pursuit of human-like intelligence in AI. Think of it this way: the human brain learns from a lifetime of diverse, nuanced experiences. High-quality data leads to more accurate, reliable models that are less prone to hallucinations. Synthetic data does have a role, but we cannot discount the value of human-generated data,&quot; said Gnani.ai’s Gopalan. The cost With the rising cost of AI research and development, the stakes are getting higher. To develop cutting-edge models like GPT-4 and Google’s Gemini, companies have to spend tens or even hundreds of millions of dollars. And as the models grow larger, so too do the costs. The cost of training a cutting-edge AI model today is estimated to be around $100 million, with that figure expected to balloon into the billions in the future. Bhojwani argues that the real challenge is not about scaling these models. &quot;There's no company which wins a billion dollars for having the biggest models. Companies win when their models are being used in real-life applications and they're getting paid, and they continue to have money and free cash flow to invest, and keep pushing the technology boundary because customers will always be demanding of the best.&quot; Bhojwani believes that once companies realise that scaling alone isn't a sustainable strategy, they can leverage their existing resources to concentrate on practical use cases. &quot;So it's just a question of when do you give up on that scaling ambition which is FOMO-driven. If OpenAI is investing $10 billion, then Anthropic wants to invest that much, and somebody else wants to invest similar amounts,&quot; Bhojwani said. Earlier in November, OpenAI chief Sam Altman in a Reddit post said that the company will prioritise shipping o1 and its successors. “All of these models have gotten quite complex and we can't ship as many things in parallel as we'd like to. (we also face a lot of limitations and hard decisions about we allocated our compute towards many great ideas),” he said. Shifting focus? While traditional scaling laws focus on pre-training larger models, companies like OpenAI are adopting new ways to scale models, by focusing on training time and inference time. Training time refers to the amount of time it takes to train a model on a dataset. Inference time refers to the amount of time it takes for a model to process a query and generate a response. The o1 model that OpenAI recently previewed, spends extra time computing an answer before responding to a query. “With o1, we developed one way to scale test-time compute, but it isn't the only way and might not be the best way. I'm excited to see academic researchers explore new approaches in this direction,&quot; OpenAI research scientist Noam Brown said in a post on X. OpenAI has also been shifting its focus away from simply building larger models to creating new use cases for existing models, such as developing AI “agents”. &quot;We will have better and better models, but I think the thing that will feel like the next giant breakthrough will be agents,&quot; Altman said in a Reddit post. Even other players such as Meta and Google DeepMind are reportedly trying similar methods.\",",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Yann LeCun",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T09:16:50.894+02:00",
+  "updated": "2024-11-15T09:16:50.894+02:00"
+}

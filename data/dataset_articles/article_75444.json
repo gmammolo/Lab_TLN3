@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "e506477d61e45d0ab50f54d6bcaa28977a7492d5",
+    "url": "https://torrentfreak.com/real-debrid-implements-extreme-anti-piracy-filters-to-appease-film-companies-241122",
+    "site_full": "torrentfreak.com",
+    "site": "torrentfreak.com",
+    "site_section": "https://www.torrentfreak.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "TorrentFreak - News",
+    "title": "Real-Debrid Implements Extreme Anti-Piracy Filters to Appease Film Companies",
+    "title_full": "Real-Debrid Implements Extreme Anti-Piracy Filters to Appease Film Companies",
+    "published": "2024-11-22T13:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3335,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e506477d61e45d0ab50f54d6bcaa28977a7492d5",
+  "url": "https://torrentfreak.com/real-debrid-implements-extreme-anti-piracy-filters-to-appease-film-companies-241122",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ernesto Van der Sar",
+  "published": "2024-11-22T13:28:00.000+02:00",
+  "title": "Real-Debrid Implements Extreme Anti-Piracy Filters to Appease Film Companies",
+  "text": "Real-Debrid is nifty tool that provides access to premium and unrestricted downloads from a variety of file hosting and torrent websites. The popular download service operates as a middleman to access file-hosting platforms, for example, and also uses cached content to stream content from torrent sites instantly. These features appear to be quite appealing to pirates. This hasn’t gone unnoticed by Real-Debrid, which has an active DMCA removal policy to deal with complaints from rightsholders. However, according to French film distribution companies, this didn’t go far enough. Real-Debrid Goes Full Anti-Piracy Mode A few hours ago Real-Debrid informed its users that it will strengthen its anti-piracy measures. This drastic measure comes after a formal notice from the French Federation of Film Distributors ( FNEF ), which previously took several popular file hosting services to court . Faced with FNEF’s demands, which could potentially escalate into a full-fledged legal battle, Real-Debrid has decided to take several steps to appease rightsholders. The service says it will block content from ‘a number of’ cyberlockers that are on the US Trade Representative’s “Notorious Markets” list , as well as the EU “Piracy Watchlist” . No names are mentioned, but RapidGator, Mega, Dbree, and KrakenFiles are potential candidates. Real-Debrid will also deactivate its API , which could be used by third-party services and applications, including media centers such as Kodi and Plex. The same applies to the ‘instantAvailability’ feature, which made it possible to instantly stream and download cached videos, including pirated content. Upload Filters & More The service appears to be leaving no stone untouched to combat piracy. It has announced several filtering measures, including keyword filters. Real-Debrid acknowledges that this may lead to false positives, but it appears that the service doesn’t have much choice. Private torrent trackers aren’t safe either. The download service says it will block all torrent hashes from trackers mentioned in lawsuits filed at the Paris Judicial Court. Furthermore, Real-Debrid also promises to purge all currently cached files matching these filters. Action to ban “all counterfeit Kodi and Stremio applications” is most likely a reference to any third party tools and extensions that enhance Kodi and Stremio with near-instant playback features. What’s Next? As expected, many of Real-Debrid’s paying customers are not pleased with these planned changes. To what degree it will affect the broader user base has yet to be seen, however. Not all users of the service utilize its ‘instant’ streaming tool. The torrent download functionality is also quite popular. For these people, the impact will largely depend on the breadth and effectiveness of the hash and filename filters. That said, the pressure applied by French movie distributors will clearly have an impact on Real-Debrid. If the current measures prove insufficient, the same rightsholders will likely come back with new demands.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://api.real-debrid.com/",
+    "https://www.reddit.com/r/RealDebrid/comments/ziowca/how_exactly_does_caching_work/",
+    "https://real-debrid.com/",
+    "https://x.com/RealDebrid/status/1859673163681960169",
+    "https://fnef.fr/les-adherents/",
+    "https://api.real-debrid.com",
+    "https://www.fnef.fr/les-adherents/",
+    "https://www.real-debrid.com/",
+    "https://www.reddit.com/r/RealDebrid/comments/ziowca/how_exactly_does_caching_work",
+    "https://www.x.com/RealDebrid/status/1859673163681960169",
+    "https://www.api.real-debrid.com/",
+    "https://reddit.com/r/RealDebrid/comments/ziowca/how_exactly_does_caching_work/",
+    "https://fnef.fr/les-adherents",
+    "https://real-debrid.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "French Federation of Film Distributors",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:20:17.445+02:00",
+  "updated": "2024-11-28T11:26:58.257+02:00"
+}

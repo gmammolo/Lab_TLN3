@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "4f38db562577ecffcee51e9c2ef51679df6b2506",
+    "url": "https://www.cash.ch/news/top-news/trump-verhangt-zolle-auf-hochleistungschips-898803",
+    "site_full": "www.cash.ch",
+    "site": "cash.ch",
+    "site_section": "https://www.cash.ch/rohstoffe-edelmetalle/platin-1-kg-287657/ubs/chf",
+    "site_categories": [
+      "investing",
+      "financial_news",
+      "finance",
+      "stocks",
+      "war, conflict and unrest",
+      "politics",
+      "economy, business and finance"
+    ],
+    "section_title": "Platin 1 Kg (Valor 287657): Aktueller Kurs in CHF an der UBS von heute | cash",
+    "site_title": "Alles über Finanzen: News, Banking &amp; Trading | cash",
+    "title": "Trump verhängt Zölle auf Hochleistungschips",
+    "title_full": "Trump verhängt Zölle auf Hochleistungschips",
+    "published": "2026-01-15T01:02:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://www.cash.ch/fp/1200/675/2000/1334/sites/default/files/media/field_image/2023-07/amd.jpg",
+    "performance_score": 0,
+    "domain_rank": 47428,
+    "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4f38db562577ecffcee51e9c2ef51679df6b2506",
+  "url": "https://www.cash.ch/news/top-news/trump-verhangt-zolle-auf-hochleistungschips-898803",
+  "ord_in_thread": 0,
+  "author": "Reuters",
+  "published": "2026-01-15T01:02:00.000+02:00",
+  "title": "Trump verhängt Zölle auf Hochleistungschips",
+  "text": "Betroffen sind unter anderem der KI-Prozessor H200 von Nvidia und der Halbleiter MI325X von AMD, wie aus Unterlagen des Präsidialamts hervorging. Die Regierung begründete den Schritt mit der nationalen Sicherheit. Ziel sei es, die Abhängigkeit von ausländischen Herstellern wie dem taiwanischen Branchenriesen TSMC zu verringern und die Produktion in die USA zu verlagern. Die Zölle sollen gezielt sein: Importe für US-Rechenzentren, Start-ups sowie zivile Industrieanwendungen sind ausgenommen.\n«Die USA stellen derzeit nur etwa zehn Prozent ihres Bedarfs an Chips selbst her, was sie stark von ausländischen Lieferketten abhängig macht», hiess es in der Verfügung weiter. Zwar entwickeln US-Konzerne wie Nvidia, AMD und Intel viele der weltweit genutzten Chips, die Fertigung erfolgt jedoch grösstenteils in Asien. Trump hatte im September neue Zölle auf Medikamente und Lastwagen angekündigt und im April Untersuchungen zu Chip-Importen eingeleitet, um die heimische Industrie zu stärken.\n(Reuters)\nMehr erfahren",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "USA",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "AMD",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "AMD",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Nvidia",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "NVDA",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "TSMC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "TSM",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-15T07:44:29.073+02:00",
+  "updated": "2026-01-15T07:48:51.000+02:00"
+}

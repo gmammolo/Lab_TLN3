@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "96f30a327f2ea3594755df7f22265889d88d71e1",
+    "url": "https://www.connect.de/news/windows-11-kb5063878-ssd-probleme-3210366.html",
+    "site_full": "www.connect.de",
+    "site": "connect.de",
+    "site_section": "https://www.connect.de",
+    "site_categories": [
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": " Tests, Ratgeber, Kaufberatungen und News sowie Videos - connect",
+    "site_title": "Tests, Ratgeber, Kaufberatungen und News sowie Videos - connect",
+    "title": "Windows-11-Update könnte SSD-Zugriff stören - connect",
+    "title_full": "Windows-11-Update könnte SSD-Zugriff stören - connect",
+    "published": "2025-08-21T13:12:40.021+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.connect.de/bilder/118682052/500x300-c2/samsung-western-digital-128-tb-ssd.jpg",
+    "performance_score": 0,
+    "domain_rank": 36607,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "96f30a327f2ea3594755df7f22265889d88d71e1",
+  "url": "https://www.connect.de/news/windows-11-kb5063878-ssd-probleme-3210366.html",
+  "ord_in_thread": 0,
+  "author": "The-Khoa Nguyen",
+  "published": "2025-08-21T13:12:40.021+03:00",
+  "title": "Windows-11-Update könnte SSD-Zugriff stören - connect",
+  "text": "Probleme mit KB5063878\nWindows-11-Update könnte SSD-Zugriff stören\nEin aktuelles Windows-11-Update sorgt für Probleme beim Zugriff auf SSDs. Es gibt Berichte über Datenverluste und nicht erkannte Laufwerken – vor allem bei bestimmten Controllern.\nDas Windows-11-Update KB5063878 soll laut einem Tester (japanisch) zu schwerwiegenden Fehlern beim Zugriff auf SSDs führen. Betroffen seien demnach Laufwerke mehrerer Hersteller, darunter Samsung, Western Digital, Seagate, Corsair und Crucial. Der Fehler äußere sich durch plötzliche Nichterkennu...\nDas Windows-11-Update KB5063878 soll laut einem Tester (japanisch) zu schwerwiegenden Fehlern beim Zugriff auf SSDs führen. Betroffen seien demnach Laufwerke mehrerer Hersteller, darunter Samsung, Western Digital, Seagate, Corsair und Crucial. Der Fehler äußere sich durch plötzliche Nichterkennung der Laufwerke durch das Betriebssystem.\nDer Tester, der unter dem Namen Necoru_cat bekannt ist, habe den Bug auf über 20 verschiedenen SSDs festgestellt. Besonders anfällig seien SSDs mit Phison-Controllern. Das Problem trete offenbar auf, wenn kontinuierlich große Datenmengen von mindestens 50 GByte auf ein Laufwerk geschrieben werden – vorausgesetzt, das Laufwerk ist bereits zu mindestens 60 Prozent gefüllt.\nTemporäre Lösung durch Neustart\nEin Neustart könne laut dem Tester helfen, das Laufwerk zumindest kurzfristig wieder sichtbar zu machen. In manchen Fällen sei der Fehler dadurch vorübergehend behoben worden. Allerdings könne das Problem erneut auftreten – eine dauerhafte Lösung scheint bislang nicht vorhanden zu sein. Immerhin untersucht Microsoft das Problem bereits. Auch Phison hat sich bereits zu Wort gemeldet und prüft betroffene Laufwerke.\nMöglicher Zusammenhang mit dem Patch\nDa das Problem vor der Installation von KB5063878 nicht auftrat, wird vermutet, dass das Update den Fehler eingeführt hat.\nVorsicht bei Installation empfohlen\nBis weitere Informationen vorliegen, wird empfohlen, das Update nicht zu installieren. Insbesondere Nutzer mit SSDs von den genannten Herstellern oder mit Phison-Controllern sollten vorsichtig sein. Parallel gab es auch Probleme mit der \"Diesen PC zurücksetzen\"-Funktion durch den gleichen Patch. Ein Bugfix steht dafür bereits zur Verfügung.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/Necoru_cat/status/1956130393050243325",
+    "https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/",
+    "https://www.windowslatest.com/2025/08/20/microsoft-is-investigating-windows-11-kb5063878-ssd-data-corruption-failure-issue/",
+    "https://windowslatest.com/2025/08/20/microsoft-is-investigating-windows-11-kb5063878-ssd-data-corruption-failure-issue/",
+    "https://www.x.com/Necoru_cat/status/1956130393050243325",
+    "https://www.windowslatest.com/2025/08/20/microsoft-is-investigating-windows-11-kb5063878-ssd-data-corruption-failure-issue",
+    "https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data",
+    "https://neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Western Digital",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:12:40.021+03:00",
+  "updated": "2025-08-21T13:17:24.000+03:00"
+}

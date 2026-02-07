@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "c27eaee357c517d1a92331f2bc146340d5533995",
+    "url": "https://www.thestar.com.my/news/nation/2024/12/13/heavy-rain-sparks-flooding-along-jalan-tun-dr-awang-motorists-urged-to-stay-cautious",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/news/nation",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Nation - News | The Star",
+    "title": "Heavy rain sparks flooding along Jalan Tun Dr Awang, motorists urged to stay cautious | The Star",
+    "title_full": "Heavy rain sparks flooding along Jalan Tun Dr Awang, motorists urged to stay cautious | The Star",
+    "published": "2024-12-13T13:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/12/13/3067946.jpg",
+    "performance_score": 0,
+    "domain_rank": 2197,
+    "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 56,
+        "comments": 1,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c27eaee357c517d1a92331f2bc146340d5533995",
+  "url": "https://www.thestar.com.my/news/nation/2024/12/13/heavy-rain-sparks-flooding-along-jalan-tun-dr-awang-motorists-urged-to-stay-cautious",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "IMRAN HILMY",
+  "published": "2024-12-13T13:34:00.000+02:00",
+  "title": "Heavy rain sparks flooding along Jalan Tun Dr Awang, motorists urged to stay cautious | The Star",
+  "text": "GEORGE TOWN: Heavy rain over the past few hours caused flooding along Jalan Tun Dr Awang on Friday.\nVideos shared on social media showed parts of the road near the Setia SPICE Convention Centre submerged in ankle-deep water.\nA Civil Defence Force spokesperson said a team of personnel had been deployed to the location after receiving information from the public.\n\"Its personnel are currently assessing the situation,\" the spokesperson said when contacted.\nThe spokesperson added that while other roads remain accessible, the public is advised to exercise caution.\nIn a 26-second video, motorists can be seen navigating through the flood during rush hour.\nThere have been no reports of injuries or fatalities related to the incident so far.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Social Issue"
+  ],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Civil Defence Force",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-12-13T14:38:57.294+02:00",
+  "updated": "2024-12-13T14:38:57.294+02:00"
+}

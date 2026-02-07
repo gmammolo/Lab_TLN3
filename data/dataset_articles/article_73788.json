@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "e3fca476329b846a16b87d482b31d6a94e6963ab",
+    "url": "https://www.securityinfowatch.com/cybersecurity/press-release/55243166/akamai-technologies-inc-nasdaq-akam-the-worlds-largest-and-most-trusted-cloud-delivery-platform-akamai-84-of-security-professionals-experienced-an-api-security-incident-in-the-past-year",
+    "site_full": "www.securityinfowatch.com",
+    "site": "securityinfowatch.com",
+    "site_section": "https://securityinfowatch.com/cybersecurity",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cybersecurity | Security Info Watch",
+    "title": "Akamai: 84% of security professionals experienced an API security incident in the past year",
+    "title_full": "Akamai: 84% of security professionals experienced an API security incident in the past year",
+    "published": "2024-11-14T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/11/6736692a0a5aee88a51753af-personworkinghtmlcomputer_232150038843.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+    "performance_score": 0,
+    "domain_rank": 24515,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e3fca476329b846a16b87d482b31d6a94e6963ab",
+  "url": "https://www.securityinfowatch.com/cybersecurity/press-release/55243166/akamai-technologies-inc-nasdaq-akam-the-worlds-largest-and-most-trusted-cloud-delivery-platform-akamai-84-of-security-professionals-experienced-an-api-security-incident-in-the-past-year",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-14T02:00:00.000+02:00",
+  "title": "Akamai: 84% of security professionals experienced an API security incident in the past year",
+  "text": "Akamai: 84% of security professionals experienced an API security incident in the past year [Akamai Technologies, Inc.](/12406373) [Akamai Technologies, Inc.](https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=646256068&u=https%3A%2F%2Fwww.akamai.com%2F&a=Akamai+Technologies%2C+Inc.)[ ](https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=646256068&u=https%3A%2F%2Fwww.akamai.com%2F&a=Akamai+Technologies%2C+Inc.)today announced new research showing that while API attacks are rising, visibility into API risks that open doors for attackers is declining. Now in its third year, the [API Security Impact S](https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=3266238680&u=https%3A%2F%2Fwww.akamai.com%2Flp%2Fapi-security-study-2024&a=API+Security+Impact+S)[tudy](https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=236630363&u=https%3A%2F%2Fwww.akamai.com%2Flp%2Fapi-security-study-2024&a=tudy) (formerly the API Security Disconnect) explores the state of API protection based on a survey of 1,207 security leaders and practitioners across the United States, United Kingdom, and Germany. The study finds that 84% of respondents experienced an API security incident over the past 12 months. This marks the third straight year of increased incursions and marks an all-time high (up from 78% in 2023). The number is also consistent with [recent Akamai research](https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=2776742879&u=https%3A%2F%2Fwww.akamai.com%2Fresources%2Fstate-of-the-internet%2Fsecuring-apps-report-2024&a=recent+Akamai+research) that shows a rise in API attacks. Although API incursions are up, the percentage of participants who have a full API inventory and know which APIs exchange sensitive data dropped from an already low 40% in 2023 to just 27% in 2024. According to the May 2024 Gartner Market Guide for API Protection: \"Current data indicates that the average API breach leads to at least 10 times more leaked data than the average security breach.\" This suggests API security will be a major issue for the foreseeable future. The API Security Impact Study surveyed security leaders from the following industries: financial services, retail/ecommerce, healthcare, government/public sector, manufacturing, energy/utilities, automotive, and insurance. Energy/utilities reported the highest number of API security incidents (91%), yet that industry ranked API security as their lowest priority among the 13 options given. Conversely, retail/ecommerce reported the lowest number of API incidents (68%) and cited API security as a top priority (21.3%)—higher than any other industry surveyed. Other findings of the survey include: - The average cost to remediate API incidents was $591,404 in the United States. In sectors such as financial services, the average rose to $832,801. - There is general consensus among all roles in all regions that the greatest impacts of API security incidents fall on security staff. Participants ranked the levels of stress and/or pressure on their teams from API security to be slightly higher than those from remediation costs and regulatory fines. - The top-ranked security priorities for CISOs over the next 12 months are addressing generative AI–fueled threats (25.5%) and securing APIs (24.8%). - In 2023, 18% of U.S. and U.K. respondents said they tested APIs in real time. Among the same cohort in 2024, that figure fell to 13%. Many of the causes for API incidents that were cited by survey takers are exactly the types of issues real-time testing can help address. - Top-ranked causes of API incidents include vulnerabilities cited in the OWASP Top 10 API Security Risks and a candid admission that commonly used API tools did not catch the issues. \"Our research shows that API security has yet to become a key element in a comprehensive security strategy,\" said Rupesh Chokshi, Senior Vice President and General Manager, Application Security, Akamai. \"Organizations mostly treat API threats as emerging when the attack data—as well as the financial impact and stress on security teams—shows they keep growing. We believe that the API Security Impact Study will help companies to better assess API protections and improve them where needed.\" The study offers not only insights about survey findings but also recommendations that security teams can use to enhance their API security strategies. This includes undertaking a full inventory of APIs, regular testing to ensure APIs are coded correctly, and implementing runtime detection to differentiate between \"normal\" and \"abnormal\" API activity. The API Security Impact survey was conducted by Opinion Matters between June 12, 2023, and July 7, 2024.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Health"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=646256068&u=https%3A%2F%2Fwww.akamai.com%2F&a=Akamai+Technologies%2C+Inc.)",
+    "https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=3266238680&u=https%3A%2F%2Fwww.akamai.com%2Flp%2Fapi-security-study-2024&a=API+Security+Impact+S)",
+    "https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=2776742879&u=https%3A%2F%2Fwww.akamai.com%2Fresources%2Fstate-of-the-internet%2Fsecuring-apps-report-2024&a=recent+Akamai+research)",
+    "https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=236630363&u=https%3A%2F%2Fwww.akamai.com%2Flp%2Fapi-security-study-2024&a=tudy)",
+    "https://c212.net/c/link/?t=0&l=en&o=4300590-1&h=646256068&u=https%3A%2F%2Fwww.akamai.com%2F&a=Akamai+Technologies%2C+Inc.)today",
+    "https://www.c212.net/c/link/?t=0&l=en&o=4300590-1&h=2776742879&u=https%3A%2F%2Fwww.akamai.com%2Fresources%2Fstate-of-the-internet%2Fsecuring-apps-report-2024&a=recent+Akamai+research)",
+    "https://www.c212.net/c/link/?t=0&l=en&o=4300590-1&h=236630363&u=https%3A%2F%2Fwww.akamai.com%2Flp%2Fapi-security-study-2024&a=tudy)",
+    "https://www.c212.net/c/link/?t=0&l=en&o=4300590-1&h=646256068&u=https%3A%2F%2Fwww.akamai.com%2F&a=Akamai+Technologies%2C+Inc.)today",
+    "https://www.c212.net/c/link/?t=0&l=en&o=4300590-1&h=3266238680&u=https%3A%2F%2Fwww.akamai.com%2Flp%2Fapi-security-study-2024&a=API+Security+Impact+S)",
+    "https://www.c212.net/c/link/?t=0&l=en&o=4300590-1&h=646256068&u=https%3A%2F%2Fwww.akamai.com%2F&a=Akamai+Technologies%2C+Inc.)",
+    "https://c212.net/c/link/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T00:22:56.341+02:00",
+  "updated": "2024-11-15T00:22:56.341+02:00"
+}

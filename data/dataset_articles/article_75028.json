@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "60a5ffdf3748d3e71a5fafb874344c53f7b563a9",
+    "url": "https://community.fabric.microsoft.com/t5/Translated-Spanish-Desktop/El-argumento-de-Power-BI-Desktop-no-es-v%C3%A1lido/td-p/4296631",
+    "site_full": "community.fabric.microsoft.com",
+    "site": "microsoft.com",
+    "site_section": "https://community.fabric.microsoft.com/t5/translated-spanish-desktop/bd-p/pbi_spanish_desktop",
+    "site_categories": [],
+    "section_title": "\n\tTranslated Spanish Desktop - Microsoft Fabric Community\n",
+    "title": "El argumento de Power BI Desktop no es válido - Microsoft Fabric Community",
+    "title_full": "El argumento de Power BI Desktop no es válido - Microsoft Fabric Community",
+    "published": "2024-11-22T06:06:00.000+02:00",
+    "replies_count": 1,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://community.fabric.microsoft.com/t5/image/serverpage/image-id/1204053i659360194F29582E?v=v2",
+    "performance_score": 0,
+    "domain_rank": 9,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "60a5ffdf3748d3e71a5fafb874344c53f7b563a9",
+  "url": "https://community.fabric.microsoft.com/t5/Translated-Spanish-Desktop/El-argumento-de-Power-BI-Desktop-no-es-v%C3%A1lido/td-p/4296631",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Syndicate_Admin",
+  "published": "2024-11-22T06:06:00.000+02:00",
+  "title": "El argumento de Power BI Desktop no es válido - Microsoft Fabric Community",
+  "text": "Recibo este error cuando intento abrir mi modelo semántico en Power BI Desktop. ¡Por favor, ayuda!\nTipo de retroalimentación:\nFruncir el ceño (error)\nTimestamp:\n2024-11-21T16:43:32.5677610Z\nHora local:\n2024-11-21T10:43:32.5677610-06:00\nID de sesión:\nC8759D64-0480-4B1F-B934-5837F43054A7\nLanzamiento:\nNoviembre 2024\nVersión del producto:\n2.138.782.0 (24.11) (x64)\nSeguimiento de pila:\nSystem.ArgumentException\nen Microsoft.Mashup.Host.Models.Verify.Validate(IValidatable value, String argumentName)\nen Microsoft.Mashup.Host.Models.Verify.Validate[T](IEnumerable'1 values, String argumentName, Boolean ensureElementsNotNull)\nen Microsoft.Mashup.Host.Models.Verify.ValidIfNotNull[T](IEnumerable'1 values, String argumentName, Boolean ensureElementsNotNull)\nat Microsoft.Mashup.Host.Document.JsonSerializer.DeserializeArrayOrNull[T](String json)\nen Microsoft.Mashup.Host.Document.JsonSerializer.<>c__DisplayClass4_0'1.<DeserializeArray>b__0()\nat Microsoft.Mashup.Host.Document.JsonSerializer.HandleDeserializationExceptions[T](Func'1 action, String json, Boolean includeValueInException)\nen Microsoft.PowerBI.Client.Windows.Services.FileHistoryManager.Initialize()\nen Microsoft.Mashup.Host.Models.HistoryEntryManager'1.AddEntry(T entry)\nat Microsoft.PowerBI.Client.CommandLineFileService.TryOpenOrCreateReport(IPowerBIWindowService, windowService, IExceptionHandler, exceptionHandler, Boolean forceCreate)\nen Microsoft.PowerBI.Client.Program.<>c__DisplayClass7_0.<RunApplicationLegacy>b__0()\nen Microsoft.PowerBI.Client.Windows.IExceptionHandlerExtensions.<>c__DisplayClass3_0.<HandleExceptionsWithNestedTasks>b__0()\nen Microsoft.Mashup.Host.Document.ExceptionHandlerExtensions.HandleExceptions(IExceptionHandler exceptionHandler, acción de acción)\nPowerBINonFatalError:\n{\"AppName\":\"PBIDesktop\",\"AppVersion\":\"2.138.782.0\",\"ModuleName\":\"Microsoft.Mashup.Document.dll\",\"Component\":\"Microsoft.Mashup.Host.Document.JsonSerializer\",\"Error\":\"System.ArgumentException\",\"MethodDef\":\"DeserializeArrayOrNull\",\"ErrorOffset\":\"29\",\"ErrorCode\":\"\"}\nSeguimiento de InnerException0.Stack:\nat Microsoft.Mashup.Host.Models.Verify.NotNull[T](T value, String argumentName)\nen Microsoft.Mashup.Host.Models.JsonHistoryEntry.Validate()\nen Microsoft.PowerBI.Client.Windows.JsonOdspFileHistoryEntry.Validate()\nen Microsoft.Mashup.Host.Models.Verify.Validate(IValidatable value, String argumentName)\nVersión del sistema operativo:\nMicrosoft Windows NT 10.0.19045.0 (x64 en-US)\nVersión de CLR:\n4.8 o posterior [Número de versión = 533325]\nPico de memoria virtual:\n70,4 GB\nMemoria privada:\n566 MB\nConjunto de trabajo máximo:\n729 MB\nVersión IE:\n11.3636.19041.0\nID de usuario:\nCCC1C780-F45B-4FBA-B563-29FB56475202\nTelemetría habilitada:\nVerdadero\nEscala de DPI:\n100%\nServicios compatibles:\nPower BI",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T09:54:37.152+02:00",
+  "updated": "2024-11-22T09:54:37.152+02:00"
+}

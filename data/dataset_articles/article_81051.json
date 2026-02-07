@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "4d3821cac93bdfc7a7a84b315c9b635881fa0802",
+    "url": "https://www.hackster.io/news/a-linux-machine-for-a-few-bucks-a1106df407c2",
+    "site_full": "www.hackster.io",
+    "site": "hackster.io",
+    "site_section": "https://www.hackster.io/news?topic=3d-printing",
+    "site_categories": [
+      "woodworking",
+      "hobbies_and_interests"
+    ],
+    "section_title": "Hackster News - Hackster.io",
+    "title": "A Linux Machine for a Few Bucks - Hackster.io",
+    "title_full": "A Linux Machine for a Few Bucks - Hackster.io",
+    "published": "2024-04-12T01:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://hackster.imgix.net/uploads/attachments/1703621/_KRDZvGKOBS.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+    "performance_score": 0,
+    "domain_rank": 4682,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4d3821cac93bdfc7a7a84b315c9b635881fa0802",
+  "url": "https://www.hackster.io/news/a-linux-machine-for-a-few-bucks-a1106df407c2",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nick Bild",
+  "published": "2024-04-12T01:08:00.000+03:00",
+  "title": "A Linux Machine for a Few Bucks - Hackster.io",
+  "text": "Linux is well-known for its efficiency and ability to run on some very tiny hardware platforms. Its versatility has made it the go-to operating system for a wide range of devices, from smartphones and tablets to embedded systems and Internet of Things devices. This adaptability stems from its open-source nature, which allows developers to tailor it to suit the specific requirements of various hardware configurations.\nBut just how tiny and inexpensive of a hardware platform can you get your own useful Linux system up and running on? Many people would probably answer that question by pointing to the diminutive Raspberry Pi Zero, or a similar single board computer. For about ten dollars, and in a package the size of a stick of chewing gum, that would seem like a pretty good answer, even though Linux could run on an even less powerful platform. But that is not really what I had in mind in asking the question about getting your own useful Linux system up and running.\nA software engineer by the name of Uros Popovic recently spent some time trying to build a minimal, yet practical, Linux computer completely from scratch, with the goal of keeping the cost under five dollars. Popovic had previously gone through a similar exercise, but did all of the work in a virtual environment. This time the plan was to get mainline Linux running on a custom, physical computer. And lucky for us, the entire project was written-up in detail so that we can play along at home. Be warned that this is not a step-by-step tutorial, however, so you will need to bring some knowledge to the table if you want to recreate the device for yourself.\nThe system is built around the Allwinner F1C100S SoC, which provides processing, memory, and USB and UART peripherals all in one package. That was paired with an SPI NOR flash memory chip to provide permanent storage — about 8 to 16 megabytes of space is sufficient. In single quantities, these components can be purchased for about five dollars. Popovic followed another engineer’s tutorial to create a PCB with these components, and then had it manufactured with JLCPCB.\nThroughout the remainder of the write-up, Popovic gives lots of helpful tips on how to build the bootloader, compile the Linux kernel, and initialize the filesystem. Finally, some steps are given to get the system up and running for the first time. Popovic also notes that a LicheePi Nano board, or similar, can be substituted by anyone that wants to build the Linux system without worrying about the custom hardware.\nFor some people, an exercise like this is a great way to spend a weekend. If that is you, you will not want to skip out on reading the write-up . On the other hand, if this sounds more like a nightmare to you, well, there is always the Raspberry Pi Zero.\nlinux pcb Nick Bild Follow R&D, creativity, and building the next big thing you never knew you wanted are my specialties.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://popovicu.com/posts/run-mainline-linux-on-5-dollar-hardware/",
+    "https://popovicu.com/posts/run-mainline-linux-on-5-dollar-hardware",
+    "https://www.popovicu.com/posts/run-mainline-linux-on-5-dollar-hardware/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "uros popovic",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T01:44:47.139+03:00",
+  "updated": "2024-04-12T20:14:01.050+03:00"
+}

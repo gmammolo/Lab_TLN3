@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "8bd837220fe80709aab4b48e7fee2ad65b5e6df0",
+    "url": "https://www.nature.com/articles/s41467-024-54043-1",
+    "site_full": "www.nature.com",
+    "site": "nature.com",
+    "site_section": "https://nature.com/ncomms",
+    "site_categories": [
+      "shopping"
+    ],
+    "section_title": "Nature Communications",
+    "title": "PACT-3D, a deep learning algorithm for pneumoperitoneum detection in abdominal CT scans",
+    "title_full": "PACT-3D, a deep learning algorithm for pneumoperitoneum detection in abdominal CT scans",
+    "published": "2024-11-07T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-024-54043-1/MediaObjects/41467_2024_54043_Fig1_HTML.png",
+    "performance_score": 0,
+    "domain_rank": 106,
+    "domain_rank_updated": "2024-11-04T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8bd837220fe80709aab4b48e7fee2ad65b5e6df0",
+  "url": "https://www.nature.com/articles/s41467-024-54043-1",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, USA",
+  "published": "2024-11-07T07:00:00.000+02:00",
+  "title": "PACT-3D, a deep learning algorithm for pneumoperitoneum detection in abdominal CT scans",
+  "text": "Delays or misdiagnoses in detecting pneumoperitoneum can significantly increase mortality and morbidity. We developed and validated a deep learning model designed to identify pneumoperitoneum in computed tomography images. The model is trained on abdominal scans from Far Eastern Memorial Hospital (January 2012–December 2021) and evaluated using a simulated test set (14,039 scans) and a prospective test set (6351 scans) collected from the same center between December 2022 and May 2023. External validation included 480 scans from Cedars-Sinai Medical Center. Overall, the model achieves a sensitivity of 0.81–0.83 and a specificity of 0.97–0.99 across retrospective, prospective, and external validation; sensitivity improves to 0.92–0.98 when cases with a small amount of free air (total volume https://github.com/IMinChiu/pact-3d . References Mularski, R. A., Sippel, J. M. & Osborne, M. L. Pneumoperitoneum: a review of nonsurgical causes. Crit. Care Med. 28, 2638–2644 (2000). Makki, A. M. The pattern of causes of pneumoperitoneum-induced peritonitis: results of an empirical study. J. Microsc Ultrastruct. 5, 28–31 (2017). Larsen, N. E., Mikkelsen, E., Knudsen, A. R. & Larsen, L. P. Low-dose CT for diagnosing intestinal obstruction and pneumoperitoneum; need for retakes and diagnostic accuracy. Acta Radio. Open 10, 2058460121989313 (2021). Ordoñez, C. A. & Puyana, J. C. Management of peritonitis in the critically ill patient. Surg. Clin. North Am. 86, 1323–1349 (2006). van Ruler, O. et al. Comparison of on-demand vs planned relaparotomy strategy in patients with severe peritonitis: a randomized trial. Jama 298, 865–872 (2007). Mills, A. M. et al. The impact of crowding on time until abdominal CT interpretation in emergency department patients with acute abdominal pain. Postgrad. Med. 122, 75–81 (2010). Kocher, K. E. et al. National trends in use of computed tomography in the emergency department. Ann. Emerg. Med. 58, 452–462.e3 (2011). Saha, A., Roland, R. A., Hartman, M. S. & Daffner, R. H. Radiology medical student education: an outcome-based survey of PGY-1 residents. Acad. Radio. 20, 284–289 (2013). Wechsler, R. J. et al. Effects of training and experience in interpretation of emergency body CT scans. Radiology 199, 717–720 (1996). Tieng, N., Grinberg, D. & Li, S. F. Discrepancies in interpretation of ED body computed tomographic scans by radiology residents. Am. J. Emerg. Med. 25, 45–48 (2007). Ruchman, R. B. et al. Preliminary radiology resident interpretations versus final attending radiologist interpretations and the impact on patient care in a community hospital. Am. J. Roentgenol. 189, 523–526 (2007). Immonen, E. et al. The use of deep learning towards dose optimization in low-dose computed tomography: A scoping review. Radiography 28, 208–214 (2022). Meedeniya, D. et al. Chest X-ray analysis empowered with deep learning: a systematic review. Appl. Soft Comput. 109319 (2022). Shen, Y.-T., Chen, L., Yue, W.-W. & Xu, H.-X. Artificial intelligence in ultrasound. Eur. J. Radiol. 139, 109717 (2021). Cheng, C. Y. et al. Deep learning assisted detection of abdominal free fluid in Morison’s pouch during focused assessment with sonography in Trauma. Front. Med. (Lausanne) 8, 707437 (2021). Chiu, I.-M. et al. Use of a deep-learning algorithm to guide novices in performing focused assessment with sonography in trauma. JAMA Netw. Open 6, e235102–e235102 (2023). Lu, C.-Y., et al. Artificial intelligence application in skull bone fracture with segmentation approach. J. Imag. Inform. Med. 1–16 (2024). Chiu, I. M. et al. Prospective clinical evaluation of deep learning for ultrasonographic screening of abdominal aortic aneurysms. npj Digit. Med. 7, 282 (2024). Taubmann, O. et al. Automatic detection of free intra-abdominal air in computed tomography 232–241 (Springer, 2020). Brejnebøl, M. W., Nielsen, Y. W., Taubmann, O., Eibenberger, E. & Müller, F. C. Artificial Intelligence based detection of pneumoperitoneum on CT scans in patients presenting with acute abdominal pain: a clinical diagnostic test accuracy study. Eur. J. Radiol. 150, 110216 (2022). Wessel, J. et al. Sequential rib labeling and segmentation in chest X-ray using Mask R-CNN. arXiv preprint arXiv:190808329 (2019). Cheng, C.-Y. et al. Development and validation of a deep learning pipeline to measure pericardial effusion in echocardiography. Front. Cardiovasc. Med. 10, 1195235 (2023). Almotairi, S., Kareem, G., Aouf, M., Almutairi, B. & Salem, M. A.-M. Liver tumor segmentation in CT scans using modified SegNet. Sensors 20, 1516 (2020). Tiwari, A., Srivastava, S. & Pant, M. Brain tumor segmentation and classification from magnetic resonance images: Review of selected methods from 2014 to 2019. Pattern Recognit. Lett. 131, 244–260 (2020). Baheti, B., Pati, S., Menze, B. & Bakas, S. Leveraging 2D deep learning imagenet-trained models for native 3D medical image analysis. Brainlesion 13769, 68–79 (2023). Thorisson, A. et al. Diagnostic accuracy of acute diverticulitis with unenhanced low-dose CT. BJS Open 4, 659–665 (2020). Ali, M., Iqbal, J. & Sayani, R. Accuracy of computed tomography in differentiating perforated from nonperforated appendicitis, taking histopathology as the gold standard. Cureus 10, e3735 (2018). Martín-Román, L. et al. Relevance of pneumoperitoneum in the conservative approach to complicated acute diverticulitis. A retrospective study identifying risk factors associated with treatment failure. Minerva Surg. 77, 327–334 (2022). Çiçek, Ö., Abdulkadir, A., Lienkamp, S. S., Brox, T. & Ronneberger, O. 3D U-Net: learning dense volumetric segmentation from sparse annotation 424–432 (Springer, 2016). Buslaev, A. et al. Albumentations: fast and flexible image augmentations. Information 11, 125 (2020). Lin, T.-Y., Goyal, P., Girshick, R., He, K. Dollar, P. Proceedings of the IEEE International Conference on Computer Vision (ICCV), pp. 2980–2988 arXiv preprint arXiv:170802002 (2017). Acknowledgements Kuei-Hong Kuo contributed equally with I-Min Chiuo as first author. I-Min Chiu contributed equally with Kuei-Hong Kuo as corresponding author. This study was supported by grants from the Ministry of Health and Welfare (MOHW-113-IM-I-212-000013-15), and the Ministry of Science and Technology (NSTC 111-2314-B-418-002 and NSTC 112-2321-B-075A-002), all awarded to KH.H. Ethics declarations Competing interests The authors declare no competing interests. Peer review Peer review information Nature Communications thanks Anselm Schulz, and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. A peer review file is available. Additional information Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Supplementary information Rights and permissions Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/. About this article Cite this article Chiu, IM., Huang, TY., Ouyang, D. et al. . Nat Commun 15, 9660 (2024). https://doi.org/10.1038/s41467-024-54043-1 Received: Accepted: Published: DOI: https://doi.org/10.1038/s41467-024-54043-1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://doi.org/10.1038/s41467-024-54043-1",
+    "https://github.com/IMinChiu/pact-3d",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/.",
+    "https://www.github.com/IMinChiu/pact-3d",
+    "https://www.doi.org/10.1038/s41467-024-54043-1",
+    "http://www.creativecommons.org/licenses/by-nc-nd/4.0/."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "M. L. Pneumoperitoneum",
+        "sentiment": "none"
+      },
+      {
+        "name": "Makki",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-08T02:39:37.530+02:00",
+  "updated": "2024-11-08T02:39:37.530+02:00"
+}

@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "d0a6f5b34fb0fbab28048ea70f6a3c44ccd4f59b",
+    "url": "https://techhq.com/2024/11/ddta-leak-2-million-job-seeker-records-exposed",
+    "site_full": "techhq.com",
+    "site": "techhq.com",
+    "site_section": "https://www.techhq.com",
+    "site_categories": [
+      "marketing",
+      "business"
+    ],
+    "section_title": "Technology News | TechHQ | Latest Technology News & Analysis",
+    "title": "Two million job-seeker records exposed",
+    "title_full": "Two million job-seeker records exposed",
+    "published": "2024-11-15T11:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 39740,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d0a6f5b34fb0fbab28048ea70f6a3c44ccd4f59b",
+  "url": "https://techhq.com/2024/11/ddta-leak-2-million-job-seeker-records-exposed",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Muhammad Zulhusni",
+  "published": "2024-11-15T11:39:00.000+02:00",
+  "title": "Two million job-seeker records exposed",
+  "text": "Database exposed sensitive data of 200,000 job seekers. Data leak risks high-value phishing and job-offer scams. Jeremiah Fowler, a cybersecurity researcher, recently discovered something all too common : open, public-facing files containing personal information. In this instance, the data was details of over 200,000 job-seekers in the tech industry.\nFowler tipped off Website Planet about his discovery, saying that the data seemed to be tied to Alltech Consulting Services, a company recognised for connecting global tech talent with employers in the United States and Canada.\nThe unprotected database held over 2.3 million records, with a specific folder labelled “Documents” containing details on around 216,000 job seekers. The files listed names, phone numbers, emails, partial-redacted Social Security numbers, passport numbers, visa statuses, and notes on individuals’ previous work experience, skills, and the roles they were seeking.\nFowler managed to trace the database to Alltech Consulting Services, a New Jersey-based company. After his discover, Fowler quickly sent notice to the company and the database was removed in 24 hours. However, he personally didn’t get any message from Alltech, leaving questions about whether the company or a third-party provider were behind the mismanagement of the data. It’s also unclear how long the information was exposed or if anyone else accessed it – answers that would require a forensic investigation.\nREAD NEXT 200,000+ customers’ data compromised at retailer It wasn’t just job seekers whose details were open; some records also listed employer info, including company names, emails, and phone numbers. Plus, many files mentioned H-1B visas, a type that allows US companies to employ foreign talent in fields like IT and engineering. If cybercriminals had got hold of this detailed data, it could easily be used in targeted attacks.\nIt’s no secret that tech professionals are valuable targets. Demand for tech talent as soaring – around 377,500 job openings are expected annually through to 2032 – and salaries often top $100,000, so scammers have plenty of incentive. Exposing passport numbers or partial SSNs could be the first puzzle pieces a dedicated criminal would need for full identity theft. With more information on hand, they could launch phishing scams to trick individuals into sharing more sensitive details. Fowler stressed he’s not saying Alltech’s clients are at risk, just that employment scams are a very real issue these days.\nScams involving fake job offers have become a big deal in recent years. According to the FTC , job scams are up 110% in 2023, costing an estimated $737 million in the United States between 2019 and 2023. The schemes cost victims an average of $12,000 each, and regrettably, there is no easy fix.\nFowler advises job seekers to be aware of any recruiter or organisation that asks for upfront fees, credit card details, or sensitive data like Social Security numbers or passport information. The message is to do your homework on the agency and any company offering a position. If something sounds way too good to be true, it probably is.\nInterestingly, a large number of people in this database were H-1B visa holders, who might be at additional risk. Since H-1B visas require sponsorship, scammers offering fake jobs with promises of visa help could more easily trick people into giving up personal info or paying fees. Criminals might even impersonate officials or immigration attorneys, making it seem like they’re helping with visa issues, for instance.\nThis whole incident highlights why data security is so crucial, especially with sensitive personal info left in the open by agencies and emplogers. In the wrong hands, such data could be a goldmine for scammers attempting to abuse high-value targets.\nREAD NEXT Move over, HaveIBeenPwned: DataBreach.com may be the new go-to Though the database in question has since been blocked from public access, it is unclear how long it was in the open or whether others accessed it. Fowler suggests companies storing large amounts of data should lock down access controls and run regular security tests to stay ahead of breaches. Updating systems, plugins, and software is another key step to avoid these exposures.\nFowler wasn’t pointing a finger at Alltech or its partners specifically. He shared his discoveries for educational purposes and to urge similar parties to monitor their own security methods.\nAs an ethical researcher, Fowler does not download any data he finds and instead only takes a few screenshots for verification. Only a forensic investigation could reveal the full details of this exposure, and his role ended at identifying issues and notifying those involved. His goal, and that of others in the security community is simple: to raise awareness about data security and privacy risks that could affect anyone.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://consumer.ftc.gov/consumer-alerts/2023/04/you-got-job",
+    "https://www.websiteplanet.com/news/alltechconsultinginc-breach-report/",
+    "https://www.websiteplanet.com/news/alltechconsultinginc-breach-report",
+    "https://www.consumer.ftc.gov/consumer-alerts/2023/04/you-got-job",
+    "https://websiteplanet.com/news/alltechconsultinginc-breach-report/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jeremiah Fowler",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Alltech Consulting Services",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T15:01:33.354+02:00",
+  "updated": "2024-11-15T15:01:33.354+02:00"
+}

@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "6e1045ad51d76e9873f0ba7abf9231ef18024652",
+    "url": "https://www.sciencedaily.com/releases/2024/04/240411130238.htm",
+    "site_full": "www.sciencedaily.com",
+    "site": "sciencedaily.com",
+    "site_section": "https://www.sciencedaily.com/rss/all.xml",
+    "site_categories": [
+      "science",
+      "space_astronomy",
+      "education"
+    ],
+    "section_title": "Latest Science News -- ScienceDaily",
+    "title": "Breakthrough promises secure quantum computing at home",
+    "title_full": "Breakthrough promises secure quantum computing at home",
+    "published": "2024-04-12T01:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+    "performance_score": 0,
+    "domain_rank": 310,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 4
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6e1045ad51d76e9873f0ba7abf9231ef18024652",
+  "url": "https://www.sciencedaily.com/releases/2024/04/240411130238.htm",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-12T01:02:00.000+03:00",
+  "title": "Breakthrough promises secure quantum computing at home",
+  "text": "The full power of next-generation quantum computing could soon be harnessed by millions of individuals and companies, thanks to a breakthrough by scientists at Oxford University Physics guaranteeing security and privacy. This advance promises to unlock the transformative potential of cloud-based quantum computing and is detailed in a new study published in the influential U.S. scientific journal Physical Review Letters.\nQuantum computing is developing rapidly, paving the way for new applications which could transform services in many areas like healthcare and financial services. It works in a fundamentally different way to conventional computing and is potentially far more powerful. However, it currently requires controlled conditions to remain stable and there are concerns around data authenticity and the effectiveness of current security and encryption systems.\nSeveral leading providers of cloud-based services, like Google, Amazon, and IBM, already separately offer some elements of quantum computing. Safeguarding the privacy and security of customer data is a vital precursor to scaling up and expending its use, and for the development of new applications as the technology advances. The new study by researchers at Oxford University Physics addresses these challenges.\n\"We have shown for the first time that quantum computing in the cloud can be accessed in a scalable, practical way which will also give people complete security and privacy of data, plus the ability to verify its authenticity,\" said Professor David Lucas, who co-heads the Oxford University Physics research team and is lead scientist at the UK Quantum Computing and Simulation Hub, led from Oxford University Physics.\nIn the new study, the researchers use an approach dubbed \"blind quantum computing,\" which connects two totally separate quantum computing entities -- potentially an individual at home or in an office accessing a cloud server -- in a completely secure way. Importantly, their new methods could be scaled up to large quantum computations.\n\"Using blind quantum computing, clients can access remote quantum computers to process confidential data with secret algorithms and even verify the results are correct, without revealing any useful information. Realising this concept is a big step forward in both quantum computing and keeping our information safe online'' said study lead Dr Peter Drmota, of Oxford University Physics.\nThe researchers created a system comprising a fibre network link between a quantum computing server and a simple device detecting photons, or particles of light, at an independent computer remotely accessing its cloud services. This allows so-called blind quantum computing over a network. Every computation incurs a correction which must be applied to all that follow and needs real-time information to comply with the algorithm. The researchers used a unique combination of quantum memory and photons to achieve this.\n\"Never in history have the issues surrounding privacy of data and code been more urgently debated than in the present era of cloud computing and artificial intelligence,\" said Professor David Lucas. \"As quantum computers become more capable, people will seek to use them with complete security and privacy over networks, and our new results mark a step change in capability in this respect.\"\nThe results could ultimately lead to commercial development of devices to plug into laptops, to safeguard data when people are using quantum cloud computing services.\nResearchers exploring quantum computing and technologies at Oxford University Physics have access to the state-of-the-art Beecroft laboratory facility, specially constructed to create stable and secure conditions including eliminating vibration.\nFunding for the research came from the UK Quantum Computing and Simulation (QCS) Hub, with scientists from the UK National Quantum Computing Centre, the Paris-Sorbonne University, the University of Edinburgh, and the University of Maryland, collaborating on the work.\nStory Source:\nMaterials provided by University of Oxford. Note: Content may be edited for style and length.\nJournal Reference:\nCite This Page:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://www.ox.ac.uk/news/2024-04-11-breakthrough-promises-secure-quantum-computing-home-1",
+    "https://www.ox.ac.uk/",
+    "https://ox.ac.uk/news/2024-04-11-breakthrough-promises-secure-quantum-computing-home-1",
+    "https://ox.ac.uk/",
+    "https://www.ox.ac.uk"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "google",
+        "sentiment": "none"
+      },
+      {
+        "name": "physical review letters",
+        "sentiment": "none"
+      },
+      {
+        "name": "ibm",
+        "sentiment": "none"
+      },
+      {
+        "name": "oxford university physics",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "amazon",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T04:15:13.811+03:00",
+  "updated": "2024-04-12T04:15:13.811+03:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "f26ec4771cab1ee2502efc1ab0cf2ebc92ab5ae8",
+    "url": "https://www.digitalinformationworld.com/2025/08/chrome-vpn-extension-found-secretly.html",
+    "site_full": "www.digitalinformationworld.com",
+    "site": "digitalinformationworld.com",
+    "site_section": "https://www.blogger.com/feeds/5050352549609773373/posts/default",
+    "site_categories": [
+      "marketing",
+      "business"
+    ],
+    "section_title": "Digital Information World",
+    "site_title": "Digital Information World",
+    "title": "Chrome VPN Extension Found Secretly Recording Users' Screens",
+    "title_full": "Chrome VPN Extension Found Secretly Recording Users' Screens",
+    "published": "2025-08-21T10:13:55.180+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 15415,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f26ec4771cab1ee2502efc1ab0cf2ebc92ab5ae8",
+  "url": "https://www.digitalinformationworld.com/2025/08/chrome-vpn-extension-found-secretly.html",
+  "ord_in_thread": 0,
+  "author": "Irfan Ahmad",
+  "published": "2025-08-21T10:13:55.180+03:00",
+  "title": "Chrome VPN Extension Found Secretly Recording Users' Screens",
+  "text": "A Chrome extension promoted as a free VPN service, and even carrying a verified badge in the store, has been caught doing the opposite of what users expected. Instead of protecting people’s privacy, it was silently capturing what appeared on their screens and sending the data elsewhere. As per KoiSecurity , more than 100,000 people had installed it by the time researchers uncovered what was happening.\nHow it unfolded FreeVPN.One was not a sudden arrival. It had been in the Chrome Web Store for years, mostly unnoticed, operating as a straightforward tool. That changed in 2025. A sequence of updates pushed it far from its original function. In April, a new permission allowed it to see every site a user opened. Two months later, an update introduced scripting rights, supposedly to improve security. Then, in July, came the turning point, hidden screenshot capture built directly into the extension.\nWhat this meant in practice was simple: each time a web page loaded, the extension paused for a moment, let the content render, then grabbed a snapshot of the visible tab. That image, combined with details like the web address, the tab identifier, and a unique number tied to the user, was quietly sent off to a remote server. No alert. No visible sign that anything had happened.\nWhat was at stake Screenshots don’t just show browsing activity; they show everything. A bank login form half-filled with account details. A company spreadsheet opened in a cloud service. Private photos in an online gallery. Even personal messages sitting in a chat window. All of it can be frozen in an image and transmitted in seconds, without the user ever knowing.\nLater versions of the extension made the transfers harder to spot by encrypting the traffic with AES-256-GCM and RSA key wrapping. The encryption didn’t make the behavior less invasive, it simply disguised it so network monitoring tools would struggle to distinguish it from normal, legitimate connections.\nMore power than a VPN needs A genuine VPN extension only needs a narrow set of permissions to function, mainly proxy handling and storage. FreeVPN.One demanded more. It asked to interact with all tabs, to run scripts on every website, and to read every URL visited. Each permission on its own might raise eyebrows. Taken together, they created the basis for round-the-clock monitoring.\nOne feature made the spying less obvious. The extension displayed an option labelled “AI Threat Detection.” That button, when pressed, warned that screenshots and URLs might be uploaded for checking. And indeed, when clicked, it sent data for analysis. The difference is that, behind the scenes, it was already doing the same thing constantly, whether the button was pressed or not.\nThe developer’s stance When researchers reached out, the developer argued that the screenshot capture was part of background scanning designed to protect against harmful domains. The evidence did not support that claim. Captures were recorded even on mainstream services such as Google Sheets and Google Photos, hardly suspicious sites. The developer said the images were analyzed briefly and not stored, but offered no proof.\nRequests for company information or developer credentials went unanswered. The only contact point was a generic email, and the associated website resolved to a basic template page, giving no sign of a real organization behind the product.\nBigger questions about oversight Despite the findings, the extension remained available in the Chrome Web Store at the time of reporting. That raises concerns about how well Google’s security checks actually work. In theory, both automated scans and human reviews are supposed to prevent malicious code from slipping through. In reality, a tool that shifted from VPN to spyware managed to stay listed, complete with a verified badge and prominent placement.\nThe lesson for users This case illustrates a recurring problem. Extensions that appear free, useful, and even certified can, with a single update, transform into surveillance tools. Once broad permissions are granted, there is little visibility into what is happening in the background. And once sensitive information leaves a device — whether a password, a message, or a photograph — there is no way for a user to verify how it is being used.\nWhat began as a VPN branded around privacy ended up functioning as a window into people’s digital lives. For those who installed it, the cost of a free service was hidden in plain sight.\nNotes: This post was edited/created using GenAI tools.\nRead next:\n• Inside the Water Crisis of Data Centers: Google, Meta, and the Hidden Costs of AI Growth\n• DeepSeek V3.1 Expands China’s AI Push With Open-Source Frontier Model",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->cyber crime",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://koi-security.webflow.io/blog/spyvpn-the-vpn-that-secretly-captures-your-screen",
+    "https://www.koi-security.webflow.io/blog/spyvpn-the-vpn-that-secretly-captures-your-screen"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "fake_news"
+    ],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:13:55.180+03:00",
+  "updated": "2025-08-21T10:18:25.000+03:00"
+}

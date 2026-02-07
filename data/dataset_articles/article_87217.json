@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "4fe60a3a9aba6bf776b130b83f551b2975ac893a",
+    "url": "https://stackoverflow.com/questions/77883259/my-custom-ocr-model-dont-work-and-predicts-wrong-in-every-case",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/feeds",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Stack Overflow",
+    "title": "My custom OCR model don't work and predicts wrong in every case",
+    "title_full": "My custom OCR model don't work and predicts wrong in every case",
+    "published": "2024-01-26T00:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4fe60a3a9aba6bf776b130b83f551b2975ac893a",
+  "url": "https://stackoverflow.com/questions/77883259/my-custom-ocr-model-dont-work-and-predicts-wrong-in-every-case",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "BadProgrammer",
+  "published": "2024-01-26T00:22:00.000+02:00",
+  "title": "My custom OCR model don't work and predicts wrong in every case",
+  "text": "I am building a Python OCR program to read characters from images and I faced a problem with always bad predictions. I built model from\nthis code\nWhen I tested my model on datasets I used to train this model - predicitons work very well but when I tried to use my model with others images result is always wrong. There are predictions on dataset\nThere are predictions on other images\nPython version: 3.11\nTensorflow version: 2.12\nImutils version: 0.5.4\nNumpy version: 1.23.5\nScikit-Image version: 0.22.0\nMy code to use my own model:\nimport tensorflow as tf import numpy as np import matplotlib.pyplot as plt import cv2 import scienceplots import os import random import argparse import imutils import sys from skimage import util from tensorflow import keras from keras.layers import Conv2D, MaxPool2D, Dense, Flatten, Dropout, AveragePooling2D from keras.models import Sequential, load_model from imutils.contours import sort_contours data = tf.keras.utils.image_dataset_from_directory('dataset',image_size=(60,40),color_mode=\"grayscale\") data_iter = data.as_numpy_iterator() data_iter batch = data_iter.next() class_names = data.class_names print(\"[INFO] loading OCR model...\") model = load_model(\"./models/checkpoints_new/10.h5\") # load the input image from disk, convert it to grayscale, and blur it to reduce noise image = cv2.imread(\"6.png\") gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY) blurred = cv2.GaussianBlur(gray, (5, 5), 0) # perform edge detection, find contours in the edge map, and sort the resulting contours from left-to right edged = cv2.Canny(blurred, 30, 150) cv2.imshow(\"ORIGINAL\", image) cv2.imshow(\"GRAY\", gray) cv2.imshow(\"BLURRED\", blurred) cv2.imshow(\"EDGED\", edged) cv2.waitKey(0) cnts = cv2.findContours(edged.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE) cnts = imutils.grab_contours(cnts) cnts = sort_contours(cnts, method=\"left-to-right\")[0] # initialize the list of contour bounding boxes and associated # characters that we'll be OCR'ing chars = [] for c in cnts: # compute the bounding box of the contour (x, y, w, h) = cv2.boundingRect(c) # filter out bounding boxes, ensuring they are neither too small # nor too large if (w >= 5 and w <= 150) and (h >= 15 and h <= 120): # extract the character and threshold it to make the character # appear as *white* (foreground) on a *black* background, then # grab the width and height of the thresholded image roi = gray[y:y + h, x:x + w] thresh = cv2.threshold(roi, 0, 255, cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)[1] (tH, tW) = thresh.shape # if the width is greater than the height, resize along the # width dimension if tW > tH: thresh = imutils.resize(thresh, width=40) # otherwise, resize along the height else: thresh = imutils.resize(thresh, height=60) # re-grab the image dimensions (now that its been resized) # and then determine how much we need to pad the width and # height such that our image will be 32x32 (tH, tW) = thresh.shape dX = int(max(0, 40 - tW) / 2.0) dY = int(max(0, 60 - tH) / 2.0) # pad the image and force 32x32 dimensions padded = cv2.copyMakeBorder(thresh, top=dY, bottom=dY, left=dX, right=dX, borderType=cv2.BORDER_CONSTANT, value=(0, 0, 0)) padded = cv2.resize(padded, (40, 60)) # prepare the padded image for classification via our # handwriting OCR model padded = padded.astype(\"float32\") / 255.0 padded = np.expand_dims(padded, axis=-1) padded = util.invert(padded) # update our list of characters that will be OCR'd chars.append((padded, (x, y, w, h))) # extract the bounding box locations and padded characters boxes = [b[1] for b in chars] chars = np.array([c[0] for c in chars], dtype=\"float32\") # preds = [] for chh in chars: cv2.imshow('flood', chh) cv2.waitKey(0) # OCR the characters using our handwriting recognition model preds = model.predict(chars) # define the list of label names labelNames = \"0123456789\" labelNames += \"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ\" labelNames = [l for l in labelNames] # loop over the predictions and bounding box locations together for (pred, (x, y, w, h)) in zip(preds, boxes): # find the index of the label with the largest corresponding # probability, then extract the probability and label i = np.argmax(pred) prob = pred[i] label = labelNames[i] # draw the prediction on the image print(\"[INFO] {} - {:.2f}%\".format(label, prob * 100)) cv2.rectangle(image, (x, y), (x + w, y + h), (0, 255, 0), 2) cv2.putText(image, label, (x - 10, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 1.2, (0, 255, 0), 2) # show the image cv2.imshow(\"Image\", image) cv2.waitKey(0) def plot_those_imgs(images,**kwargs): fig, ax = plt.subplots(8,8,figsize=(16,16)) fig.tight_layout() for i in range(len(images)): ax[i//8,i%8].imshow(images[i]) if len(kwargs)==0: ax[i//8,i%8].title.set_text(f\"{class_names[i]}\") else: ax[i//8,i%8].title.set_text(f\"{class_names[i]} - {kwargs['acc'][i]}\") plt.show() acc_pred = [f\"{round(float(preds[i][np.argmax(preds[i])]),2)} - {class_names[np.argmax(preds[i])]}\" for i in range(len(preds))] plot_those_imgs(chars,acc=acc_pred)\nFor a few days I tried check what chars my model predicting and they look exactly like images in datasets so wondering why my code doesn't work. There are each char in chars array found in image and they had size (40,60) that model required. Can You help me with find the reson why my model did wrong prediction?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://www.kaggle.com/code/harieh/cnn-model-implementing-ocr",
+    "https://kaggle.com/code/harieh/cnn-model-implementing-ocr"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:24:37.968+02:00",
+  "updated": "2024-01-26T00:24:37.968+02:00"
+}

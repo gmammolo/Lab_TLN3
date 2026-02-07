@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "881bc38a4421b66fe042024501cd0407579680f0",
+    "url": "https://thenerdstash.com/stalker-2-is-too-dark-heres-how-to-fix-the-dark-lighting",
+    "site_full": "thenerdstash.com",
+    "site": "thenerdstash.com",
+    "site_section": "https://thenerdstash.com/rss",
+    "site_categories": [
+      "entertainment"
+    ],
+    "section_title": "The Nerd Stash",
+    "title": "STALKER 2 is Too Dark? Here’s How to Fix the Dark Lighting",
+    "title_full": "STALKER 2 is Too Dark? Here’s How to Fix the Dark Lighting",
+    "published": "2024-11-22T12:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.thenerdstash.com/wp-content/uploads/2024/11/stalker-2-lighting-image-2.jpg",
+    "performance_score": 0,
+    "domain_rank": 46667,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "881bc38a4421b66fe042024501cd0407579680f0",
+  "url": "https://thenerdstash.com/stalker-2-is-too-dark-heres-how-to-fix-the-dark-lighting",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sid Natividad",
+  "published": "2024-11-22T12:25:00.000+02:00",
+  "title": "STALKER 2 is Too Dark? Here’s How to Fix the Dark Lighting",
+  "text": "[STALKER 2: Heart of Chornobyl](https://thenerdstash.com/tag/stalker-2/) is not just figuratively dark, but also literally. The lighting either doesn’t seem to work as intended or [is poorly implemented](https://thenerdstash.com/stalker-2-developer-admits-technical-issues-reveals-plans-to-smooth-out-the-games-rough-edges/). But you don’t exactly have to endure that kind of lighting where it’s too dark indoors without a flashlight. I’ll present you some display tweaks that could help with STALKER 2 being too dark.\nIdeal Display Settings to Fix STALKER 2’s Dark Lighting\nNote that this is up to your taste, and there are lots of other factors to consider such as your monitor’s settings, your eye health, or the lighting in your room. But generally, this was what I found to be a good balance between the game’s original vision and practicality.\nIt involves raising the Gamma levels to more than 50 percent. The default is often 44 percent which is too dark and impractical for gameplay. You’ll be at a disadvantage since enemies can still have pinpoint accuracy in this kind of darkness.\nFollow these general steps for a more refined tweaking:\n- Go to Display in the Main Menu. Scroll down and look for the Image Correction section.\n- Set the Gamma to a range of 60-80 percent, depending on your tolerance and comfort.\n- Set the Brightness to 50-60 percent.\n- Set the Contrast to 50-60 percent.\nAdjust the values according to your taste. You might still need flashlights in some indoor areas, but this setting range will let you fight in darkness without a flashlight. Flashlights can reveal your position and paint a bullseye on your character, so you want to avoid using it unless you’re looting or are completely safe.\nTry Out Other Supplementary Solutions\nIf your monitor has HDR, you might want to try it out as it can reportedly balance out the dark areas in the game without washing out the lighter areas. Additionally, you can play around with your monitor’s brightness, contrast, and gamma settings, though you will need to reset them for other games. This is STALKER 2‘s problem, after all.\nOther than that, there are already mods that can help with STALKER 2 being too dark:\n[Jake’s Longer Days](https://www.nexusmods.com/stalker2heartofchornobyl/mods/44)– More sunlight means you have to deal with dark areas less and not use your flashlight as often. I’m not sure how this affects enemy accuracy or line-of-sight, however.[Even Longer Days](https://www.nexusmods.com/stalker2heartofchornobyl/mods/47)– For even more sunlight, because the game is already scary as it is.[Disable TAA(or use FXAA) – Chromatic Aberration – Film Grain – Depth of Field – Vignetting – Bloom](https://www.nexusmods.com/stalker2heartofchornobyl/mods/21)– Vignetting, Film Grain, and Chromatic Aberration are settings to look out for as they can exacerbate STALKER 2‘s busted dark lighting. Disable them to help with the image clarity.\nWith any luck, the developers might also provide a fix, assuming they acknowledge the dark lighting as an issue.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T12:55:07.050+02:00",
+  "updated": "2024-11-22T14:43:58.468+02:00"
+}

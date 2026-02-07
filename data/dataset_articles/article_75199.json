@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "57eea0d257a69acb5087d5b964e5ef4e6d4a9420",
+    "url": "https://thinktank.pmq.com/threads/credit-card-processing-issues.20955/",
+    "site_full": "thinktank.pmq.com",
+    "site": "pmq.com",
+    "site_section": "https://thinktank.pmq.com",
+    "site_categories": [
+      "food",
+      "marketing",
+      "italian_cuisine",
+      "business"
+    ],
+    "section_title": "PMQ Think Tank",
+    "title": "Credit Card Processing Issues",
+    "title_full": "Credit Card Processing Issues",
+    "published": "2024-11-22T10:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 72524,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "57eea0d257a69acb5087d5b964e5ef4e6d4a9420",
+  "url": "https://thinktank.pmq.com/threads/credit-card-processing-issues.20955/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Steve",
+  "published": "2024-11-22T10:33:00.000+02:00",
+  "title": "Credit Card Processing Issues",
+  "text": "Is anyone having issues with specific bank cards? We have 3 stores, all set up with a Worldpay gateway and all with a processing account through first data. They are setup to go to different bank accounts and are all on their own EIN's. Two accounts have no issues, one account has 3 banks that constantly decline out of nowhere. This account was open for 2 years until a random time in May and this issue came about.\nTo hopefully rectify the issue, I set up new accounts through Worldpay and First Data. Once active, those accounts still decline the same cards.\nDoes anyone have any experience with this? Worldpay and First Data have not been helpful. The most I've gotten is from Worldpay saying the AVS was declined which is address verification system. We enter credit card numbers, expiration, and cvv2. Online is the same but also requires billing zip. The cards declined whether they are swiped/keyed/entered online.\nI've been at it since May on this and I'm ready lose it\nThank you in advance\nTo hopefully rectify the issue, I set up new accounts through Worldpay and First Data. Once active, those accounts still decline the same cards.\nDoes anyone have any experience with this? Worldpay and First Data have not been helpful. The most I've gotten is from Worldpay saying the AVS was declined which is address verification system. We enter credit card numbers, expiration, and cvv2. Online is the same but also requires billing zip. The cards declined whether they are swiped/keyed/entered online.\nI've been at it since May on this and I'm ready lose it\nThank you in advance",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Customer Insights and Reviews"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "AVS",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T12:33:14.279+02:00",
+  "updated": "2024-11-22T12:33:14.279+02:00"
+}

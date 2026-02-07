@@ -1,0 +1,130 @@
+{
+  "thread": {
+    "uuid": "b6ccc54fdc9eb4afe592296db135ba3f3b615c05",
+    "url": "https://www.news.de/technik/858878236/apple-ios-ipados-und-macos-gefaehrdet-bsi-meldung-zur-it-sicherheit-macos-x-betroffen-schwachstelle-ermoeglicht-codeausfuehrung/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "IT-Sicherheit: MacOS X bedroht - Warnung vor neuer IT-Sicherheitslücke bei Apple iOS, iPadOS und macOS",
+    "title_full": "IT-Sicherheit: MacOS X bedroht - Warnung vor neuer IT-Sicherheitslücke bei Apple iOS, iPadOS und macOS",
+    "published": "2025-08-21T12:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771841/images/a0/a8/a60347e703d85d55cc49d01d15f0/nopic/no_pic/1200/675/1/1/137/3/749/421/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771841_1200x675_868290a340861c5bd3509367a68ec8ac.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b6ccc54fdc9eb4afe592296db135ba3f3b615c05",
+  "url": "https://www.news.de/technik/858878236/apple-ios-ipados-und-macos-gefaehrdet-bsi-meldung-zur-it-sicherheit-macos-x-betroffen-schwachstelle-ermoeglicht-codeausfuehrung/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:36:00.000+03:00",
+  "title": "IT-Sicherheit: MacOS X bedroht - Warnung vor neuer IT-Sicherheitslücke bei Apple iOS, iPadOS und macOS",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 20.08.2025 eine Sicherheitswarnung für Apple iOS, iPadOS und macOS herausgegeben. Betroffen von der Sicherheitslücke sind das Betriebssystem MacOS X sowie die Produkte Apple iOS, Apple iPadOS und Apple macOS.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: APPLE-SA-08-20-2025-5 macOS Ventura 13.7.8 (Stand: 20.08.2025). Weitere nützliche Quellen werden weiter unten in diesem Artikel aufgeführt.\nSicherheitshinweis für Apple iOS, iPadOS und macOS - Risiko: hoch\nRisikostufe: 4 (hoch)\nCVSS Base Score: 8,8\nCVSS Temporal Score: 8,4\nRemoteangriff: Ja\nZur Bewertung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Beim Temporal Score fließen über die Zeit veränderbare Rahmenbedingungen in die Bewertung ein. Das Risiko der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 8,8 als \"hoch\" eingeschätzt.\nApple iOS, iPadOS und macOS Bug: Schwachstelle ermöglicht Codeausführung\nDas Apple iOS (vormals iPhone OS) ist das Betriebssystem für das von Apple entwickelte Smartphone iPhone, iPad und iPod Touch.Das Apple iPadOS ist das Betriebssystem für das von Apple entwickelte iPad.Apple macOS ist ein Betriebssystem, das auf FreeBSD und Mach basiert.\nEin entfernter, anonymer Angreifer kann eine Schwachstelle in Apple iOS, Apple iPadOS und Apple macOS ausnutzen, um eine Memory-Corruption zu verursachen und möglicherweise beliebigen Code auszuführen oder andere nicht näher spezifizierte Angriffe durchzuführen.\nDie Verwundbarkeit wird mit der eindeutigen CVE-Identifikationsnummer (Common Vulnerabilities and Exposures) CVE-2025-43300 gehandelt.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssystem\nMacOS X\nProdukte\nApple iOS <18.6.2 (cpe:/o:apple:iphone_os)\nApple iOS 18.6.2 (cpe:/o:apple:iphone_os)\nApple iPadOS <18.6.2 (cpe:/o:apple:ipados)\nApple iPadOS 18.6.2 (cpe:/o:apple:ipados)\nApple iPadOS <17.7.10 (cpe:/o:apple:ipados)\nApple iPadOS 17.7.10 (cpe:/o:apple:ipados)\nApple macOS Sequoia <15.6.1 (cpe:/o:apple:mac_os)\nApple macOS Sequoia 15.6.1 (cpe:/o:apple:mac_os)\nApple macOS Sonoma <14.7.8 (cpe:/o:apple:mac_os)\nApple macOS Sonoma 14.7.8 (cpe:/o:apple:mac_os)\nApple macOS Ventura <13.7.8 (cpe:/o:apple:mac_os)\nApple macOS Ventura 13.7.8 (cpe:/o:apple:mac_os)\nAllgemeine Empfehlungen zum Umgang mit IT-Sicherheitslücken\n- Anwender der betroffenen Anwendungen sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten neue Sicherheitsupdates verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten regelmäßig prüfen, wann der von der\nIT-Sicherheitswarnungbetroffene Hersteller ein neues Sicherheitsupdate zur Verfügung stellt.\nQuellen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nAPPLE-SA-08-20-2025-5 macOS Ventura 13.7.8 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://lists.apple.com/archives/security-announce/2025/Aug/msg00004.html\nAPPLE-SA-08-20-2025-4 macOS Sonoma 14.7.8 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://lists.apple.com/archives/security-announce/2025/Aug/msg00003.html\nAPPLE-SA-08-20-2025-3 macOS Sequoia 15.6.1 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://lists.apple.com/archives/security-announce/2025/Aug/msg00002.html\nAPPLE-SA-08-20-2025-2 iPadOS 17.7.10 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://lists.apple.com/archives/security-announce/2025/Aug/msg00001.html\nAPPLE-SA-08-20-2025-1 iOS 18.6.2 and iPadOS 18.6.2 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://lists.apple.com/archives/security-announce/2025/Aug/msg00000.html\nApple Security Advisory 124929 - macOS Ventura 13.7.8 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://support.apple.com/en-us/124929\nApple Security Advisory 124928 - macOS Sonoma 14.7.8 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://support.apple.com/en-us/124928\nApple Security Advisory 124927 - macOS Sequoia 15.6.1 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://support.apple.com/en-us/124927\nApple Security Advisory 124926 - iOS 17.7.10 and iPadOS 17.7.10 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://support.apple.com/en-us/124926\nApple Security Advisory 124925 - iOS 18.6.2 and iPadOS 18.6.2 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://support.apple.com/en-us/124925\nVersionshistorie dieser Sicherheitswarnung\nDies ist die initiale Fassung des vorliegenden IT-Sicherheitshinweises für Apple iOS, iPadOS und macOS. Bei Bekanntgabe von Updates wird dieser Text aktualisiert. Änderungen oder Ergänzungen können Sie in dieser Versionshistorie nachlesen.\n20.08.2025 - Initiale Fassung\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social problem",
+    "Social Issue->social networking",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/News.de",
+    "https://lists.apple.com/archives/security-announce/2025/Aug/msg00001.html",
+    "https://support.apple.com/en-us/124925",
+    "https://support.apple.com/en-us/124927",
+    "https://support.apple.com/en-us/124926",
+    "https://support.apple.com/en-us/124929",
+    "https://support.apple.com/en-us/124928",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://lists.apple.com/archives/security-announce/2025/Aug/msg00004.html",
+    "https://lists.apple.com/archives/security-announce/2025/Aug/msg00003.html",
+    "https://twitter.com/news_de",
+    "https://lists.apple.com/archives/security-announce/2025/Aug/msg00000.html",
+    "https://lists.apple.com/archives/security-announce/2025/Aug/msg00002.html",
+    "https://pin.it/11NQyAf",
+    "https://www.lists.apple.com/archives/security-announce/2025/Aug/msg00003.html",
+    "https://www.support.apple.com/en-us/124928",
+    "https://www.support.apple.com/en-us/124929",
+    "https://facebook.com/News.de",
+    "https://www.support.apple.com/en-us/124926",
+    "https://www.support.apple.com/en-us/124927",
+    "https://www.lists.apple.com/archives/security-announce/2025/Aug/msg00002.html",
+    "https://www.twitter.com/news_de",
+    "https://www.lists.apple.com/archives/security-announce/2025/Aug/msg00001.html",
+    "https://www.lists.apple.com/archives/security-announce/2025/Aug/msg00004.html",
+    "https://www.lists.apple.com/archives/security-announce/2025/Aug/msg00000.html",
+    "https://www.support.apple.com/en-us/124925",
+    "https://www.pin.it/11NQyAf",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:37.173+03:00",
+  "updated": "2025-08-22T14:07:08.000+03:00"
+}

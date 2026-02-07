@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "745e67b356419c778c372d9901a15e5c3b850909",
+    "url": "https://incrussia.ru/news/ft-deepseek-otlozhila-zapusk-novoj-ii-modeli-iz-za-problem-s-chipami-huawei/",
+    "site_full": "incrussia.ru",
+    "site": "incrussia.ru",
+    "site_section": "https://incrussia.ru/feed",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Inc. Russia",
+    "site_title": "Инк. — Журнал для предпринимателей",
+    "title": "FT: DeepSeek отложила запуск новой ИИ-модели из-за проблем с чипами Huawei",
+    "title_full": "FT: DeepSeek отложила запуск новой ИИ-модели из-за проблем с чипами Huawei",
+    "published": "2025-08-14T10:59:51.816+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://incrussia.ru/upload/social_cache/ecc7a782d00db74949fab5059644ae47v3.jpg?v=0.4",
+    "performance_score": 0,
+    "domain_rank": 46115,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "745e67b356419c778c372d9901a15e5c3b850909",
+  "url": "https://incrussia.ru/news/ft-deepseek-otlozhila-zapusk-novoj-ii-modeli-iz-za-problem-s-chipami-huawei/",
+  "ord_in_thread": 0,
+  "author": "Иван Сало",
+  "published": "2025-08-14T10:59:51.816+03:00",
+  "title": "FT: DeepSeek отложила запуск новой ИИ-модели из-за проблем с чипами Huawei",
+  "text": "Китайская компания DeepSeek, специализирующаяся на искусственном интеллекте, перенесла релиз новой модели R2 с мая из-за неудач в обучении на чипах Huawei Ascend. Об этом сообщает The Financial Times (FT) со ссылкой на источники.\nПо данным издания, китайская компания использовала чипы Nvidia для обучения и Huawei — для вывода результатов, что привело к задержке запуска и потере позиций относительно конкурентов.\nТехнические сложности возникли на этапе обучения модели на больших наборах данных с использованием чипов из серии Ascend, где наблюдались проблемы со стабильностью, скоростью межчипового взаимодействия и программным обеспечением по сравнению с продуктами Nvidia.\nHuawei направила на помощь группу инженеров в офис DeepSeek, однако полноценный цикл обучения так и не удался, отметили два источника. В настоящее время продолжается работа над совместимостью модели с Ascend для этапа вывода, когда обученная система генерирует ответы на запросы, такие как в чат-ботах.\nИнсайдеры отрасли указывают на отставание китайских разработок в ключевых задачах ИИ. Основатель DeepSeek Лян Вэньфэн выразил внутреннее недовольство ходом проекта и настаивает на дополнительном времени для создания передовой модели, способной сохранить лидерство компании, добавили источники\nПо мнению эксперта по ИИ из Калифорнийского университета в Беркли Ритвика Гупта, Huawei переживает «проблемы роста» в обучении на Ascend, но со временем адаптируется. «То, что сейчас нет ведущих моделей на Huawei, не значит, что этого не будет в будущем. Это вопрос времени», — добавил он.\nРанее Nvidia согласилась делиться частью доходов от продаж H20 в Китае с правительством США для возобновления поставок. Глава Huawei до этого заявлял, что чипы его компании Ascend уступают американским аналогам на одно поколение. Это прозвучало после того, как гендиректор Nvidia Дженсен Хуанг назвал Huawei «грозным» конкурентом из-за ограничений США на экспорт чипов в Китай.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biotechnology",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->computing and information technology",
+    "Politics->government",
+    "Politics->economic policy",
+    "Politics->regulation of industry"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092",
+    "https://ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:59:51.816+03:00",
+  "updated": "2025-08-14T11:03:52.000+03:00"
+}

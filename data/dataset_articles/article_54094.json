@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "7d7fa98bdf88c64f1d423f8a7baf53b6f8fc1ea9",
+    "url": "https://36kr.com/p/3481620945738884",
+    "site_full": "36kr.com",
+    "site": "36kr.com",
+    "site_section": "https://36kr.com/information/web_news/latest/",
+    "site_categories": [
+      "financial_news",
+      "finance"
+    ],
+    "section_title": "最新资讯频道_行业热点_全面覆盖_资讯频道_36氪",
+    "site_title": null,
+    "title": "别再迷恋\"AI超级大脑\"了，剑桥教授发文：机器人集体智能才是未来-36氪",
+    "title_full": "别再迷恋\"AI超级大脑\"了，剑桥教授发文：机器人集体智能才是未来-36氪",
+    "published": "2025-09-25T11:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://img.36krcdn.com/hsossms/20250925/v2_2df945237cd74787b0069059fbfbc988@5888275@ai_oswg1050064oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+    "performance_score": 0,
+    "domain_rank": 18147,
+    "domain_rank_updated": "2025-09-22T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7d7fa98bdf88c64f1d423f8a7baf53b6f8fc1ea9",
+  "url": "https://36kr.com/p/3481620945738884",
+  "ord_in_thread": 0,
+  "author": "学术头条",
+  "published": "2025-09-25T11:01:00.000+03:00",
+  "title": "别再迷恋\"AI超级大脑\"了，剑桥教授发文：机器人集体智能才是未来-36氪",
+  "text": "真正的机器智能，要 1+1＞2。 你有没有想过， 为什么我们还造不出真正适应现实世界的机器人？\n明明人工智能（AI）模型规模越来越大，单体能力越来越强，可具身机器人在执行集体任务时，要么因反应太慢跟不上实时任务，要么因无法适应新场景而经常“掉链子”。\n今天， 英国剑桥大学计算机科学与技术系集体智能与机器人学教授 Amanda Prorok 在科学期刊Science Robotics上发表观点文章， 揭示了机器人「集体智能失灵」的原因 ：\n专注于独立运作的个体机器人的经典机器人自主性方法，并不适合那些将互动与协作视为必不可少的复杂现实世界环境。\n简单来说， 机器人智能的未来，从来不是“一个超级大脑打天下”，而是一群专业伙伴共同协作 。\nProrok 教授甚至认为， 这种方法“从根本上就是错误的” 。因为 scaling laws 表明，实现更复杂的行为需要不成比例的高投入，这使得这种实现机器人自主性的方法既不具可扩展性，也不可持续。\n她建议，研究人员需要进行 范式转变：将机器人集群设计为由多样化、专业化的 Agent 组成 ，使其作为更大系统的一部分发挥作用。\n文章链接：www.science.org/doi/10.1126/scirobotics.adv4049\n单一模型为何走不远？ 目前最先进的机器人，大多依赖一个集中控制的庞大模型，试图一个模型完成导航、感知、交互等所有任务。\nProrok 教授认为，当前机器人追求自主性的做法存在误区。在机器人运行的整个生命周期中，它们必然要与其他 Agent 产生互动。但时至今日 Agent 之间的集体行为仍常被视为偶然现象，而非智能本质的组成部分。\n无论是实体，还是虚拟 AI 系统，在设计之初就未考虑与机器或人类等其他 Agent 的交互需求 。现有认知框架和基础 AI 教材仍将经典 AI 问题定义为孤立机器在非社交环境中的对抗。\n同样，传统机器人自主性定义将独立自主的机器人定位为无需依赖任何外部因素即可自主应对环境的 Agent。\n深度学习的 scaling laws 显示，要让机器人行为更复杂，模型规模和数据需求会呈指数级增长。当前，典型的 AI 产品采用集中式控制的单体架构，参数规模可达数百万甚至数十亿级。这意味着， 要想让机器人再聪明一点，就要投入成倍的能源、时间和资金 。\n更糟的是，这些大模型根本不实用：仅计算模型本身就需要数百 GB 内存，前向传播延迟让它们目前只能在离线状态下以较低速度运行，无法应用于高频控制场景，导致许多机器人应用场景难以实现。\n下图展示了 4 个大模型在两种平台上的运行性能。数据显示，即便在性能更强的开发板上运行，也只有最小的模型能勉强达到“实时响应”的标准。\n图｜DINOv2模型在两种平台上的推理频率对比（a）；对模型数据进行线性拟合显示（b）。\n集体智能：1+1 要大于 2 Prorok 教授表示，现如今机器人研究领域正顺应将现成的集中式、单体化 AI 模型整合到自主系统架构中的趋势，这种决策设计正推动着通用型机器人的开发热潮。但 智能并非单一的超级有机体，也不是所有设想任务都能由单个超级机器人完成 。\n既然单一模型走不通，那让机器人像人类一样合作行不行？\n答案是肯定的，与其追求由同一套通用大脑操控的独立机器人，科学家认为更应聚焦于设计由心智与躯体相互依存、形态多样且功能专业化的机器人集群，使其作为更大系统的一部分协同运作。\n因此， 集体机器人智能需要在硬件和软件设计上采取更模块化、组合式的设计方法 。在这种架构下，多个模型不仅能相互学习，还能在不同实体机器人内部及跨实体间进行互动。\n首先，集体智能的核心是专业化分工 。\n不是让一个模型包揽一切，而是让每个机器人专注一项技能，再通过协作组合出复杂能力。\n采用专业模型的 Agent 组成的群体，能够通过组合技能实现超线性提升，并以新颖且未经训练的方式整合个体能力。\n这种模块化、组合式的自主方法，使 Agent 和机器人能够有效模拟庞大神经网络的行为模式，并在运行时动态重组以适应任务需求，实现“ 超线性增益 ”，随着技能组合数量增加，性能增长速度远超单个模型的提升。\n图｜机器人模型集群的 scaling law 示意图\n其次，有些技能只能通过集体中的社交学习来习得 。\n基于从零开始训练互动的理念，协作学习过程还能让单个专家模型更深入地理解自身能力与局限。这种认知自然会促使其明白在什么时机、何种情境下需要与其他模型合作，才能克服短板、达成更复杂的任务目标。\n诸如 心智理论 和 元认知 都并非与生俱来，而是在集体环境中习得的。这些技能对于涉及与人类或其他 Agent 及机器人互动的任务至关重要。\n此外，集体学习能够提升单个 Agent 的性能表现 ，即使面对单一任务时，也能通过加速学习进程和优化长期效果来实现。\n这种优势源于一种经验共享机制：在机器人领域，由于执行的是物理操作而非虚拟模拟，收集实验数据往往成本高昂、风险较高甚至存在安全隐患。借助他人经验可以催化学习过程，更重要的是能够避免重复危险行为。共享知识还能通过分摊和共享特定技能来缓解灾难性遗忘问题。\n集体智能并非简单“凑数” 当然，让机器人“组队协作”，并不是把几个机器人放在一起那么简单。目前这一领域还有不少亟待解决的挑战，需要研究人员继续“闯关”。\n第一关是“如何协作”的技术关 当前机器人间的显式局部交互通常依赖窄带通信网络。然而，如何设计帮助机器人确定“交流内容、时机及对象”的方法仍是一个未解难题。\n现有的机器人间的通信大多依赖窄带网络，且很难设计出“该说什么、什么时候说”的策略。\n虽然有研究者尝试用可微分通信信道让机器人自动生成交互信号，或用图神经网络规划协作路径，但这些技术还在起步阶段，要理解这些新兴方法在构建鲁棒且适应性强的机器人集群时的权衡与局限性，仍需更多研究。\n第二关是“怎么落地”的设计关 尽管该领域进展迅速，但“机器人混合”范式的概念仍然不明确，要设计能够应对不同且可能互不重叠动作领域的模型颇具挑战。\n在“混合机器人”方法中，这一难题可转化为连接各类模型的算法或机制。初步探索可借鉴集成模型、混合专家、超网络及层次学习等研究成果，但最终目标是根据底层任务需求组装机器人集群。\n在这些方面，当前仍存在诸多技术空白，特别是在实现专业机器人技能与行为的实时组合方面。\n第三关是“怎么评价”的标准关 当前对于性能的定义仍停留在基础层面，往往被简化为学习损失的替代指标或单个机器人模型的优化目标，却忽视了包含团队层面的满意度和集体韧性等更复杂的综合指标。\n这种评估体系既不考虑任务多样性，也不考量团队适应不同协作场景、物体分布和类型的综合能力。结果就导致系统在受控的单机测试中表现优异，但在需要灵活团队协作或精准角色分配的环境中却力不从心。\n因此，Prorok 教授建议，我们需要制定更全面的基准测试标准，从而建立超越单纯个体成功率的综合性评估体系。\n如今，虽然运用 AI 技术至关重要，但 真正的突破仍需我们抵制那些为追求短期利益而回避深层基础性挑战的诱惑 。\n在 Prorok 教授看来，未来的机器人，不会是单一的庞大模型，而是默契的协作团队。 当机器人学会“团结”，它们才真正具备了走进现实世界的能力 。\n本文来自微信公众号 “学术头条”（ID：SciTouTiao） ，作者：学术头条，36氪经授权发布。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social problem",
+    "Social Issue->mankind",
+    "Social Issue->social networking",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->gaming and lottery"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247599331&idx=1&sn=a4f4db9e5349f0a22f4b41657787d398&chksm=ce4eb9dfe9e53a935b698f91c24fa3bfcdb808d6e6ebae4430ab8fc06778dce38f3457c7fb13&scene=0&xtrack=1#rd",
+    "https://img.36krcdn.com/hsossms/20250925/v2_e39cfbd6506e4a40a4a3bd25c525e142@000000_oswg212084oswg1080oswg763_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "https://img.36krcdn.com/hsossms/20250925/v2_949ef8d136f44447b081b101ab525066@000000_oswg236553oswg1080oswg539_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "https://img.36krcdn.com/hsossms/20250925/v2_1dd4d397b2a1461bb07eb5946542d652@000000_oswg196215oswg1080oswg362_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "https://mp.weixin.qq.com/s",
+    "https://img.36krcdn.com/hsossms/20250925/v2_1dd4d397b2a1461bb07eb5946542d652@000000_oswg196215oswg1080oswg362_img_000",
+    "https://www.img.36krcdn.com/hsossms/20250925/v2_949ef8d136f44447b081b101ab525066@000000_oswg236553oswg1080oswg539_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "https://img.36krcdn.com/hsossms/20250925/v2_949ef8d136f44447b081b101ab525066@000000_oswg236553oswg1080oswg539_img_000",
+    "https://www.mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247599331&idx=1&sn=a4f4db9e5349f0a22f4b41657787d398&chksm=ce4eb9dfe9e53a935b698f91c24fa3bfcdb808d6e6ebae4430ab8fc06778dce38f3457c7fb13&scene=0&xtrack=1#rd",
+    "https://img.36krcdn.com/hsossms/20250925/v2_e39cfbd6506e4a40a4a3bd25c525e142@000000_oswg212084oswg1080oswg763_img_000",
+    "https://www.img.36krcdn.com/hsossms/20250925/v2_1dd4d397b2a1461bb07eb5946542d652@000000_oswg196215oswg1080oswg362_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "https://www.img.36krcdn.com/hsossms/20250925/v2_e39cfbd6506e4a40a4a3bd25c525e142@000000_oswg212084oswg1080oswg763_img_000?x-oss-process=image/format,jpg/interlace,1"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-25T11:03:21.323+03:00",
+  "updated": "2025-09-25T11:08:21.000+03:00"
+}

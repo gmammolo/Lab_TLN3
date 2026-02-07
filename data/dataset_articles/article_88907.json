@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "695c86531cd0b2ed438f7c60b7679e846df14847",
+    "url": "https://www.zerodayinitiative.com/advisories/ZDI-24-1150",
+    "site_full": "www.zerodayinitiative.com",
+    "site": "zerodayinitiative.com",
+    "site_section": "https://www.zerodayinitiative.com/advisories/published/#home",
+    "site_categories": [],
+    "section_title": "Published | Zero Day Initiative",
+    "title": "ZDI-24-1150",
+    "title_full": "ZDI-24-1150",
+    "published": "2024-08-15T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://zerodayinitiative.com/images/logo-footer.svg",
+    "performance_score": 0,
+    "domain_rank": 24595,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "695c86531cd0b2ed438f7c60b7679e846df14847",
+  "url": "https://www.zerodayinitiative.com/advisories/ZDI-24-1150",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-08-15T03:00:00.000+03:00",
+  "title": "ZDI-24-1150",
+  "text": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Ivanti Avalanche. Authentication is not required to exploit this vulnerability.\nThe specific flaw exists within the decodeToMap method. Due to the improper restriction of XML External Entity (XXE) references, a crafted document specifying a URI causes the XML parser to access the URI and embed the contents back into the XML document for further processing. An attacker can leverage this vulnerability to disclose information in the context of SYSTEM.\nADDITIONAL DETAILS Ivanti has issued an update to correct this vulnerability. More details can be found at:\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Avalanche-6-4-4-CVE-2024-38652-CVE-2024-38653-CVE-2024-36136-CVE-2024-37399-CVE-2024-37373?language=en_US\nDISCLOSURE TIMELINE 2023-09-13 - Vulnerability reported to vendor 2024-08-15 - Coordinated public release of advisory 2024-08-15 - Advisory Updated CREDIT Lucas Miller of Trend Micro Security Research",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Avalanche-6-4-4-CVE-2024-38652-CVE-2024-38653-CVE-2024-36136-CVE-2024-37399-CVE-2024-37373?language=en_US",
+    "https://www.forums.ivanti.com/s/article/Security-Advisory-Ivanti-Avalanche-6-4-4-CVE-2024-38652-CVE-2024-38653-CVE-2024-36136-CVE-2024-37399-CVE-2024-37373?language=en_US",
+    "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Avalanche-6-4-4-CVE-2024-38652-CVE-2024-38653-CVE-2024-36136-CVE-2024-37399-CVE-2024-37373"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ivanti",
+        "sentiment": "none"
+      },
+      {
+        "name": "lucas miller",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T00:15:51.386+03:00",
+  "updated": "2024-08-16T00:15:51.386+03:00"
+}

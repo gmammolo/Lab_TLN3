@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "2809d24f6112956b6ba32ad75e848c4b39b4a587",
+    "url": "https://lwn.net/Articles/998239",
+    "site_full": "lwn.net",
+    "site": "lwn.net",
+    "site_section": "https://lwn.net/headlines/Comments",
+    "site_categories": [
+      "unix",
+      "tech"
+    ],
+    "section_title": "LWN.net comments",
+    "title": "PyPI dropped existing support for digital attestations",
+    "title_full": "PyPI dropped existing support for digital attestations",
+    "published": "2024-11-15T07:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3605,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2809d24f6112956b6ba32ad75e848c4b39b4a587",
+  "url": "https://lwn.net/Articles/998239",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "bignose",
+  "published": "2024-11-15T07:07:00.000+02:00",
+  "title": "PyPI dropped existing support for digital attestations",
+  "text": "PyPI dropped existing support for digital attestations\nPyPI dropped existing support for digital attestations\nPosted Nov 15, 2024 5:07 UTC (Fri) by bignose (subscriber, #40)In reply to:\n[PyPI dropped existing support for digital attestations](/Articles/998238/)by Cyberax\nParent article:\n[PyPI now supports digital attestations](/Articles/998215/)\nI'll take that as confirmation that no, there is no such thing today. Which confirms the issue I raised: the existing community-controlled identity system was dropped (for good reason), with no community-controlled replacement (because the PSF decided centralised, proprietary, platform-controlled solutions are good enough). And no evident plan to fix that, not then and not now.\nThe absence of a new solution is not the PSF's fault nor responsibility. The *removal of the existing system*, while there was and is no equivalent community-controlled replacement, is their responsibility and is the issue I'm glad to see we agree is true.\n> Actually, it was not \"yours\". It belongs to the Python Software Foundation\nThe GnuPG web of trust (https://en.wikipedia.org/wiki/Web_of_trust) is the identity solution we still have but the Python Software Foundation decided to stop supporting (again: for good reasons!) in 2023. If you think that belonged to the Python Software Foundation, I think this discussion isn't going anywhere useful.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://en.wikipedia.org/wiki/Web_of_trust",
+    "https://www.en.wikipedia.org/wiki/Web_of_trust"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T08:25:58.578+02:00",
+  "updated": "2024-11-15T08:25:58.578+02:00"
+}

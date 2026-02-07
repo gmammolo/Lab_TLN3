@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "1996f2ba319b674df0e0544f9b3c64c3210be98a",
+    "url": "https://www.thestar.com.my/news/world/2025/04/24/new-study-shows-increasing-americans-use-psilocybin",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/news/world",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "World - News | The Star",
+    "site_title": "The Star | Malaysia News: National, Regional and World News",
+    "title": "New study shows increasing Americans use psilocybin | The Star",
+    "title_full": "New study shows increasing Americans use psilocybin | The Star",
+    "published": "2025-04-24T00:21:07.815+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+    "performance_score": 0,
+    "domain_rank": 2118,
+    "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1996f2ba319b674df0e0544f9b3c64c3210be98a",
+  "url": "https://www.thestar.com.my/news/world/2025/04/24/new-study-shows-increasing-americans-use-psilocybin",
+  "ord_in_thread": 0,
+  "author": "Tan Jingjing",
+  "published": "2025-04-24T00:21:07.815+03:00",
+  "title": "New study shows increasing Americans use psilocybin | The Star",
+  "text": "LOS ANGELES, April 23 (Xinhua) -- A growing number of Americans are using psilocybin, the hallucinogenic compound found in so-called \"magic mushrooms,\" particularly among individuals dealing with mental health conditions, according to a new study published Wednesday.\nResearchers from the University of Colorado Anschutz Medical Campus and Rocky Mountain Poison and Drug Safety found that psilocybin use has increased significantly across all age groups in the United States since 2019, with the sharpest rises seen in both young and older adults.\nAccording to the study, published in the Annals of Internal Medicine, lifetime use among U.S. adults rose from 10 percent in 2019 - roughly 25 million people - to 12.1 percent in 2023, representing more than 31 million people.\nThe study also found that individuals with mental health conditions or chronic pain were more likely to report using psilocybin. In 2023, more American adults reported using psilocybin than substances like cocaine, LSD (lysergic acid diethylamide), methamphetamine, or illegal opioids.\n\"What really surprised us was how quickly these numbers changed and how many people using psilocybin had conditions like depression, anxiety, or chronic pain,\" said Karilynn Rockhill, co-lead author of the study and a researcher at the Colorado School of Public Health. \"New laws or growing interest in its potential mental health benefits may be prompting people to seek psilocybin as a form of self-treatment.\"\nAlthough psilocybin has shown promise in clinical research for treating conditions such as depression, post-traumatic stress disorder (PTSD), and substance use disorders, it is not yet approved for medical use by the U.S. Food and Drug Administration.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Social Issue"
+  ],
+  "topics": [
+    "Health->mental health and disorder",
+    "Health->health treatment and procedure",
+    "Health->drug rehabilitation",
+    "Social Issue->social problem",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Xinhua",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "603888",
+            "exchange": "SHA"
+          }
+        ]
+      },
+      {
+        "name": "University of Colorado Anschutz Medical Campus",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "right",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-04-24T00:21:07.815+03:00",
+  "updated": "2025-04-24T00:21:07.815+03:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "3a5620d7a053d682d45f933f8e59710e27144905",
+    "url": "https://www.sciencedaily.com/releases/2024/10/241003123242.htm",
+    "site_full": "www.sciencedaily.com",
+    "site": "sciencedaily.com",
+    "site_section": "https://www.sciencedaily.com/rss",
+    "site_categories": [
+      "science",
+      "space_astronomy",
+      "education"
+    ],
+    "section_title": "Latest Science News -- ScienceDaily",
+    "title": "Engineers create a chip-based tractor beam for biological particles",
+    "title_full": "Engineers create a chip-based tractor beam for biological particles",
+    "published": "2024-10-04T00:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+    "performance_score": 0,
+    "domain_rank": 321,
+    "domain_rank_updated": "2024-10-01T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 2
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3a5620d7a053d682d45f933f8e59710e27144905",
+  "url": "https://www.sciencedaily.com/releases/2024/10/241003123242.htm",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-10-04T00:32:00.000+03:00",
+  "title": "Engineers create a chip-based tractor beam for biological particles",
+  "text": "Engineers create a chip-based tractor beam for biological particles The tiny device uses a tightly focused beam of light to capture and manipulate cells - Date: - October 3, 2024 - Source: - Massachusetts Institute of Technology - Summary: - A chip-based 'tractor beam' can trap and manipulate biological particles using a tightly focused beam of light emitted from a silicon-photonics chip. The device could help biologists and clinicians study DNA, classify cells, and investigate the mechanisms of disease. - Share: MIT researchers have developed a miniature, chip-based \"tractor beam,\" like the one that captures the Millennium Falconin the film \"Star Wars,\" that could someday help biologists and clinicians study DNA, classify cells, and investigate the mechanisms of disease. Small enough to fit in the palm of your hand, the device uses a beam of light emitted by a silicon-photonics chip to manipulate particles millimeters away from the chip surface. The light can penetrate the glass cover slips that protect samples used in biological experiments, enabling cells to remain in a sterile environment. Traditional optical tweezers, which trap and manipulate particles using light, usually require bulky microscope setups, but chip-based optical tweezers could offer a more compact, mass manufacturable, broadly accessible, and high-throughput solution for optical manipulation in biological experiments. However, other similar integrated optical tweezers can only capture and manipulate cells that are very close to or directly on the chip surface. This contaminates the chip and can stress the cells, limiting compatibility with standard biological experiments. Using a system called an integrated optical phased array, the MIT researchers have developed a new modality for integrated optical tweezers that enables trapping and tweezing of cells more than a hundred times further away from the chip surface. \"This work opens up new possibilities for chip-based optical tweezers by enabling trapping and tweezing of cells at much larger distances than previously demonstrated. It's exciting to think about the different applications that could be enabled by this technology,\" says Jelena Notaros, the Robert J. Shillman Career Development Professor in Electrical Engineering and Computer Science (EECS), and a member of the Research Laboratory of Electronics. Joining Notaros on the paper are lead author and EECS graduate student Tal Sneh; Sabrina Corsetti, an EECS graduate student; Milica Notaros PhD '23; Kruthika Kikkeri PhD '24; and Joel Voldman, the William R. Brody Professor of EECS. The research appears today in Nature Communications. A new trapping modality Optical traps and tweezers use a focused beam of light to capture and manipulate tiny particles. The forces exerted by the beam will pull microparticles toward the intensely focused light in the center, capturing them. By steering the beam of light, researchers can pull the microparticles along with it, enabling them to manipulate tiny objects using noncontact forces. However, optical tweezers traditionally require a large microscope setup in a lab, as well as multiple devices to form and control light, which limits where and how they can be utilized. \"With silicon photonics, we can take this large, typically lab-scale system and integrate it onto a chip. This presents a great solution for biologists, since it provides them with optical trapping and tweezing functionality without the overhead of a complicated bulk-optical setup,\" Notaros says. But so far, chip-based optical tweezers have only been capable of emitting light very close to the chip surface, so these prior devices could only capture particles a few microns off the chip surface. Biological specimens are typically held in sterile environments using glass cover slips that are about 150 microns thick, so the only way to manipulate them with such a chip is to take the cells out and place them on its surface. However, that leads to chip contamination. Every time a new experiment is done, the chip has to be thrown away and the cells need to be put onto a new chip. To overcome these challenges, the MIT researchers developed a silicon photonics chip that emits a beam of light that focuses about 5 millimeters above its surface. This way, they can capture and manipulate biological particles that remain inside a sterile cover slip, protecting both the chip and particles from contamination. Manipulating light The researchers accomplish this using a system called an integrated optical phased array. This technology involves a series of microscale antennas fabricated on a chip using semiconductor manufacturing processes. By electronically controlling the optical signal emitted by each antenna, researchers can shape and steer the beam of light emitted by the chip. Motivated by long-range applications like lidar, most prior integrated optical phased arrays weren't designed to generate the tightly focused beams needed for optical tweezing. The MIT team discovered that, by creating specific phase patterns for each antenna, they could form an intensely focused beam of light, which can be used for optical trapping and tweezing millimeters from the chip's surface. \"No one had created silicon-photonics-based optical tweezers capable of trapping microparticles over a millimeter-scale distance before. This is an improvement of several orders of magnitude higher compared to prior demonstrations,\" says Notaros. By varying the wavelength of the optical signal that powers the chip, the researchers could steer the focused beam over a range larger than a millimeter and with microscale accuracy. To test their device, the researchers started by trying to capture and manipulate tiny polystyrene spheres. Once they succeeded, they moved on to trapping and tweezing cancer cells provided by the Voldman group. \"There were many unique challenges that came up in the process of applying silicon photonics to biophysics,\" Sneh adds. The researchers had to determine how to track the motion of sample particles in a semiautomated fashion, ascertain the proper trap strength to hold the particles in place, and effectively postprocess data, for instance. In the end, they were able to show the first cell experiments with single-beam optical tweezers. Building off these results, the team hopes to refine the system to enable an adjustable focal height for the beam of light. They also want to apply the device to different biological systems and use multiple trap sites at the same time to manipulate biological particles in more complex ways. This research is funded by the National Science Foundation (NSF), an MIT Frederick and Barbara Cronin Fellowship, and the MIT Rolf G. Locher Endowed Fellowship. Story Source: [Materials](https://news.mit.edu/2024/mit-engineers-create-chip-based-tractor-beam-biological-particles-1003) provided by [Massachusetts Institute of Technology](https://www.mit.edu/). Original written by Adam Zewe. Note: Content may be edited for style and length. Journal Reference: - Tal Sneh, Sabrina Corsetti, Milica Notaros, Kruthika Kikkeri, Joel Voldman, Jelena Notaros. Optical tweezing of microparticles and cells using silicon-photonics-based optical phased arrays. Nature Communications, 2024; 15 (1) DOI: [10.1038/s41467-024-52273-x](http://dx.doi.org/10.1038/s41467-024-52273-x) Cite This Page:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://news.mit.edu/2024/mit-engineers-create-chip-based-tractor-beam-biological-particles-1003",
+    "https://www.mit.edu/",
+    "http://dx.doi.org/10.1038/s41467-024-52273-x",
+    "https://www.mit.edu",
+    "https://www.news.mit.edu/2024/mit-engineers-create-chip-based-tractor-beam-biological-particles-1003",
+    "https://mit.edu/",
+    "http://www.dx.doi.org/10.1038/s41467-024-52273-x"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-04T08:44:30.053+03:00",
+  "updated": "2024-10-25T06:24:52.642+03:00"
+}

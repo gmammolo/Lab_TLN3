@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "244a755347027c0fa3a7bb0e9860435059204b54",
+    "url": "https://www.clarin.com/tecnologia/exponen-vulnerabilidad-sistemas-reservas-pasajes-aereos-riesgos_0_OF5noXBGdD.html",
+    "site_full": "www.clarin.com",
+    "site": "clarin.com",
+    "site_section": "https://www.clarin.com/rss/lo-ultimo",
+    "site_categories": [
+      "media",
+      "top_news_cl",
+      "top_news_mx",
+      "top_news_es",
+      "top_news_pe",
+      "top_news_ve",
+      "top_news_co",
+      "top_news_ar"
+    ],
+    "section_title": "",
+    "title": "⁠Exponen una vulnerabilidad en los sistemas de reservas de pasajes aéreos: cuáles son los riesgos",
+    "title_full": "⁠Exponen una vulnerabilidad en los sistemas de reservas de pasajes aéreos: cuáles son los riesgos",
+    "published": "2024-11-15T11:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://www.clarin.com/img/2024/11/14/CcFG3FTanu_2000x1500__1.jpg",
+    "performance_score": 0,
+    "domain_rank": 2339,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "244a755347027c0fa3a7bb0e9860435059204b54",
+  "url": "https://www.clarin.com/tecnologia/exponen-vulnerabilidad-sistemas-reservas-pasajes-aereos-riesgos_0_OF5noXBGdD.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Juan Brodersen",
+  "published": "2024-11-15T11:00:00.000+02:00",
+  "title": "⁠Exponen una vulnerabilidad en los sistemas de reservas de pasajes aéreos: cuáles son los riesgos",
+  "text": "El segundo día de [Ekoparty](https://www.clarin.com/tecnologia/ekoparty-20-dia-1-chema-alonso-advirtio-riesgos-inteligencia-artificial-apertura-conferencia-hackers_0_Wh3VUF8kVp.html), una de las principales conferencias de hackers de América Latina, tuvo dos platos fuertes: por un lado, dos hackers mostraron lo simple que es acceder a reservas de pasajeros de más de 50 aerolíneas del mundo, lo que permite ver datos personales, además de conocer sus itinerarios y hasta modificar o cancelarlas. Y, por el otro, otra dupla cerró el día explicando cómo [vulnerar procesadores AMD], uno de los principales fabricantes de microchips del mundo.\nLa primera charla, a cargo de Ignacio Laurence y Luciano Paccella, dos investigadores argentinos, demostró lo vulnerable que es el sistema de reservas que usan las aerolíneas. Sucede que, a fin de cuentas, sólo con el código que brinda la empresa y el apellido del pasajero es posible entrar y realizar modificaciones.\n“La vulnerabilidad se debe a que la mayoría de las aerolíneas utilizan un sistema de autenticación débil para gestionar las reservas online. Por ejemplo, al comprar un pasaje, el acceso a la reserva solo requiere el PNR (código de reserva) y el apellido. Muchos sitios no implementan limitadores de frecuencia, lo que permite a un atacante adivinar códigos de reservas, especialmente con apellidos comunes como González, García o Smith”, explicó a Clarín Ignacio Laurence, alias Criptex.\n“Además, algunas aerolíneas permiten acceder con el número de e-ticket, que es largo pero secuencial, facilitando la automatización y la posibilidad de que un atacante acceda rápidamente a múltiples reservas”, complementó Luciano Paccella, abogado.\nEste tipo de ataque implica que se puede acceder a datos de los pasajeros, cómo su número de pasaporte y nombre completo, además de poder inferir cuándo y dónde se encuentra un ciudadano y hacia dónde viaja. Pero, más peligroso aún, también se pueden hacer modificaciones en la reserva o incluso cancelarlas.\nDurante la charla en el salón principal, la segunda del día 2 de la edición 20 de Ekoparty, los investigadores dieron ejemplos de vuelos de famosos a los que pudieron acceder, dentro del sistema de reservas de cada aerolínea: Scarlett Johansson, Matt Damon, David Beckham y hasta Barack Obama.\n“De las 51 aerolíneas que investigamos, sólo vimos cuatro que tenían alguna medida más de seguridad: Swiss Airlines, Japan Airlines, Air Koryo y Pegasus Airlines. Pegasus parecía la más segura porque implementa un sistema de autenticación de dos factores. También hay aerolíneas que no tienen protección alguna, mientras que otras cuentan con medidas de mitigación, como captchas o limitadores de frecuencia robustos, aunque un atacante podría seguir explotando la vulnerabilidad, pero con más dificultad “, cerró Criptex.\nDurante la charla explicaron cómo se podría mitigar este problema: con un segundo factor de autenticación, es decir, por ejemplo, que la aerolínea envíe un correo o un SMS al usuario para hacer un doble chequeo de su identidad a la hora de querer entrar a una reserva.\nFallas en procesadores AMD y routers DrayTek\nAl promediar la tarde, dos investigadores locales dieron una charla sobre cómo explotar una serie de fallos de seguridad que afectan al menos a 500 mil routers de la marca taiwanesa DrayTek. Se trata de un popular modelo de dispositivo muy usado para conectarse a internet.\n“La investigación comenzó cuando un cliente sufrió una infección con malware y solicitó ayuda para resolver la situación. Durante la evaluación, se encontró que varios routers DrayTek estaban desactualizados y vulnerables”, explicó a Clarín Octavio Gianatiempo, investigador de la empresa de ciberseguridad argentina Faraday. Junto al investigador Gastón Aznarez, además de explicar el problema, demostraron el paso a paso de la explotación, que ya había sido [expuesta este año en DEF CON.]\nEl fallo es sobre lo que se conoce como dispositivos \"edge\" de la marca. Se trata de un tipo de hardware “que se encuentra en el límite de una red y actúa como una frontera entre la red local y la red externa”, agrega Aznarez. “Los routers son un ejemplo típico de dispositivos edge y son atractivos para los atacantes porque, al comprometerlos, pueden obtener acceso a la red interna, interceptar y manipular tráfico de red, y lanzar ataques adicionales desde una posición estratégica”, complementó en diálogo con Clarín.\nLa última charla del día estuvo a cargo de un argentino que descubrió una falla en todos los procesadores de AMD fabricados desde al menos 2006 hasta la actualidad, que brinda más privilegios a un hacker para tener control de un equipo. Enrique Nissim, un ingeniero en sistemas de la UTN, presentó junto a su colega polaco Krzysztof Okupski los resultados del research [tambien este año DEF CON](https://www.clarin.com/tecnologia/def-32-encontraron-falla-grave-procesadores-amd-ayuda-hackers-tener-control-computadora_0_nV0OFsecAu.html), la conferencia de hackers más grande del mundo, que ahora llevaron a Ekoparty.\nSe trata de un problema en un sector específico del procesador (CPU), el componente central de cualquier computadora. Desde que el usuario prende su dispositivo, el CPU ejecuta una serie de instrucciones en un orden determinado: Nissim, que trabaja para la empresa de seguridad IOActive, encontró esta falla leyendo documentación técnica, escribió junto a Okupski el método de explotación (exploit) y lo reportó a AMD. Lo llamaron “SinkClose” y afecta a todos los modelos desde al menos 2006 hasta la fecha.\n\"Una vez que lo encontré, dejé pasar unos meses hasta que pude demostrarlo y ahí les mandé un reporte, en octubre del año pasado. AMD lo tomó y discutimos el impacto. Al principio se creía que se podía explotar sólo con presencia física, es decir, con el atacante frente al equipo. Pero no: con más investigación, probamos que no hace falta estar delante del equipo para explotarlo\", agregó Nissim.\nAMD es la principal competidora de Intel en el mercado de los microprocesadores. La charla del cierre del día 2 tuvo un alto contenido técnico que, para el mundo del hardware hacking, implica una contribución significativa en el estudio de vulnerabilidades.\nWorldcoin y Banco Galicia piden que los hackeen\nUno de los clásicos de las conferencias de hackers son las competiciones en diversas áreas. Una de ellas tiene que ver con lo que se conoce como bug bounty o caza de vulnerabilidades, donde se abre a un programa para que los asistentes encuentren fallas en los sistemas y obtengan un premio a cambio. Otra, los \"CTF\" o Capture The Flag, una competencia donde hay que encontrar distintos módulos de información escondidos en diversos desafíos de ciberseguridad y hacking.\nWorldcoin (ahora llamada \"World\"), la fundación que escanea el iris de los ojos para autenticar usuarios, fundada por Sam Altman (creador de ChatGPT), desafió a que hackeen el orbe. Ees uno de los sponsors de esta edición de Ekoparty y generó mucha [controversia](https://www.clarin.com/tecnologia/worldcoin-argentina-crece-polemica-proyecto-creador-chatgpt-escanea-iris-cambio-dolares_0_LBwruITtCb.html) en Argentina, de donde viene la mayor escaneos del mundo ([2 millones de los 6 millones que tienen registrados](https://www.clarin.com/tecnologia/worldcoin-argentina-pais-escaneos-ojos-mundo-registrados_0_ehO3dYtNQy.html)). Hicieron una competencia llamada \"Trick The Orb\", donde llaman a que los hackers puedan engañar al orbe en el proceso de registro del iris, y continuará durante el viernes, con 5 mil dólares de premio.\nOtra empresa que \"invitó\" a que los hackeen fue Banco Galicia. “Desde el año pasado comenzamos a incursionar en el Bug Bounty, esto de pagarle a hunters o hackers por vulnerabilidades que encuentren en nuestro sistemas. Por el momento es un programa privado, es decir se accede únicamente por invitación, pero ya tenemos cerca de 100 hunters de todo el mundo dentro de nuestro programa”, contó a Clarín Christian Gehmlich, líder del equipo de seguridad ofensiva del banco.\nDurante el segundo día abrieron a un evento de LHE, “Live Hacking Event”: “¿En qué consiste? Los hackers que asistan a la Eko se van a poder anotar y participar durante 2 días en nuestro programa de Bug Bounty. Van a poder interactuar con el equipo de cyber de Galicia y los triagers (personas que analizan los reportes que envían los hunters) de Yes We Hack. Y obviamente esos hallazgos válidos van a ser remunerados económicamente”, contó. Durante el jueves, fue uno de los CTF más concurridos, con mucha concurrencia de hackers que lograron incluso hacer algunos descubrimientos.\nEsto es una estrategia típica de lo que hacen los Red Teamers, como se conoce a la seguridad ofensiva en el mundo de la ciberseguridad: equipos de hackers que intentan vulnerar los sistemas: “Consideramos que se trata de una estrategia disruptiva que nos ayuda a mejorar aún más la postura de seguridad de nuestros sistemas”, cerró. Mercado Libre es otra de las pocas empresas que hacen bug bounty en Argentina.\nRed Team vs. Blue Team: ofensiva y defensa\nEn Ekoparty hay “villages”, espacios específicos para distintos conocimientos dentro del hacking. Este año, la Red Team Village y el BlueSpace se encontraron uno al lado del otro, con diferentes propuestas pero por sobre todo CTFs.\n“Hicimos dos CTF, un juego de rol de Incident Response, charlas, workshops y hasta un escape room virtual y otro presencial. Además, tenemos algunos sorteos (entradas y cositas preparadas por un sponsor)”, contaron desde el staff de BlueSpace Village, donde también hay juegos de mesa y golosinas para atraer a los asistentes.\nDel otro lado, los de seguridad ofensiva, el Red Team, organizaron 24 charlas y 8 workshops. “Vinieron speakers de todo LATAM, particularmente Chile, Colombia, Costa Rica, Ecuador, Perú, Uruguay y Argentina y hasta proyectamos películas de culto todos los mediodías”, contó a Clarín Javier Antúnez, uno de los organizadores del Red Team Village.\nOtras villas que organizaron competencias fueron la Bug Bounty Village, el núcleo de esta práctica de buscar vulnerabilidades para reportaralas y competir por premios, y la Cyberfinance Village, también organizada por Gehmlich y por Sebastián Wilke: “Es un village donde tratamos temas relacionados a ciberseguridad y prevención de fraude en entornos financieros. Este año tenemos 10 charlas y wokrshops, actividades y juegos en el stand, armamos charlas sobre IA y fraude, robo de identidad con deepfakes, malware bancario hasta un mini workshop sobre el clonado de las tarjetas”, contaron a este medio.\nDurante los tres días también se pudo recorrer un stand de “e-waste” para dispensar basura electrónica. “Presentamos un espacio dinámico con un contenedor destinado al depósito e intercambio de dispositivos electrónicos o partes (de todo tipo, excepto pilas). Además, sumamos un panel de expertos donde se habló sobre la huella de carbono informática, y referentes de la cooperativa con la que colaboramos explicarán el proceso de economía circular que aplican para gestionar estos residuos específicos”, contó a este medio Clarisa Lopez, encargada del espacio.\nTambién hubo competencias organizadas por las marcas que están presentes en Ekoparty, como ESET que hizo una competencia con un “badge” de premio con un pequeño juego retro, el Frogger. Otra empresa de ciberseguridad, en este caso argentina, Faraday, hizo una competencia de hacking con un juego estilo Game Boy como premio.\nEkoparty continúa el viernes 15 de noviembre con más charlas, talleres y conferencias. Más información, en este enlace.\nSobre la firma\nMirá también\nNewsletter Clarín\nRecibí en tu email todas las noticias, coberturas, historias y análisis de la mano de nuestros periodistas especializados\n[QUIERO RECIBIRLO](https://www.clarin.com/newsletters)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Luciano Paccella",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ignacio Laurence",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "PNR",
+        "sentiment": "none"
+      },
+      {
+        "name": "AMD",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "América",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T12:35:32.863+02:00",
+  "updated": "2024-11-20T00:28:12.495+02:00"
+}

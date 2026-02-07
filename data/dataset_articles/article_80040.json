@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "2f6cd24f0b10bc396d0e0e129f5a263c9a8d6b9b",
+    "url": "https://www.dignited.com/117334/how-to-setup-and-use-rcs-on-your-dual-sim-phone/",
+    "site_full": "www.dignited.com",
+    "site": "dignited.com",
+    "site_section": "https://www.dignited.com/feed/",
+    "site_categories": [
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": "Dignited",
+    "title": "How to Setup and Use RCS on Your Dual SIM Phone",
+    "title_full": "How to Setup and Use RCS on Your Dual SIM Phone",
+    "published": "2024-01-05T23:50:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.dignited.com/wp-content/uploads/2024/01/106248238-1600x900-upscaled.png",
+    "performance_score": 0,
+    "domain_rank": 79701,
+    "domain_rank_updated": "2024-01-02T12:06:57.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2f6cd24f0b10bc396d0e0e129f5a263c9a8d6b9b",
+  "url": "https://www.dignited.com/117334/how-to-setup-and-use-rcs-on-your-dual-sim-phone/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Clinton Madegwa",
+  "published": "2024-01-05T23:50:00.000+02:00",
+  "title": "How to Setup and Use RCS on Your Dual SIM Phone",
+  "text": "RCS has made some decent strides over the past few years and today, a sizeable chunk of smartphone users worldwide have access to the new standard of messaging that replaces SMS. On Android, this has been made possible by Google Messages, an app that ships as the default for many new Android users.\nIn fact, any Android users can hop on board by simply downloading and installing the Google Messages app from the Google Play Store. However, there has been a limitation since this feature rolled out.\nRelated:\nHow to Enable RCS on Dual SIM\nThis feature is still in Beta and is rolling out slowly to users but I don’t feel patient enough so in this post I show you how to force-enable it.\n- Update to Google Messages version 20240102_00_RC01 from the Play Store. This is a beta build but any update newer than this should work.\n- Next, open Google Messages and enable debug. Here’s how. In the search bar type\n*xyzzy*(without any space)\n- After enabling debug menu, you might want to force close the app. Open the app again and click on the 3 dots menu.\n- Select your Profile photo and click on Debug. Select Toggle DSDR (Dual SIM/Dual RCS)\n- Open the Google Messages app, tap your profile picture, and go to Messages Settings > Chat features. If available, toggle on RCS chats.\n- While you earlier had a single SIM shown (your preferred SIM for messages), you should now see both SIM Cards.\nVerify your number: Depending on your app and carrier, you might need to verify your primary RCS number. This usually involves entering a code received via SMS. It should happen automatically in the background.\nAs mentioned, this feature is not rolled out officially to RCS users so it is probably still in the works. For me, my SIM 2 remains stuck at Setting up... and I am not sure how to nudge it along.\nHow to use RCS\nShould you get through the setup successfully and endup with both SIM Cards connected to RCS, using is as simple as sending a message to a contact with RCS Enabled and selecting your preferred SIM.\nYou know you’re using RCS when the typing field says Chat or RCS Message instead of Text message.\nConclusion\nThis year, we’re set to see\niMessage finally adopting support for RCS, probably the last remaining hurdle to fully phasing out SMS for good. It was about time Google addressed this limitation seeing as more and more smartphones now support eSIM, effectively allowing users to have 2 SIM cards on the same phone.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/",
+    "https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone",
+    "https://www.9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "sim phone rcs",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "google",
+        "sentiment": "none"
+      },
+      {
+        "name": "google messages",
+        "sentiment": "none"
+      },
+      {
+        "name": "google play store",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "beta",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-06T01:07:29.747+02:00",
+  "updated": "2024-01-06T01:07:29.747+02:00"
+}

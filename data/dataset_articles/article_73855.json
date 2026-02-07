@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "805fde2082d89b1b0d41c33a7567814b99dc6e89",
+    "url": "https://talk.tidbits.com/t/twitter-x-fridays-tos-ai-training/29445",
+    "site_full": "talk.tidbits.com",
+    "site": "tidbits.com",
+    "site_section": "https://talk.tidbits.com/posts.rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TidBITS Talk - Latest posts",
+    "title": "Twitter / X -- Friday's TOS & AI Training",
+    "title_full": "Twitter / X -- Friday's TOS & AI Training",
+    "published": "2024-11-15T05:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://talk.tidbits.com/uploads/default/original/2X/c/c1429bf33383af9f01fcef382a9cc880a161aeb4.png",
+    "performance_score": 0,
+    "domain_rank": 15698,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "805fde2082d89b1b0d41c33a7567814b99dc6e89",
+  "url": "https://talk.tidbits.com/t/twitter-x-fridays-tos-ai-training/29445",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@Halfsmoke Halfsmoke",
+  "published": "2024-11-15T05:20:00.000+02:00",
+  "title": "Twitter / X -- Friday's TOS & AI Training",
+  "text": "I’m hoping someone understands the situation better than I do. Twitter/X is changing their terms of service tomorrow, and it sounds like they will be using AI to train on your data (perhaps taking copyright too), with no way to opt out – that’s what I’m seeking clarity on.\nAdding to the confusion, is a checkbox to opt out of Grok under the Privacy settings, that specifically says it won’t train on AI. That option has been there for at least a month, and some people think the new TOS superseeds that checkbox, thus making it pointless.\nIs deleting posts and content the only option for a hint of protection? Thanks for any thoughts.\nI wouldn’t be surprised if the only way to opt-out is to stop using X…but it probably will still have access to all your data to use however it likes even if you close your account (Meta does the same thing, by the way).\nIn any case, whether or not a site’s TOS allows AI training doesn’t matter much from a privacy perspective. AI builders scrape data from all across the Internet with most not caring about copyrights or target sites’ TOS. If something is accessible online, an AI is going to slurp it up at some point.\nA notorious example is how Clearview AI—and this predates the even hungrier generative AIs—built up its database of images:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T07:05:58.329+02:00",
+  "updated": "2024-11-15T07:05:58.329+02:00"
+}

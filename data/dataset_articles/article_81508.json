@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "bd50820e97ec14c5c4c52f84bf84960aa3fb090d",
+    "url": "https://9to5google.com/2024/04/11/android-15-privacy-stingray-hide-device-name",
+    "site_full": "9to5google.com",
+    "site": "9to5google.com",
+    "site_section": "https://9to5google.com/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "9to5Google",
+    "title": "Android 15: Privacy upgrades can fight Stingrays, hide your device name",
+    "title_full": "Android 15: Privacy upgrades can fight Stingrays, hide your device name",
+    "published": "2024-04-12T01:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/Android-15-Beta-1-IO-inspired-v8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "performance_score": 0,
+    "domain_rank": 3290,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bd50820e97ec14c5c4c52f84bf84960aa3fb090d",
+  "url": "https://9to5google.com/2024/04/11/android-15-privacy-stingray-hide-device-name",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kyle Bradshaw",
+  "published": "2024-04-12T01:26:00.000+03:00",
+  "title": "Android 15: Privacy upgrades can fight Stingrays, hide your device name",
+  "text": "With Android 15 Beta 1, Google is introducing a handful of upgrades that should help protect your privacy while browsing with Wi-Fi or cellular. Our team is actively digging through Android 15 Beta 1 to find what new features and goodies Google has included in this first public-facing release. Thus far, the company hasn’t shared the major tentpoles of Android 15, but a common thread we’ve found in this latest build is improvements to privacy. Starting with Wi-Fi, Android 15 reworks the “Privacy” option found on the “Network details” page. Previously, tapping this would open a popup that allows you to choose whether to share your phone/tablet’s MAC address or a randomly generated one. The owner of a public Wi-Fi network could use that address to track your activity across visits, while using a non-randomized address can be a good idea for your home network. After the update, Wi-Fi Privacy now has a full-page menu with a new “Send device name” toggle. For example, my Pixel 8 Pro appears as “Pixel-8-Pro” to my Nest Wifi router. Meanwhile, it’s common (especially for iPhone owners) to give your phone a more personalized name. By turning off “Send device name,” your phone stays anonymous. Beyond that, Google also introduced a set of new privacy-protecting features for cellular networks. You can find them under Settings > Security & privacy > More security & privacy > Cellular network security. The first toggle, “Security notifications,” is the less strict of the two. Once enabled, Android will let you know whenever you connect to a cellular network that either isn’t encrypted or records your IMEI and IMSI numbers. One common situation in which this would occur is if a law enforcement agency is using a Stingray device to track nearby cell network usage. The ACLU has some helpful resources explaining how and where Stingrays are used in the US. Receive notifications in case the cellular network you are connected to is insecure due to lack of encryption, or if the cellular network records your unique device or SIM identifiers (IMEI & IMSI) Going a step further, you can also choose to “Require encryption,” protecting against potential surveillance. The option warns that you may be unable to connect properly in certain areas, but your phone usage should remain secure. Any calls placed to emergency services will ignore this setting, however, to ensure the call can be completed. Encryption is more secure, but you might not be able to connect in some locations. For emergency calls, encryption is never required As we’re still in the early days of Android 15, it’s not yet clear whether these latest privacy protections will arrive on other phones/tablets or if they were developed solely for Google’s Pixel lineup. We’ll likely learn more when the company shares additional details about Android 15 at this year’s Google I/O conference. FTC: We use income earning auto affiliate links. More. our homepage for all the latest news, and follow 9to5Google on exclusive stories , reviews , how-tos , and subscribe to our YouTube channel",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://youtube.com/9to5google",
+    "https://www.aclu.org/issues/privacy-technology/surveillance-technologies/stingray-tracking-devices-whos-got-them",
+    "https://www.youtube.com/9to5google",
+    "https://aclu.org/issues/privacy-technology/surveillance-technologies/stingray-tracking-devices-whos-got-them",
+    "https://9to5mac.com/about/#affiliate",
+    "https://www.9to5mac.com/about/#affiliate"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "google",
+        "sentiment": "negative"
+      },
+      {
+        "name": "wi-fi",
+        "sentiment": "none"
+      },
+      {
+        "name": "wi-fi privacy",
+        "sentiment": "none"
+      },
+      {
+        "name": "mac",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T04:25:35.133+03:00",
+  "updated": "2024-04-12T06:12:06.880+03:00"
+}

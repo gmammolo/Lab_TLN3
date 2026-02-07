@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "460b281e86ffa81c6bcc9d8ff22c255615bd4a5a",
+    "url": "https://www.esslinger-zeitung.de/inhalt.schwerer-unfall-bei-winnenden-autos-stossen-frontal-zusammen-mehrere-verletzte.17cc7f70-92d4-4992-89f1-ba756c435e2e.html",
+    "site_full": "www.esslinger-zeitung.de",
+    "site": "esslinger-zeitung.de",
+    "site_section": "https://www.esslinger-zeitung.de/.rss.feed",
+    "site_categories": [
+      "media",
+      "arts, culture and entertainment",
+      "economy, business and finance",
+      "disaster and accident",
+      "lifestyle and leisure",
+      "crime, law and justice",
+      "politics",
+      "sport"
+    ],
+    "section_title": "Esslinger Zeitung - Startseite",
+    "site_title": "Nachrichten für Esslingen & die Region - Esslinger Zeitung",
+    "title": "Unfall bei Winnenden: Autos stoßen frontal zusammen - mehrere Verletzte",
+    "title_full": "Unfall bei Winnenden: Autos stoßen frontal zusammen - mehrere Verletzte",
+    "published": "2026-01-07T21:10:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.esslinger-zeitung.de/media.media.02e96f84-1a02-42b3-aa7e-c6df40d813a5.original1024.jpg",
+    "performance_score": 0,
+    "domain_rank": 120993,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "460b281e86ffa81c6bcc9d8ff22c255615bd4a5a",
+  "url": "https://www.esslinger-zeitung.de/inhalt.schwerer-unfall-bei-winnenden-autos-stossen-frontal-zusammen-mehrere-verletzte.17cc7f70-92d4-4992-89f1-ba756c435e2e.html",
+  "ord_in_thread": 0,
+  "author": "Philip Kearney",
+  "published": "2026-01-07T21:10:00.000+02:00",
+  "title": "Unfall bei Winnenden: Autos stoßen frontal zusammen - mehrere Verletzte",
+  "text": "An einer Kreuzung bei Winnenden im Rems-Murr-Kreis kommt es am Mittwochabend zu einem heftigen Zusammenstoß. Mehrere Personen werden verletzt. Was bislang bekannt ist.\nIm Rems-Murr-Kreis hat es am Mittwochabend einen schweren Unfall gegeben. Wie ein Sprecher der Polizei auf Nachfrage mitteilte, stießen zwei Autos bei Winnenden-Höfen frontal zusammen.\nDemnach wollte der Fahrer eines Ford Fiestas gegen 18.45 Uhr an der Kreuzung der Kreisstraßen 1914 und 1851 links abbiegen und übersah dabei offenbar einen BMW, der Vorfahrt hatte. Die beiden Autos stießen in der Folge frontal zusammen.\nDer Fahrer des Fords wurde nach ersten Informationen der Polizei schwer verletzt, die drei Insassen des BMW leicht. Der Schaden beträgt schätzungsweise rund 24.000 Euro. Die Polizei war zur Unfallaufnahme vor Ort.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->transportation accident and incident",
+    "Disaster and Accident->accident and emergency incident"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Winnenden",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "BMW",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "BMW",
+            "exchange": "XETRA"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T07:47:00.089+02:00",
+  "updated": "2026-01-08T07:47:25.000+02:00"
+}

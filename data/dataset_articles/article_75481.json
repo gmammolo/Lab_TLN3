@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "e25fda4552a9832c152f668e49a313cf4d967f8b",
+    "url": "https://cryptonews.net/es/news/security/30116866",
+    "site_full": "cryptonews.net",
+    "site": "cryptonews.net",
+    "site_section": "https://cryptonews.net/es/",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "Noticias mundiales sobre criptomoneda y tecnología blockchain de diversas fuentes",
+    "title": "Apple admite una vulnerabilidad de seguridad que deja expuestos a los usuarios de criptomonedas: esto es lo que debe hacer",
+    "title_full": "Apple admite una vulnerabilidad de seguridad que deja expuestos a los usuarios de criptomonedas: esto es lo que debe hacer",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cnews24.ru/uploads/db6/db68cf81b1a2ffd8f67bad5b65cc7a4b2119c657.png",
+    "performance_score": 0,
+    "domain_rank": 55532,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e25fda4552a9832c152f668e49a313cf4d967f8b",
+  "url": "https://cryptonews.net/es/news/security/30116866",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T02:00:00.000+02:00",
+  "title": "Apple admite una vulnerabilidad de seguridad que deja expuestos a los usuarios de criptomonedas: esto es lo que debe hacer",
+  "text": "Apple confirmó el lunes que sus dispositivos quedaron vulnerables a un exploit que permitía la ejecución remota de código malicioso a través de JavaScript basado en web, abriendo un vector de ataque que podría afectar a víctimas desprevenidas de su criptografía. Según una reciente divulgación de seguridad de Apple, los usuarios deben usar las últimas versiones de su software JavaScriptCore y WebKit para parchear la vulnerabilidad. El error, descubierto por investigadores del grupo de análisis de amenazas de Google, permite «procesar contenido web creado con fines malintencionados», lo que podría provocar un «ataque de secuencias de comandos entre sitios». Lo que es más alarmante, Apple también admitió que «está al tanto de un informe que indica que esto Es posible que el problema haya sido explotado activamente en sistemas Mac basados en Intel”. Apple también emitió una declaración de seguridad similar para usuarios de iPhone y iPad. Aquí, dice, la vulnerabilidad JavaScriptCore permitía que «el procesamiento de contenido web creado con fines malintencionados puede conducir a la ejecución de código arbitrario». En otras palabras, Apple se dio cuenta de una falla de seguridad que podría permitir a los piratas informáticos tomar el control del iPhone o iPad de un usuario si visita un sitio web dañino. Una actualización debería resolver el problema, dijo Apple. Jeremiah O'Connor, CTO y cofundador de la firma de ciberseguridad criptográfica Trugard, dijo a Decrypt que «los atacantes podrían acceder a datos confidenciales como claves privadas o contraseñas» almacenadas en su navegador, lo que permite el robo de criptomonedas si el dispositivo del usuario permaneció sin parchear. Las revelaciones de la vulnerabilidad dentro de la comunidad criptográfica comenzaron a circular en las redes sociales el miércoles, y el ex director ejecutivo de Binance, Changpeng Zhao, dio la alarma en un tweet advirtiendo que los usuarios de Macbooks con Intel Las CPU deberían actualizarse lo antes posible. El desarrollo sigue a los informes de marzo de que investigadores de seguridad descubrieron una vulnerabilidad en los chips de la generación anterior de Apple: sus series M1, M2 y M3 que podrían permitir a los piratas informáticos robar claves criptográficas. El exploit, que no es nuevo , aprovecha la «búsqueda previa», un proceso utilizado por los propios chips de la serie M de Apple para acelerar las interacciones con los dispositivos de la empresa. La captación previa se puede aprovechar para almacenar datos sensibles en la memoria caché del procesador y luego acceder a ellos para reconstruir una clave criptográfica que se supone es inaccesible. Desafortunadamente, ArsTechnica informa que este es un problema importante para los usuarios de Apple ya que una vulnerabilidad a nivel de chip no puede ser solucionado mediante una actualización de software. Una posible solución alternativa puede aliviar el problema, pero intercambian rendimiento por seguridad.\n[Volver a la lista](/es/news/security/)\nApple admite una vulnerabilidad de seguridad que deja expuestos a los usuarios de criptomonedas: esto es lo que debe hacer\ncriptopasion.com 22 Noviembre 2024 12:13, UTC",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Health"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:37:36.200+02:00",
+  "updated": "2024-11-27T16:57:55.946+02:00"
+}

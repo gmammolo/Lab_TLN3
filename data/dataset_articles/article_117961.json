@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "8f4131f2fea00120857731b84c04fe246f99de31",
+    "url": "https://www.allgemeine-zeitung.de/lokales/rheinland-pfalz/feiertag-und-wochenende-bringen-regen-5032206",
+    "site_full": "www.allgemeine-zeitung.de",
+    "site": "allgemeine-zeitung.de",
+    "site_section": "https://allgemeine-zeitung.de/lokales/rheinland-pfalz",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Aktuelle & lokale Nachrichten aus Rheinland-Pfalz",
+    "site_title": "Aktuelle Nachrichten aus der Region Mainz",
+    "title": "Feiertag und Wochenende bringen Regen",
+    "title_full": "Feiertag und Wochenende bringen Regen",
+    "published": "2025-10-02T08:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.allgemeine-zeitung.de/lokales/rheinland-pfalz/40bp7t-herbstwetter-in-rheinland-pfalz/alternates/OG_IMAGE_1200/herbstwetter%20in%20rheinland-pfalz",
+    "performance_score": 0,
+    "domain_rank": 36372,
+    "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8f4131f2fea00120857731b84c04fe246f99de31",
+  "url": "https://www.allgemeine-zeitung.de/lokales/rheinland-pfalz/feiertag-und-wochenende-bringen-regen-5032206",
+  "ord_in_thread": 0,
+  "author": "dpa",
+  "published": "2025-10-02T08:32:00.000+03:00",
+  "title": "Feiertag und Wochenende bringen Regen",
+  "text": "Nach Sonne folgt Regen: Am langen Wochenende ist mit dicken Wolken und Schauern zu rechnen.\nMainz (dpa/lrs) - . Nach einigen sonnigen Tagen müssen sich die Menschen in Rheinland-Pfalz und im Saarland zum Feiertag und zum Wochenende auf Regen einstellen. Nach Angaben des Deutschen Wetterdienstes (DWD) ist es heute meist heiter bis sonnig, die Temperaturen steigen auf Werte zwischen 13 und 17 Grad.\nAm Freitag, dem Tag der Deutschen Einheit, ist es überwiegend stark bewölkt. Von Westen zieht im Tagesverlauf gebietsweise leichter Regen auf. Die Höchsttemperaturen werden laut DWD zwischen 11 und 14 Grad liegen. Am Samstag und Sonntag ist es regnerisch, örtlich ist mit einzelnen Schauern zu rechnen. Höchsttemperaturen zwischen 13 und 17 Grad werden erwartet, im Bergland um 11 Grad.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Weather->weather forecast",
+    "Weather->weather phenomena",
+    "Social Issue->communities",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Mainz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rheinland-Pfalz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Saarland",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutschen Wetterdienstes",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-02T10:21:41.500+03:00",
+  "updated": "2025-10-02T10:25:37.000+03:00"
+}

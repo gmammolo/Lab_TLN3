@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "2e19ff562e90f7ba7b4cb60622c2516cd98036d3",
+    "url": "https://coinpedia.org/news/bitcoin-risks-51-attack-as-two-mining-pools-control-majority-hashrate/",
+    "site_full": "coinpedia.org",
+    "site": "coinpedia.org",
+    "site_section": "https://coinpedia.org/feed/",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "Coinpedia Fintech News",
+    "site_title": "Coinpedia - Fintech &amp; Cryptocurrency News Media| Crypto Guide",
+    "title": "Bitcoin Security Concerns Rise as Two Pools Dominate 51% of Network",
+    "title_full": "Bitcoin Security Concerns Rise as Two Pools Dominate 51% of Network",
+    "published": "2025-08-21T11:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://image.coinpedia.org/wp-content/uploads/2025/06/06195814/Bitcoin-Just-Mined-Its-900000th-Block-%E2%80%93-What-It-Means-for-Miners-and-the-Next-Halving.webp",
+    "performance_score": 0,
+    "domain_rank": 18790,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2e19ff562e90f7ba7b4cb60622c2516cd98036d3",
+  "url": "https://coinpedia.org/news/bitcoin-risks-51-attack-as-two-mining-pools-control-majority-hashrate/",
+  "ord_in_thread": 0,
+  "author": "Rizwan Ansari",
+  "published": "2025-08-21T11:17:00.000+03:00",
+  "title": "Bitcoin Security Concerns Rise as Two Pools Dominate 51% of Network",
+  "text": "Two mining pools now control over 51% of Bitcoin’s hashrate, sparking decentralization fears.\nFoundry USA, Antpool, and F2Pool dominate mining, pushing smaller Bitcoin miners further behind.\nStratum v2 and non-custodial pools may reduce risks, but adoption remains worryingly limited.\nBitcoin, the world’s largest cryptocurrency, which has long been seen as the symbol of decentralization, but that image is now being tested. Recent on-chain data shows that just two mining pools now control over 51% of the network’s hashrate.\nWhile this doesn’t mean an attack is happening, it opens the door for one, and that’s enough to raise concerns.\nWhat a 51% Attack Could Mean\nAt the heart of the issue is what’s known as a “51% attack.” When a group controls over half the network, they can technically reorder transactions, censor payments, or attempt double-spends.\nLeon Waidmann, Research Head at Onchain Foundation, recently pointed out that pools like Foundry USA, Antpool, and F2Pool now dominate the space, while smaller miners are losing ground. This imbalance has long worried the Bitcoin community.\nMeanwhile, they cannot create new Bitcoin out of nothing or break digital signatures, but even having this much influence makes the system less secure. In short, the risk is not about what has happened, but about what could happen.\nHistory Repeats Itself?\nThis isn’t the first time the community has faced such a scare. In 2014, a single mining pool briefly crossed the 50% mark. Back then, miners quickly moved away after community pressure, and the balance was restored.\nSomething similar could happen again, but the concern lies in how long it may take for miners to react if the situation repeats.\nCan Bitcoin Fix This?\nMeanwhile, there are possible solutions. New tools like Stratum v2 could give miners more control by letting them decide which transactions to include. Faster switching between pools and non-custodial pool designs could also help.\nBut these solutions are not yet widely used, leaving Bitcoin with a centralization problem that needs urgent attention.\nThe situation doesn’t mean Bitcoin is broken, but it does act as a warning.\nAs of now, the Bitcoin price is trading around $113,864, reflecting a slight rise seen in the past 24 hours.\nNever Miss a Beat in the Crypto World!\nStay ahead with breaking news, expert analysis, and real-time updates on the latest trends in Bitcoin, altcoins, DeFi, NFTs, and more.\nFAQs\nYes, a single mining pool briefly exceeded 50% hashrate in 2014. Community pressure prompted miners to redistribute, restoring network balance.\nProposed solutions include adopting Stratum v2 protocol, enabling faster pool switching, and implementing non-custodial pool designs to decentralize control.\nNo. Attackers cannot create new coins or steal funds from existing addresses, but they can censor transactions and reverse recent ones to double-spend.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->foreign exchange market",
+    "Economy, Business and Finance->financial service",
+    "Social Issue->social problem",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->economics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Leon Waidmann",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Onchain Foundation",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:40:58.883+03:00",
+  "updated": "2025-08-21T12:45:07.000+03:00"
+}

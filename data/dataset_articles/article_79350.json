@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "bd3f49d8366117a0f0f98a9b5efbf2cf6014aa2a",
+    "url": "https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41",
+    "site_full": "towardsdatascience.com",
+    "site": "towardsdatascience.com",
+    "site_section": "https://towardsdatascience.com/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "",
+    "title": "How I Won Singapore’s GPT-4 Prompt Engineering Competition",
+    "title_full": "How I Won Singapore’s GPT-4 Prompt Engineering Competition",
+    "published": "2023-12-29T02:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://miro.medium.com/v2/resize:fit:1036/1*RAI4cBXe1_zaxVykHz79oA.jpeg",
+    "performance_score": 0,
+    "domain_rank": 1945,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bd3f49d8366117a0f0f98a9b5efbf2cf6014aa2a",
+  "url": "https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sheila Teo",
+  "published": "2023-12-29T02:29:00.000+02:00",
+  "title": "How I Won Singapore’s GPT-4 Prompt Engineering Competition",
+  "text": "How I Won Singapore’s GPT-4 Prompt Engineering Competition A deep dive into the strategies I learned for harnessing the power of Large Language Models (LLMs) Last month, I had the incredible honor of winning Singapore’s first ever GPT-4 Prompt Engineering competition, which brought together over 400 prompt-ly brilliant participants, organised by the Government Technology Agency of Singapore (GovTech). Prompt engineering is a discipline that blends both art and science — it is as much technical understanding as it is of creativity and strategic thinking. This is a compilation of the prompt engineering strategies I learned along the way, that push any LLM to do exactly what you need and more! Author’s Note: In writing this, I sought to steer away from the traditional prompt engineering techniques that have already been extensively discussed and documented online. Instead, my aim is to bring fresh insights that I learned through experimentation, and a different, personal take in understanding and approaching certain techniques. I hope you’ll enjoy reading this piece! This article covers the following, with 🔵 referring to beginner-friendly prompting techniques while 🔴 refers to advanced strategies: 1. [🔵] [Structuring prompts using the CO-STAR framework](#10b2) 2. [🔵] [Sectioning prompts using delimiters](#8f6a) 3. [🔴] [Creating system prompts with LLM guardrails](#1cfa) 4. [🔴] [Analyzing datasets using only LLMs, without plugins or code](#183c) — With a hands-on example of analyzing a real-world Kaggle dataset using GPT-4 1. [🔵] Structuring Prompts using the CO-STAR framework Effective prompt structuring is crucial for eliciting optimal responses from an LLM. The CO-STAR framework, a brainchild of GovTech Singapore’s Data Science & AI team, is a handy template for structuring prompts. It considers all the key aspects that influence the effectiveness and relevance of an LLM’s response, leading to more optimal responses.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "government technology agency of singapore",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "singapore",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T03:03:42.508+02:00",
+  "updated": "2024-01-26T00:08:34.102+02:00"
+}

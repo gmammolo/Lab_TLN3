@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "87dd053333186927f711172fde9ef0d3617167c2",
+    "url": "https://electrek.co/2024/01/05/tesla-annouces-partnership-samsung-energy-connectivity/",
+    "site_full": "electrek.co",
+    "site": "electrek.co",
+    "site_section": "https://automotive.einnews.com:443/live_feed",
+    "site_categories": [
+      "vehicles"
+    ],
+    "section_title": "Live Feed Wire - Automotive Industry Today - EIN Presswire",
+    "title": "Tesla announces new partnership with Samsung over energy connectivity | Electrek",
+    "title_full": "Tesla announces new partnership with Samsung over energy connectivity | Electrek",
+    "published": "2024-01-05T22:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-samsung.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "performance_score": 0,
+    "domain_rank": 2788,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 42,
+        "comments": 29,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "87dd053333186927f711172fde9ef0d3617167c2",
+  "url": "https://electrek.co/2024/01/05/tesla-annouces-partnership-samsung-energy-connectivity/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Fred Lambert",
+  "published": "2024-01-05T22:07:00.000+02:00",
+  "title": "Tesla announces new partnership with Samsung over energy connectivity | Electrek",
+  "text": "Tesla and Samsung have announced a new partnership over energy connectivity, which appears to be the reason behind Tesla’s API update.\nYesterday, we reported on Tesla updating their API to include Powerwall, solar, and Wall Connector integration.\nIt looks like the update was in the works because of a new collaboration with Samsung.\nJust a day later, Samsung released this new press release announcing the partnership:\nSamsung Electronics Co., Ltd. today announced that it has established a service integration with Tesla, to be showcased at CES ® 2024, that will connect SmartThings Energy to Tesla products such as Powerwall home battery, Solar Inverter, Wall Connector charging solutions and electric vehicles (EVs). Made possible through Tesla’s open APIs 1 , this collaboration will result in the further expansion of SmartThings Energy’s already-comprehensive level of connectivity and contribute to Samsung’s ultimate goal of enabling more convenient, seamless home experiences for consumers.\nIt sounds like Samsung is going to enable monitoring of Tesla energy products through its own app.\nChanwoo Park, EVP and Head of IoT Development Team of Device Platform Center at Samsung Electronics, commented on the new collaboration:\n“Tesla Energy’s customers can now manage and monitor the power status of their homes through SmartThings Energy and Samsung devices in addition to the Tesla app, ensuring more access and connectivity. “This new collaboration is a key milestone for Samsung Electronics in making our solution more widely available beyond home appliances.”\nIt appears that the collaboration is still only at an early stage and that more is going to come over time.\nFor now, Samsung also says that Tesla is going to be able to push its “Storm Watch” notifications through Samsung smart TVs.\nThe electronics giant also makes it sounds like it could automatically shut down some devices when Tesla’s energy systems start using backup power in order to prolong the capacity to operate off-grid.\nAdd Electrek to your Google News feed.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://news.samsung.com/us/samsung-tesla-collaboration-ces-2024-smartthings-energy/#_ftn1",
+    "https://news.google.com/publications/CAAqBwgKMKqD-Qow6c_gAg?hl=en-US&#038;gl=US&#038;ceid=US:en",
+    "https://www.news.samsung.com/us/samsung-tesla-collaboration-ces-2024-smartthings-energy/#_ftn1",
+    "https://www.news.google.com/publications/CAAqBwgKMKqD-Qow6c_gAg?hl=en-US&#038;gl=US&#038;ceid=US:en",
+    "https://news.google.com/publications/CAAqBwgKMKqD-Qow6c_gAg"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "tesla",
+        "sentiment": "negative"
+      },
+      {
+        "name": "electrek tesla",
+        "sentiment": "negative"
+      },
+      {
+        "name": "powerwall",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "samsung",
+        "sentiment": "negative"
+      },
+      {
+        "name": "samsung electronics co., ltd.",
+        "sentiment": "none"
+      },
+      {
+        "name": "tesla",
+        "sentiment": "none"
+      },
+      {
+        "name": "smartthings energy",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "tesla",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-06T03:15:02.900+02:00",
+  "updated": "2024-01-06T03:15:02.900+02:00"
+}

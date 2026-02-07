@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "54e67cbe14e076fecdde6eea9b2d742a4af73e7a",
+    "url": "https://www.thehindubusinessline.com/info-tech/jailbreaking-the-powerful-genai-models/article69931698.ece",
+    "site_full": "www.thehindubusinessline.com",
+    "site": "thehindubusinessline.com",
+    "site_section": "https://www.sumanasa.com/indianews/business",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "India Business News | Sumanasa.com",
+    "site_title": "Business News Today: Latest Business News, Finance News | The Hindu BusinessLine",
+    "title": "Jailbreaking the powerful GenAI models",
+    "title_full": "Jailbreaking the powerful GenAI models",
+    "published": "2025-08-14T09:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://bl-i.thgim.com/public/incoming/i56gq4/article69918906.ece/alternates/LANDSCAPE_1200/IMG_AI_Artificial_Intell_2_1_RJE0NKTN.jpg",
+    "performance_score": 0,
+    "domain_rank": 3237,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "54e67cbe14e076fecdde6eea9b2d742a4af73e7a",
+  "url": "https://www.thehindubusinessline.com/info-tech/jailbreaking-the-powerful-genai-models/article69931698.ece",
+  "ord_in_thread": 0,
+  "author": "KV Kurmanath",
+  "published": "2025-08-14T09:10:00.000+03:00",
+  "title": "Jailbreaking the powerful GenAI models",
+  "text": "Being the most powerful Generative AI doesn’t generally mean that they are safe in protecting sensitive data. Their guardrails are not foolproof, cybersecurity experts say. ChatGPT 5, the most powerful LLM upgrade from OpenAI, seems to be no exception. This creates a significant danger for organisations where these tools are being rapidly adopted by employees, often without oversight.\nJust 24 hours after OpenAI launched its highly anticipated GPT-5 model, which is supposed to offer sophisticated prompt safety, exposure management company Tenable has claimed that it successfully jailbroke the platform. It stated that the GenAI engine provided detailed instructions on how to build a Molotov cocktail, a handheld weapon studded with inflammable substances.\nTenable said that its researchers used a social engineering method known as the crescendo technique to bypass these safety protocols in just four simple prompts by posing as a history student interested in the historical context and recipe of the incendiary device.\n“The successful jailbreak highlights a critical security gap in the latest generation of AI models, demonstrating that despite developer claims, they remain vulnerable to manipulation for malicious purposes,” Tomer Avni, Vice-President (Product Management) at Tenable, said.\n“The ease with which we bypassed GPT-5’s new safety protocols proves that even the most advanced AI is not foolproof,” he said.\nWithout proper visibility and governance, businesses are unknowingly exposed to serious security, ethical, and compliance risks. This incident is a clear call for a dedicated AI exposure management strategy to secure every model in use.\nThese jailbreaks prove that organisations cannot rely solely on the built-in safety features offered by the LLMs.\nA similar jailbreak was reported by the Unit 42 research team of Palo Alto Networks. The research team jailbroke the open-source reasoning model DeepSeek recently.\nSwapna Bapat, Vice-President and Managing Director (India and SAARC) of Palo Alto Networks, said that the team used multiple techniques to bypass its built-in safeguards. While initial responses often appeared benign, carefully crafted follow-up prompts elicited detailed malicious outputs, ranging from phishing kits to attack instructions for techniques such as SQL injection and lateral movement.\nUnit 42 researchers used two tested jailbreaking techniques (Deceptive Delight and Bad Likert Judge) and a new method called Crescendo against DeepSeek models. “We achieved significant bypass rates, with little to no specialised knowledge or expertise being necessary,” the team said.\n“Our research findings show that these jailbreak methods can elicit explicit guidance for malicious activities. These activities include data exfiltration tooling, keylogger creation and even instructions for incendiary devices, demonstrating the tangible security risks posed by this emerging class of attack,” it said.\nWhile it can be challenging to guarantee complete protection against all jailbreaking techniques for a specific LLM, organisations can implement security measures that can help monitor when and how employees are using LLMs. This becomes crucial when employees are using unauthorised third-party LLMs, a cybersecurity expert said.\nPublished on August 14, 2025\nComments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.\nWe have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social networking",
+    "Social Issue->values",
+    "Social Issue->social problem",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:43:39.805+03:00",
+  "updated": "2025-08-14T10:00:11.000+03:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "ad6285a15783104f65e752b35dee5665bedb4726",
+    "url": "https://habr.com/ru/news/980328/",
+    "site_full": "habr.com",
+    "site": "habr.com",
+    "site_section": "https://habr.com/ru/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Публикации &#x2F; Моя лента &#x2F; Хабр",
+    "site_title": "Publications &#x2F; My feed &#x2F; Habr",
+    "title": "Стартап Groq обещал чипы дешевле и быстрее GPU Nvidia. Хуанг купил его команду за $20 млрд",
+    "title_full": "Стартап Groq обещал чипы дешевле и быстрее GPU Nvidia. Хуанг купил его команду за $20 млрд",
+    "published": "2025-12-25T08:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://habrastorage.org/getpro/habr/upload_files/e4c/210/d94/e4c210d94559338b096b467b7db398c5.jpg",
+    "performance_score": 0,
+    "domain_rank": 3667,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ad6285a15783104f65e752b35dee5665bedb4726",
+  "url": "https://habr.com/ru/news/980328/",
+  "ord_in_thread": 0,
+  "author": "Андрей Пешков",
+  "published": "2025-12-25T08:27:00.000+02:00",
+  "title": "Стартап Groq обещал чипы дешевле и быстрее GPU Nvidia. Хуанг купил его команду за $20 млрд",
+  "text": "Nvidia заплатит около $20 млрд за неэксклюзивную лицензию на технологию инференса стартапа Groq и наймет его ключевых сотрудников. Основатель и CEO Groq Джонатан Росс, президент Санни Мадра и часть инженерной команды переходят в Nvidia. Сама Groq продолжит работать как независимая компания под руководством нового CEO Саймона Эдвардса, облачный сервис GroqCloud останется доступен клиентам. Однако стартап лишился людей, которые его создавали.\nGroq с момента основания в 2016 году позиционировала себя как альтернативу доминированию Nvidia на рынке AI-ускорителей. В феврале 2024 года инвестор компании Чамат Палихапития заявил в подкасте All-In, что клиенты \"проводят стресс-тесты и приходят к выводу, что мы значительно быстрее и дешевле любого решения Nvidia\". Стартап привлек около $1,8 млрд инвестиций от Samsung, BlackRock и 1789 Capital, последний раунд в сентябре 2025 года оценил компанию в $6,9 млрд. В феврале 2025-го Groq заключила контракт с Саудовской Аравией на $1,5 млрд для развертывания инференс-инфраструктуры в регионе. Однако уже в июле компания снизила прогноз выручки на 2025 год с $2 млрд до $500 млн, сославшись на задержки с вводом дата-центров.\nGroq разрабатывает LPU (Language Processing Unit) — процессор, спроектированный исключительно для инференса. В отличие от GPU, LPU использует только встроенную SRAM-память без внешней HBM, а исполнение инструкций полностью детерминировано и управляется компилятором. По данным независимого сервиса Artificial Analysis, Groq действительно показывает высокую скорость вывода на крупных моделях. В их замерах API Groq для Llama 2 Chat 70B выдавал 241 токен/с, а для Llama 3.3 70B — 276 токенов/с. Второе поколение чипов на 4-нм техпроцессе Samsung было анонсировано в 2023 году с запуском во второй половине 2025-го — но пока эти новости не подтвердились.\nСтруктура сделки — лицензирование технологии плюс найм команды вместо прямого поглощения — стала типичной для биг-теха в последние два года. Amazon аналогично поступила с Adept AI в 2024 году, Google — с Character.AI, сама Nvidia в сентябре 2025-го заплатила более $900 млн за CEO и технологии стартапа Enfabrica. Такая схема позволяет обходить антимонопольное регулирование: формально компания не приобретается, а значит, сделка не требует одобрения регуляторов. Nvidia уже находится под вниманием антимонопольных органов ЕС, Великобритании и Китая из-за контроля над до 90% рынка AI-чипов.\nP.S. Поддержать меня можно подпиской на канал \"сбежавшая нейросеть\", где я рассказываю про ИИ с творческой стороны.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business financing",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://t.me/ai_exee",
+    "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale",
+    "https://www.t.me/ai_exee",
+    "https://www.groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T09:05:23.384+02:00",
+  "updated": "2025-12-25T09:10:22.000+02:00"
+}

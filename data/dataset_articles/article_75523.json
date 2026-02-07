@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "8104d8f83fa11ba982d31329f039a6f35d277de6",
+    "url": "https://www.gamepressure.com/newsroom/noticed-fps-drops-in-stalker-2-this-could-mean-memory-leak/z075b2",
+    "site_full": "www.gamepressure.com",
+    "site": "gamepressure.com",
+    "site_section": "https://www.gamepressure.com",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "Gamepressure - Game Reviews, News and Game Guides | gamepressure.com",
+    "title": "Noticed FPS Drops in STALKER 2? This Could Mean Memory Leak",
+    "title_full": "Noticed FPS Drops in STALKER 2? This Could Mean Memory Leak",
+    "published": "2024-11-22T13:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.gracza.pl/i_gp/h/22/469975459.jpg",
+    "performance_score": 0,
+    "domain_rank": 14855,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8104d8f83fa11ba982d31329f039a6f35d277de6",
+  "url": "https://www.gamepressure.com/newsroom/noticed-fps-drops-in-stalker-2-this-could-mean-memory-leak/z075b2",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Olga Fiszer",
+  "published": "2024-11-22T13:44:00.000+02:00",
+  "title": "Noticed FPS Drops in STALKER 2? This Could Mean Memory Leak",
+  "text": "Noticed FPS Drops in STALKER 2? This Could Mean Memory Leak\nA memory leak in STALKER 2 could be the cause of the major FPS drops. Players are convinced this issue is behind the performance problems.\nSince the release of [STALKER 2](https://www.gamepressure.com/games/stalker-2/z17ee), players have been uncovering an increasing number of issues with the game. Many are now comparing its launch to [Cyberpunk 2077](https://www.gamepressure.com/games/cyberpunk-2077/za30e2), with some claiming it’s even worse. Common problems such as [controller malfunctions](https://www.gamepressure.com/newsroom/controllers-are-not-working-in-stalker-2-stick-drift-is-at-fault/za7595) on both Xbox and PC, [mouse input lags](https://www.gamepressure.com/newsroom/how-to-fix-input-lag-in-stalker-2/zd7598), [audio glitches](https://www.gamepressure.com/newsroom/audio-bugs-in-stalker-2-explained-what-to-do-when-the-sound-is-no/z8759c), [HDR](https://www.gamepressure.com/newsroom/hdr-not-working-in-stalker-2-the-zone-is-too-dark-for-many-player/z97594) making the game too dark, and [flickering textures](https://www.gamepressure.com/newsroom/flickering-textures-bug-in-stalker-2-is-a-visual-nightmare-for-ma/za759e) remain unresolved. But the most concerning issue yet might be the suspected memory leaks, which can lead to crashes and overall instability.\nWhat Exactly is a Memory Leak?\nIn video games, memory leak is when the game keeps using more and more of your computer’s memory but doesn’t release it when it’s no longer needed. Over time, this can make the game’s visuals stutter or become choppy, cause the game to feel slow and unresponsive, take longer to load, and eventually even crash.\nGames with complex systems that frequently allocate and deallocate memory can be prone to leaks if not managed carefully. Features like advanced physics, AI, or large open worlds can strain memory resources, especially if not optimized. The game may create objects (like textures, sounds, or structures) but fail to delete them when they're no longer needed, so if a loop runs indefinitely, it can continuously allocate memory without releasing it.\nIs There a Fix for Memory Leak in STALKER 2?\nPlayers have taken to [Reddit](https://www.reddit.com/r/stalker/comments/1gw7oce/memory_leak/) and [Steam](https://steamcommunity.com/app/1643320/discussions/0/4626980689722558009/?ctp=2) to share their concerns about a potential memory leak in STALKER 2. While some are unsure if this is it or just general [performance issues](https://www.gamepressure.com/newsroom/performance-in-stalker-2-stutters-and-crashes-out-of-video-memory/z77592), most seem convinced that the problem is real.\nAt the moment, nothing seems to help, even slightly. Typically, restarting the game would provide a temporary fix, but that doesn’t appear to work in this case. The development team is aware of the situation and is actively investigating the memory leak in STALKER 2.\nIf you're one of the lucky ones unaffected by technical difficulties and are enjoying your time exploring the Zone, check out our [STALKER 2 guide](https://www.gamepressure.com/stalker-2/) with an [interactive map](https://www.gamepressure.com/stalker-2/interactive-map/zc116bb). We’re constantly adding new content to ensure we cover every major aspect of the game.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.reddit.com/r/stalker/comments/1gw7oce/memory_leak/",
+    "https://steamcommunity.com/app/1643320/discussions/0/4626980689722558009/?ctp=2",
+    "https://reddit.com/r/stalker/comments/1gw7oce/memory_leak/",
+    "https://steamcommunity.com/app/1643320/discussions/0/4626980689722558009/",
+    "https://www.steamcommunity.com/app/1643320/discussions/0/4626980689722558009/?ctp=2",
+    "https://www.reddit.com/r/stalker/comments/1gw7oce/memory_leak"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:57:01.868+02:00",
+  "updated": "2024-11-22T15:57:01.868+02:00"
+}

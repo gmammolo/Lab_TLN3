@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "bf014bae22ee8aeeffd701c6a903f784890c90bd",
+    "url": "https://www.itpro.com/security/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable",
+    "site_full": "www.itpro.com",
+    "site": "itpro.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "",
+    "title_full": "",
+    "published": "2024-11-15T14:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.mos.cms.futurecdn.net/NYJaLAPcgeDkTwWWSPDYBE-1200-80.jpg",
+    "performance_score": 0,
+    "domain_rank": 4248,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bf014bae22ee8aeeffd701c6a903f784890c90bd",
+  "url": "https://www.itpro.com/security/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "courier-journal.com",
+  "published": "2024-11-15T14:46:00.000+02:00",
+  "title": "",
+  "text": "Fortinet’s patch for FortiJump, a critical missing authentication RCE flaw in FortiManager, left new vulnerabilities on the table for threat actors to exploit, according to new research.\nA new report from watchTowr Labs described how when trying to recreate the initial FortiJump vulnerability, researchers discovered a series of additional flaws, and one they considered particularly worrying.\n“[We] stumbled upon a couple of DoS vulnerabilities and what we suspect is a new vulnerability that allows an authenticated managed FortiGate device to take control of the FortiManager instance.”\nThe report has dubbed this new vulnerability ‘FortiJump Higher', and like its namesake affects FortiManager, the company’s tool for the centralized administration of FortiGate devices.\nAs such, the report warns FortiManager has a critical function in many organizations, and “you’d assume that it was built to at least the same standard as Fortinet’s other secure appliances.”\nThey added that due to the gravity of the original FortiJump flaw, and the similarity of FortJump Higher, they felt tech-savvy adversaries will likely already be aware of the weakness.\nAs such watchTowr said it decided to publish details of the issue before a patch or official remediation information could be released.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://futureplc.com/terms-conditions/",
+    "https://www.facebook.com/sharer/sharer.php?u=https://www.itpro.com/security/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable",
+    "https://twitter.com/intent/tweet?text=Researchers%20claim%20Fortinet%E2%80%99s%20FortiJump%20patch%20was%20%E2%80%98incomplete%E2%80%99%20and%20left%20users%20vulnerable&url=https://www.itpro.com/security/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable",
+    "https://newsletter-subscribe.futureplc.com/v2/submission/submit",
+    "https://labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575/",
+    "https://www.futureplc.com/terms-conditions/",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://www.labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575/",
+    "https://futureplc.com/terms-conditions",
+    "https://facebook.com/sharer/sharer.php?u=https://itpro.com/security/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable",
+    "https://www.newsletter-subscribe.futureplc.com/v2/submission/submit",
+    "https://twitter.com/intent/tweet?text=Researchers%20claim%20Fortinet%E2%80%99s%20FortiJump%20patch%20was%20%E2%80%98incomplete%E2%80%99%20and%20left%20users%20vulnerable&url=https://itpro.com/security/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable",
+    "https://twitter.com/intent/tweet",
+    "https://labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T15:10:49.480+02:00",
+  "updated": "2024-11-22T21:13:23.238+02:00"
+}

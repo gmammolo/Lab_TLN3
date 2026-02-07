@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "7fb38ffed046819bb676ac30774974a529b4028d",
+    "url": "https://nerdschalk.com/?p=413853",
+    "site_full": "nerdschalk.com",
+    "site": "nerdschalk.com",
+    "site_section": "https://nerdschalk.com/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Nerds Chalk",
+    "title": "How to Use Calibre to Manage E-books",
+    "title_full": "How to Use Calibre to Manage E-books",
+    "published": "2023-12-29T01:52:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.nerdschalk.com/wp-content/uploads/2023/12/calibre-design.png",
+    "performance_score": 0,
+    "domain_rank": 27143,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7fb38ffed046819bb676ac30774974a529b4028d",
+  "url": "https://nerdschalk.com/?p=413853",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Author Shashwat",
+  "published": "2023-12-29T01:52:00.000+02:00",
+  "title": "How to Use Calibre to Manage E-books",
+  "text": "If there was ever a perfect app, it’s Calibre! As an e-book manager, it is capable of just about everything that one could want. With it, you can read, shelf, customize, convert, edit, transfer, and even strip digital restrictions from books. With plugins that further build upon its capabilities, Calibre is really a testament to what’s possible with a single software. And yes, it’s free.\nSo if you’ve never used Calibre before and you have books to manage, here is all you need to know to get started with Calibre and set up your very own digital library.\nHow to use Calibre for e-book management (all e-readers)\nGiven the level of customization possible with Calibre, it’d be impractical to go over every little detail. So, for brevity’s sake, apart from covering the basics, we’ll only go over some important functions and a few nifty tricks so you get a hang of Calibre and can explore it further on your own (which we sincerely recommend).\nInstall Calibre and set up your Library\nDownload Calibre, run its setup, and follow the on-screen instructions to install it.\n- When you launch Calibre for the first time, choose a folder for your Calibre library. This is where all your e-books will be kept whenever they are imported into your library.\n- Then select your e-reader device. In most cases (including for Kindles), the Generic options will be enough for most use cases.\nCalibre’s library management operates on a simple search-and-sort mechanism, which is much more efficient than any folder system that one can create on one’s own.\nIf there is more than one user, create another library from the arrow next to Calibre Library in the main toolbar and select Switch/create library.\nAdd books to Calibre library\n- To add an e-book to the Calibre library, simply drag and drop it to the library.\n- Alternatively, use the Add books button at the top left corner, choose your books, and they’ll be added to your library.\nEdit Preferences\nNot everyone’s e-book management is the same. Some users prefer all their books in a particular format; others want nothing more than a new book cover; while others still want a better layout. Letting Calibre know your preferences helps in these regards so the next time you have to add, convert, edit, or view a book, you can just give the order and let Calibre take care of the rest.\n1. Set preferred output format\nAlthough you can convert e-books from one format to another whenever you like using the ‘Convert books’ option (refer to a later section for more on this), you may want to set your preferred output format from the start. Here’s how:\n- Click on Preferences in the main toolbar.\n- Click on Behavior under ‘Interface’.\n- Then select your Preferred output format from the drop-down menu and click Apply.\nIn most cases, you will want to choose the format supported by your e-reader device. For Kindles, it’s AZW3.\n2. Change library layout\nBy default, the layout for your library will list the books in the middle with a search bar at the top and a ‘Book Details’ bar (which shows things like author, publisher, format, etc) on the right. But this layout can look quite dull.\n- To spruce it up, click on Layout in the bottom right corner and choose Cover browser.\n- This will let you scroll through your books like a carousel.\n3. Connect to a book metadata source (Goodreads)\nBy default, Calibre pulls information about books in your library from a variety of sources, such as Amazon, Google, Open Library, etc. But when looking for a book’s information, you don’t need so many sources. Too many cooks spoil the broth, and also eat up a lot of bandwidth and time. Here’s how to select a single preferred book metadata source:\n- Click on Preferences and select Metadata download.\n- Here, disable all but one source, and click Apply.\nIf you want to add Goodreads as a source, you’ll need to install its plugin first. Here’s how:\n- Open Preferences and select Plugins.\n- Click on Get new plugins in the bottom left corner.\n- Search for Goodreads, select it, and click on Install > Yes. Then Restart calibre.\n- Now go to Preferences > Metadata download and make sure Goodreads is selected. Remove all other sources, and click Apply.\nConvert book format\nCalibre offers all the major formats for you to convert your e-books into. Here’s how to convert books with it:\n- Select the books in your library that you want to convert, and click on Convert books in the main toolbar.\n- Select the ‘Output format’ from the top right corner.\nNote: If you’ve already set your output format preference, you won’t have to do this.\n- Click OK and wait for the individual jobs to finish.\n- You will see your chosen format appear in the details section on the right. This means that you now have the book in your original format as well as the new format.\n- (Optional) Save the book by clicking on Save to disk (in its context menu and the main toolbar).\n- The book will be saved in all the formats.\nChange Book Covers and edit Metadata\nA book’s metadata contains important information such as its title, author, publisher, page count, synopsis, blurbs, genre tags, etc. as well as cover images of books. Metadata also helps in e-book library organization on the whole which enables a few other functions on Calibre, such as adding page numbers to books that are missing them.\nTo get a step-by-step guide, refer to our guide on\nHow to Change Book Cover using Calibre. Here’s how you can do so briefly:\n- Select your book and click on Edit metadata in the main toolbar.\n- Click on Download metadata, choose from the available metadata options for the book, and click OK.\n- Then select a cover from the available options and click OK.\n- If you have a cover of your own, in the ‘Edit metadata’ window, click on Browse under ‘Change cover’.\n- Select your book cover file, then click OK.\n- The display covers work perfectly on\nKindle’s lock screenas well.\nTransfer books between Calibre library and Kindle (and other e-readers)\nTransferring books between your Calibre library and Kindle device (or any e-reader device) is as easy as a drag-and-drop. Whenever you plug your device into your PC, you’ll see it reflected in Calibre in the form of a new column, a toolbar option at the top, and a message in the bottom left corner.\n- To transfer a book from your Calibre library to Kindle, drag the book to the Device option in the toolbar.\n- Alternatively, right-click on the book, and select Save to device > Send to main memory.\n- Once the files are successfully sent to your device, you’ll see a tick next to them under the ‘On Device’.\nYou can similarly transfer the files in the other direction, that is, from your device to your Calibre library. Here’s how:\n- Click on the Device option in the main toolbar to view the books that you have on your device.\n- Select the books you want to transfer and drag them to the Library.\n- Alternatively, right-click the book(s), and select Add books to library.\n- Once the book is successfully added to your Calibre library, you’ll see a tick next to it under the ‘In Library’ column.\nNote: You won’t be able to transfer books, such as the ones bought on Amazon, that have digital restrictions. Refer to the following section to know how to get around these.\nSupercharge Calibre with Plugins\nCalibre is quite a capable program on its own. But it is its plugins that truly elevate it to another level. You can get plugins from Preferences > Get new plugins.\nThough there are tons of useful plugins, such as the Goodreads plugin installed earlier, we’d like to direct you to two that we think stand out.\n1. Count Page – To add Page Numbers to Books\nEPUB books sent to Kindle do not get ‘page numbers’, something that does take away from the reading experience. This is where a plugin like Count Page that adds page numbers to Kindle is an indispensable instrument to have. It ultimately makes reading free e-books indistinguishable from reading bought books. Check out our full guide on\nhow to add page numbers on Kindle with this plugin.\n2. De-DRM and KFX – To remove DRM restrictions from books\nTaken together, the KFX and De-DRM plugins strip DRM restrictions from books, so you can have access to them across your devices and libraries. Although Amazon keeps changing its format to lock users from doing so, this is one that still works and even\nremoves DRM restrictions from Kindle Unlimited books.\nApart from the ones mentioned above, you may also want to check out other plugins from the ‘Get Plugin’ option, such as Ebook Translator, Import List, Language Cleaner, or any of the few dozen plugins that serve how you manage e-books.\nFAQ\nLet’s consider a few commonly asked questions about using Calibre.\nCan I manage Kindle collections with Calibre?\nAlthough it is technically possible to manage your Kindle collections with Calibre, you will need to jailbreak your Kindle first, which, given the number of features it’s going to break, is not worth it.\nCan I transfer books from Calibre to Kinde online?\nThere was a time when books from your Calibre library could be sent to your Kindle using a GMX account. However, that method is not as reliable or convenient as the official methods of\nsending books to Kindle.\nGiven the all-round capabilities of Calibre, it’s safe to say that a better book management app is yet to be created. With only a small team of contributors, Calibre has enabled many a library over the years. We hope this guide helped you organize your library with Calibre and use its most important features to improve your ebook management. Until next time! Keep reading.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "external_links": [
+    "https://www.calibre-ebook.com/download",
+    "https://calibre-ebook.com/download"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "calibre",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:40:55.947+02:00",
+  "updated": "2023-12-29T02:40:55.947+02:00"
+}

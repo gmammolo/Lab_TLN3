@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "2c9045f9cb08b1f000aa3711207e0127df68c151",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-crowdstrike-job-offer-emails-target-devs-with-crypto-miners",
+    "site_full": "www.bleepingcomputer.com",
+    "site": "bleepingcomputer.com",
+    "site_section": "http://www.bleepingcomputer.com/feed/",
+    "site_categories": [
+      "windows",
+      "hacking",
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "BleepingComputer",
+    "title": "Fake CrowdStrike job offer emails target devs with crypto miners",
+    "title_full": "Fake CrowdStrike job offer emails target devs with crypto miners",
+    "published": "2025-01-09T23:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.bleepstatic.com/content/hl-images/2024/07/21/crowdstrike-header-logo.jpg",
+    "performance_score": 0,
+    "domain_rank": 1455,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2c9045f9cb08b1f000aa3711207e0127df68c151",
+  "url": "https://www.bleepingcomputer.com/news/security/fake-crowdstrike-job-offer-emails-target-devs-with-crypto-miners",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bill Toulas",
+  "published": "2025-01-09T23:30:00.000+02:00",
+  "title": "Fake CrowdStrike job offer emails target devs with crypto miners",
+  "text": "CrowdStrike is warning that a phishing campaign is impersonating the cybersecurity company in fake job offer emails to trick targets into infecting themselves with a Monero cryptocurrency miner (XMRig).\nThe company discovered the malicious campaign on January 7, 2025, and based on the phishing email's content, it likely didn't start much earlier.\nThe attack starts with a phishing email sent to job seekers, supposedly from a CrowdStrike employment agent, thanking them for applying for a developer position at the company.\nEmail sent to job candidates\nSource: Crowdstrike The email directs targets to download a supposed \"employee CRM application\" from a website designed to appear like a legitimate Crowdstrike portal.\nThis is supposedly part of the company's effort to \"streamline their onboarding process by rolling out a new applicant CRM app.\"\nCandidates clicking on the embedded link are taken to a website (\"cscrm-hiring[.]com\") that contains links to download the said application for Windows or macOS.\nMalicious website abusing the Crowdstrike brand\nSource: Crowdstrike The downloaded tool performs sandbox checks before fetching additional payloads to ensure it's not running in an analysis environment, like checking the process number, CPU core count, and the presence of debuggers.\nOnce those checks are over and the result is negative, aka the victim qualifies for infection, the application generates a bogus error message informing that the installer file is probably corrupt.\nFake error message\nSource: Crowdstrike In the background, the downloader retrieves a configuration text file containing the required parameters for running XMRig.\nIt then downloads a ZIP archive containing the miner from a GitHub repository and unzips the files in '%TEMP%\\System\\.'\nThe miner is set to run in the background, consuming minimal processing power (max 10%) to avoid detection.\nA batch script is added in the Start Menu Startup directory for persistence between reboots, while a logon autostart key is also written in the registry.\nMore details on the campaign and indicators of compromise associated with it can be found in Crowdstrike's report .\nJob seekers should always confirm they are speaking to an actual recruiter by verifying the email address belongs to the official company domain and by contacting that person from the official firm's page.\nBeware of urgent or unusual requests, offers that are too good to be true, or invitations to download executable files on your computer, supposedly required for recruitment.\nEmployers rarely, if ever, require candidates to download third-party applications as part of an interview process and never request upfront payments.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->fraud",
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.crowdstrike.com/en-us/blog/recruitment-phishing-scam-imitates-crowdstrike-hiring-process/",
+    "https://www.crowdstrike.com/en-us/blog/recruitment-phishing-scam-imitates-crowdstrike-hiring-process",
+    "https://crowdstrike.com/en-us/blog/recruitment-phishing-scam-imitates-crowdstrike-hiring-process/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T00:29:37.000+02:00",
+  "updated": "2025-01-29T18:56:26.986+02:00"
+}

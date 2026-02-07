@@ -1,0 +1,157 @@
+{
+  "thread": {
+    "uuid": "48240fa1d440aa151360a4b9827ca50aba8f236b",
+    "url": "https://www.washingtonpost.com/technology/2025/08/15/google-ai-overviews-scam",
+    "site_full": "www.washingtonpost.com",
+    "site": "washingtonpost.com",
+    "site_section": "https://www.xataka.com/index.xml",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_pk",
+      "top_news_gb",
+      "top_news_il",
+      "top_news_dk",
+      "top_news_se",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_sg",
+      "top_news_za",
+      "top_news_ph",
+      "top_news_us",
+      "top_news_ca",
+      "top_news_iq",
+      "top_news_ie",
+      "top_news_pt",
+      "top_news"
+    ],
+    "section_title": "Xataka",
+    "site_title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
+    "title": "Beware of this customer service scam in Google's AI Overviews - The Washington Post",
+    "title_full": "Beware of this customer service scam in Google's AI Overviews - The Washington Post",
+    "published": "2025-08-15T19:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PL33NZDVZAKVPOUDDFK7DMPJ4.gif&amp;w=1440",
+    "performance_score": 5,
+    "domain_rank": 121,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 81,
+        "comments": 34,
+        "shares": 24
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "48240fa1d440aa151360a4b9827ca50aba8f236b",
+  "url": "https://www.washingtonpost.com/technology/2025/08/15/google-ai-overviews-scam",
+  "ord_in_thread": 0,
+  "author": "Shira Ovide",
+  "published": "2025-08-15T19:30:00.000+03:00",
+  "title": "Beware of this customer service scam in Google's AI Overviews - The Washington Post",
+  "text": "Alex Rivlin was tackling a last-minute task for his European vacation. That’s how he got snagged in an artificial intelligence-enabled scam.\nAnalysis by\nThere’s a new AI twist on a travel scam that has fooled people for years. Here’s what you need to know.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->consumer goods",
+    "Social Issue->social problem",
+    "Social Issue->social networking",
+    "Social Issue->discrimination",
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alex Rivlin",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Washington Post",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_pk",
+      "top_news_gb",
+      "top_news_il",
+      "top_news_dk",
+      "top_news_se",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_sg",
+      "top_news_za",
+      "top_news_ph",
+      "top_news_us",
+      "top_news_ca",
+      "top_news_iq",
+      "top_news_ie",
+      "top_news_pt",
+      "top_news"
+    ],
+    "bias": "left",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T08:04:54.228+03:00",
+  "updated": "2025-08-21T08:10:41.000+03:00"
+}

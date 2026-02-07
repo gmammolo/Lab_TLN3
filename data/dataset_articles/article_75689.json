@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "8e7c5213d43608d02a7836a698983bcf2e5cdbb4",
+    "url": "https://www.medpagetoday.com/neurology/opioids/113720",
+    "site_full": "www.medpagetoday.com",
+    "site": "medpagetoday.com",
+    "site_section": "https://www.medpagetoday.com/",
+    "site_categories": [
+      "health"
+    ],
+    "section_title": "Medical News | MedPage Today",
+    "title": "Study Questions Genetic Test for Opioid Addiction Risk | MedPage Today",
+    "title_full": "Study Questions Genetic Test for Opioid Addiction Risk | MedPage Today",
+    "published": "2025-01-10T00:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.medpagetoday.net/media/images/113xxx/113720.jpg",
+    "performance_score": 0,
+    "domain_rank": 3444,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8e7c5213d43608d02a7836a698983bcf2e5cdbb4",
+  "url": "https://www.medpagetoday.com/neurology/opioids/113720",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Judy George",
+  "published": "2025-01-10T00:14:00.000+02:00",
+  "title": "Study Questions Genetic Test for Opioid Addiction Risk | MedPage Today",
+  "text": "A new study questioned the clinical utility of an algorithm meant to predict opioid use disorder (OUD) risk based on 15 genetic variants.\nIn a case-control analysis of more than 450,000 adults, the 15 variants collectively accounted for just 0.40% of the variation in OUD risk, according to Henry Kranzler, MD, of the University of Pennsylvania Perelman School of Medicine in Philadelphia, and co-authors. In comparison, age and sex alone accounted for 3.27% of the variance.\nA machine-learning model using the 15 variants as predictive factors correctly identified case and control status 52.83% (95% CI 52.07-53.59) of the time, Kranzler and colleagues reported in JAMA Network Open .\nThe variants are used in the AvertD test , which the FDA approved in December 2023 to predict opioid addiction risk.\n\"These findings underscore the need for more robust and complete data, particularly given the complex nature of psychiatric conditions, including OUD,\" Kranzler said in a statement. \"The potential harms deriving from a faulty genetic test for OUD include both false negatives and false positives.\"\nAndrew Kolodny, MD, an opioid policy expert at Brandeis University in Massachusetts who was not involved with the study, agreed. \"This study provides further strong evidence that the FDA made a serious mistake when it approved AvertD,\" he said.\n\"The evidence is clear that the test doesn't work. It can't predict OUD any better than a coin flip,\" Kolodny told MedPage Today .\n\"Keep in mind that this sham genetic test for OUD is not benign,\" he added. \"A negative result will leave prescribers and patients with a false sense of security about opioid use, and a positive test may frighten people from ever taking an opioid, even when opioid use is beneficial.\"\nGenetic tests for opioid addiction have a checkered history . Like other tests of complex traits, confounding is part of the problem.\nLast year, a group of 31 physicians and researchers, including Kranzler and Kolodny, called on the FDA to reverse its decision about AvertD. More recently, experts expressed concerns in Lancet Psychiatry about using AvertD in clinical settings.\nAvertD detects the presence of 15 single nucleotide variants (SNVs) to help identify people who may have an increased risk of OUD. It's intended to be used in combination with clinical evaluations and patient assessments when oral prescription opioids are being considered to treat acute pain. The manufacturer reports an overall sensitivity of 82.8% and specificity of 79.2%.\nIn their case-control study, Kranzler and colleagues examined the association between the 15 candidate genetic variants and OUD risk using electronic health record data from 452,664 participants in the VA's Million Veteran Program from 1992 to 2022. They also tried to determine whether the 15 SNVs were associated with genetic similarity rather than OUD risk.\nAll participants had been exposed to opioids. Cases were determined through diagnostic codes; controls had neither an OUD diagnosis code nor prescriptions for medications commonly used to treat OUD.\nThe sample included 33,669 OUD cases; the mean age was 61 years, and 90.46% were male. Genetically inferred ancestry was 67.46% European, 20.90% African, 9.50% admixed American, 0.81% East Asian, and 0.07% South Asian. While the paper didn't define the admixed American category, it can refer to groups with complex ancestry due to mixing of populations from various continents.\nIn single-SNV models that did not account for genetic similarity, 13 of 15 SNVs were associated with OUD risk after Bonferroni correction. After including measures of global genetic similarity, that number fell to three.\nIn test data, a machine-learning model using the 15 variants correctly identified 50.72% of OUD cases (sensitivity) and 54.95% of controls (specificity). Of the model's identified cases, 52.96% were true cases (positive predictive value). Of the identified controls, 52.72% were true controls (negative predictive value).\nThe study had several limitations, Kranzler and co-authors acknowledged. The models were evaluated using electronic health record diagnosis codes, which may be biased. While the Million Veteran Program sample was predominantly male, the analyses included over 40,000 women, including more than 2,500 women with OUD.\nThe Million Veteran Program sample also has higher rates of OUD and pain and is older than the general population. \"We encourage efforts to evaluate the 15 genetic variants in additional datasets,\" Kranzler and colleagues said.\nIn addition, the researchers used genetically inferred ancestry groups as a population descriptor. The Million Veteran Program used array genotyping, which is less accurate than mass spectrometry, and imputation was required for about half of the SNVs.\nSOLVD Health, the company that offers AvertD, \"is confident in the clinical validity and rigor\" of the test, said Ron McCullough, PhD, MBA, its senior vice president of clinical operations. \"The researchers in the recent JAMA publication did not have access to our technology; therefore, any comparisons or conclusions in the article to AvertD are invalid,\" he wrote in an email to MedPage Today .\n\"The study relied on non-validated data, biased study populations, and methods inconsistent with established research and clinical standards, limiting its applicability,\" McCullough continued. \"These limitations undermine their study's conclusions, which contrast sharply with the robust validation and regulatory review behind AvertD.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Health->health organisation",
+    "Health->medical service",
+    "Health->medical profession",
+    "Science and Technology->medical research",
+    "Science and Technology->biomedical science",
+    "Social Issue->social services",
+    "Social Issue->addiction",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828866",
+    "https://fda.report/media/162381/CCCTDP-102022-SOLVD-AvertD-PackageInsert.pdf",
+    "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(24)00310-9/abstract",
+    "https://www.research.va.gov/mvp/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0376871621006104?via%3Dihub",
+    "https://sciencedirect.com/science/article/abs/pii/S0376871621006104?via%3Dihub",
+    "https://www.research.va.gov/mvp",
+    "https://research.va.gov/mvp/",
+    "https://thelancet.com/journals/lanpsy/article/PIIS2215-0366(24)00310-9/abstract",
+    "https://www.jamanetwork.com/journals/jamanetworkopen/fullarticle/2828866",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0376871621006104",
+    "https://www.fda.report/media/162381/CCCTDP-102022-SOLVD-AvertD-PackageInsert.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Henry Kranzler",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "University of Pennsylvania Perelman School of Medicine",
+        "sentiment": "none"
+      },
+      {
+        "name": "FDA",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:16:36.295+02:00",
+  "updated": "2025-01-10T01:16:36.295+02:00"
+}

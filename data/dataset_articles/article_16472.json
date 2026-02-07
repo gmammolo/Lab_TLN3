@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "acd3220f4ecb92560b274d0e9c710c2535f88c89",
+    "url": "http://field.10jqka.com.cn/20250612/c668847064.shtml",
+    "site_full": "field.10jqka.com.cn",
+    "site": "10jqka.com.cn",
+    "site_section": "http://news.10jqka.com.cn/cjkx_list/",
+    "site_categories": [
+      "financial_news",
+      "finance"
+    ],
+    "section_title": "产经快讯_财经_同花顺财经",
+    "site_title": null,
+    "title": "夸克发布首个高考志愿大模型 为考生提供个性化志愿决策服务",
+    "title_full": "夸克发布首个高考志愿大模型 为考生提供个性化志愿决策服务",
+    "published": "2025-06-12T10:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 7186,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "acd3220f4ecb92560b274d0e9c710c2535f88c89",
+  "url": "http://field.10jqka.com.cn/20250612/c668847064.shtml",
+  "ord_in_thread": 0,
+  "author": "证券日报网",
+  "published": "2025-06-12T10:42:00.000+03:00",
+  "title": "夸克发布首个高考志愿大模型 为考生提供个性化志愿决策服务",
+  "text": "本报讯(记者袁传玺)6月12日，阿里智能信息事业群旗下夸克发布国内首个为高考志愿填报场景开发的高考志愿大模型，并同步上线“高考深度搜索”“志愿报告”“智能选志愿”三大核心功能。该模型具备专家级决策能力，能够为每位考生提供精准、个性化的志愿填报服务。\n　　高考志愿大模型驱动的夸克“志愿报告”以Agent(智能体)方式运行，目前已开放试用。它能像经验丰富的志愿填报专家一样，为考生提供个性化的规划建议。基于“任务规划—执行—检查—反思”的链式推理流程，夸克志愿报告会自动输出涵盖冲稳保策略、志愿表、院校专业推荐等内容的完整报告。\n　　“志愿报告”Agent以考生的成绩、兴趣偏好、家庭背景和地域倾向等为基础，会首先制定个性化任务规划(如定位成绩段、筛选专业方向、制定填报策略等)；随后将任务转化为指令，基于高质量数据完成任务执行。\n　　每轮执行结果模型经过自动检查，会判断是否存在逻辑冲突、数据缺漏、排序异常等问题，并将结果反馈至“反思”模块。通过评估结果与需求的差异不断优化后续策略，从而实现动态修正与智能迭代。\n　　例如，当考生倾向选择省内且要求985院校时，模型在执行任务后，面对省内985院校较少的情况，会像志愿专家一样尝试推荐适合的外省985高校。\n　　夸克高考志愿大模型支撑的另一个功能是“高考深度搜索”，当用户输入如“江苏物理组考生584分，性格内向，想找稳定工作”这类复杂查询时便会触发。为提升回答的准确性与专业性，模型会将考生的真实需求精细化拆解，每一类需求都对应定制化的回答范式与要点，确保回复兼具针对性与深度。\n　　与常见通用大模型多依赖网络文章或过往年份数据不同，夸克高考志愿大模型搭载了一套国内最大的实时更新、结构严谨的高考知识库。该知识库对高考相关权威站点实现近100%覆盖，涵盖全国2900多所高校、近1600个本科专业，系统整合了院校分数线、专业设置、课程体系等核心教学信息。\n　　夸克高考知识库还投入海量资源对每个省份的高考政策及权威解读进行梳理、实时更新。通过OCR提取、多源交叉比对与人工抽检等多重机制，实现高可信度的数据引入与结构化治理，确保模型所依赖的数据具备权威性和可验证性。\n　　夸克算法负责人蒋冠军表示：“高考志愿填报是一个信息密集、决策复杂的场景。我们希望通过高考志愿大模型在信息处理和需求理解方面的专业优势，让每一个考生、每一个家庭都能够获得全面的参考。”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Education",
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Education->students",
+    "Education->educational testing and examinations",
+    "Education->entrance examination",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Science and Technology->scientific innovation",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-12T10:56:06.375+03:00",
+  "updated": "2025-06-12T08:12:56.000+00:00"
+}

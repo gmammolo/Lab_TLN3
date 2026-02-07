@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "e2437419b658c9eeda40beb39c5a5eb9fa09413e",
+    "url": "https://www.nbclosangeles.com/news/local/fourth-of-july-beachgoers-warned-of-high-bacteria-at-local-beaches/3737580",
+    "site_full": "www.nbclosangeles.com",
+    "site": "nbclosangeles.com",
+    "site_section": "https://www.nbclosangeles.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "NBC4 Los Angeles &#8211; Southern California news, weather",
+    "site_title": "NBC4 Los Angeles &#8211; Southern California news, weather",
+    "title": "Fourth of July beachgoers warned of high bacteria at local beaches",
+    "title_full": "Fourth of July beachgoers warned of high bacteria at local beaches",
+    "published": "2025-07-03T05:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3260,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e2437419b658c9eeda40beb39c5a5eb9fa09413e",
+  "url": "https://www.nbclosangeles.com/news/local/fourth-of-july-beachgoers-warned-of-high-bacteria-at-local-beaches/3737580",
+  "ord_in_thread": 0,
+  "author": "City News Service",
+  "published": "2025-07-03T05:48:00.000+03:00",
+  "title": "Fourth of July beachgoers warned of high bacteria at local beaches",
+  "text": "As beachgoers plan their Fourth of July outings, the Los Angeles County Department of Public Health advised people to avoid ocean waters at eight area beaches due to high bacteria levels.\nThe affected beaches are:\nAvalon Beach at Catalina Island, 50 feet west of the pier, and the Step Beach swim area east of the Casino arch; Santa Monica Beach, Santa Monica North Tower 12 and 100 yards up and down the coast from the storm drain; Ramirez Creek at Paradise Cove, 100 yards up and down the coast from the pier; The Bel Air Bay Club at Will Rogers State Beach, 100 yards up and down coast from the club border fence; Mothers Beach in Marina Del Rey, entire swim area; Castlerock Storm Drain at Topanga County Beach, 100 yards up and down the coast from the storm drain; Santa Monica Pier, 100 yards up and down the coast from the pier; and Inner Cabrillo Beach in San Pedro, entire swim area. Meanwhile, an earlier warning has been lifted for Venice Beach (windward storm drain), where recent samples produced water-quality levels within state standards, the health department said.\nRecorded information on beach conditions is available 24 hours a day on the county’s beach closure hotline, 1 800-525-5662. A map of impacted locations and more information can be found here.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Social Issue"
+  ],
+  "topics": [
+    "Health->health organisation",
+    "Health->communicable disease",
+    "Health->public health",
+    "Social Issue->social services",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://publichealth.lacounty.gov/phcommon/public/eh/water_quality/beach_grades.cfm/",
+    "http://www.publichealth.lacounty.gov/phcommon/public/eh/water_quality/beach_grades.cfm/",
+    "http://publichealth.lacounty.gov/phcommon/public/eh/water_quality/beach_grades.cfm"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Topanga County Beach",
+        "sentiment": "none"
+      },
+      {
+        "name": "Inner Cabrillo Beach",
+        "sentiment": "none"
+      },
+      {
+        "name": "Step Beach",
+        "sentiment": "none"
+      },
+      {
+        "name": "Island",
+        "sentiment": "none"
+      },
+      {
+        "name": "North",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rey",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Los Angeles County Department of Public Health",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-07-03T09:12:28.031+03:00",
+  "updated": "2025-07-03T06:15:19.000+00:00"
+}

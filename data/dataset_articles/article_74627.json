@@ -1,0 +1,66 @@
+{
+  "thread": {
+    "uuid": "79efeaeb3f0a6955c6d7aa3ea92efaced8a91048",
+    "url": "https://discuss.streamlit.io/t/error-could-not-install-packages-due-to-an-oserror-errno-13-permission-denied/85729",
+    "site_full": "discuss.streamlit.io",
+    "site": "streamlit.io",
+    "site_section": "https://discuss.streamlit.io/latest.rss",
+    "site_categories": [],
+    "section_title": "Streamlit - Latest topics",
+    "title": "ERROR: Could not install packages due to an OSError: [Errno 13] Permission denied",
+    "title_full": "ERROR: Could not install packages due to an OSError: [Errno 13] Permission denied",
+    "published": "2024-11-15T15:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://global.discourse-cdn.com/streamlit/original/3X/e/a/ea3b6d1555d278c9bc0cdaf48a1bfaff11ca58e7.svg",
+    "performance_score": 0,
+    "domain_rank": 31154,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "79efeaeb3f0a6955c6d7aa3ea92efaced8a91048",
+  "url": "https://discuss.streamlit.io/t/error-could-not-install-packages-due-to-an-oserror-errno-13-permission-denied/85729",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Abdelrahman1",
+  "published": "2024-11-15T15:27:00.000+02:00",
+  "title": "ERROR: Could not install packages due to an OSError: [Errno 13] Permission denied",
+  "text": "Hello everyone, i am a beginner on streamlit and I need your help with fixing an issue that I couldn’t fix even with ChatGPT\nI am having an issue with deploying my Streamlit app. i am trying to use a spaCy model with my streamlit app and here is the code: ‘’’ try: nlp = spacy.load(“en_core_web_md”) except: spacy.cli.download(‘en_core_web_md’) nlp = spacy.load(“en_core_web_md”) ‘’’\nthe purpose of this part of the code is to import the spaCy library then check if the “en_core_web_md” model is installed or not and if not it should install it.\nThe code runs smoothly on my local machine with no errors, however, when I uploaded my files to github and deployed the app I get this error message\nInstalling collected packages: en-core-web-md ERROR: Could not install packages due to an OSError: [Errno 13] Permission denied: '/home/adminuser/venv/lib/python3.12/site-packages/en_core_web_md' Check the permissions.\nhow can I fix this issue? Thank you in advance.\nI tried installing it locally, and noticed that the url that actually gets installed is this one\nIf you try pip install https://github... with that url, it should work\npip install https://github...\nSo, to make it accessible on streamlit community cloud, you can add that url https://....whl to your requirements.txt along with spacy. It’s not the ideal solution, but should work.\nhttps://....whl\nrequirements.txt\nThanks for stopping by! We use cookies to help us understand how you interact with our website. By clicking “Accept all”, you consent to our use of cookies. For more information, please see our privacy policy.\nThese cookies are necessary for the website to function and cannot be switched off. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us understand how visitors move around the site and which pages are most frequently visited.\nThese cookies are used to record your choices and settings, maintain your preferences over time and recognize you when you return to our website. These cookies help us to personalize our content for you and remember your preferences.\nThese cookies may be deployed to our site by our advertising partners to build a profile of your interest and provide you with content that is relevant to you, including showing you relevant ads on other websites.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:42:19.795+02:00",
+  "updated": "2024-11-15T18:42:19.795+02:00"
+}

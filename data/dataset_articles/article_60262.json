@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "a47553e293ac20519fdf8a6ba4fa8ab32f772c18",
+    "url": "https://www.bankinfosecurity.com/renewed-infostealer-campaign-targets-ukrainian-military-a-25443",
+    "site_full": "www.bankinfosecurity.com",
+    "site": "bankinfosecurity.com",
+    "site_section": "https://www.cuinfosecurity.com/digital-forensics-c-315",
+    "site_categories": [
+      "media",
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Forensics - credit unions information security",
+    "title": "Renewed Info Stealer Campaign Targets Ukrainian Military",
+    "title_full": "Renewed Info Stealer Campaign Targets Ukrainian Military",
+    "published": "2024-06-06T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/renewed-infostealer-campaign-targets-ukrainian-military-showcase_image-5-a-25443.jpg",
+    "performance_score": 0,
+    "domain_rank": 12274,
+    "domain_rank_updated": "2024-06-04T13:08:15.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a47553e293ac20519fdf8a6ba4fa8ab32f772c18",
+  "url": "https://www.bankinfosecurity.com/renewed-infostealer-campaign-targets-ukrainian-military-a-25443",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@BnkInfoSecurity",
+  "published": "2024-06-06T03:00:00.000+03:00",
+  "title": "Renewed Info Stealer Campaign Targets Ukrainian Military",
+  "text": "Cyberwarfare / Nation-State Attacks , Fraud Management & Cybercrime Renewed Info Stealer Campaign Targets Ukrainian MilitaryCERT-UA Says Threat Actor 'Vermin' Used Syncthing Application Ukrainian cyber defenders said Russian intelligence hackers operating from the occupied Donbas city of Luhansk targeted military email inboxes with an info stealer. See Also: Check Kiting In The Digital Age The Computer Emergency Response Team of Ukraine on Thursday said a group it tracks as UAC-0020 - also known as \"Vermin\" - deployed a malware strain dubbed \"Spectr\" as part of a spear-phishing campaign. The phishing email appears to contain password-protected information about a gun turret. An attachment contains an archive folder with three files: a decoy PDF, an executable file and a batch file. The executable contains Spectr malware bundled with a modified version of Syncthing, a legitimate open-source, peer-to-peer synchronization application. The hackers made modifications that included disabling the user notifications of Syncthing. The malware steals documents, files, passwords and other information - including data from the victims' Telegram, Signal and Skype accounts - from the infected device while operating in the background. The info stealer copies the exfiltrated data into a subfolder and transfers it using the file-sharing app. CERT-UA called the campaign \"no-so-successful,\" dubbing it \"SIckSync.\" Ukraine said Vermin is an operation of Luhansk law enforcement agencies. That region of Ukraine operated with the support of Russian-backed paramilitaries as a breakaway state from 2014 until 2022, when Russia putatively annexed it. Vermin's last known operation was in March 2022, when Ukrainian cyber defenders https://cert.gov.ua/article/37815 they detected a similar campaign deploying Spectr malware. The Russia-Ukraine war is now in its third year. Russia in May opened a new battlefront in the Kharkiv region, and the Institute for the Study of War https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-5-2024 on Wednesday that \"Russian forces are attempting to make tactically and operationally significant gains\" before renewed U.S. military assistance arrives at the front line at scale. U.S. President Joe Biden in May approved Ukrainian use of artillery to strike Russian forces in Russia. The New York Times reported Wednesday that a Ukrainian member of parliament said armed forces used that permission to destroy Russian missile launchers in the Belgorod region using an American High Mobility Artillery Rocket System.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Disaster and Accident",
+    "Crime, Law and Justice"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://cip.gov.ua/en/news/chergova-kiberataka-proti-sil-oboroni-ukrayini-zlovmisniki-vikoristali-legitimnu-programu-syncthing-razom-z-virusom-spectr",
+    "https://www.nytimes.com/2024/06/04/world/europe/ukraine-strikes-russia-western-weapons.html",
+    "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-5-2024",
+    "https://cert.gov.ua/article/37815",
+    "https://www.state.gov/secretary-antony-j-blinken-at-a-solo-press-availability-3/",
+    "https://www.state.gov/secretary-antony-j-blinken-at-a-solo-press-availability-3",
+    "https://nytimes.com/2024/06/04/world/europe/ukraine-strikes-russia-western-weapons.html",
+    "https://www.cert.gov.ua/article/37815",
+    "https://state.gov/secretary-antony-j-blinken-at-a-solo-press-availability-3/",
+    "https://www.cip.gov.ua/en/news/chergova-kiberataka-proti-sil-oboroni-ukrayini-zlovmisniki-vikoristali-legitimnu-programu-syncthing-razom-z-virusom-spectr",
+    "https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-5-2024"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "military cyberwarfare / nation-state attacks",
+        "sentiment": "negative"
+      },
+      {
+        "name": "deepfake technology the computer emergency response team",
+        "sentiment": "none"
+      },
+      {
+        "name": "uac",
+        "sentiment": "none"
+      },
+      {
+        "name": "ua",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "luhansk",
+        "sentiment": "none"
+      },
+      {
+        "name": "ukraine",
+        "sentiment": "none"
+      },
+      {
+        "name": "donbas",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-07T01:21:53.987+03:00",
+  "updated": "2024-06-14T05:23:25.165+03:00"
+}

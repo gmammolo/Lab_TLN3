@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "3ecdb8df8c8f88b685073e016e48f1b30e8a2c0a",
+    "url": "https://www.sport.de/video/en626686/makaay-ueber-kane-er-ist-grossartig/",
+    "site_full": "www.sport.de",
+    "site": "sport.de",
+    "site_section": "https://www.sport.de/fussball/co12",
+    "site_categories": [
+      "sports"
+    ],
+    "section_title": "Fußball News: Live-Ticker, Ergebnisse, Tabelle, Transfers",
+    "site_title": "Sportnachrichten: News, Ergebnisse, Liveticker, Tabellen | sport.de",
+    "title": "Makaay über Kane: \"Er ist großartig!\" | sport.de",
+    "title_full": "Makaay über Kane: \"Er ist großartig!\" | sport.de",
+    "published": "2025-11-26T20:21:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8168,
+    "domain_rank_updated": "2025-11-23T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3ecdb8df8c8f88b685073e016e48f1b30e8a2c0a",
+  "url": "https://www.sport.de/video/en626686/makaay-ueber-kane-er-ist-grossartig/",
+  "ord_in_thread": 0,
+  "author": "sport.de",
+  "published": "2025-11-26T20:21:00.000+02:00",
+  "title": "Makaay über Kane: \"Er ist großartig!\" | sport.de",
+  "text": "Der ehemalige Stürmer des FC Bayern, Roy Makaay, erklärt, warum der Torjäger Harry Kane den Ballon d’Or verdient und würdigt die Erfolge des Engländers im deutschen Verein. - Fußball, FC Bayern München, Bundesliga, Roy Makaay, Harry Kane",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": [
+    "Sport"
+  ],
+  "topics": [
+    "Sport->soccer",
+    "Sport->sport achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Harry Kane",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Roy Makaay",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "FC Bayern München",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Bundesliga",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-27T08:46:30.503+02:00",
+  "updated": "2025-11-27T08:55:59.000+02:00"
+}

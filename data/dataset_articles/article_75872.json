@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "aee09bc5f408bd8eae7e47b3778c3a4a31e275a5",
+    "url": "https://www.fudzilla.com/news/60355-intel-to-slice-off-realsense",
+    "site_full": "www.fudzilla.com",
+    "site": "fudzilla.com",
+    "site_section": "https://www.fudzilla.com/?format=feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Fudzilla.com - Home",
+    "title": "Intel to slice off RealSense",
+    "title_full": "Intel to slice off RealSense",
+    "published": "2025-01-09T23:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.fudzilla.com/media/k2/items/cache/efa760f0009a4ad6c0fd40d3cf4a8a2f_XS.jpg",
+    "performance_score": 0,
+    "domain_rank": 21085,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aee09bc5f408bd8eae7e47b3778c3a4a31e275a5",
+  "url": "https://www.fudzilla.com/news/60355-intel-to-slice-off-realsense",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "nick [AT] fudzilla [DOT] com (Nick Farrell)",
+  "published": "2025-01-09T23:03:00.000+02:00",
+  "title": "Intel to slice off RealSense",
+  "text": "For those who came in late, RealSense is known for its depth camera technology. Intel launched the RealSense Depth Module D421 in September, which has potential applications in self-driving vehicles and other computer vision tasks.\nNow, Intel intends to make RealSense an independent operation under Intel Capital, with completion expected in the first half of this year.\nIntel clarified that the decision to spin off RealSense is not related to its recent financial troubles. Instead, it aligns with Intel’s commitment to \"…incubate…leading-edge, disruptive technologies and business to validate customer need and market acceptance.\"\nIn addition to the RealSense developments, a report from Forbes provided an optimistic outlook for Intel's 18A process. The newspaper said that this year marks a critical period for the 18A process, described as \"the most advanced manufacturing technology yet\" for Intel. The 1.8 nanometer process node, RibbonFET gate-all-around transistors, and other key features represent significant advancements in Intel's production capabilities. The 1.8 nanometer process is slightly smaller than TSMC’s 2 nanometer N2 process, potentially giving Intel a competitive edge.\nOf course, if the process goes tits up it could be something Chipzilla can never recover from, but it is nice that Forbes has given it some good press for once.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Intel Capital",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T03:19:46.840+02:00",
+  "updated": "2025-01-10T03:19:46.840+02:00"
+}

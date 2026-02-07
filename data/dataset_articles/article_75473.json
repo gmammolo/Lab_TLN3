@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "dbcc479cfde82ba110cbe7967ec3dae53fc4ae28",
+    "url": "https://www.techzine.eu/news/security/126474/hackers-exploit-two-zero-days-in-palo-alto-firewalls",
+    "site_full": "www.techzine.eu",
+    "site": "techzine.eu",
+    "site_section": "https://www.techzine.eu/feed/",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Techzine Global",
+    "title": "Hackers exploit two zero-days in Palo Alto firewalls",
+    "title_full": "Hackers exploit two zero-days in Palo Alto firewalls",
+    "published": "2024-11-22T13:08:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_1425295937.jpg",
+    "performance_score": 0,
+    "domain_rank": 77165,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dbcc479cfde82ba110cbe7967ec3dae53fc4ae28",
+  "url": "https://www.techzine.eu/news/security/126474/hackers-exploit-two-zero-days-in-palo-alto-firewalls",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Floris Hulshoff Pol",
+  "published": "2024-11-22T13:08:00.000+02:00",
+  "title": "Hackers exploit two zero-days in Palo Alto firewalls",
+  "text": "PAN-OS Firewalls from Palo Alto Networks have been hit by two zero-day vulnerabilities. They are now being actively abused by hackers. Palo Alto advises administrators not to give their management interfaces for these firewalls access to the internal corporate network.\n[Palo Alto Networks indicates](https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/#post-137539-_50343o6a6han) that hackers are currently exploiting two zero-day vulnerabilities. These apply to its PAN-OS-based firewalls.\nFirst, this involves [CVE-2024-0012](https://security.paloaltonetworks.com/CVE-2024-0012) that causes an authentication bypass. More specifically, the problem occurs in the PAN-OS management Web interface. Hackers can exploit this vulnerability to gain admin privileges.\nThe second known zero-day vulnerability, [CVE-2024-9474](https://security.paloaltonetworks.com/CVE-2024-9474), causes privilege escalation within firewalls, allowing hackers with root privileges to execute commands on the attacked firewall.\nPalo Alto Networks is now investigating the vulnerabilities and is warning customers that both vulnerabilities are already being exploited at this time. The vulnerabilities would attack a “limited” number of Web interfaces and by now hackers would install malware. Possibly a so-called “chain exploit” is already available. A single patch will therefore not guarantee any safety. The monitoring of one’s environments for persistent threats is needed.\n2,700 potentially vulnerable firewalls\nThe hackers reportedly have been active since Nov. 18 from IP addresses known for proxy/tunnel traffic from anonymous VPN services. Unit 42 of Palo Alto Networks assumes that a functional exploit for both vulnerabilities is now publicly available, so more malicious actions can be expected.\nCustomers can update to the latest versions of PAN-OS for a fix. In addition, the security specialist urges administrators to restrict access to internal corporate networks for their PAN-OS Web interfaces.\nShadowServer is now monitoring 2,700 PAN-OS firewalls susceptible to these vulnerabilities.\nPrevious vulnerabilities\nThe PAN-OS firewall vulnerabilities now disclosed are not the first that Palo Alto Networks has had to deal with this year. Early this month, a warning was issued about the [CVE-2024-5910](https://security.paloaltonetworks.com/CVE-2024-5910) authentication vulnerability for the Palo Alto Networks Expedition firewall configuration migration tool.\nIn July this year, a flaw was patched that could be exploited to reset admin login credentials for online PAN Expedition servers.\nIn April 2024, another patch was released for the critical and actively exploited vulnerability [CVE-2024-3400](https://security.paloaltonetworks.com/CVE-2024-3400) for PAN-OS firewalls. This vulnerability affected more than 82,000 firewalls.\nAlso read: [Palo Alto Networks: defending against machines, with machines](https://www.techzine.eu/blogs/security/42458/palo-alto-networks-defending-against-machines-with-machines/)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Networks",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:32:55.308+02:00",
+  "updated": "2024-11-27T18:01:00.709+02:00"
+}

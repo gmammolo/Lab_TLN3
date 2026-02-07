@@ -1,0 +1,132 @@
+{
+  "thread": {
+    "uuid": "5fab9b5d4bdec9367e52997d2ab6fe1757f6c12f",
+    "url": "https://www.thestar.com.my/sport/football/2024/07/26/soccer-six-times-french-champion-bordeaux-file-for-bankruptcy",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Football: Soccer-Six-times French champion Bordeaux file for bankruptcy | The Star",
+    "title_full": "Football: Soccer-Six-times French champion Bordeaux file for bankruptcy | The Star",
+    "published": "2024-07-25T18:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/07/26/2823554.jpg",
+    "performance_score": 0,
+    "domain_rank": 2238,
+    "domain_rank_updated": "2024-07-23T13:08:24.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5fab9b5d4bdec9367e52997d2ab6fe1757f6c12f",
+  "url": "https://www.thestar.com.my/sport/football/2024/07/26/soccer-six-times-french-champion-bordeaux-file-for-bankruptcy",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "The Star Online",
+  "published": "2024-07-25T18:37:00.000+03:00",
+  "title": "Football: Soccer-Six-times French champion Bordeaux file for bankruptcy | The Star",
+  "text": "(Reuters) - Bordeaux have filed for bankruptcy just days after they were relegated to the third tier of French football after Liverpool soccer club’s owner withdrew from takeover talks, the former Ligue 1 club said on Thursday.\nEarlier this month the six-times French champions were demoted from Ligue 2 by the National Directorate of Management Control due to financial concerns.\nOnce Liverpool’s owner, Fenway Sports Group, pulled out from takeover talks, it effectively ended the club's survival hopes.\n\"It's a difficult decision that anticipates an inevitable consequence of the restructuring process underway,\" the club said in a statement.\nBordeaux will also abandon their professional status they have held since 1937 and close their renowned training academy, which has helped to develop players such as Bixente Lizarazu, Jules Kounde, and Zinedine Zidane.\n(Reporting by Tommy Lund in Gdansk, editing by Pritha Sarkar)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Economy, Business and Finance",
+    "Sport"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bixente lizarazu",
+        "sentiment": "none"
+      },
+      {
+        "name": "zinedine zidane",
+        "sentiment": "none"
+      },
+      {
+        "name": "gda",
+        "sentiment": "none"
+      },
+      {
+        "name": "jules kounde",
+        "sentiment": "none"
+      },
+      {
+        "name": "tommy lund",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "paris st germain",
+        "sentiment": "negative"
+      },
+      {
+        "name": "bordeaux",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ligue",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fenway sports group",
+        "sentiment": "none"
+      },
+      {
+        "name": "liverpool",
+        "sentiment": "none"
+      },
+      {
+        "name": "national directorate of management control",
+        "sentiment": "none"
+      },
+      {
+        "name": "reuters/stephane mahe/file photo (reuters",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "bordeaux",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-07-26T03:52:10.088+03:00",
+  "updated": "2024-07-26T06:55:10.657+03:00"
+}

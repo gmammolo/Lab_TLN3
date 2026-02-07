@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "693237f45572827eafc38f7616ecddff919e55ce",
+    "url": "https://finance.sina.cn/stock/jdts/2025-08-21/detail-infmtwex9340840.d.html?vt=4&cid=76993&node_id=76993",
+    "site_full": "finance.sina.cn",
+    "site": "sina.cn",
+    "site_section": "https://finance.sina.cn/stock/jdts",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "焦点透视_手机新浪网",
+    "site_title": null,
+    "title": "AI应用开发商怨声载道：部署成本水涨船高 钱都给微软他们赚走了_手机新浪网",
+    "title_full": "AI应用开发商怨声载道：部署成本水涨船高 钱都给微软他们赚走了_手机新浪网",
+    "published": "2025-08-21T12:44:36.728+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3092,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "693237f45572827eafc38f7616ecddff919e55ce",
+  "url": "https://finance.sina.cn/stock/jdts/2025-08-21/detail-infmtwex9340840.d.html?vt=4&cid=76993&node_id=76993",
+  "ord_in_thread": 0,
+  "author": "sina_mobile",
+  "published": "2025-08-21T12:44:36.728+03:00",
+  "title": "AI应用开发商怨声载道：部署成本水涨船高 钱都给微软他们赚走了_手机新浪网",
+  "text": "AI应用开发商怨声载道：部署成本水涨船高 钱都给微软他们赚走了\n（来源：财联社）\n财联社8月21日讯（编辑 史正丞）在本周MIT报告揭露“绝大多数企业投资AI尚未盈利”引发市场哗然之际，另一项出乎意料的现象也浮出水面：企业部署先进人工智能成本下降的趋势在2025年突然停滞。\n作为背景，2024年OpenAI、Anthropic、谷歌;)等AI巨头曾集体将旗舰模型的API调用价格下调超90%。谷歌CEO桑达尔·皮查伊甚至乐观预言，AI很快会“像空气一样，便宜到不值得计量”。\n然而，现实却远比预期残酷。从今年初开始，企业部署AI的成本几乎未见下降。Anthropic最新旗舰模型反而大幅涨价，OpenAI的GPT-5生成费用与前代持平，仅输入费用下降一半。由于推理、AI代理等功能天然消耗更多算力（以token计价），不少企业在忍耐半年后终于开始抱怨“时代变了”。\n企业账单膨胀 但收入却没跟上\n知情人士透露，财务软件开发商Intuit去年支付给微软;)Azure的账单约2000万美元，主要用于调用OpenAI模型支撑聊天机器人功能。今年，这一数字预计将飙升至3000万美元。\n更令人担忧的是，AI支出增速已远远超过公司营收增速，引发其可持续性质疑。开销增加的根源在于Intuit近期上线了更复杂的簿记代理功能，能够自动为交易分类并维护资产负债表。\n提供 “AI代理”定制服务的General Agency公司首席执行官Mohammed Nasir也表示，过去几年里AI成本一直在下降，但过去几个月里公司并没有看到成本下降方面出现实质性进展。\n与此同时，被称为“AI编程神器”的Cursor，近期也开始按照用户实际使用量追加收费，毫不意外地引发了用户社区的暴怒。\n软件服务和咨询公司Pynest的产品经理Pavel Bantsevich也介绍称，有一家建筑公司客户在云端构建了一个AI预测分析工具，一开始每月费用不到200美元。但一旦开始被大量使用，费用很快就激增至每月1万美元，即便转成自托管，每月的成本也要达到7千美元。\n上游巨头逆势受益\n在应用开发者苦苦支撑之际，上游模型商与云厂商却从中获益。微软Azure在截至6月的季度营收增长39%，超出指引数个百分点。CEO萨提亚·纳德拉透露，AI代理相关的token生成量同比增长7倍，是推动营收加速的主要动力。\nOpenAI首席执行官奥尔特曼也在上周透露，公司通过API销售模型的业务，目前已经实现盈利——尽管这种算法里应该没有包含AI训练成本和高昂的人员成本。\n尽管增长显著，由于正在进行的巨额投资，微软和其他云服务巨头也面临提高利润率的压力。纳德拉也在最新安抚股东称，微软已经找到在英伟达;)芯片上更高效运行OpenAI模型的方法，因此利润率有所改善。\n开发者抱怨“压力山大”\n面对过去半年利润惨遭严重压缩的应用开发者而言，现在正处在一个相当难熬的阶段。\nAI编程工具开发商Replit的首席执行官Amjad Masad本月早些时候表示：“现在有点令人不安的是，token价格并没有下降。那些大型公司因规模效应，经济状况确实有所好转，但他们实际上并没有降低价格。所以令人担忧的是，我们是否已经达到了一个稳定状态？”\nMasad还质疑称，那些大模型开发者是否已经形成“寡头垄断”，因此无需面对降价压力。\n作为这些AI工具的客户，眼下也处于尴尬的等待状态。\n独立应用开发者Ky-nam Nguyen透露，此前他每月为Cursor固定支付60美元，无需受到任何应用限制。但在本月涨价后，他在短短两天内就用完了套餐里的所有限额。他感慨称，现在只能庆幸没有签年付计划，否则几乎没怎么用却要支付很多钱。\n公司回应\n对于旗舰模型近期的涨价，Anthropic的一位发言人回应称，客户愿意为该公司的模型支付更高价格，因为这会转化成“可衡量的业务成果”。\n这名发言人也承认，推理模型在思考时可能会迅速消耗大量tokens，但也强调使用这些模型的公司正在向他们的客户收费以适应这些成本。\nOpenAI的发言人则回应称，由于GPT-5比此前的模型更加智能，客户获得的“性价比”实际上有所提升。该发言人还强调数个近期降价的产品，例如专注于数学和编程的纯文本模型o3。\nOpenAI总裁布洛克曼也在上周表示，公司正致力于让GPT-5更加便宜，但前提是得先把运行模型的成本降下来。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research",
+    "Science and Technology->biomedical science",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:44:36.728+03:00",
+  "updated": "2025-08-22T13:07:37.000+03:00"
+}

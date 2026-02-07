@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "c55a9cfdd4247c4dcea0e9737f37cc2d49cfb97c",
+    "url": "https://www.upr.org/utah-news/2024-10-03/this-ai-tool-could-help-cities-improve-accessibility-at-intersections",
+    "site_full": "www.upr.org",
+    "site": "upr.org",
+    "site_section": "https://www.upr.org/utah-news",
+    "site_categories": [
+      "media",
+      "7_12_education",
+      "education"
+    ],
+    "section_title": "Utah News | Utah Public Radio",
+    "title": "This AI tool could help cities improve accessibility at intersections | Utah Public Radio",
+    "title_full": "This AI tool could help cities improve accessibility at intersections | Utah Public Radio",
+    "published": "2024-10-03T20:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://npr.brightspotcdn.com/dims4/default/05fa658/2147483647/strip/true/crop/5184x2722+0+367/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2Fdd%2F3441eb0c47e59b2c547b8094d78c%2Fjohn-matychuk-l-oglswjsy8-unsplash.jpg",
+    "performance_score": 0,
+    "domain_rank": 60938,
+    "domain_rank_updated": "2024-10-01T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c55a9cfdd4247c4dcea0e9737f37cc2d49cfb97c",
+  "url": "https://www.upr.org/utah-news/2024-10-03/this-ai-tool-could-help-cities-improve-accessibility-at-intersections",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Duck Thurgood",
+  "published": "2024-10-03T20:51:00.000+03:00",
+  "title": "This AI tool could help cities improve accessibility at intersections | Utah Public Radio",
+  "text": "This AI tool could help cities improve accessibility at intersections Researchers at Utah State University are developing an AI tool to identify accessibility issues at intersections, which could make it easier for cities to find and fix those issues. There are many features intersections use for convenience and accessibility — walk signs with visual and verbal cues, curb ramps with textured bumps, and clearly marked crosswalks, to name a few. Sometimes, however, these features may be insufficient, broken, or completely absent, making it harder for especially those with disabilities to get around. “In some cities, they have a barrier in the middle of the road that a person in a wheelchair can’t get over,” said Mary Ellen Heiner, the senior coordinator of projects at USU’s [Institute for Disability, Research, Policy & Practice](https://idrpp.usu.edu/) (IDRPP). “Or even a person who’s blind, they come to that island and they can’t get on ... they don’t know where a ramp is on it, if there is one.” What causes lack of accessibility This lack of accessibility features is caused by a number of factors. Not all engineers or city planners are trained in accessibility, and even when they do know what standards to reach for, making things accessible can be more time-consuming and expensive. “A lot of times, I think we’re always trying to save money at the expense of accessibility,” said Matthew Wappett, executive director at IDRPP. A lot of infrastructure in the U.S. was also built before accessibility standards were set with the Americans with Disabilities Act (ADA) in 1990. “So we have this aging infrastructure that’s just not up to date with current standards,” Wappett said. Heiner also noted that even when things are compliant with the ADA, they may not be truly accessible because of how much the world has changed in the last 34 years. “They don’t take into consideration that buildings change, that mobility equipment has changed, that IT equipment has changed,” Heiner said. “Buildings say that they’re accessible because they follow the ADA, but they’re not given current technology that we have.” How this project helps To help with that problem, Chamberlain and his team have been [developing an AI tool](https://www.usu.edu/today/story/usu-researchers-develop-ai-tool-to-identify-accessibility-issues-at-intersections/?nl=981) for the past nearly two years that can recognize accessibility issues at intersections. Researchers train the AI by giving it thousands and thousands of images they’ve labeled with important objects, like stop signs or sidewalks. The more images they give, the more the machine can correctly identify those objects — and when they’re absent or out of place. “So far, based on their evaluation, we think our system is able to detect roughly like 87% accuracy,” said Xiaojun Qi, another investigator on the project and a professor with USU’s Department of Computer Science. The researchers have to manually label every image and then double-check the accuracy of all the data, as some mistakes can carry on into future prediction results, which takes a lot of time — they've been doing this training since early 2023. However, that front-ended work makes analyzing the accessibility of intersections much faster. Joel Pierson, a computer science undergraduate at USU who’s working on this project, explained that they can run the AI model on every intersection of Logan in less than three minutes. The report that generates is color-coded based on how accessible different intersections are, which Qi says pedestrians, especially those with disabilities, could use to find the best route for getting around town. Working with cities on accessibility The tool isn’t only useful for individuals, however. Brent Chamberlain, the project’s principal investigator, said they can use it to help cities fill in gaps of data on accessibility. “Most communities don’t really have good data on the different components of mobility infrastructure,” said Brent Chamberlain, principal investigator with the project and an associate professor at Utah State University. “We really need to know where these issues are so that we can plan ahead to fix them.” That may be all they do with some cities, but Chamberlain hopes that they can build longer-term partnerships that get into transitional planning as well. “This is like, how do we do from where we’re at now to being ADA compliant,” Chamberlain said. “And ideally, it’s not just about compliance ... it’s about inclusivity for broader populations.” ‘Broader populations’ isn’t just those with disabilities, either — a wide variety of pedestrians benefit from accessibility features, such as older people, parents with strollers, those on bikes or scooters, or even just people who walk slower. “A lot of times, these accessibility accommodations benefit a much broader swath of the population than people consider,” Wappett said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.usu.edu/today/story/usu-researchers-develop-ai-tool-to-identify-accessibility-issues-at-intersections/?nl=981)",
+    "https://idrpp.usu.edu/)",
+    "https://www.usu.edu/today/story/usu-researchers-develop-ai-tool-to-identify-accessibility-issues-at-intersections/",
+    "https://www.idrpp.usu.edu/)",
+    "https://usu.edu/today/story/usu-researchers-develop-ai-tool-to-identify-accessibility-issues-at-intersections/?nl=981)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-04T01:42:35.028+03:00",
+  "updated": "2024-10-04T01:42:35.028+03:00"
+}

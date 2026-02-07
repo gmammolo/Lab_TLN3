@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "8184bacd2695194de7a4a1b83a5870a18facac32",
+    "url": "https://cybersecuritynews.com/ldap-exploit-malware-install",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Weaponized LDAP PoC Exploit Installing Information-Stealing Malware",
+    "title_full": "Weaponized LDAP PoC Exploit Installing Information-Stealing Malware",
+    "published": "2025-01-10T09:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6NNisrjRs4NNusbp6YbNNE8ZK41XRa-5vYPkd6nwnL-4MobXeGguzkXQuj79oKOAJRP4tPM1zQww9FnoGrH4ez85PP1zAYi_1y0xM4kpmnyQIIJjK9db-oqA2Hi4LmFCdHomXvb-buETl4vvY7myCgBWxPVLANVQ9px69L5an90g9fnsWv5xS7HTq41UT/s16000/Weaponized%20LDAP%20PoC%20Exploit.webp",
+    "performance_score": 0,
+    "domain_rank": 56727,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8184bacd2695194de7a4a1b83a5870a18facac32",
+  "url": "https://cybersecuritynews.com/ldap-exploit-malware-install",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Guru Baran",
+  "published": "2025-01-10T09:30:00.000+02:00",
+  "title": "Weaponized LDAP PoC Exploit Installing Information-Stealing Malware",
+  "text": "Weaponized LDAP PoC Exploit Installing Information-Stealing Malware By Guru Baran - January 10, 2025 Security researchers are tricked into downloading and executing information-stealing malware by a fake proof-of-concept (PoC) exploit for CVE-2024-49113, dubbed LDAPNightmare.\nDuring Microsoft’s monthly Patch Tuesday release in December 2024, two significant vulnerabilities identified as CVE-2024-49112 and CVE-2024-49113 in Windows Lightweight Directory Access Protocol (LDAP) were patched.\nCVE-2024-49112 , with a 9.8 CVSS score, is a remote code execution (RCE) vulnerability that attackers can exploit by submitting specially crafted LDAP queries, allowing them to run arbitrary code on the target machine.\nA denial-of-service (DoS) vulnerability tracked as CVE-2024-49113 with a 7.5 CVSS score can be exploited to crash the LDAP service and cause interruptions in service.\nBoth flaws were considered highly significant since LDAP is widely utilized in Windows environments.\nSafebreach recently unveiled a proof-of-concept (PoC) exploit for a critical vulnerability in Windows Lightweight Directory Access Protocol (LDAP), tracked as CVE-2024-49112.\nInvestigate Real-World Malicious Links, Malware & Phishing Attacks With ANY.RUN – Try for Free\n“Although the tactic of using PoC lures as vehicle for malware delivery is not new, this attack still poses significant concerns, especially since it capitalizes on a trending issue that could potentially affect a larger number of victims”, TrendMicro said in a report shared with Cyber Security News.\nFake PoC Exploit For LDAPNightmare (CVE-2024-49113) The PoC appears to be a fork of the original creator’s malicious repository. The original Python files were replaced with the executable poc.exe, which was packed with UPX.\nThe executable’s unusual existence in a Python-based project raises suspicions, even though the repository initially appears to be normal.\nRepository containing “poc.exe” A PowerShell script is dropped and run in the %Temp% folder when a user runs the file. A Scheduled Job will be created as a result, and it will then run an encoded script.\nAfter being decoded, the script obtains another script from Pastebin that gathers the victim’s computer’s public IP address and uploads it via FTP.\nAccording to researchers , the following data is gathered, compressed using ZIP, and then uploaded using hardcoded credentials to an external FTP server.\nComputer information Process list Directory lists (Downloads, Recent, Documents, and Desktop) Network IPs Network adapters Installed updates Exfiltrating the gathered information (Source: TrendMicro) Hence, download dependencies, libraries, and code only from reputable and official sources. official sources. Watch out for repositories that appear to be hosting a tool or application that isn’t compatible with their suspicious content.\nVerify the identification of the organization or repository owner and look for anomalies or indications of malicious activity in the commit history and most recent modifications of the repository.\nAdditionally, repositories that claim to be extensively used yet have very few stars, forks, or contributors should be avoided. Look for reviews, problems, or conversations regarding the repository to spot any warning signs.\nFind this News Interesting! Follow us on Google News , LinkedIn , and X to Get Instant Updates!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://news.google.com/publications/CAAqBwgKMOffpwsw1Oq_Aw",
+    "https://x.com/The_Cyber_News",
+    "https://www.linkedin.com/company/cybersecurity-news/",
+    "https://www.trendmicro.com/en_us/research/25/a/information-stealer-masquerades-as-ldapnightmare-poc-exploit.html",
+    "https://any.run/demo/?utm_source=csn&utm_medium=article&utm_campaign=benefits_for_business&utm_content=demo_2&utm_term=090125",
+    "https://any.run/demo/",
+    "https://trendmicro.com/en_us/research/25/a/information-stealer-masquerades-as-ldapnightmare-poc-exploit.html",
+    "https://www.news.google.com/publications/CAAqBwgKMOffpwsw1Oq_Aw",
+    "https://linkedin.com/company/cybersecurity-news/",
+    "https://www.x.com/The_Cyber_News",
+    "https://www.any.run/demo/?utm_source=csn&utm_medium=article&utm_campaign=benefits_for_business&utm_content=demo_2&utm_term=090125",
+    "https://www.linkedin.com/company/cybersecurity-news"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:18:51.669+02:00",
+  "updated": "2025-01-10T15:01:10.000+02:00"
+}

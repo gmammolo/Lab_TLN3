@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "fa0562e8db4fb7fb4a3f988133cb2f26cfa3533c",
+    "url": "https://www.eetasia.com/st-eases-development-on-single-core-mpus/",
+    "site_full": "www.eetasia.com",
+    "site": "eetasia.com",
+    "site_section": "https://www.eetasia.com/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "EE Times Asia",
+    "title": "ST Eases Development on Single-core MPUs",
+    "title_full": "ST Eases Development on Single-core MPUs",
+    "published": "2024-01-02T06:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.eetasia.com/wp-content/uploads/sites/2/2024/01/N4593S-STM32CubeMP13-hero.jpg",
+    "performance_score": 0,
+    "domain_rank": 60078,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fa0562e8db4fb7fb4a3f988133cb2f26cfa3533c",
+  "url": "https://www.eetasia.com/st-eases-development-on-single-core-mpus/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Stephen Las Marias",
+  "published": "2024-01-02T06:12:00.000+02:00",
+  "title": "ST Eases Development on Single-core MPUs",
+  "text": "STMicroelectronics has launched a new software for migrating STM32 MCU code to more powerful STM32MP1 MPUs.\nSTMicroelectronics is helping engineers raise the performance of embedded-system designs to the next level with new software for migrating STM32 microcontroller code to more powerful STM32MP1 microprocessors.\nAs end-users constantly demand more features and faster response from the technology that powers their daily lives and work, brands need effective solutions to boost product performance. Industrial real-time applications are typical. Increasingly, the latest process equipment, factory-automation systems, logistics and retail technology, IoT devices, and digital signage demand greater host-system performance than microcontrollers (MCUs) typically provide.\nST’s STM32MP1 microprocessors (MPUs) address these trends, bringing a powerful Arm Cortex-A7 application-class architecture with more processing power and memory. Users can now take advantage of the new software pack, STM32CubeMP13, to migrate code originally designed for smaller, simpler MCUs and unleash the higher-performance MPU’s extra capabilities in their next-generation products.\nSTM32CubeMP13 enables an embedded bare-metal application or RTOS on STM32MP13 SoCs, giving an alternative to OpenSTLinux that ensures faster execution times compared to typical microcontrollers. Users can also ensure ported code continues to meet the original implementation’s hard real-time specifications, such as interrupt times and latency. Moreover, an RTOS can leverage the MPU’s larger memory while preserving low power consumption.\nFully integrated in the STM32Cube ecosystem, STM32CubeMP13 lets designers already using ST’s STM32 embedded microcontrollers move up to higher-performance MPU-based projects within the same, familiar development environment. This includes the STM32CubeMX device configurator, STM32CubeIDE development tools, and STM32CubeProgrammer.\nSTM32CubeMP13 comes with all necessary components needed to run embedded code on STM32MP13 Arm Cortex-A7 MPUs, including the board support package (BSP) and hardware abstraction layer (HAL). Azure RTOS (moving to Eclipse ThreadX) comes pre-integrated as an example real-time operating system. Also, code samples are provided that help embedded developers handle the extra complexity of MPU-based systems, including booting from external memory and power management including DDR-RAM self-refresh control.\nEntry-level applications leveraging STM32MP13, targeted at industrial, smart city, smart home, retail, medical, health, and wellness markets, can still be developed using the established ecosystem and OpenSTLinux distribution.\nThe software is available free of charge and ready to download now from\nhttps://www.st.com/en/embedded-software/stm32cubemp13.html.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Labor"
+  ],
+  "external_links": [
+    "https://st.com/en/embedded-software/stm32cubemp13.html.",
+    "https://www.st.com/en/embedded-software/stm32cubemp13.html?icmp=tt36491_gl_pron_dec2023",
+    "https://www.st.com/en/embedded-software/stm32cubemp13.html",
+    "https://st.com/en/embedded-software/stm32cubemp13.html?icmp=tt36491_gl_pron_dec2023",
+    "https://www.st.com/en/embedded-software/stm32cubemp13.html."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "stmicroelectronics",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-02T08:38:10.849+02:00",
+  "updated": "2024-01-02T08:38:10.849+02:00"
+}

@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "b14ab29ba56bc8c03d613b3392a5b922cf47e744",
+    "url": "https://securityboulevard.com/2024/11/palo-alto-networks-issues-ai-red-alert",
+    "site_full": "securityboulevard.com",
+    "site": "securityboulevard.com",
+    "site_section": "https://www.securityboulevard.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Home - Security Boulevard",
+    "title": "Palo Alto Networks Issues AI Red Alert",
+    "title_full": "Palo Alto Networks Issues AI Red Alert",
+    "published": "2024-11-15T03:37:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10435,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b14ab29ba56bc8c03d613b3392a5b922cf47e744",
+  "url": "https://securityboulevard.com/2024/11/palo-alto-networks-issues-ai-red-alert",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jon Swartz",
+  "published": "2024-11-15T03:37:00.000+02:00",
+  "title": "Palo Alto Networks Issues AI Red Alert",
+  "text": "SANTA CLARA, Calif. — With great promise comes potential peril. And while artificial intelligence (AI) is looked upon as a panacea for enterprises, it also poses an existential security threat.\n“We stand at the intersection of human ingenuity and technological innovation, where the game of cybersecurity has evolved into a high-stakes match,” Nir Zuk , founder and chief technology officer at Palo Alto Networks Inc., said at the company’s 2025 Cybersecurity and AI Predictions event here late Thursday.\nAs AI becomes the driving force in security operations centers (SOC), with human analysts playing a crucial but secondary role, SOCs will increasingly rely on AI-driven processes to automate tasks such as vulnerability scanning and threat detection while reserving advanced analytics and response strategies for human experts, according to the annual threat assessment.\nSecure operations are increasingly essential in the age of AI hype because more than 40% of business and technology leaders admit to lacking a full understanding of cyber-risks associated with generative AI, according to PwC’s 2024 Global Digital Trust Insights survey.\nThe rising concern over data breaches necessitates tighter control over corporate resources, Palo Alto Networks’ report cautions. Consumer web browsers are inherently insecure, with 95% of organizations reporting security incidents originating from the browser across all devices, underscoring the lack of necessary security measures to protect organizations and their employees, no matter where they work.\nThe AI arms race is a “double-edged sword” that brings a new attack surface that can expose greater sensitive information more quickly, Sam Rubin, vice president and global head of operations, Unit 42, at Palo Alto Networks, said in an interview. The good news, he added, is that AI can be used for security enhancements and as an asymmetrical defense.\nCompanies face a 2025 cybersecurity landscape, according to Palo Alto Networks, which offered several predictions. Among them:\nCybersecurity will shift toward a unified data platform. Platforms will encompass everything from code development, cloud environments and SOCs. Current fragmented systems, burdened with isolated workflows and manual processes, cannot match the speed and sophistication of modern cyberthreats.\nLarge incumbent organizations with vast data stores will take the lead in AI-driven innovation, gaining a powerful advantage over new entrants. Companies like Palo Alto Networks, which processes seven petabytes of data daily across multiple platforms and serves 85,000 customers, are positioned to dominate in a data-centric AI landscape, the company claimed. AI’s success hinges on data quality and volume, with nearly 90% of model performance relying on these elements.\nEnergy is a concern, especially in cybersecurity. A surge in AI workloads has triggered a corresponding increase in data centers worldwide, with enterprise cloud storage projected to more than double to $128 billion by 2028, according to Omdia research. This growth brings a significant rise in electricity consumption, with Big Tech’s energy demands escalating. In response, the industry will need to adopt energy-conscious strategies that include platformization, energy-efficient AI models, and quantum-based AI models, said Palo Alto Networks.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.pwc.com/bm/en/press-releases/pwc-2024-global-digital-trust-insights.html",
+    "https://pwc.com/bm/en/press-releases/pwc-2024-global-digital-trust-insights.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nir Zuk",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Palo Alto Networks Inc.",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "b14ab29ba56bc8c03d613b3392a5b922cf47e744",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T05:45:55.360+02:00",
+  "updated": "2024-11-15T05:45:55.360+02:00"
+}

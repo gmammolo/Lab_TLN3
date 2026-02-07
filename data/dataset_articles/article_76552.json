@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "486cce8851e132cf6d386567300ad1df7708dbb7",
+    "url": "https://www.c-sharpcorner.com/forums/angular-nested-router-with-app-router-returning-404-error-on-server",
+    "site_full": "www.c-sharpcorner.com",
+    "site": "c-sharpcorner.com",
+    "site_section": "https://c-sharpcorner.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "\rC# Corner - Community of Software and Data Developers\r\n",
+    "title": "Angular nested router with app router returning 404 error on server",
+    "title_full": "Angular nested router with app router returning 404 error on server",
+    "published": "2025-01-10T01:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10163,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "486cce8851e132cf6d386567300ad1df7708dbb7",
+  "url": "https://www.c-sharpcorner.com/forums/angular-nested-router-with-app-router-returning-404-error-on-server",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ravi Gaddam",
+  "published": "2025-01-10T01:24:00.000+02:00",
+  "title": "Angular nested router with app router returning 404 error on server",
+  "text": "Angular application returning 404 error (whitelabel error) with nested module routers path links, which angular application(having auth guards for each request) has been added under static folder of resources of spring boot application,no issues with hyperlinks of app router paths, it's failing when nested module routers loadig along with app router hyper link paths.\nActually app router path having logic to load nested module with loadchildren method.\nGone through many online articles but these solutions working till app router paths only , not handing nested routers with app router paths.\nCan please anybody help with this issue.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Social Issue->demographics",
+    "Social Issue->social services",
+    "Social Issue->social networking",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:11:48.932+02:00",
+  "updated": "2025-01-10T12:11:48.932+02:00"
+}

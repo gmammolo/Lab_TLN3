@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "f20c2107a9dd2e2a630ce5a62aa138234da88752",
+    "url": "https://news.knowledia.com/FR/fr/articles/microsoft-copilot-au-cour-d-une-controverse-sur-la-gestion-des-donnees-5979810643c5755584d85358404849fdba45ad77",
+    "site_full": "news.knowledia.com",
+    "site": "knowledia.com",
+    "site_section": "https://news.knowledia.com/fr",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Knowledia Actualités - France",
+    "title": "Microsoft Copilot au cœur d'une controverse sur la gestion des données sensibles en entreprise : les utilisateurs découvrent qu'ils peuvent accéder sans autorisation aux documents des RH et aux courriels du PDG",
+    "title_full": "Microsoft Copilot au cœur d'une controverse sur la gestion des données sensibles en entreprise : les utilisateurs découvrent qu'ils peuvent accéder sans autorisation aux documents des RH et aux courriels du PDG",
+    "published": "2024-11-22T11:53:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 75004,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f20c2107a9dd2e2a630ce5a62aa138234da88752",
+  "url": "https://news.knowledia.com/FR/fr/articles/microsoft-copilot-au-cour-d-une-controverse-sur-la-gestion-des-donnees-5979810643c5755584d85358404849fdba45ad77",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Stéphane le calme",
+  "published": "2024-11-22T11:53:00.000+02:00",
+  "title": "Microsoft Copilot au cœur d'une controverse sur la gestion des données sensibles en entreprise : les utilisateurs découvrent qu'ils peuvent accéder sans autorisation aux documents des RH et aux courriels du PDG",
+  "text": "Depuis son lancement, Microsoft Copilot, un assistant intelligent intégré à des outils tels que Microsoft 365, a suscité un grand intérêt pour sa capacité à automatiser et à simplifier les tâches quotidiennes. Cependant, une récente controverse a émergé : des utilisateurs ont découvert que Copilot permettait d'accéder à des informations sensibles, notamment des documents de ressources humaines (RH) ou des emails de dirigeants. Cette révélation met en lumière à la fois les possibilités offertes p... Qu'est-ce que Microsoft Copilot ?\nUn accès non maîtrisé aux données sensibles\nPourquoi ces données sont-elles accessibles via Copilot ?Microsoft Copilot fonctionne en exploitant l'intégralité des données auxquelles un utilisateur a accès dans son environnement professionnel. Si les permissions des fichiers ou des bases de données ne sont pas configurées correctement, l'assistant peut, par inadvertance, fournir des réponses ou des informations tirées de sources sensibles.\nUn problème de configuration ou de conception ? Dans la plupart des cas rapportés, le problème semble résider dans une mauvaise gestion des droits d'accès au niveau des fichiers ou des applications associées. Cependant, cela soulève également des interrogations sur la conception même de l'outil. Un assistant doté d'une telle puissance devrait inclure des mécanismes plus robustes pour empêcher l'accès accidentel à des données sensibles.\nImplications pour les entreprises\nRisques pour la sécurité des données : Les entreprises collectent et stockent des données sensibles, des informations financières aux dossiers personnels des employés. Si ces données deviennent accessibles de manière non autorisée via un outil tel que Copilot, cela pourrait entraîner des violations des réglementations sur la protection des données, comme le RGPD en Europe. Atteinte à la confidentialité : La confidentialité des communications internes, notamment celles des cadres dirigeants, est essentielle pour protéger la stratégie et les intérêts d'une organisation. La divulgation accidentelle d'emails de PDG pourrait nuire à la réputation ou à la compétitivité d'une entreprise. Perte de confiance : Les employés pourraient perdre confiance dans les systèmes technologiques s'ils craignent que leurs informations personnelles puissent être accessibles à des collègues ou à des tiers.\nComment Microsoft répond à la controverse\nLes limites actuelles de l'IA générative\nRecommandations pour les entreprises\nAuditer régulièrement…\nStéphane le calme",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://microsoft.developpez.com/actu/365035/Microsoft-Copilot-au-coeur-d-une-controverse-sur-la-gestion-des-donnees-sensibles-en-entreprise-les-utilisateurs-decouvrent-qu-ils-peuvent-acceder-sans-autorisation-aux-documents-des-RH-et-aux-courriels-du-PDG/",
+    "https://microsoft.developpez.com/actu/365035/Microsoft-Copilot-au-coeur-d-une-controverse-sur-la-gestion-des-donnees-sensibles-en-entreprise-les-utilisateurs-decouvrent-qu-ils-peuvent-acceder-sans-autorisation-aux-documents-des-RH-et-aux-courriels-du-PDG",
+    "https://www.microsoft.developpez.com/actu/365035/Microsoft-Copilot-au-coeur-d-une-controverse-sur-la-gestion-des-donnees-sensibles-en-entreprise-les-utilisateurs-decouvrent-qu-ils-peuvent-acceder-sans-autorisation-aux-documents-des-RH-et-aux-courriels-du-PDG/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T12:12:09.948+02:00",
+  "updated": "2024-11-22T12:12:09.948+02:00"
+}

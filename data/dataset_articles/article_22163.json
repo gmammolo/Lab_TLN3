@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "d5a0671b28eab4c7e9e69015a92689ab62e8ad22",
+    "url": "https://www.thestar.com.my/news/nation/2024/07/05/sabah-minister-hails-green-man-sm-muthu-as-a-hero",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/news/nation",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "Nation - News | The Star",
+    "title": "Sabah Minister hails ‘Green Man’ SM Muthu as a hero | The Star",
+    "title_full": "Sabah Minister hails ‘Green Man’ SM Muthu as a hero | The Star",
+    "published": "2024-07-05T05:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/07/05/2784967.jpg",
+    "performance_score": 0,
+    "domain_rank": 2241,
+    "domain_rank_updated": "2024-07-02T13:08:10.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d5a0671b28eab4c7e9e69015a92689ab62e8ad22",
+  "url": "https://www.thestar.com.my/news/nation/2024/07/05/sabah-minister-hails-green-man-sm-muthu-as-a-hero",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "DURIE RAINER FONG",
+  "published": "2024-07-05T05:24:00.000+03:00",
+  "title": "Sabah Minister hails ‘Green Man’ SM Muthu as a hero | The Star",
+  "text": "KOTA KINABALU: Datuk Christina Liew has paid tribute to SM Muthu who passed away recently, hailing the environmental activist as a hero.\nThe Sabah Tourism, Culture and Environment Minister said Muthu may have ruffled many feathers including those in power with his outspokenness on environmental issues but the latter stuck to his convictions in order to champion causes he believed in.\n“We welcome these kind of heroes,” she said after an event here on Thursday (July 4).\n“I call them (Muthu’s efforts) heroic acts because he doesn't care whether it pleases people, including some leaders, or not. But whatever he raised, the points are good and it's taken.\n“Why? Because only through his voices and his thoughts that we know which part is our weakness and we need to improve on them,” Liew added.\nThe Minister said this when asked to share her thoughts on Muthu who died after a two-year battle with cancer on Sunday (June 30). He was 75.\nMuthu, from Teluk Intan in Perak, came to Sabah as a young teacher in the early 1970s.\nHe passed away at his home in Kingfisher Park here at 5pm on Sunday, leaving behind his wife Mary Lau Mee Yin and children Dr Anand Nainar and Michele Nainar.\nDuring his life, Muthu was uncompromising on his stand over issues affecting Sabah and was even questioned by police and sued for bankruptcy for his convictions but yet refused to back down.\nHis unyielding stand on environmental issues including coal plants for power generation, developments at Tanjung Beach and Likas Bay here, as well as indigenous and social rights, gained him the nickname \"Green Man\".\nLiew said Muthu was not only a good environmental activist and visionary, but more importantly a good man, hoping there will be others who will follow in his footsteps.\n“I feel very saddened by his passing. And I pray that his good work will not be forgotten.\n“We will continue some of the things that he raised, we will start working on that,” she said.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Social Issue",
+    "Environment"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "datuk christina liew",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sabah minister",
+        "sentiment": "negative"
+      },
+      {
+        "name": "muthu",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sabah",
+        "sentiment": "none"
+      },
+      {
+        "name": "liew",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "teluk intan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "perak",
+        "sentiment": "none"
+      },
+      {
+        "name": "kingfisher park",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-07-05T05:50:20.238+03:00",
+  "updated": "2024-07-05T05:50:20.238+03:00"
+}

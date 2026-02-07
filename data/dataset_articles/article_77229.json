@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "2b69fc85716e91a1c585ed94cb880102dc1fefec",
+    "url": "https://www.miragenews.com/ai-chatbots-vulnerable-to-personal-data-1515009/",
+    "site_full": "www.miragenews.com",
+    "site": "miragenews.com",
+    "site_section": "https://miragenews.com/ai-used-for-oropharyngeal-cancer-staging-health-1236915",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "AI Used for Oropharyngeal Cancer Staging Health Record Extraction | Mirage News",
+    "site_title": "Australia&#039;s 24/7 live news &amp; media portal | Mirage News",
+    "title": "AI Chatbots Vulnerable to Personal Data Extraction | Mirage News",
+    "title_full": "AI Chatbots Vulnerable to Personal Data Extraction | Mirage News",
+    "published": "2025-08-14T10:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://www.kcl.ac.uk/newimages/hands-typing-at-keyboard.xee961931.jpg?w=780&amp;h=520&amp;crop=780,440,0,40&amp;f=webp",
+    "performance_score": 0,
+    "domain_rank": 11270,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2b69fc85716e91a1c585ed94cb880102dc1fefec",
+  "url": "https://www.miragenews.com/ai-chatbots-vulnerable-to-personal-data-1515009/",
+  "ord_in_thread": 0,
+  "author": "Mirage News",
+  "published": "2025-08-14T10:52:00.000+03:00",
+  "title": "AI Chatbots Vulnerable to Personal Data Extraction | Mirage News",
+  "text": "New research has revealed that AI chatbots can be easily manipulated to encourage users to reveal even more personal information.\nAI Chatbots that provide human-like interactions are used by millions of people every day, however new research has revealed that they can be easily manipulated to encourage users to reveal even more personal information.\nIntentionally malicious AI chatbots can influence users to reveal up to 12.5 times more of their personal information, a new study by King's College London has found.\nFor the first time, the research shows how conversational AI (CAIs) programmed to deliberately extract data can successfully encourage users to reveal private information using known prompt techniques and psychological tools.\nThe study tested three types of malicious AIs that used different strategies (direct, user-benefit and reciprocal) to encourage disclosure of personal information from users. These were built using 'off the shelf' large language models, including Mistral and two different versions of Llama.\nThe researchers then asked 502 people to test the models, only telling them the goal of the study afterwards.\nThey found that the CAIs using reciprocal strategies to extract information emerged as the most effective, with users having minimal awareness of the privacy risks. This strategy reflects on users' inputs by offering empathetic responses and emotional support, sharing relatable stories from others' experiences, acknowledging and validating user feelings, and being non-judgmental while assuring confidentiality.\nThese findings show the serious risk of bad actors, like scammers, gathering large amounts of personal information from people - without them knowing how or where it might be used.\nLLM-based CAIs are being used across a variety of sectors, from customer service to healthcare, to provide human-like interactions through text or voice.\nHowever, previous research shows these types of models don't keep information secure, a limitation rooted in their architecture and training methods. LLMs typically require extensive training data sets, which often leads to personally identifiable information being memorised by the models.\nThe researchers are keen to emphasise that manipulating these models is not a difficult process. Many companies allow access to the base models underpinning their CAIs and people can easily adjust them without much programming knowledge or experience.\n\"AI chatbots are widespread in many different sectors as they can provide natural and engaging interactions. We already know these models aren't good at protecting information. \"Our study shows that manipulated AI Chatbots could pose an even bigger risk to people's privacy - and unfortunately, it's surprisingly easy to take advantage of.\"\nDr Xiao Zhan, a Postdoctoral Researcher in the Department of Informatics at King's College London\n\"Our study shows that manipulated AI Chatbots could pose an even bigger risk to people's privacy - and unfortunately, it's surprisingly easy to take advantage of.\"\nThese AI chatbots are still relatively novel, which can make people less aware that there might be an ulterior motive to an interaction.\"\nDr William Seymour, a Lecturer in Cybersecurity at King's College London\n\"Our study shows the huge gap between users' awareness of the privacy risks and how they then share information. More needs to be done to help people spot the signs that there might be more to an online conversation than first seems. Regulators and platform providers can also help by doing early audits, being more transparent, and putting tighter rules in place to stop covert data collection.\"\nThe study is being presented for the first time at the 34th USENIX security symposium in Seattle.\nhere.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->psychology",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:53:20.626+03:00",
+  "updated": "2025-08-14T11:03:48.000+03:00"
+}

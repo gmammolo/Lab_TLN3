@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "d74dadf2626e082dae87aa5caa024b59f011a347",
+    "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20251001-fuertes-lluvias-desbordan-r%C3%ADos-en-la-mexicana-guadalajara",
+    "site_full": "www.rfi.fr",
+    "site": "rfi.fr",
+    "site_section": "http://es.rfi.fr/last_24/rss",
+    "site_categories": [
+      "travel",
+      "france"
+    ],
+    "section_title": "Todas las noticias internacionales - RFI",
+    "site_title": "RFI - Actualités, info, news en direct - Radio France Internationale",
+    "title": "Fuertes lluvias desbordan ríos en la mexicana Guadalajara",
+    "title_full": "Fuertes lluvias desbordan ríos en la mexicana Guadalajara",
+    "published": "2025-10-01T18:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://s.rfi.fr/media/display/2d50e120-9e0e-11f0-b1a0-005056a90284/w:1280/p:16x9/52e7cc1331d645dc341ea54727c84e4f46d759d2.jpg",
+    "performance_score": 0,
+    "domain_rank": 1427,
+    "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d74dadf2626e082dae87aa5caa024b59f011a347",
+  "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20251001-fuertes-lluvias-desbordan-r%C3%ADos-en-la-mexicana-guadalajara",
+  "ord_in_thread": 0,
+  "author": "RFI",
+  "published": "2025-10-01T18:28:00.000+03:00",
+  "title": "Fuertes lluvias desbordan ríos en la mexicana Guadalajara",
+  "text": "Fuertes lluvias desbordan ríos en la mexicana Guadalajara\nGuadalajara (México) (AFP) – Fuertes lluvias provocaron el lunes el desborde de ríos en un suburbio de Guadalajara, en el oeste de México, cerca de uno de los estadios que será sede del Mundial de fútbol 2026, informaron las autoridades.\nPrimera modificación: Última modificación:\nLa tormenta, que cayó sobre el barrio de La Martinica, rebosó el cauce de Arroyo Seco, lo que produjo una inundación que en algunos puntos elevó el nivel del agua varios metros, constató la AFP.\n\"Ya descendió lo suficiente para hacer el rescate seguro de las personas. Se han rescatado hasta el momento 96 personas, 78 adultos, el resto menores y un canino. Están en buen estado de salud\", informó Mario Alberto Espinosa, coordinador de Protección Civil de Zapopan, en Guadalajara.\nSolo hubo un lesionado en una planta de reciclaje, agregó el funcionario.\nEn la madrugada del lunes, otra tormenta cayó en los municipios de Tototlán y Zapotlán del Rey, a poco más de una hora de distancia de Guadalajara, la capital del estado de Jalisco.\nEl desborde del río El Tajo afectó a más de 450 viviendas en Tototlán, donde al menos 50 personas tuvieron que ser trasladadas a albergues, pero no se reportaron muertos ni heridos.\n© 2025 AFP",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Weather"
+  ],
+  "topics": [
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->emergency response",
+    "Weather->weather phenomena",
+    "Weather->weather warning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mario Alberto Espinosa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "La Martinica",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tototlán",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "AFP",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "AFP",
+            "exchange": "ASX"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-02T07:52:46.913+03:00",
+  "updated": "2025-10-02T08:09:03.000+03:00"
+}

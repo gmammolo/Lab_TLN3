@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "9073c1f3beab1567d19e691d9904b0595e9bb408",
+    "url": "https://jvndb.jvn.jp/en/contents/2025/JVNDB-2025-000062.html",
+    "site_full": "jvndb.jvn.jp",
+    "site": "jvn.jp",
+    "site_section": "https://jvndb.jvn.jp/en/rss/jvndb_new.rdf",
+    "site_categories": [
+      "hobbies_and_interests"
+    ],
+    "section_title": "JVNDB RSS Feed - New Entry",
+    "site_title": null,
+    "title": "Multiple vulnerabilities in Group-Office",
+    "title_full": "Multiple vulnerabilities in Group-Office",
+    "published": "2025-08-21T08:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 51561,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9073c1f3beab1567d19e691d9904b0595e9bb408",
+  "url": "https://jvndb.jvn.jp/en/contents/2025/JVNDB-2025-000062.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-21T08:03:00.000+03:00",
+  "title": "Multiple vulnerabilities in Group-Office",
+  "text": "|\nJVNDB-2025-000062\nMultiple vulnerabilities in Group-Office\n[Overview]Group-Office provided by Intermesh BV contains multiple vulnerabilities listed below.\n- Cross-site scripting (CWE-79) - CVE-2025-53504\n- Path traversal (CWE-22) - CVE-2025-53505\nRikuto Tauchi reported this vulnerability to IPA.\nJPCERT/CC coordinated with the developer under Information Security Early Warning Partnership.\nCVSS V3 Severity:\nBase Metrics\nBase Metrics\n5.4(Medium) [IPA Score]- Attack Vector: Network\n- Attack Complexity: Low\n- Privileges Required: Low\n- User Interaction: Required\n- Scope: Changed\n- Confidentiality Impact: Low\n- Integrity Impact: Low\n- Availability Impact: None\nThe above CVSS base scores have been assigned for CVE-2025-53504\nCVSS V3 Severity:\nBase Metrics:\nBase Metrics:\n4.3(Medium) [IPA Score]- Attack Vector: Network\n- Attack Complexity: Low\n- Privileges Required: Low\n- User Interaction: None\n- Scope: Unchanged\n- Confidentiality Impact: Low\n- Integrity Impact: None\n- Availability Impact: None\nThe above CVSS base scores have been assigned for CVE-2025-53505\n[Affected Products]Intermesh BV\n- Group-Office versions prior to 6.8.119\n- Group-Office versions prior to 25.0.20\n[Impact]\n- An arbitrary script may be executed in the user's web browser (CVE-2025-53504)\n- Information on the server hosting the product may be exposed (CVE-2025-53505)\n[Solution][Update the Software]\nUpdate the software to the latest version according to the information provided by the developer.\n[Vendor Information]Intermesh BV\n- Intermesh BV :\n[Group-Office open source groupware and CRM]\n[Path Traversal(CWE-22)][IPA Evaluation] [Cross-site Scripting(CWE-79)][IPA Evaluation]\n[References]\n- JVN :\n[JVN#72111431]\n[Revision History]\n- [2025/08/21]\nWeb page was published\nDate Public | 2025/08/21 |\nDate First Published | 2025/08/21 |\nDate Last Updated | 2025/08/21 |",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->population and census",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Information Security Early Warning Partnership",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:44:03.420+03:00",
+  "updated": "2025-08-21T11:49:27.000+03:00"
+}

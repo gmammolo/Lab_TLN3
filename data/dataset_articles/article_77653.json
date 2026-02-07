@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "c432997c2ac9f11fc0c678bd87c554baf2c57967",
+    "url": "https://www.computerwoche.de/article/4042794/ki-fordert-die-gesamte-it-heraus.html",
+    "site_full": "www.computerwoche.de",
+    "site": "computerwoche.de",
+    "site_section": "https://www.computerwoche.de/data-center",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Rechenzentrum | Computerwoche",
+    "site_title": "Computerwoche –  Ihr Wegweiser für die digitale Transformation",
+    "title": "KI fordert die gesamte IT heraus",
+    "title_full": "KI fordert die gesamte IT heraus",
+    "published": "2025-08-21T05:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.computerwoche.de/wp-content/uploads/2025/08/4042794-0-84121800-1755748891-HP-IT-Administration-Collaboration.png?w=1024",
+    "performance_score": 0,
+    "domain_rank": 11161,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c432997c2ac9f11fc0c678bd87c554baf2c57967",
+  "url": "https://www.computerwoche.de/article/4042794/ki-fordert-die-gesamte-it-heraus.html",
+  "ord_in_thread": 0,
+  "author": "Martin Schönauer",
+  "published": "2025-08-21T05:00:00.000+03:00",
+  "title": "KI fordert die gesamte IT heraus",
+  "text": "Vom Rechenzentrum bis zum Laptop: Das IT-Management ist gefordert wie nie zuvor, denn KI revolutioniert die gesamte IT-Infrastruktur. Und die Cloud ist keine gute Lösung – im Gegenteil.\nEin Großteil der bestehenden Rechenzentren ist KI-ungeeignet. Marktforscher prognostizieren deshalb einen erheblichen Anstieg der Investitionen. IDC meint, dass die weltweiten Ausgaben für KI-Infrastrukturen bis 2028 auf über 200 Milliarden US-Dollar anwachsen werden – eine Verdoppelung gegenüber 2024. Nvidia-CEO Jensen Huang hält diesen Wert für viel zu gering. In einer Börsenmeldung sagte er, dass „die Ausgaben für KI-Infrastrukturen bis 2028 eine Billion US-Dollar pro Jahr übersteigen werden“.\nKI: Von der Cloud ins eigene Rechenzentrum\nAuch die „AI-Usage Studie 2025“ von HP und Foundry hat ergeben, dass auf die IT-Infrastruktur hohe Anforderungen zukommen. Das betrifft vor allem den Schutz der Daten, die weniger in der Cloud, sondern stattdessen On-Premises verarbeitet werden. So sagen über 80 Prozent der Befragten, dass „Datenschutz und Datensicherheit die wichtigsten Argumente für lokale KI-Anwendungen sind“. Doch das ist nur ein Problem der KI. Weitere sind technische und rechtliche Risiken, die eine hohe Hemmschwelle darstellen. Doch die IT-Führungskräfte erwarten umfassende Fortschritte und arbeiten intensiv an den entsprechenden Maßnahmen.\nAuch Kriminelle nutzen KI – leider\nDie Bedenken der Studienteilnehmer bei der Datensicherheit sind nicht unbegründet, denn KI wird von Cyberangreifern bereits im großen Stil eingesetzt. Das US-Risiko-Beratungsunternehmen Gallagher meint, dass „75 Prozent der Sicherheitsfachkräfte im vergangenen Jahr einen Anstieg der Cyberkriminalität beobachtet haben und 85 Prozent schreiben diesen Anstieg dem Einsatz von KI zu“. Eine besonders beliebte KI-Methode sind glaubwürdige Phishing- und Spear-Phishing-Inhalte. Diesen Attacken lassen sich nur mit einem Zero-Trust-Ansatz begegnen, wie er beispielsweise von HP mit der Threat Containment-Technologie angeboten wird. Das Konzept geht davon aus, dass kein Inhalt vertrauenswürdig ist. Daher werden Inhalte nur in isolierten „virtuellen Mikromaschinen“ (Mikro-VMs), die in der Software auf dem Endgeräte-PC erstellt wurden, geöffnet. Diese ist Teil der HP Wolf Security Suite, einer umfassenden mehrschichtigen Sicherheitslösung.\nNeue Infrastruktur: Auch die Endgeräte sind betroffen\nWenn IDC und Nvidia-Chef Jensen Huang über eine „neue Infrastruktur“ reden, meinen sie nicht nur Server, Storage und Netzwerke, sondern insbesondere auch die Endgeräte, denn immer mehr KI-Workloads werden aus der Cloud oder den eigenen Servern auf die Workstations, Desktops und Laptops verlagert. Das ist wesentlich effizienter und kostengünstiger – aber nur dann, wenn diese Systeme über die erforderliche Leistung verfügen. Ein gutes Beispiel dafür sind die EliteBooks von HP. Hierbei handelt es sich um ausgefeilte KI-PCs der neuesten Generation. Sie bieten außergewöhnliche Geschwindigkeit, Anpassungsfähigkeit und nahtloses Multitasking sowie ein schnelles Bearbeiten sehr großer Datenmengen. Ergänzt werden sie durch die hoch performanten Z-Workstations im Rack- oder Laptop-Format. Und das bedeutet noch weniger Cloud Computing und damit noch mehr Einsparungen und eine bessere IT-Sicherheit.\nKI erobert die IT-Administration\nAuch in der IT-Administration kommt KI zunehmend zum Einsatz. Hier lässt sich vor allem die „Employee Experience“ (EX) verbessern, in dem die Geräteleistung und -verfügbarkeit optimiert werden. Beispielsweise lassen sich mit KI die Systemeinstellungen und die Konfigurationen automatisch anpassen. Mit Blick auf die Verfügbarkeit können KI-gestützte Systeme auch potenzielle Engpässe in der Infrastruktur, wie Hardwareausfälle oder Netzwerküberlastung, vorhersehen. Auf diese Weise kann KI dazu beitragen, Ausfallzeiten auf ein Minimum zu reduzieren.\nHP hat eine Reihe bedeutender Administrationstools in seiner neuen Workforce Experience Platform zusammengefasst. Diese KI-gestützte Analytik-Plattform bietet den IT-Administratoren auf der Basis von Telemetriedaten wichtige Einblicke in den aktuellen Zustand der Geräte-Flotte. Sie ermöglicht ein dynamisches Multi-OS-Gerätemanagement und Strategien zur Steigerung der Mitarbeiterzufriedenheit. „Indem wir unsere internen Mitarbeiterstimmungswerte nutzten und sie den PC-Leistungskennzahlen zuordneten, entwickelten wir eine Strategie zur Erneuerung von PCs, mit der sich die Zufriedenheit und Produktivität der Mitarbeiter verbessern lässt“, sagt HP Vizepräsident Tadd Koziel über den Nutzen dieser Plattform.\nKI-Anwendungen und „Lessons learned“\nSo viel zum Umbruch der KI-Technologie. Hinweise dazu, wie diese neue Technologie genutzt werden kann, finden sich auch in der HP-Foundry-Studie. Hierzu wurden die Teilnehmer über ihre KI-Anwendungen und -Erfahrungen befragt. Ein Unternehmen setzt zum Beispiel KI zur Informationsbeschaffung aus dem Internet und der Auswertung für die Entwicklung ein. „Durch diesen Vorgang konnte die Entwicklungszeit stark verkürzt werden. Die Mitarbeiter waren begeistert über die Fülle der gesammelten Daten sowie deren Aufbereitung“, zeigt sich ein Teilnehmer beeindruckt. Auch Lessons learned wurden abgefragt. Dabei brachte einer der Befragten das gesamte Spektrum der neuen KI-Probleme in einem Satz auf den Punkt: „Die wichtigsten Erkenntnisse, die wir bei der KI-Implementierung gemacht haben, beziehen sich auf die Bedeutung von Zusammenarbeit, Datenqualität, kontinuierlicher Verbesserung und effektivem Change-Management.“\nWhitepaper\nJetzt die die HP-Foundry Studienzusammenfassung “KI in Unternehmen 2025” lesen.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Social Issue->social networking",
+    "Social Issue->social services",
+    "Social Issue->communities"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://my.idc.com/getdoc.jsp?containerId=prUS52758624",
+    "https://www.hp.com/de-de/business/smb/services.html?jumpid=ba_de_od_ot_om_cm018638_co_x/dm:_N5851.3774606IQDIGITAL_418516001_610881564_233420832_10192366&dclid=COOD4-aC040DFVjhOwIdmfkpcg&gad_source=7",
+    "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=4AA8-3146DEE&jumpid=ba_de_od_ot_om_cm018638_co_x%2Fdm%3A_N5851.3774606IQDIGITAL_418803636_610839245_232855250_10192366",
+    "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=4AA8-4070DEE&jumpid=ba_de_od_ot_om_cm018638_co_x/dm:_N5851.3774606IQDIGITAL_418516001_610881564_233420832_10192366&dclid=COOD4-aC040DFVjhOwIdmfkpcg&gad_source=7",
+    "https://www.hp.com/de-de/services/workforce-solutions/workforce-experience-platform.html?jumpid=ba_de_od_ot_om_cm018638_co_x/dm:_N5851.3774606IQDIGITAL_418803636_610839245_232855250_10192366&dclid=CIaZg_GC040DFXjZOwIdOj4ArQ&gad_source=7",
+    "https://www.ajg.com/news-and-insights/features/ai-keeping-pace-with-the-cybercriminals/",
+    "https://www.nasdaq.com/articles/nvidias-next-trillion-dollar-opportunity-according-jensen-huang-and-its-something-you",
+    "https://www.hp.com/de-de/laptops/business/elitebooks.html?jumpid=ba_de_od_ot_om_cm018638_co_x/dm:_N5851.3774606IQDIGITAL_418516001_610881564_233420832_10192366&dclid=COOD4-aC040DFVjhOwIdmfkpcg&gad_source=7",
+    "https://nasdaq.com/articles/nvidias-next-trillion-dollar-opportunity-according-jensen-huang-and-its-something-you",
+    "https://h20195.www2.hp.com/v2/GetDocument.aspx",
+    "https://www.my.idc.com/getdoc.jsp?containerId=prUS52758624",
+    "https://ajg.com/news-and-insights/features/ai-keeping-pace-with-the-cybercriminals/",
+    "https://www.hp.com/de-de/services/workforce-solutions/workforce-experience-platform.html",
+    "https://www.h20195.www2.hp.com/v2/GetDocument.aspx?docname=4AA8-4070DEE&jumpid=ba_de_od_ot_om_cm018638_co_x/dm:_N5851.3774606IQDIGITAL_418516001_610881564_233420832_10192366&dclid=COOD4-aC040DFVjhOwIdmfkpcg&gad_source=7",
+    "https://www.ajg.com/news-and-insights/features/ai-keeping-pace-with-the-cybercriminals",
+    "https://hp.com/de-de/business/smb/services.html?jumpid=ba_de_od_ot_om_cm018638_co_x/dm:_N5851.3774606IQDIGITAL_418516001_610881564_233420832_10192366&dclid=COOD4-aC040DFVjhOwIdmfkpcg&gad_source=7",
+    "https://hp.com/de-de/laptops/business/elitebooks.html?jumpid=ba_de_od_ot_om_cm018638_co_x/dm:_N5851.3774606IQDIGITAL_418516001_610881564_233420832_10192366&dclid=COOD4-aC040DFVjhOwIdmfkpcg&gad_source=7",
+    "https://hp.com/de-de/services/workforce-solutions/workforce-experience-platform.html?jumpid=ba_de_od_ot_om_cm018638_co_x/dm:_N5851.3774606IQDIGITAL_418803636_610839245_232855250_10192366&dclid=CIaZg_GC040DFXjZOwIdOj4ArQ&gad_source=7",
+    "https://www.hp.com/de-de/business/smb/services.html",
+    "https://www.h20195.www2.hp.com/v2/GetDocument.aspx?docname=4AA8-3146DEE&jumpid=ba_de_od_ot_om_cm018638_co_x%2Fdm%3A_N5851.3774606IQDIGITAL_418803636_610839245_232855250_10192366",
+    "https://my.idc.com/getdoc.jsp",
+    "https://www.hp.com/de-de/laptops/business/elitebooks.html"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jensen Huang",
+        "sentiment": "none"
+      },
+      {
+        "name": "Foundry",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "IDC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "HP",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T07:35:14.410+03:00",
+  "updated": "2025-08-21T07:43:20.000+03:00"
+}

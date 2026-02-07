@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "1ed73ef33404488b6df96492f5565f81ac9a91ee",
+    "url": "https://www.stuttgarter-nachrichten.de/inhalt.zollernalbkreis-explosion-in-wohnhaus-grosseinsatz-in-albstadt.877a187e-f625-4d46-a14a-f28089494243.html",
+    "site_full": "www.stuttgarter-nachrichten.de",
+    "site": "stuttgarter-nachrichten.de",
+    "site_section": "https://www.stuttgarter-nachrichten.de/newsticker.rss.feed",
+    "site_categories": [
+      "social",
+      "top_news_de",
+      "top_news",
+      "arts, culture and entertainment",
+      "lifestyle and leisure",
+      "crime, law and justice",
+      "economy, business and finance",
+      "disaster and accident",
+      "politics",
+      "sport"
+    ],
+    "section_title": "Stuttgarter Nachrichten - Newsticker",
+    "site_title": "StN.de - Nachrichten aus Stuttgart und der Region",
+    "title": "Zollernalbkreis: Explosion in Wohnhaus: Großeinsatz in Albstadt - Baden-Württemberg",
+    "title_full": "Zollernalbkreis: Explosion in Wohnhaus: Großeinsatz in Albstadt - Baden-Württemberg",
+    "published": "2026-01-08T08:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.stuttgarter-nachrichten.de/media.media.17339ed8-a20e-4de4-a2ef-cb8faae237be.original1024.jpg",
+    "performance_score": 0,
+    "domain_rank": 25740,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1ed73ef33404488b6df96492f5565f81ac9a91ee",
+  "url": "https://www.stuttgarter-nachrichten.de/inhalt.zollernalbkreis-explosion-in-wohnhaus-grosseinsatz-in-albstadt.877a187e-f625-4d46-a14a-f28089494243.html",
+  "ord_in_thread": 0,
+  "author": "Stuttgarter Nachrichten",
+  "published": "2026-01-08T08:00:00.000+02:00",
+  "title": "Zollernalbkreis: Explosion in Wohnhaus: Großeinsatz in Albstadt - Baden-Württemberg",
+  "text": "Wohngebäude stürzt nach Explosion ein – kein Kontakt zu Bewohnern red/dpa/lsw 08.01.2026 - 10:00 Uhr Feuerwehr und Rettungsdienst sind am Donnerstagmorgen mit vielen Kräften vor Ort. Foto: dpa/Jannik Nölke",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->explosion accident and incident"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marijan Murat",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Albstadt",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T08:49:30.757+02:00",
+  "updated": "2026-01-09T09:09:28.000+02:00"
+}

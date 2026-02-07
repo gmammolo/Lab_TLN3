@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "e163be9723762ac4145dad3f01e1339a3ac2baf4",
+    "url": "https://lemmy.ml/post/22486848",
+    "site_full": "lemmy.ml",
+    "site": "lemmy.ml",
+    "site_section": "https://lemmy.ml/feeds/local.xml?sort=Active",
+    "site_categories": [],
+    "section_title": "Lemmy - Local",
+    "title": "TIFU by not using objects in my object-oriented programming coursework",
+    "title_full": "TIFU by not using objects in my object-oriented programming coursework",
+    "published": "2024-11-14T18:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://lemmy.ml/pictrs/image/6dca71ef-7b2f-4339-a735-82cf52371736.png",
+    "performance_score": 0,
+    "domain_rank": 49982,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e163be9723762ac4145dad3f01e1339a3ac2baf4",
+  "url": "https://lemmy.ml/post/22486848",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "https://lemmy.ca/u/hellfire103",
+  "published": "2024-11-14T18:12:00.000+02:00",
+  "title": "TIFU by not using objects in my object-oriented programming coursework",
+  "text": "[log in](/login)or # to comment.\nI hate that schools basically teach students to over use classes for everything especially by using Java as a teaching language and then they get into the real world or grad school and we have to unteach them those terrible habits.\nI’m so glad a lot of the newer languages (Rust, Go, Zig, C3, V) don’t have classes in them at all.\nTbh if the average grad school student overused object oriented stuff they would produce vastly better code than the status quo.\nI’m currently taking the very last CS class my major requires. I can’t wait to leave OOP behind and focus on hardware completely.\nwhere do you plan to go to start that off after school?\nStrings are Objects, Doubles are Objects (that are than unboxed into primutives doubles)…\nYou did the right thing. OOP was invented by people who were worried about their job security, to obstruct others from understanding their code.\nOOP is pretty readable though. What would be the alternative, functional programming with no ORM?\nWell, bad code is bad code regardless of the paradigm. I’ve just had bad experiences rewriting some horrible OOP codebases and opted out to use as much functional style as C# allowed me to.\nThe main problem, as I see it, is that OOP encourages unnecessary abstractions and inheritance. These should be used as little as possible, because they typically increase complexity and make code harder to read and untangle. As an example, I’ve seen people define interfaces that don’t essentially define anything.\nAnother problem is that OOP encourages mutable member variables. It’s very annoying to try to understand code where class C inherits from class B that inherits from class C. Good luck debugging when the methods of C modify a variable declared in A in subtle ways.\nAs an idea OOP is very appealing. When I was younger, I would be thrilled to start designing a class hierarchy and interfaces when encountering a new programming challenge. Now I just try to think how to make things as simple and modular as possible.\nEdit: of course bad functional code is also bad code. It’s also very annoying to try to understand code where functions pass badly named functions around as parameters and use 10 function compositions in a sequence.\nRight, most things are a fine thing in moderation.\nObfuscation Oriented Programming as I call it\nGood, OOP can suck my balls\nBalls.suck() is the correct syntax.\nActually, it would be\nOOP.suck(ddplf.getBalls())\nDon’t you need to declare new Balls() first? Or do you suck() Balls static?\nBallsFactory ballsFactory = new BallsFactory(); ballsFactory.setSuckable(true); Balls balls = ballsFactory.create();\nAll of this is okay, but it’s not production ready. This is what real production code looks like:\nSuckableFactory suckableFactory = new SuckableFactory(); Suckable balls = suckableFactory .setShape(SuckableShapes.round) .setCount(2) .create(); SuctionProvider mouth = SuctionProvider.getInstance(); SuckerFactory suckerFactory = new SuckerFactory(); Sucker sucker = SuckerFactory.create(): sucker.setSuctionProvider(mouth); sucker.setSuckable(balls); sucker.setIntensity(SuckerSuctionIntensities.medium); sucker.suckSuckable();\nPython port:\nfrom ballsucker import suck suck()\nOr I didn’t using the correct naming convention!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Education",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T13:33:01.664+02:00",
+  "updated": "2024-11-15T13:33:01.664+02:00"
+}

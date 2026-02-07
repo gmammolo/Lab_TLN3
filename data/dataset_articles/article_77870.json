@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "eede02bc2867623f60a246299127873a98f2e717",
+    "url": "https://multiplayer.it/notizie/grok-centinaia-di-chat-appaiono-pubblicamente-su-google-ecco-cosa-e-successo.html",
+    "site_full": "multiplayer.it",
+    "site": "multiplayer.it",
+    "site_section": "http://multiplayer.it/feed-o-matic/latestfeed/?id=65",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "Videogiochi per PC e console | Multiplayer.it",
+    "site_title": "Multiplayer.it - Videogiochi per PC, console, iPhone, iPad e Android",
+    "title": "Grok, centinaia di chat appaiono pubblicamente su Google: ecco cosa è successo",
+    "title_full": "Grok, centinaia di chat appaiono pubblicamente su Google: ecco cosa è successo",
+    "published": "2025-08-21T09:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://multiplayer.net-cdn.it/thumbs/images/2025/08/21/elon-musk_jpg_1200x0_crop_q85.jpg",
+    "performance_score": 0,
+    "domain_rank": 38974,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eede02bc2867623f60a246299127873a98f2e717",
+  "url": "https://multiplayer.it/notizie/grok-centinaia-di-chat-appaiono-pubblicamente-su-google-ecco-cosa-e-successo.html",
+  "ord_in_thread": 0,
+  "author": "@multiplayerit",
+  "published": "2025-08-21T09:59:00.000+03:00",
+  "title": "Grok, centinaia di chat appaiono pubblicamente su Google: ecco cosa è successo",
+  "text": "Centinaia di conversazioni con Grok sono finite su Google. Si tratta del chatbot xAI di Elon Musk, e tante chat sono accessibili attraverso Google Search. Non si tratta di problemi di vulnerabilità o di particolari falle, bensì di un errore di distrazione da parte dell'utente, dinamica che si è già ripetuta in passato con altri strumenti come ChatGPT e Meta AI. Facciamo quindi il punto della situazione.\nLa causa\nCome vi abbiamo detto, centinaia di chat con Grok sono state erroneamente pubblicate dagli utenti stessi. In poche parole, è presente un pulsante che consente all'utente di condividere una conversazione. Tuttavia, cliccando su questo pulsante, si crea un URL unico. Quest'ultimo può essere condiviso manualmente dall'utente, se ad esempio vuole inoltrare la conversazione sui social, via testo o e-mail. Tuttavia, Google e i vari motori di ricerca indicizzano questi URL, di conseguenza diventano visibili sul web.\nVi abbiamo già anticipato che anche gli utenti di Meta e OpenAI si sono imbattuti in problematiche simili. In ogni caso, secondo quanto riportato da Forbes e Tech Crunch, le conversazioni trapelate sono decisamente particolari. Diversi utenti hanno infatti chiesto al chatbot come hackerare portafogli di criptovalute, come preparare metanfetamine o si sono intrattenuti in chat dal contenuto particolarmente... esplicito.\nRisposte preoccupanti\nSempre secondo quanto trapelato da queste conversazioni, il chatbot avrebbe fornito delle risposte alquanto allarmanti, partendo da istruzioni per la produzione di fentanil all'elenco di metodi di suicidio, fino ad alcuni suggerimenti per la costruzione di bombe. Grok avrebbe addirittura fornito un piano dettagliato per l'assassinio di Elon Musk (trovate la fonte in calce).\nAlla fine del mese scorso, quando erano state indicizzate le conversazioni con ChatGPT, Musk aveva parlato di Grok sostenendo di non avere alcuna funzione di condivisione e di dare priorità alla privacy degli utenti. Restiamo in attesa di ulteriori informazioni e vi aggiorneremo non appena ne sapremo di più.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->media and entertainment industry",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Elon Musk",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": " Google Searc",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": " Forbe",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:02:56.625+03:00",
+  "updated": "2025-08-21T10:06:29.000+03:00"
+}

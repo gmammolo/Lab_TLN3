@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "8bc58ad02a4da17d2c36db6da667c40924382cbd",
+    "url": "https://www.helpnetsecurity.com/2024/11/15/finance-industry-vulnerabilities",
+    "site_full": "www.helpnetsecurity.com",
+    "site": "helpnetsecurity.com",
+    "site_section": "http://feeds2.feedburner.com/HelpNetSecurity",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Help Net Security",
+    "title": "Critical vulnerabilities persist in high-risk sectors",
+    "title_full": "Critical vulnerabilities persist in high-risk sectors",
+    "published": "2024-11-15T06:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/17164813/vulnerability-1500-1.webp",
+    "performance_score": 0,
+    "domain_rank": 6563,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8bc58ad02a4da17d2c36db6da667c40924382cbd",
+  "url": "https://www.helpnetsecurity.com/2024/11/15/finance-industry-vulnerabilities",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Help Net Security",
+  "published": "2024-11-15T06:30:00.000+02:00",
+  "title": "Critical vulnerabilities persist in high-risk sectors",
+  "text": "Finance and insurance sectors found to have the highest number of critical vulnerabilities , according to Black Duck.\nFinance and insurance industry faces highest vulnerabilities The report, which analyzes data from over 200,000 dynamic application security testing (DAST) scans conducted by Black Duck on approximately 1,300 applications across 19 industry sectors from June 2023 to June 2024, found variations in vulnerability types and remediation practices.\nOf the 96,917 total vulnerabilities identified, the two most critical categories were cryptographic failures (weaknesses in how an application secures sensitive information), with over 30,000 instances, and injection vulnerabilities (when malicious code tricks an application into executing unintended actions or accessing data without proper authorization), with just over 4,800 instances.\nBoth pose threats to data across all industries, and potential breaches could lead to the theft of personally identifiable information (PII), financial data, and medical records, resulting in severe financial losses and reputational damage.\nThe Finance and Insurance industry (FSI) had the highest number of critical vulnerabilities across all site complexities, with 565 critical vulnerabilities identified for small FSI sites, 580 for medium sites,and 154 for large sites. The next-highest industry was Healthcare and Social Assistance, with 367, 486, and 139 critical vulnerabilities for small, medium, and large sites respectively.\nAdditionally, the report found that there’s no one-size-fits-all timeline for remediation approaches. In fact, there’s variance when it comes to the mean time to remediate (MTTR) across industries, with stringent regulations forcing finance and insurance to move quicker (28 days for smaller/lower complexity web assets), compared to the Utilities sector, which had the longest time to close (107 days for smaller/lower complexity web assets). This is likely due to the sector operating on legacy systems that are difficult to patch and update.\nOperational disruptions pose a large business risk Operational disruptions pose a large business risk, no matter the industry. The research found that widespread security misconfigurations (98% of applications affected) threaten business continuity and service availability.\nSensitive data exposure and injection vulnerabilities pose threats to sensitive data across all industries, potentially leading to data leaks, fines, financial losses, and reputational damage. Sensitive data at risk includes personally identifiable information such as Social Security numbers, banking information, login credentials, credit card numbers, medical records, and trade secrets.\nIn the educational services sector, an unaddressed vulnerability in a student information system could lead to the exposure of sensitive student data, including personal information, academic records, and financial details. Such a breach could result in identity theft, academic fraud, and violation of privacy laws like FERPA, leading to legal consequences and loss of trust in the institution.\n“The high number of vulnerabilities found from the past year is a clear wake-up call that businesses cannot remain stagnant when deploying new security measures,” said Jason Schmitt , CEO, Black Duck. “The longer it takes for an organization to patch a vulnerability, the larger the chance of exploitation. Software risk equates to business risk, and with today’s malicious actors being more sophisticated than ever, it’s increasingly important that businesses across every sector build trust in their software by implementing a comprehensive and integrated approach.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/in/mjasonschmitt/",
+    "https://www.linkedin.com/in/mjasonschmitt",
+    "https://linkedin.com/in/mjasonschmitt/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "8bc58ad02a4da17d2c36db6da667c40924382cbd",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T10:20:18.623+02:00",
+  "updated": "2024-11-15T14:41:24.686+02:00"
+}

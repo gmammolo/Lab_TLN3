@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "595541b849627265ee952ca87c3f961d8fcb6811",
+    "url": "https://www.youtube.com/watch?v=roEYmJTF1w0",
+    "site_full": "www.youtube.com",
+    "site": "youtube.com",
+    "site_section": "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCVgO39Bk5sMo66-6o6Spn6Q&textFormat=plainText&maxResults=50&regionCode=us&order=date&type=video&&order=rating&maxResults=50&order=date&key=AIzaSyDCu6RFcWY8W5xCd5IMOGzLwvuGn0GUMZA",
+    "site_categories": [
+      "television",
+      "",
+      "entertainment"
+    ],
+    "section_title": "",
+    "site_title": "YouTube",
+    "title": "Bushfires continue to threaten Tasmania's east coast towns | ABC News",
+    "title_full": "Bushfires continue to threaten Tasmania's east coast towns | ABC News",
+    "published": "2025-12-11T02:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.ytimg.com/vi/roEYmJTF1w0/maxresdefault.jpg",
+    "performance_score": 0,
+    "domain_rank": 9,
+    "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "595541b849627265ee952ca87c3f961d8fcb6811",
+  "url": "https://www.youtube.com/watch?v=roEYmJTF1w0",
+  "ord_in_thread": 0,
+  "author": "ABC News (Australia)",
+  "published": "2025-12-11T02:03:00.000+02:00",
+  "title": "Bushfires continue to threaten Tasmania's east coast towns | ABC News",
+  "text": "Bushfires continue to threaten Tasmania's east coast towns | ABC NewsTwo houses have been destroyed in another bushfire on Tasmania's east coast, at the town of Stieglitz near St Helens. Subscribe: http://ab.co/1svxLVE Read more here: https://www.abc.net.au/news/2025-12-11/tasmania-st-helens-stieglitz-fire-threat-eases-road-reopening/106128334 ABC NEWS provides around the clock coverage of news events as they break in Australia and abroad. It's news when you want it, from Australia's most trusted news organisation. For more from ABC NEWS, click here: https://ab.co/2kxYCZY Watch more ABC NEWS content ad-free on ABC iview: https://ab.co/2OB7Mk1 Go deeper on our ABC NEWS In-depth channel: https://ab.co/2lNeBn2 Like ABC NEWS on Facebook: http://facebook.com/abcnews.au Follow ABC NEWS on Instagram: http://instagram.com/abcnews_au Follow ABC NEWS on X (Twitter): http://twitter.com/abcnews Note: In most cases, our captions are auto-generated. #ABCNEWS #ABCNEWSAustralia #abcnewstas",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Environment"
+  ],
+  "topics": [
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->fire",
+    "Environment->climate change",
+    "Environment->conservation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ab.co/2OB7Mk1",
+    "http://twitter.com/abcnews",
+    "https://www.abc.net.au/news/2025-12-11/tasmania-st-helens-stieglitz-fire-threat-eases-road-reopening/106128334",
+    "http://instagram.com/abcnews_au",
+    "https://ab.co/2lNeBn2",
+    "https://ab.co/2kxYCZY",
+    "http://facebook.com/abcnews.au",
+    "http://ab.co/1svxLVE",
+    "http://www.instagram.com/abcnews_au",
+    "https://www.ab.co/2OB7Mk1",
+    "https://www.ab.co/2lNeBn2",
+    "https://www.ab.co/2kxYCZY",
+    "http://www.ab.co/1svxLVE",
+    "http://www.twitter.com/abcnews",
+    "https://abc.net.au/news/2025-12-11/tasmania-st-helens-stieglitz-fire-threat-eases-road-reopening/106128334",
+    "http://www.facebook.com/abcnews.au"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Tasmania",
+        "sentiment": "none"
+      },
+      {
+        "name": "St Helens",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "fake_news"
+    ],
+    "top_news": [],
+    "bias": "left",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-11T10:42:08.276+02:00",
+  "updated": "2025-12-11T10:53:41.000+02:00"
+}

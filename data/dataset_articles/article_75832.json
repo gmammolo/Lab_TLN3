@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "073dd95ddbf84a54f69031d124bfbe8fa7b52a71",
+    "url": "https://techbriefly.com/2025/01/09/think-your-telegram-chats-are-private",
+    "site_full": "techbriefly.com",
+    "site": "techbriefly.com",
+    "site_section": "https://www.techbriefly.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TechBriefly - Latest news on technology, business, science, gaming and geek stuff.",
+    "title": "Think your Telegram chats are private? Think again after this update",
+    "title_full": "Think your Telegram chats are private? Think again after this update",
+    "published": "2025-01-09T18:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 110896,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "073dd95ddbf84a54f69031d124bfbe8fa7b52a71",
+  "url": "https://techbriefly.com/2025/01/09/think-your-telegram-chats-are-private",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kerem Gülen",
+  "published": "2025-01-09T18:47:00.000+02:00",
+  "title": "Think your Telegram chats are private? Think again after this update",
+  "text": "Following the arrest of its CEO Pavel Durov in August 2024, Telegram has significantly increased its sharing of user data with law enforcement. This move comes amid ongoing investigations into criminal activities facilitated through the platform.\nTelegram’s data sharing with law enforcement spikes after CEO’s arrest Researchers have reported a dramatic increase in government requests for user data from Telegram, particularly in the last quarter of 2024. Data collected illustrates a steep rise, with a 6,000% increase in requests in the United States, where Telegram fulfilled 900 requests affecting over 2,200 users. Until September 2024, Telegram had only responded to 14 requests in the U.S., sharing information of 108 users.\nIn the United Kingdom, government requests surged from 3 between Q1 and Q3 to 139 in Q4, representing an increase of over 4,500%. India’s data requests peaked at 14,641 for the year, impacting 23,535 users, with 7,649 requests filed in Q4 alone. The first three quarters of 2024 each saw around 2,000 requests in India.\nThe increase in data sharing follows a change in Telegram’s privacy policy announced in September 2024. The revised policy permits the disclosure of user phone numbers and IP addresses if they are suspects in criminal activities violating Telegram’s Terms of Service. This decision came in the wake of Durov’s arrest, which stemmed from his alleged complicity in enabling organized crime and other charges, including refusal to assist lawful interceptions for investigations.\n“If Telegram receives a valid order from the relevant judicial authorities that confirms you’re a suspect in a case involving criminal activities that violate the Telegram Terms of Service, we will perform a legal analysis of the request and may disclose your IP address and phone number to the relevant authorities,” the updated policy states.\nFollowing Durov’s arrest, Telegram attempted to distance itself from cybercrime activities by adopting stricter compliance measures. While some cybercrime groups announced their exit from the platform, intelligence firm KELA noted that the overall cybercrime landscape on Telegram has remained largely unchanged as of December 2024.\nData reveals approximately 2,000 users across the United States, Germany, and France have been targeted by law enforcement. Several hundred users were also affected in the United Kingdom, Spain, Belgium, and the Netherlands.\nTelegram provides a ‘Transparency Reports’ bot that shares user-specific data regarding law enforcement requests for IP and phone numbers and the number of affected users by country. The company plans to publish its annual Digital Services Act (DSA) transparency report for 2024 later this month. The DSA aims to address illegal and harmful activities online.\nResearchers associated with Human Rights Watch have initiated a crowdsourced project to track and share Telegram’s user data handling on a public GitHub page . This effort aims to shed further light on the platform’s engagement with law enforcement and the degree of privacy being offered to users amidst these changes.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->study of law",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://news.google.com/publications/CAAqBwgKMJ6flQswl4CrAw",
+    "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en",
+    "https://te-k.github.io/telegram-transparency/",
+    "https://www.te-k.github.io/telegram-transparency/",
+    "https://www.commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en",
+    "https://te-k.github.io/telegram-transparency",
+    "https://www.news.google.com/publications/CAAqBwgKMJ6flQswl4CrAw"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T00:12:52.186+02:00",
+  "updated": "2025-01-10T00:12:52.186+02:00"
+}

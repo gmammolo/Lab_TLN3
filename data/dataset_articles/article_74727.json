@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "fa848c2aee8e50677349afc5b8b1f8ea4f84ce12",
+    "url": "https://www.theregister.com/2024/11/22/cisa_red_team_exercise/?ref=biztoc.com",
+    "site_full": "www.theregister.com",
+    "site": "theregister.com",
+    "site_section": "https://www.biztoc.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "BizToc",
+    "title": "Here's what happens if you don't layer network security \\u2013 or remove unused web shells",
+    "title_full": "Here's what happens if you don't layer network security \\u2013 or remove unused web shells",
+    "published": "2024-11-22T03:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://regmedia.co.uk/2023/08/02/shutterstock_bad_robots.jpg",
+    "performance_score": 0,
+    "domain_rank": 709,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fa848c2aee8e50677349afc5b8b1f8ea4f84ce12",
+  "url": "https://www.theregister.com/2024/11/22/cisa_red_team_exercise/?ref=biztoc.com",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jessica Lyons",
+  "published": "2024-11-22T03:13:00.000+02:00",
+  "title": "Here's what happens if you don't layer network security \\u2013 or remove unused web shells",
+  "text": "Here's what happens if you don't layer network security – or remove unused web shells TL;DR: Attackers will break in and pwn you, as a US government red team demonstrated The US Cybersecurity and Infrastructure Agency often breaks into critical organizations' networks – with their permission, of course – to simulate real-world cyber attacks and thereby help improve their security. In one of those recent exercises conducted at a critical infrastructure provider, the Agency exploited a web shell left behind from an earlier bug bounty program, scooped up a bunch of credentials and security keys, moved through the network and ultimately pwned the org's domain and several sensitive business system targets. In a Thursday blog post, the Agency (CISA) detailed the exercise and opined they \"illuminate lessons learned for network defenders and software manufacturers about how to respond to and reduce risk.\" In other words: give it a read and learn from this critical infrastructure organization's mistakes – and the things it did well – to keep real criminals out of your IT environment. The CISA red team conducted the operation over a three-month period, we're told. It went in blind, with no prior knowledge about the organization's technology assets. After doing some open source research on the target to learn more about its networks, defensive tools and employees, CISA targeted 13 employees with a spear phishing campaign – all picked as most likely to communicate with people outside the organization. One of the employees responded and eventually ran two malicious payloads – but the malware didn't make it past security controls. CISA's red team continued probing for devices or services exposed to the interview by using publicly available tools like Shodan and Censys . Old, unpatched bug for the win … and initial access Ultimately, the hunters came across an \"old and unpatched service with a known XML External Entity (XXE) vulnerability.\" The team used a publicly known proof of concept to exploit this bug and deploy a web shell before discovering one already in place on the target organization's Linux web server. This red team used the shell to run commands on the server, find an exposed internal proxy server, and set up command and control (C2). After escalating privileges, CISA's operatives discovered that overly permissive access controls allowed them to run commands as root without a password. \"With root access to the web server, the team had full access to the organization's directories and files on a NFS share with no_root_squash enabled,\" thus allowing remote users to read and/or change any file on the shared system. The NFS share hosted home directories belonging to \"hundreds of Linux users\" – many of whom had privileged access to more servers. With the NFS share wide open, CISA's team then snooped around for secrets: private certificate files, Secure Shell (SSH) private keys, passwords, bash command histories, and other sensitive info. \"The team initially obtained 61 private SSH keys and a file containing valid cleartext domain credentials (DOMAINUSER1) that the team used to authenticate to the organization's domain,\" we're told. Red team hacker on how she 'breaks into buildings and pretends to be the bad guy' Move over, Cobalt Strike. Splinter's the new post-exploit menace in town AI red-teaming tools helped X-Force break into a major tech manufacturer 'in 8 hours' Orgs are having a major identity crisis while crims reap the rewards One week after initially breaking into the org, the red team attackers had established persistent access on four Linux servers, using a different persistence mechanism on each one to make it harder for network defenders to discover the intruders. The team also gained root access to an infrastructure management server that ran Ansible Tower and which CISA described as \"adjacent\" to \"sensitive business systems.\" From there the tame attackers moved on to six more such systems across six IP ranges. Odd behavior from a root SSH private key – which was being used to log into multiple hosts and at times and durations outside of the baseline usage – alerted the target org to the fact that it had been pwned, CISA noted. \"In a real compromise, the organization would have had to shut down the server, significantly impacting business operations,\" it warned. The red team also compromised a Windows domain controller, which allowed it to steal credentials and move laterally to all domain-connected Windows hosts in the org. And after compromising both Linux and Windows systems across the critical facility's networks and establishing persistent access, CISA’s attackers got to work on post-exploit activities: accessing more sensitive business systems including admin workstations. \"The red team maintained access to these systems for several weeks,\" the blog states. Next, it targeted corporate workstations belonging to the administrators and operators of the victim org's critical infrastructure. Time constraints, however, prohibited the team from fully compromising these systems. Lessons learned The good news: \"they did not discover a way to compromise the underlying [operational technology] OT devices,\" CISA noted. In its extensive write-up about the exercise, CISA detailed how its red team evaded detection at each step in the attack. It also suggests what network defenders could have done to kick out the intruders and includes an entire section on ways to mitigate the findings for both defenders and software manufacturers – we'd definitely suggest giving the entire analysis a thorough read. But here are a few key lessons learned from the exercise. First, the target organization didn't have the right technical controls in place to detect and then stop intruders. \"The organization relied too heavily on host-based endpoint detection and response (EDR) solutions and did not implement sufficient network layer protections,\" CISA noted. Second, the victim org's staff – and any staff, really – require ongoing training and support to configure software properly and to detect malicious network activity. And this: leadership must prioritize known attack vectors that put their organization's business at risk of attack. \"Leadership deprioritized the treatment of a vulnerability their own cyber security team identified,\" the report reveals, \"and in their risk-based decision-making, miscalculated the potential impact and likelihood of its exploitation.\" ®",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a",
+    "https://www.shodan.io/",
+    "https://search.censys.io/",
+    "https://cisa.gov/news-events/cybersecurity-advisories/aa24-326a",
+    "https://shodan.io/",
+    "https://www.shodan.io",
+    "https://search.censys.io",
+    "https://www.search.censys.io/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T03:16:55.971+02:00",
+  "updated": "2024-11-22T03:16:55.971+02:00"
+}

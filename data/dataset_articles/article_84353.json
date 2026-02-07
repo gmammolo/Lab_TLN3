@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "62adee670c9b0d836fe9863b40dc3db265858f5d",
+    "url": "https://www.zebulon.fr/news-it/verisilicon-lance-lisp9000-lisp-integre-a-lia-de-nouvelle-generation-pour-les-applications-de-vision-intelligente.html",
+    "site_full": "www.zebulon.fr",
+    "site": "zebulon.fr",
+    "site_section": "https://www.zebulon.fr",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Zebulon - Optimisation et astuces Windows, High-Tech, actualité digitale, et plus encore !",
+    "site_title": "Zebulon - Optimisation et astuces Windows, High-Tech, actualité digitale, et plus encore !",
+    "title": "VeriSilicon lance l'ISP9000 : l'ISP intégré à l'IA de nouvelle génération pour les applications de vision intelligente",
+    "title_full": "VeriSilicon lance l'ISP9000 : l'ISP intégré à l'IA de nouvelle génération pour les applications de vision intelligente",
+    "published": "2025-04-03T01:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 92346,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "62adee670c9b0d836fe9863b40dc3db265858f5d",
+  "url": "https://www.zebulon.fr/news-it/verisilicon-lance-lisp9000-lisp-integre-a-lia-de-nouvelle-generation-pour-les-applications-de-vision-intelligente.html",
+  "ord_in_thread": 0,
+  "author": "@zebulonfr",
+  "published": "2025-04-03T01:22:00.000+03:00",
+  "title": "VeriSilicon lance l'ISP9000 : l'ISP intégré à l'IA de nouvelle génération pour les applications de vision intelligente",
+  "text": "Des résultats supérieurs dans des conditions de luminosité extrêmement faibles, surpassant les technologies de vision par ordinateur conventionnelles\nSHANGHAI, Chine–(BUSINESS WIRE)–VeriSilicon (688521.SH) a dévoilé aujourd’hui sa PI de traitement de signal d’image (ISP) de série ISP9000, une solution ISP intégrée à l’IA de nouvelle génération conçue pour répondre à l’évolution des exigences des applications de vision intelligente. Construite sur une architecture flexible optimisée pour l’IA, l’ISP9000 offre une qualité d’image exceptionnelle, une gestion multi-capteurs à faible latence et une intégration transparente de l’IA, ce qui la rend idéale pour les cas d’utilisation avancés, tels que les machines intelligentes, les caméras de surveillance et les PC d’IA.\nGrâce à ses capacités ISP basées sur l’IA, la PI de série ISP9000 de VeriSilicon offre une qualité d’image supérieure. Elle intègre des algorithmes avancés de réduction du bruit par l’IA (AI NR), combinant la réduction du bruit 2D et 3D multi-échelle avec la réduction du bruit chromatique (CNR) dans le domaine YUV dans une architecture de réduction du bruit multi-domaine. Cela permet de minimiser efficacement le bruit tout en préservant les détails, en particulier dans des conditions de très faible luminosité. La prise en charge du traitement HDR (plage dynamique élevée) à triple exposition et de la compression de la plage dynamique, avec un pipeline de 20 bits, garantit que les scènes à plage dynamique élevée conservent les détails essentiels dans les zones lumineuses et sombres. En outre, les fonctions 3A de l’ISP9000, notamment l’exposition automatique (AE), la mise au point automatique (AF) et la balance des blancs automatique (AWB), prennent en charge jusqu’à 25 régions d’intérêt configurables (ROI), ce qui permet la détection et la reconnaissance d’objets assistées par l’IA. Les utilisateurs peuvent en outre intégrer des bibliothèques 3A tierces, ce qui permet d’adapter les algorithmes 3A aux besoins d’applications spécifiques.\nL’ISP9000 prend en charge les configurations multi-capteurs et exploite les mécanismes de gestion multi-contexte (MCM) et de découpage de trame accélérés par le matériel pour permettre une commutation efficace des flux de données. Cela garantit la stabilité des flux de données multi-capteurs tout en offrant une faible latence et un bon rapport coût-efficacité. Prenant en charge jusqu’à 16 capteurs, l’ISP9000 intègre la PI d’interface vidéo VI200 de VeriSilicon pour une connectivité transparente avec les interfaces MIPI Rx courantes. Son architecture multicœur évolutive prend en charge le traitement haute performance jusqu’à 8K à 30 fps et 4K à 120 fps. Grâce à l’interface FLEXA SBI de VeriSilicon, l’ISP9000 permet une transmission optimisée des données vers les encodeurs vidéo, les unités de traitement des réseaux neuronaux (NPU) ou les processeurs d’affichage, ce qui permet d’optimiser les solutions de sous-systèmes.\nDe plus, l’ISP9000 est équipé d’AcuityPercept de VeriSilicon, un système de réglage automatique de l’ISP basé sur l’IA, afin d’améliorer ses capacités de vision intelligente. Contrairement aux réglages traditionnels axés sur la qualité de l’image perçue par l’homme, AcuityPercept optimise les paramètres ISP pour une meilleure reconnaissance des objets dans le pipeline AI/NPU, en s’adaptant aux algorithmes spécifiques de l’IA et aux exigences de l’application.\n« Alors que l’IA est de plus en plus intégrée dans les appareils dans un large éventail d’applications, et avec les progrès rapides de la robotique, la demande d’ISP de nouvelle génération pour répondre aux exigences évolutives des produits ne cesse de croître », déclare Weijin Dai, directeur de la stratégie, vice-président exécutif et directeur général de la division PI chez VeriSilicon. « En plus d’offrir une qualité d’image élevée et une faible consommation d’énergie, les ISP de nouvelle génération doivent prendre en charge efficacement plusieurs capteurs avec une commutation de contexte rapide et une faible latence, et optimiser la sortie pour les NPU et la vision humaine. Ils doivent également permettre un réglage automatique en conjonction avec les NPU de perception des cibles. L’ISP9000 a été conçu en tenant compte de ces exigences et a été développé en étroite collaboration avec des clients de premier plan. En intégrant la technologie de l’IA, l’ISP9000 permet d’obtenir une qualité d’image exceptionnelle dans des conditions de très faible luminosité, dépassant ainsi les capacités des technologies traditionnelles de vision par ordinateur. »\nÀ propos de VeriSilicon\nVeriSilicon s’engage à fournir à ses clients des services de silicium personnalisés, complets et uniques, basés sur une plateforme, ainsi que des services de licences PI pour semi-conducteurs en tirant parti de sa PI interne de semi-conducteurs. Pour plus d’informations, rendez-vous sur : www.verisilicon.com\nLe texte du communiqué issu d’une traduction ne doit d’aucune manière être considéré comme officiel. La seule version du communiqué qui fasse foi est celle du communiqué dans sa langue d’origine. La traduction devra toujours être confrontée au texte source, qui fera jurisprudence.\nContacts\nContact médias : press@verisilicon.com",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Health"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->computing and information technology",
+    "Health->health treatment and procedure"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.verisilicon.com&esheet=54231833&newsitemid=20250401639375&lan=fr-FR&anchor=www.verisilicon.com&index=1&md5=45bfd736b0ce4c21cf4e41a3210dc5fb",
+    "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.verisilicon.com&esheet=54231833&newsitemid=20250401639375&lan=fr-FR&anchor=www.verisilicon.com&index=1&md5=45bfd736b0ce4c21cf4e41a3210dc5fb",
+    "https://cts.businesswire.com/ct/CT"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:21:14.991+03:00",
+  "updated": "2025-04-03T02:21:14.991+03:00"
+}

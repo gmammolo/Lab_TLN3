@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "849c7dccb1b6a20e80b3a8dd4fa9b50749abda56",
+    "url": "https://gestion.pe/tecnologia/crean-minidrones-inspirados-en-la-capacidad-de-orientacion-de-los-insectos-mundo-hormigas-insectos-bilogia-tecnologia-drones-noticia",
+    "site_full": "gestion.pe",
+    "site": "gestion.pe",
+    "site_section": "https://gestion.pe/arcio/rss/",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "",
+    "title": "Crean minidrones inspirados en la capacidad de orientación de los insectos",
+    "title_full": "Crean minidrones inspirados en la capacidad de orientación de los insectos",
+    "published": "2024-07-19T10:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PE",
+    "main_image": "https://gestion.pe/resizer/v2/GFFOL4NCOZGCJMHDHVROVZH7DY.jpg?auth=c7adfbe0b13c9a3ddf74337be5bec4f7cd5f7804bd78ab372c934e067499a606&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 17186,
+    "domain_rank_updated": "2024-07-16T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "849c7dccb1b6a20e80b3a8dd4fa9b50749abda56",
+  "url": "https://gestion.pe/tecnologia/crean-minidrones-inspirados-en-la-capacidad-de-orientacion-de-los-insectos-mundo-hormigas-insectos-bilogia-tecnologia-drones-noticia",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Agencia EFE",
+  "published": "2024-07-19T10:18:00.000+03:00",
+  "title": "Crean minidrones inspirados en la capacidad de orientación de los insectos",
+  "text": "Las [hormigas ](https://gestion.pe/noticias/hormigas/)y otros [ insectos ](https://gestion.pe/noticias/insectos/)son capaces de recorrer largas distancias y encontrar siempre el camino a casa. Inspirándose en su [ biología,](https://gestion.pe/noticias/biologia/) un grupo de investigadores ha creado diminutos [drones ](https://gestion.pe/noticias/drones/)autónomos capaces de navegar por rutas interiores de hasta cien metros. Investigadores de la Universidad Técnica de Delft (Países Bajos) presentan su nuevo método en un artículo que publica Science Robotics. El estudio explica cómo los investigadores se basaron en descubrimientos biológicos sobre de qué manera las hormigas reconocen visualmente su entorno y lo combinan con el recuento de sus pasos para volver sanas y salvas a casa. LEA TAMBIÉN: [Hormigas del Cretácico ya se comunicaban como las actuales] LEA TAMBIÉN: [Hay al menos 20,000 billones de hormigas en la Tierra, según estudio] El equipo dirigido por Tom van Dijk adaptó los métodos existentes para crear una estrategia bioinspirada que combina la odometría -medida de la distancia recorrida en una dirección concreta- y la localización visual, que guía la orientación en relación con puntos de referencia visuales del entorno. Los investigadores implementaron su método en un dron Crazyflie Brushless de 56 gramos equipado con una cámara panorámica, un microcontrolador y 192 kB de memoria, y lo probaron en diversos escenarios de interior. El robot voló primero hacia un destino, tomando instantáneas de su entorno a intervalos regulares durante el trayecto. A la vuelta, utilizaba la localización visual para regresar por la misma ruta, comparando periódicamente su entorno actual con las instantáneas de los puntos de ruta para corregir el rumbo en caso de desvío. La estrategia permite a estos robots volver a casa tras largas trayectorias y requiere muy pocos recursos de cálculo y memoria, pues las instantáneas se comprimían al máximo y se espaciaban lo más posible sin perder precisión. La idea principal que subyace a este método es que se pueden espaciar las instantáneas mucho más si el robot viaja entre instantáneas basándose en la odometría, señaló Guido de Croon, uno de los firmantes del artículo. Los [ robots](https://gestion.pe/noticias/robots/) diminutos, de decenas a unos cientos de gramos, y con capacidad para navegar por sí solos tienen potencial para interesantes aplicaciones, pues gracias a su poco peso, son extremadamente seguros, incluso si chocan accidentalmente con alguien. Como son pequeños, pueden desplazarse por zonas estrechas y si se fabrican a bajo coste, pueden desplegarse en grandes cantidades para cubrir rápidamente una gran superficie, por ejemplo en invernaderos para la detección precoz de plagas o enfermedades. Para orientarse en su entorno, la mayoría de los robots dependen de recursos externos, como el [GPS](https://gestion.pe/noticias/gps/), o de algoritmos computacionalmente complejos. Sin embargo, estas opciones pueden resultar caras y poco fiables. Además, los algoritmos basados en mapas pueden ser complejos desde el punto de vista computacional y consumir mucha memoria, lo que supone un reto para la navegación autónoma de robots pequeños con recursos limitados. Comienza a destacar en el mundo empresarial recibiendo las noticias más exclusivas del día en tu bandeja [Aquí]. Si aún no tienes una cuenta, [Regístrate gratis]y sé parte de nuestra comunidad.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-07-19T10:22:33.628+03:00",
+  "updated": "2024-07-19T13:51:03.361+03:00"
+}

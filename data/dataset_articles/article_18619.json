@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "df66b044f0445bdcdef99aadb79ce2c1fa20ca2c",
+    "url": "https://www.sanluisobispo.com/news/california/fires/article301530539.html",
+    "site_full": "www.sanluisobispo.com",
+    "site": "sanluisobispo.com",
+    "site_section": "https://www.sanluisobispo.com/news/california/fires",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Fires | San Luis Obispo Tribune",
+    "site_title": null,
+    "title": "Breaking: New wildfire reported in Los Angeles County on March 5",
+    "title_full": "Breaking: New wildfire reported in Los Angeles County on March 5",
+    "published": "2025-03-06T04:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.mcclatchy-wires.com/incoming/w4trag/picture290003454/alternates/LANDSCAPE_1140/904274ad-cc18-4c6a-b772-fd81b276817c",
+    "performance_score": 0,
+    "domain_rank": 12094,
+    "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "df66b044f0445bdcdef99aadb79ce2c1fa20ca2c",
+  "url": "https://www.sanluisobispo.com/news/california/fires/article301530539.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "CA WILDFIRE BOT",
+  "published": "2025-03-06T04:13:00.000+02:00",
+  "title": "Breaking: New wildfire reported in Los Angeles County on March 5",
+  "text": "Fires\nBreaking: New wildfire reported in Los Angeles County on March 5\nThe creation of this content included the use of AI based on templates created, reviewed and edited by journalists in the newsroom. Read more on our AI policy here.\nFirst discovered: 7 hours ago, 10:28 a.m. March 5\nInitial location: Los Angeles County, Calif.\nFire type: Wildfire\nFire name: LAC-082408\nA new wildfire was reported today at 10:28 a.m. in Los Angeles County.\nThe wildfire has been burning on private land for seven hours. There is no update on the containment of the fire and its cause remains undetermined.\nSource: National Interagency Fire Center\nThis story was originally published March 5, 2025 at 6:13 PM.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Disaster and Accident->natural disaster",
+    "Environment->environmental pollution",
+    "Environment->natural resources",
+    "Social Issue->social problem",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sacbee.com/news/nation-world/national/article280707640.html",
+    "https://sacbee.com/news/nation-world/national/article280707640.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Interagency Fire Center",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-06T05:07:09.191+02:00",
+  "updated": "2025-03-06T05:07:09.191+02:00"
+}

@@ -1,0 +1,130 @@
+{
+  "thread": {
+    "uuid": "288137a17f02e77dedf849a320fb7fcebe0043ab",
+    "url": "https://www.pna.gov.ph/articles/1260080",
+    "site_full": "www.pna.gov.ph",
+    "site": "pna.gov.ph",
+    "site_section": "https://news.google.com/search?q=those%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "us_government_resources"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "Philippine News Agency",
+    "title": "Rainy weekend in Pangasinan due to 'Paolo' - PAGASA | Philippine News Agency",
+    "title_full": "Rainy weekend in Pangasinan due to 'Paolo' - PAGASA | Philippine News Agency",
+    "published": "2025-10-02T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "PH",
+    "main_image": "https://files01.pna.gov.ph/ograph/2025/10/02/forecast-curated.jpg",
+    "performance_score": 0,
+    "domain_rank": 11274,
+    "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "288137a17f02e77dedf849a320fb7fcebe0043ab",
+  "url": "https://www.pna.gov.ph/articles/1260080",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-02T03:00:00.000+03:00",
+  "title": "Rainy weekend in Pangasinan due to 'Paolo' - PAGASA | Philippine News Agency",
+  "text": "MALASIQUI, Pangasinan – A Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA) official has advised Pangasinenses to expect rainy days ahead as Tropical Storm Paolo (international name Matmo) approaches.\nCiting Weather Advisory No. 4 as of 11 a.m. on Thursday, PAGASA Dagupan chief Jose Estrada Jr. said in a phone interview that the province is forecasted to experience an accumulated 100 to 200 millimeters of rainwater “from today to noon tomorrow (Friday).”\nTropical Cyclone Wind Signal No. 1 was raised in the province as of 5 a.m.\n\"We will experience the effect of 'Paolo' starting tomorrow, and rainfall will prevail until the weekend, even as it exits the Philippine Area of Responsibility, since it will enhance the southwest monsoon,\" he said.\nEstrada urged the residents to prepare for its possible effects, especially those in low-lying and flood-prone areas.\nBased on Tropical Cyclone Bulletin No. 5 as of 11 a.m., the center of Tropical Storm Paolo was estimated to be 575 km. east of Infanta, Quezon, with maximum sustained winds of 75 km. per hour (kph) near the center, gusts of up to 90 kph.\nPaolo is moving west-northwest at 20 kph.\nPangasinan is under a blue alert status according to the Pangasinan Provincial Disaster Risk Reduction and Management Office. (PNA)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather forecast",
+    "Weather->weather warning",
+    "Social Issue->social condition",
+    "Social Issue->population and census",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jose Estrada Jr.",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Pangasinan",
+        "sentiment": "none"
+      },
+      {
+        "name": "PAGASA",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Philippine News Agency",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "PAGASA",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-02T10:20:59.224+03:00",
+  "updated": "2025-10-02T10:28:02.000+03:00"
+}

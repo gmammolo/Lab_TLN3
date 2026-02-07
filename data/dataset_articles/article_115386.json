@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "0c4320bfe8779f058d1947b645f2f6bbdde23bda",
+    "url": "https://www.nbcchicago.com/weather/how-cold-is-it-really-in-chicago-how-to-calculate-wind-chill-and-what-it-means/3623018",
+    "site_full": "www.nbcchicago.com",
+    "site": "nbcchicago.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "How cold is it really in Chicago How to calculate wind chill and what it means – NBC Chicago",
+    "title_full": "How cold is it really in Chicago How to calculate wind chill and what it means – NBC Chicago",
+    "published": "2024-12-12T17:48:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.nbcchicago.com/2019/09/chicago-cold-18-getty-13.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
+    "performance_score": 0,
+    "domain_rank": 3238,
+    "domain_rank_updated": "2024-12-09T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0c4320bfe8779f058d1947b645f2f6bbdde23bda",
+  "url": "https://www.nbcchicago.com/weather/how-cold-is-it-really-in-chicago-how-to-calculate-wind-chill-and-what-it-means/3623018",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@nbcchicago",
+  "published": "2024-12-12T17:48:00.000+02:00",
+  "title": "How cold is it really in Chicago How to calculate wind chill and what it means – NBC Chicago",
+  "text": "Thursday started off brutally cold in Chicago, with wind chills dipping below zero, but what exactly does that mean and how is it calculated? A wind chill is the \"measure of how cold the air feels on your skin,\" NBC 5 Storm Team Meteorologist Kevin Jeanes said. \"How cold it is, plus how strong the winds are,\" Jeanes said. So how do you determine just how cold it feels? The equation isn't quite as simple. How to calculate wind chills According to the National Weather Service , \"wind chill is based on the rate of heat loss from exposed skin caused by wind and cold.\" \"As the wind increases, it draws heat from the body, driving down skin temperature and eventually the internal body temperature. Therefore, the wind makes it FEEL much colder,\" the NWS reports. \"If the temperature is 0°F and the wind is blowing at 15 mph, the wind chill is -19°F. At this wind chill temperature, exposed skin can freeze in 30 minutes.\" Local The formula used to calculate wind chill is: 35.74 + 0.6215T – 35.75 (V^0.16) + 0.4275T(V^0.16) = Wind chill Feeling out of the loop? We'll catch you up on the Chicago news you need to know. Sign up for the weekly[> Chicago Catch-Up newsletter]. In this equation, the “T” variable represents the air temperature, while the “V” variable represents the wind speed. The formula also accounts for heat transfer theory and skin tissue resistance, according to the NWS. For example, an air temperature of 10 degrees, and a wind speed of 25 miles per hour will create a wind chill of approximately minus-11 degrees Fahrenheit. \"Our bodies naturally give off heat,\" Jeanes explained. \"The air just around our body warms up, but when when the wind picks up, that removes the heat. So our body heat that it naturally gives off isn't warming us anymore. It isn't keeping us insulated.\" According to officials, the formula takes into account a measurement of the wind speed as measured at the average height of a human face, which is five feet. It also takes into account that a typical anemometer, a device used to measure wind speed, is placed 33 feet in the air. In order for wind chill to be calculated, the air temperature must be at or below 40 degrees Fahrenheit, the NWS said. Finally, the formula assumes that measurements are taken at night, with no sunlight influencing the “feels-like” temperature.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.weather.gov/safety/cold-wind-chill-chart",
+    "https://weather.gov/safety/cold-wind-chill-chart"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Kevin Jeanes",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "NWS",
+        "sentiment": "none"
+      },
+      {
+        "name": "NBC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-12-13T19:41:44.062+02:00",
+  "updated": "2024-12-13T19:41:44.062+02:00"
+}

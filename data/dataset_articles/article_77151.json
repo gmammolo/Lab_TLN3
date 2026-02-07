@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "621c23d558a3ab333128403c9dc5f8a083a6adcf",
+    "url": "https://www.freebuf.com/articles/system/444291.html",
+    "site_full": "www.freebuf.com",
+    "site": "freebuf.com",
+    "site_section": "https://www.freebuf.com/rss",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "FreeBuf网络安全行业门户",
+    "site_title": "FreeBuf网络安全行业门户",
+    "title": "Windows OOBE漏洞致使攻击者可绕过防护并获取管理员权限",
+    "title_full": "Windows OOBE漏洞致使攻击者可绕过防护并获取管理员权限",
+    "published": "2025-08-14T00:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 35210,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "621c23d558a3ab333128403c9dc5f8a083a6adcf",
+  "url": "https://www.freebuf.com/articles/system/444291.html",
+  "ord_in_thread": 0,
+  "author": "所属地 上海",
+  "published": "2025-08-14T00:32:00.000+03:00",
+  "title": "Windows OOBE漏洞致使攻击者可绕过防护并获取管理员权限",
+  "text": "研究人员发现了一种新的利用 Windows 初始设置体验（Out-of-Box-Experience，OOBE）的方法，该方法可绕过现有保护措施，获取 Windows 计算机的管理员权限命令行访问。\n即使实施了微软推荐的安全措施——使用 DisableCMDRequest.tag 文件来阻止已知的 Shift + F10 键盘快捷键漏洞，该技术仍然有效。这一发现凸显了 Windows 初始设置过程中持续存在的安全漏洞，可能允许未经授权的用户获取提升权限并在企业设备上创建后门账户。\n**关键发现**\n1. 新的 Win + R 漏洞利用方法可绕过 Windows OOBE 安全保护\n2. 通过设置过程中的 defaultuser0 账户获取完整管理员权限\n3. 微软不会修复此问题，唯一缓解措施是隐藏 Intune 重置按钮\nWin + R OOBE 绕过技术\nKanbach 报告称，该方法利用 Win + R 键盘组合在 OOBE 过程中生成隐藏的\"运行\"对话框，从而绕过传统安全控制。与广泛记录的 Shift + F10 技术不同，这种方法需要特定的操作序列才能成功执行。\n利用过程首先打开放大镜（Magnify.exe）等辅助工具以建立正确的窗口焦点。当放大镜窗口处于活动状态时，按下 Win + R 会启动\"运行\"对话框，尽管它仍隐藏在后台。\nWin + R OOBE Bypass\n用户可以使用 Alt + Tab 循环浏览可用窗口来显示其存在。关键漏洞在于此对话框在 defaultuser0 账户上下文中运行，这是 Windows 在 OOBE 期间创建的临时管理员账户，具有完整的本地管理员组权限。\n攻击者可以在\"运行\"对话框中输入 cmd.exe，然后按 Ctrl + Shift + Enter 触发用户账户控制（UAC）权限提升。当 UAC 提示出现并被接受时，将打开具有管理员权限的提升命令提示符，使攻击者能够执行任意系统修改、创建后门账户或更改安全配置。\n微软的回应\n这种 OOBE 突破方法带来了重大安全风险，特别是在企业环境中，用户可以通过 Microsoft Intune 公司门户启动设备重置。该漏洞允许低权限域用户只需执行一键重置并利用 OOBE 界面即可有效获取本地管理员访问权限。\n微软拒绝解决此安全问题，称 OOBE 本质上在管理会话中运行，在设置过程中无人看管设备等同于让机器处于解锁状态。该公司的立场将此视为操作安全问题，而不是需要修补的软件漏洞。\n主要缓解策略是通过在 Microsoft Intune 管理中心（租户管理 > 自定义）中隐藏重置按钮来完全阻止用户访问 OOBE。管理员应在企业 Windows 设备上启用\"隐藏重置按钮\"设置，以防止未经授权的设备重置。然而，这只是一个不完整的解决方案，只能解决表面现象，而非 Windows 设置过程中潜在的系统架构安全弱点。\n参考来源：\n[Breaking Windows Out-of-Box-Experience to Gain Command Line Access With Admin Privileges]\n如需授权、对文章有疑问或需删除稿件，请联系 FreeBuf 客服小蜜蜂（微信：freebee1024）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->cyber crime",
+    "Social Issue->social condition",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:35:13.890+03:00",
+  "updated": "2025-08-14T10:40:57.000+03:00"
+}

@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "74ef27d0526533747aa86baa2815b169f5d47600",
+    "url": "https://seclists.org/oss-sec/2025/q3/99",
+    "site_full": "seclists.org",
+    "site": "seclists.org",
+    "site_section": "https://seclists.org/rss/oss-sec.rss",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Open Source Security",
+    "site_title": null,
+    "title": "HTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames",
+    "title_full": "HTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames",
+    "published": "2025-08-13T21:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://seclists.org/images/oss-sec-img.png",
+    "performance_score": 0,
+    "domain_rank": 12145,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "74ef27d0526533747aa86baa2815b169f5d47600",
+  "url": "https://seclists.org/oss-sec/2025/q3/99",
+  "ord_in_thread": 0,
+  "author": "Alan Coopersmith",
+  "published": "2025-08-13T21:29:00.000+03:00",
+  "title": "HTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames",
+  "text": "oss-sec\nmailing list archives\nHTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames\nFrom: Alan Coopersmith <alan.coopersmith () oracle com>\nDate: Wed, 13 Aug 2025 11:27:53 -0700\n[https://kb.cert.org/vuls/id/767506]was published today:\nHTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames Vulnerability Note VU#767506 Original Release Date: 2025-08-13 | Last Revised: 2025-08-13 Overview -------- A vulnerability has been discovered within many HTTP/2 implementations allowing for denial of service (DoS) attacks through HTTP/2 control frames. This vulnerability is colloquially known as \"MadeYouReset\" and is tracked as CVE-2025-8671. Some vendors have assigned a specific CVE to their products to describe the vulnerability, such as CVE-2025-48989, which is used to identify Apache Tomcat products affected by the vulnerability. MadeYouReset exploits a mismatch caused by stream resets between HTTP/2 specifications and the internal architectures of many real-world web servers. This results in resource exhaustion, and a threat actor can leverage this vulnerability to perform a distributed denial of service attack (DDoS). This vulnerability is similar to CVE-2023-44487, colloquially known as \"Rapid Reset.\" Multiple vendors have issued patches or responses to the vulnerability, and readers should review the statements provided by vendors at the end of this Vulnerability Note and patch as appropriate. Description ----------- A mismatch caused by client-triggered server-sent stream resets between HTTP/2 specifications and the internal architectures of some HTTP/2 implementations may result in excessive server resource consumption leading to denial-of-service (DoS). This vulnerability is tracked as CVE-2025-8671 and is known colloquially as \"MadeYouReset.\" This vulnerability is similar to CVE-2023-44487, colloquially known as \"Rapid Reset\", which abused client-sent stream resets. HTTP/2 introduced stream cancellation - the ability of both client and server to immediately close a stream at any time. However, after a stream is canceled, many implementations keep processing the request, compute the response, but don't send it back to the client. This creates a mismatch between the amount of active streams from the HTTP/2 point of view, and the actual active HTTP requests the backend server is processing. By opening streams and then rapidly triggering the server to reset them using malformed frames or flow control errors, an attacker can exploit a discrepancy created between HTTP/2 streams accounting and the servers active HTTP requests. Streams reset by the server are considered closed, even though backend processing continues. This allows a client to cause the server to handle an unbounded number of concurrent HTTP/2 requests on a single connection. The flaw largely stems from many implementations of the HTTP/2 protocol equating resetting streams to closing them; however, in practice, the server will still process them. An attacker can exploit this to continually send reset requests, where the protocol is considering these reset streams as closed, but the server will still be processing them, causing a DoS. HTTP/2 does support a parameter called SETTINGS_MAX_CONCURRENT_STREAMS, which defines a set of currently active streams per session. In theory, this setting would prevent an attacker from overloading the target server, as they would max out the concurrent stream counter for their specific malicious session. In practice, when a stream is reset by the attacker, the protocol considers it no longer active and no longer accounts for it within this counter. Impact ------ The main impact of this vulnerability is its potential usage in DDoS attacks. Threat actors exploiting the vulnerability will likely be able to force targets offline or heavily limit connection possibilities for clients by making the server process an extremely high number of concurrent requests. Victims will have to address either high CPU overload or memory exhaustion depending on their implementation of HTTP/2. Solution -------- Various vendors have provided patches and statements to address the vulnerability. Please review their statements below. CERT/CC recommends that vendors who use HTTP/2 in their products review their implementation and limit the number/rate of RST_STREAMs sent from the server. Additionally, please review the supplemental materials provided by the reporters, which include additional mitigations and other potential solutions here:[https://galbarnahum.com/made-you-reset]Acknowledgements -----------",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alan Coopersmith",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T07:57:32.482+03:00",
+  "updated": "2025-08-14T07:59:53.000+03:00"
+}

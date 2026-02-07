@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "2919c5e8724b2073bf5f083f740a21039b400930",
+    "url": "https://hackernoon.com/maximizing-business-value-with-strategic-multi-cloud-connectivity",
+    "site_full": "hackernoon.com",
+    "site": "hackernoon.com",
+    "site_section": "https://hackernoon.com/on-this-day",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "#on-This-Day-hackernoon",
+    "title": "Maximizing Business Value with Strategic Multi-cloud Connectivity. | HackerNoon",
+    "title_full": "Maximizing Business Value with Strategic Multi-cloud Connectivity. | HackerNoon",
+    "published": "2024-04-11T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://hackernoon.imgix.net/images/lGihJBxj7nRNqce5CujQcbEHUQw1-ql83wq8.jpeg?mark-pad=0&amp;mark=http://hackernoon.imgix.net/HackerNoon%20Rounded%20Horizontal.png?w=400",
+    "performance_score": 0,
+    "domain_rank": 1843,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2919c5e8724b2073bf5f083f740a21039b400930",
+  "url": "https://hackernoon.com/maximizing-business-value-with-strategic-multi-cloud-connectivity",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dipti",
+  "published": "2024-04-11T03:00:00.000+03:00",
+  "title": "Maximizing Business Value with Strategic Multi-cloud Connectivity. | HackerNoon",
+  "text": "In 2022, Fortune 500 companies in North America unlocked a business value of $1 trillion by adopting cloud technologies. 86% of these organizations utilized multiple cloud providers for their operations. With a Total Addressable Market (TAM) of $8.6 billion in 2023, the multi-cloud market size is projected to expand to $50 billion (28.6% CAGR) by 2030. Multi-cloud is becoming increasingly popular among large enterprises and Managed Service Providers (MSPs). It enables organizations to optimize costs, bolster regulatory compliance, improve the performance of cloud applications, and speed up innovation. Organizations can leverage the best features and pricing of different cloud providers to increase flexibility and reduce costs. By selecting technologies that are widely supported across providers, they can develop vendor-neutral applications. By adhering to security best practices and selecting suitable deployment regions, organizations can strengthen regulatory compliance, enhance resilience, and reduce the latency of their applications. Finally, by lowering technological, cost, and security barriers, organizations can accelerate engineering innovation. If you are a network engineer, cloud architect, or business leader devising a multi-cloud strategy for your organization, this article introduces you to high-level options to interconnect your multi-cloud. Interconnecting cloud deployments is complicated. Multi-cloud environments typically involve a mix of public and hybrid clouds customized to an organization's particular needs and goals. Achieving low latency, high performance, and cost-effective connectivity between applications, databases, and clients across different clouds can be a considerable challenge. What complexity arises, you ask? Consider a scenario where a database is hosted on one cloud platform while a streaming application operates on another. The challenge is establishing a reliable, secure connection between the database and the application servers without any data loss. Each public cloud offers unique networking capabilities and topologies, which complicates centralized management and orchestration. Cloud providers lack standardized models for inter-cloud connectivity, possibly to discourage customers from using multiple providers, as improved connectivity might reduce customer loyalty. Nevertheless, methods do exist to facilitate interconnection between different clouds. There are multiple ways to interconnect cloud environments. You can use your enterprise’s data center as a hub. An enterprise's data center functions as a hub routing traffic between public clouds or forwarding traffic from on-prem to the cloud. You have two options. Use a VPN tunnel between the cloud endpoints and the data center to send traffic over the internet securely. Alternatively, you can use dedicated connections- like AWS Direct Connect, Azure ExpressRoute, or GCP Dedicated Interconnect- between the cloud and the enterprise’s data center. Since colocation providers -such as Equinix, Digital Reality, and CoreSite interconnect the cloud to the Enterprise’s on-prem DC through their data centers, the process for creating these connections is time-consuming and expensive. Use a carrier-managed MPLS circuit for multi-cloud and hybrid-cloud connectivity. Public cloud providers like AWS, GCP, and Azure partner with internet service providers (ISPs) like Verizon, AT\\u0026T, and Orange to provide MPLS connectivity, allowing enterprises to link their cloud environments through these carriers. While specific steps vary between cloud providers, the process consists of two parts. First, enterprises create a dedicated connection to a colocation provider like EQUNIX. Next, they peer the connection with the partner's customer edge route using eBGP. After peering with eBGP, the inter-cloud traffic flows over the partner’s MPLS circuit. Use a virtual cloud router. Network as a Service Provider (NaaS) provides connectivity between clouds and the on-prem DC. They abstract the underlying Public cloud provider-specific connectivity features, making the orchestration, management, and monitoring of connections seamless. An enterprise creates a virtual router using the NaaS provider’s console and adds its dedicated cloud connections and datacenter gateway to the virtual router. This allows the router to route traffic between clouds and the enterprise’s data center. Which connectivity option should you choose? Each option has its advantages and disadvantages. Internet connectivity to the cloud is most practical for low-bandwidth scenarios. For legacy cloud applications that don't demand high availability, VPN tunnels are a sensible choice. They are simple to manage and cost-effective. Private connectivity is often essential for business-critical applications. The enhanced security, network performance, and reliability justify the additional expense for systems like your internal ERP or CRM, which require secure private access for compliance purposes. MPLS circuits, known for their reliability and predictability, are generally reserved for mission-critical applications. However, due to their costly and inflexible nature, marked by long-term contracts and extensive setup and removal periods, private connectivity offers a more flexible alternative. NaaS providers provide pricing flexibility via Pay-Per-User rates and are easy to manage. If you are considering reaping the many benefits of a multi-cloud strategy, choose the connectivity model appropriate for your business objectives. Links to blogs used for research: Insights from CTOs on cloud strategies | McKinseyMulti-Cloud\\nManagement Market Size, Share | Report [2030] (fortunebusinessinsights.com) aws-network-connectivity-over-mpls.pdf (awsstatic.com) Who is selling NaaS, and what do you get? | Network World Multicloud Connectivity: A Complete Guide | Megaport Disclaimer: I am not affiliated with any of the businesses mentioned in this blog, nor do I represent them. The blog is written to educate the audience about the benefits of multi-cloud and networking options. It does not promote any specific company or vendor. In 2022, Fortune 500 companies in North America unlocked a business value of $1 trillion by adopting cloud technologies. 86% of these organizations utilized multiple cloud providers for their operations. With a Total Addressable Market (TAM) of $8.6 billion in 2023 , the multi-cloud market size is projected to expand to $50 billion (28.6% CAGR) by 2030. Multi-cloud is becoming increasingly popular among large enterprises and Managed Service Providers (MSPs). It enables organizations to optimize costs, bolster regulatory compliance, improve the performance of cloud applications, and speed up innovation. Organizations can leverage the best features and pricing of different cloud providers to increase flexibility and reduce costs. By selecting technologies that are widely supported across providers, they can develop vendor-neutral applications. By adhering to security best practices and selecting suitable deployment regions, organizations can strengthen regulatory compliance, enhance resilience, and reduce the latency of their applications. Finally, by lowering technological, cost, and security barriers, organizations can accelerate engineering innovation. Total Addressable Market (TAM) of $8.6 billion in 2023 If you are a network engineer, cloud architect, or business leader devising a multi-cloud strategy for your organization, this article introduces you to high-level options to interconnect your multi-cloud. Interconnecting cloud deployments is complicated. Multi-cloud environments typically involve a mix of public and hybrid clouds customized to an organization's particular needs and goals. Achieving low latency, high performance, and cost-effective connectivity between applications, databases, and clients across different clouds can be a considerable challenge. What complexity arises, you ask? Consider a scenario where a database is hosted on one cloud platform while a streaming application operates on another. The challenge is establishing a reliable, secure connection between the database and the application servers without any data loss. Each public cloud offers unique networking capabilities and topologies, which complicates centralized management and orchestration. Cloud providers lack standardized models for inter-cloud connectivity, possibly to discourage customers from using multiple providers, as improved connectivity might reduce customer loyalty. Nevertheless, methods do exist to facilitate interconnection between different clouds. There are multiple ways to interconnect cloud environments. You can use your enterprise’s data center as a hub. An enterprise's data center functions as a hub routing traffic between public clouds or forwarding traffic from on-prem to the cloud. You have two options. You can use your enterprise’s data center as a hub. Use a VPN tunnel between the cloud endpoints and the data center to send traffic over the internet securely. Alternatively, you can use dedicated connections- like AWS Direct Connect, Azure ExpressRoute, or GCP Dedicated Interconnect- between the cloud and the enterprise’s data center. Since colocation providers -such as Equinix, Digital Reality, and CoreSite interconnect the cloud to the Enterprise’s on-prem DC through their data centers, the process for creating these connections is time-consuming and expensive. Use a carrier-managed MPLS circuit for multi-cloud and hybrid-cloud connectivity. Public cloud providers like AWS, GCP, and Azure partner with internet service providers (ISPs) like Verizon, AT\\u0026T, and Orange to provide MPLS connectivity, allowing enterprises to link their cloud environments through these carriers. While specific steps vary between cloud providers, the process consists of two parts. First, enterprises create a dedicated connection to a colocation provider like EQUNIX. Next, they peer the connection with the partner's customer edge route using eBGP. After peering with eBGP, the inter-cloud traffic flows over the partner’s MPLS circuit. Use a carrier-managed MPLS circuit for multi-cloud and hybrid-cloud connectivity. Use a virtual cloud router. Network as a Service Provider (NaaS) provides connectivity between clouds and the on-prem DC. They abstract the underlying Public cloud provider-specific connectivity features, making the orchestration, management, and monitoring of connections seamless. An enterprise creates a virtual router using the NaaS provider’s console and adds its dedicated cloud connections and datacenter gateway to the virtual router. This allows the router to route traffic between clouds and the enterprise’s data center. Use a virtual cloud router. Which connectivity option should you choose? Each option has its advantages and disadvantages. Internet connectivity to the cloud is most practical for low-bandwidth scenarios. For legacy cloud applications that don't demand high availability, VPN tunnels are a sensible choice. They are simple to manage and cost-effective. Private connectivity is often essential for business-critical applications. The enhanced security, network performance, and reliability justify the additional expense for systems like your internal ERP or CRM, which require secure private access for compliance purposes. MPLS circuits, known for their reliability and predictability, are generally reserved for mission-critical applications. However, due to their costly and inflexible nature, marked by long-term contracts and extensive setup and removal periods, private connectivity offers a more flexible alternative. NaaS providers provide pricing flexibility via Pay-Per-User rates and are easy to manage. If you are considering reaping the many benefits of a multi-cloud strategy, choose the connectivity model appropriate for your business objectives. Links to blogs used for research: Insights from CTOs on cloud strategies | McKinsey Multi-Cloud\\nManagement Market Size, Share | Report [2030] (fortunebusinessinsights.com) Insights from CTOs on cloud strategies | McKinsey Multi-Cloud\\nManagement Market Size, Share | Report [2030] (fortunebusinessinsights.com) aws-network-connectivity-over-mpls.pdf (awsstatic.com) aws-network-connectivity-over-mpls.pdf (awsstatic.com) Who is selling NaaS, and what do you get? | Network World Who is selling NaaS, and what do you get? | Network World Multicloud Connectivity: A Complete Guide | Megaport Multicloud Connectivity: A Complete Guide | Megaport Disclaimer: I am not affiliated with any of the businesses mentioned in this blog, nor do I represent them. The blog is written to educate the audience about the benefits of multi-cloud and networking options. It does not promote any specific company or vendor.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "north america",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T00:02:32.333+03:00",
+  "updated": "2024-04-12T00:20:12.226+03:00"
+}

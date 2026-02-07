@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "39402fb40fa8f7695cd89eee6d28f69a9e065341",
+    "url": "https://cec.gmu.edu/news/2025-02/george-mason-researcher-gets-career-award-quantum-leaps-computing-help-ai",
+    "site_full": "cec.gmu.edu",
+    "site": "gmu.edu",
+    "site_section": "https://cec.gmu.edu/news",
+    "site_categories": [],
+    "section_title": "News and Information | College of Engineering and Computing",
+    "site_title": null,
+    "title": "George Mason researcher gets CAREER award for quantum leaps in computing, with the help of AI | College of Engineering and Computing",
+    "title_full": "George Mason researcher gets CAREER award for quantum leaps in computing, with the help of AI | College of Engineering and Computing",
+    "published": "2025-02-28T01:28:57.356+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cec.gmu.edu/sites/g/files/yyqcgq471/files/styles/large/public/2025-02/w.jiang-profile-1x1.jpg?itok=SiMI7NzJ",
+    "performance_score": 0,
+    "domain_rank": 1463,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "39402fb40fa8f7695cd89eee6d28f69a9e065341",
+  "url": "https://cec.gmu.edu/news/2025-02/george-mason-researcher-gets-career-award-quantum-leaps-computing-help-ai",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "February ; Nathan Kahl",
+  "published": "2025-02-28T01:28:57.356+02:00",
+  "title": "George Mason researcher gets CAREER award for quantum leaps in computing, with the help of AI | College of Engineering and Computing",
+  "text": "Weiwen Jiang, an assistant professor in the George Mason University's Department of Electrical and Computer Engineering, is an expert in quantum computing, having recently received nearly $1 million in National Science Foundation (NSF) funding to study “noise” that impacts quantum computing and to work on training the next generation of quantum experts.\nJiang’s research is all about pushing the mysterious world of quantum computing into the mainstream. “We are at the quantum utility era, which means we are going to have computational applications that can be implemented with and utilize the power of quantum computing,” he said. But Jiang knows that researchers need a boost in understanding the full quantum capability.\nIn January he received an NSF CAREER award for $641,778 for his work on quantum-centric computing cyberinfrastructure (QuCI). A combination of quantum computers, classical computers, and AI accelerators, QuCI is set to revolutionize\nsoftware applications handling everything from geophysics, chemistry, finance, and life sciences, because it can outperform classical computing with its speed, accuracy, and the ability to handle large, data-heavy problems. For example, the success of processing geoscience data on quantum computers can enable real-time decision-making on natural hazards, which leads to cost savings, reduced environmental impacts, and improved safety.\nJiang’s project includes three thrusts. One is using what’s called an AI-powered quantum performance predictor, which leads to an innovative and efficient ability to allocate computing resources in the moment. Jiang said, “When a batch of jobs comes into the system, we need to allocate the jobs into different quantum nodes and we want to distribute the jobs effectively.”\nAnother focus is bridging a knowledge gap between experts who want to run software applications but are not experts in quantum. “In order to fill this gap we do not want the expert to learn quantum computing from scratch,” he said. “We’ll find opportunities to fine-tune the configuration for quantum control optimization,” helping a non-expert user harness the power of quantum computing by combining classical central-processing unit computing with quantum. Current QuCIs require complicated decision-making to ensure correct computing results are obtained, but this can fall into the hands of users who lack quantum knowledge. Jiang’s project automates QuCI deployment, making decisions and optimizations at different stages without human interference.\nA third element is to develop what’s known as fault-tolerant quantum computing, which means allowing quantum computers to operate even when encountering errors. Jiang said, “Before we submit the job, we will add fault-tolerant protocols to ensure the functional correctness and boost performance.”\nThe NSF CAREER award is reserved for the nation’s most talented up-and-coming researchers. From the NSF website: “The Faculty Early Career Development (CAREER) Program offers NSF’s most prestigious award in support of early-career faculty who have the potential to serve as academic role models in research and education and to lead advances in the mission of their department or organization.”\nBeyond the scientific impact, the project builds an easy-to-understand quantum education program, which includes building a visualization platform to make quantum computations visible. This is significantly important for beginners who easily suffer from the counterintuitive concepts of quantum computing. In addition, Jiang will create workshops, tutorials, and competitions for different research communities, contribute to a George Mason-led quantum immersion program for K-12 students; and redesign a quantum curriculum at George Mason with outcomes from this project.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Education",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Education->college and university",
+    "Social Issue->adults",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2440637&HistoricalAwards=false",
+    "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program",
+    "https://nsf.gov/funding/opportunities/career-faculty-early-career-development-program",
+    "https://www.nsf.gov/awardsearch/showAward",
+    "https://nsf.gov/awardsearch/showAward?AWD_ID=2440637&HistoricalAwards=false"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "George Mason",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Weiwen Jiang",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Science Foundation",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:28:57.356+02:00",
+  "updated": "2025-02-28T01:28:57.356+02:00"
+}

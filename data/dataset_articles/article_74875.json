@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "3e54c6388f47f74c9b3c46bf7574585e9cebf2cb",
+    "url": "https://www.techspot.com/community/topics/the-official-bing-wallpaper-app-does-some-nasty-malware-like-things-to-windows.289285",
+    "site_full": "www.techspot.com",
+    "site": "techspot.com",
+    "site_section": "https://techspot.com/community/forums/-/index.rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TechSpot Forums",
+    "title": "The official \"Bing Wallpaper app\" does some nasty, malware-like things to Windows",
+    "title_full": "The official \"Bing Wallpaper app\" does some nasty, malware-like things to Windows",
+    "published": "2024-11-22T02:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2576,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3e54c6388f47f74c9b3c46bf7574585e9cebf2cb",
+  "url": "https://www.techspot.com/community/topics/the-official-bing-wallpaper-app-does-some-nasty-malware-like-things-to-windows.289285",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alfonso Maruccia (invalid@example.com)",
+  "published": "2024-11-22T02:22:00.000+02:00",
+  "title": "The official \"Bing Wallpaper app\" does some nasty, malware-like things to Windows",
+  "text": "Some third-party software companies behave like true malware sellers, packing their products with really questionable functionality and hidden payloads. When Microsoft shows the same behavior, however, Windows users tend to react swiftly and in an extremely negative way. According to Windows dev and \"reverse engineer by night\" Rafael Rivera, Bing Wallpaper is an absolute nightmare for the user's security and privacy. The app automatically installs Bing Visual Search and includes code to decrypt cookies saved in other browsers, Rivera said , and it also brings a \"free\" geolocation web API to the system. Cool wallpaper, not so cool app... The developer discovered \"many\" nasty tricks Microsoft integrated in Bing Wallpapers, which include trying to change the browser's settings and set Edge as the default system browser. If the default browser isn't Edge, the app will open the default browser after some time asking to enable the previously installed Microsoft Bing Search for Chrome extension. Rivera provided a list of the forcefully installed extensions users need to block in Chrome or Firefox. The developer straight up defined Bing Wallpaper as a malicious app, pointing to the app's server configuration for people interested in further investigating this malware. There's also a registry key that can apparently force the app to \"nuke itself,\" which sounds like a very nice option to have at this point. Netizens welcomed the Bing Wallpaper \"malware\" with open arms, and now they are sharing some very nice comments on Microsoft's latest attempt to bother the Windows userbase. People are saying that this sounds exactly like a thing Microsoft would do, while someone is even evoking a class action lawsuit against the company. If the wallpaper is free, one user said, you are likely the product. At this point, Bing Wallpaper can be considered unwanted, hostile adware at best. Dynamic wallpapers and related desktop customization features are readily available with other, adware-free apps and proper Win32 programs like Dynamic Wallpaper, Wallpaper Engine, and many more. Windows 11 even includes a native feature to change the desktop background every day, so there really is no need to install \"official\" Bing apps to get the job done. The official \"Bing Wallpaper app\" does some nasty, malware-like things to Windows",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "3e54c6388f47f74c9b3c46bf7574585e9cebf2cb",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T06:38:30.224+02:00",
+  "updated": "2024-11-27T06:51:05.323+02:00"
+}

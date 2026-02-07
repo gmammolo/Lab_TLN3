@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "eacf1de028c28bed96c7ed4617b9bf9ae1b05049",
+    "url": "https://www.cyberdaily.au/security/11563-chinese-threat-actors-behind-widespread-exploitation-of-ivanti-vpn-zero-day",
+    "site_full": "www.cyberdaily.au",
+    "site": "cyberdaily.au",
+    "site_section": "https://cyberdaily.au/news",
+    "site_categories": [],
+    "section_title": "Cyber Daily  News - Cyber Daily",
+    "title": "Chinese threat actors behind \"widespread\" exploitation of Ivanti VPN zero-day",
+    "title_full": "Chinese threat actors behind \"widespread\" exploitation of Ivanti VPN zero-day",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1678162135/Cyber%20Security/chinese-hacker-csc_gcxwnr.jpg",
+    "performance_score": 0,
+    "domain_rank": 70122,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eacf1de028c28bed96c7ed4617b9bf9ae1b05049",
+  "url": "https://www.cyberdaily.au/security/11563-chinese-threat-actors-behind-widespread-exploitation-of-ivanti-vpn-zero-day",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "<a href=\"/authors/david-hollingworth\" title=\"View all articles from David Hollingworth\">David Hollingworth</a>",
+  "published": "2025-01-10T02:00:00.000+02:00",
+  "title": "Chinese threat actors behind \"widespread\" exploitation of Ivanti VPN zero-day",
+  "text": "Share this article on:\nSecurity researchers at Mandiant are confident that Chinese hackers are behind an ongoing malware campaign exploiting a flaw in Ivanti Connect Secure appliances.\nChinese-backed hackers are very likely exploiting a [recently revealed zero-day vulnerability in Ivanti VPN devices](https://www.cyberdaily.au/security/11557-ivanti-warns-of-active-exploitation-of-a-bug-in-its-connect-secure-appliances), deploying a raft of malware on targeted appliances.\nResearchers at Google’s Mandiant cyber security division were initially responsible for disclosing CVE-2025-0282, and Mandiant and Ivanti are continuing to investigate the campaign at the time of writing.\nCVE-2025-0282 is an unauthenticated stack-based buffer overflow vulnerability that could lead to a threat actor executing code remotely on an impacted device, which in turn could lead to the compromise of an entire network.\nMandiant is currently studying multiple infected devices and has found several families of malware, particularly the SPAWNANT installer, SPAWNMOLE tunneler and the SPAWNSNAIL SSH backdoor.\nResearchers have also observed what appears to be new malware being deployed by the threat actor, which Mandiant has dubbed DRYHOOK and PHASEJAM.\nWhile the SPAWN family of malware has been seen to be used by a group of Chinese threat actors dubbed UNC5337, the latter two have not been linked to a particular threat group.\nUNC5337 has been exploiting compromised Ivanti Connect Secure VPN appliances since at least January 2024, and has links to another Chinese threat actor, tracked as UNC5221. Both have been seen to engage in cyber espionage activities. Once persistence has been maintained on a network, the groups deploy tunnellers to communicate with their command and control infrastructure, perform network reconnaissance, and harvest credentials.\nMandiant expects the espionage activity to continue against “a wide range of countries and verticals”.\n“Mandiant assesses that defenders should be prepared for widespread, opportunistic exploitation, likely targeting credentials and the deployment of web shells to provide future access,” Mandiant said in a January 9 blog post.\n“Additionally, if proof-of-concept exploits for CVE-2025-0282 are created and released, Mandiant assesses it is likely additional threat actors may attempt targeting Ivanti Connect Secure appliances.”\nYou can learn more about [Mandiant’s analysis of the exploitation here](https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day).\nIn addition, the Australian Signals Directorate’s Australian Cyber Security Centre released its own Act Now Critical Alert regarding CVE-2025-0282 and CVE-2025-0283 yesterday.\n“This Alert is relevant to Australian Organisations who use Ivanti Connect Secure, Ivanti Policy Secure and Ivanti Neurons for ZTA Gateways. This alert is intended to be understood by technical users,” the ACSC said on January 9.\n“Customers are encouraged to patch to the latest version of Ivanti Connect Secure, Ivanti Policy Secure and Ivanti Neurons for ZTA Gateways, where available and apply advice detailed in Ivanti’s Security Advisory.”\nDavid Hollingworth has been writing about technology for over 20 years, and has worked for a range of print and online titles in his career. He is enjoying getting to grips with cyber security, especially when it lets him talk about Lego.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day",
+    "https://www.cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T05:16:37.602+02:00",
+  "updated": "2025-01-10T05:16:37.602+02:00"
+}

@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "90b538220f97011492daf375795e155b09d0f9f4",
+    "url": "https://www.elpais.cr/2025/06/11/mistral-presenta-magistral-su-primer-modelo-de-razonamiento-transparente-que-se-puede-verificar-y-multilingue",
+    "site_full": "www.elpais.cr",
+    "site": "elpais.cr",
+    "site_section": "https://www.elpais.cr",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Diario Digital Nuestro País | DDNP",
+    "site_title": "Diario Digital Nuestro País | DDNP",
+    "title": "Mistral presenta Magistral, su primer modelo de razonamiento «transparente» que se puede verificar y multilingüe",
+    "title_full": "Mistral presenta Magistral, su primer modelo de razonamiento «transparente» que se puede verificar y multilingüe",
+    "published": "2025-06-11T23:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 77302,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "90b538220f97011492daf375795e155b09d0f9f4",
+  "url": "https://www.elpais.cr/2025/06/11/mistral-presenta-magistral-su-primer-modelo-de-razonamiento-transparente-que-se-puede-verificar-y-multilingue",
+  "ord_in_thread": 0,
+  "author": "Carlos Salazar",
+  "published": "2025-06-11T23:30:00.000+03:00",
+  "title": "Mistral presenta Magistral, su primer modelo de razonamiento «transparente» que se puede verificar y multilingüe",
+  "text": "París 11 Jun. (Portaltic/EP) – Mistral ha lanzado su primer modelo de razonamiento Magistral que, disponible en las versiones Small y Medium, integra capacidades para resolver problemas complejos con un razonamiento «transparente» y multilingüe, con lo que permite un uso general para situaciones que requieran un procesamiento más largo y de precisión, como la investigación jurídica y financiera o el desarrollo de ‘software’.\nLa tecnológica de origen francés ha alcanzado mejoras a la hora de resolver problemas que requieren deliberación, análisis de procesos y una ejecución paso a paso, gracias al desarrollo de nuevos modelos de razonamiento que siguen el proceso de pensamiento de los humanos, que «se entrelaza con la lógica, la intuición, la incertidumbre y el descubrimiento».\nEn este sentido, Mistral ha lanzado Magistral, su primer modelo de razonamiento, disponible en las versiones Small y Medium, diseñado para analizar las cosas con detalle a la vez que aportar experiencia en distintos ámbitos profesionales, con un razonamiento «transparente» que se puede seguir y verificar, y flexibilidad multilingüe.\nConcretamente, la versión Magistral Small es una versión de código abierto con un tamaño de 24 mil millones de parámetros. Por su parte, Magistral Medium es una versión diseñada para el ámbito empresarial y, por tanto, ofrece capacidades más potentes, con puntuaciones del 73,6 por ciento en pruebas que evalúan las habilidades de física, matemáticas y ciencias del modelo, como AIME2024.\nEn este marco, tal y como ha especificado la compañía en un comunicado en su web, al estar optimizado para la lógica de múltiples pasos, este modelo en ambas versiones facilita la interpretación por parte de los usuarios y proporciona un proceso de pensamiento rastreable.\nAsimismo, con sus capacidades multilingües, cuenta con un método de razonamiento que actúa de forma nativa, es decir, que la cadena de pensamiento funciona «en todos los idiomas y alfabetos del mundo». No obstante, Mistral ha señalado que es especialmente adecuado para razonar en idiomas como el inglés, francés, español, alemán, italiano, árabe, ruso y chino simplificado.\nAsí, permite una amplia gama de casos de uso que abarcan, desde cálculos estructurados y lógica programática, hasta la toma de decisiones y la ejecución de sistemas basados en reglas.\nAdemás de todo ello, con su integración en el ‘chatbot’ de Mistral Le Chat, la versión Magistral Medium alcanza un rendimiento de tokens «hasta diez veces más rápido que la mayoría de sus competidores», al tiempo que permite acceder al razonamiento en tiempo real del modelo, así como la retroalimentación del usuario a gran escala, según ha especificado la compañía.\nTodas estas características hacen que sea una opción versátil para distintos casos de uso, englobando desde la investigación jurídica y la previsión financiera hasta el desarrollo de ‘software’ y la narrativa creativa. «Este modelo resuelve desafíos de múltiples pasos donde la transparencia y la precisión son cruciales», ha sentenciado la tecnológica.\nCon todo, Magistral Small está disponible de forma abierta bajo la licencia Apache 2.0 y ya se puede descargar desde Huggingface. En el caso de Magistral Medium, se puede probar una versión preliminar a través de Le Chat o mediante la API en La Plateforme.\nIgualmente, Magistral Medium también está disponible en Amazon SageMaker y, próximamente, se podrá utilizar en IBM Watson X, Azure AI y Google Cloud Marketplace. Asimismo, el objetivo de la compañía es iterar el modelo a partir de esta versión, de cara a ofrecer modelos mejorados constantemente.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Education->online and remote learning",
+    "Education->students",
+    "Education->college and university"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mistral",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "ibm",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "IBM",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "us steel",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "X",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "AI",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AI",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-12T11:01:26.516+03:00",
+  "updated": "2025-06-12T08:07:55.000+00:00"
+}

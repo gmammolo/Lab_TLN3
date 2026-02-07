@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "2baab14f02673a0e89c355da55b16e243fc570e2",
+    "url": "https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807",
+    "site_full": "www.quantamagazine.org",
+    "site": "quantamagazine.org",
+    "site_section": "https://hn.algolia.com/latest.atom",
+    "site_categories": [
+      "science",
+      "physics"
+    ],
+    "section_title": "HN's home page",
+    "title": "Physicists Pinpoint the Quantum Origin of the Greenhouse Effect",
+    "title_full": "Physicists Pinpoint the Quantum Origin of the Greenhouse Effect",
+    "published": "2024-10-04T02:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/08/GreenhouseEffect-crKristinaArmitageMattTwombly-Social.webp",
+    "performance_score": 0,
+    "domain_rank": 4612,
+    "domain_rank_updated": "2024-10-01T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2baab14f02673a0e89c355da55b16e243fc570e2",
+  "url": "https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "baanist",
+  "published": "2024-10-04T02:54:00.000+03:00",
+  "title": "Physicists Pinpoint the Quantum Origin of the Greenhouse Effect",
+  "text": "Physicists Pinpoint the Quantum Origin of the Greenhouse Effect\nIntroduction\nIn 1896, the Swedish physicist Svante Arrhenius realized that carbon dioxide (CO2) traps heat in Earth’s atmosphere — the phenomenon now called the greenhouse effect. Since then, increasingly sophisticated modern climate models have verified Arrhenius’ central conclusion: that every time the CO2 concentration in the atmosphere doubles, Earth’s temperature will rise between 2 and 5 degrees Celsius.\nStill, the physical reason why CO2 behaves this way has remained a mystery, until recently.\nFirst, in 2022, physicists settled a dispute over the origin of the “logarithmic scaling” of the greenhouse effect. That refers to the way Earth’s temperature increases the same amount in response to any doubling of CO2, no matter the raw numbers.\nThen, this spring, a team led by Robin Wordsworth of Harvard University figured out why the CO2 molecule is so good at trapping heat in the first place. The researchers identified a strange quirk of the molecule’s quantum structure that explains why it’s such a powerful greenhouse gas — and why pumping more carbon into the sky drives climate change. The findings appeared in The Planetary Science Journal.\n“It’s a really nice paper,” said Raymond Pierrehumbert, an atmospheric physicist at the University of Oxford who was not involved in the work. “It’s a good answer to all those people who say that global warming is just something that comes out of impenetrable computer models.”\nTo the contrary, global warming is tied to a numerical coincidence involving two different ways that CO2 can wiggle.\n“If it weren’t for this accident,” Pierrehumbert said, “then a lot of things would be different.”\nAn Old Conclusion\nHow could Arrhenius understand the basics of the greenhouse effect before quantum mechanics was even discovered? It started with Joseph Fourier, a French mathematician and physicist who realized exactly 200 years ago that Earth’s atmosphere insulates the planet from the freezing cold of space, a discovery that launched the field of climate science. Then, in 1856, an American, Eunice Foote, observed that carbon dioxide is particularly good at absorbing radiation. Next, the Irish physicist John Tyndall measured the amount of infrared light that CO2 absorbs, showing the effect which Arrhenius then quantified using basic knowledge about Earth.\nEarth radiates heat in the form of infrared light. The gist of the greenhouse effect is that some of that light, instead of escaping straight to space, hits CO2 molecules in the atmosphere. A molecule absorbs the light, then reemits it. Then another does. Sometimes the light heads back down toward the surface. Sometimes it heads up to space, leaving the Earth one iota cooler, but only after traversing a jagged path to the cold upper reaches of the atmosphere.\nUsing a cruder version of the same mathematical approach climate scientists take today, Arrhenius concluded that adding more CO2 would cause the planet’s surface to get warmer. It’s like adding insulation in your walls to keep your house warmer in the winter — heat from your furnace enters at the same rate, but it escapes more slowly.\nA few years later, however, the Swedish physicist Knut Ångström published a rebuttal. He argued that CO2 molecules only absorb a specific wavelength of infrared radiation — 15 microns. And there was already enough of the gas in the atmosphere to trap 100% of the 15-micron light Earth emits, so adding more CO2 would do nothing.\nWhat Ångström missed was that CO2 can absorb wavelengths slightly shorter or longer than 15 microns, though less readily. This light gets captured fewer times along its trip to space.\nBut that capture rate changes if the amount of carbon dioxide doubles. Now the light has twice the molecules to dodge before escaping, and it tends to get absorbed more times along the way. It escapes from a higher, colder layer of the atmosphere, so the outflow of heat slows to a trickle. It’s the heightened absorption of these near-15-micron wavelengths that’s responsible for our changing climate.\nDespite the mistake, Ångström’s paper threw enough doubt on Arrhenius’s theory among his contemporaries that discussion of climate change more or less exited the mainstream for half a century. Even today, skeptics of the climate change consensus sometimes cite Ångström’s erroneous carbon “saturation” argument.\nBack to Basics\nIn contrast to those early days, the modern era of climate science has moved forward largely by way of computational models that capture the many complex and chaotic facets of our messy, shifting atmosphere. For some, this makes the conclusions harder to understand.\n“I’ve talked to a lot of skeptical physicists, and one of their objections is ‘You guys just run computer models, and then you take the answers from this black-box calculation, and you don’t understand it deeply,’” said Nadir Jeevanjee, an atmospheric physicist at the National Oceanic and Atmospheric Administration (NOAA). “It’s a little unsatisfying not to be able to explain to someone on a chalkboard why we get the numbers we get.”\nJeevanjee and others like him have set out to build a simpler understanding of the impact of CO2 concentration on the climate.\nA key question was the origin of the logarithmic scaling of the greenhouse effect — the 2-to-5-degree temperature rise that models predict will happen for every doubling of CO2. One theory held that the scaling comes from how quickly the temperature drops with altitude. But in 2022, a team of researchers used a simple model to prove that the logarithmic scaling comes from the shape of carbon dioxide’s absorption “spectrum” — how its ability to absorb light varies with the light’s wavelength.\nThis goes back to those wavelengths that are slightly longer or shorter than 15 microns. A critical detail is that carbon dioxide is worse — but not too much worse — at absorbing light with those wavelengths. The absorption falls off on either side of the peak at just the right rate to give rise to the logarithmic scaling.\n“The shape of that spectrum is essential,” said David Romps, a climate physicist at the University of California, Berkeley, who co-authored the 2022 paper. “If you change it, you don’t get the logarithmic scaling.”\nThe carbon spectrum’s shape is unusual — most gases absorb a much narrower range of wavelengths. “The question I had at the back of my mind was: Why does it have this shape?” Romps said. “But I couldn’t put my finger on it.”\nConsequential Wiggles\nWordsworth and his co-authors Jacob Seeley and Keith Shine turned to quantum mechanics to find the answer.\nLight is made of packets of energy called photons. Molecules like CO2 can absorb them only when the packets have exactly the right amount of energy to bump the molecule up to a different quantum mechanical state.\nCarbon dioxide usually sits in its “ground state,” where its three atoms form a line with the carbon atom in the center, equidistant from the others. The molecule has “excited” states as well, in which its atoms undulate or swing about.\nA photon of 15-micron light contains the exact energy required to set the carbon atom swirling about the center point in a sort of hula-hoop motion. Climate scientists have long blamed this hula-hoop state for the greenhouse effect, but — as Ångström anticipated — the effect requires too precise an amount of energy, Wordsworth and his team found. The hula-hoop state can’t explain the relatively slow decline in the absorption rate for photons further from 15 microns, so it can’t explain climate change by itself.\nThe key, they found, is another type of motion, where the two oxygen atoms repeatedly bob toward and away from the carbon center, as if stretching and compressing a spring connecting them. This motion takes too much energy to be induced by Earth’s infrared photons on their own.\nBut the authors found that the energy of the stretching motion is so close to double that of the hula-hoop motion that the two states of motion mix with one another. Special combinations of the two motions exist, requiring slightly more or less than the exact energy of the hula-hoop motion.\nThis unique phenomenon is called Fermi resonance after the famous physicist Enrico Fermi, who derived it in a 1931 paper. But its connection to Earth’s climate was only made for the first time in a paper last year by Shine and his student, and the paper this spring is the first to fully lay it bare.\n“The moment when we wrote down the terms of this equation and saw that it all clicked together, it felt pretty incredible,” Wordsworth said. “It’s a result that finally shows us how directly the quantum mechanics links to the bigger picture.”\nIn some ways, he said, the calculation helps us understand climate change better than any computer model. “It just seems to be a fundamentally important thing to be able to say in a field that we can show from basic principles where everything comes from.”\nJoanna Haigh, an atmospheric physicist and emeritus professor at Imperial College London, agreed, saying the paper adds rhetorical power to the case for climate change by showing that it is “based on fundamental quantum mechanical concepts and established physics.”\nThis January, NOAA’s Global Monitoring Laboratory reported that the concentration of CO2 in the atmosphere has risen from its preindustrial level of 280 parts per million to a record high 419.3 parts per million as of 2023, triggering an estimated 1 degree Celsius of warming so far.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ui.adsabs.harvard.edu/abs/2023QJRMS.149.1856S/abstract",
+    "http://nadirjeevanjee.com/",
+    "https://www.physics.ox.ac.uk/our-people/pierrehumbert",
+    "https://eps.harvard.edu/people/robin-wordsworth",
+    "https://journals.ametsoc.org/view/journals/clim/35/13/JCLI-D-21-0275.1.xml",
+    "https://profiles.imperial.ac.uk/j.haigh",
+    "https://iopscience.iop.org/article/10.3847/PSJ/ad226d",
+    "https://eps.berkeley.edu/people/david-romps",
+    "https://www.tandfonline.com/doi/pdf/10.1080/14786449608620846",
+    "https://www.profiles.imperial.ac.uk/j.haigh",
+    "https://www.iopscience.iop.org/article/10.3847/PSJ/ad226d",
+    "https://physics.ox.ac.uk/our-people/pierrehumbert",
+    "https://www.journals.ametsoc.org/view/journals/clim/35/13/JCLI-D-21-0275.1.xml",
+    "https://tandfonline.com/doi/pdf/10.1080/14786449608620846",
+    "http://nadirjeevanjee.com",
+    "https://www.ui.adsabs.harvard.edu/abs/2023QJRMS.149.1856S/abstract",
+    "https://www.eps.berkeley.edu/people/david-romps",
+    "https://www.eps.harvard.edu/people/robin-wordsworth",
+    "http://www.nadirjeevanjee.com/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-04T02:59:32.528+03:00",
+  "updated": "2024-10-04T02:59:32.528+03:00"
+}

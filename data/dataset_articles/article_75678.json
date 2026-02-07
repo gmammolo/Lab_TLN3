@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "bde3303ea13f7a4eb30f1ea38b02c96a54d23c3c",
+    "url": "https://cyberscoop.com/ivanti-vpn-vulnerabilities-zero-day-exploit-china-cisa",
+    "site_full": "cyberscoop.com",
+    "site": "cyberscoop.com",
+    "site_section": "https://www.cyberscoop.com",
+    "site_categories": [],
+    "section_title": "CyberScoop | Breaking Cybersecurity News, Public Sector Threats",
+    "title": "New zero-day exploit targets Ivanti VPN product",
+    "title_full": "New zero-day exploit targets Ivanti VPN product",
+    "published": "2025-01-09T19:09:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 11864,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bde3303ea13f7a4eb30f1ea38b02c96a54d23c3c",
+  "url": "https://cyberscoop.com/ivanti-vpn-vulnerabilities-zero-day-exploit-china-cisa",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "mbracken",
+  "published": "2025-01-09T19:09:00.000+02:00",
+  "title": "New zero-day exploit targets Ivanti VPN product",
+  "text": "Cybersecurity New zero-day exploit targets Ivanti VPN product After Ivanti detected the activity, Mandiant says it found malware in impacted devices associated with a Chinese-linked threat group. By Matt Bracken\nJanuary 9, 2025\nListen to this article 0:00 Learn more. This feature uses an automated voice, which may result in occasional errors in pronunciation, tone, or sentiment. (Getty Images)\nA year after a series of vulnerabilities impacting a pair of Ivanti VPN products prompted an emergency directive from the Cybersecurity and Infrastructure Security Agency to federal agencies, the Utah-based software firm is again experiencing issues with one of its signature systems.\nThe company on Wednesday disclosed two vulnerabilities — CVE-2025-0282 and CVE-2025-0283 — that were affecting Ivanti Connect Secure (ICS) appliances. Mandiant, enlisted by Ivanti in the investigation and analysis of the vulnerabilities, said in a blog post that it had discovered zero-day exploitation of CVE-2025-0282 in the wild starting in mid-December of last year.\nThat particular vulnerability, the Google Cloud-owned security firm noted, “is an unauthenticated stack-based buffer overflow.” If successfully exploited, unauthenticated remote code execution is possible, which could lead to “potential downstream compromise of a victim network.”\nIvanti, which is working to address the issues in concert with Mandiant as well as impacted customers, government partners and security vendors, was able to identify the compromise thanks to some commercial security monitoring tools and its Integrity Checker Tool.\nAdvertisement In February 2024, CISA and several intelligence partners issued an advisory saying that the Integrity Checker Tool was “ not sufficient ” in detecting compromises, a charge that Ivanti strongly disputed . That advisory came after the January 2024 emergency directive from CISA regarding vulnerabilities in Ivanti’s VPN products and subsequent instructions from the cyber agency on how to update and bring those devices back online in the wake of reports that the vulnerable devices were being targeted by Chinese espionage operations .\nOn Thursday, CISA added the latest vulnerability to its Known Exploited Vulnerability (KEV) catalog .\nFor the current vulnerabilities plaguing Ivanti’s products, the company has released patches and urged customers to secure their systems via instructions in its security advisory.\nIn the Wednesday blog post, Mandiant researchers said their analysis found signs of SPAWN in infected systems, noting that the deployment of that malware ecosystem has been attributed to the China-linked UNC5337, a group believed to be part of UNC5221.\nOther malware families observed by Mandiant in compromised Ivanti systems include DRYHOOK and PHASEJAM, neither of which are currently linked to a specific threat group.\nAdvertisement “Mandiant assesses that defenders should be prepared for widespread, opportunistic exploitation, likely targeting credentials and the deployment of web shells to provide future access,” the firm’s researchers concluded. “Additionally, if proof-of-concept exploits for CVE-2025-0282 are created and released, Mandiant assesses it is likely additional threat actors may attempt targeting Ivanti Connect Secure appliances.”\nA spokesperson for Ivanti said in an email to CyberScoop that the company has “worked in close collaboration with Mandiant on the analysis of the recently disclosed vulnerabilities to ensure the accuracy of the findings and in order to provide customers with the most comprehensive guidance possible. We remain committed to prioritizing our customers and continuously improving our products and processes through collaboration with our partners and the broader security ecosystem.”\nThis story was updated Jan. 9, 2025, with a comment from an Ivanti spokesperson.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->cyber crime",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day?e=48754805",
+    "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-0282-CVE-2025-0283?language=en_US",
+    "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+    "https://nvd.nist.gov/vuln/detail/CVE-2025-0283",
+    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-060b",
+    "https://www.cisa.gov/cisa-mitigation-instructions-cve-2025-0282",
+    "https://cisa.gov/news-events/cybersecurity-advisories/aa24-060b",
+    "https://www.nvd.nist.gov/vuln/detail/CVE-2025-0283",
+    "https://www.forums.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-0282-CVE-2025-0283?language=en_US",
+    "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day",
+    "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-0282-CVE-2025-0283",
+    "https://www.cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day?e=48754805",
+    "https://cisa.gov/known-exploited-vulnerabilities-catalog",
+    "https://cisa.gov/cisa-mitigation-instructions-cve-2025-0282"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:09:29.026+02:00",
+  "updated": "2025-01-10T02:09:04.105+02:00"
+}

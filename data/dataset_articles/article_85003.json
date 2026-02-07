@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "8309e23d87f7cbb630e66dbe0e2f38ed19ae4890",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1287836",
+    "site_full": "daijiworld.com",
+    "site": "daijiworld.com",
+    "site_section": "https://daijiworld.com",
+    "site_categories": [
+      "media",
+      "top_news_kw",
+      "top_news_ae",
+      "top_news"
+    ],
+    "section_title": "Daijiworld - A News portal linking West coast of India and the World",
+    "site_title": "Daijiworld - A News portal linking West coast of India and the World",
+    "title": "US to roll out private health data system in partnership with big tech firms - Daijiworld.com",
+    "title_full": "US to roll out private health data system in partnership with big tech firms - Daijiworld.com",
+    "published": "2025-07-31T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/healthcentre_310725_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 25485,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8309e23d87f7cbb630e66dbe0e2f38ed19ae4890",
+  "url": "https://daijiworld.com/news/newsDisplay?newsID=1287836",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-07-31T03:00:00.000+03:00",
+  "title": "US to roll out private health data system in partnership with big tech firms - Daijiworld.com",
+  "text": "Daijiworld Media Network- Washington\nWashington, Jul 31: In a significant development, the US government is set to collaborate with major tech giants like Google and Amazon to launch a new digital health tracking system, aiming to centralize personal medical data of Americans for easier access and management.\nThe initiative, to be officially unveiled at the White House meeting involving over 60 private and public sector entities, is being promoted as a step toward a “digital health ecosystem” focusing initially on diabetes and weight management, along with AI-assisted health services.\nHowever, the move is drawing sharp criticism from privacy and legal experts. Many fear that the integration of private medical records with technology platforms could compromise confidentiality and be exploited for commercial gain.\nUnder the plan, apps and platforms will be allowed to access patient records, including lab tests and prescriptions, if individuals voluntarily opt in. One such example is Noom, a popular wellness app, which would use this data to offer AI-driven suggestions for weight loss.\nCMS Administrator Dr. Mehmet Oz defended the move, stating, “We now have the tools to empower patients with seamless access to their health data,” and promised that all data sharing would be secure and consent-based.\nThe Cleveland Clinic’s CEO, Tomislav Mihaljevic, welcomed the initiative, citing long-standing difficulties in accessing complete patient records across states and providers. “This system could help eliminate delays in treatment due to fragmented data,” he said.\nYet, legal experts like Prof. Lawrence Gostin of Georgetown University have warned that this step could erode patient privacy protections, especially given the government's recent history of handling sensitive data.\nDigital rights activists, including Jeffrey Chester from the Center for Digital Democracy, have also raised red flags, labeling the project a “gateway to the monetization of Americans’ private health information.”\nMeanwhile, US Health and Human Services Secretary Robert F. Kennedy Jr. is actively backing the plan. Known for his advocacy of health tech, Kennedy is reportedly working to expand the use of wearables and telehealth systems, and has expressed interest in collecting more comprehensive health data to study conditions like autism and vaccine effects.\nAs the country prepares to embrace this ambitious tech-health integration, questions around data ethics, security, and transparency remain unresolved, leaving millions of Americans cautiously optimistic—but equally wary.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Health->health care approach",
+    "Health->government health care",
+    "Health->health organisation",
+    "Science and Technology->biomedical science",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social services",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_kw",
+      "top_news_ae",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T07:54:34.231+03:00",
+  "updated": "2025-08-01T08:05:54.000+03:00"
+}

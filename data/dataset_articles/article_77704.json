@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "b1ad72d8619f0c8c288a5277e749073a37e0dad7",
+    "url": "https://www.oschina.net/news/367576/systemd-259-requirements",
+    "site_full": "www.oschina.net",
+    "site": "oschina.net",
+    "site_section": "https://www.oschina.net/news/rss",
+    "site_categories": [
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "OSCHINA 社区最新新闻",
+    "site_title": "OSCHINA - 中文开源技术交流社区",
+    "title": "systemd 259 将提高运行系统要求，弃用旧版 iptables - OSCHINA - 中文开源技术交流社区",
+    "title_full": "systemd 259 将提高运行系统要求，弃用旧版 iptables - OSCHINA - 中文开源技术交流社区",
+    "published": "2025-08-20T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4406,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b1ad72d8619f0c8c288a5277e749073a37e0dad7",
+  "url": "https://www.oschina.net/news/367576/systemd-259-requirements",
+  "ord_in_thread": 0,
+  "author": "局",
+  "published": "2025-08-20T19:00:00.000+03:00",
+  "title": "systemd 259 将提高运行系统要求，弃用旧版 iptables - OSCHINA - 中文开源技术交流社区",
+  "text": "推广 | 这一次的源创会，不会只让你坐着听讲 随着 systemd 258 正式推出（目前已发布 rc3 候选版本），开发团队已公布下一个版本 systemd 259 的重要调整：它将全面提高依赖组件的最低版本要求，并逐步淘汰旧技术支持。\n具体来看，systemd 259 要求运行环境至少满足以下条件：\nLinux 内核 5.10+（推荐 5.14+）\nglibc 2.34+\nlibxcrypt 4.4.0+（不再依赖 glibc 内建 libcrypt）\nutil-linux 2.37+\nelfutils 0.177+\nOpenSSL 3.0.0+\ncryptsetup 2.4.0+\nlibfido2 1.5.0+\nlibseccomp 2.4.0+\nPython 3.9+\n值得注意的是，systemd 259 还将 移除对旧版 iptables（libiptc）的支持 。这意味着使用 systemd-networkd 或 systemd-nspawn 的用户必须转向 nftables 。\n总体来看，对这些组件版本做出要求上调“似乎合乎情理”，并且对于那些自己手动编译 systemd 最新版本的用户来说，这些新要求“可能不会带来太大问题”。\nhttps://github.com/systemd/systemd/releases/tag/v258-rc3",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/systemd/systemd/releases/tag/v258-rc3",
+    "https://www.github.com/systemd/systemd/releases/tag/v258-rc3"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T08:49:07.712+03:00",
+  "updated": "2025-08-21T08:53:30.000+03:00"
+}

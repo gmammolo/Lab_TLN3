@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "c3648e51f7c966e4dbcc9fb345fab8529a4a32c5",
+    "url": "https://www.xatakandroid.com/aplicaciones-android/a-mayor-tienda-aplicaciones-open-source-le-ha-surgido-problema-inesperado-se-ha-quedado-capacidad-para-actualizar",
+    "site_full": "www.xatakandroid.com",
+    "site": "xatakandroid.com",
+    "site_section": "http://www.xatakandroid.com/atom.xml",
+    "site_categories": [
+      "tech",
+      "email"
+    ],
+    "section_title": "Xataka Android",
+    "site_title": "Xataka Android - Sistema operativo móviles Google, Play store, Apps",
+    "title": "A la mayor tienda de aplicaciones Open Source le ha surgido un problema inesperado. Se ha quedado sin capacidad para actualizar",
+    "title_full": "A la mayor tienda de aplicaciones Open Source le ha surgido un problema inesperado. Se ha quedado sin capacidad para actualizar",
+    "published": "2025-08-14T11:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://i.blogs.es/105e6f/f-droid-fallo/840_560.jpeg",
+    "performance_score": 0,
+    "domain_rank": 45396,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c3648e51f7c966e4dbcc9fb345fab8529a4a32c5",
+  "url": "https://www.xatakandroid.com/aplicaciones-android/a-mayor-tienda-aplicaciones-open-source-le-ha-surgido-problema-inesperado-se-ha-quedado-capacidad-para-actualizar",
+  "ord_in_thread": 0,
+  "author": "Pepu Ricca",
+  "published": "2025-08-14T11:00:00.000+03:00",
+  "title": "A la mayor tienda de aplicaciones Open Source le ha surgido un problema inesperado. Se ha quedado sin capacidad para actualizar",
+  "text": "Si hay una tienda de aplicaciones alternativa a Google Play Store para Android, esa es, por excelencia, la veterana F-Droid. Encontrar las mejores apps de código abierto es más sencillo en este repositorio libre, aunque le acaba de surgir un problema con un motivo de lo más curioso: no puede compilar más apps para mantenerlas actualizadas ni añadir nuevas.\nEl problema. Desde el pasado 7 de agosto, las nuevas herramientas de desarrollo de Android requieren que el ordenador que compila la app tenga un procesador con instrucciones modernos, como SSE4.1 y SSE3. El problema es que los servidores de F-Droid, que se encargan de compilar las apps para garantizar su seguridad, usan un hardware demasiado antiguo que no las soporta.\nPor lo tanto, esto ha provocado un fallo en cadena que impide publicar nuevas versiones, un varapalo para una tienda alternativa que debería tener la última versión disponible.\n15 años. Ese es el tiempo que se supone que tiene el hardware de los servidores de F-Droid. Así lo ha revelado la comunidad, en foros como Y-Combinator donde sacaron a la luz que las CPUs son de una antigüedad considerable. Un desarrollador del proyecto confirmó que usan \"CPUs de grado de servidor antiguas\" que no soportan las nuevas instrucciones. Esto sitúa este hardware en la época de los Intel Core 2 Duo previos a 2011, una eternidad en el mundo de la tecnología.\nApps desactualizadas. La consecuencia directa es que, aunque los desarrolladores publiquen nuevas versiones de sus apps con correcciones de errores o nuevas funciones, estas no llegan a los usuarios de F-Droid. Por su parte, los desarrolladores se ven obligados a dedicar tiempo y esfuerzo a crear versiones de \"mantenimiento\" con herramientas antiguas para poder publicar en la tienda, una solución temporal.\nDebate. El incidente, que ya ocurrió de forma similar en 2021 y fue solucionado entonces por Google, reabre una conversación. ¿Es culpa de Google por no dar soporte a hardware antiguo o de F-Droid por no haber modernizado su infraestructura? En el fondo, esta situación expone la dificultad que tienen los proyectos comunitarios, mantenido por voluntarios y donaciones, para sostener una tienda de apps que pueda seguir el ritmo impuesto por gigantes como Google.\nAlternativas. Para los usuarios amantes del Open Source, hay alternativas a F-Droid. A pesar de ser la tienda más relevante, otras como Obtainium permiten seguir actualizando las apps que en F-Droid no van a la última. Esta app consigue descargar e instalar APKs directamente desde los repositorios de GitHub. Además, notifica de actualizaciones cuando ese repositorio tiene un nuevo lanzamiento. Es una buena solución en lo que F-Droid.\nEn Xataka Android | 28 aplicaciones de código abierto gratis tan buenas que son capaces de sustituir a las de Google",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://news.ycombinator.com/item?id=44884709",
+    "https://gitlab.com/fdroid/fdroiddata/-/merge_requests/?label_name%5B%5D=AGP-8.12.0",
+    "https://github.com/CatimaLoyalty/Android/issues/2608#issuecomment-3172796354",
+    "https://gitlab.com/fdroid/fdroiddata/-/merge_requests/",
+    "https://news.ycombinator.com/item",
+    "https://www.gitlab.com/fdroid/fdroiddata/-/merge_requests/?label_name%5B%5D=AGP-8.12.0",
+    "https://www.github.com/CatimaLoyalty/Android/issues/2608#issuecomment-3172796354",
+    "https://www.news.ycombinator.com/item?id=44884709"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Android",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:30:26.895+03:00",
+  "updated": "2025-08-14T11:42:00.000+03:00"
+}

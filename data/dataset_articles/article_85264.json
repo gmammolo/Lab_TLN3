@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "42a290051be14e8b4d735aad0a81f5e912455326",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-07-31/doc-infiitzw7501555.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://tech.sina.com.cn/",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪科技_新浪网",
+    "site_title": null,
+    "title": "通义Qwen3新推理模型发布：思考、数学代码能力大幅提升|推理_新浪科技_新浪网",
+    "title_full": "通义Qwen3新推理模型发布：思考、数学代码能力大幅提升|推理_新浪科技_新浪网",
+    "published": "2025-07-31T07:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "42a290051be14e8b4d735aad0a81f5e912455326",
+  "url": "https://finance.sina.com.cn/tech/roll/2025-07-31/doc-infiitzw7501555.shtml",
+  "ord_in_thread": 0,
+  "author": "快科技",
+  "published": "2025-07-31T07:04:00.000+03:00",
+  "title": "通义Qwen3新推理模型发布：思考、数学代码能力大幅提升|推理_新浪科技_新浪网",
+  "text": "快科技7月31日消息，据媒体报道， 阿里通义千问重磅推出推理模型升级版Qwen3-30B-A3B-Thinking-2507，在数学与代码两大核心能力上实现突破性进展。\n该模型在数学推理评测AIME25中获得85.0分，在代码能力测试LiveCodeBench v6中取得66.0分，全面超越Gemini2.5-Flash（thinking）及自家前代旗舰Qwen3-235B等竞品。\n新模型在知识水平评测（GPQA、MMLU-Pro）中较前代显著提升， 同时在写作（WritingBench）、Agent能力（BFCL-v3）以及多轮对话、多语言指令（MultiIF）等通用能力维度均展现出优势。测试数据证实，其综合性能已形成对同类标杆模型的全面超越。\n此次升级特别拓展了模型的思考长度，使其在处理高度复杂任务时具备更强潜力。开发者可通过设置更长思考时间，充分激发模型在逻辑推演、多步骤问题解决等方面的能力边界。\n目前该模型已在魔搭社区和HuggingFace开源，同步上线的Qwen Chat智能对话平台将为用户提供更高效的交互体验。 此次升级标志着通义千问在专用推理模型领域的技术突破，为开发者社区提供更强大的AI基础设施。\n【本文结束】如需转载请务必注明出处：快科技\n责任编辑：鹿角",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->mathematics",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->products and services",
+    "Social Issue->demographics",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T08:07:39.852+03:00",
+  "updated": "2025-07-31T08:12:28.000+03:00"
+}

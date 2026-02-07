@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "fec500d19259e052ffd6f9cf04f45015efe63ff6",
+    "url": "https://www.itpro.com/security/cyber-crime/firms-warned-to-beware-of-fake-it-workers",
+    "site_full": "www.itpro.com",
+    "site": "itpro.com",
+    "site_section": "https://www.itpro.com/feeds.xml",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "",
+    "title": "Firms warned to beware of fake IT workers | ITPro",
+    "title_full": "Firms warned to beware of fake IT workers | ITPro",
+    "published": "2024-11-22T14:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.mos.cms.futurecdn.net/DQ6kuCCTpnWhUSHRjky8SC-1200-80.jpg",
+    "performance_score": 0,
+    "domain_rank": 4233,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fec500d19259e052ffd6f9cf04f45015efe63ff6",
+  "url": "https://www.itpro.com/security/cyber-crime/firms-warned-to-beware-of-fake-it-workers",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Emma Woollacott",
+  "published": "2024-11-22T14:13:00.000+02:00",
+  "title": "Firms warned to beware of fake IT workers | ITPro",
+  "text": "North Korean IT workers are secretly infiltrating US companies using fake identities and forged credentials, according to SentinelLabs.\nThe cyber security organization has uncovered a network of companies, which it believes are backed by China, supplying remote workers under false identities.\nThe workers conduct convincing video interviews under false identities. They use VPNs to mask their true locations, making it appear as if they're working domestically when they're actually in North Korea or neighboring countries. Once inside a company, SentinelLabs said they may attempt to install malware or facilitate access for other malicious actors, significantly compromising corporate networks.\n\"North Korea operates a global network of IT workers, both as individuals and under front companies, to evade sanctions and generate revenue for the regime,\" SentinelOne researchers Tom Hegel and Dakota Cary wrote in an advisory .\n\"These workers are highly skilled in areas like software development, mobile applications, blockchain, and cryptocurrency technologies. By posing as professionals from other countries using fake identities and forged credentials, they secure remote jobs and freelance contracts with businesses worldwide.\"\nThe front companies, based in China, Russia, Southeast Asia, and Africa, are used to mask the workers' true origins and manage payments. They have been able to launder earnings through online payment services and Chinese bank accounts. The payments are often routed through cryptocurrencies or shadow banking systems. And the payments ultimately go to support North Korean state programs - including weapons development, which circumvents international sanctions.\nSome companies, including China-based Yanbian Silverstar Network Technology and Russia-based Volasys Silver Star, were years ago disrupted or sanctioned by the US Treasury Department for facilitating fraudulent IT operations.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sentinelone.com/blog/author/dakotacary/",
+    "https://www.sentinelone.com/blog/author/dakotacary",
+    "https://sentinelone.com/blog/author/dakotacary/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dakota Cary",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tom Hegel",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T14:39:53.781+02:00",
+  "updated": "2024-11-22T19:43:39.089+02:00"
+}

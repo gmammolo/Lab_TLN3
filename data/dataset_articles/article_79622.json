@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "60ecbf9425bdd66166da570bd6038615bc89f886",
+    "url": "https://ubuntuforums.org/showthread.php?t=2493903",
+    "site_full": "ubuntuforums.org",
+    "site": "ubuntuforums.org",
+    "site_section": "http://ubuntuforums.org/external.php?type=RSS2",
+    "site_categories": [
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Ubuntu Forums",
+    "title": "[xubuntu] APU/CPU upgrade issues",
+    "title_full": "[xubuntu] APU/CPU upgrade issues",
+    "published": "2023-12-29T02:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4357,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "60ecbf9425bdd66166da570bd6038615bc89f886",
+  "url": "https://ubuntuforums.org/showthread.php?t=2493903",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "him610",
+  "published": "2023-12-29T02:40:00.000+02:00",
+  "title": "[xubuntu] APU/CPU upgrade issues",
+  "text": "System (Xubuntu 22.04.3) has operated with no problems since original build date (4+ years), 500GB NVME boot drive, 16GB (2 * 8GB)RAM.\nWhat I wanted to accomplish was to remove AMD Ryzen 5 2600 along with Nvidia GK104 (Geforce GTX 760) from a homebuilt AsRock B450m/ac MB and replace it with an AMD Ryzen 5 5600G (Integrated Graphics.)\nFirst time I have tried an APU/CPU upgrade; not as simple as I first thought.\nSteps -\nPerformed a backup of all important data, etc.\nRemoved AMD APU Ryzen 5 2600 and GFX Nvidia GK104 (Geforce GTX 760) from B450m/ac\nInstalled AMD APU Ryzen 5 5600G and APU cooling fan.\nCleared CMOS jumper (CLRMOS1)\nWith only necessary power input, HDMI Video connected to B450m , and keyboard/mouse.\nApplied power\nChassis fans and APU fan begin spinning.\nDisplay flashes briefly, a few seconds later message appears on monitor,\" HDMI/MNL No signal\"\nAfter a few more seconds, fans spin down then the system attempts to reboot - same thing happens.\nAfter three repetitions, I removed power from system to seek advice.\nBios Version of B450M currently is P1.50. AsRock recommends BIOS version P2.60 for Cezanne APU (Ryzen 5 5600G).\n? Should I have updated BIOS as preliminary procedure?\n? Did I leave something out?\n? Any suggestions?\n@TheFu - Patiently awaiting your input since you do this sort of thing quite often.\nThanks in advance.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Arts, Culture and Entertainment"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "integrated graphics",
+        "sentiment": "none"
+      },
+      {
+        "name": "amd ryzen",
+        "sentiment": "none"
+      },
+      {
+        "name": "vme",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T04:33:03.858+02:00",
+  "updated": "2023-12-29T04:33:03.858+02:00"
+}

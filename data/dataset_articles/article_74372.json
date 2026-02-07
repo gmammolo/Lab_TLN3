@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "8e9aa0a36a39913adf257708ea315728c072f229",
+    "url": "https://www.silicon.es/sophos-uso-mas-frecuente-ia-turboalimentar-estafas-sociales-2560575",
+    "site_full": "www.silicon.es",
+    "site": "silicon.es",
+    "site_section": "https://www.silicon.es/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Silicon",
+    "title": "Sophos: \"El uso más frecuente de la IA en la ciberdelincuencia es para 'turboalimentar' sus estafas sociales\" | Silicon",
+    "title_full": "Sophos: \"El uso más frecuente de la IA en la ciberdelincuencia es para 'turboalimentar' sus estafas sociales\" | Silicon",
+    "published": "2024-11-15T14:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.silicon.es/wp-content/uploads/2024/11/Sophos-day-John-Shier-4.jpg",
+    "performance_score": 0,
+    "domain_rank": 90998,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8e9aa0a36a39913adf257708ea315728c072f229",
+  "url": "https://www.silicon.es/sophos-uso-mas-frecuente-ia-turboalimentar-estafas-sociales-2560575",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Pablo Fernández",
+  "published": "2024-11-15T14:12:00.000+02:00",
+  "title": "Sophos: \"El uso más frecuente de la IA en la ciberdelincuencia es para 'turboalimentar' sus estafas sociales\" | Silicon",
+  "text": "Entrevistamos a John Shier, CTO Field de Sophos, que hace repaso de las amenazas surgidas principalmente con el uso de la inteligencia artificial por parte de los ciberdelincuentes.\nEl fabricante de soluciones de ciberseguridad Sophos ha celebrado esta semana su evento anual Sophos Day , en el que ha hecho repaso de las principales amenazas a las que se enfrentan las organizaciones.\nComo no podía ser de otra forma, la inteligencia artificial ha sido la gran protagonista. Estos algoritmos están siendo usados por los ciberdelincuentes, cada vez más profesionalizados. De hecho, la compañia explica que cualquier usuario con unos conocimientos mínimos en la materia puede convertirse en ciberdelincuente gracias al uso de la IA. Los retos son cada vez mayores, mientras que los vectores de ataque se extienden vertiginosamente en distintos ámbitos hasta ahora impensables.\nCon motivo de este evento, hemos tenido la oportunidad de entrevistar a John Shier, CTO Field de Sophos , que nos habla de la actualidad en materia de seguridad y de cómo están evolucionando estos vectores de ataque. A continuacíon la entrevista con Shier:\n—¿Cómo está cambiando la IA el panorama de la ciberseguridad para atacantes y defensores? ¿Qué áreas se han visto más afectadas?\nJohn Shier, CTO Field de Sophos La IA es una herramienta maravillosa que actúa multiplicando la fuerza, tanto para los atacantes como para los defensores. Ya hemos visto cómo los ciberatacantes empiezan a utilizar la IA para ayudar a ejecutar estafas de pig butchering. A medida que los modelos de IA sean más capaces y puedan escribir código y realizar tareas complejas, es posible que desempeñen un papel más importante en la generación de elementos maliciosos, planificando y ejecutando campañas de forma más autónoma. En cuanto al uso de la IA en la defensa de ciberseguridad, la IA podrá ayudar al Centro de Operaciones de Seguridad y hará más eficiente el flujo de trabajo de los analistas de seguridad. Además, cuando los modelos de IA sean más eficientes y el hardware pueda soportar modelos más grandes, la IA ayudará a detectar y bloquear una mayor proporción de amenazas, tanto conocidas como desconocidas.\n—¿Cómo está perfeccionando la IA las técnicas de phishing y otras estafas sociales, y cuáles son los principales retos para detectarlas?\nLa IA permite una traducción precisa y a escala, aumentando drásticamente la calidad de las estafas sociales. Algunos ciberdelincuentes pueden entrenar un modelo con correos legítimos de una cuenta comprometida para enmascarar aún más su verdadera naturaleza. Esto da como resultado correos electrónicos de phishing de alta calidad y que no se distinguen de los auténticos, lo que dificulta su detección.\n—¿Es exagerada la idea de que la IA está democratizando la ciberdelincuencia, y qué habilidades siguen siendo esenciales para un ciberdelincuente?\nLos novatos y aspirantes a cibercriminales siempre han tenido la capacidad de hacerse con toolkits que les ayuden en sus objetivos. Los modelos de IA podrían servir de apoyo a estos novatos y ayudarles a adquirir un nivel superior, pero su uso requiere de algún tipo de experiencia en otras áreas, ya sea ser capaces de alojar modelos de código abierto que no tienen guardarraíles o barreras de seguridad, o saltarse los guardarraíles y las medidas de seguridad implementadas en los modelos basados en API de OpenAI, Anthopic u otros proveedores de modelos.\n—Más allá del hype, ¿cómo están utilizando los ciberdelincuentes la IA de forma eficaz y qué tipos de ataques ha visto que se beneficien de esta tecnología?\nEl uso más frecuente de la IA en la ciberdelincuencia es para “turboalimentar” sus estafas sociales. Además de crear señuelos de phishing que son indistinguibles de los reales, los estafadores también están utilizando chatbots de IA para iniciar conversaciones con las posibles víctimas de pig butchering (o carnicería de cerdos) para lanzar el anzuelo. Una vez captada la víctima, los humanos suelen tomar el relevo, pero pueden seguir utilizando la IA para ayudar con la traducción y la gramática.\nLea también : 5 predicciones para la industria de la ciberseguridad en el mercado EMEA\n—Sophos ha mencionado su uso de IA multimodal para anticiparse a las amenazas. ¿Podría explicarnos cómo funciona y qué ventajas aporta frente a las estrategias tradicionales?\nEl Machine Learning y los modelos de IA solo pueden ser tan buenos como los datos que se introducen en ellos. Los modelos que operan en múltiples modalidades son capaces de extraer más información de los datos de entrada, y son capaces de utilizar esa información para tomar mejores decisiones. Younghoo Lee, principal científico de datos en Sophos AI, presentó recientemente una charla en Virus Bulletin en la que demostró las limitaciones de intentar detectar correos electrónicos y HTML maliciosos, y cómo el uso de datos simultaneo, tanto de texto como de imágenes, puede aumentar el rendimiento en esas aplicaciones. De este modo, la IA multimodal se convierte en un asistente más capaz y potente para un analista de amenazas a la hora de detectar y hacer frente a las ciberamenazas. Al ser capaz de ingerir y procesar diferentes tipos de datos, como asuntos de correo electrónico, contenido, logotipos e imágenes adjuntas, además del texto del correo electrónico, el modelo puede identificar más indicadores maliciosos.\n—¿Están preparadas las empresas y los equipos de ciberseguridad para los retos que plantea la IA, y qué se necesita para reforzar las defensas en este nuevo entorno?\nEs difícil predecir la trayectoria que seguirá la IA en la ciberseguridad, ya que el propio campo de la IA ha experimentado un cambio transformador en los últimos años. Sophos se mantiene alerta e invierte en el uso de IA para ayudar a automatizar partes del flujo de trabajo de los analistas, y nuestros investigadores de amenazas vigilan constantemente los avances en este campo que requieren nuestra atención y respuesta.\n—Basándose en los resultados preliminares del Active Adversary Report, ¿qué nuevos comportamientos o tendencias anticipa de los ciberdelincuentes en los próximos años?\nAunque se siguen utilizando las herramientas de hacking y el software de acceso remoto habituales, un análisis preliminar sugiere que los atacantes también están recurriendo en gran medida a las funcionalidades propias de Windows (por ejemplo, los ataques living-off-the-land, que utilizan herramientas legítimas de forma maliciosa) para pasar desapercibidos. También hemos observado un esfuerzo sostenido y continuado para atacar tecnologías de virtualización mediante el cifrado del sistema operativo subyacente y la inutilización de todas las máquinas virtuales. Por otro lado, también hemos detectado que los criminales abusan de las vulnerabilidades de los dispositivos de red periféricos, especialmente las tecnologías VPN, para obtener el acceso inicial a las redes.\n—¿La innovación en ciberseguridad sigue el ritmo de las tácticas de los ciberdelincuentes y cómo puede garantizar Sophos que sus defensas mantienen esa ventaja?\nSophos X-Ops es un equipo dedicado de más de 500 investigadores que mantienen un ojo constante en lo que los criminales están haciendo hoy y hacia dónde se dirigen, a través de múltiples disciplinas. Esta vigilancia nos ayuda a informar sobre las tecnologías que creamos y las protecciones que incorporamos a todos nuestros productos.\n—Se ha hablado de la IA como un «sexto sentido» en ciberdefensa. ¿Cómo ayuda esta capacidad a prevenir las amenazas antes de que se conviertan en ataques efectivos?\nEl término «sexto sentido» se refiere a la capacidad de predecir resultados. El sexto sentido de la IA se interpreta como la capacidad de analizar enormes volúmenes de datos y hacer predicciones sobre sucesos y comportamientos que pueden ocurrir en el futuro. Aunque algunos sistemas de IA son capaces de analizar una serie de sucesos, correlacionarlos y actuar en función de los resultados, no está claro si los modelos de IA actuales son capaces de alcanzar un nivel de verdadera perspicacia predictiva.\nLea también : Las técnicas de phishing más avanzadas que marcarán 2025, según Barracuda Networks",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sophos.com/es-es",
+    "https://sophos.com/es-es"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "John Shier",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Sophos",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T16:05:48.269+02:00",
+  "updated": "2024-12-13T10:41:15.213+02:00"
+}

@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "563849342a250d7d5ec5c784c9696ddc01b86e57",
+    "url": "https://es.wired.com/articulos/google-contribuye-a-la-deteccion-temprana-del-cancer-de-mama-con-la-ia",
+    "site_full": "es.wired.com",
+    "site": "wired.com",
+    "site_section": "https://es.wired.com",
+    "site_categories": [],
+    "section_title": "WIRED en Español: Noticias sobre tecnología, gadgets, ciencia, cultura y negocios | WIRED",
+    "title": "Google contribuye a la detección temprana del cáncer de mama con la IA",
+    "title_full": "Google contribuye a la detección temprana del cáncer de mama con la IA",
+    "published": "2024-10-18T01:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://media.es.wired.com/photos/671199824537f6a5f05cf7d2/16:9/w_1280,c_limit/GettyImages-87292842.jpg",
+    "performance_score": 0,
+    "domain_rank": 146,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "563849342a250d7d5ec5c784c9696ddc01b86e57",
+  "url": "https://es.wired.com/articulos/google-contribuye-a-la-deteccion-temprana-del-cancer-de-mama-con-la-ia",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anna Lagos",
+  "published": "2024-10-18T01:13:00.000+03:00",
+  "title": "Google contribuye a la detección temprana del cáncer de mama con la IA",
+  "text": "Google ha compartido sus avances en proyectos que combinan el poder de la [inteligencia artificial (IA)](https://es.wired.com/articulos/todo-sobre-inteligencia-artificial-guia-completa-wired) con el valioso conocimiento de expertos en salud, creando herramientas de diagnóstico notablemente más precisas y accesibles para todos. Las investigaciones realizadas en diversos diagnósticos han demostrado una reducción del 9.4% en falsos negativos y del 5.7% en falsos positivos, mejorando la precisión en la detección del cáncer de mama. Este avance es crucial en la lucha contra uno de los tipos de cáncer más comunes, que afecta principalmente a mujeres, ya que el 99% de los casos se presenta en ellas, según la Organización Mundial de la Salud (OMS). Por otra parte, la [Organización Panamericana de la Salud](https://www.paho.org/es/temas/cancer-mama) (OPS) afirma que el tratamiento puede ser altamente efectivo cuando la enfermedad se detecta a tiempo. “La inteligencia artificial tiene la capacidad de procesar y analizar enormes cantidades de datos en poco tiempo, identificar patrones complejos y aprender de forma continua a través de sus algoritmos para mejorar su precisión, lo cual la convierte en una gran aliada para los profesionales de la salud. Es crucial que haya cada vez más mujeres involucradas en el desarrollo de esta tecnología. Al incorporar nuestra perspectiva desde el momento cero, podemos garantizar que la IA no solo sea técnicamente avanzada, sino también nos permitirá crear soluciones íntimamente relacionadas con nuestro género, así como más equitativas y efectivas”, dijo Adriana Noreña, vicepresidenta de Google para Hispanoamérica. Entre 2016 y 2018, Google [comenzó a implementar](https://research.google/blog/applying-deep-learning-to-metastatic-breast-cancer-detection/) el uso del aprendizaje profundo (deep learning), una de las áreas donde la IA emplea redes neuronales artificiales para aprender de grandes conjuntos de datos para realizar tareas complejas, con el fin de asistir a los médicos en la detección de la metástasis. La herramienta de análisis de nódulos linfáticos, conocida como LYNA (Lymph Node Assistant, por sus siglas en inglés), ha sido entrenada utilizando imágenes médicas como radiografías, tomografías e imágenes patológicas, previamente clasificadas por expertos. Esto le permite a la IA identificar patrones macro y micro de la enfermedad. Gracias a su precisión, LYNA es capaz de localizar metástasis que, en muchos casos, son casi imperceptibles para el ojo humano, lo que permite a los médicos acelerar el diagnóstico y, en consecuencia, adelantar el inicio del tratamiento En 2021, [Google Health realizó una investigación clínica](https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/) junto con [Northwestern Medicine](https://www.nm.org/) para explorar cómo la IA podría acelerar el diagnóstico del cáncer de mama, optimizando el proceso desde la mamografía inicial hasta el diagnóstico final. Comenzaron la investigación recopilando imágenes mamográficas de alta calidad provenientes de diversos pacientes, las cuales fueron clasificadas por expertos en salud para entrenar el modelo de IA ante la detección de cáncer, la identificación de características tumorales, entre otros aspectos. Posteriormente, el modelo se probó en un entorno clínico real, donde las personas que se sometían a mamografías podían optar por que sus resultados fueran analizados por la IA junto con la evaluación de los radiólogos. Estos arrojaron [datos](https://innovation.nm.org/portfolio/google-for-mammograms) alentadores: se redujeron los falsos negativos en un 9.4% y los falsos positivos en un 5.7%, en comparación con la práctica clínica estándar. Además, la IA demostró su capacidad de analizar una mamografía en menos de dos minutos, lo que permite obtener resultados más rápidos para las pacientes, acelerar tanto el diagnóstico como el tratamiento, al mismo tiempo que reduce los costos asociados a la atención y los tratamientos tardíos. Premios Nobel: Hallazgos en beneficio de la salud La semana pasada, Geoffrey Hinton, ex investigador de Google, fue galardonado junto a John Hopfield con el Premio Nobel de Física 2024 por sus descubrimientos en el campo del aprendizaje automático con redes neuronales artificiales (ANN por sus siglas en inglés), que sentaron las bases para el reconocimiento a través de la IA de patrones en imágenes, lenguajes y en información clínica que hoy se utiliza en el campo de la salud y en otras disciplinas. Como se describe [en este documento](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf) emitido por el comité del premio Nobel, este descubrimiento fue clave en el desarrollo de la herramienta para la predicción de las estructuras de cualquier proteína en tres dimensiones denominado [AlphaFold](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/), motivo por el cual dos científicos de Google DeepMind, [Demis Hassabis y John Jumper](https://blog.google/technology/google-deepmind/google-deepmind-demis-hassabis-john-jumper-nobel-prize-chemistry-alphafold/), obtuvieron también este año el Premio Nobel de Química. AlphaFold fue abierta por Google a la comunidad científica de forma gratuita y ya fue utilizado por más de dos millones de investigadores de más de 190 países. IA al servicio de la medicina [Google Health es](https://health.google/intl/es-419/) una iniciativa desarrollada en colaboración con [profesionales clínicos](https://health.google/intl/es-419/about-us/#:~:text=Con%20el%20respaldo%20del%20conocimiento%20de%20la%20salud) para hacer que la atención médica sea más accesible, precisa y eficiente. Para conocer más sobre cómo la compañía está explorando el uso de la inteligencia artificial para ayudar a diagnosticar enfermedades como el cáncer, prevenir la ceguera y mucho más, ingresa al [sitio web oficial de Google Health](https://health.google/intl/es-419/). Y para más información acerca de cómo Google está aplicando la IA para la prevención del cáncer de mama, visita su [centro de información sobre mamografías con IA](https://health.google/intl/es-419/caregivers/mammography/).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nm.org/)",
+    "https://health.google/intl/es-419/).",
+    "https://health.google/intl/es-419/about-us/#:~:text=Con%20el%20respaldo%20del%20conocimiento%20de%20la%20salud)",
+    "https://innovation.nm.org/portfolio/google-for-mammograms)",
+    "https://blog.google/technology/google-deepmind/google-deepmind-demis-hassabis-john-jumper-nobel-prize-chemistry-alphafold/),",
+    "https://health.google/intl/es-419/caregivers/mammography/).",
+    "https://www.paho.org/es/temas/cancer-mama)",
+    "https://research.google/blog/applying-deep-learning-to-metastatic-breast-cancer-detection/)",
+    "https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/),",
+    "https://health.google/intl/es-419/)",
+    "https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/)",
+    "https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf)",
+    "https://nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf)",
+    "https://www.health.google/intl/es-419/about-us/#:~:text=Con%20el%20respaldo%20del%20conocimiento%20de%20la%20salud)",
+    "https://www.research.google/blog/applying-deep-learning-to-metastatic-breast-cancer-detection/)",
+    "https://www.blog.google/technology/health/artificial-intelligence-breast-cancer-screening/)",
+    "https://www.health.google/intl/es-419/)",
+    "https://www.innovation.nm.org/portfolio/google-for-mammograms)",
+    "https://www.health.google/intl/es-419/).",
+    "https://paho.org/es/temas/cancer-mama)",
+    "https://www.blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/),",
+    "https://nm.org/)",
+    "https://www.health.google/intl/es-419/caregivers/mammography/).",
+    "https://www.blog.google/technology/google-deepmind/google-deepmind-demis-hassabis-john-jumper-nobel-prize-chemistry-alphafold/),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T02:41:53.166+03:00",
+  "updated": "2024-10-18T02:41:53.166+03:00"
+}

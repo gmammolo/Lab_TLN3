@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "05aa32a1acf250e101ee4da88894b2ff11e9bfb0",
+    "url": "https://www.techtarget.com/searchhealthit/feature/How-Regenstrief-and-HL7-are-driving-SDOH-data-standards",
+    "site_full": "www.techtarget.com",
+    "site": "techtarget.com",
+    "site_section": "https://www.theserverside.com/rss/ContentSyndication.xml",
+    "site_categories": [
+      "javascript",
+      "tech"
+    ],
+    "section_title": "How to build an enterprise generative AI tech stack",
+    "title": "How Regenstrief and HL7 are driving SDOH data standards | TechTarget",
+    "title_full": "How Regenstrief and HL7 are driving SDOH data standards | TechTarget",
+    "published": "2024-04-04T17:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.ttgtmedia.com/rms/onlineimages/health_g1274382033.jpg",
+    "performance_score": 0,
+    "domain_rank": 475,
+    "domain_rank_updated": "2024-04-02T13:08:08.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "05aa32a1acf250e101ee4da88894b2ff11e9bfb0",
+  "url": "https://www.techtarget.com/searchhealthit/feature/How-Regenstrief-and-HL7-are-driving-SDOH-data-standards",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Hannah Nelson",
+  "published": "2024-04-04T17:00:00.000+03:00",
+  "title": "How Regenstrief and HL7 are driving SDOH data standards | TechTarget",
+  "text": "Social risk factors have a significant effect on health, with research suggesting social determinants of health (SDOH) might impact as much as 50% of county-level variation in health outcomes. While healthcare organizations are increasingly collecting social risk information, a lack of SDOH data standards is hampering their ability to use the data to improve health equity.\nAccording to a 2023 American Health Information Management Association survey , nearly eight in ten healthcare organizations report collecting SDOH data. However, organizations note challenges related to the collection, coding and use of the data.\nThe HL7 Gravity Project is looking to change that.\nBoosting SDOH data standards through collaboration Launched in 2019, the Gravity Project is a national public-private collaborative aimed at creating consensus-based data standards for SDOH interoperability across the health, social services, public health and research sectors.\nThe community includes over 2,500 stakeholders across healthcare, health IT, payers, community-based organizations, government agencies and research institutions like Regenstrief Institute.\n\"We all know that social risk factors play into clinical health, but we haven't really joined together the social risk factors formally from a data perspective,\" said Marjorie Rallins, DPM, MS, executive director of LOINC and health data standards at Regenstrief Institute.\nA new $4.4 million grant from the Regenstrief Foundation is looking to take the Gravity Project to the next level by standardizing social risk factors in appropriate terminologies. Rallins emphasized that the collaborative nature of the Gravity Project is key.\nWe all know that social risk factors play into clinical health, but we haven't really joined together the social risk factors formally from a data perspective. Marjorie Rallins DPM, MS, executive director of LOINC and health data standards, Regenstrief Institute \"It's definitely a multidisciplinary team,\" she said. \"They bring together the process and the right expertise and experts to the table in those various risk areas like food insecurity, education status, and incarceration history. All those things factor into your health picture, so it's important to have the right experts at the table who have a deep understanding of those social areas.\"\nOn the other hand, Regenstrief Institute brings a wealth of terminology expertise to the table as the organization behind LOINC, a widely used data standard.\nRallins likened the LOINC terminology standard to a lingua franca that aids interoperability across disparate health IT systems.\nFor example, one hospital system might use the term fever, another hospital might use the words elevated temperature, and a third facility uses the Latin term for fever, pyrexia.\n\"Those three things essentially mean the same thing, but unless there's something that says those all mean the same thing, then when you exchange data, you're not going to be able to reconcile that,\" Rallins explained.\nThat's where LOINC comes in, allowing stakeholders to compare the results of the same test or clinical observation across different institutions for patient care, research, quality assessment and outcomes management.\nSimilarly, encoding social risk factors using LOINC is set to streamline SDOH data exchange across various social risk screening tools and health IT platforms to ensure receiving systems can interpret the data.\nThe future of the Gravity Project The Gravity Project and Regenstrief Institute team plans to build a critical mass of standardized SDOH data elements over the next four years to benefit patient care and drive health equity research by helping better address patients' social and clinical needs comprehensively.\nSDOH data standards will also support population health efforts, allowing government agencies and healthcare organizations to track health inequities and evaluate the impact of interventions on care access, care delivery and health outcomes.\nThe initiative will focus on creating data standards across several social risk domains, which could include the following:\nNeighborhood safety. Access to green space. Food access. Adverse childhood experiences/toxic stress. Weathering. Minority strain. Immigration status. History of incarceration. Additional social risk domains are in the planning phases.\n\"Those social risk areas have data elements, and it's those data elements that we standardize with terminology like LOINC and SNOMED ,\" Rallins explained. \"Sometimes you have to use financial data, so you need CPT. Sometimes, you need more statistical data like ICD-10 , which is also used in billing. But all of that data has to be encoded in the appropriate terminology.\"\nAdditionally, Rallins pointed out that once the SDOH data standards are created, examining adoption will be critical.\n\"We need to study how people are using the screening tools that capture social risk data,\" she noted. \"That's the next phase because you have to have adoption and use in order for these to make some effective progress toward improving health outcomes.\"\nSo far, Regenstrief and the Gravity Project have coded about 18 social risk factors, Rallins said. However, she emphasized that the work surrounding SDOH standards does not end, as social risk areas are always evolving.\nHannah Nelson has been covering news related to health information technology and health data interoperability since 2020.\nRelated Resources Get Ahead of CMS' Interoperability and Prior Authorization Proposed Rule –ZeOmega Quick Answer: InterSystems’ Healthcare Industry Cloud Platform –InterSystems Dig Deeper on Interoperability in healthcare Regenstrief Updates LOINC with 800 Concepts for Health Data Exchange",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://ehrintelligence.com/news/8-in-10-care-orgs-collect-sdoh-data-but-ehr-coding-challenges-persist",
+    "https://aspe.hhs.gov/sites/default/files/documents/e2b650cd64cf84aae8ff0fae7474af82/SDOH-Evidence-Review.pdf",
+    "https://www.bitpipe.com/detail/RES/1708626610_384.html",
+    "https://www.bitpipe.com/detail/RES/1685089386_1.html",
+    "https://www.ehrintelligence.com/news/8-in-10-care-orgs-collect-sdoh-data-but-ehr-coding-challenges-persist",
+    "https://bitpipe.com/detail/RES/1708626610_384.html",
+    "https://www.aspe.hhs.gov/sites/default/files/documents/e2b650cd64cf84aae8ff0fae7474af82/SDOH-Evidence-Review.pdf",
+    "https://bitpipe.com/detail/RES/1685089386_1.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "american health information management association",
+        "sentiment": "none"
+      },
+      {
+        "name": "sdoh",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-05T00:02:19.694+03:00",
+  "updated": "2024-04-12T03:09:25.247+03:00"
+}

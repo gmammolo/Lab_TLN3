@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "37f3ee7a47be71f231560869d6d613db3943bbf3",
+    "url": "https://www.the-scientist.com/stem-cell-discovery-in-human-retina-may-lead-to-retinal-degeneration-treatments-72883",
+    "site_full": "www.the-scientist.com",
+    "site": "the-scientist.com",
+    "site_section": "https://news.google.com/search?q=to%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "science",
+      "biology"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "Science News, Educational Articles, Expert Opinion | The Scientist",
+    "title": "Stem Cell Discovery in Human Retina May Lead to Retinal Degeneration Treatments",
+    "title_full": "Stem Cell Discovery in Human Retina May Lead to Retinal Degeneration Treatments",
+    "published": "2025-04-03T02:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.the-scientist.com/assets/image/48529/retinal-degeneration-organoids-800x560-m.jpg",
+    "performance_score": 0,
+    "domain_rank": 3857,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "37f3ee7a47be71f231560869d6d613db3943bbf3",
+  "url": "https://www.the-scientist.com/stem-cell-discovery-in-human-retina-may-lead-to-retinal-degeneration-treatments-72883",
+  "ord_in_thread": 0,
+  "author": "Danielle Gerhard, PhD",
+  "published": "2025-04-03T02:32:00.000+03:00",
+  "title": "Stem Cell Discovery in Human Retina May Lead to Retinal Degeneration Treatments",
+  "text": "For individuals with inherited eye disorders such as retinitis pigmentosa or macular degeneration, the irreversible degeneration of the retina—a layer of photoreceptors at the back of the eye—can cause impaired vision and lead to blindness. Although millions of people worldwide suffer from retinal degeneration-associated blindness, no curative treatment is available.1\nStem cell therapies hold promise for promoting regeneration. Retinal stem cells (RSCs) possess self-renewal capabilities and can continuously generate new cells. While lower vertebrates like zebrafish and amphibians have RSCs, their existence in mammals has remained uncertain.\nIn a study published in Science Translational Medicine, scientists discovered a stem cell population in the retina of human fetuses, which they called human neural retinal stem-like cells (hNRSCs).2 The team also found that a common retinal organoid model contains a population of hNRSCs with a similar transcriptional profile. When researchers transplanted the organoid-derived cells into a mouse model of retinitis pigmentosa, the treatment alleviated retinal degeneration and improved visual function. These findings provide a promising new approach for restoring vision in individuals with retinal diseases.\nIn the present study, Jianzhong Su and his colleagues at Wenzhou Medical University used single-cell and spatial transcriptomic sequencing to characterize gene expression in human retinal fetal samples that were donated following a terminated pregnancy. In doing so, they identified a distinct population of cells that could self-renew and develop into various cell types.\nThe use of fetal tissues remains controversial in the US and many other countries, making a different source of hNRSCs highly valuable. Human retinal organoids, which closely resemble the in vivo retina, offer a promising alternative for studying retinal development in vitro. Using human retinal organoids derived from a human embryonic stem cell line, the team identified a population of cells that had a similar transcriptional profile to hNRSCs in the fetal retina. The researchers transplanted these cells into a mouse model of retinitis pigmentosa at two to three weeks of age, when retinal cell degeneration was already in process, and monitored them over the course of four months. The new cells differentiated and integrated into the host animals’ retinas and even formed functional synapses. Using an optomotor response assay, the researchers found a partial improvement in visual function in the hNRSC-treated mice.\nAlthough promising, further studies are needed to explore the mechanisms underlying hNRSC-mediated retinal repair, as well as to test the cells in animal models of late-stage retinal degeneration. However, the authors hope their findings will deepen the field’s understanding of retinal biology and highlight the regenerative potential of hNRSCs.\n- Voisin A, et al.\nStem cell therapy in retinal diseases. Neural Regen Res. 2023;18(7):1478-1485. - Liu H, et al.\nIdentification and characterization of human retinal stem cells capable of retinal regeneration. Sci Transl Med. 2025;17(791):eadp6864.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Human Interest"
+  ],
+  "topics": [
+    "Health->medical condition",
+    "Health->health care approach",
+    "Science and Technology->medical research",
+    "Science and Technology->biomedical science",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.science.org/doi/10.1126/scitranslmed.adp6864",
+    "https://journals.lww.com/nrronline/fulltext/2023/07000/stem_cell_therapy_in_retinal_diseases.13.aspx",
+    "http://su-lab.org/index.html",
+    "https://science.org/doi/10.1126/scitranslmed.adp6864",
+    "https://www.journals.lww.com/nrronline/fulltext/2023/07000/stem_cell_therapy_in_retinal_diseases.13.aspx",
+    "http://www.su-lab.org/index.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:44:26.159+03:00",
+  "updated": "2025-04-03T02:44:26.159+03:00"
+}

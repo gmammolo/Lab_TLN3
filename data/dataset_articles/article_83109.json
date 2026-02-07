@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "c2ba366f2ac26657a1d3400515b87aa02e3903e9",
+    "url": "https://www.devx.com/daily-news/ibm-to-acquire-datastax-enhancing-ai-capabilities",
+    "site_full": "www.devx.com",
+    "site": "devx.com",
+    "site_section": "https://www.devx.com",
+    "site_categories": [
+      "java",
+      "tech",
+      "databases"
+    ],
+    "section_title": "DevX",
+    "site_title": null,
+    "title": "IBM to acquire DataStax, enhancing AI capabilities",
+    "title_full": "IBM to acquire DataStax, enhancing AI capabilities",
+    "published": "2025-02-27T23:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.devx.com/wp-content/uploads/ibm-datastax.jpg",
+    "performance_score": 0,
+    "domain_rank": 21302,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c2ba366f2ac26657a1d3400515b87aa02e3903e9",
+  "url": "https://www.devx.com/daily-news/ibm-to-acquire-datastax-enhancing-ai-capabilities",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cameron Wiggins",
+  "published": "2025-02-27T23:13:00.000+02:00",
+  "title": "IBM to acquire DataStax, enhancing AI capabilities",
+  "text": "IBM announced on Tuesday that it had struck a deal to acquire DataStax, a company known for its database platform, data streaming technology, and tools for developing data-intensive AI applications that utilize retrieval augmented generation (RAG). The acquisition aims to bolster IBM’s Watsonx AI portfolio by integrating DataStax’s capabilities to manage vast amounts of unstructured data. With this acquisition, IBM looks to accelerate the deployment of generative AI at scale and unlock value from significant volumes of data.\nThis move aligns with IBM’s ongoing commitment to open-source AI , as DataStax’s Astra DB cloud platform and DataStax Enterprise NoSQL and vector database are based on the open-source Apache Cassandra database. Ritika Gunnar, IBM’s General Manager for Data and AI, stated, “The strategic acquisition of DataStax brings cutting-edge capabilities in managing unstructured and semi-structured data to Watsonx. This builds on our investments in open-source Cassandra for enterprise applications and enables clients to develop next-generation AI solutions.”\nGunnar added that with DataStax’s AstraDB and DataStax Enterprise, Watsonx will benefit from advanced NoSQL and vector representation capabilities, resulting in more efficient and accurate AI outcomes.\nDataStax CEO Chet Kapoor commented, “With our technologies and IBM’s hybrid open data lakehouse, we will enable vector and AI search across the entire data estate, making IBM’s capabilities available to every developer.\nIn addition to its database, DataStax offers a range of products that will be integrated into IBM’s portfolio, including Astra Streaming for real-time data pipelines, the DataStax AI Platform for building and deploying AI applications, and an enterprise AI platform incorporating Nvidia technology.\nIntegrating DataStax technologies into Watsonx Gunnar further highlighted that the synergy between DataStax’s data management expertise and Watsonx’s data AI solutions will deliver enterprise-ready data for AI applications, enhancing data performance, search relevancy, and overall operational efficiency.\nAnother key aspect of the acquisition is DataStax’s Langflow, an open-source, low-code tool for developing AI applications that use RAG . “Langflow empowers developers to quickly prototype, build, and deploy RAG and multi-agent AI applications,” noted Gunnar. “This low-code interface simplifies the integration of generative AI models, data processing, and AI workflows, allowing developers to concentrate on innovation rather than technical complexities.”\nIBM has not disclosed the financial terms of the acquisition, which is expected to be finalized in the second quarter of this year, pending customary closing conditions and regulatory approvals.\nDataStax, founded in 2010 and headquartered in Santa Clara, California, is privately held and has raised $115 million in a funding round led by Goldman Sachs in 2022. This acquisition comes as IBM navigates regulatory hurdles for another significant purchase of HashiCorp for $6.4 billion. While originally expected to close by the end of 2024, the acquisition faced delays due to regulatory reviews.\nHowever, the U.K.’s Competition and Markets Authority recently cleared IBM’s acquisition of HashiCorp, moving it closer to completion.\nImage Credits: Photo by Carson Masterson on Unsplash",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:48:43.173+02:00",
+  "updated": "2025-02-28T00:48:43.173+02:00"
+}

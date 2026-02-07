@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "aab856add235d0be4b97eb7463a161375a2bf718",
+    "url": "https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast",
+    "site_full": "www.theverge.com",
+    "site": "theverge.com",
+    "site_section": "https://www.theverge.com/rss.xml",
+    "site_categories": [
+      "tech",
+      "top_news_pk",
+      "top_news_gb",
+      "top_news_dk",
+      "top_news_sg",
+      "top_news_au",
+      "top_news_nz",
+      "top_news_za",
+      "top_news_ph",
+      "top_news_ca",
+      "top_news_us",
+      "top_news"
+    ],
+    "section_title": "The Verge -  All Posts",
+    "title": "How the DOJ plans to break up Google and sell Chrome - The Verge",
+    "title_full": "How the DOJ plans to break up Google and sell Chrome - The Verge",
+    "published": "2024-11-22T16:09:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.vox-cdn.com/thumbor/yAEQAPeju_HYgDSCjhCUFqar2Sw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25749377/VST_1122_Site.jpg",
+    "performance_score": 0,
+    "domain_rank": 206,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 1,
+        "shares": 25
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aab856add235d0be4b97eb7463a161375a2bf718",
+  "url": "https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "theverge.com",
+  "published": "2024-11-22T16:09:00.000+02:00",
+  "title": "How the DOJ plans to break up Google and sell Chrome - The Verge",
+  "text": "For two decades, Google Search has been unstoppable. Invincible. So thoroughly dominant that would-be competitors often couldn’t even get funding, because investors didn’t see the point in trying. But earlier this year, a judge declared that Google’s power, and the way the company wields it, was an illegal monopoly . And so now the US Department of Justice has to figure out how to undo it.\nOn this episode of The Vergecast , we dig into the DOJ’s first attempt at a plan . The Verge ’s Lauren Feiner joins the show to talk through the recently filed proposal, which includes selling Chrome, possibly selling Android, and requiring Google to give vast quantities of its search tech and data to anyone wanting to compete.\nWe try to figure out whether any of these proposals are likely to come to pass — there’s still a lot of legal process left before anything here is final — and what it would mean for Google, and the internet, if they did. We also try to guess what the incoming Trump administration might think about all this, and how the case could change in the next few months.\nAfter that, we talk about some other news in Big Tech. Amazon’s fancy new Alexa doesn’t appear to be going well, but the company does seem to have a plan to at least make some things work a little better — without needing much AI at all. Google might be bailing on tablets again, and Sonos’s TV plans are becoming a little clearer . Plus, cheap streaming Windows PCs !\nFinally, in the lightning round, we talk SpinCo , Brendan Carr , Strava , Musk vs. OpenAI , and what’s new with Bluesky and Threads. A little competition in social networks has been a good thing these last few weeks.\nIf you want to know more about everything we discuss in this episode, here are some links to get you started, beginning with Google and the DOJ:\nDOJ says Google must sell Chrome to crack open its search monopoly Google responds to DOJ’s ‘extreme proposal.’ Google workers to DOJ: we need protections to make your breakup effective Apple fights to keep DOJ antitrust suit from reaching trial And in AI and gadget news:\nAlexa could soon be better at calling an Uber and buying concert tickets Amazon announces new Echo Show 21 and Echo Show 15 smart displays Google may be about to reboot its laptop and tablet hardware again Google reportedly cancels Pixel Tablet 2 and might quit the category — again Sonos’ smart TV plans might have found an OS Windows 365 Link is a $349 mini PC that streams Windows from the cloud And in the lightning round:\nComcast is spinning off its cable TV business Trump names Brendan Carr as his FCC leader Strava closes the gates to sharing fitness data with other apps Inside Elon Musk’s messy breakup with OpenAI Threads’ custom feeds are already rolling out Threads’ algorithm will focus more on the people you follow",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://link.chtbl.com/vergecast",
+    "https://volume.vox-cdn.com/embed/b0d44cb09?autoplay=false&loop=true&placement=article&player_type=youtube&tracking=article:middle",
+    "https://www.volume.vox-cdn.com/embed/b0d44cb09?autoplay=false&loop=true&placement=article&player_type=youtube&tracking=article:middle",
+    "https://volume.vox-cdn.com/embed/b0d44cb09",
+    "https://www.link.chtbl.com/vergecast"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Lauren Feiner",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "negative"
+      },
+      {
+        "name": "DOJ",
+        "sentiment": "negative"
+      },
+      {
+        "name": "US Department of Justice",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T16:32:19.620+02:00",
+  "updated": "2024-11-27T19:54:50.076+02:00"
+}

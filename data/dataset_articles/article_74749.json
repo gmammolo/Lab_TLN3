@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "c106b826f02447d75a8ee344a5f217444c3a632f",
+    "url": "https://www.welivesecurity.com/es/informes/tendencias-ciberseguridad-2025-ia-generativa-regulacion-proteccion-ot",
+    "site_full": "www.welivesecurity.com",
+    "site": "welivesecurity.com",
+    "site_section": "https://www.welivesecurity.com/es",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Noticias de seguridad informática - WeLiveSecurity",
+    "title": "Tendencias en ciberseguridad 2025: uso malicioso de la IA generativa y tecnologías operativas en la mira",
+    "title_full": "Tendencias en ciberseguridad 2025: uso malicioso de la IA generativa y tecnologías operativas en la mira",
+    "published": "2024-11-21T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5498,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c106b826f02447d75a8ee344a5f217444c3a632f",
+  "url": "https://www.welivesecurity.com/es/informes/tendencias-ciberseguridad-2025-ia-generativa-regulacion-proteccion-ot",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-21T02:00:00.000+02:00",
+  "title": "Tendencias en ciberseguridad 2025: uso malicioso de la IA generativa y tecnologías operativas en la mira",
+  "text": "Este 2024 pudimos ser testigos de las diferentes tendencias que marcaron el año. Hemos visto el crecimiento del malware as a service que facilitó el despliegue de ataques a gran escala y, por otro lado, el ransomware continuó siendo una de las amenazas más preocupantes a nivel empresarial y gubernamental, al igual que años anteriores. También fue destacado el uso de Telegram por parte de cibercriminales.\nPartiendo de este contexto y considerando los nuevos avances tecnológicos e implementaciones vistas durante el 2024, en este post, el Laboratorio de ESET Latinoamérica expone las posibles tendencias que serán centrales en la escena de la ciberseguridad para el año 2025.\nEn resumen, el próximo año teorizamos que estará marcado por la creciente necesidad de protección de los sistemas OT (Tecnología Operativa), esenciales para infraestructuras críticas. Además, el uso malicioso de la IA generativa planteará nuevas amenazas. Estas cuestiones estarán ligadas a desafíos legales y éticos que plantean la necesidad de regulaciones más claras y efectivas.\nUsos de la IA Generativa\nLa IA generativa es quizás inteligencia artificial más implementada de la actualidad, destacándose por su capacidad para generar contenido como textos, imágenes, videos, música, voces, entre otros, lo que por ejemplo permite mejorar la creatividad y eficiencia en diversas industrias. Sin embargo, los cibercriminales también la aprovechan para fines maliciosos, como la creación de deepfakes y la automatización y perfeccionamiento de ataques cibernéticos\nLas aplicaciones con IA generativa han dejado de estar solo reservada para los ambientes técnicos y pasaron a estar accesible en forma libre, muchas veces gratuita, para cualquier tipo de usuario que cuente con un dispositivo inteligente.\nA través de este tipo de IA también se también se puede acceder a algoritmos de fuentes abiertas, adaptarlos, modificarlos y aprovecharlos para distintos fines. La posibilidad de automatizar tareas, generar o perfeccionar código malicioso, planificar campañas, entre otras, hacen atractiva esta tecnología para actores maliciosos, incluso los más inexpertos.\n[Recientemente OpenAI, la compañía detrás de ChatGPT, ha emitido un informe ][Influence and cyber operations: an update](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf) en el que detalla cómo diversos cibercriminales han utilizado sus modelos de IA para realizar tareas de fases intermedias en los ciberataques - luego de haber adquirido algunas tools básicas, pero antes de desplegar sus ataques, sean de phishing o distribución de malware, por distintos medios.\nEn el mismo informe, la empresa dentifica que distintos grupos APT (Amenazas Persistentes Avanzadas) han utilizado la tecnología para, por ejemplo, el debugging de código malicioso, la investigación de vulnerabilidades críticas, el perfeccionamiento de phishing, generación de imágenes y comentarios falsos, entre otras.\nConsecuentemente, podríamos esperar para el 2025 la continuidad del uso de la IA generativa para la mejora de campañas que inicien con ingeniería social; el aprovechamiento de los algoritmos para el diseño de códigos maliciosos; el posible abuso de apps de compañías que usen algoritmos IA open source y, por supuesto, la sofisticación de los deepfakes y la posible interacción con la realidad virtual.\nDesafíos Legales y Éticos de la IA\nFrente a este crecimiento de la IA generativa y su potencial uso malicioso, aparecen desafíos legales y éticos que en su mayoría aún no han sido eficientemente abordados. ¿Quién es el responsable por los actos de la IA? ¿Qué limites debería imponerse a su desarrollo? ¿Qué organismo es competente para juzgarlo?\nEn la actualidad existen muy pocas normas a nivel internacional que aborden las problemáticas emergentes del uso de la IA y aquellas que existen muchas veces resultan insuficientes frente a un panorama de desarrollo acelerado de esta tecnología.\nEntre las normas más destacadas podríamos mencionar al [Acta de IA de la Unión Europea](vhttps://www.forbes.com/advisor/business/ai-statistics/) (existente desde 2023) que pretende garantizar la ética y transparencia, así como el desarrollo seguro y protección de derechos humanos, abordando la IA desde un enfoque basado en riesgos, clasificando algoritmos según su peligrosidad.\nEn paralelo, los EEUU cuentan con varios abordajes, desde una iniciativa nacional de IA, una Orden Ejecutiva para el uso seguro y confiable de la IA y un proyecto de carta de derechos de la IA que se encuentra en tratamiento.\nA nivel LATAM no ha habido grandes avances durante el 2024 aunque la mayoría de los países cuentan al menos con decretos, salvo el caso de [Perú que cuenta con una ley](https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/4565760-31814). Recientemente el [Parlamento Latinoamericano y Caribeño](https://parlatino.org/) ha propuesto una Ley Modelo que quizás inspire legislaciones a nivel interno.\nPara el 2025 es probable que a nivel regulatorio haya un mayor escrutinio en Algoritmos y Modelos de IA para garantizar transparencia y explicabilidad —que sus decisiones puedan ser comprendidas por las personas— y esto de la mano de la protección de datos para garantizar la privacidad en el uso de la IA.\nVeremos la búsqueda de soluciones para los daños generados por la IA y la promoción desde lo regulatorio de la ética en el uso y desarrollo de esta tecnología. También seguirán los avances en regulaciones sobre ciberseguridad aplicadas a la temática y en materia de cooperación internacional.\nSistemas de Control Industrial u OT (Tecnología Operativa)\nLos OT son sistemas informáticos y dispositivos utilizados para controlar procesos industriales y físicos en diversos sectores, como la energía, manufactura, agua y gas, entre otros. Estos sistemas gestionan equipos como PLC (Controladores Lógicos Programables), SCADA (Sistemas de Control Supervisorio y Adquisición de Datos) siendo su función principal la automatización de procesos.\nLa digitalización y conectividad de estos sistemas los ha vuelto interesantes y vulnerables a ciberataques. De hecho, ya se han visto códigos maliciosos que tienen como objetivo estos sistemas entre los que podemos destacar a “Aurora” (una prueba del gobierno de EEUU que demostró, por primera vez, que un ciberataque podía causar daños físicos a un generador de energía) y “Blackenergy, Industroyer” (usados en Ucrania para atacar su red eléctrica), aunque por supuesto no son los únicos.\nEl NIST (Instituto de Estándares y Tecnología, del gobierno de EEUU) considera a la seguridad en OT un problema creciente y [ha creado una guía que actualiza](https://www.nist.gov/news-events/news/2023/09/nist-publishes-guide-operational-technology-ot-security) con regularidad.\nEn 2025, las OT serán cada vez más relevantes en el ámbito de ciberseguridad por varias razones entre las que se destaca la ya mencionada conectividad entre dispositivos OT y la gran cantidad de datos que recopilan. También, muchos de estos sistemas son fundamentales para el funcionamiento de infraestructuras críticas con lo cual es atractivo para los criminales un ataque a esta tecnología, dado que tiene el potencial de causar grandes estragos.\nLa creciente dependencia de estos sistemas genera la urgente de protegerlos con lo cual serán una prioridad a nivel ciberseguridad.\nConclusión\nEstas son las tendencias que teorizamos serán centrales en la ciberseguridad para el próximo año, un escenario desafiante marcado por el crecimiento del uso de la inteligencia artificial generativa por parte del cibercrimen. Esto exigirá adaptar los sistemas de defensa y avanzar en marcos legales que aborden los interrogantes abiertos por estas tecnologías, incluso en sus usos legítimos y beneficiosos.\nAdemás, los ataques a infraestructuras críticas seguirán siendo una preocupación. Los sistemas OT serán el objetivo clave, por su interconexión y su rol esencial en sectores estratégicos. Fortalecer su ciberseguridad será prioritario, considerando su vulnerabilidad demostrada en conflictos recientes, donde su explotación ha tenido graves consecuencias para las poblaciones afectadas.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://parlatino.org/",
+    "https://www.nist.gov/news-events/news/2023/09/nist-publishes-guide-operational-technology-ot-security",
+    "https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf",
+    "https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/4565760-31814",
+    "https://gob.pe/institucion/congreso-de-la-republica/normas-legales/4565760-31814",
+    "https://www.cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf",
+    "https://www.parlatino.org/",
+    "https://parlatino.org",
+    "https://nist.gov/news-events/news/2023/09/nist-publishes-guide-operational-technology-ot-security"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T03:42:58.138+02:00",
+  "updated": "2024-11-22T03:42:58.138+02:00"
+}

@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "a216d9201476ab7f56162132a2a087c2cbea6fd4",
+    "url": "https://windowsreport.com/the-grammarly-extension-for-chrome-is-causing-sites-to-constantly-refresh-or-bounce",
+    "site_full": "windowsreport.com",
+    "site": "windowsreport.com",
+    "site_section": "https://www.windowsreport.com",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "Windows Report - Your go-to source for PC tutorials",
+    "title": "The Grammarly Extension for Chrome is causing sites to constantly refresh or bounce",
+    "title_full": "The Grammarly Extension for Chrome is causing sites to constantly refresh or bounce",
+    "published": "2024-11-15T15:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8299,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a216d9201476ab7f56162132a2a087c2cbea6fd4",
+  "url": "https://windowsreport.com/the-grammarly-extension-for-chrome-is-causing-sites-to-constantly-refresh-or-bounce",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Flavius Floare",
+  "published": "2024-11-15T15:06:00.000+02:00",
+  "title": "The Grammarly Extension for Chrome is causing sites to constantly refresh or bounce",
+  "text": "\\nThe Grammarly Extension for Chrome is currently unusable due to a bug that causes the sites it\\u2019s used to refresh or bounce constantly. We noticed it as well, and after several hours of troubleshooting, we initially thought screen bugs caused the issue, but then we discovered the Grammarly Extension installed on the browser.\n\\nWhen enabled, the screen constantly refreshes or bounces, making editing the site impossible. The issue is widespread. On Reddit , for example, users are starting to report it.\n\\n\\nNothing, aside from disabling the extension altogether, fixes it. After updating Chrome, the extension doesn\\u2019t seem to work at all.\n\\nHowever, there is one thing you can do: switch to Edge, for now, or any other browser of your choice. The issue seems only to affect the Grammarly Extension for Chrome . However, in our tests, Edge and Opera were safe.\n\\nGrammarly hasn\\u2019t said anything about it yet; neither has Chrome.\n\\nWe\\u2019ll update this article once we know more. For now, if you want to use the extension, do it on other browsers.\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.reddit.com/r/Grammarly/comments/1gregz7/grammarly_chrome_extension_and_servicenow/",
+    "https://reddit.com/r/Grammarly/comments/1gregz7/grammarly_chrome_extension_and_servicenow/",
+    "https://www.reddit.com/r/Grammarly/comments/1gregz7/grammarly_chrome_extension_and_servicenow"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Reddit",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:50:22.203+02:00",
+  "updated": "2024-11-15T17:50:22.203+02:00"
+}

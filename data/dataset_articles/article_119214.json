@@ -1,0 +1,121 @@
+{
+  "thread": {
+    "uuid": "35e6fb6ab15928fb0e4adba1e18f23034127fee2",
+    "url": "https://www.thelocal.se/20251120/snow-causes-chaos-on-swedish-roads-and-theres-more-on-the-way",
+    "site_full": "www.thelocal.se",
+    "site": "thelocal.se",
+    "site_section": "https://news.google.com/search?q=there%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "top_news_se",
+      "top_news"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "The Local Sweden - News and practical guides in English",
+    "title": "Snow causes chaos on Swedish roads and there's more on the way",
+    "title_full": "Snow causes chaos on Swedish roads and there's more on the way",
+    "published": "2025-11-20T10:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "SE",
+    "main_image": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/11/watermarks-logo-accident-1.jpg@webp",
+    "performance_score": 0,
+    "domain_rank": 22874,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "35e6fb6ab15928fb0e4adba1e18f23034127fee2",
+  "url": "https://www.thelocal.se/20251120/snow-causes-chaos-on-swedish-roads-and-theres-more-on-the-way",
+  "ord_in_thread": 0,
+  "author": "Richard Orange",
+  "published": "2025-11-20T10:39:00.000+02:00",
+  "title": "Snow causes chaos on Swedish roads and there's more on the way",
+  "text": "Jennie Söderberg was stuck in a traffic jam on the E4 motorway between Gävle and Söderhamn for almost six hours, after a truck became stuck in the snow.\n\"The jam started after Gävle. First we were stuck for two hours, then a tow truck came and freed up one car and we could drive like 100 metres before we got stuck again,\" she told Expressen.\nThere were also jams on the E4 south of Stockholm, and several accidents, including one south of Landskrona and another on the E18 in Stockholm near Danderyd Hospital.\nLorry driver Adrian Neagu told Expressen he had been stuck for four hours between Norrköping and Nyköping, complaining that the Swedish Transport Administration had not been adequately prepared, meaning there were two few trucks spreading salt on the road.\nREAD ALSO: What do Sweden's weather warnings actually mean?\nMore snow is expected to fall on Thursday and Swedish weather agency SMHI has issued an orange weather warning for parts of northern Kalmar county, including Oskarshamn and Västervik. That warning is in place from 4pm to 11pm on November 20th.\n“Right now it’s not snowing that much there, but it will intensify as we get closer to the afternoon and evening. That’s when there’s a risk of large amounts of snow,” Moa Hallberg, meteorologist at SMHI, told the TT newswire.\nA yellow warning is already in place for much of southern Sweden, including cities such as Malmö, Helsingborg, Växjö and Jönköping.\n\"Consider not going out in traffic or be prepared that there is a risk of getting stuck,\" the agency writes on its website. \"Road conditions may be poor due to slippery roads, poor visibility and blowing snow behind vehicles.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Disaster and Accident->emergency response"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "http://expressen.se/nyheter/vader/snokaos-jennie-har-suttit-fast-pa-e4-hela-natten/",
+    "http://smhi.se/vader/prognoser-och-varningar/varningar-och-meddelanden/varningar",
+    "http://www.smhi.se/vader/prognoser-och-varningar/varningar-och-meddelanden/varningar",
+    "http://www.expressen.se/nyheter/vader/snokaos-jennie-har-suttit-fast-pa-e4-hela-natten/",
+    "http://expressen.se/nyheter/vader/snokaos-jennie-har-suttit-fast-pa-e4-hela-natten"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jennie Söderberg",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Adrian Neagu",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Danderyd Hospital",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "SMHI",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_se",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T11:20:02.219+02:00",
+  "updated": "2025-11-21T12:13:26.000+02:00"
+}

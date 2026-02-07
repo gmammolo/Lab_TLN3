@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "277126a4159b0ca9dbed9e2d90601fc11e8b6f78",
+    "url": "https://www.androidpolice.com/google-pixels-are-listening-for-trouble-on-nyc-subway-tracks",
+    "site_full": "www.androidpolice.com",
+    "site": "androidpolice.com",
+    "site_section": "http://androidpolice.com//feed",
+    "site_categories": [
+      "media",
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": " Android Police ",
+    "site_title": null,
+    "title": "Hear that? Google Pixels are listening for trouble on NYC subway tracks",
+    "title_full": "Hear that? Google Pixels are listening for trouble on NYC subway tracks",
+    "published": "2025-02-27T23:37:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-9-pro-review-21.jpg",
+    "performance_score": 0,
+    "domain_rank": 2923,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "277126a4159b0ca9dbed9e2d90601fc11e8b6f78",
+  "url": "https://www.androidpolice.com/google-pixels-are-listening-for-trouble-on-nyc-subway-tracks",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Timi Cantisano",
+  "published": "2025-02-27T23:37:00.000+02:00",
+  "title": "Hear that? Google Pixels are listening for trouble on NYC subway tracks",
+  "text": "Summary\n- Smartphone sensors are powerful tools for monitoring and tracking your environment.\n- Google and MTA collaborated on a project using Pixel phones to detect subway anomalies.\n- Pixel phones located problem spots 92% of the time, showing promise for future subway monitoring.\nWe've been living with smartphones for so long that it's easy to forget just how complex these devices really are. Smartphones are packed with a wide variety of sensors that can easily monitor and track you and the surrounding environment. So it makes perfect sense that a smartphone could be used as a monitoring tool.\nRelated\nSmartphone sensors: An A-Z guide on your phone's many sensors\nHow your phone knows it's in landscape mode\nWith that said, it looks like the Metropolitan Transportation Authority (MTA) and Google pulled off a brief experiment towards the end of 2024 that had Pixel phones listening for trouble in the subway tunnels of New York. That's right, a few Pixel phones were wired up outside train cars in order to capture as much data as possible in an effort to track possible anomalies that could lead to bigger issues.\nA new way to detect problems before they happen\nWired reported on this project, dubbed TrackInspect, sharing that this experiment with Google makes use of technology that's readily and cheaply available in order to get the job done, or at least a part of it (via Android Authority). While this kind of work is normally done with specialized equipment and workers just walking the lines, making use of technology found in most phones, could make monitoring the subway lines easier if this method takes off.\nMost phones, including Pixel handsets, feature a set of complex sensors that can be used to capture information about the ambient light, audio, movement, vibrations, locations, and so much more. With this data, an AI model is trained, and it can find areas in the subways that might have potential issues. Furthermore, the AI model can also suggest what types of fixes may be necessary before people even go down into the tunnels.\nSo you might be asking yourself, just how accurate is this technology? Well, the Wired piece highlights that Google's efforts were able to locate problem spots 92 percent of the time. Not bad for some Pixel phones that were strapped to the exterior of a subway car, right? Of course, this is just a test, and for now, the MTA will keep things as is, with workers and expensive equipment roaming the tunnels of the New York subway system in order to search for defects.\nWith that said, there are plans to move forward with a full pilot. If this comes to fruition, Google will build custom devices using similar technology so that it can be used to scan the tracks, so it will be interesting to see just how much better the readings can be with this specialized equipment.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.wired.com/story/the-new-york-city-subway-is-using-google-pixels-to-sense-track-defects/",
+    "https://www.androidauthority.com/google-pixel-subway-3530482/",
+    "https://wired.com/story/the-new-york-city-subway-is-using-google-pixels-to-sense-track-defects/",
+    "https://www.wired.com/story/the-new-york-city-subway-is-using-google-pixels-to-sense-track-defects",
+    "https://www.androidauthority.com/google-pixel-subway-3530482",
+    "https://androidauthority.com/google-pixel-subway-3530482/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:08:39.750+02:00",
+  "updated": "2025-02-28T00:08:39.750+02:00"
+}

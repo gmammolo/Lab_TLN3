@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "8773b9fa3aca2d950b34cdfc3e9aab61b654dea8",
+    "url": "https://securityonline.info/misakanetwork-blockchain-botnet-threatens-npm-ecosystem",
+    "site_full": "securityonline.info",
+    "site": "securityonline.info",
+    "site_section": "https://www.securityonline.info",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Cybersecurity News • Cybersecurity Daily",
+    "title": "MisakaNetwork: Blockchain Botnet Threatens npm Ecosystem",
+    "title_full": "MisakaNetwork: Blockchain Botnet Threatens npm Ecosystem",
+    "published": "2024-11-22T02:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 127458,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8773b9fa3aca2d950b34cdfc3e9aab61b654dea8",
+  "url": "https://securityonline.info/misakanetwork-blockchain-botnet-threatens-npm-ecosystem",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "do son",
+  "published": "2024-11-22T02:23:00.000+02:00",
+  "title": "MisakaNetwork: Blockchain Botnet Threatens npm Ecosystem",
+  "text": "A recent analysis by security researcher Kirill Boychenko at Socket has unveiled a sophisticated npm malware campaign that blends traditional supply chain attack techniques with modern blockchain technology. The campaign, orchestrated by a threat actor known as \\u201c _lain ,\\u201d seeks to create a decentralized, blockchain-powered botnet called MisakaNetwork. This development poses a serious risk to developers and organizations relying on open-source software.\n\\nThe attack begins with the insertion of malicious npm packages into the ecosystem. The threat actor employs typosquatting, creating packages with names similar to popular libraries like pretierr (targeting prettier) and neextjs (targeting next). Developers unknowingly install these packages, activating malicious postinstall scripts designed to compromise their systems. As Boychenko notes : \\u201c The technique exploits the trust developers place in package managers like npm, where scripts in package.json are often taken at face value without scrutiny. Malicious actions are masked under the guise of a normal package installation lifecycle, reducing suspicion .\\u201d\n\\nWith over 280 malicious packages downloaded more than 26,000 times, the scale of the attack underscores the vulnerabilities in the npm ecosystem.\n\\nWhat makes MisakaNetwork particularly innovative is its use of Ethereum smart contracts for command and control. Instead of relying on static IP addresses, which can be blocked, the botnet dynamically retrieves its C2 server address via blockchain. The fetchAndUpdateIp() function queries a smart contract, making the network more resilient and stealthy.\n\\n MisakaNetwork botnet | Image: Socket\n\\n \\u201cThis use of blockchain makes it harder to block, as decentralized networks are challenging to take down.\\xa0The lack of IP addresses in the client code makes it stealthier and challenging for defenders to detect,\\u201d Boychenko explains.\n\\nInitially designed for Windows, the botnet was later expanded to target Linux and macOS systems, increasing its versatility and potential impact. \\u201c_lain\\u2019s\\u201d malicious code leverages tools like Node.js to run in the background, suppressing the GUI to avoid detection. Persistence mechanisms tailored for each platform ensure the botnet\\u2019s continuity across reboots.\n\\nThe botnet\\u2019s user-friendly interface allows operators to execute commands, upload and download files, and deploy additional malware on infected systems. The ability to run arbitrary JavaScript payloads further enhances its capabilities. As Boychenko observes: \\u201c The botnet panel is designed to be a user-friendly GUI, allowing the attacker to become an efficient botnet operator (a.k.a. bot-herder), clicking through intuitive buttons designed within the web interface panel .\\u201d\n\\nThe campaign highlights a troubling trend: the use of decentralized technologies like blockchain to strengthen malware operations. \\u201c The use of blockchain-enabled botnets and C2 mechanisms indicates a shift towards decentralized control in malware operations, complicating mitigation efforts ,\\u201d Boychenko warns\n\\n Related Posts: \\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://socket.dev/blog/exploiting-npm-to-build-a-blockchain-powered-botnet",
+    "https://www.socket.dev/blog/exploiting-npm-to-build-a-blockchain-powered-botnet"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T02:56:30.375+02:00",
+  "updated": "2024-11-22T02:56:30.375+02:00"
+}

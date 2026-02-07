@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "79332910393d2bd81d637e0ba5bff31d9ab8af9e",
+    "url": "https://www.pprune.org/computer-internet-issues-troubleshooting/662533-microsoft-windows-updates-saga.html",
+    "site_full": "www.pprune.org",
+    "site": "pprune.org",
+    "site_section": "https://www.pprune.org/external.php?type=RSS2",
+    "site_categories": [
+      "hobbies_and_interests"
+    ],
+    "section_title": "PPRuNe Forums",
+    "title": "Microsoft Windows Updates Saga",
+    "title_full": "Microsoft Windows Updates Saga",
+    "published": "2024-11-15T10:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 28581,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "79332910393d2bd81d637e0ba5bff31d9ab8af9e",
+  "url": "https://www.pprune.org/computer-internet-issues-troubleshooting/662533-microsoft-windows-updates-saga.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Octane",
+  "published": "2024-11-15T10:41:00.000+02:00",
+  "title": "Microsoft Windows Updates Saga",
+  "text": "Microsoft is attempting on a regular basis to break my Laptop by installing \"updates\"\nMy machine is a 7 year old Lenovo Yoga 310-11IAP laptop running Windows 10. It has only a 64 GB SSD. It is not upgradable. This modest machine has been brilliant. It is small, lightweight and has a touchscreen. It was also very cheap. It has not missed a beat, it does all I need from a laptop, web browsing and email etc.\nUntil recently that is. MS is now hijacking my machine and changing the registry so that automatic Win 10 updates are allowed to occur. My machine does not have the resources or storage to cope with this crap. Upon auto reboot, one of which took overnight, I get a load of error messages, \"Win 11 cannot be loaded\" etc etc, and a boat load of crapware has been loaded, including MS Outlook with Office components etc that maxes out my storage turning the machine into a useless slug.\nI then have to spend hours trying to restore the laptop to it's previous configuration, deleting junk etc.\nLast time around it took me hours to reinstall Mail after I deleted Outlook for example. Then I go to the registry and disable Auto Update.\nBut wait, MS, without my authorization has accessed and altered my registry once more and enabled another pointless, malicious \"update\" that will break my computer again\nHow is this even legal? Are they are trying to coerce me into buying a new machine? One that I wouldn't need if they didn't break in and interfere with this one?\nI feel violated\nHow can I put a permanent stop to these updates, or lock the registry to prevent MS access?\n(The dreaded \"Your device needs to restart to install updates\" icon has reappeared )",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T12:50:31.218+02:00",
+  "updated": "2024-11-15T20:19:29.791+02:00"
+}

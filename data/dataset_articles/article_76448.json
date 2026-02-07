@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "a349280934424987a28fabc764db279965457317",
+    "url": "https://forums.unraid.net/topic/184463-upgrading-to-70-failed-misrerably-several-times-no-emhttpd-anymore",
+    "site_full": "forums.unraid.net",
+    "site": "unraid.net",
+    "site_section": "https://forums.unraid.net/forum/55-general-support/",
+    "site_categories": [
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "General Support - Unraid",
+    "title": "Upgrading to 7.0 failed misrerably (several times). No emhttpd anymore! - General Support - Unraid",
+    "title_full": "Upgrading to 7.0 failed misrerably (several times). No emhttpd anymore! - General Support - Unraid",
+    "published": "2025-01-10T10:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 44836,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a349280934424987a28fabc764db279965457317",
+  "url": "https://forums.unraid.net/topic/184463-upgrading-to-70-failed-misrerably-several-times-no-emhttpd-anymore",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "MAM59",
+  "published": "2025-01-10T10:47:00.000+02:00",
+  "title": "Upgrading to 7.0 failed misrerably (several times). No emhttpd anymore! - General Support - Unraid",
+  "text": "Tried to update remotely (its cold outside, do not want to freeze my butt in the garage), started normally, but unmounting the array got stuck with a non existing file beeing busy. Had to kill shfs after an hour of waiting. But the rest went ok.,\nThen I waited for the box to reappear in the LAN, and soon after, the ping was working again.\nSSH worked too, but NO WEBINTERFACE\n(and of course, all the unraid stuff has not been started too)\nI looked for \"emhttpd\", but even \"which\" told me, there was none on the stick anymore!\nSo, what to launch???\nI reverted to the old 6.12.14 just by copying \"previous\" to \"/\" and rebooting. Reboot got stuck again... had to use the reset switch!\n6.12.14 came back up fine again, not even a parity check was needed! Fine.\nSo once more trying to update... this time without a stuck file.\nUpdate went ok, rebooting... NO GUI! again.\nSame procedure as before, no emhttp, no unraid started. just a minimal linux. (this time again I was in the garage, dispite the cold)\nReverted to 6.12.14 again, giving up on 7!\nI have a 7 beta box (fresh install) which works fine, but updating a real one obviously does not work!\nSo, what am I missing (or what did the update forgot to change? \"emhttpd\" now elsewhere, renamed, whatever???)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T11:22:38.731+02:00",
+  "updated": "2025-01-10T11:22:38.731+02:00"
+}

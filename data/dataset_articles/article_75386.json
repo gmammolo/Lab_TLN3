@@ -1,0 +1,67 @@
+{
+  "thread": {
+    "uuid": "1344e80462e3243b982db1a86b18a51c617ba884",
+    "url": "https://news.itsfoss.com/linux-kernel-bcachefs",
+    "site_full": "news.itsfoss.com",
+    "site": "itsfoss.com",
+    "site_section": "https://news.itsfoss.com/latest/rss",
+    "site_categories": [],
+    "section_title": "",
+    "title": "A Problem in the Linux Kernel Yet Again: This Time, It's Bcachefs!",
+    "title_full": "A Problem in the Linux Kernel Yet Again: This Time, It's Bcachefs!",
+    "published": "2024-11-22T13:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://news.itsfoss.com/content/images/size/w1200/2024/11/bcachefs-linux-kernel-problem.png",
+    "performance_score": 0,
+    "domain_rank": 9382,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1344e80462e3243b982db1a86b18a51c617ba884",
+  "url": "https://news.itsfoss.com/linux-kernel-bcachefs",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sourav Rudra",
+  "published": "2024-11-22T13:35:00.000+02:00",
+  "title": "A Problem in the Linux Kernel Yet Again: This Time, It's Bcachefs!",
+  "text": "2024's been an interesting year for the Linux kernel, more so in the final months when we saw the expulsion of Russian maintainers over compliance requirements, and then a subsequent move by Russia to build its own Linux community . Linux kernel development is no stranger to a few controversies here and there, but geopolitics affecting their work was a surprise indeed. Unfortunately, something else has happened now that involves Bcachefs , the copy-on-write (COW) filesystem for Linux that focuses on reliability and being a robust alternative to ZFS and Btrfs. What's Going On With Bcachefs? Kent Overstreet, the creator of Bcachefs, has put out a blog detailing how the future of Bcachefs in the Linux kernel looks uncertain, as Linus Torvalds has rejected a pull from him for the upcoming Linux 6.13, citing “an open issue with the CoC board”. If you didn't know, the Linux kernel CoC committee (mentioned as “board” above) is tasked with enforcing the Code of Conduct (CoC) that applies to the project, both in project spaces and in the public. The latter is applicable when an individual is publicly representing the project or the community as a whole, including on social media or online/offline events. The consensus is that a recent offensive reply (back in September) by Kent to Linux memory management (MM) developer, Michal Hocko is behind the suspension. As you can see below, Kent was not happy with how Michal was handling things related to PF_MEMALLOC_NORECLAIM. In subsequent replies, Kent was asked by Shuah Khan of the Linux kernel CoC committee to not use such language, and to adhere to the Code of Conduct. To that, Kent responded that he had worked this out .) with Michal privately, with the CoC committee receiving the copies of the interactions. However, Shuah didn't let it go ), asserting that he had to apologize. Consequently, there has been plenty of discussion over this, with Kent refusing to apologize publicly. What Happens Now? All of this seems to have been taken up a notch by the formalized CoC enforcement policy that was published on November 14, 2024. It expands on what kind of actions might be taken in cases of unacceptable behavior. There are provisions on it that can be used against offenders. With a public apology by the offender being the first one. If an offender doesn't do that, then a ban from participating in kernel development, either for a short period or a full kernel development cycle, could be handed out. In such a case, the offender may be required to publicly apologize to get back in, but that is not a mandatory requirement. The CoC committee has the final say in that. Kent's blog appeared a few days after the publishing of the policy, so it looks like this is likely to be a drawn-out dispute. In the blog, he goes on to share that his reply was not meant to be malicious or personal, and things like this happen when developers get into technical arguments. As for the CoC's handling of the situation (via Shuah), many Linux kernel maintainers, including Kent, are unhappy with how heavy-handed the interactions have been, with CoC enforcement also being brought into question. If you are interested in reading the ongoing conversation surrounding this, then you can go through the original thread that is at the core of it all. In the end, some questions remain: What will happen to the Bcachefs implementation in the mainline Linux kernel? Will it stay or go away? Is this a temporary suspension for Kent Overstreet, or a more permanent one? For answers to all that, we have to wait and see what happens. 💬 Tell me what you think of this situation in the comments below! Suggested Read 📖 Here's why you should opt for It's FOSS Plus Membership - Even the biggest players in the Linux world don't care about desktop Linux users. We do. - We don't put content behind paywall. Your support keeps it open for everyone. Think of it like 'pay it forward'. - Don't like ads? With the Plus membership, you get an ad-free reading experience. - When millions of AI-generated content is being published daily, you read and learn from real human Linux users. - It costs just $2 a month, less than the cost of your favorite burger.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T14:39:28.738+02:00",
+  "updated": "2024-11-24T14:35:09.861+02:00"
+}

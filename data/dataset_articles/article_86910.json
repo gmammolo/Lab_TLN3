@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "e916b30d1f875f91e4c412e63c7f60dc7c996bf1",
+    "url": "https://stackoverflow.com/questions/77883153/my-php-contact-us-form-will-not-let-me-input-information-in-it",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/feeds",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Stack Overflow",
+    "title": "My php contact us form will not let me input information in it",
+    "title_full": "My php contact us form will not let me input information in it",
+    "published": "2024-01-25T23:56:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e916b30d1f875f91e4c412e63c7f60dc7c996bf1",
+  "url": "https://stackoverflow.com/questions/77883153/my-php-contact-us-form-will-not-let-me-input-information-in-it",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sakara Anderson Sakara Anderson 1",
+  "published": "2024-01-25T23:56:00.000+02:00",
+  "title": "My php contact us form will not let me input information in it",
+  "text": "You should exit if the connection failed, not continue to the code that tries to use $con .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:01:33.410+02:00",
+  "updated": "2024-01-26T04:13:05.782+02:00"
+}

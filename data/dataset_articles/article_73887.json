@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "b0e88d940bdaf077b72d6142b8d8c07b77bc4ed3",
+    "url": "https://discuss.circleci.com/t/selenium-tests-with-chromium-google-chrome-failing-with-execlp-failed-error-after-server-release-4-6-1/51786",
+    "site_full": "discuss.circleci.com",
+    "site": "circleci.com",
+    "site_section": "https://discuss.circleci.com/posts.rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "CircleCI Discuss - Latest posts",
+    "title": "Selenium tests with chromium / google-chrome failing with \"execlp failed\" error after Server release 4.6.1",
+    "title_full": "Selenium tests with chromium / google-chrome failing with \"execlp failed\" error after Server release 4.6.1",
+    "published": "2024-11-15T02:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/circleci/original/3X/e/d/ed2c7839ca4fafe2875d3fae8d97da0eb2b69477.png",
+    "performance_score": 0,
+    "domain_rank": 11150,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b0e88d940bdaf077b72d6142b8d8c07b77bc4ed3",
+  "url": "https://discuss.circleci.com/t/selenium-tests-with-chromium-google-chrome-failing-with-execlp-failed-error-after-server-release-4-6-1/51786",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@caco3 CaCO3",
+  "published": "2024-11-15T02:11:00.000+02:00",
+  "title": "Selenium tests with chromium / google-chrome failing with \"execlp failed\" error after Server release 4.6.1",
+  "text": "Our scheduled CI build started failing on the 23rd of August. We use capybara + selenium + chromedriver to run some integration tests in chromium, and these tests started breaking:\nRSpec::Core::MultipleExceptionError \\e[1mFailure/Error: \\e[0mUnable to find matching line from backtrace session not created: Chrome failed to start: exited normally. (session not created: DevToolsActivePort file doesn't exist) (The process started from chrome location /home/deploy/.cache/selenium/chrome/linux64/128.0.6613.84/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) session not created: Chrome failed to start: exited normally. (session not created: DevToolsActivePort file doesn't exist) (The process started from chrome location /home/deploy/.cache/selenium/chrome/linux64/128.0.6613.84/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nI saw a CircleCI changelog entry on this day, for “Server release 4.6.1”.\nI tried installing google-chrome instead of chromium, but we are getting the same crash. Running google-chrome manually from an SSH session gives me a “execlp failed” error:\nroot@c49f0749511c:/home/circleci/project# /usr/bin/google-chrome --help [0827/022314.971585:FATAL:chrome_main_delegate.cc(436)] execlp failed: No such file or directory (2) Trace/breakpoint trap (core dumped)\nNote that the tests are all passing when I run them locally on my machine using the exact same Docker image. So the issue appears to be a Docker permission that was recently removed when running the images on CI.\nI found a blog post that describes a similar error: Chrome in docker | Public Notes\nOtherwise I haven’t been able to find too much on Google. Has anyone else run into this? Is there something I can change in my CircleCI config, or in capybara/selenium? Thanks!\nSorry I’ve just realized that selenium was downloading it’s own version of chrome instead of using the one that I had already installed in the container. Apparently newer versions of selenium come with “selenium manager” and it downloads it’s own browser.\nThese failed CI builds coincide with the release of Chrome 128. So it looks like I need to downgrade Chrome to <= 127 until selenium is updated. It looks like I might be able to do this by setting the SE_BROWSER_VERSION environment variable.\nSE_BROWSER_VERSION\nHi @ndbroadbent\nWhere you able to solve this issue? How did you solve it?\nI have a native host (Debian Bullsey) which uses chromium 126 and it works fine. How ever I need to run it within a docker container which is Debian Bookworm based and uses chromium 130.\nI am not sure how I would have to use the mentioned SE_BROWSER_VERSION.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T08:10:05.308+02:00",
+  "updated": "2024-11-15T08:10:05.308+02:00"
+}

@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "5c994cadad8bd763883d8e86e8158104c27d93c3",
+    "url": "https://www.howtogeek.com/microsoft-copilot-macos-app",
+    "site_full": "www.howtogeek.com",
+    "site": "howtogeek.com",
+    "site_section": "http://feeds.howtogeek.com/tinyhacker",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": " How-To Geek ",
+    "site_title": null,
+    "title": "Microsoft Copilot Now Has a Mac App",
+    "title_full": "Microsoft Copilot Now Has a Mac App",
+    "published": "2025-02-27T21:52:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/bing-copilot-logo.jpg",
+    "performance_score": 0,
+    "domain_rank": 1065,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5c994cadad8bd763883d8e86e8158104c27d93c3",
+  "url": "https://www.howtogeek.com/microsoft-copilot-macos-app",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Arol Wright",
+  "published": "2025-02-27T21:52:00.000+02:00",
+  "title": "Microsoft Copilot Now Has a Mac App",
+  "text": "Microsoft's Copilot integration has mostly been reserved for Windows computers until now. If you have a Mac and you want a way to interact with Copilot that's not just the web version, this official app might just be what you need.\nMicrosoft has just released an official macOS app for its generative AI chatbot, Copilot, which you can now download from the App Store. The macOS application offers the full suite of Copilot's features in a dedicated window, so instead of having to fire up your browser and search for Copilot, you can now just fire up the app and get prompting. Just like the web version, you can interact with Copilot through text-based prompts, requesting assistance with various writing and creative tasks.\nFor the most part, this just seems to be your average, run-of-the-mill Microsoft web app. This is not too surprising as it's done with countless apps, and there's nothing inherently wrong or incorrect about that, but it does mean that you have some limitations. We went hands-on with it to try it out, and it doesn't seem like you can use your screen context as chat input like the ChatGPT app. This is not really any different from installing the web app as an app and making a shortcut to open it with your keyboard or firing it up from your desktop. You can put a prompt bar on your desktop for quick actions/queries, and it also has a menu bar icon, which shows up only while the app is running.\nIt should be noted that you will need to be running macOS 14.0 (Mojave) or later, and your Mac must be equipped with an Apple M1 chip or a later generation of Apple silicon. It's a bit silly of a requirement considering that it is just a web app and there's therefore no technical restrictions towards running this on an Intel Mac, but we have had Apple silicon for roughly five years now, so it is going to become increasingly harder to find devs willing to support these older computers. They are not dead yet, but we are probably closer than we think to the time Apple will drop support for Intel Macs on newer versions of macOS anyway.\nThe release also follows closely on the heels of other significant Copilot announcements. Earlier this week, Microsoft revealed that all Copilot users would receive free, unlimited access to two key features: \"Voice\" and \"Think Deeper.\" The \"Voice\" capability is basically the same voice features we have seen from other chatbots such as ChatGPT and Gemini, and it allows you to talk it out with your chatbot naturally.\n\"Think Deeper,\" on the other hand, is Microsoft's take on OpenAI's o1 model, providing an enhanced level of \"cognitive processing\" for Copilot, allowing it to tackle more challenging requests and deliver more accurate, thought-over responses. The upgrade enables Copilot to delve deeper into the context of your queries, leading to more accurate and relevant results. Both of these features are available in this new Mac version, in case you're wondering, so while it might lack some useful additions on virtue of it being basically a web app, you shouldn't have any issues accessing the full scope of the chatbot.\nIf you want to check out this chatbot on your Mac right now, you can grab it now from the App Store. As we said, you might find it to be a little limited compared to other dedicated chatbot apps, but at this point we would not blame you for finding yourself using anything but Apple Intelligence.\nSource: Microsoft via TechCrunch",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://apps.apple.com/ca/app/microsoft-copilot/id6738511300?mt=12",
+    "https://techcrunch.com/2025/02/27/microsoft-copilot-gets-a-macos-app/",
+    "https://x.com/MSFTCopilot/status/1895156948409917799",
+    "https://www.techcrunch.com/2025/02/27/microsoft-copilot-gets-a-macos-app/",
+    "https://www.apps.apple.com/ca/app/microsoft-copilot/id6738511300?mt=12",
+    "https://www.x.com/MSFTCopilot/status/1895156948409917799",
+    "https://techcrunch.com/2025/02/27/microsoft-copilot-gets-a-macos-app",
+    "https://apps.apple.com/ca/app/microsoft-copilot/id6738511300"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:27:49.435+02:00",
+  "updated": "2025-02-28T00:27:49.435+02:00"
+}

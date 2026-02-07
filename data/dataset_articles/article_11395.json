@@ -1,0 +1,135 @@
+{
+  "thread": {
+    "uuid": "cbf5ad2535bfad9159e1e68731e7bf43297f27cb",
+    "url": "https://www.khan.co.kr/en/article/202601151039357",
+    "site_full": "www.khan.co.kr",
+    "site": "khan.co.kr",
+    "site_section": "https://www.khan.co.kr",
+    "site_categories": [
+      "top_news_kr",
+      "top_news",
+      "crime, law and justice",
+      "politics",
+      "war, conflict and unrest",
+      "economy, business and finance"
+    ],
+    "section_title": "경향신문",
+    "site_title": "경향신문",
+    "title": "Trump imposes a \"25% tariff\" targeting Nvidia semiconductors exported to China - 경향신문",
+    "title_full": "Trump imposes a \"25% tariff\" targeting Nvidia semiconductors exported to China - 경향신문",
+    "published": "2026-01-15T03:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "KR",
+    "main_image": "https://img.khan.co.kr/news/2026/01/15/rcv.YNA.20260114.PRU20260114220001009_P1.jpg",
+    "performance_score": 0,
+    "domain_rank": 27901,
+    "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cbf5ad2535bfad9159e1e68731e7bf43297f27cb",
+  "url": "https://www.khan.co.kr/en/article/202601151039357",
+  "ord_in_thread": 0,
+  "author": "Noh Do-hyun",
+  "published": "2026-01-15T03:39:00.000+02:00",
+  "title": "Trump imposes a \"25% tariff\" targeting Nvidia semiconductors exported to China - 경향신문",
+  "text": "U.S. President Donald Trump on the 14th (local time) signed a proclamation to impose a 25% tariff on certain advanced semiconductor products, including Nvidia's AI chip H200, that are imported into the United States and then re-exported. This opens the way for H200 exports to China in exchange for what amounts to a toll.\nAfter signing the proclamation at the White House, President Trump referred to the H200, saying, \"It is not the top specification, but it is a very good chip. China wants it, and others want it,\" and added, \"We will earn 25% of the sales of that chip. A very great deal.\"\nThe H200 is based on the Hopper architecture, one generation earlier than Blackwell, Nvidia's current flagship product, but its performance is far superior to the H20 made for export to China. The tariff targets also include AMD's MI325X, among others.\nPresident Trump specified in the proclamation, \"These tariffs do not apply to chips imported to support building U.S. technology supply chains or to strengthen U.S. domestic manufacturing capacity for semiconductor-derived products.\" In effect, it means chips for domestic use will not be subject to the tariff.\nPreviously, in December last year, President Trump had indicated he would allow exports of the H200 to China and that 25% of the sales amount would be paid to the United States.\nThe U.S. Department of Commerce the previous day also revised its rules to allow exports to China of the H200 and other items that had, in principle, been prohibited, provided they pass case-by-case review. Nvidia will import H200 chips produced by the Taiwan foundry (semiconductor contract manufacturing) firm TSMC into the United States and then re-export them.\nThe White House stated, \"President Trump may, in the near future, impose broader tariffs on imports of semiconductors and derivative products to induce U.S. domestic manufacturing, and may introduce a corresponding tariff-offset program.\" The U.S. government has been conducting an investigation to impose itemized tariffs on semiconductors and on electronic products that use semiconductors.\nChinese authorities, however, appear to be putting the brakes on H200 imports. Reuters reported that Chinese customs authorities recently instructed customs officers not to allow the H200 chip to be brought into China. One official said, \"Because the authorities' instructions are so strict, for now it is basically equivalent to an import ban,\" adding, \"It could change depending on how circumstances evolve going forward.\"\nSome analysts view China's move to restrict H200 imports as an attempt to enhance its bargaining power ahead of the U.S.-China summit in April.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Economy, Business and Finance->foreign exchange market",
+    "Economy, Business and Finance->business strategy and marketing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Donald Trump",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "China",
+        "sentiment": "none"
+      },
+      {
+        "name": "U. S",
+        "sentiment": "none"
+      },
+      {
+        "name": "United States",
+        "sentiment": "none"
+      },
+      {
+        "name": "White House",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "경향신문",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Nvidia",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "NVDA",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_kr",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-15T07:58:30.043+02:00",
+  "updated": "2026-01-16T08:06:43.000+02:00"
+}

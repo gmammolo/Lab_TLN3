@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "9df1694ae55d543edff976cbd8adeb0b70a3bc77",
+    "url": "https://www.pingwest.com/a/310147",
+    "site_full": "www.pingwest.com",
+    "site": "pingwest.com",
+    "site_section": "https://www.pingwest.com/",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "品玩-有品好玩的科技，一切与你有关",
+    "site_title": "品玩-有品好玩的科技，一切与你有关",
+    "title": "腾讯云宣布国内率先支持 Valkey 8.0，开源代码贡献位居全球第一-品玩",
+    "title_full": "腾讯云宣布国内率先支持 Valkey 8.0，开源代码贡献位居全球第一-品玩",
+    "published": "2025-12-25T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://cdn.pingwest.com/portal/2025/12/25/portal/2025/12/25/mWePG697w4kaknh5S0C23r6Ei8YyJ4P6",
+    "performance_score": 0,
+    "domain_rank": 154334,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9df1694ae55d543edff976cbd8adeb0b70a3bc77",
+  "url": "https://www.pingwest.com/a/310147",
+  "ord_in_thread": 0,
+  "author": "Shuohang 发布于",
+  "published": "2025-12-25T02:00:00.000+02:00",
+  "title": "腾讯云宣布国内率先支持 Valkey 8.0，开源代码贡献位居全球第一-品玩",
+  "text": "随着新一代开源内存数据库 Valkey 在全球社区加速成熟，开源基础软件格局正迎来重要变化。12 月 23 日，腾讯云宣布国内率先支持并发布 Valkey 8.0 版本，同时以社区代码贡献量位居全球第一，成为推动该项目走向生产级应用的重要力量。\nValkey 是由 Linux 基金会托管、源自 Redis 社区的开源内存 Key-Value 数据库项目，致力于以宽松开源协议和社区共治模式，构建厂商中立、长期稳定的基础软件平台。\nValkey 开源负责人 Kyle Davis 表示，Valkey 重新找回了开源社区的初心，腾讯云等云厂商的持续投入，为项目的长期可持续发展奠定了坚实基础。\n目前，AWS、Google Cloud、甲骨文、腾讯云、阿里云、华为云等全球头部云厂商已深度参与 Valkey 社区共建，形成以社区为核心的开源协作格局，Valkey 中国社区也已在北京成立，中国开发者正深度参与全球社区治理。\n作为 Valkey 社区创始成员之一，腾讯云深度参与项目共建，将云上大规模业务实践持续回馈社区，在集群扩缩容、性能优化和稳定性增强等方向贡献了大量核心代码。\n腾讯云数据库专家朱彬彬（Binbin Zhu）近两年在 Redis 与 Valkey 社区累计贡献 360多 个 PR，贡献量位居全球第一，并担任社区技术指导委员会（TSC）和 Core Team 成员，直接参与项目技术路线和版本演进。\n(图：Valkey Github代码仓库，Valkey 由 Redis 社区演进而来，统计含 Redis/Valkey 社区贡献)\n此次发布的 Valkey 8.0 是 Valkey 项目从 Redis 分叉后发布的首个重要大版本，在继承 Redis 7.2.4 能力基础上，由社区独立演进，在性能和资源效率方面实现显著提升，并进一步面向 Search 与 AI 场景演进，增强对新一代数据与智能应用负载的支撑能力。\n基于社区版本，腾讯云结合在游戏、电商、金融等行业的实践经验，对 Valkey 8.0 进行了云上适配和工程化增强，进一步提升其在生产环境中的稳定性和易用性。\n近年来，腾讯持续加大在基础软件和 AI 领域的研发与开源投入。目前腾讯 GitHub Star 总数超过 52 万，位列全球前十，累计贡献开源项目超过 200 个，并长期参与 Linux 基金会、CNCF、Apache 等主流开源组织，在数据库、云原生、AI、大数据、推理加速等领域持续向社区贡献核心能力。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T09:01:24.022+02:00",
+  "updated": "2025-12-25T09:04:25.000+02:00"
+}

@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "2b9bcd446093e467849d9690f4d0a2eb3b537496",
+    "url": "https://discuss.circleci.com/t/docker-aws-ecr-auth-with-oidc-role-doesnt-seem-to-be-working/49267",
+    "site_full": "discuss.circleci.com",
+    "site": "circleci.com",
+    "site_section": "https://discuss.circleci.com/posts.rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "CircleCI Discuss - Latest posts",
+    "title": "Docker AWS ECR auth with oidc role doesn't seem to be working",
+    "title_full": "Docker AWS ECR auth with oidc role doesn't seem to be working",
+    "published": "2024-11-14T18:43:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/circleci/optimized/3X/b/b/bbb466f91b4031978d5b248f48b63963f8bbc01a_2_1024x537.jpeg",
+    "performance_score": 0,
+    "domain_rank": 11150,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2b9bcd446093e467849d9690f4d0a2eb3b537496",
+  "url": "https://discuss.circleci.com/t/docker-aws-ecr-auth-with-oidc-role-doesnt-seem-to-be-working/49267",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@carlosjgp Carlos Juan Gómez Peñalver",
+  "published": "2024-11-14T18:43:00.000+02:00",
+  "title": "Docker AWS ECR auth with oidc role doesn't seem to be working",
+  "text": "I tried configuring AWS ECR pulling through OIDC but it doesn’t seem to be working\nI can see on AWS that the IAM role is not being accessed\nversion: 2.1 jobs: job_name: docker: - image: <your-image-arn> aws_auth: oidc_role_arn: <your-iam-role-arn>\nproperty oidc_role_arn is missing from the yaml spec https://json.schemastore.org/circleciconfig.json\noidc_role_arn\neven though the feature was released in May’23\nI stumbled upon the same problem.\nI ran into this problem too, and google search lead me to this post, which unfortunately did not identify any solutions.\nAfter another search, I came across this article https://support.circleci.com/hc/en-us/articles/13832176226203-Troubleshooting-OIDC-in-CircleCI\nThe article states\nThere must be at least one context present in your job before CircleCI will generate the $CIRCLE_OIDC_TOKEN environment variable.\nAfter adding a context to my job in the config file, I was able to use OIDC to pull an image from ECR.\nHi team, same here - doesn’t work.\nbut the problem is a bit another - is it possible for executor to pull private ECR image with oidc?\nWe never got this to work sadly\nWe ended up using a CCI context with hardcoded credentials\nWe had 3 contexts and this didn’t work for us\nI just checked the jsonschema and the oidc_role_arn property is now present\nMaybe it works now…? I don’t have a CCI setup to test it now though",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Health"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://json.schemastore.org/circleciconfig.json",
+    "https://www.json.schemastore.org/circleciconfig.json"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T08:11:03.252+02:00",
+  "updated": "2024-11-15T08:11:03.252+02:00"
+}

@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "db0f48684c03dfb166f34df6991df2e643727466",
+    "url": "https://stackoverflow.com/questions/78209218/add-items-files-from-directory-to-spinner-list",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/questions",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Newest Questions - Stack Overflow",
+    "title": "c# - add Items (FILES) from Directory to Spinner List - Stack Overflow",
+    "title_full": "c# - add Items (FILES) from Directory to Spinner List - Stack Overflow",
+    "published": "2024-03-23T01:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 185,
+    "domain_rank_updated": "2024-03-19T12:07:56.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "db0f48684c03dfb166f34df6991df2e643727466",
+  "url": "https://stackoverflow.com/questions/78209218/add-items-files-from-directory-to-spinner-list",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anthony Magerera Anthony Magerera 1",
+  "published": "2024-03-23T01:20:00.000+02:00",
+  "title": "c# - add Items (FILES) from Directory to Spinner List - Stack Overflow",
+  "text": "i´m trying to add files from a directory to spinner list, but i got nothing, (spinner list is empty) hoyever the folder countains 3 files in it.\ni checked whether the folder exists or not, (the folder exists)\nthen i tried to show a message telling if any file found in the folder (i got no message)\nthis is what i tried so far :\npublic class MainActivity : Activity { Button btnGetFiles; Spinner spinnerGetFiles; List<string> fileList; protected override void OnCreate(Bundle savedInstanceState) { base.OnCreate(savedInstanceState); SetContentView(Resource.Layout.Main); spinnerGetFiles = FindViewById<Spinner>(Resource.Id.spinnerGetFiles); btnGetFiles = FindViewById<Button>(Resource.Id.btnGetFiles); btnGetFiles.Click += delegate { fileList = GetFilesFromDirectory(\"/storage/emulated/0/MyFolder\"); ArrayAdapter<string> adapter = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleSpinnerItem, fileList); spinnerGetFiles.Adapter = adapter; }; } List<string> GetFilesFromDirectory(string strDirectoryPath) { List<string> files = new List<string>(); if (Directory.Exists(strDirectoryPath)) { Toast.MakeText(Application.Context, \"Directory found\", ToastLength.Long).Show(); string[] fileList2 = Directory.GetFiles(strDirectoryPath); foreach (string file in fileList2) { files.Add(Path.GetFileName(file)); Toast.MakeText(Application.Context, \"File found : \" + file, ToastLength.Long).Show(); } } else { Toast.MakeText(Application.Context, \"No directory was found!!\", ToastLength.Long).Show(); } return files; } }",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-03-23T01:24:30.147+02:00",
+  "updated": "2024-03-23T04:42:00.638+02:00"
+}

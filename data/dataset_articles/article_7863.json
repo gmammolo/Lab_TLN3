@@ -1,0 +1,149 @@
+{
+  "thread": {
+    "uuid": "75a142a751beebdca4dba57cfe223f8f5e876e37",
+    "url": "https://www.cbsnews.com/pittsburgh/news/wheeling-west-virginia-bridge-collapse-wheeling-creek/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/pittsburgh/tag/brentwood/2/",
+    "site_categories": [
+      "media",
+      "television",
+      "entertainment",
+      "top_news_ca",
+      "top_news_ph",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_kw",
+      "top_news",
+      "human interest",
+      "lifestyle and leisure",
+      "disaster and accident",
+      "weather",
+      "economy, business and finance",
+      "crime, law and justice",
+      "politics",
+      "sport"
+    ],
+    "section_title": "            Brentwood news - Today&rsquo;s latest updates  - Page 2 - CBS Pittsburgh\n",
+    "site_title": "CBS News | Breaking news, top stories &amp; today's latest headlines",
+    "title": "Bridge collapse in Wheeling, West Virginia sends three people to the hospital - CBS Pittsburgh",
+    "title_full": "Bridge collapse in Wheeling, West Virginia sends three people to the hospital - CBS Pittsburgh",
+    "published": "2026-01-08T08:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/08/1aa7b3e4-20e9-407d-8477-f6eb679776b9/thumbnail/1200x630/7cb8f6662097bb530f83d2f9726e4794/611137789-1197676162454348-1052950961429486903-n.jpg",
+    "performance_score": 4,
+    "domain_rank": 611,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 41,
+        "comments": 45,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "75a142a751beebdca4dba57cfe223f8f5e876e37",
+  "url": "https://www.cbsnews.com/pittsburgh/news/wheeling-west-virginia-bridge-collapse-wheeling-creek/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2026-01-08T08:34:00.000+02:00",
+  "title": "Bridge collapse in Wheeling, West Virginia sends three people to the hospital - CBS Pittsburgh",
+  "text": "A bridge in Wheeling, West Virginia that was in the process of being demolished collapsed on Wednesday afternoon, sending three workers to the hospital.\nThe Wheeling Fire Department said that its crews were called to the Washington Avenue Bridge over the Wheeling Creek just before 2 p.m. on Wednesday.\nThe fire department said that contractors were working to demolish the bridge, which has been closed since last month, when it collapsed.\nThree workers were on the bridge when it collapsed, causing them to fall into the creek below.\nThe fire department said that one of the workers was seriously injured while the other two suffered non-life threatening injuries.\nAll three workers were taken to Wheeling Hospital to be treated for their injuries.\nThe fire department said its crews cleared the scene a short time later.\nMike Darnay Mike Darnay is a digital producer and photojournalist at CBS Pittsburgh. Mike has also written and produced content for Vox Media and the Mon Valley Independent. He often covers overnight breaking news, the Pittsburgh Steelers and high school sports.\nRead More",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->structural failure",
+    "Disaster and Accident->transportation accident and incident"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Avenue Bridge",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "CBS",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "CBS",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "Wheeling Fire Department",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_ca",
+      "top_news_ph",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_kw",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Brentwood"
+      ],
+      "state": [
+        "Pennsylvania"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T08:46:24.337+02:00",
+  "updated": "2026-01-09T09:07:07.000+02:00"
+}

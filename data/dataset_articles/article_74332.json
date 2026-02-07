@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "38c86ed7751881c226c34130c8adfc145981a86e",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/varonis-warns-bug-discovered-postgresql-pl-perl",
+    "site_full": "www.darkreading.com",
+    "site": "darkreading.com",
+    "site_section": "https://www.darkreading.com/rss.xml",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "darkreading",
+    "title": "Varonis Warns of Bug Discovered in PostgreSQL PL/Perl",
+    "title_full": "Varonis Warns of Bug Discovered in PostgreSQL PL/Perl",
+    "published": "2024-11-14T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt543329aade097bfc/673668ca8e4ac646d14a9934/postgreSQL1800_tofino_ALAMY.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop",
+    "performance_score": 0,
+    "domain_rank": 3800,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 24
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "38c86ed7751881c226c34130c8adfc145981a86e",
+  "url": "https://www.darkreading.com/vulnerabilities-threats/varonis-warns-bug-discovered-postgresql-pl-perl",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dark Reading Staff",
+  "published": "2024-11-14T02:00:00.000+02:00",
+  "title": "Varonis Warns of Bug Discovered in PostgreSQL PL/Perl",
+  "text": "Researchers at Varonis discovered a vulnerability within Postgres language extension PL/Perl, allowing a user to set arbitrary environment variables in PostgreSQL session processes.\nThe vulnerability was given a CVSS 8.8 score for severity and could lead to severe security issues, depending on the scenario where it's exploited.\nTracked as CVE-2024-10979, the flaw allows a threat actor to modify a sensitive environment, ultimately allowing them to execute arbitrary code without accessing a user of the operating system.\nThe vulnerability also allows a threat actor to run additional queries to gather information on the machine and its contents.\nVersions preceding PostgreSQL 17.1, 16.5, 15.9, 14.14, 13.17, and 12.21 are affected by this vulnerability and can be mitigated by upgrading to PostgreSQL, \"to the latest minor version at a minimum,\" according to the researchers, as well as restricting allowed extensions.\nPostgres customers should also examine ddl logs for creation of functions they do not recognize or did not create themselves to assess if they have been impacted.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.postgresql.org/about/news/postgresql-171-165-159-1414-1317-and-1221-released-2955/",
+    "https://www.postgresql.org/about/news/postgresql-171-165-159-1414-1317-and-1221-released-2955",
+    "https://postgresql.org/about/news/postgresql-171-165-159-1414-1317-and-1221-released-2955/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T01:13:51.615+02:00",
+  "updated": "2024-11-16T21:31:24.484+02:00"
+}

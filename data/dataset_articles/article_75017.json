@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "c2dd0b3db91eac343ebe55be92ac018f2e5ec1f7",
+    "url": "https://www.mathworks.com/matlabcentral/answers/2167643-simulink-support-package-for-arduino-error-external-mode-open-protocol-checkdata-command-failed",
+    "site_full": "www.mathworks.com",
+    "site": "mathworks.com",
+    "site_section": "https://www.mathworks.com/matlabcentral/answers",
+    "site_categories": [
+      "education"
+    ],
+    "section_title": "Recently Added - MATLAB Answers - MATLAB Central\n",
+    "title": "Simulink Support Package for Arduino Error: External Mode Open Protocol CheckData Command Failed - MATLAB Answers - MATLAB Central",
+    "title_full": "Simulink Support Package for Arduino Error: External Mode Open Protocol CheckData Command Failed - MATLAB Answers - MATLAB Central",
+    "published": "2024-11-21T11:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/thumbnails/generic-og-thumbnail.jpg",
+    "performance_score": 0,
+    "domain_rank": 1821,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c2dd0b3db91eac343ebe55be92ac018f2e5ec1f7",
+  "url": "https://www.mathworks.com/matlabcentral/answers/2167643-simulink-support-package-for-arduino-error-external-mode-open-protocol-checkdata-command-failed",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "순호 권",
+  "published": "2024-11-21T11:41:00.000+02:00",
+  "title": "Simulink Support Package for Arduino Error: External Mode Open Protocol CheckData Command Failed - MATLAB Answers - MATLAB Central",
+  "text": "Simulink Support Package for Arduino Error: External Mode Open Protocol CheckData Command Failed\nHello,\nI am currently using the Simulink Support Package for Arduino Hardware. After running the following model in external mode for about 10 seconds, I encounter an error stating 'external mode open protocol checkdata command failed', and the operation stops.\nThe Arduino board I am using is the MKR WiFi 1010.\nCould you please help me understand what might be causing this error?\nI look forward to your response.\nThank you!\n0 Comments\nAccepted Answer\n[Meet](/matlabcentral/profile/authors/34509164)on 21 Nov 2024 at 6:38\nHi,\nI encountered a similar error with my STM32 board. One possible cause is exceeding the available bandwidth of the XCP connection. Here are some steps that helped me resolve the issue, which you might find useful to try:\nDecrease the number of signals you are logging at the same time. Increase the clock speed and baud rate of the hardware board. Note that you may also need to reconfigure scalars and timer constants. Split the model into two parts. Use one model to perform any heavy computation work, and deploy this using code generation. Use a second Simulink model running in external mode to log the signals produced by the first model.\nI hope this solution works for you as well!\nMore Answers (0)\nSee Also\nCategories\nFind more on Modeling in\n[Help Center](/support/search.html?fq[]=category:simulink/model-preparation-arduino&s_tid=answers_leaf_hc_category)and[File Exchange](/matlabcentral/fileexchange/?category[]=simulink/index.simulink/supported-hardware.simulink/supportpkg-arduino.simulink/model-preparation-arduino&s_tid=answers_leaf_fx_category)Community Treasure Hunt\nFind the treasures in MATLAB Central and discover how the community can help you!\n[Start Hunting!](/matlabcentral/community/onramps/mlc_treasure_hunt?s_tid=hunt_spotlight)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T09:47:12.449+02:00",
+  "updated": "2024-11-22T09:47:12.449+02:00"
+}

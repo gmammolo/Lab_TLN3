@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "93b848a5e831770356b04a2dfda7db9b62df2088",
+    "url": "https://infosecu.technews.tw/2025/08/21/intel-ghosts-researcher-who-found-web-apps-spilled-270k-staff-records/",
+    "site_full": "infosecu.technews.tw",
+    "site": "technews.tw",
+    "site_section": "https://www.technews.tw",
+    "site_categories": [],
+    "section_title": "TechNews 科技新報 | 市場和業內人士關心的趨勢、內幕與新聞",
+    "site_title": "TechNews 科技新報 | 市場和業內人士關心的趨勢、內幕與新聞",
+    "title": "英特爾網站資安漏洞，27 萬筆員工資料與機密報告外洩",
+    "title_full": "英特爾網站資安漏洞，27 萬筆員工資料與機密報告外洩",
+    "published": "2025-08-21T04:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29549,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "93b848a5e831770356b04a2dfda7db9b62df2088",
+  "url": "https://infosecu.technews.tw/2025/08/21/intel-ghosts-researcher-who-found-web-apps-spilled-270k-staff-records/",
+  "ord_in_thread": 0,
+  "author": "TechNews 編輯台",
+  "published": "2025-08-21T04:45:00.000+03:00",
+  "title": "英特爾網站資安漏洞，27 萬筆員工資料與機密報告外洩",
+  "text": "在最近的安全研究中，資安人員 Eaton Zvveare 揭露了英特爾（Intel）網路基礎設施中的重大漏洞，這些漏洞導致超過 27 萬名員工及供應商的個人資料洩露。Zvveare 的調查始於去年秋季，他發現英特爾的一個內部網站存在認證漏洞，這使他能夠輕易地獲取大量敏感數據，包括員工姓名、職位、電話號碼、電子郵件地址，以及機密產品報告和保密協議（NDA）等文件。\nZvveare指出，英特爾的網站安全性明顯不足，尤其是在其「產品層級管理」和「產品上線」網站中，這些網站使用了不當的客戶端加密和硬編碼的憑證，讓他能夠訪問標記為「英特爾機密」的內部平台。更糟的是，他還發現了一個GitHub的個人訪問Token，這可能允許他在內部資料庫中創建不當的產品。\n在發現這些漏洞後，Zvveare於去年10月14日首次通知英特爾，卻收到自動回覆表示該類網站漏洞不屬於該公司漏洞獎勵計畫範圍。隨後，他在10月29日和11月12日繼續回報更多漏洞。英特爾直至今年2月28日修正漏洞，並於今年8月18日公開完整報告。英特爾的發言人表示，該公司在去年10月已經對這些漏洞進行修復，並強調將持續加強其安全措施。\nZvveare對英特爾未能將網站漏洞納入獎勵計畫表示驚訝，並指出這些漏洞可能會對公司造成嚴重影響。他建議，所有公司都應擴展安全審查範圍，確保內部網站的安全性，並避免在客戶端代碼中使用硬編碼的憑證和Token。Zvveare的完整報告已在其個人網站上發布，並確認所有報告的漏洞在發布前均已修復。\n（首圖來源： Flickr/Yuri Samoilov CC BY 2.0）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->corporate crime",
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->fraud",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->identification technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T07:36:52.179+03:00",
+  "updated": "2025-08-21T07:41:13.000+03:00"
+}

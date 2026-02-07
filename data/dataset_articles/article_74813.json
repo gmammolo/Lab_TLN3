@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "f677bc6469086e6aa6b53c376822eddc25237d2d",
+    "url": "https://www.webpronews.com/microsoft-copilot-giving-employees-access-to-sensitive-hr-ceo-emails",
+    "site_full": "www.webpronews.com",
+    "site": "webpronews.com",
+    "site_section": "https://www.webpronews.com",
+    "site_categories": [
+      "media",
+      "tech"
+    ],
+    "section_title": "\r\nWebProNews - Digital Marketing, Technology, and Business News",
+    "title": "Microsoft Copilot Giving Employees Access to Sensitive HR & CEO Emails",
+    "title_full": "Microsoft Copilot Giving Employees Access to Sensitive HR & CEO Emails",
+    "published": "2024-11-22T04:51:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6963,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f677bc6469086e6aa6b53c376822eddc25237d2d",
+  "url": "https://www.webpronews.com/microsoft-copilot-giving-employees-access-to-sensitive-hr-ceo-emails",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Matt Milano",
+  "published": "2024-11-22T04:51:00.000+02:00",
+  "title": "Microsoft Copilot Giving Employees Access to Sensitive HR & CEO Emails",
+  "text": "Microsoft is—once again—in hot water over its Copilot AI, this time because it is giving users unauthorized access to emails and documents. Salesforce CEO Marc Benioff, one of Copilot’s biggest critics, posted a message on X about the issue. According to the Business Insider article Benioff links to, Copilot is oversharing information to such a degree that some companies are delaying deployment of the tool. Despite the issue, Microsoft says Copilot is not to blame, with companies’ lax data-governance models being the real culprit. “Many data-governance challenges in the context of AI were not caused by AI’s arrival,” a Microsoft spokesperson told BI. “Microsoft is helping customers enhance their central governance of identities and permissions, to help organizations continuously update and manage these fundamental controls,” the spokesperson added. The issue seems to stem from the way AI models work, consuming and indexing content in order to provide insights and perform tasks based on it. Evidently, become some organizations do not have strong data-governance policies in place, Copilot is making sensitive information available to employees who shouldn’t have access to that information. While not technically a Copilot problem, Microsoft is nonetheless rolling out changes designed to help companies identify data-governance issues and address them, as the company describes. For Copilot administrators, it can be overwhelming to know where to start. Existing administrators can also be unfamiliar with how some features can enhance their data security. To address the need for shorter, actionable, and prescriptive guidance, you can use this deployment blueprint. In this deployment blueprint, we provide a recommended approach to address internal oversharing concerns throughout a Microsoft 365 Copilot deployment. Administrators can find the deployment blueprint here , and are encouraged to make any necessary changes to ensure proper data access.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://t.co/jYXOoQHiyt",
+    "https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-blueprint-oversharing",
+    "https://twitter.com/Benioff/status/1859646385018274147?ref_src=twsrc%5Etfw",
+    "https://www.businessinsider.com/microsoft-copilot-oversharing-problem-fix-customers-2024-11",
+    "https://twitter.com/Benioff/status/1859646385018274147",
+    "https://www.twitter.com/Benioff/status/1859646385018274147?ref_src=twsrc%5Etfw",
+    "https://www.t.co/jYXOoQHiyt",
+    "https://www.learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-blueprint-oversharing",
+    "https://businessinsider.com/microsoft-copilot-oversharing-problem-fix-customers-2024-11"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marc Benioff",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T05:10:21.341+02:00",
+  "updated": "2024-11-22T07:11:04.398+02:00"
+}

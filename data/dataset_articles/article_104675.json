@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "ba0e12f168c4e6be73f0892e4164d80be22e5b9e",
+    "url": "https://devzone.nordicsemi.com/f/nordic-q-a/107550/nrf-connect-sdk-and-toolchain-setup",
+    "site_full": "devzone.nordicsemi.com",
+    "site": "nordicsemi.com",
+    "site_section": "https://devzone.nordicsemi.com/rss",
+    "site_categories": [],
+    "section_title": "",
+    "title": "Forum Post: nRF Connect SDK and toolchain setup",
+    "title_full": "Forum Post: nRF Connect SDK and toolchain setup",
+    "published": "2024-01-19T08:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 19691,
+    "domain_rank_updated": "2024-01-16T12:06:26.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ba0e12f168c4e6be73f0892e4164d80be22e5b9e",
+  "url": "https://devzone.nordicsemi.com/f/nordic-q-a/107550/nrf-connect-sdk-and-toolchain-setup",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "j.wielink",
+  "published": "2024-01-19T08:01:00.000+02:00",
+  "title": "Forum Post: nRF Connect SDK and toolchain setup",
+  "text": "After following the\nnRF Connect SDK Installation instructions and attempting to build an example for one of the boards I am running into an issue with a ninja dependency. It seems some of the python dependencies were not installed properly in the toolchain. I had to manually add the ninja module with '\n~/ncs/toolchains/7795df4459/usr/bin/python -m pip install ninja' (as well as the dependency for west). I'm suspecting that something has gone wrong during the toolchain installation but I was sure to follow the exact steps for the 'Command line' setup.\nI also don't see ninja listed as a python dependency\nhere.\nI'm on Linux (OpenSUSE).\nI setup the\nncs-example-application, just to verify that my toolchain is working and that I'm able to build any app.\nIt seems to me that the README.md here is outdated since it suggests to build the application with '\nwest build -b $BOARD app' but app does not exist after initializing with the initialization steps. However, that's besides the point, I'm just looking to get my toolchain installed properly.\nSo, instead I decided to attempt a build of\nzigbee_weather_station app, this is where I'm running into my toolchain issue:\njwielink@SUSE:~/jwcode/stryda-ws> west build -b thingy53_nrf5340_cpuapp nrf/applications/zigbee_weather_station --pristine -- west build: making build dir /home/jwielink/jwcode/stryda-ws/build pristine -- west build: generating a build system Loading Zephyr default modules (Zephyr base). -- Application: /home/jwielink/jwcode/stryda-ws/nrf/applications/zigbee_weather_station -- CMake version: 3.28.1 -- Using NCS Toolchain 2.5.20231017.513615545433 for building. (/home/jwielink/ncs/toolchains/7795df4459/cmake) -- Found Python3: /home/jwielink/ncs/toolchains/7795df4459/usr/local/bin/python3 (found suitable version \"3.8.18\", minimum required is \"3.8\") found components: Interpreter -- Cache files will be written to: /home/jwielink/.cache/zephyr -- Zephyr version: 3.5.99 (/home/jwielink/jwcode/stryda-ws/zephyr) -- Found west (found suitable version \"1.2.0\", minimum required is \"0.14.0\") -- Board: thingy53_nrf5340_cpuapp -- Found host-tools: zephyr 0.16.1 (/home/jwielink/ncs/toolchains/7795df4459/opt/zephyr-sdk) -- Found toolchain: zephyr 0.16.1 (/home/jwielink/ncs/toolchains/7795df4459/opt/zephyr-sdk) -- Found Dtc: /home/jwielink/ncs/toolchains/7795df4459/usr/local/bin/dtc (found suitable version \"1.4.7\", minimum required is \"1.4.6\") -- Found BOARD.dts: /home/jwielink/jwcode/stryda-ws/zephyr/boards/arm/thingy53_nrf5340/thingy53_nrf5340_cpuapp.dts -- Found devicetree overlay: /home/jwielink/jwcode/stryda-ws/nrf/applications/zigbee_weather_station/configuration/thingy53_nrf5340_cpuapp/app.overlay -- Generated zephyr.dts: /home/jwielink/jwcode/stryda-ws/build/zephyr/zephyr.dts -- Generated devicetree_generated.h: /home/jwielink/jwcode/stryda-ws/build/zephyr/include/generated/devicetree_generated.h -- Including generated dts.cmake file: /home/jwielink/jwcode/stryda-ws/build/zephyr/dts.cmake warning: Experimental symbol ZIGBEE is enabled. Parsing /home/jwielink/jwcode/stryda-ws/nrf/applications/zigbee_weather_station/Kconfig Loaded configuration '/home/jwielink/jwcode/stryda-ws/zephyr/boards/arm/thingy53_nrf5340/thingy53_nrf5340_cpuapp_defconfig' Merged configuration '/home/jwielink/jwcode/stryda-ws/nrf/applications/zigbee_weather_station/configuration/thingy53_nrf5340_cpuapp/prj.conf' Configuration saved to '/home/jwielink/jwcode/stryda-ws/build/zephyr/.config' Kconfig header saved to '/home/jwielink/jwcode/stryda-ws/build/zephyr/include/generated/autoconf.h' -- Found GnuLd: /home/jwielink/ncs/toolchains/7795df4459/opt/zephyr-sdk/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/../../../../arm-zephyr-eabi/bin/ld.bfd (found versi on \"2.38\") -- The C compiler identification is GNU 12.2.0 -- The CXX compiler identification is GNU 12.2.0 -- The ASM compiler identification is GNU -- Found assembler: /home/jwielink/ncs/toolchains/7795df4459/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc CMake Error: The detected version of Ninja () is less than the version of Ninja required by CMake (1.3). CMake Error at /usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile): Failed to generate test project build system. Call Stack (most recent call first): /usr/share/cmake/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles) /usr/share/cmake/Modules/CheckCCompilerFlag.cmake:51 (cmake_check_compiler_flag) /home/jwielink/jwcode/stryda-ws/zephyr/cmake/modules/extensions.cmake:2019 (check_c_compiler_flag) /home/jwielink/jwcode/stryda-ws/zephyr/cmake/modules/extensions.cmake:1099 (check_compiler_flag) /home/jwielink/jwcode/stryda-ws/zephyr/cmake/modules/kernel.cmake:144 (zephyr_check_compiler_flag) /home/jwielink/jwcode/stryda-ws/zephyr/cmake/modules/zephyr_default.cmake:138 (include) /home/jwielink/jwcode/stryda-ws/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:66 (include) /home/jwielink/jwcode/stryda-ws/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate) CMakeLists.txt:14 (find_package) -- Configuring incomplete, errors occurred! FATAL ERROR: command exited with status 1: /usr/bin/cmake -DWEST_PYTHON=/home/jwielink/ncs/toolchains/7795df4459/usr/local/bin/python3 -B/home/jwielink/jwcode/stryda-ws/build -G Ninja -DBOARD=thingy53_nrf5340_cpuapp -S/home/jwielink/jwcode/stryda-ws/nrf/applications/zigbee_weather_station jwielink@SUSE:~/jwcode/stryda-ws> ninja --version 1.11.1\nI have been spending some time on this but now I'm not sure how to proceed now. I did deviate slightly from the setup because I ran into a shared library issue when using the toolchain-manager shell, I 'resolved' this by initializing the west repository without it:\nhttps://stackoverflow.com/questions/77763185/missing-shared-library-libunistring-so-2-while-setting-up-nrf-connect-sdk. I don't suspect this to be a problem since it was just about initializing a west repository..\nI very much hope someone can help me get the toolchain working properly so that I can start the process of building applicaiton.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Sport",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://github.com/nrfconnect/ncs-example-application",
+    "https://www.stackoverflow.com/questions/77763185/missing-shared-library-libunistring-so-2-while-setting-up-nrf-connect-sdk.",
+    "https://stackoverflow.com/questions/77763185/missing-shared-library-libunistring-so-2-while-setting-up-nrf-connect-sdk.",
+    "https://www.github.com/nrfconnect/ncs-example-application"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "sdk",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-19T08:10:39.577+02:00",
+  "updated": "2024-01-19T08:10:39.577+02:00"
+}

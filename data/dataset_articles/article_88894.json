@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "299d0e8f4580cb9878556d514944db75d7c7760f",
+    "url": "https://cryptonews.net/news/analytics/29621771",
+    "site_full": "cryptonews.net",
+    "site": "cryptonews.net",
+    "site_section": "https://cryptonews.net",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "World news about cryptocurrency and blockchain technology from different sources",
+    "title": "If we don’t make crypto invisible, it will never reach the mainstream",
+    "title_full": "If we don’t make crypto invisible, it will never reach the mainstream",
+    "published": "2024-08-15T21:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cnews24.ru/uploads/39d/39d1b553e2142df91349d7b902d988d0b9ca7df4.jpg",
+    "performance_score": 0,
+    "domain_rank": 64935,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "299d0e8f4580cb9878556d514944db75d7c7760f",
+  "url": "https://cryptonews.net/news/analytics/29621771",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-08-15T21:45:00.000+03:00",
+  "title": "If we don’t make crypto invisible, it will never reach the mainstream",
+  "text": "Crypto must become invisible or else it will fail. There, I said it. For all its promises of financial revolution and decentralized utopia, the crypto industry has spectacularly fumbled the ball when it comes to mainstream adoption. We’ve created a labyrinth of complexity that even Daedalus would struggle to navigate, effectively locking out the very people we claim to empower. The hard truth is that until we make crypto’s complexities invisible, it will never achieve the world-changing potential we’ve all been trumpeting. For more than a decade, the industry has been hard at work constructing a decentralized financial system that empowers individuals and disrupts traditional power structures. We’ve seen significant successes in some areas, with blockchain now underpinning numerous applications in digital finance, supply chain management and (more recently) digital identity. However, adoption by everyday users seeking practical, real-world use cases — by which I mean applications that extend beyond mere financial speculation — has largely stalled. It all comes down to the problem of complexity. Crypto is simply too difficult to use and understand, especially for non-technical users. The issue isn’t the technology itself. It’s us — the crypto evangelists, developers and self-proclaimed visionaries who’ve been too busy patting ourselves on the back to notice we’re speaking a language the rest of the world neither seems to understand nor care to learn. The average person doesn’t care about seed phrases, gas fees or the intricacies of blockchain consensus mechanisms. They want solutions to real-world problems, not a crash course in cryptography. Our industry’s obsession with technical jargon and convoluted processes has created a walled garden accessible only to a limited, tech-savvy elite. In short, we have become the very gatekeepers we sought to overthrow. It’s now time to stop obsessing over our own cleverness and start focusing on creating real value for real people. This is where chain abstraction enters the picture, and it’s about damn time. This is the radical idea that maybe, just maybe, we should hide all the confusing crypto bits from users and let them interact with blockchain technology without even realizing it. Novel concept, right? Chain abstraction involves simplifying the underlying layers of blockchain protocols to produce a more straightforward front-end experience for end users. Developers achieve this by using middleware and APIs that translate user actions into blockchain operations without exposing the user to the complexities of the blockchain itself. Middleware acts as a bridge between the user interface and the blockchain, handling all the intricate processes in the background. APIs provide the necessary connectivity, allowing different applications to interact seamlessly with the blockchain without requiring users to understand the underlying technology. This is a fundamental reimagining of how blockchains can and should interact with the real world. While other projects are still debating whether users should have to jump through seventeen hoops or just sixteen, those focusing on chain abstraction are bulldozing the entire obstacle course. What you end up with is a world where blockchain-based applications are as simple to navigate as Instagram or Apple Pay. No wallets to set up, no gas tokens to acquire, no fear of losing your life savings because you mistyped a string of random characters. Just seamless, user-friendly experiences that happen to be powered by blockchain technology behind the scenes. By building these abstractions directly into the protocol layer, up-and-coming blockchains are creating an ecosystem where developers can focus on building great products instead of explaining what a “gwei” is to confused users. Chain abstraction means rethinking everything from user onboarding to transaction processing, all with the goal of making the end-user experience as frictionless as possible. And the results speak for themselves. When companies such as Uber and The North Face are dipping their toes into your ecosystem, you know you’re onto something. This isn’t just a pipe dream. It’s the necessary evolution our industry must undergo if we want to break out of our self-imposed exile and actually make a difference in the world. Blockchain’s future isn’t in creating a parallel digital economy for tech enthusiasts. It’s about seamlessly integrating these innovations into the fabric of everyday life. The future of crypto isn’t in making it more visible or complex. It’s in making it disappear entirely. Once you make the technology accessible and user-friendly, people will come. Not because they’re enamored with the idea of decentralization or tokenomics, but because they’re getting value from well-designed, useful applications that just happen to be powered by blockchain. If we can achieve that, we might finally have a shot at the revolution we’ve been talking about all along.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "crypto",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "daedalus",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T00:15:19.233+03:00",
+  "updated": "2024-08-16T00:15:19.233+03:00"
+}

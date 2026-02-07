@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "927c73ea51cf23a50037078bfd972caa684216f9",
+    "url": "https://www.thestar.com.my/sport/football/2024/09/06/soccer-ter-stegen-delighted-to-be-germany-number-one-after-long-wait",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/sport/football",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "Football - Sport | The Star",
+    "title": "Football: Soccer-Ter Stegen delighted to be Germany number one after long wait | The Star",
+    "title_full": "Football: Soccer-Ter Stegen delighted to be Germany number one after long wait | The Star",
+    "published": "2024-09-05T22:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/09/06/2898400.jpg",
+    "performance_score": 0,
+    "domain_rank": 2239,
+    "domain_rank_updated": "2024-09-03T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "927c73ea51cf23a50037078bfd972caa684216f9",
+  "url": "https://www.thestar.com.my/sport/football/2024/09/06/soccer-ter-stegen-delighted-to-be-germany-number-one-after-long-wait",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2024-09-05T22:23:00.000+03:00",
+  "title": "Football: Soccer-Ter Stegen delighted to be Germany number one after long wait | The Star",
+  "text": "(Reuters) - Marc-Andre ter Stegen could not be happier to finally be Germany's first-choice goalkeeper ahead of Saturday's home Nations League match against Hungary.\nGermany coach Julian Nagelsmann said on Monday that the Barcelona captain would be his regular keeper following Manuel Neuer's retirement from internationals.\nThe 32-year-old had spent over a decade as Neuer's understudy since his international debut in 2012.\n\"It is a different feeling altogether,\" Ter Stegen told reporters on Thursday. \"My aim has always been to be No. 1.\n\"I am happy that the spell of waiting is now over. I am happy about the new task, about what is to come.\"\nTer Stegen, who has won 40 caps for his country, said he had often felt disheartened waiting for his turn.\n\"To be honest there were always these moments when you say: 'Wow, that was another blow.' The decision mostly went in Manu's (Neuer's) favour,\" he added.\n\"It was disappointing, of course, but you have to live with it. You should have this experience and accept it. In the end, it was worth it.\"\nAsked if he could see himself taking Neuer's place at Bayern Munich or moving to another German club, Ter Stegen said; \"I still have a long contract with my club and am very happy with my family in Catalonia.\"\nGermany play the Netherlands in Amsterdam on Sept. 10.\n(Reporting by Shifa Jahan in Bengaluru, editing by Ed Osmond)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Sport"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-09-06T00:44:40.205+03:00",
+  "updated": "2024-09-06T01:10:11.337+03:00"
+}

@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "77b157034a700860b237390e5742dcd506c3bab9",
+    "url": "https://community.intel.com/t5/Intel-Edge-Software-Hub/Cant-install-Robotics-SDK-on-Radxa-X4/td-p/1645073",
+    "site_full": "community.intel.com",
+    "site": "intel.com",
+    "site_section": "https://community.intel.com/t5/intel-devcloud/bd-p/devcloud",
+    "site_categories": [
+      "computer_reviews",
+      "tech"
+    ],
+    "section_title": "\n\tDeveloper Software Forums - Intel Community\n",
+    "title": "Cant' install Robotics SDK on Radxa X4 - Intel Community",
+    "title_full": "Cant' install Robotics SDK on Radxa X4 - Intel Community",
+    "published": "2024-11-22T12:17:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 339,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "77b157034a700860b237390e5742dcd506c3bab9",
+  "url": "https://community.intel.com/t5/Intel-Edge-Software-Hub/Cant-install-Robotics-SDK-on-Radxa-X4/td-p/1645073",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T12:17:00.000+02:00",
+  "title": "Cant' install Robotics SDK on Radxa X4 - Intel Community",
+  "text": "while run $ sudo apt install ros-humble-robotics-sdk\nReceive an error\nReading package lists... Done\nBuilding dependency tree... Done\nReading state information... Done\nSome packages could not be installed. This may mean that you have\nrequested an impossible situation or if you are using the unstable\ndistribution that some required packages have not yet been created\nor been moved out of Incoming.\nThe following information may help to resolve the situation:\nThe following packages have unmet dependencies:\nros-humble-cartographer-ros : Depends: libpcl-dev but it is not going to be installed\nros-humble-pcl-conversions : Depends: libpcl-dev but it is not going to be installed\nros-humble-pcl-ros : Depends: libpcl-dev but it is not going to be installed\nros-humble-pointcloud-groundfloor-segmentation : Depends: libpcl-dev but it is not going to be installed\nros-humble-rtabmap : Depends: libpcl-dev but it is not going to be installed\nros-humble-velodyne-pointcloud : Depends: libpcl-dev but it is not going to be installed\nE: Unable to correct problems, you have held broken packages.\nPlatform Radxa X4 N100, Ubuntu 22.04\nLabels (1) Labels: Labels: Edge Insights for Autonomous Mobile Robots (EI-AMR) 0 Kudos Reply All forum topics Previous topic Next topic Link Copied\n× 1 Reply maxxlife Beginner ‎11-22-2024 08:17 AM 200 Views Mark as New Bookmark Subscribe Mute Subscribe to RSS Feed Permalink Print Report Inappropriate Content Version Ubuntu 22.04 IoT Dekstop for Intel® Atom® X7000E Series (Alder Lake N). Kernel after $apt upgrade became 5.15.0-1066-intel-iotg. Lower kernel 1049 has the same error.\n0 Kudos Copy link Reply Post Reply Reply Topic Options Subscribe to RSS Feed Mark Topic as New Mark Topic as Read Float this Topic for Current User Bookmark Subscribe Printer Friendly Page All forum topics Previous topic Next topic",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T16:12:47.667+02:00",
+  "updated": "2024-12-02T01:53:11.155+02:00"
+}

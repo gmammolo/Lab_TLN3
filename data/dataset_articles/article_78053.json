@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "243bacfb8a3d53c639d2f0797bcb6783df42cde8",
+    "url": "https://hackernoon.com/when-ai-becomes-a-crutch-not-a-tool",
+    "site_full": "hackernoon.com",
+    "site": "hackernoon.com",
+    "site_section": "https://hackernoon.com/on-this-day",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "#on-This-Day-hackernoon",
+    "site_title": "HackerNoon - read, write and learn about any technology",
+    "title": "When AI Becomes a Crutch, Not a Tool",
+    "title_full": "When AI Becomes a Crutch, Not a Tool",
+    "published": "2025-08-21T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-4c02z88.jpeg",
+    "performance_score": 0,
+    "domain_rank": 1892,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "243bacfb8a3d53c639d2f0797bcb6783df42cde8",
+  "url": "https://hackernoon.com/when-ai-becomes-a-crutch-not-a-tool",
+  "ord_in_thread": 0,
+  "author": "Murtuza",
+  "published": "2025-08-21T03:00:00.000+03:00",
+  "title": "When AI Becomes a Crutch, Not a Tool",
+  "text": "The usage of AI, especially in the software industry, has increased a lot lately, but everything has a downside — and that, is, excess. Excess of anything is bad, and that includes the use of AI. With that in mind, in this post, I explore the downsides of vibe coding and how to balance it. excess Recently, Zen van Riel - a senior software engineer at GitHub, shared a linkedin post about the dark side of vibe coding. He describes a developer constantly trying to fix \"simple things\" using an AI model but, unfortunately, the AI model fails to do so every time. It's not only a waste of time, but a waste of money (credits) as well. Zen wonderfully describes this through an analogy of fast food (hence, the title of this post). Zen van Riel GitHub In my opinion, that's a brilliant analogy because it talks about balance. Let me draw some parallels between fast food and vibe coding. Vibe Coding & Fast Food 1. Instant Gratification When you send a prompt and see output in a matter of seconds, you feel good. It gives you a dopamine hit, a sense of accomplishment, but it's only a matter of time when it all fades away. When the AI model starts making mistakes and no matter which prompt you give, it still doesn't work, that's when you start feeling I could have done it myself. It starts becoming messy if you look at the bigger picture. 2. Opinionated Ingredients If you don't know what you are building, AI model can use whatever it thinks is good to build your application and sometimes it's not the best for your application and use case. And, it can be very hard to refactor later. For you to be able to give enough context of what you are building and why, you need to be aware of the available tools and techniques needed to make that happen. 3. Lacks Nutritional Value Once you get the taste of it, you stop asking the \"why\"/\"how\" question. Questioning what the AI model does almost feels like a second thought. And you know what it does? It drains your ability to learn and grasp new things. That's the reason I never recommend beginners to rely solely on AI tools for coding/programming. Always questions things and ask the model why it did what it did. 4. Looks Good on the Outside AI tools might get you the exact thing you want, but if you look closely at the code, (if you have decent knowledge about programming) you start seeing inconsistencies and tech debt. 5. Forms Bad Habit in the Long Term If you only vibe code, you never get to focus on the grilling part of programming, which is to sit patiently and think about the problem at hand. You never really learn how to dissect a problem and solve it incrementally. Some of the best solutions to software engineering problems I had occurred to me when I was asleep, walking or just wandering around with an open mind. Sometimes, all it takes is to take a step back and relax. Correct Usage of AI tools for Coding Don't solely rely on AI of you are a beginner. Read in-depth articles, watch YouTube videos explaining how stuff really works and practice, build something. Building something on your own is key and it will get you out of tutorial hell. Familiarize yourself with what you are building and why. It's easy to get lost in whatever the AI model generates, so it's necessary to have decent knowledge about technologies you want to use to build your project. Use AI model in an incremental way. Prompt the AI model to do small changes instead of giving it a complex task. Break down the problem yourself, or even better, prompt the AI model to generate a plan first, study the plan, and then tell it to implement. It will help you learn and break down the problem. Ask the AI model why it did what it did. AI models are great at explaining things, so use it to your own advantage. Don't solely rely on AI of you are a beginner. Read in-depth articles, watch YouTube videos explaining how stuff really works and practice, build something. Building something on your own is key and it will get you out of tutorial hell. Don't solely rely on AI of you are a beginner Don't solely rely on AI of you are a beginner Familiarize yourself with what you are building and why. It's easy to get lost in whatever the AI model generates, so it's necessary to have decent knowledge about technologies you want to use to build your project. Familiarize yourself with what you are building and why. Familiarize yourself with what you are building and why. Use AI model in an incremental way. Prompt the AI model to do small changes instead of giving it a complex task. Break down the problem yourself, or even better, prompt the AI model to generate a plan first, study the plan, and then tell it to implement. It will help you learn and break down the problem. Use AI model in an incremental way. Use AI model in an incremental way. Ask the AI model why it did what it did. AI models are great at explaining things, so use it to your own advantage. Ask the AI model why it did what it did. Ask the AI model why it did what it did.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->psychology",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social networking",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Vibe Coding & Fast Food",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:15:49.570+03:00",
+  "updated": "2025-08-21T11:17:07.000+03:00"
+}

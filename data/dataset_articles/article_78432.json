@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "08efe43882076857d4e2cbd9c4c51ca072c5cad6",
+    "url": "https://www.kgw.com/article/news/crime/oregon-man-charged-cyberattacks-reportedly-targeting-x-formerly-twitter-government-networks/283-36cc5765-9cce-4fc4-b443-1cf42836fcfd",
+    "site_full": "www.kgw.com",
+    "site": "kgw.com",
+    "site_section": "https://kgw.com/olympics",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Olympics News | kgw.com",
+    "site_title": "Portland&#x27;s Leading Local News: Weather, Traffic, Sports and more in Portland, Oregon | kgw.com",
+    "title": "Oregon man charged in botnet that reportedly targeted X, previously Twitter | kgw.com",
+    "title_full": "Oregon man charged in botnet that reportedly targeted X, previously Twitter | kgw.com",
+    "published": "2025-08-20T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.kgw.com/assets/KGW/images/cc739138-eb42-4f30-a70d-f3f4132709ed/20250820T234249/cc739138-eb42-4f30-a70d-f3f4132709ed_1140x641.jpg",
+    "performance_score": 0,
+    "domain_rank": 5845,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "08efe43882076857d4e2cbd9c4c51ca072c5cad6",
+  "url": "https://www.kgw.com/article/news/crime/oregon-man-charged-cyberattacks-reportedly-targeting-x-formerly-twitter-government-networks/283-36cc5765-9cce-4fc4-b443-1cf42836fcfd",
+  "ord_in_thread": 0,
+  "author": "Sabinna Pierre",
+  "published": "2025-08-20T03:00:00.000+03:00",
+  "title": "Oregon man charged in botnet that reportedly targeted X, previously Twitter | kgw.com",
+  "text": "OREGON, USA — An Oregon man has been charged with developing and administrating a massive botnet that conducted large-scale cyberattacks against victims in more than 80 countries since 2021, including reportedly targeting X, formerly known as Twitter, though the office didn't confirm that it was X, according to the Department of Justice U.S. Attorney's Office, District of Alaska.\nEthan Foltz, 22, of Eugene, was charged by federal criminal complaint in the District of Alaska on charges related to his alleged administration of the \"Rapper Bot\" distributed denial-of-service botnet, the U.S. Attorney's Office said.\nThe release notes that Foltz, a Eugene resident, was charged by federal criminal complaint in the District of Alaska rather than the U.S. Attorney's Office for the District of Oregon. KGW reached out to the office for clarification on why the case is being prosecuted in Alaska and what factors determined venue in this matter.\nRapper Bot, also known as \"Eleven Eleven Botnet\" and \"CowBot,\" compromises devices like digital video recorders and WiFi routers by infecting them with specialized malware, according to the U.S. Attorney's Office. Clients then command those infected devices to send large volumes of traffic to victim computers and servers worldwide.\nFoltz and his co-conspirators allegedly monetized Rapper Bot by providing paying customers access to one of the most sophisticated DDoS-for-hire botnets currently in existence, the U.S. Attorney's Office said. The botnet targeted victims in more than 80 countries, including a U.S. government network, a popular social media platform and many U.S. tech companies.\nFrom April 2025 to present, Rapper Bot allegedly conducted more than 370,000 attacks targeting 18,000 unique victims, according to the U.S. Attorney's Office.\nCourt documents obtained by KGW state that at least one large U.S. social media company had pronounced service outages in March 2025 that have been publicly associated with Rapper Bot. Although court documents don't explicitly state X, formerly known as Twitter, owned by Elon Musk, reports of outages back in March 2025 that impacted the platform are consistent with the referred service outages mentioned in court documents.\nThe botnet allegedly used roughly 65,000 to 95,000 infected victim devices to conduct DDoS attacks that commonly measured between 2-3 terabits per second, the U.S. Attorney's Office said. Rapper Bot's largest attack may have exceeded 6 terabits per second. At least five infected victim devices were in Alaska and were forced to participate in attacks.\nThe U.S. Attorney's Office said a DDoS attack averaging over 2 terabits per second lasting 30 seconds might cost a victim anywhere from $500 to $10,000. Some Rapper Bot customers allegedly used extortion demands, leveraging the botnet's attack volumes to extort victims.\nOn Aug. 6, 2025, law enforcement officials executed a search warrant on Foltz's residence in Oregon, according to the U.S. Attorney's Office. Law enforcement personnel terminated Rapper Bot's attack capabilities and obtained administrative control of the botnet. Private sector partners have not reported any Rapper Bot attacks since the transfer of botnet control to the Defense Criminal Investigative Service, the U.S. Attorney's Office said.\nFoltz is charged with one count of aiding and abetting computer intrusions, according to the U.S. Attorney's Office. If convicted, he faces a maximum penalty of 10 years in prison.\nThe case is being prosecuted by Assistant U.S. Attorney Adam Alexander. The Defense Criminal Investigative Service is investigating the case, the U.S. Attorney's Office said.\nA criminal complaint is merely an allegation, and all defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law, according to the U.S. Attorney's Office.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.justice.gov/usao-ak/pr/oregon-man-charged-administering-rapper-bot-ddos-hire-botnet",
+    "https://justice.gov/usao-ak/pr/oregon-man-charged-administering-rapper-bot-ddos-hire-botnet"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ethan Foltz",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "District of",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Department of Justice U.S. Attorney's Office",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Portland"
+      ],
+      "state": [
+        "Oregon"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T08:15:31.721+03:00",
+  "updated": "2025-08-21T08:19:36.000+03:00"
+}

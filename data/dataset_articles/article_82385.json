@@ -1,0 +1,66 @@
+{
+  "thread": {
+    "uuid": "28dfe118e4c871fab1fe922451c0e8fbeb234649",
+    "url": "https://www.mhh.de/en/presse/mhh-insight/news-detailed-view/increasing-lifespan-and-quality-of-life-for-patients-with-leukaemia",
+    "site_full": "www.mhh.de",
+    "site": "mhh.de",
+    "site_section": "https://www.mhh.de/en/presse/mhh-insight",
+    "site_categories": [],
+    "section_title": "Medizinische Hochschule Hannover : MHH Insight",
+    "title": "Medizinische Hochschule Hannover : Increasing lifespan and quality of life for patients with leukaemia",
+    "title_full": "Medizinische Hochschule Hannover : Increasing lifespan and quality of life for patients with leukaemia",
+    "published": "2024-10-17T02:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 67668,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "28dfe118e4c871fab1fe922451c0e8fbeb234649",
+  "url": "https://www.mhh.de/en/presse/mhh-insight/news-detailed-view/increasing-lifespan-and-quality-of-life-for-patients-with-leukaemia",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-10-17T02:00:00.000+03:00",
+  "title": "Medizinische Hochschule Hannover : Increasing lifespan and quality of life for patients with leukaemia",
+  "text": "MHH cooperation project PRETTY develops prediction model for individual risk of side effects after stem cell transplantation In certain types of cancer, such as leukaemia, high-dose chemotherapy is usually used, which completely or largely destroys the haematopoietic stem cells in the bone marrow. The transfer of healthy donor stem cells then represents the only chance of survival for those affected. However, such an allogeneic haematopoietic stem cell transplant also has side effects and can cause severe kidney damage, for example. However, it is not possible to predict the actual risk for individual patients. The PRETTY (Personalised Prediction of Transplant Toxicity) project aims to remedy this situation. Under the leadership of Professor Dr Steffen Oeltze-Jafra, computer scientist at the [Peter L. Reichertz Institute](/en/mhh-institutes/plri-institute-for-medical-informatics) for Medical Informatics (PLRI) at Hannover Medical School (MHH), researchers want to develop a prediction model that can be used to individually determine the risk of serious kidney damage following stem cell therapy. The aim is to reduce the risk factors and thereby increase the lifespan and quality of life of those affected. The Federal Ministry of Education and Research is supporting the project over an initial two-year period with a total of 1.4 million euros. Digital tool for all sites ‘We are concentrating on three specific forms of leukaemia,’ says Professor Oeltze-Jafra, Head of Information Systems and Management at the PLRI in Hanover.These include acute myeloid leukaemia (AML), acute lymphoblastic leukaemia (ALL) and myelodysplastic syndrome (MDS). Because as much patient data as possible needs to be used for a prediction model, but for data protection reasons this data cannot be collated centrally from several clinics, the researchers are taking a different approach.They are using a visual tool developed in preliminary work that uses machine learning to process complex data from one location into a prediction model. The digital tool will initially be expanded for decentralised learning from data from several locations and made available to the university hospitals participating in PRETTY in Halle (Saale), Göttingen, Leipzig and Jena.Each cooperation partner integrates the tool into its IT infrastructure, enters its own data and trains a site-specific prediction model. The data visualisation expert emphasises that no special IT knowledge is required for this. In the next step, the four local models will then be combined into a joint prediction model. Machine learning also takes people into account Federated learning is the name of this machine learning method, which can be used to evaluate a comprehensive and diverse database in a decentralised manner without the data itself leaving its location. Professor Oeltze-Jafra emphasises that the federated approach is also hybrid because it does not rely solely on data. ‘We also take into account the human component, i.e. the medical expertise at the respective location as well as the local perspective of the patients, i.e. their experience with the therapy and its effects. ’Thanks to the combination of data and human factors, the prediction model should then be able to identify individual risk factors for serious side effects for future leukaemia patients even before stem cell transplantation, thereby improving their quality of life and chances of survival. The advantage for the healthcare system: hospital stays are reduced and the resulting costs are lower. Application to other types of cancer possible in the long term If the prediction model works, other locations could join the PRETTY project. ‘The more the better,’ says Professor Oeltze-Jafra, as the whole thing is ultimately an ongoing development because the tool can continue to learn with more and more data. In the long term, it could also be used for personalised prognoses for other types of cancer. ‘While the model learnt is disease-specific, large parts of the approach in the project are not tailored to a specific disease.’ The PRETTY project is being carried out in cooperation with the PLRI at the Technical University of Braunschweig, the University Medical Centre Göttingen, the University Medical Centre Halle (Saale), the University Medical Centre Jena, the University Medical Centre Leipzig and the Dutch University of Twente. Text: Kirsten Pötzke",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T02:09:00.422+03:00",
+  "updated": "2024-10-18T02:09:00.422+03:00"
+}

@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "c3046be24b47050209905c88357e29b314400f07",
+    "url": "https://digitalinside.sapo.pt/ransomware-em-ascensao-e-a-resposta-e-a-malha-hibrida/",
+    "site_full": "digitalinside.sapo.pt",
+    "site": "sapo.pt",
+    "site_section": "https://homepagept.web.sapo.io/noticias/ultimas",
+    "site_categories": [
+      "top_news_br",
+      "top_news_ch",
+      "top_news_pt",
+      "top_news"
+    ],
+    "section_title": "Not&iacute;cias - SAPO.pt - &Uacute;ltima hora e not&iacute;cias de hoje atualizadas ao minuto",
+    "site_title": null,
+    "title": "Ransomware em ascensão, e a resposta é a malha híbrida - Digital Inside",
+    "title_full": "Ransomware em ascensão, e a resposta é a malha híbrida - Digital Inside",
+    "published": "2025-08-14T11:57:35.153+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PT",
+    "main_image": "https://digitalinside.sapo.pt/wp-content/uploads/2025/08/cybersecurity-concept-illustration-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 1991,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [
+      "NLA"
+    ],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c3046be24b47050209905c88357e29b314400f07",
+  "url": "https://digitalinside.sapo.pt/ransomware-em-ascensao-e-a-resposta-e-a-malha-hibrida/",
+  "ord_in_thread": 0,
+  "author": "Digital Inside",
+  "published": "2025-08-14T11:57:35.153+03:00",
+  "title": "Ransomware em ascensão, e a resposta é a malha híbrida - Digital Inside",
+  "text": "A última análise da Check Point Research estima o crescimento do ransomware em 33% a nível mundial durante 2024 . Com uma média semanal que ultrapassa os 1.200 ataques por empresa , o número mais elevado dos últimos três anos.\nEste aumento ocorre em paralelo com uma mudança operacional por parte dos atacantes: o relatório State of Cyber Security 2025 regista tempos de permanência nas redes que ultrapassam os nove dias , um intervalo em que os intrusos desativam cópias de segurança, elevam privilégios e se deslocam lateralmente em busca de sistemas críticos para aumentar a pressão extorsiva.\nA complexidade dos ambientes corporativos também condiciona o risco; com cargas distribuídas entre centros de dados, nuvens públicas, fornecedores externos e utilizadores remotos, a superfície de ataque foi ampliada . O IBM Cost of a Data Breach Report 2024 indica que 40% das violações afetaram dados distribuídos em vários ambientes , acima dos incidentes que se concentraram exclusivamente na nuvem pública (25%), no local (20%) ou em nuvens privadas (15%).\nNeste contexto, o ransomware segue uma sequência estruturada desde o acesso inicial até a extorsão, onde o movimento lateral continua sendo o ponto de maior exposição. Sem controlos coordenados em redes híbridas, o adversário pode se mover sem ser detetado.\nProposta da Check Point: a arquitetura hybrid mesh Para responder a este cenário, a Check Point Software propõe uma arquitetura hybrid mesh orientada para interromper a cadeia de ataque e reduzir o impacto operacional . Esta abordagem integra visibilidade este-oeste em tempo real, segmentação dinâmica com deteção de anomalias e coordenação entre ferramentas de rede, nuvem, endpoint e SaaS. Com o objetivo de limitar os movimentos laterais e cortar a progressão do ataque antes de atingir ativos sensíveis.\nMario García, diretor geral da Check Point Software para Portugal e Espanha , explica: “ A superfície de ataque tornou-se tão extensa quanto fragmentada. As organizações precisam ir além da deteção pontual e adotar uma postura de segurança contínua, capaz de ver, prevenir e responder em tempo real. A arquitetura híbrida em malha que propomos unifica a segurança em todos os ambientes e permite interromper o ataque antes que ele atinja os sistemas críticos”.\nA arquitetura híbrida proposta pela empresa busca unificar os controlos e eliminar pontos cegos , de modo que a prevenção e a reação sejam executadas com maior coerência e em tempo operacional.\nA direção da empresa em Portugal e Espanha resume a necessidade de ir além das deteções pontuais e adotar uma postura contínua capaz de ver, prevenir e responder em tempo real, com o objetivo de interromper o ataque antes que ele atinja sistemas críticos .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_br",
+      "top_news_ch",
+      "top_news_pt",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:57:35.153+03:00",
+  "updated": "2025-08-14T14:23:21.330+03:00"
+}

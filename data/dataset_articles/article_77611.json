@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "19cab4fa1df16414919addf8a42dd6497977b0ae",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-08-14/doc-infkxyiv6879572.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://tech.sina.com.cn/",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪科技_新浪网",
+    "site_title": null,
+    "title": "经典谢幕！又一Linux发行版宣告终止|linux_新浪科技_新浪网",
+    "title_full": "经典谢幕！又一Linux发行版宣告终止|linux_新浪科技_新浪网",
+    "published": "2025-08-14T12:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "19cab4fa1df16414919addf8a42dd6497977b0ae",
+  "url": "https://finance.sina.com.cn/tech/roll/2025-08-14/doc-infkxyiv6879572.shtml",
+  "ord_in_thread": 0,
+  "author": "快科技",
+  "published": "2025-08-14T12:04:00.000+03:00",
+  "title": "经典谢幕！又一Linux发行版宣告终止|linux_新浪科技_新浪网",
+  "text": "快科技8月14日消息，前不久英特尔将停止其面向云计算、分布式计算等更专业活动，并高度优化英特尔硬件的Linux发行版Clear Linux。\n如今，另一个Linux发行版Kaisen Linux也即将终止，开发者Kevin Chevreuil宣布，这个专为IT专业人士设计的Linux发行版即将停止维护。\n在Rolling 3.0版本的发布中，Chevreuil提到，由于新的个人和职业项目占据了大量时间，他无法继续开发Kaisen Linux，这个版本将成为项目的绝唱。\nKaisen Linux 是一个面向 IT 专业人士的发行版，特点是提供一套专门的系统管理工具，涵盖了诊断、处理系统和组件的故障等等所有需求，以及众多其他的功能。\n它支持多种桌面环境，包括KDE Plasma、LXQt、MATE和Xfce，并且有一个独特的“toram”模式，可以将整个操作系统加载到内存中，从而方便用户在无硬盘环境中使用。\n在Rolling 3.0中，Kaisen Linux基于最新发布的Debian Trixie（Debian 13），Chevreuil对软件包列表进行了精简，移除了包括neofetch、dmraid、hping3和reiser4progs等在内的多个工具。\n此外，该版本将KDE Plasma 6设为默认桌面环境，并用SDDM替换了LightDM显示管理器，其他更新包括：\napt upgrade命令现在重定向到apt full-upgrade，以防止系统损坏。\n新增kaisen-timeshift-fast-restore命令，允许用户通过一条命令恢复BTRFS快照。\nZFS管理工具和内核模块现在得到完全支持。\n中央化的手册页面现在包含超过1705页，修复了链接并新增了分类。\n安装程序的自动分区现在只提供/和/home的分离，以保护快照功能。\nGPG密钥已更新，有效期至2029年。\n不过与不再获得安全更新的Clear Linux不同， Kaisen Linux将继续提供长达两年的安全更新支持，Chevreuil表示，这将为用户提供足够的时间来迁移到新的系统。\n【本文结束】如需转载请务必注明出处：快科技\n责任编辑：黑白",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T12:07:51.149+03:00",
+  "updated": "2025-08-14T12:14:06.000+03:00"
+}

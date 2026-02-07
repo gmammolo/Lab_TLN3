@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "7d9a3048e2adf437813b92d983300e064e578d4e",
+    "url": "https://news.ttv.com.tw/news/11406120001500W",
+    "site_full": "news.ttv.com.tw",
+    "site": "ttv.com.tw",
+    "site_section": "https://news.ttv.com.tw",
+    "site_categories": [],
+    "section_title": "\r\n\t台視新聞網\r\n",
+    "site_title": "台視全球資訊網",
+    "title": "鉛中毒檢驗只需一滴血、10分鐘！台灣團隊研發奈米晶片檢測技術",
+    "title_full": "鉛中毒檢驗只需一滴血、10分鐘！台灣團隊研發奈米晶片檢測技術",
+    "published": "2025-06-12T10:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cdn.ttv.com.tw/manasystem/FileData/News/4c01bb91-829d-4b61-ad23-77a0a19bbf6e.jpg",
+    "performance_score": 0,
+    "domain_rank": 55417,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7d9a3048e2adf437813b92d983300e064e578d4e",
+  "url": "https://news.ttv.com.tw/news/11406120001500W",
+  "ord_in_thread": 0,
+  "author": "TTV",
+  "published": "2025-06-12T10:00:00.000+03:00",
+  "title": "鉛中毒檢驗只需一滴血、10分鐘！台灣團隊研發奈米晶片檢測技術",
+  "text": "2025.06.12 15:00 鉛中毒檢驗迎來重大突破！林口長庚紀念醫院攜手台北科技大學與長庚大學，成功研發出全球首創「橋狀薄膜型奈米力學晶片」，只需一滴血、10分鐘內即可檢測出血液中的鉛濃度，為臨床鉛中毒診斷帶來革命性進展。研究成果已於2024年12月發表於國際期刊《Analytica Chimica Acta》。\n林口長庚臨床毒物中心主任顏宗海表示，雖然台灣早在2000年已禁用含鉛汽油，但臨床仍可見鉛中毒案例，常見來源包括來源不明的草藥、鉛水管、老舊油漆或含鉛瓷器與玩具等。鉛中毒影響多重器官系統，如造血、神經、腎臟與心血管，卻因症狀不明顯、診斷困難，往往延誤治療。\n傳統血鉛檢測仰賴高端設備如原子吸收光譜儀，雖然準確但操作繁瑣、成本高昂，不利現場即時診斷。新技術則利用CMOS與MEMS製程，結合氧化鋅奈米棒與導電高分子PEDOT:PSS，大幅提升鉛離子的吸附靈敏度達7倍，檢測極限低至0.012 μg/dL。\n台北科技大學顏毅廣副教授說明，當血液中的鉛離子與晶片感測層接觸，會引發結構形變並透過壓阻器轉化為電訊號，即可準確算出鉛濃度。裝置已完成臨床比對，與林口長庚原子吸收檢驗結果高度吻合。\n顏宗海強調，該晶片具備快速、低成本、攜帶方便與高靈敏度等臨床優勢，適用一次性使用。未來可望成為居家或偏鄉地區即時血鉛檢測的重要工具，有助及早發現與治療鉛中毒病患，大幅提升診療效率與病人安全。\n(記者李政純，圖片來源：Dreamstime/典匠影像）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Education"
+  ],
+  "topics": [
+    "Health->poisoning",
+    "Health->medical test",
+    "Health->health treatment and procedure",
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->medical research",
+    "Education->vocational education",
+    "Education->college and university",
+    "Education->educational testing and examinations"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://dable.io",
+    "http://www.dable.io"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-12T11:10:16.463+03:00",
+  "updated": "2025-06-12T08:29:41.000+00:00"
+}

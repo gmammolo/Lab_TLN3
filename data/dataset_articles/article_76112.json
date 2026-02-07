@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "f3c188ec304faf1a5dd6c3aacd35b11d3f4883f7",
+    "url": "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-did-openai-scrape-its-way-into-copyright-infringement",
+    "site_full": "news.bloomberglaw.com",
+    "site": "bloomberglaw.com",
+    "site_section": "https://news.bloomberglaw.com/bloomberg-law-analysis",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Bloomberg Law Analysis",
+    "title": "ANALYSIS: Did OpenAI Scrape Its Way Into Copyright Infringement?",
+    "title_full": "ANALYSIS: Did OpenAI Scrape Its Way Into Copyright Infringement?",
+    "published": "2025-01-09T22:48:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://db0ip7zd23b50.cloudfront.net/dims4/default/882c3cc/2147483647/crop/1021x394+2+89/resize/960x370%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F1b%2Fc0%2Ff99f88954149a48bfacd8b68bd43%2Fgettyimages-1027689422.jpg",
+    "performance_score": 0,
+    "domain_rank": 2174,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f3c188ec304faf1a5dd6c3aacd35b11d3f4883f7",
+  "url": "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-did-openai-scrape-its-way-into-copyright-infringement",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Emily Preston",
+  "published": "2025-01-09T22:48:00.000+02:00",
+  "title": "ANALYSIS: Did OpenAI Scrape Its Way Into Copyright Infringement?",
+  "text": "In November, the Toronto Star newspaper and five other leading Canadian media companies and news outlets sued OpenAI in an Ontario court, arguing that the artificial intelligence company trained its ChatGPT models using data that was copyright protected under Canada’s Copyright Act.\nAlthough the lawsuit is predicated on Canadian law, it joins a growing number of media company lawsuits targeting OpenAI over its practice of [scraping](https://www.bloomberglaw.com/product/blaw/document/X10SUETC000000?utm_source=ANT&utm_medium=ANP)—the process of using software to collect large swaths of public data from the internet.\nIt started with the New York Times, which [filed suit](https://www.bloomberglaw.com/public/document/TheNewYorkTimesCompanyvMICROSOFTCORPORATIONetalDocketNo123cv11195?doc_id=X1Q6OLFCFC82&utm_source=ANT&utm_medium=ANP) in the Southern District of New York in December ...\nLearn more about Bloomberg Law or Log In to keep reading:\nLearn About Bloomberg Law\nAI-powered legal analytics, workflow tools and premium legal & business news.\nAlready a subscriber?\nLog in to keep reading or access research tools.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Politics->censorship and freedom of speech",
+    "Politics->political development",
+    "Politics->fundamental rights",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Social Issue->ethics",
+    "Science and Technology->study of law",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Toronto Star",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "New York Times",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T07:04:57.566+02:00",
+  "updated": "2025-01-10T07:04:57.566+02:00"
+}

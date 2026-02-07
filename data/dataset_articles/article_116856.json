@@ -1,0 +1,143 @@
+{
+  "thread": {
+    "uuid": "85691c9fb9887bc8493bfd78e81bfeb3a66d08ee",
+    "url": "https://www.mainpost.de/franken/wuerzburg-wetterdienst-warnt-vor-schweren-gewittern-und-starkregen-in-unterfranken-110662164",
+    "site_full": "www.mainpost.de",
+    "site": "mainpost.de",
+    "site_section": "https://www.mainpost.de/franken",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Aktuelle Nachrichten aus Franken - Main-Post",
+    "site_title": "Aktuelle Nachrichten aus Würzburg, Schweinfurt, Franken, Bayern und der Welt - Main-Post",
+    "title": "Würzburg: Wetterdienst warnt vor schweren Gewittern und Starkregen In Unterfranken",
+    "title_full": "Würzburg: Wetterdienst warnt vor schweren Gewittern und Starkregen In Unterfranken",
+    "published": "2025-08-28T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.mgpd.de/img/110440544/crop/c16_9-w1200/750160597/1640866995/foto-main-post-9675916.jpg",
+    "performance_score": 0,
+    "domain_rank": 20030,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "85691c9fb9887bc8493bfd78e81bfeb3a66d08ee",
+  "url": "https://www.mainpost.de/franken/wuerzburg-wetterdienst-warnt-vor-schweren-gewittern-und-starkregen-in-unterfranken-110662164",
+  "ord_in_thread": 0,
+  "author": "Susanne Schmitt",
+  "published": "2025-08-28T03:00:00.000+03:00",
+  "title": "Würzburg: Wetterdienst warnt vor schweren Gewittern und Starkregen In Unterfranken",
+  "text": "Der Deutsche Wetterdienst (DWD) warnt am Donnerstagmorgen vor schweren Gewittern und teils Starkregen in Unterfranken. Für die Landkreise Bad Kissingen, Rhön-Grabfeld, Haßberge, Kitzingen sowie Stadt und Landkreis Schweinfurt gilt um acht Uhr eine amtliche Warnung der Stufe 2.\nWürzburg",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather warning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Rhön-Grabfeld",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bad Kissingen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Unterfranken",
+        "sentiment": "none"
+      },
+      {
+        "name": "Schweinfurt",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kitzingen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Würzburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Haßberge",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "DWD",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Deutsche Wetterdienst",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T09:06:54.681+03:00",
+  "updated": "2025-08-29T10:07:32.000+03:00"
+}

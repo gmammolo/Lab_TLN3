@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "3eaf24a595c73c47d64b06aff90822000943a1b3",
+    "url": "https://techbullion.com/cloud-detection-and-response-a-cybersecurity-imperative-for-small-businesses",
+    "site_full": "techbullion.com",
+    "site": "techbullion.com",
+    "site_section": "https://techbullion.com/feed/rss/",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "TechBullion",
+    "title": "Cloud Detection and Response: A Cybersecurity Imperative for Small Businesses",
+    "title_full": "Cloud Detection and Response: A Cybersecurity Imperative for Small Businesses",
+    "published": "2024-08-16T00:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://techbullion.com/wp-content/uploads/2024/08/Depositphotos_184715066_S-1000x600.jpg",
+    "performance_score": 0,
+    "domain_rank": 7333,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3eaf24a595c73c47d64b06aff90822000943a1b3",
+  "url": "https://techbullion.com/cloud-detection-and-response-a-cybersecurity-imperative-for-small-businesses",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Adriaan Brits",
+  "published": "2024-08-16T00:35:00.000+03:00",
+  "title": "Cloud Detection and Response: A Cybersecurity Imperative for Small Businesses",
+  "text": "Most Small Businesses Not Protected Against Today’s Biggest Cyber Threat, Warns Cybersecurity Software CEO.\nAs today’s small businesses continue their digital transformation, more and more are falling victim to\ncybersecurity threats that can have devastating consequences. Despite a common misconception that hackers only go after large companies, the fact is that small-to-midsized businesses (SMBs) make increasingly attractive targets with recent studies revealing that 61% of SMBs suffered a successful cyberattack in 2023.\nCybersecurity software CEO, Jim Lippie of\nSaaS Alerts has been making it his mission to educate small to midsized businesses and the Managed IT Service Providers (MSPs) – who those businesses rely on for their IT and cybersecurity needs – about what he sees as the single greatest security risk and the need for SMBs to leverage cloud detection and response (CDR) capabilities as part of their overall cyber defense arsenal.\nMost small businesses now use cloud-native applications for their daily operations with recent reports suggesting that\n85% of all business apps will be SaaS-based by 2025. The result? Cybercriminals have now evolved beyond the targeting of devices and are directly targeting cloud-based applications and the users of those applications. Lippie says, “While endpoint detection and response (EDR), multi-factor authentication (MFA) and Microsoft’s conditional access policies are important layers in a strong security posture, they do not go far enough to protect the small businesses of today. Cloud detection and response is now essential for every business’s defense”.\nLippie’s firm, SaaS Alerts provides SaaS monitoring and alerting with automated remediation capabilities that allow MSPs better to protect their SMB clients from such cloud-based threats. He warns businesses, “The need for robust CDR capabilities has now emerged as a critical imperative for small businesses – and those small businesses should be asking their Managed Service Provider partners to offer this necessary protection”.\nThe Imperative of Cloud Detection and Response\nAs an example of the current cyberattack methods being deployed against small businesses which EDR and other traditional security measures are not catching, Lippie points to Token hijacking. Token hijacking occurs when an unauthorized user accesses an account by stealing the session token. “I believe that this type of attack is currently the single greatest threat to a small business. We see approximately 2,500 of these attacks per day against the 30,000 businesses currently being monitored by our cybersecurity solution”.\nA token is a secure, unique identifier used to authenticate a user’s identity and maintain session integrity during interactions with a system or application. By stealing this token, the attacker can bypass both conditional access and MFA to gain direct access to the account. With a cloud detection and response solution enabled, a business (and/or their MSP partner) is able to proactively detect and respond to any unusual activity that suggests a potential token hijacking attack.\nThe Role of Managed Service Providers\nManaged service providers (MSPs) and Managed security service providers (MSSPs) play a crucial role in supporting small businesses in their journey towards robust cloud security. By offering CDR as part of their managed services portfolio, MSPs can provide small enterprises with access to advanced security capabilities without the need for significant in-house expertise or upfront investments.\nMSPs can leverage their specialized knowledge and experience to implement and manage CDR solutions tailored to the unique needs of small businesses. This approach ensures that small enterprises benefit from cutting-edge security technologies while freeing up valuable resources to focus on their core operations.\nIn the rapidly evolving cybersecurity landscape, small businesses can no longer rely on the protections that they’ve relied on in the past. The escalating threat of sophisticated cloud-based attacks demands a proactive and comprehensive approach to security, with cloud detection and response at its core.\nBy embracing CDR, small businesses can fortify their defenses, mitigate risks, and foster a secure environment for growth and innovation. However, the journey towards robust cloud security requires a multifaceted approach, involving partnerships with managed service providers, fostering a security-conscious culture, and continuously adapting to emerging threats.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Business and Market Analysis"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.saasalerts.com",
+    "https://www.blackfog.com/smbs-were-victims-cyberattack/",
+    "https://track.g2.com/resources/software-spend-statistics",
+    "https://www.blackfog.com/smbs-were-victims-cyberattack",
+    "http://saasalerts.com",
+    "https://www.track.g2.com/resources/software-spend-statistics",
+    "https://blackfog.com/smbs-were-victims-cyberattack/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jim lippie",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T00:37:23.541+03:00",
+  "updated": "2024-08-16T00:37:23.541+03:00"
+}

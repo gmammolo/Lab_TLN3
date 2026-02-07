@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "98b84631dab678a4317038fac3ec157e93c2b007",
+    "url": "https://lafd.org/alert/contained-spurfire-brush-fire-07092025-inc0902",
+    "site_full": "lafd.org",
+    "site": "lafd.org",
+    "site_section": "https://lafd.org/alerts",
+    "site_categories": [],
+    "section_title": "Alerts | Los Angeles Fire Department",
+    "site_title": "Los Angeles Fire Department",
+    "title": "CONTAINED - #SpurFire Brush Fire 07/09/2025 INC#0902 | Los Angeles Fire Department",
+    "title_full": "CONTAINED - #SpurFire Brush Fire 07/09/2025 INC#0902 | Los Angeles Fire Department",
+    "published": "2025-07-09T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 34593,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "98b84631dab678a4317038fac3ec157e93c2b007",
+  "url": "https://lafd.org/alert/contained-spurfire-brush-fire-07092025-inc0902",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-07-09T03:00:00.000+03:00",
+  "title": "CONTAINED - #SpurFire Brush Fire 07/09/2025 INC#0902 | Los Angeles Fire Department",
+  "text": "CONTAINED - #SpurFire Brush Fire; INC#0902; 03:00PM; 1600 N San Ysidro Dr; https://bit.ly/3U0Z2Vw; #BeverlyCrest; Thanks to a quick and well-coordinated joint response by ground and air resources from LAFD and BHFD, the Spur Fire perimeter has been fully contained at less than one acre. No injury. No structures involved. No evacuation. An LAFD UAS (drone) unit will provide aerial reconnaissance and command support with thermal imagery, as ground crews continue to mop up hot spots this afternoon. ROAD CLOSURE: San Ysidro Road will remain closed to through traffic in both directions between Summitridge Drive and Tower Road until LAFD operations are complete. Though landscapers were reportedly working in the neighborhood when the fire erupted, the fire's cause remains categorized as \"under investigation\", with the specific cause and origin of the fire yet to be determined.; FS 71; Batt 9; West Bureau; Council District 5; AC704 AO1 AO2 BC5 BC9 CW3B CW4B E108 E109 E237 E278 E290 E37 E71 E99 EA2 EM14 ER1 H1 H2 H4 HA1 HA2 HA4 RA71 RA99 SU4 T27 T78 T90 UA4 + Beverly Hills FD in Automatic Aid.; CH7; 12; Brian Humphrey",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Disaster and Accident",
+    "Environment"
+  ],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Disaster and Accident->emergency response",
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Batt",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Ysidro Road",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Los Angeles Fire Department",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "LAFD",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-10T10:27:35.313+03:00",
+  "updated": "2025-07-10T07:35:49.000+00:00"
+}

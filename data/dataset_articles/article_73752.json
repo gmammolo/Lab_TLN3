@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "668c12eddeb1eb563c58853628ff401e0a0e73bb",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-again",
+    "site_full": "www.bleepingcomputer.com",
+    "site": "bleepingcomputer.com",
+    "site_section": "https://bleepingcomputer.com/",
+    "site_categories": [
+      "windows",
+      "hacking",
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "BleepingComputer | Cybersecurity, Technology News and Support",
+    "title": "Microsoft just killed the Windows 10 Beta Channel again",
+    "title_full": "Microsoft just killed the Windows 10 Beta Channel again",
+    "published": "2024-11-15T01:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.bleepstatic.com/content/hl-images/2024/05/02/Windows.jpg",
+    "performance_score": 0,
+    "domain_rank": 1406,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "668c12eddeb1eb563c58853628ff401e0a0e73bb",
+  "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-again",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sergiu Gatlan",
+  "published": "2024-11-15T01:39:00.000+02:00",
+  "title": "Microsoft just killed the Windows 10 Beta Channel again",
+  "text": "​Microsoft has shut down the Windows 10 Beta Channel and will move all enrolled Windows Insiders to the Release Preview Channel.\nThis comes after the company reopened the Windows 10 beta channel in early June, releasing the first Beta build three years after the last such build was rolled out to Windows 10 Insiders in 2021.\n\"To bring new features and more improvements to Windows 10 as needed, we need a place to do active feature development with Windows Insiders,\" the Windows Insider team said on June 4.\n\"So today, we are opening the Beta Channel for Windows Insiders who are currently on Windows 10. This will allow us to try out new features for Windows 10, version 22H2, with Insiders before releasing them to all Windows 10 customers.\"\nToday, just five months later, Microsoft killed the Beta Channel again without explanation or any other revival plans, saying that all Insiders would be automatically switched to the Release Preview Channel and advising customers to prepare for Windows 10 end of support \"by moving to Windows 11 today.\"\n\"This will be the last time we release a Windows 10 build to the Beta Channel as we will be shutting down the Beta Channel for Windows 10,\" the Windows Insider team said on Thursday .\nStatcounter Global Stats data shows that over 60% of all Windows systems worldwide still run Windows 10 , while only 35% run Windows 11, three years after its October 2021 launch .\nWindows market share worldwide (Statcounter) ​Windows 10 22H2, the last Windows 10 version to be released, will still receive monthly security update releases through October 14, 2025, when Windows 10 will reach the end of support .\nAfter this date, Redmond will stop fixing bugs and releasing security updates for newly discovered vulnerabilities impacting Windows 10 systems.\n​However, Microsoft also announced on October 31 that Windows 10 home users can delay the switch to Windows 11 for one more year if they pay $30 for Extended Security Updates (ESU).\n\"The ESU program for consumers will be a one-year option available for $30. Program enrollment will be available closer to the end of support in 2025,\" said Yusuf Mehdi, Microsoft Executive Vice President and Consumer Chief Marketing Officer.\nThe company also revealed that the Windows 10 Extended Security Updates will be offered to enterprise customers on November 1, 2024, while the first ESU will ship in November 2025.\n\"We'll share more details on availability of the cloud-based Extended Security Update offer on our price list in the future,\" Redmond said .\nRelated Articles: Microsoft warns Azure Virtual Desktop users of black screen issues\nMicrosoft wants $30 if you want to delay Windows 11 switch\nMicrosoft fixes Windows 10 bug causing apps to stop working\nNew Windows Themes zero-day gets free, unofficial patches\nWindows 10 KB5043131 update released with 9 changes and fixes",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-10-build-19045-5194-to-beta-and-release-preview-channels/",
+    "https://learn.microsoft.com/en-us/lifecycle/announcements/windows-10-22h2-end-of-support-update",
+    "https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628",
+    "https://blogs.windows.com/windows-insider/2021/06/17/releasing-windows-10-build-19042-1081-20h2-to-release-preview-channel/",
+    "https://gs.statcounter.com/os-version-market-share/windows/desktop/worldwide",
+    "https://blogs.windows.com/windows-insider/2024/06/04/opening-the-beta-channel-for-windows-insiders-on-windows-10/",
+    "https://www.learn.microsoft.com/en-us/lifecycle/announcements/windows-10-22h2-end-of-support-update",
+    "https://blogs.windows.com/windows-insider/2024/06/04/opening-the-beta-channel-for-windows-insiders-on-windows-10",
+    "https://www.blogs.windows.com/windows-insider/2021/06/17/releasing-windows-10-build-19042-1081-20h2-to-release-preview-channel/",
+    "https://www.techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628",
+    "https://blogs.windows.com/windows-insider/2021/06/17/releasing-windows-10-build-19042-1081-20h2-to-release-preview-channel",
+    "https://www.blogs.windows.com/windows-insider/2024/11/14/releasing-windows-10-build-19045-5194-to-beta-and-release-preview-channels/",
+    "https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-10-build-19045-5194-to-beta-and-release-preview-channels",
+    "https://www.blogs.windows.com/windows-insider/2024/06/04/opening-the-beta-channel-for-windows-insiders-on-windows-10/",
+    "https://www.gs.statcounter.com/os-version-market-share/windows/desktop/worldwide"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "668c12eddeb1eb563c58853628ff401e0a0e73bb",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T03:52:03.565+02:00",
+  "updated": "2024-11-15T03:52:03.565+02:00"
+}

@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "340382442c04049415e428a207c8f33fe68a6e40",
+    "url": "https://news.china.com/socialgd/10000169/20250814/48721928.html",
+    "site_full": "news.china.com",
+    "site": "china.com",
+    "site_section": "https://news.china.com/international/index.html",
+    "site_categories": [],
+    "section_title": "国际新闻_新闻频道_中华网",
+    "site_title": null,
+    "title": "车载激光雷达把车库监控\"照瞎\" 摄像头被烧坏引关注_新闻频道_中华网",
+    "title_full": "车载激光雷达把车库监控\"照瞎\" 摄像头被烧坏引关注_新闻频道_中华网",
+    "published": "2025-08-14T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2039,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "340382442c04049415e428a207c8f33fe68a6e40",
+  "url": "https://news.china.com/socialgd/10000169/20250814/48721928.html",
+  "ord_in_thread": 0,
+  "author": "#5434",
+  "published": "2025-08-14T03:00:00.000+03:00",
+  "title": "车载激光雷达把车库监控\"照瞎\" 摄像头被烧坏引关注_新闻频道_中华网",
+  "text": "车载激光雷达把车库监控照瞎！近日，一位魏牌高山8车主发布视频称，在驾驶车辆经过地下车库时，车载激光雷达烧坏了地库里的摄像头。他在线询问其他车友是否遇到过类似情况。\n监控画面显示，事件发生在本月11日22点04分，当时这辆魏牌高山8驶入车库，车顶的激光雷达处于工作状态。当车辆靠近摄像头时，伴随着警报声，摄像头突然被烧坏，画面出现大量线条和坏点。\n尽管这种情况此前也有发生，但并不常见。专业人士分析，摄像头被烧坏的原因可能是部分监控摄像头未安装红外滤光片，导致CCD感光元件受损。车载激光雷达通过发射激光束并探测回波信号来获取目标位置特征，从而实现对周围环境的精确重建。目前市面上主流的车载激光雷达产品主要分为905nm和1550nm两种波长，理论上1550nm的安全功率上限更高。\n然而，这并不意味905nm激光雷达不安全。根据国际电工委员会标准（IEC 60825-1），可量产的车载激光雷达产品均需满足CLASS 1级别标准，即对人眼无害。不过，对于没有滤波片的摄像头来说，激光雷达仍存在一定风险。出于安全考虑，建议不要拿手机近距离拍摄激光雷达。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:00:21.550+03:00",
+  "updated": "2025-08-14T11:04:06.000+03:00"
+}

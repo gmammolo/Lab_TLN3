@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "24e607eb1f2a0af9b1276854e2e8a01cbb3e61c6",
+    "url": "https://securityaffairs.com/171268/hacking/palo-alto-networks-firewalls-hacked-zero-days.html",
+    "site_full": "securityaffairs.com",
+    "site": "securityaffairs.com",
+    "site_section": "https://securityaffairs.co/wordpress/rss",
+    "site_categories": [],
+    "section_title": "Security Affairs",
+    "title": "More than 2,000 Palo Alto Networks firewalls hacked exploiting recently patched zero-days",
+    "title_full": "More than 2,000 Palo Alto Networks firewalls hacked exploiting recently patched zero-days",
+    "published": "2024-11-22T08:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png",
+    "performance_score": 0,
+    "domain_rank": 16839,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "24e607eb1f2a0af9b1276854e2e8a01cbb3e61c6",
+  "url": "https://securityaffairs.com/171268/hacking/palo-alto-networks-firewalls-hacked-zero-days.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Pierluigi Paganini",
+  "published": "2024-11-22T08:24:00.000+02:00",
+  "title": "More than 2,000 Palo Alto Networks firewalls hacked exploiting recently patched zero-days",
+  "text": "Threat actors already hacked thousands of Palo Alto Networks firewalls exploiting recently patched zero-day vulnerabilities. Thousands of Palo Alto Networks firewalls have reportedly been compromised in attacks exploiting recently patched zero-day vulnerabilities ( CVE-2024-0012 and CVE-2024-9474 ) in PAN-OS.\nCVE-2024-0012 is a vulnerability in Palo Alto Networks PAN-OS that allows unauthenticated attackers with network access to the management web interface to bypass authentication and gain administrator privileges. This access enables administrative actions, configuration tampering, or exploitation of other vulnerabilities like CVE-2024-9474. The issue affects PAN-OS versions 10.2, 11.0, 11.1, and 11.2 but does not impact Cloud NGFW or Prisma Access.\nCVE-2024-9474 is a privilege escalation vulnerability in Palo Alto Networks PAN-OS software allows a PAN-OS administrator with access to the management web interface to perform actions on the firewall with root privileges.\nThis week, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) added both vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog .\nIn mid-November, Palo Alto Networks confirmed it had observed threat activity exploiting an unauthenticated remote command execution vulnerability against a limited number of firewall management interfaces which are exposed to the Internet.\nPalo Alto said the zero-day has been exploited to deploy web shells on compromised devices, granting persistent remote access.\n“Palo Alto Networks and Unit 42 are engaged in tracking a limited set of exploitation activity related to CVE-2024-0012 and CVE-2024-9474 and are working with external researchers, partners, and customers to share information transparently and rapidly.” reads the report published by Palo Alto.\nThe cybersecurity firm initially observed malicious activities originating from the following IP addresses\n136.144.17[.]* 173.239.218[.]251 216.73.162[.]* The advisory pointed out that these IP addresses may be associated with VPN services, for this reason, they are also associated with legitimate user activity.\n“Palo Alto Networks continues to track additional threat activity following the public release of technical insights and artifacts by third-party researchers beginning on Nov. 19, 2024. At this time, Unit 42 assesses with moderate to high confidence that a functional exploit chaining CVE-2024-0012 and CVE-2024-9474 is publicly available, which will enable broader threat activity .” continues the report. “Unit 42 has also observed both manual and automated scanning activity aligning with the timeline of third-party artifacts becoming widely available.”\nThe investigation is ongoing, and the cybersecurity firm updated the list of Indicators of Compromise .\nShadowserver researchers, who are tracking the number of compromised Palo Alto Networks firewalls, reported that approximately 2,000 have been hacked due to a CVE-2024-0012/CVE-2024-9474 campaign. Most of the hacked devices are in the US (554) and India (461).\nHeads-up! Thanks to collaboration with @NCA_KSA\nwe are now scanning & reporting Palo Alto Networks devices COMPROMISED as a result of a CVE-2024-0012/CVE-2024-9474 campaign.\nFound ~2000 instances compromised on 2024-11-20: https://t.co/7t95RBKdxr\nTop affected: US & India pic.twitter.com/Ors5jhMMxz\n— The Shadowserver Foundation (@Shadowserver) November 21, 2024\nFollow me on Twitter: @securityaffairs and Facebook and Mastodon\nPierluigi Paganini\n( SecurityAffairs – hacking, PAN-OS)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Networks PAN-OS",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "24e607eb1f2a0af9b1276854e2e8a01cbb3e61c6",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T09:15:48.197+02:00",
+  "updated": "2024-11-22T12:04:35.095+02:00"
+}

@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "fee98f0d223399047d92ed4445f4f7fa8f1096a8",
+    "url": "https://computerhoy.20minutos.es/tecnologia/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-1432351",
+    "site_full": "computerhoy.20minutos.es",
+    "site": "20minutos.es",
+    "site_section": "https://computerhoy.20minutos.es/listas/tecnologia",
+    "site_categories": [
+      "top_news_ar",
+      "top_news_ve",
+      "top_news_pe",
+      "top_news_co",
+      "top_news_mx",
+      "top_news_cl",
+      "top_news_es",
+      "top_news"
+    ],
+    "section_title": "Tecnología, Gadgets, Informática, Hardware y Software | Computer Hoy",
+    "title": "Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico",
+    "title_full": "Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico",
+    "published": "2024-12-26T22:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-4277313.jpg?tf=1200x675",
+    "performance_score": 0,
+    "domain_rank": 2443,
+    "domain_rank_updated": "2024-12-23T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fee98f0d223399047d92ed4445f4f7fa8f1096a8",
+  "url": "https://computerhoy.20minutos.es/tecnologia/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-1432351",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "David Hernández",
+  "published": "2024-12-26T22:15:00.000+02:00",
+  "title": "Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico",
+  "text": "Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico\nLo que se puede hacer con una Game Boy Color y una Raspberry Pi. Una de las cosas es disfrutar del propio Doom en la pantalla de la Game Boy.\nYouTube/ChromaLock\nHay muy pocas cosas que se puedan hacer con una Game Boy Color hoy día, pero sí que hay muchas cosas que se pueden hacer con una [Raspberry Pi](https://computerhoy.20minutos.es/tecnologia/raspberry-pi-como-funciona-sirve-pequeno-ordenador-1394282).\nSi tienes cogiendo polvo tu flamante Game Boy Color en el trastero, y quieres darle un nuevo uso, lo único que debes hacer es comprar una [Raspberry Pi Pico](https://computerhoy.20minutos.es/tecnologia/raspberry-pi-pico-vs-raspberry-pi-zero-cuales-son-diferencias-1419040), y poner en práctica todos tus conocimientos tecnológicos.\nAsí lo ha conseguido exactamente el youtuber llamado ChromaLock quien ha convertido la pantalla de una Game Boy Color en un monitor para juegos del calibre de [Doom](https://computerhoy.20minutos.es/gaming/hackean-nintendo-alarmo-flipper-zero-consiguen-instalar-doom-1416097).\nSí, ya sabemos que Doom se puede jugar en multitud de dispositivos, incluso algunos muy raros, pero que sirva nuestra Game Boy Color como un monitor para poder transmitir partidas es otra cosa.\nEvidentemente, el youtuber no lo tuvo nada fácil, porque tuvo primero que trabajar con el propio Link Cable de la Game Boy que solo puede transmitir datos a 512 kHz.\nPues tuvo que confiar en una Raspberry Pi Pico para que actúe como intermediario entre la partida y la visualización. Básicamente con la Raspberry Pi Pico se tomó datos de una fuente externa y se los ofreció a la consola en un formato que pueda entenderlos.\nComo puedes ver en el vídeo que acompaña a noticia, algo se pudo retransmitir pero con un resultado pobre.\nEsto básicamente también se debe a la paleta de colores reducida que puede entender la Game Boy Color de la época.\nSi bien parece imposible poder disfrutar de Doom Eternal a través de la pantalla de la Game Boy Color, al menos el usuario consiguió su propósito aunque parece que tiene poco uso al final.\nConoce [cómo trabajamos](/como-trabajamos) en ComputerHoy.\nEtiquetas: [Raspberry Pi](https://computerhoy.20minutos.es/tags/raspberry-pi)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Lifestyle and Leisure->hobby",
+    "Lifestyle and Leisure->gaming and lottery",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-12-27T00:20:17.726+02:00",
+  "updated": "2024-12-27T00:20:17.726+02:00"
+}

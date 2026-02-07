@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "b526494773f4da18d5a541780bc8614d2b32d52c",
+    "url": "https://playtech.ro/2026/hackerii-au-spart-sistemul-tesla-la-un-concurs-din-tokyo-si-au-castigat-peste-516-000-de-dolari/",
+    "site_full": "playtech.ro",
+    "site": "playtech.ro",
+    "site_section": "https://playtech.ro/comments/feed/",
+    "site_categories": [
+      "media",
+      "top_news_ro",
+      "top_news",
+      "lifestyle and leisure",
+      "economy, business and finance",
+      "crime, law and justice",
+      "science and technology",
+      "arts, culture and entertainment"
+    ],
+    "section_title": "Playtech.ro",
+    "site_title": "Playtech.ro - Știri de ultimă oră din țară și externe, Tehnologie,Telefoane Mobile, Smartphone, Știință",
+    "title": "Hackerii au spart sistemul Tesla la un concurs din Tokyo și au câștigat peste 516.000 de dolari",
+    "title_full": "Hackerii au spart sistemul Tesla la un concurs din Tokyo și au câștigat peste 516.000 de dolari",
+    "published": "2026-01-22T17:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RO",
+    "main_image": "https://playtech.ro/wp-content/uploads/2026/01/Tesla-2025-Playtech-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 114710,
+    "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b526494773f4da18d5a541780bc8614d2b32d52c",
+  "url": "https://playtech.ro/2026/hackerii-au-spart-sistemul-tesla-la-un-concurs-din-tokyo-si-au-castigat-peste-516-000-de-dolari/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2026-01-22T17:49:00.000+02:00",
+  "title": "Hackerii au spart sistemul Tesla la un concurs din Tokyo și au câștigat peste 516.000 de dolari",
+  "text": "Hackerii au spart sistemul Tesla la un concurs din Tokyo și au câștigat peste 516.000 de dolari\nÎn Tokyo, competiția Pwn2Own Automotive 2026 a început cu o demonstrație care spune multe despre cât de repede se lărgește suprafața de atac din mașinile „definite de software”: sistemul de infotainment Tesla a fost compromis, iar în total au fost prezentate 37 de vulnerabilități de tip zero-day doar în prima zi.\nDincolo de cifra spectaculoasă, mesajul e mai important: nu vorbim despre dispozitive „neîngrijite” sau rulate cu software vechi, ci despre ținte declarate ca fiind complet actualizate, tocmai ca să fie testate limitele protecțiilor moderne.\nCe s-a întâmplat în prima zi la pwn2own automotive 2026\nEchipa Synacktiv a obținut acces de tip root pe sistemul de infotainment Tesla într-un scenariu de atac prin USB, combinând o breșă de tip information leak cu o scriere în afara limitelor (out-of-bounds write). Pentru acest lanț de vulnerabilități, echipa a primit 35.000 de dolari.\nÎn același ritm, Synacktiv a demonstrat și execuție de cod la nivel root pe receiverul media Sony XAV-9500ES, printr-un lanț de trei vulnerabilități, ceea ce le-a adus încă 20.000 de dolari. Iar alte echipe au completat rapid „tabloul” de ținte atacate: Fuzzware.io a obținut 118.000 de dolari după compromiterea unei stații Alpitronic HYC50, a unui încărcător Autel și a unui receiver de navigație Kenwood DNR1007XR, în timp ce PetoWorks a primit 50.000 de dolari pentru root pe controllerul Phoenix Contact CHARX SEC-3150 (tot printr-un lanț de trei zero-day-uri).\nDe ce contează 37 de zero-day-uri pentru mașini și infrastructura de încărcare\nCând auzi „infotainment”, tentația e să tratezi problema ca pe una de confort (muzică, navigație, aplicații). În realitate, infotainmentul e adesea una dintre cele mai expuse porți către ecosistemul digital al mașinii: are multe interfețe (USB, Bluetooth, Wi-Fi), rulează stack-uri complexe și interacționează cu servicii interne. Tocmai de aceea, o vulnerabilitate „lanțuită” corect poate transforma o simplă eroare într-un control extins asupra sistemului.\nȘi mai sensibilă devine discuția când intră în joc încărcătoarele EV. Competiția vizează explicit stații și controllere de încărcare, adică exact infrastructura care leagă mașina de rețea, conturi, aplicații și uneori de sisteme de management pentru flote. Pwn2Own Automotive 2026 are loc în cadrul Automotive World, iar organizatorii și participanții tratează aceste zone ca pe ținte principale, nu ca pe periferie.\nÎn plus, contextul din ultimii ani arată că nu e un „accident” izolat. În 2025, Pwn2Own Automotive s-a încheiat cu 49 de zero-day-uri și 886.250 de dolari în premii, iar în 2024 s-au raportat tot 49 de zero-day-uri și 1.323.750 de dolari, cu Tesla compromisă de două ori la acea ediție. Pe scurt: cercetarea ofensivă avansează constant, iar complexitatea software din zona auto îi oferă combustibil.\nCe urmează după demonstrații și ce ai de făcut ca utilizator\nÎn ziua a doua, presiunea se mută pe ținte atacate repetat: Grizzl-E Smart 40A urma să fie încercat de patru echipe, Autel MaxiCharger de trei ori, iar ChargePoint Home Flex de două ori, cu recompense consistente pentru fiecare reușită. În paralel, Fuzzware.io avea planificată și o nouă tentativă pe Phoenix Contact CHARX SEC-3150, pentru un premiu de 70.000 de dolari.\nDupă concurs, regula-cheie e fereastra de 90 de zile: vendorii au acest interval ca să dezvolte și să livreze patch-uri înainte ca Trend Micro ZDI să publice detaliile tehnice ale vulnerabilităților demonstrate. Asta e diferența dintre „spectacol” și valoarea reală pentru siguranță: presiunea publică și calendarul clar împing remedierile înainte ca aceleași bug-uri să devină folosite în atacuri reale.\nIar pentru tine, partea practică începe cu obiceiuri simple. Actualizează imediat software-ul mașinii când primești update OTA și nu amâna patch-urile pentru aplicațiile asociate (cont, cheie digitală, management de încărcare). Dacă folosești frecvent portul USB, evită pe cât posibil medii necunoscute și nu conecta stick-uri găsite sau primite din surse incerte. În zona de încărcare, schimbă parolele implicite, activează autentificarea în doi pași unde există și verifică periodic dacă producătorul a publicat update-uri de firmware pentru stația ta (acolo unde modelul permite). Ca regulă generală, tratează orice vulnerabilitate zero-day anunțată public ca pe un motiv să verifici rapid versiunea software pe care o ai, nu ca pe o știre „pentru alții”.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "romanian",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_ro",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-22T18:31:36.029+02:00",
+  "updated": "2026-01-22T18:34:40.000+02:00"
+}

@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "f041f524d2ae87a8285a760206f1df59617245e2",
+    "url": "https://community.spiceworks.com/t/help-with-powershell-not-installing-a-msi-file/1120450",
+    "site_full": "community.spiceworks.com",
+    "site": "spiceworks.com",
+    "site_section": "https://community.spiceworks.com/posts.rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Spiceworks Community - Latest posts",
+    "title": "Help with Powershell not installing a .msi file",
+    "title_full": "Help with Powershell not installing a .msi file",
+    "published": "2024-11-15T01:48:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/spiceworks/original/1X/7a73606d7df2f794c4789897e49693fb3c471b23.png",
+    "performance_score": 0,
+    "domain_rank": 3246,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f041f524d2ae87a8285a760206f1df59617245e2",
+  "url": "https://community.spiceworks.com/t/help-with-powershell-not-installing-a-msi-file/1120450",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@atorres13 atorres13",
+  "published": "2024-11-15T01:48:00.000+02:00",
+  "title": "Help with Powershell not installing a .msi file",
+  "text": "I am stuck with the below code. It installs when ran through ISE on a test machine but when ran through a deployment tool the MSI never gets installed but the MSI file does get copied to the local folder and the registry entry is also created successfully. But the app its self does not get installed unless ran from a PS prompt on the machine. Any advice on troubleshooting or code correction is greatly appreciated.\n# Beginning $path = \"HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\run\" $completename = Get-WMIObject -class Win32_ComputerSystem | Select-Object -ExpandProperty username $completenamerep = $completename.Replace(\"coname\\\",\"\") Copy-Item -Path \".\\Phone.msi\" -Destination \"C:\\Installs\" Start-Process msiexec.exe -ArgumentList '/I \"C:\\Installs\\Phone.msi\" /qn' New-ItemProperty -Path $path -Name \"Phone App\" -Value \"C:\\Users\\$completenamerep\\AppData\\Local\\Programs\\SPhone.exe\" -PropertyType \"String\" # the end\nwell it looks like you’re expecting the msi to install in the user’s AppData but it would be installing in whatever user account you’re running the script from’s AppData.\ntry adding a TARGETDIR and see what happens? Maybe install it at C:\\IT\\SPhone that way you can also get rid of that cumbersome identification of the user.\nTry adding the -Wait parameter to your Start-Process command. I wonder if the script is exiting before the MSI has finished installing. I’ve seen this happen before.\n$path = “HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run” $completename = Get-CimInstance -ClassName Win32_ComputerSystem | Select-Object -ExpandProperty username $completenamerep = $completename.Replace(\"coname\", “”)\n$destinationPath = “C:\\Installs” if (-Not (Test-Path $destinationPath)) { New-Item -Path $destinationPath -ItemType Directory }\nCopy-Item -Path “.\\Phone.msi” -Destination $destinationPath\nStart-Process msiexec.exe -ArgumentList ‘/I “C:\\Installs\\Phone.msi” /qn’ -Wait\n$exePath = “C:\\Users$completenamerep\\AppData\\Local\\Programs\\SPhone.exe” if (Test-Path $exePath) { New-ItemProperty -Path $path -Name “Phone App” -Value $exePath -PropertyType “String” -Force } else { Write-Host “Executable not found at $exePath” }\nThank you all for the help. I will follow up with the solution that worked.\nDay late and dollar short but thank you for this suggestion.\nThis is the solution that i went with.\nThank you @rgagnon !",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:41:53.337+02:00",
+  "updated": "2024-11-15T02:41:53.337+02:00"
+}

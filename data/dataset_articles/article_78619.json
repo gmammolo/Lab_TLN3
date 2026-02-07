@@ -1,0 +1,226 @@
+{
+  "thread": {
+    "uuid": "f17cdc4a75c6c09d81ff52e615b87a9cd8205c3d",
+    "url": "https://www.news.de/technik/858679288/python-gefaehrdet-it-sicherheitswarnung-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-20-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "Python gefährdet: Update für IT-Sicherheitswarnung (Risiko: hoch)",
+    "title_full": "Python gefährdet: Update für IT-Sicherheitswarnung (Risiko: hoch)",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771883/images/0c/7b/2464b9799dbffd96b01da1791c96/nopic/no_pic/1200/675/1/1/148/3/727/409/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771883_1200x675_b5405a265fd3c22dc73a6102d4211932.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f17cdc4a75c6c09d81ff52e615b87a9cd8205c3d",
+  "url": "https://www.news.de/technik/858679288/python-gefaehrdet-it-sicherheitswarnung-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-20-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "Python gefährdet: Update für IT-Sicherheitswarnung (Risiko: hoch)",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 20.08.2025 ein Update zu einer am 03.06.2025 bekanntgewordenen Sicherheitslücke mit mehreren Schwachstellen für Python herausgegeben. Betroffen von der Sicherheitslücke sind die Betriebssysteme Linux, UNIX und Windows sowie die Produkte IBM AIX, IBM VIOS, Red Hat Enterprise Linux, Fedora Linux, Ubuntu Linux, SUSE Linux, Oracle Linux, Gentoo Linux, Red Hat OpenShift, SUSE openSUSE, NetApp ActiveIQ Unified Manager, IBM TXSeries, Open Source Python und IBM QRadar SIEM.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: IBM Security Bulletin 7242672 (Stand: 20.08.2025). Weitere nützliche Quellen werden weiter unten in diesem Artikel aufgeführt.\nMehrere Schwachstellen für Python - Risiko: hoch\nRisikostufe: 3 (hoch)\nCVSS Base Score: 9,4\nCVSS Temporal Score: 8,2\nRemoteangriff: Ja\nZur Einschätzung des Schweregrads von Schwachstellen in Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um eine darauf aufbauende Prioritätenliste zur Einleitung von Gegenmaßnahmen zu erstellen. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Der Temporal Score berücksichtigt darüber hinaus zeitliche Veränderungen hinsichtlich der Gefahrenlage. Der Schweregrad der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 9,4 als \"hoch\" eingestuft.\nPython Bug: Schwachstellen und CVE-Nummern\nPython ist eine universelle, üblicherweise interpretierte, höhere Programmiersprache.\nEin entfernter, anonymer Angreifer kann mehrere Schwachstellen in Python ausnutzen, um Dateien zu manipulieren oder Sicherheitsvorkehrungen zu umgehen.\nDie Verwundbarkeit wird mit den eindeutigen CVE-Identifikationsnummern (Common Vulnerabilities and Exposures) CVE-2024-12718, CVE-2025-4330, CVE-2025-4435 und CVE-2025-4517 gehandelt.\nVon der Python-Sicherheitslücke betroffene Systeme im Überblick\nBetriebssysteme\nLinux, UNIX, Windows\nProdukte\nIBM AIX 7.3 (cpe:/o:ibm:aix)\nIBM VIOS 4.1 (cpe:/a:ibm:vios)\nRed Hat Enterprise Linux (cpe:/o:redhat:enterprise_linux)\nFedora Linux (cpe:/o:fedoraproject:fedora)\nUbuntu Linux (cpe:/o:canonical:ubuntu_linux)\nSUSE Linux (cpe:/o:suse:suse_linux)\nOracle Linux (cpe:/o:oracle:linux)\nGentoo Linux (cpe:/o:gentoo:linux)\nRed Hat OpenShift Container Platform 4.10 (cpe:/a:redhat:openshift)\nRed Hat OpenShift Container Platform 4.11 (cpe:/a:redhat:openshift)\nRed Hat OpenShift Container Platform 4.12 (cpe:/a:redhat:openshift)\nSUSE openSUSE (cpe:/o:suse:opensuse)\nNetApp ActiveIQ Unified Manager (cpe:/a:netapp:active_iq_unified_manager)\nIBM TXSeries for Multiplatforms 11.1 (cpe:/a:ibm:txseries)\nOpen Source Python <3.13.4 (cpe:/a:python:python)\nOpen Source Python 3.13.4 (cpe:/a:python:python)\nOpen Source Python <3.12.11 (cpe:/a:python:python)\nOpen Source Python 3.12.11 (cpe:/a:python:python)\nOpen Source Python <3.11.13 (cpe:/a:python:python)\nOpen Source Python 3.11.13 (cpe:/a:python:python)\nOpen Source Python <3.10.18 (cpe:/a:python:python)\nOpen Source Python 3.10.18 (cpe:/a:python:python)\nOpen Source Python <3.9.23 (cpe:/a:python:python)\nOpen Source Python 3.9.23 (cpe:/a:python:python)\nIBM QRadar SIEM <7.5.0 UP13 (cpe:/a:ibm:qradar_siem)\nIBM QRadar SIEM 7.5.0 UP13 (cpe:/a:ibm:qradar_siem)\nAllgemeine Empfehlungen zum Umgang mit IT-Schwachstellen\n- Anwender der betroffenen Anwendungen sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten neue Sicherheitsupdates verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten die genannten Quellen regelmäßig daraufhin prüfen, ob ein neues Sicherheitsupdate zur Verfügung steht.\nHersteller-Informationen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nIBM Security Bulletin 7242672 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://www.ibm.com/support/pages/node/7242672\nSUSE Security Update SUSE-SU-2025:02778-1 vom 2025-08-13 (12.08.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-August/022149.html\nSUSE Security Update SUSE-SU-2025:02767-1 vom 2025-08-12 (12.08.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-August/022140.html\nIBM Security Bulletin 7242015 vom 2025-08-12 (11.08.2025)\nWeitere Informationen finden Sie unter: https://www.ibm.com/support/pages/node/7242015\nSUSE Security Update SUSE-SU-2025:02717-1 vom 2025-08-06 (06.08.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/L2NLBYO6X4C452ZDTZWTPSMMIOSSOPDD/\nIBM Security Bulletin 7241589 vom 2025-08-06 (06.08.2025)\nWeitere Informationen finden Sie unter: https://www.ibm.com/support/pages/node/7241589\nSUSE Security Update SUSE-SU-2025:20539-1 vom 2025-08-05 (05.08.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-August/022105.html\nSUSE Security Update SUSE-SU-2025:20492-1 vom 2025-07-25 (27.07.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-July/021968.html\nSUSE Security Update SUSE-SU-2025:02427-1 vom 2025-07-21 (21.07.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-July/021896.html\nNetApp Security Advisory NTAP-20250718-0007 vom 2025-07-18 (20.07.2025)\nWeitere Informationen finden Sie unter: https://security.netapp.com/advisory/NTAP-20250718-0007\nNetApp Security Advisory NTAP-20250718-0009 vom 2025-07-18 (20.07.2025)\nWeitere Informationen finden Sie unter: https://security.netapp.com/advisory/NTAP-20250718-0009\nNetApp Security Advisory NTAP-20250718-0008 vom 2025-07-18 (20.07.2025)\nWeitere Informationen finden Sie unter: https://security.netapp.com/advisory/NTAP-20250718-0008\nRed Hat Security Advisory RHSA-2025:11386 vom 2025-07-17 (17.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:11386\nSUSE Security Update SUSE-SU-2025:02297-1 vom 2025-07-11 (13.07.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-July/021800.html\nRed Hat Security Advisory RHSA-2025:10602 vom 2025-07-08 (07.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10602\nRed Hat Security Advisory RHSA-2025:10399 vom 2025-07-07 (07.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10399\nRed Hat Security Advisory RHSA-2025:10484 vom 2025-07-08 (07.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10484\nFedora Security Advisory FEDORA-2025-A8ABFBB35C vom 2025-07-04 (06.07.2025)\nWeitere Informationen finden Sie unter: https://bodhi.fedoraproject.org/updates/FEDORA-2025-a8abfbb35c\nFedora Security Advisory FEDORA-2025-266A1353A1 vom 2025-07-04 (06.07.2025)\nWeitere Informationen finden Sie unter: https://bodhi.fedoraproject.org/updates/FEDORA-2025-266a1353a1\nopenSUSE Security Update OPENSUSE-SU-2025:15287-1 vom 2025-07-05 (06.07.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/JWQ23JUZIMA2GXE5S5DAQ7WG7JDDNDNW/\nopenSUSE Security Update OPENSUSE-SU-2025:15288-1 vom 2025-07-05 (06.07.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/IK42QIUODB7F35JVB7BXAARPKHOCCQLB/\nopenSUSE Security Update OPENSUSE-SU-2025:15286-1 vom 2025-07-05 (06.07.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/I7RWPSXWDA2EWFPRF5WFZS53U5D5N74B/\nopenSUSE Security Update OPENSUSE-SU-2025:15289-1 vom 2025-07-05 (06.07.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/AA3OOWAMM63YT2HIWXCYZDBM54EHICYV/\nopenSUSE Security Update OPENSUSE-SU-2025:15285-1 vom 2025-07-05 (06.07.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/4EYQQWPXUKY2S5AP6NQZE7WC5JRTWWOL/\nopenSUSE Security Update OPENSUSE-SU-2025:15290-1 vom 2025-07-05 (06.07.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/YRLR7CL5RFZSB5X6YMWCVABXKQ5FKF2I/\nOracle Linux Security Advisory ELSA-2025-10140 vom 2025-07-03 (02.07.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-10140.html\nOracle Linux Security Advisory ELSA-2025-10189 vom 2025-07-02 (02.07.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-10189.html\nOracle Linux Security Advisory ELSA-2025-10148 vom 2025-07-02 (02.07.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-10148.html\nOracle Linux Security Advisory ELSA-2025-10128 vom 2025-07-02 (01.07.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-10128.html\nRed Hat Security Advisory RHSA-2025:10189 vom 2025-07-02 (01.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10189\nOracle Linux Security Advisory ELSA-2025-10031 vom 2025-07-02 (01.07.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-10031.html\nRed Hat Security Advisory RHSA-2025:10148 vom 2025-07-02 (01.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10148\nOracle Linux Security Advisory ELSA-2025-10136 vom 2025-07-02 (01.07.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-10136.html\nRed Hat Security Advisory RHSA-2025:10128 vom 2025-07-01 (01.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10128\nRed Hat Security Advisory RHSA-2025:10140 vom 2025-07-02 (01.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10140\nOracle Linux Security Advisory ELSA-2025-10026 vom 2025-07-01 (01.07.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-10026.html\nRed Hat Security Advisory RHSA-2025:10136 vom 2025-07-02 (01.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10136\nRed Hat Security Advisory RHSA-2025:10028 vom 2025-07-01 (30.06.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10028\nRed Hat Security Advisory RHSA-2025:10031 vom 2025-07-01 (30.06.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10031\nRed Hat Security Advisory RHSA-2025:10026 vom 2025-07-01 (30.06.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:10026\nRed Hat Security Advisory RHSA-2025:9918 vom 2025-06-30 (30.06.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:9918\nSUSE Security Update SUSE-SU-2025:02074-1 vom 2025-06-24 (23.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021627.html\nSUSE Security Update SUSE-SU-2025:02057-1 vom 2025-06-23 (22.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021620.html\nSUSE Security Update SUSE-SU-2025:02048-1 vom 2025-06-20 (22.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021614.html\nSUSE Security Update SUSE-SU-2025:02047-1 vom 2025-06-20 (22.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021615.html\nSUSE Security Update SUSE-SU-2025:02049-1 vom 2025-06-20 (22.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021613.html\nSUSE Security Update SUSE-SU-2025:02050-1 vom 2025-06-20 (22.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021612.html\nUbuntu Security Notice USN-7583-1 vom 2025-06-19 (19.06.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7583-1\nGentoo Linux Security Advisory GLSA-202506-07 vom 2025-06-12 (12.06.2025)\nWeitere Informationen finden Sie unter: https://security.gentoo.org/glsa/202506-07\nFedora Security Advisory FEDORA-2025-47CF891973 vom 2025-06-05 (05.06.2025)\nWeitere Informationen finden Sie unter: https://bodhi.fedoraproject.org/updates/FEDORA-2025-47cf891973\nFedora Security Advisory FEDORA-2025-098FA1945A vom 2025-06-05 (05.06.2025)\nWeitere Informationen finden Sie unter: https://bodhi.fedoraproject.org/updates/FEDORA-2025-098fa1945a\nPython Mailing List vom 2025-06-03 (03.06.2025)\nWeitere Informationen finden Sie unter: https://pythoninsider.blogspot.com/2025/06/python-3134-31211-31113-31018-and-3923.html\nRed Hat Bugtracker vom 2025-06-03 (03.06.2025)\nWeitere Informationen finden Sie unter: https://bugzilla.redhat.com/show_bug.cgi?id=2370014\nGitHub Advisory Database vom 2025-06-03 (03.06.2025)\nWeitere Informationen finden Sie unter: https://github.com/advisories/GHSA-2pg8-h2j6-28xm\nRed Hat Bugtracker vom 2025-06-03 (03.06.2025)\nWeitere Informationen finden Sie unter: https://bugzilla.redhat.com/show_bug.cgi?id=2370013\nGitHub Advisory Database vom 2025-06-03 (03.06.2025)\nWeitere Informationen finden Sie unter: https://github.com/advisories/GHSA-6r6c-684h-9j7p\nRed Hat Bugtracker vom 2025-06-03 (03.06.2025)\nWeitere Informationen finden Sie unter: https://bugzilla.redhat.com/show_bug.cgi?id=2370016\nGitHub Advisory Database vom 2025-06-03 (03.06.2025)\nWeitere Informationen finden Sie unter: https://github.com/advisories/GHSA-p72v-37h5-753v\nRed Hat Bugtracker vom 2025-06-03 (03.06.2025)\nWeitere Informationen finden Sie unter: https://bugzilla.redhat.com/show_bug.cgi?id=2370010\nPython Mailing List vom 2025-06-03 (03.06.2025)\nWeitere Informationen finden Sie unter: https://mail.python.org/archives/list/security-announce@python.org/thread/MAXIJJCUUMCL7ATZNDVEGGHUMQMUUKLG/\nVersionshistorie dieser Sicherheitswarnung\nDies ist die 21. Version des vorliegenden IT-Sicherheitshinweises für Python. Bei Bekanntgabe weiterer Updates wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.\n03.06.2025 - Initiale Fassung\n05.06.2025 - Neue Updates von Fedora aufgenommen\n12.06.2025 - Neue Updates von Gentoo aufgenommen\n19.06.2025 - Neue Updates von Ubuntu aufgenommen\n22.06.2025 - Neue Updates von SUSE aufgenommen\n23.06.2025 - Neue Updates von SUSE aufgenommen\n30.06.2025 - Neue Updates von Red Hat aufgenommen\n01.07.2025 - Neue Updates von Red Hat und Oracle Linux aufgenommen\n02.07.2025 - Neue Updates von Oracle Linux aufgenommen\n06.07.2025 - Neue Updates von openSUSE und Fedora aufgenommen\n07.07.2025 - Neue Updates von Red Hat aufgenommen\n13.07.2025 - Neue Updates von SUSE aufgenommen\n17.07.2025 - Neue Updates von Red Hat aufgenommen\n20.07.2025 - Neue Updates von NetApp aufgenommen\n21.07.2025 - Neue Updates von SUSE aufgenommen\n27.07.2025 - Neue Updates von SUSE aufgenommen\n05.08.2025 - Neue Updates von SUSE aufgenommen\n06.08.2025 - Neue Updates von IBM und SUSE aufgenommen\n11.08.2025 - Neue Updates von IBM aufgenommen\n12.08.2025 - Neue Updates von SUSE aufgenommen\n20.08.2025 - Neue Updates von IBM aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ubuntu.com/security/notices/USN-7583-1",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021613.html",
+    "https://pythoninsider.blogspot.com/2025/06/python-3134-31211-31113-31018-and-3923.html",
+    "https://linux.oracle.com/errata/ELSA-2025-10189.html",
+    "https://access.redhat.com/errata/RHSA-2025:9918",
+    "https://linux.oracle.com/errata/ELSA-2025-10128.html",
+    "https://pin.it/11NQyAf",
+    "https://access.redhat.com/errata/RHSA-2025:10128",
+    "https://security.netapp.com/advisory/NTAP-20250718-0008",
+    "https://security.netapp.com/advisory/NTAP-20250718-0009",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/AA3OOWAMM63YT2HIWXCYZDBM54EHICYV/",
+    "https://security.netapp.com/advisory/NTAP-20250718-0007",
+    "https://access.redhat.com/errata/RHSA-2025:10602",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-July/021800.html",
+    "https://access.redhat.com/errata/RHSA-2025:10031",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-July/021968.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-July/021896.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021627.html",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/I7RWPSXWDA2EWFPRF5WFZS53U5D5N74B/",
+    "https://access.redhat.com/errata/RHSA-2025:11386",
+    "https://linux.oracle.com/errata/ELSA-2025-10136.html",
+    "https://bodhi.fedoraproject.org/updates/FEDORA-2025-a8abfbb35c",
+    "https://linux.oracle.com/errata/ELSA-2025-10140.html",
+    "https://linux.oracle.com/errata/ELSA-2025-10148.html",
+    "https://mail.python.org/archives/list/security-announce@python.org/thread/MAXIJJCUUMCL7ATZNDVEGGHUMQMUUKLG/",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-August/022140.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021620.html",
+    "https://bugzilla.redhat.com/show_bug.cgi?id=2370013",
+    "https://bugzilla.redhat.com/show_bug.cgi?id=2370010",
+    "https://bugzilla.redhat.com/show_bug.cgi?id=2370016",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021612.html",
+    "https://www.ibm.com/support/pages/node/7242015",
+    "https://twitter.com/news_de",
+    "https://security.gentoo.org/glsa/202506-07",
+    "https://bodhi.fedoraproject.org/updates/FEDORA-2025-098fa1945a",
+    "https://access.redhat.com/errata/RHSA-2025:10399",
+    "https://www.facebook.com/News.de",
+    "https://access.redhat.com/errata/RHSA-2025:10148",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://bodhi.fedoraproject.org/updates/FEDORA-2025-266a1353a1",
+    "https://access.redhat.com/errata/RHSA-2025:10140",
+    "https://access.redhat.com/errata/RHSA-2025:10189",
+    "https://bodhi.fedoraproject.org/updates/FEDORA-2025-47cf891973",
+    "https://github.com/advisories/GHSA-6r6c-684h-9j7p",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/L2NLBYO6X4C452ZDTZWTPSMMIOSSOPDD/",
+    "https://linux.oracle.com/errata/ELSA-2025-10031.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-August/022149.html",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/JWQ23JUZIMA2GXE5S5DAQ7WG7JDDNDNW/",
+    "https://access.redhat.com/errata/RHSA-2025:10484",
+    "https://www.ibm.com/support/pages/node/7242672",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/IK42QIUODB7F35JVB7BXAARPKHOCCQLB/",
+    "https://bugzilla.redhat.com/show_bug.cgi?id=2370014",
+    "https://access.redhat.com/errata/RHSA-2025:10136",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021614.html",
+    "https://github.com/advisories/GHSA-p72v-37h5-753v",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021615.html",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/4EYQQWPXUKY2S5AP6NQZE7WC5JRTWWOL/",
+    "https://github.com/advisories/GHSA-2pg8-h2j6-28xm",
+    "https://access.redhat.com/errata/RHSA-2025:10026",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/YRLR7CL5RFZSB5X6YMWCVABXKQ5FKF2I/",
+    "https://www.ibm.com/support/pages/node/7241589",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-August/022105.html",
+    "https://access.redhat.com/errata/RHSA-2025:10028",
+    "https://linux.oracle.com/errata/ELSA-2025-10026.html",
+    "https://www.lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/L2NLBYO6X4C452ZDTZWTPSMMIOSSOPDD/",
+    "https://www.mail.python.org/archives/list/security-announce@python.org/thread/MAXIJJCUUMCL7ATZNDVEGGHUMQMUUKLG/",
+    "https://www.lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/I7RWPSXWDA2EWFPRF5WFZS53U5D5N74B/",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/JWQ23JUZIMA2GXE5S5DAQ7WG7JDDNDNW",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-August/022149.html",
+    "https://www.linux.oracle.com/errata/ELSA-2025-10128.html",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/IK42QIUODB7F35JVB7BXAARPKHOCCQLB",
+    "https://www.access.redhat.com/errata/RHSA-2025:10128",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/AA3OOWAMM63YT2HIWXCYZDBM54EHICYV",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-August/022140.html",
+    "https://www.bodhi.fedoraproject.org/updates/FEDORA-2025-098fa1945a",
+    "https://www.access.redhat.com/errata/RHSA-2025:10189",
+    "https://www.access.redhat.com/errata/RHSA-2025:9918",
+    "https://www.access.redhat.com/errata/RHSA-2025:10140",
+    "https://www.access.redhat.com/errata/RHSA-2025:10026",
+    "https://www.bugzilla.redhat.com/show_bug.cgi?id=2370010",
+    "https://www.lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/JWQ23JUZIMA2GXE5S5DAQ7WG7JDDNDNW/",
+    "https://www.linux.oracle.com/errata/ELSA-2025-10140.html",
+    "https://www.bugzilla.redhat.com/show_bug.cgi?id=2370014",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-June/021613.html",
+    "https://www.linux.oracle.com/errata/ELSA-2025-10189.html",
+    "https://www.lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/IK42QIUODB7F35JVB7BXAARPKHOCCQLB/",
+    "https://www.bugzilla.redhat.com/show_bug.cgi?id=2370013",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-July/021800.html",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-June/021614.html",
+    "https://www.github.com/advisories/GHSA-p72v-37h5-753v",
+    "https://www.bodhi.fedoraproject.org/updates/FEDORA-2025-a8abfbb35c",
+    "https://www.access.redhat.com/errata/RHSA-2025:10028",
+    "https://www.security.netapp.com/advisory/NTAP-20250718-0007",
+    "https://www.access.redhat.com/errata/RHSA-2025:10484",
+    "https://www.bugzilla.redhat.com/show_bug.cgi?id=2370016",
+    "https://www.linux.oracle.com/errata/ELSA-2025-10136.html",
+    "https://www.bodhi.fedoraproject.org/updates/FEDORA-2025-47cf891973",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-July/021896.html",
+    "https://www.security.netapp.com/advisory/NTAP-20250718-0009",
+    "https://www.security.netapp.com/advisory/NTAP-20250718-0008"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Python",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "NetApp ActiveIQ Unified Manager",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Open Source Python",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "IBM AIX",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "UNIX",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:09:32.533+03:00",
+  "updated": "2025-08-21T13:15:22.000+03:00"
+}

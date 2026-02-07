@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "403ad9cbe8ec038ce514ae57228cfbae299fd80c",
+    "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/15/la-frustrada-licitacion-del-poder-judicial-sobre-el-algoritmo-de-distribucion-de-causas",
+    "site_full": "www.elmostrador.cl",
+    "site": "elmostrador.cl",
+    "site_section": "https://www.elmostrador.cl",
+    "site_categories": [
+      "politics",
+      "law_government_and_politics",
+      "media",
+      "top_news_cl"
+    ],
+    "section_title": "El Mostrador",
+    "title": "La frustrada licitación del Poder Judicial sobre el algoritmo de distribución de causas",
+    "title_full": "La frustrada licitación del Poder Judicial sobre el algoritmo de distribución de causas",
+    "published": "2024-11-15T06:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "https://media-front.elmostrador.cl/2024/09/corte-suprema-no-entrar-e1727736865704.jpg",
+    "performance_score": 0,
+    "domain_rank": 11341,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "403ad9cbe8ec038ce514ae57228cfbae299fd80c",
+  "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/15/la-frustrada-licitacion-del-poder-judicial-sobre-el-algoritmo-de-distribucion-de-causas",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Santiago Escobar",
+  "published": "2024-11-15T06:06:00.000+02:00",
+  "title": "La frustrada licitación del Poder Judicial sobre el algoritmo de distribución de causas",
+  "text": "La solicitud de aplicar tecnologías obsoletas, la entrega fragmentada y parcial de información necesaria para elaborar ofertas serias y las contradicciones técnicas de las bases de licitación, ahuyentaron a cualquier oferente.\nLa licitación convocada para contratar servicios de “auditoría informática y reforzar la supervisión del sistema automatizado de distribución de demandas civiles” a los tribunales del país fue declarada desierta el 13 de noviembre, pues nadie presentó ofertas.\nNo parece extraño. El predicado de la convocatoria era también “fortalecer la seguridad y transparencia” del proceso de tramitación electrónica de ellas, pero la estructura técnica de la licitación fue tan feble que hacía imposible para un oferente serio satisfacer los requerimientos puestos por la entidad responsable: la Corporación Administrativa del Poder Judicial (CAPJ). Ayudó el historial de autogobierno, descontrol, yerros y omisiones de esa Corporación, pese a depender jerárquicamente de la CS, que tornaron brumosa y poco transparente la licitación, sugiriendo una sombra plausible de corrupción.\nLa lectura atenta de las Bases de Licitación y su convocatoria, dadas las cosas que se pidieron, sugirió desde un principio la búsqueda solo de argumentos formales para facilitar respuestas administrativas ante las numerosas críticas públicas que ha recibido el sistema de distribución de causas.\nEn lo particular, respecto de la manipulación de su algoritmo para producir forum shopping (compra de tribunal) y obtener de manera ilegal la certeza de un resultado final favorable en un juicio. La imposibilidad de la CAPJ de entregar explicaciones coherentes y satisfactorias a esas críticas habrían sido el motivo para impulsar esta licitación, a fin de cubrir u ocultar los problemas del algoritmo y la distribución de causas.\nBlog de preguntas y respuestas Toda licitación pública tiene un período de aclaración de las bases, consistente en preguntas y respuestas, que, una vez concluido, pasa a formar parte de las bases mismas. Ya durante este proceso, que terminó el 5 de noviembre, quedaron claras las contradicciones y la falta de información adecuada que la CAPJ entregaría a los eventuales oferentes.\nLa duda que surgió en esa parte del proceso licitatorio fue: ¿por qué no se exigió una propuesta orientada a la implementación de una ISO 2700, que desde hace dos décadas es el estándar de seguridad para manejo de información crítica, con versiones mejoradas regularmente en el sistema, la última de 2022? La licitación no exigió ni para el sistema de distribución de causas ni los otros sistemas mencionados en ella, los controles y pruebas que posee la ISO 2700, y que son claves para garantizar la seguridad de la información.\nEntre ellos:\ni) Controles de acceso y autenticación: resguardo de los códigos fuente y acceso limitado de desarrolladores solo a módulos en que trabajan.\nii) G estión de cambios: identificar desarrolladores desde creación del código fuente con documentación e historial de modificaciones (trazabilidad; licitación planteó GitHub y auditar código actual, lo que elimina historial).\niii) Pruebas de seguridad del código: manuales y automatizadas.\niv) Confidencialidad y cifrado.\nv) Revisión de vulnerabilidades y actualización de parches (el gestor de bases de datos solicitado, Oracle 11g, lo deja fuera).\nvi) Seguridad en el entorno de desarrollo: seguridad del entorno de desarrollo y almacén del código para prevenir accesos no autorizados y pérdida de datos.\nvii) Evaluación de dependencias y bibliotecas de terceros.\nviii) Documentación y mantenimiento.\nix) Gestión de incidentes: documentar todos los incidentes desde la puesta en marcha del sistema.\nEste último aspecto es posiblemente la información más fragmentada o derechamente inexistente en el funcionamiento del sistema actual de la CAPJ que se debía auditar. Requeridos los logs (constancia de incidentes) de períodos cortos y específicos, nunca han sido entregados por la CAPJ, aunque debieran tenerlos.\nTecnologías obsoletas Las bases de la frustrada licitación exigieron que la auditoría a desarrollar incluyera revisión del código fuente, funciones, procedimientos, algoritmos y otros componentes del sistema de distribución de causas civiles del Poder Judicial (punto 9 en bases técnicas), sin aclarar nunca si se pedía una auditoría dirigida solo a la revisión de códigos fuentes y nada más.\nSe exigió además a los posibles oferentes que debían contar con una ISO 9001 o superior, la cual está enfocada en la calidad de los procesos y no en la seguridad , a diferencia de una certificación ISO 27001 .\nEllo es una diferencia grande, pues la vulneración de un sistema informático se produce a través de varias capas que se deben certificar y auditar para evitar precisamente las vulneraciones de los sistemas. En determinados casos, las manipulaciones maliciosas avanzan y llegan hasta la base de datos para obtener y modificar información de manera maliciosa (caso Servipag).\nPara la CAPJ ello es muy crítico, pues tiene un gestor de bases de datos obsoleto, que es lo más crítico de su sistema computacional. Por ello, lo más adecuado era orientarla en materia de seguridad a una ISO 27001. Sin embargo, las bases exigieron, incluso, el uso de Oracle 11g como base de datos, un sistema obsoleto y que expone los sistemas a ataques externos, limitando la capacidad de escalabilidad y rendimiento del sistema, en un contexto en el que la carga de trabajo judicial es cada vez mayor.\nDepender de Oracle 11g como base de datos implica no poder escalar el sistema y riesgos graves de seguridad, pues se trata de un software obsoleto y sin soporte desde diciembre de 2020, que no recibe actualizaciones de seguridad, y que expone a quien lo tiene a vulnerabilidades sin parches y a fáciles manipulaciones.\nEn un entorno judicial, esta carencia de protección es un riesgo de seguridad severo. Deja todo el sistema vulnerable a ataques y pone en riesgo la integridad de los procesos judiciales. Es este riesgo el que afecta la fiabilidad del algoritmo encargado de distribuir las demandas civiles de forma automática, pues queda abierta la posibilidad de que el sistema funcione bajo intervención externa , lo que ha sido sistemáticamente apuntado por variados actores judiciales sin obtener respuestas de la CAPJ.\nNo se trata solo de tecnología, sino también de economía, pues incrementa los costos de mantenimiento, al requerir conocimientos específicos casi agotados en el mercado laboral.\nSin soporte oficial, cualquier problema deberá ser resuelto internamente, elevando los costos de administración, fuera de los riesgos de incumplimiento en normas de ciberseguridad y protección moderna de datos. La percepción de que el sistema judicial depende de tecnología manipulable y sin protección, daña inevitablemente la credibilidad del sistema de justicia.\nDe ahí que parece muy positivo para la transparencia y la probidad pública, en momentos difíciles del Poder Judicial, que la convocatoria a esta licitación haya sido evaluada negativamente por el mercado y se haya declarado oficialmente desierta.\nEl contenido vertido en esta columna de opinión es de exclusiva responsabilidad de su autor, y no refleja necesariamente la línea editorial ni postura de El Mostrador .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Corporación Administrativa del Poder Judicial",
+        "sentiment": "none"
+      },
+      {
+        "name": "CAPJ",
+        "sentiment": "none"
+      },
+      {
+        "name": "CS",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T10:43:59.926+02:00",
+  "updated": "2024-11-15T10:43:59.926+02:00"
+}

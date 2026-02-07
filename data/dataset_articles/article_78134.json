@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "526811bc258607cb658e3a3d64d62b24eb21c43d",
+    "url": "https://www.heise.de/en/news/Docker-Desktop-Critical-vulnerability-allows-host-access-10560707.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/en",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "heise online – IT news, guides and background information | heise online",
+    "site_title": "heise online - IT-News, Nachrichten und Hintergründe | heise online",
+    "title": "Docker Desktop: Critical vulnerability allows host access | heise online",
+    "title_full": "Docker Desktop: Critical vulnerability allows host access | heise online",
+    "published": "2025-08-21T10:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/2/0/8/1/2/shutterstock_1495439420-a37ed9194dd1a89a.jpg",
+    "performance_score": 0,
+    "domain_rank": 924,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "526811bc258607cb658e3a3d64d62b24eb21c43d",
+  "url": "https://www.heise.de/en/news/Docker-Desktop-Critical-vulnerability-allows-host-access-10560707.html",
+  "ord_in_thread": 0,
+  "author": "Dirk Knop",
+  "published": "2025-08-21T10:39:00.000+03:00",
+  "title": "Docker Desktop: Critical vulnerability allows host access | heise online",
+  "text": "In the container software Docker Desktop, attackers can access the Docker engine and subsequently the file system of the host system from malicious containers. Updated software is available to close the security gap.\nAnzeige In the release announcement, Docker summarizes succinctly: Malicious containers running in Docker Desktop can access the Docker engine and launch additional containers without the need for the Docker socket to be mounted. This can allow unauthorized access to user files in the host system, Enhanced Container Isolation (ECI) does nothing against this vulnerability (CVE-2025-9074 / EUVD-2025-25308 , CVSS 9.3 , risk \"critical \").\nThe vulnerability report itself goes into more detail. Locally running Linux containers can reach the Docker Engine API via the configured subnet, by default at 192.168.65.7:2375. The vulnerability occurs regardless of whether Enhanced Container Isolation (ECI) is enabled or how the option \"Expose daemon on tcp://localhost:2375 without TLS\" has been configured. This allows a number of privileged commands to be executed to the Docker Engine API, including controlling other containers, creating new containers, managing images and so on. In some circumstances, such as when running Docker Desktop for Windows with WSL backend, this also allows mounting the host drive with the privileges of the user account running Docker Desktop.\nSecurity gap closed with update To prevent this, IT managers should update to Docker Desktop 4.44.3 or newer. The developers have ironed out the security-relevant bugs.\nVideos by heise\nmehr Videos\nThe updated Docker packages are available to download directly:\nAnzeige At the end of April, Docker released an update for Docker Desktop for Windows . In it, the programmers closed a vulnerability classified as high-risk, which allowed attackers to extend their rights.\n( dmk )\nDon't miss any news – follow us on Facebook , LinkedIn or Mastodon .\nThis article was originally published in German . It was translated with technical assistance and editorially reviewed before publication.\nDieser Link ist leider nicht mehr gültig. Links zu verschenkten Artikeln werden ungültig, wenn diese älter als 7 Tage sind oder zu oft aufgerufen wurden.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://euvd.enisa.europa.eu/vulnerability/EUVD-2025-25308",
+    "https://www.linkedin.com/company/104691972",
+    "https://docs.docker.com/desktop/release-notes/#4443",
+    "https://www.facebook.com/heiseonlineEnglish",
+    "https://facebook.com/heiseonlineEnglish",
+    "https://www.euvd.enisa.europa.eu/vulnerability/EUVD-2025-25308",
+    "https://linkedin.com/company/104691972",
+    "https://www.docs.docker.com/desktop/release-notes/#4443"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:29:32.644+03:00",
+  "updated": "2025-08-21T11:34:17.000+03:00"
+}

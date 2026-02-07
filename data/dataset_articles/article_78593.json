@@ -1,0 +1,159 @@
+{
+  "thread": {
+    "uuid": "d64c02b4ec8c06db11a1fc0f34b97e158fb15a98",
+    "url": "https://www.news.de/technik/858878248/mozilla-firefox-und-thunderbird-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-iphoneos-und-linux-vom-20-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "IT-Sicherheit: iPhoneOS, Linux und UNIX gefährdet - IT-Sicherheitslücke bei Mozilla Firefox und Thunderbird mit hohem Risiko! Warnung erhält Update",
+    "title_full": "IT-Sicherheit: iPhoneOS, Linux und UNIX gefährdet - IT-Sicherheitslücke bei Mozilla Firefox und Thunderbird mit hohem Risiko! Warnung erhält Update",
+    "published": "2025-08-21T12:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771901/images/5c/63/fa532b1c398f3d78d84967085ec3/nopic/no_pic/1200/675/1/1/-/4/1024/576/-/-/fuer-mozilla-it-sicherheitshinweis-symbolbild_857771901_1200x675_0f658d005f20551b9ec8321df418eac0.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d64c02b4ec8c06db11a1fc0f34b97e158fb15a98",
+  "url": "https://www.news.de/technik/858878248/mozilla-firefox-und-thunderbird-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-iphoneos-und-linux-vom-20-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:36:00.000+03:00",
+  "title": "IT-Sicherheit: iPhoneOS, Linux und UNIX gefährdet - IT-Sicherheitslücke bei Mozilla Firefox und Thunderbird mit hohem Risiko! Warnung erhält Update",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 19.08.2025 eine Sicherheitswarnung für Mozilla Firefox und Thunderbird gemeldet. Es sind mehrere Schwachstellen bezüglich der Anwendung dieser Software entdeckt worden, die einen Angriff ermöglichen. Betroffen von der Sicherheitslücke sind die Betriebssysteme iPhoneOS, Linux, UNIX und Windows sowie die Produkte Debian Linux, Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird. Die folgende Warnung wurde zuletzt am 20.08.2025 aktualisiert.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: Debian Security Advisory DSA-5980 (Stand: 20.08.2025). Weitere nützliche Links werden weiter unten in diesem Artikel aufgeführt.\nMehrere Schwachstellen für Mozilla Firefox und Thunderbird gemeldet - Risiko: hoch\nRisikostufe: 4 (hoch)\nCVSS Base Score: 8,8\nCVSS Temporal Score: 7,7\nRemoteangriff: Ja\nZur Einschätzung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Kriterien miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Der Temporal Score berücksichtigt darüber hinaus zeitliche Veränderungen hinsichtlich der Gefahrenlage. Das Risiko der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 8,8 als \"hoch\" eingestuft.\nMozilla Firefox und Thunderbird Bug: Auswirkungen eines IT-Angriffs\nFirefox ist ein Open Source Web Browser. ESR ist die Variante mit verlängertem Support.Thunderbird ist ein Open Source E-Mail Client.\nEin Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Daten zu manipulieren, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.\nDie Verwundbarkeit wird mit den individuellen CVE-Seriennummern (Common Vulnerabilities and Exposures) CVE-2025-55028, CVE-2025-55029, CVE-2025-55030, CVE-2025-55031, CVE-2025-55032, CVE-2025-55033, CVE-2025-9179, CVE-2025-9180, CVE-2025-9181, CVE-2025-9182, CVE-2025-9183, CVE-2025-9184, CVE-2025-9185, CVE-2025-9186 und CVE-2025-9187 gehandelt.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssysteme\niPhoneOS, Linux, UNIX, Windows\nProdukte\nDebian Linux (cpe:/o:debian:debian_linux)\nMozilla Firefox <142 (cpe:/a:mozilla:firefox)\nMozilla Firefox 142 (cpe:/a:mozilla:firefox)\nMozilla Firefox ESR <115.27 (cpe:/a:mozilla:firefox_esr)\nMozilla Firefox ESR 115.27 (cpe:/a:mozilla:firefox_esr)\nMozilla Firefox ESR <128.14 (cpe:/a:mozilla:firefox_esr)\nMozilla Firefox ESR 128.14 (cpe:/a:mozilla:firefox_esr)\nMozilla Firefox ESR <140.2 (cpe:/a:mozilla:firefox_esr)\nMozilla Firefox ESR 140.2 (cpe:/a:mozilla:firefox_esr)\nMozilla Thunderbird <142 (cpe:/a:mozilla:thunderbird)\nMozilla Thunderbird 142 (cpe:/a:mozilla:thunderbird)\nMozilla Firefox iOS <142 (cpe:/a:mozilla:firefox)\nMozilla Firefox iOS 142 (cpe:/a:mozilla:firefox)\nMozilla Thunderbird <128.14 (cpe:/a:mozilla:thunderbird)\nMozilla Thunderbird 128.14 (cpe:/a:mozilla:thunderbird)\nMozilla Thunderbird <140.2 (cpe:/a:mozilla:thunderbird)\nMozilla Thunderbird 140.2 (cpe:/a:mozilla:thunderbird)\nAllgemeine Maßnahmen zum Umgang mit IT-Sicherheitslücken\n- Anwender der betroffenen Systeme sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten neue Sicherheitsupdates verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten regelmäßig prüfen, wann der von der\nIT-Sicherheitswarnungbetroffene Hersteller ein neues Sicherheitsupdate zur Verfügung stellt.\nHersteller-Informationen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nDebian Security Advisory DSA-5980 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://lists.debian.org/debian-security-announce/2025/msg00144.html\nMFSA 2025-72 Security Vulnerabilities fixed in Thunderbird 140.2 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2025-72/\nMFSA 2025-71 Security Vulnerabilities fixed in Thunderbird 128.14 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2025-71/\nMFSA 2025-70 Security Vulnerabilities fixed in Thunderbird 142 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2025-70/\nMFSA 2025-69 Security Vulnerabilities fixed in Focus for iOS 142 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2025-69/\nMFSA 2025-68 Security Vulnerabilities fixed in Firefox for iOS 142 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2025-68/\nMFSA 2025-67 Security Vulnerabilities fixed in Firefox ESR 140.2 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2025-67/\nMFSA 2025-66 Security Vulnerabilities fixed in Firefox ESR 128.14 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2025-66/\nMFSA 2025-65 Security Vulnerabilities fixed in Firefox ESR 115.27 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2025-65/\nMFSA 2025-64 Security Vulnerabilities fixed in Firefox 142 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2025-64/\nVersionshistorie dieser Sicherheitswarnung\nDies ist die 2. Version des vorliegenden IT-Sicherheitshinweises für Mozilla Firefox und Thunderbird. Sollten weitere Updates bekanntgegeben werden, wird dieser Text aktualisiert. Änderungen oder Ergänzungen können Sie in dieser Versionshistorie nachlesen.\n19.08.2025 - Initiale Fassung\n20.08.2025 - Neue Updates von Debian aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific standards",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-67/",
+    "https://www.facebook.com/News.de",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-71/",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-72/",
+    "https://twitter.com/news_de",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-70/",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://lists.debian.org/debian-security-announce/2025/msg00144.html",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-68/",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-69/",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-64/",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-65/",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-66/",
+    "https://pin.it/11NQyAf",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-72",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-70",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-71",
+    "https://mozilla.org/en-US/security/advisories/mfsa2025-72/",
+    "https://mozilla.org/en-US/security/advisories/mfsa2025-70/",
+    "https://mozilla.org/en-US/security/advisories/mfsa2025-68/",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://mozilla.org/en-US/security/advisories/mfsa2025-66/",
+    "https://www.lists.debian.org/debian-security-announce/2025/msg00144.html",
+    "https://mozilla.org/en-US/security/advisories/mfsa2025-64/",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-65",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-64",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-67",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-66",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-69",
+    "https://www.mozilla.org/en-US/security/advisories/mfsa2025-68",
+    "https://www.pin.it/11NQyAf",
+    "https://mozilla.org/en-US/security/advisories/mfsa2025-71/",
+    "https://mozilla.org/en-US/security/advisories/mfsa2025-69/",
+    "https://facebook.com/News.de",
+    "https://www.twitter.com/news_de",
+    "https://mozilla.org/en-US/security/advisories/mfsa2025-67/",
+    "https://mozilla.org/en-US/security/advisories/mfsa2025-65/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "BSI",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Thunderbird",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "UNIX",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:34.487+03:00",
+  "updated": "2025-08-21T13:14:38.000+03:00"
+}

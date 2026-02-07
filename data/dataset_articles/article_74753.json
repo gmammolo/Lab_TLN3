@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "3d3a85bfa784c4f394b7ca8a8b75ed867f52158e",
+    "url": "https://securityboulevard.com/2024/11/api-insecurity-the-hidden-risk-of-black-friday",
+    "site_full": "securityboulevard.com",
+    "site": "securityboulevard.com",
+    "site_section": "https://www.securityboulevard.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Home - Security Boulevard",
+    "title": "API (In)security: The Hidden Risk of Black Friday",
+    "title_full": "API (In)security: The Hidden Risk of Black Friday",
+    "published": "2024-11-21T14:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10425,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3d3a85bfa784c4f394b7ca8a8b75ed867f52158e",
+  "url": "https://securityboulevard.com/2024/11/api-insecurity-the-hidden-risk-of-black-friday",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Eric Schwake",
+  "published": "2024-11-21T14:00:00.000+02:00",
+  "title": "API (In)security: The Hidden Risk of Black Friday",
+  "text": "Black Friday may be the pinnacle of the holiday shopping season, a day when online retailers experience unprecedented traffic and revenue opportunities as consumers kick off the Christmas season. For many retailers, it’s a make-or-break event. Yet, with increased traffic comes increased risk, particularly as it relates to cybersecurity and keeping shoppers safe from fraud stemming from a cyberattack on their favorite digital store. An area often overlooked in the frenzy to prepare for this critical shopping day is API security.\nAPIs (Application Programming Interfaces) serve as the facilitator of modern e-commerce operations, connecting mobile apps, websites, and backend systems to enable seamless shopping experiences. Retailers are particularly vulnerable as they rely heavily on APIs to handle user authentication, manage inventories, facilitate payment processing, and integrate third-party services like logistics or marketing tools. A compromised API can lead to significant losses, from leaked customer data to financial fraud and disrupted operations.\nWhile APIs offer unparalleled convenience and scalability, they also present a lucrative attack vector for cybercriminals. There’s no doubt that neglecting API security during Black Friday preparations could have possibly disastrous consequences for retailers.\nSecurity vs. Speed The harsh reality is that, for many organizations, application security posture takes a back seat to the need to develop and deploy quickly. As Black Friday approaches, the pressure to deliver new features, scale infrastructure, and ensure uptime often leads to shortcuts in security practices.\nWhile speed-to-market is essential, failing to prioritize security can lead to devastating breaches. Cybercriminals are well aware of the vulnerabilities created by this rush and often exploit them during high-traffic events. For example, APIs without proper authentication or rate-limiting mechanisms can be targeted for account takeovers, data theft, or denial-of-service attacks. All of which can be detrimental if you’re an online retailer during the busiest shopping day of the year.\nAnd the stakes are high. The consequences of an API breach during Black Friday can be severe. A successful attack can lead to revenue loss, customer trust erosion and operational disruption which can be difficult to recover from.\nCommon API Security Pitfalls Retailers must recognize and address the security deficiencies that can arise at every stage of API development and deployment, including:\nDevelopment Errors: Insecure coding practices, such as hardcoding sensitive credentials or failing to sanitize inputs, can leave APIs vulnerable to attacks like SQL injection or cross-site scripting. Inadequate Architecture Designs: Poorly designed APIs may expose unnecessary endpoints or fail to implement the principle of least privilege, increasing the attack surface. Misconfigurations: Misconfigured access controls, encryption settings, or logging mechanisms can inadvertently open the door to unauthorized users or make it difficult to detect malicious activity. Lack of Runtime Protections: APIs deployed in production without adequate defense mechanisms, such as firewalls or anomaly detection systems, are sitting ducks for opportunistic attackers. Posture Governance: The Missing Piece A well-thought-out API posture governance program is critical to ensuring security without sacrificing agility. Such a program aligns developers, architects, and DevSecOps teams with regulatory compliance, best practices, and corporate standards throughout the application lifecycle. Unfortunately, many organizations still lack this maturity in their security strategies.\nRecent security incidents, such as Peleton and T-Mobile , have revealed significant gaps in posture governance. Many retailers have embraced modernization and microservices architectures without embedding proper security controls into their development lifecycles. In some cases, they haven’t even documented corporate security posture standards. This lack of foresight leaves organizations scrambling to backtrack and address vulnerabilities, often with limited time before critical events like Black Friday.\nEmbedding Security Without Compromising Innovation The challenge for retailers is to embed security posture controls into their application lifecycles without stifling innovation. This requires a proactive approach that includes:\nAutomated Security Testing: Integrating tools for API vulnerability scanning and penetration testing into CI/CD pipelines ensures that security issues are identified and addressed early. Continuous Monitoring: Real-time monitoring of API traffic can help detect and mitigate threats before they escalate. Education and Collaboration: Ensuring that all stakeholders, from developers to executives, understand the importance of API security fosters a culture of shared responsibility. For online retailers, Black Friday represents both a lucrative opportunity and a significant cybersecurity challenge. APIs, while critical for enabling scalable and efficient e-commerce operations, also present a prime target for attackers if not properly secured. By prioritizing API security and adopting robust posture governance practices, retailers can safeguard their systems, protect customer trust, and ensure a successful shopping season. After all, the cost of prevention is always less than the price of recovery.\nTo find out how Salt can help you prioritize your riskiest APIs, get in touch to schedule a demo .\n‍\n*** This is a Security Bloggers Network syndicated blog from Salt Security blog authored by Eric Schwake . Read the original post at: https://salt.security/blog/api-in-security-the-hidden-risk-of-black-friday",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://content.salt.security/request-demo.html?_gl=1*eh8pwa*_ga*MTQwNTkxNjE1Ni4xNzE4MjAyNzI3*_ga_DVMFZZZWP4*MTczMjAyMjI2NC4yOS4xLjE3MzIwMjUwMzEuNTQuMC42OTMwMDExOTM.",
+    "https://salt.security",
+    "https://salt.security/blog/t-mobile-api-breach-what-went-wrong",
+    "https://salt.security/blog/the-peloton-api-security-incident-what-happened-and-how-you-can-protect-yourself",
+    "https://salt.security/use-cases/api-posture-management",
+    "https://salt.security/blog/api-in-security-the-hidden-risk-of-black-friday",
+    "https://salt.security/why-salt",
+    "https://www.salt.security/blog/the-peloton-api-security-incident-what-happened-and-how-you-can-protect-yourself",
+    "https://www.content.salt.security/request-demo.html?_gl=1*eh8pwa*_ga*MTQwNTkxNjE1Ni4xNzE4MjAyNzI3*_ga_DVMFZZZWP4*MTczMjAyMjI2NC4yOS4xLjE3MzIwMjUwMzEuNTQuMC42OTMwMDExOTM.",
+    "https://www.salt.security",
+    "https://www.salt.security/blog/t-mobile-api-breach-what-went-wrong",
+    "https://www.salt.security/why-salt",
+    "https://www.salt.security/blog/api-in-security-the-hidden-risk-of-black-friday",
+    "https://www.salt.security/use-cases/api-posture-management",
+    "https://content.salt.security/request-demo.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T03:51:01.061+02:00",
+  "updated": "2024-11-22T03:51:01.061+02:00"
+}

@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "dba3d6839a6d7837bad3cdb638ee715dbf98f232",
+    "url": "https://www.163.com/dy/article/KHKNU1840550WHYR.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "https://news.163.com/",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "网易新闻",
+    "site_title": "网易",
+    "title": "Waymo正开发Gemini AI车载助手|谷歌|机器人|自动驾驶|知名企业|waymo|gemini_网易订阅",
+    "title_full": "Waymo正开发Gemini AI车载助手|谷歌|机器人|自动驾驶|知名企业|waymo|gemini_网易订阅",
+    "published": "2025-12-25T08:36:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 537,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dba3d6839a6d7837bad3cdb638ee715dbf98f232",
+  "url": "https://www.163.com/dy/article/KHKNU1840550WHYR.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-12-25T08:36:00.000+02:00",
+  "title": "Waymo正开发Gemini AI车载助手|谷歌|机器人|自动驾驶|知名企业|waymo|gemini_网易订阅",
+  "text": "当地时间12月24日，硅谷领军人物、知名研究员Jane Manchun Wong在社交平台X上宣布，Waymo正在测试将 谷歌（GOOGL.US） 的Gemini人工智能聊天机器人（AI chatbot）集成到其自动驾驶出租车中，旨在打造一款能够陪伴乘客并回答其问题的车载AI助手。\nWong表示，“在研究Waymo移动应用程序代码时，我发现了其尚未发布的Gemini集成的完整系统提示。这份内部名为‘Waym​​o Ride Assistant Meta-Prompt’的文档是一份超过1200行的规范，它精确定义了AI助手在Waymo车辆中的预期行为”。\n该功能尚未在公开版本中推出，但 Wong 表示，系统提示表明这“不仅仅是一个简单的聊天机器人”。据悉，该助手能够回答问题、管理车内某些功能（例如空调控制），并在必要时安抚乘客。\nWaymo发言人Julia Ilina向TechCrunch表示：“虽然目前没有细节可以透露，但我们的团队一直在不断改进各项功能，力求让Waymo的出行体验更加愉悦、流畅和便捷。其中一些功能最终可能会应用到我们的乘客体验中，也可能不会。”\n事实上，这并非Gemini首次被整合进这家Alphabet旗下自动驾驶公司的技术体系。Waymo表示，曾利用Gemini的“世界知识”训练其自动驾驶车辆应对复杂、罕见且高风险的场景。\n公开资料显示，Waymo是一家研发自动驾驶汽车的公司，为 Alphabet（Google母公司）旗下的子公司。Waymo刚开始是Google于2009年开启的一项自动驾驶汽车计划，之后于2016年12月才由Google独立出来，成为Alphabet公司旗下的子公司。\nWaymo并非唯一一家将人工智能助手集成到无人驾驶汽车中的公司。 特斯拉（TSLA.US） 也正在做类似的事情，其推出了xAI的Grok。不过，这两款不同的车载助手功能各有不同。Gemini更注重实用性和驾驶体验，而Grok则更像是车内伙伴，能够进行长时间的对话，并记住之前问题的上下文。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T08:54:15.528+02:00",
+  "updated": "2025-12-26T09:08:25.000+02:00"
+}

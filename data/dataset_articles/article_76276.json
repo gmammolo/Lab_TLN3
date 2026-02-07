@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "af0c8612c69a281b421e7a17384a3e017ef11641",
+    "url": "https://www.semana.com/tecnologia/articulo/ante-un-ciberataque-que-buscaba-robar-cuentas-comerciales-de-facebook-expertos-recomiendan-como-protegerse/202545",
+    "site_full": "www.semana.com",
+    "site": "semana.com",
+    "site_section": "https://www.semana.com/",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_cl",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Semana.com -  Últimas Noticias de Colombia y el Mundo",
+    "title": "Ante un ciberataque que buscaba robar cuentas comerciales de Facebook, expertos recomiendan cómo protegerse - Semana",
+    "title_full": "Ante un ciberataque que buscaba robar cuentas comerciales de Facebook, expertos recomiendan cómo protegerse - Semana",
+    "published": "2025-01-09T23:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://www.semana.com/resizer/v2/Z622O2YKN5C37BZWH6OLE3MYVA.jpg?auth=c12cb810311286a235cb26a0503eef5870198864f2487d5295748457c64cfe6c&amp;smart=true&amp;quality=75&amp;width=1280&amp;height=720",
+    "performance_score": 0,
+    "domain_rank": 5746,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "af0c8612c69a281b421e7a17384a3e017ef11641",
+  "url": "https://www.semana.com/tecnologia/articulo/ante-un-ciberataque-que-buscaba-robar-cuentas-comerciales-de-facebook-expertos-recomiendan-como-protegerse/202545",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Redacción Tecnología",
+  "published": "2025-01-09T23:06:00.000+02:00",
+  "title": "Ante un ciberataque que buscaba robar cuentas comerciales de Facebook, expertos recomiendan cómo protegerse - Semana",
+  "text": "Un reciente ciberataque ha generado preocupación sobre la seguridad de las cuentas comerciales de Facebook , afectando tanto a usuarios como a empresas que utilizan esta red social para sus estrategias de marketing digital. A continuación, se detallan los principales aspectos del ataque, la respuesta de los expertos y las medidas preventivas recomendadas.Extensiones de Chrome comprometidas y el objetivo de las cuentas comercialesFacebook sigue siendo una herramienta esencial para muchas compañías y micronegocios. Esto la convierte en un blanco atractivo para los ciberdelincuentes.La empresa de ciberseguridad Cyberhaven identificó que el ataque se realizó mediante extensiones maliciosas de Chrome, diseñadas para recopilar información sensible de los usuarios.El análisis inicial del ataque indica que fue parte de una campaña más amplia que apuntaba a desarrolladores de extensiones de Chrome. Según los expertos, las extensiones comprometidas activaban un flujo malicioso cuando los usuarios accedían a Facebook.com , aprovechando la API de la plataforma para recolectar datos.“El atacante utilizó este acceso para publicar una versión maliciosa de nuestra extensión de Chrome (extensión de Chrome Cyberhaven versión 24.10.4, Hash DDF8C9C72B1B1061221A597168f9BB2C2BA09D38D7B3405E1DACE37AF1587944)” indicó el portal cyberhaven.Cronología del ataque y la respuesta de los expertosEl incidente comenzó el 24 de diciembre de 2024, cuando un ataque de phishing permitió a los ciberdelincuentes comprometer el acceso de un empleado de Cyberhaven a la tienda web de Chrome. Esto les permitió publicar una versión maliciosa de la extensión de Cyberhaven para Chrome (versión 24.10.4).El equipo de seguridad de la empresa detectó la vulnerabilidad el 25 de diciembre a las 11:54 p. m. (hora local) y eliminó el paquete malicioso en menos de una hora. Sin embargo, durante este período , las cuentas comerciales de Facebook quedaron expuestas a accesos no autorizados , lo que obligó a emitir recomendaciones para mitigar los posibles daños.Recomendaciones para mitigar los riesgos de seguridadHoward Ting, CEO de Cyberhaven, emitió una serie de recomendaciones para los usuarios potencialmente afectados por el ataque:Este incidente resalta la importancia de la ciberseguridad en redes sociales y no solo en cuentas personales sino también comerciales, especialmente en un contexto donde los ciberdelincuentes desarrollan métodos cada vez más sofisticados para vulnerar la privacidad de los usuarios y empresas.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T00:28:59.015+02:00",
+  "updated": "2025-01-10T00:28:59.015+02:00"
+}

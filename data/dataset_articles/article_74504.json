@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "012bd3e884b169ccd80d6876aae5aad20748067a",
+    "url": "https://www.helpnetsecurity.com/2024/11/15/sitting-ducks-attack",
+    "site_full": "www.helpnetsecurity.com",
+    "site": "helpnetsecurity.com",
+    "site_section": "https://www.helpnetsecurity.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cybersecurity News and Expert Analysis - Help Net Security",
+    "title": "Cybercriminals hijack DNS to build stealth attack networks",
+    "title_full": "Cybercriminals hijack DNS to build stealth attack networks",
+    "published": "2024-11-15T16:52:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6563,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "012bd3e884b169ccd80d6876aae5aad20748067a",
+  "url": "https://www.helpnetsecurity.com/2024/11/15/sitting-ducks-attack",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Help Net Security",
+  "published": "2024-11-15T16:52:00.000+02:00",
+  "title": "Cybercriminals hijack DNS to build stealth attack networks",
+  "text": "Help Net Security November 15, 2024 Share Cybercriminals hijack DNS to build stealth attack networks\nHijacking domains using a ‘Sitting Ducks attack’ remains an underrecognized topic in the cybersecurity community. Few threat researchers are familiar with this attack vector, and knowledge is scarce. However, the prevalence of these attacks and the risk to organizations are significant.\nInfoblox researchers estimate that over 1 million registered domains could be vulnerable daily.\nMore evidence found on Sitting Ducks Attacks During a Sitting Ducks attack, the malicious actor gains control of a domain by taking over its DNS configurations. Cybercriminals have used this vector since 2018 to hijack tens of thousands of domain names. Victim domains include well-known brands, non-profits, and government entities.\nInfoblox crafted a monitoring initiative after the initial paper on Sitting Ducks attacks was published in July 2024. The results are very sobering, as 800,000 vulnerable domains were identified, and about 70,000 were later identified as hijacked.\nThe Vipers and Hawks Feasting on Sitting Ducks Attacks Vacant Viper is one of the earliest known threat actors to exploit the Sitting Ducks attack and has hijacked an estimated 2,500 domains each year since December 2019. This actor uses hijacked domains to augment their malicious traffic distribution system (TDS) called 404TDS to run malicious spam operations, deliver porn, establish remote access trojan ( RAT ) C2s, and drop malware such as DarkGate and AsyncRAT.\nVacant Viper does not hijack domains for a specific brand connection but instead for domain resources with high reputations that security vendors will not block. The newly published report lists examples of attack chains showing redirection techniques used by the 404TDS and their affiliates, including how Vacant Viper uses hijacked domains in the 404TDS.\nVextrio Viper This actor has used hijacked domains as part of their massive TDS infrastructure since early 2020. Vextrio runs the most extensive known cybercriminal affiliate program, routing compromised web traffic to over 65 affiliate partners, some of whom have also stolen domains via ‘Sitting Ducks’ for their malicious activities.\nMany affiliates use a Russian antibot service to filter out bots and security researchers. The functionality of AntiBot includes the ability to set rules to block certain bot services or users based on their IP geolocation, user-agent, etc.\nHorrid Hawk and Hasty Hawk The animal designation of Hawks was given because the threat actors swoop in and hijack vulnerable domains, much like hawks dive down to snatch their prey. Infoblox has named several new actors thriving on hijacked domains.\nHorrid Hawk: A DNS threat actor that has been hijacking domains and using them for investment fraud schemes since at least February 2023. This actor is interesting because they use hijacked domains in every step of their campaigns, crafting convincing lures containing non-existent government investment programs or summits. They embed the hijacked domains in short-lived Facebook ads targeting users in over 30 languages, spanning multiple continents.\nHasty Hawk: Another threat actor discovered during our research into ‘Sitting Ducks’ hijackings. Since at least March 2022, Hasty Hawk has hijacked over 200 domains to operate widespread phishing that primarily spoof DHL shipping pages and fake donation sites to support Ukraine.\nThe actor exploits many providers, often reconfiguring hijacked domains to host content on Russian IPs. Hasty Hawk uses Google ads and other means, such as spam messages, to distribute malicious content. They also use a TDS to route users to different webpages that vary in content and language depending on their geolocation and other user characteristics. Hasty Hawk switches some of their domains back and forth between various campaign themes.\nMore about attacks cybercrime DNS hijacking Infoblox report Share",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://en.wikipedia.org/wiki/Remote_desktop_software#RAT",
+    "https://www.en.wikipedia.org/wiki/Remote_desktop_software#RAT"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Sitting Ducks",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "012bd3e884b169ccd80d6876aae5aad20748067a",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:18:29.399+02:00",
+  "updated": "2024-11-15T18:12:15.483+02:00"
+}

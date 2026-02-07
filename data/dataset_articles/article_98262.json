@@ -1,0 +1,142 @@
+{
+  "thread": {
+    "uuid": "e209698676d3401ee3f8f6b1ac1ef6ba4f9dd3e3",
+    "url": "https://www.areanapoli.it/coppe/l-atletico-batte-l-inter-e-parte-il-coro-dei-napoletani-la-reazione-di-raspadori_613848.html",
+    "site_full": "www.areanapoli.it",
+    "site": "areanapoli.it",
+    "site_section": "https://www.areanapoli.it/rss/rss.xml",
+    "site_categories": [
+      "world_soccer",
+      "sports"
+    ],
+    "section_title": "AreaNapoli.it - Notizie sul Calcio Napoli",
+    "site_title": "Calcio Napoli, notizie su AreaNapoli.it",
+    "title": "L'Atletico batte l'Inter e parte il coro dei \"napoletani\", la reazione di Raspadori",
+    "title_full": "L'Atletico batte l'Inter e parte il coro dei \"napoletani\", la reazione di Raspadori",
+    "published": "2025-11-27T00:09:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://cdn.areanapoli.it/immagini/notizie/big/r/raspadori_atletico_madrid_2.jpg",
+    "performance_score": 0,
+    "domain_rank": 22764,
+    "domain_rank_updated": "2025-11-23T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e209698676d3401ee3f8f6b1ac1ef6ba4f9dd3e3",
+  "url": "https://www.areanapoli.it/coppe/l-atletico-batte-l-inter-e-parte-il-coro-dei-napoletani-la-reazione-di-raspadori_613848.html",
+  "ord_in_thread": 0,
+  "author": "AreaNapoli.it",
+  "published": "2025-11-27T00:09:00.000+02:00",
+  "title": "L'Atletico batte l'Inter e parte il coro dei \"napoletani\", la reazione di Raspadori",
+  "text": "L'Atletico batte l'Inter e parte il coro dei \"napoletani\", la reazione di Raspadori\nL'Atletico Madrid ha battuto l'Inter negli ultimi minuti della gara di Champions League. Grande festa a fine partita allo stadio Metropolitano.\nCoppe\nVittoria importante dell'Atletico Madrid contro l'Inter in Champions League. A condannare i nerazzurri è un colpo di testa di Gimenez al 93', quando il risultato sembrava ormai congelato. Successo pesante per la compagine allenata da mister Diego Simeone.\nL'Atletico batte l'Inter, festa allo stadio\nBuon avvio dei nerazzurri (doppia occasione per Dimarco), ma sono i Colchoneros a passare al 9' con una zampata di Julian Alvarez: l'arbitro non convalida ma torna sui suoi passi non ravvisando un fallo di mano di Baena. Al 54' Zielinski scambia con Bonny e trova il meritato pareggio prima della beffa finale. Al fischio finale è scoppiata la festa dei giocatori in campo e dei tifosi dell'Atletico Madrid sugli spalti.\nIl coro dei tifosi dell'Atletico\nCome dimostrano le immagini televisive i tifosi dell'Atletico Madrid dagli spalti dello stadio hanno sollevato il ritornello tanto caro ai napoletani: \"Alè, alè, alèeeee\", sulle note di un \"Estate sta finendo\" dei Righeira, che poi è stato trasformato dai napoletani in \"un giorno all'improvviso\" e dagli spagnoli in un coro con parole simili, ma diverse.\nLa reazione di Raspadori\nGiacomo Raspadori, ex attaccante del Napoli, si è unito ai compagni dell'Atletico Madrid cantando e ballando per la gioia.\n| Roma | 27 |\n| Milan | 25 |\n| Napoli | 25 |\n| Bologna | 24 |\n| Inter | 24 |\n| Como | 21 |\n| Juventus | 20 |\n| Lazio | 18 |\n| Sassuolo | 17 |\n| Udinese | 15 |\n| Cremonese | 14 |\n| Torino | 14 |\n| Atalanta | 13 |\n| Cagliari | 11 |\n| Parma | 11 |\n| Pisa | 10 |\n| Lecce | 10 |\n| Genoa | 8 |\n| Fiorentina | 6 |\n| Verona | 6 |",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": [
+    "Sport"
+  ],
+  "topics": [
+    "Sport->soccer",
+    "Sport->sport event"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Julian Alvarez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Diego Simeone",
+        "sentiment": "none"
+      },
+      {
+        "name": "Gimenez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bonny",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "stadio Metropolitano",
+        "sentiment": "none"
+      },
+      {
+        "name": "Baena",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Inter",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "INTR",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Atletico\nCome",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Atletico Madrid",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-27T08:22:26.593+02:00",
+  "updated": "2025-11-27T08:23:23.000+02:00"
+}

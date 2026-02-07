@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "527cbe3690dc839d37f981b7dfec72aa648b44bb",
+    "url": "https://duckdb.org/2024/12/16/github-25k-stars.html",
+    "site_full": "duckdb.org",
+    "site": "duckdb.org",
+    "site_section": "http://duckdb.org/feed",
+    "site_categories": [],
+    "section_title": "DuckDB",
+    "site_title": null,
+    "title": "25 000 Stars on GitHub",
+    "title_full": "25 000 Stars on GitHub",
+    "published": "2025-02-27T23:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://duckdb.org/images/blog/thumbs/github-25k-stars.png",
+    "performance_score": 0,
+    "domain_rank": 60319,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "527cbe3690dc839d37f981b7dfec72aa648b44bb",
+  "url": "https://duckdb.org/2024/12/16/github-25k-stars.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "The DuckDB team",
+  "published": "2025-02-27T23:25:00.000+02:00",
+  "title": "25 000 Stars on GitHub",
+  "text": "25 000 Stars on GitHub\nTL;DR: We have recently reached 25 000 stars on GitHub. We would like to use this occasion to stop and reflect about DuckDB's recent year and our future plans.\nOur GitHub repository has just passed 25,000 stars. This is great news and since it is also the end of the year it is a good moment to reflect on DuckDB’s trajectory. There has been a lot of new and exciting adoption of DuckDB across the industry.\nWe would like to highlight two main events that have happened this year:\n- We\nreleased DuckDB 1.0.0. This version introduced a stable storage format which guaranteesbackwards compatibility and limited forward compatibility. - We started the\nDuckDB Community Extensions project. Community extensions allow developers to contribute packages to DuckDB and users to easily install these extensions using the simple commandINSTALL xyz FROM community\n.\nBesides the GitHub stars we have also observed a lot of growth in various metrics.\n- Each month, our website handles over 1.5 million unique visitors. In addition, we see over 300 TB in traffic from ca. 30 million extension downloads. Thanks again to Cloudflare for\nsponsoring the projectwith free content delivery services! - In one year, we rose in the\nDB Engines rankingfrom position 91 to 55 on the general board and from position 47 to 33 in therelational board, which makes DuckDB the fastest growing relational system in the top-50. - We count\n7.5M+ monthly downloads in PyPI. - Maven Central downloads for the JDBC driver have also shot up, we now see over 500k+ downloads per month.\nWe should note that we’re not glorifying those numbers and they are not a target per se for our much-beloved optimization in accordance with Goodhart’s law. Still, they are just motivating to see grow.\nAs an aside, we have recently opened a Bluesky account and are seeing great discussions happening over there. The account has already exceeded 4 thousand followers!\nFollowing our ancient two-year tradition, we hosted two DuckCon events, one in Amsterdam and another in Seattle. We also organized the first DuckDB Amsterdam Meetup.\nEarly next year, we are going to host DuckCon in Amsterdam, which is going to be the first event that we live stream in order to be more accessible to the growing DuckDB users in, e.g., Asia.\nBut for now, let’s sit around the syntax tree and be merry thinking about what’s to come.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->financial service",
+    "Social Issue->social networking",
+    "Social Issue->communities",
+    "Social Issue->children"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://db-engines.com/en/ranking",
+    "https://github.com/duckdb/duckdb",
+    "https://db-engines.com/en/ranking/relational+dbms",
+    "https://bsky.app/profile/duckdb.org",
+    "https://pypistats.org/packages/duckdb",
+    "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+    "https://www.pypistats.org/packages/duckdb",
+    "https://www.db-engines.com/en/ranking/relational+dbms",
+    "https://www.github.com/duckdb/duckdb",
+    "https://www.bsky.app/profile/duckdb.org",
+    "https://www.en.wikipedia.org/wiki/Goodhart%27s_law",
+    "https://www.db-engines.com/en/ranking"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:34:59.691+02:00",
+  "updated": "2025-02-28T00:34:59.691+02:00"
+}

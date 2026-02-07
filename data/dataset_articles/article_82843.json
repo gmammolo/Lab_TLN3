@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "60f86e6208d96ec99d4977744e11b916611d79c5",
+    "url": "https://tiinside.com.br/27/02/2025/aws-anuncia-um-novo-chip-de-computacao-quantica",
+    "site_full": "tiinside.com.br",
+    "site": "tiinside.com.br",
+    "site_section": "https://www.tiinside.com.br",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Home | TI INSIDE Online",
+    "site_title": null,
+    "title": "AWS anuncia novo chip de computação quântica",
+    "title_full": "AWS anuncia novo chip de computação quântica",
+    "published": "2025-02-27T22:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 75460,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "60f86e6208d96ec99d4977744e11b916611d79c5",
+  "url": "https://tiinside.com.br/27/02/2025/aws-anuncia-um-novo-chip-de-computacao-quantica",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Redação",
+  "published": "2025-02-27T22:04:00.000+02:00",
+  "title": "AWS anuncia novo chip de computação quântica",
+  "text": "Nesta quinta-feira,27, a Amazon Web Services (AWS) anunciou o Ocelot, novo chip de computação quântica capaz de corrigir erros desde o início, usando oscilações elétricas para armazenar dados de uma maneira menos suscetível a perturbações e erros conhecidos por impedir a computação quântica completa.\nDesenvolvido pela equipe do AWS Center for Quantum Computing no California Institute of Technology, o Ocelot representa um avanço na busca pela construção de computadores quânticos tolerantes a falhas, capazes de resolver problemas de importância comercial e científica que estão além do alcance dos computadores convencionais de hoje.\nA AWS usou um design inovador para a arquitetura do Ocelot, construindo a correção de erros do zero e usando o 'cat qubit'. Os cat qubits — nomeados em homenagem ao famoso experimento mental do gato de Schrödinger — suprimem intrinsecamente certas formas de erros, reduzindo os recursos necessários para a correção quântica de erros. Por meio dessa nova abordagem com o Ocelot, os pesquisadores da AWS combinaram, pela primeira vez, a tecnologia cat qubit e componentes adicionais de correção quântica de erros em um microchip que pode ser fabricado de forma escalável usando processos emprestados da indústria de microeletrônica.\nA história mostra que avanços importantes na computação foram feitos ao repensar fundamentalmente os componentes de hardware, pois isso pode ter um impacto significativo no custo, desempenho e até mesmo na viabilidade de uma nova tecnologia. A revolução do computador realmente decolou quando o transistor substituiu o tubo de vácuo, permitindo que computadores do tamanho de uma sala fossem reduzidos aos laptops compactos e muito mais poderosos, confiáveis e de baixo custo de hoje. Escolher o bloco de construção certo para escalar é crítico, e o anúncio de hoje representa um passo importante no desenvolvimento de meios eficientes para escalar para computadores quânticos práticos e tolerantes a falhas.\n\"Com os recentes avanços na pesquisa quântica, não é mais uma questão de se, mas quando computadores quânticos práticos e tolerantes a falhas estarão disponíveis para aplicações do mundo real. Ocelot é um passo importante nessa jornada\", disse Oskar Painter, diretor de Quantum Hardware da AWS. \"No futuro, chips quânticos construídos de acordo com a arquitetura Ocelot podem custar apenas um quinto das abordagens atuais, devido ao número drasticamente reduzido de recursos necessários para correção de erros. Concretamente, acreditamos que isso acelerará nosso cronograma para um computador quântico prático em até cinco anos.\"\nPesquisadores da AWS publicaram suas descobertas em um artigo de pesquisa revisado por pares na Nature. Você também pode ler um artigo mais técnico sobre o Ocelot no site da Amazon Science.\nO maior desafio da computação quântica\nUm dos maiores desafios com computadores quânticos é que eles são incrivelmente sensíveis às menores mudanças, ou \"ruído\" em seu ambiente. Vibrações, calor, interferência eletromagnética de celulares e redes Wi-Fi, ou mesmo raios cósmicos e radiação do espaço sideral, podem tirar qubits de seu estado quântico, causando erros na computação quântica que está sendo realizada. Isso historicamente tornou extremamente desafiador construir computadores quânticos que podem executar cálculos confiáveis e sem erros de qualquer complexidade significativa. \"O maior desafio não é apenas construir mais qubits\", disse Painter. \"É fazê-los funcionar de forma confiável.\"\nPara resolver esse problema, os computadores quânticos dependem da correção quântica de erros que usa codificações especiais de informações quânticas em vários qubits — na forma de qubits 'lógicos' — para proteger as informações quânticas do ambiente. Isso também permite a detecção e a correção de erros conforme eles ocorrem. Infelizmente, dado o grande número de qubits necessários para obter resultados precisos, as abordagens atuais para a correção quântica de erros têm um custo enorme e, portanto, proibitivo.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->products and services",
+    "Social Issue->social services",
+    "Social Issue->values",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.youtube.com/embed/CgcjHOS8e-M?start=2&#038;feature=oembed",
+    "https://youtube.com/embed/CgcjHOS8e-M?start=2&#038;feature=oembed",
+    "https://www.youtube.com/embed/CgcjHOS8e-M"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:02:13.094+02:00",
+  "updated": "2025-02-28T00:02:13.094+02:00"
+}

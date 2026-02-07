@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "a457b2a087cecbc783878e45748a1e28addf74fd",
+    "url": "https://cen.acs.org/pharmaceuticals/drug-discovery/Redesigned-drug-boost-lung-healing/102/web/2024/04?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+    "site_full": "cen.acs.org",
+    "site": "acs.org",
+    "site_section": "https://cen.acs.org/feeds/rss/latestnews.xml",
+    "site_categories": [
+      "science",
+      "chemistry"
+    ],
+    "section_title": "Chemical & Engineering News: Latest News",
+    "title": "Redesigned drug could boost lung healing",
+    "title_full": "Redesigned drug could boost lung healing",
+    "published": "2024-04-12T00:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://s7d1.scene7.com/is/image/CENODS/20240411lnp1-structure?$responsive$&amp;wid=700&amp;qlt=90,0&amp;resMode=sharp2",
+    "performance_score": 0,
+    "domain_rank": 422,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a457b2a087cecbc783878e45748a1e28addf74fd",
+  "url": "https://cen.acs.org/pharmaceuticals/drug-discovery/Redesigned-drug-boost-lung-healing/102/web/2024/04?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Laurel Oldach",
+  "published": "2024-04-12T00:25:00.000+03:00",
+  "title": "Redesigned drug could boost lung healing",
+  "text": "As we age, it becomes harder to heal from injuries, in part because stem cells throughout the body lose their regenerative oomph. Scientists at Scripps Research reported this week on a molecule that coaxes stem cells in the lung to grow by blocking a protein better known for its role in diabetes (Proc. Nat. Acad. Sci. U.S.A. 2024, DOI:\n10.1073/pnas.2400077121).\nWhile screening for drugs that could encourage the proliferation of lung epithelial stem cells from a 68-year-old donor, researchers led by chemical biologist Michael Bollong and chemist\nPeter Schultz came across a group of diabetes drugs called gliptins that gave the cells a dramatic boost.\nGliptins block the enzyme dipeptidyl peptidase 4 (DPP-4), which contributes to the breakdown of signaling peptides. The drugs can help with diabetes by making metabolic hormones linger longer. The researchers found that gliptins also promote the growth of stem cells, but not other cells, in the lung.They traced the effect to two peptide growth factors that lung stem cells appear to rely on to multiply without differentiating.\nGliptin treatment sped up recovery in several mouse models of lung injury. But these oral drugs do not easily enter the organ; researchers had to use very high doses, which made repurposing current gliptins for lung disease unfeasible.\n“Luckily for us, there have been quite a few gliptins described in the literature,” and their interactions with DPP-4 are well understood, Bollong says. The team added functional groups to reconfigure one gliptin, lowering its permeability to allow it to be delivered by nebulizer and retained in the lung. Starting later this year, the researchers plan to test a further-optimized molecule, whose structure is undisclosed, in clinical trials of idiopathic pulmonary fibrosis.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health"
+  ],
+  "external_links": [
+    "http://www.dx.doi.org/10.1073/pnas.2400077121",
+    "http://dx.doi.org/10.1073/pnas.2400077121"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "nat",
+        "sentiment": "none"
+      },
+      {
+        "name": "peter schultz",
+        "sentiment": "none"
+      },
+      {
+        "name": "doi",
+        "sentiment": "none"
+      },
+      {
+        "name": "michael bollong",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpp",
+        "sentiment": "none"
+      },
+      {
+        "name": "scripps research",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T01:17:18.442+03:00",
+  "updated": "2024-04-12T01:17:18.442+03:00"
+}

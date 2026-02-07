@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "d2dbbe5934b1e2a9706ea9a84e4a68ab1d251ab2",
+    "url": "https://www.cyberdaily.au/security/11395-tesla-data-breach-falsely-claimed-by-intelbroker-third-party-ev-charging-firm-actually-breached",
+    "site_full": "www.cyberdaily.au",
+    "site": "cyberdaily.au",
+    "site_section": "https://www.cybersecurityconnect.com.au",
+    "site_categories": [],
+    "section_title": "Cyber Daily",
+    "title": "Tesla data breach falsely claimed by IntelBroker, third-party EV charging firm actually breached",
+    "title_full": "Tesla data breach falsely claimed by IntelBroker, third-party EV charging firm actually breached",
+    "published": "2024-11-21T17:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1698635009/Cyber%20Daily/tesla-dc_wgihcg.jpg",
+    "performance_score": 0,
+    "domain_rank": 61709,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d2dbbe5934b1e2a9706ea9a84e4a68ab1d251ab2",
+  "url": "https://www.cyberdaily.au/security/11395-tesla-data-breach-falsely-claimed-by-intelbroker-third-party-ev-charging-firm-actually-breached",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "<a href=\"/authors/daniel-croft\" title=\"View all articles from Daniel Croft\">Daniel Croft</a>",
+  "published": "2024-11-21T17:01:00.000+02:00",
+  "title": "Tesla data breach falsely claimed by IntelBroker, third-party EV charging firm actually breached",
+  "text": "Share this article on:\nThreat actors have claimed to have uploaded data pertaining to Tesla electric vehicle (EV) charging stations.\nThe incident was claimed by CyberN-----s members IntelBroker and EnergyWeaponUser, who originally said it was a Tesla EV charging station database containing files that belonged to Tesla.\nHowever, thanks to a tipoff by researcher DarkWebInformer and IntCyberDigest, the threat actors amended the listing to say it was a “random 3rd party company which was hosting and holding their information” that owns the data and was breached.\n🚨🇺🇸IntelBroker and EnergyWeaponUser Have Claimed to have Leaked Tesla EV Charging Station\n[https://t.co/zbi1FfAjnE]— Dark Web Informer (@DarkWebInformer)========================[November 19, 2024]\nIntelBroker wrote that the data affected those in the Middle East and the United Arab Emirates (UAE) and that there were 116,000 rows of data, including full names, locations, payment information, car make and model and car VIN numbers.\nHowever, in the data sample posted by the threat actors, the data largely pertained to people in the United States territory of Puerto Rico.\nAdditionally, as pointed out by researchers at CyberNews, Tesla only tracks data relating to its vehicles and stations, while the sample lists cars from Audi, Porsche, Volvo and Tesla.\nSpeaking with IntCyberDigest before discovering the data did not belong to Tesla, IntelBroker said that “it was really bizarre how we found [the data].”\nThe threat actor said he used hard-coded credentials to traverse a number of systems before stumbling upon four Azure storage buckets containing .xlsx-files with customer data. They then “just sorted from the largest to the smallest and downloaded them”.\nIntCyberDigest then revealed that the data appeared not to come from Tesla but instead from a firm called Numocity, a manufacturer of EV charging software, middleware, smart charges and more.\nNumocity has yet to publicly acknowledge the incident, as has Tesla or its CEO, Elon Musk.\nLast year, Tesla blamed two former employees for a [data breach that affected 75,000 of its staff](https://www.cyberdaily.au/security/9459-tesla-blames-two-former-staff-for-data-breach-affecting-75k).\nIn a notice filed with the Maine Attorney-General on 18 August 2023 and issued to Tesla staff, the company announced that two ex-employees were to blame for the data breach that occurred in May, resulting in the personal information of 75,735 individuals being compromised.\nThe breach was first outed by Handelsblatt, a German publication, which announced that 100 gigabytes worth of data had been stolen and leaked by a “disgruntled former employee” who utilised their position as a service technician to access the data.\nHandelsblatt told Tesla that the data included identifiable information, including names, addresses, phone numbers and Social Security numbers. This data included Elon Musk’s own social security number, according to the publication.\nOther data included private email addresses, employees’ salaries, customer bank details and confidential information regarding Tesla production.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Middle East",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T06:48:02.129+02:00",
+  "updated": "2024-11-22T11:07:08.726+02:00"
+}

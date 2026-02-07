@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "0133b67c17ffc4c8450c6d833b5460fcf90eb116",
+    "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-828015",
+    "site_full": "www.jpost.com",
+    "site": "jpost.com",
+    "site_section": "https://rss.jpost.com/rss/rsshealth-and-wellness",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_za",
+      "top_news_il",
+      "top_news_au",
+      "top_news_ph",
+      "top_news_us"
+    ],
+    "section_title": "JPost.com - Health &amp; Wellness",
+    "title": "New nanotechnology enables non-invasive breath test for early detection - The Jerusalem Post",
+    "title_full": "New nanotechnology enables non-invasive breath test for early detection - The Jerusalem Post",
+    "published": "2024-11-07T23:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/632863",
+    "performance_score": 0,
+    "domain_rank": 949,
+    "domain_rank_updated": "2024-11-04T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0133b67c17ffc4c8450c6d833b5460fcf90eb116",
+  "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-828015",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "jpost.com",
+  "published": "2024-11-07T23:00:00.000+02:00",
+  "title": "New nanotechnology enables non-invasive breath test for early detection - The Jerusalem Post",
+  "text": "Every breath we exhale contains chemical clues about our health, including diseases like lung cancer, with tiny alterations among the molecules that we exhale. Chinese scientists from Zhejiang University developed a new method for diagnosing lung cancer by analyzing gases exhaled by humans, using ultra-sensitive nanosensors to detect chemical changes in exhaled air. The researchers developed nanoscale sensors made from specially engineered Pt@InNiO nanoflakes, which can detect extraordinarily small amounts of isoprene—as little as 2 parts per billion—while ignoring other common breath compounds that might interfere with readings.\nIn small-scale tests, the device was used to analyze breath samples from 13 people, including five with lung cancer. The device detected clear differences in breath chemistry between the two groups, indicating that a decrease in the exhaled chemical compound isoprene may signal the presence of lung cancer. In samples from lung cancer patients, isoprene concentrations were lower than 40 parts per billion, while levels in healthy participants were above 60 parts per billion.\nThe research was published in the scientific journal ACS Sensors. According to the authors of the discovery, their invention may provide a breakthrough in non-invasive lung cancer screening. This innovation is a significant step towards improving early diagnosis of lung cancer through a non-invasive and easy-to-apply method.\nFor about ten years, it has been noticed that dogs can recognize lung cancer in humans by sniffing the air that is exhaled. Since then, laboratories have been working to replicate the sense of smell of dogs with devices called \"electronic noses,\" capable of identifying certain molecules emitted by the lungs. Previous attempts to engineer gas sensors with these characteristics have focused on metal oxides, including a promising compound made with indium oxide.\nA team led by Pingwei Liu and Qingyue Wang set out to refine indium oxide-based sensors to detect isoprene at the level at which it naturally occurs in breath. When reduced to small flakes on the order of nanometers, indium oxide is capable of identifying concentrations of isoprene of 2 parts per billion in human breath. The researchers developed a series of sensors made from nanoplatelets based on indium oxide, including a type called Pt@InNiO, which showed the best results during experiments.\nThe difficulties in detecting isoprene arise from the fact that it is present in minimal quantities in breath and mixed with many other molecules, from water vapor to carbon dioxide. In the past, breath tests for detecting lung cancer relied on complex and expensive laboratory examinations, such as chromatography or spectrometry. The Pt@InNiO sensors had the most optimal performance, detecting isoprene levels as low as 2 parts per billion, significantly surpassing the sensitivity of similar devices. The sensors can distinguish between isoprene and other volatile chemicals commonly found in breath, detecting extraordinarily small amounts of isoprene while ignoring other common breath compounds that might interfere with readings. The technology shows particular promise because it can detect these differences while dealing with breath's natural humidity, a challenge that has stumped previous detection methods.\nThe authors' real-time analysis revealed that platinum nanoclusters uniformly anchored on the nanoflakes catalyzed the activation of isoprene sensing. This catalysis led to the ultrasensitive performance of the sensors. To showcase the potential medical use of these sensors, the researchers incorporated the Pt@InNiO nanoflakes into a portable sensing device. In initial testing, the device successfully distinguished between the breath of people with lung cancer and those without. The device showed the ability to detect low levels of isoprene in the affected individuals, performing consistently through multiple uses, making it practical for real-world applications.\nResearchers have determined that declines in the exhaled chemical isoprene can indicate the presence of lung cancer, with previous studies showing that lower levels of isoprene in breath can be an indicator of the disease. Isoprene is an organic compound and hydrocarbon frequently used in industry, particularly as a precursor to rubber. It is produced naturally in animals and plants, and the human body is capable of synthesizing it. Isoprene is generally the most common hydrocarbon in the human body, with an estimated production of 15 µmol/kg/h, equivalent to approximately 17 mg/day for a person weighing 70 kg.\nThe breakthrough could lead to non-invasive early screening for lung cancer. Lung cancer is one of the most common and deadly types of cancer worldwide. Early detection of lung cancer facilitates timely treatment and improves survival rates. According to the researchers, the technology has the potential to improve outcomes and even save lives.\nSources: ScienceBlog.com, La Repubblica, Phys.org, Science Daily, Gazeta.ru, Al-Masry Al-Youm, La República, El Economista",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Zhejiang University",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-08T00:17:30.040+02:00",
+  "updated": "2024-11-08T00:17:30.040+02:00"
+}

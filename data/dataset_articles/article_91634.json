@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "4d84aec6f329e0c6de72b33c8429019510b484f7",
+    "url": "https://www.163.com/dy/article/KBE7L8HJ055040N3.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "https://news.163.com/#main",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "网易新闻",
+    "site_title": "网易",
+    "title": "全球首颗，复旦团队研发二维-硅基混合架构闪存芯片|存储器|cmos_网易订阅",
+    "title_full": "全球首颗，复旦团队研发二维-硅基混合架构闪存芯片|存储器|cmos_网易订阅",
+    "published": "2025-10-09T07:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 537,
+    "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4d84aec6f329e0c6de72b33c8429019510b484f7",
+  "url": "https://www.163.com/dy/article/KBE7L8HJ055040N3.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-10-09T07:22:00.000+03:00",
+  "title": "全球首颗，复旦团队研发二维-硅基混合架构闪存芯片|存储器|cmos_网易订阅",
+  "text": "复旦大学集成芯片与系统全国重点实验室集成电路与微纳电子创新学院周鹏-刘春森团队研发的“长缨（CY-01）”架构，将二维超快闪存器件“破晓（PoX）”与成熟硅基CMOS工艺深度融合，率先研发出全球首颗二维-硅基混合架构芯片。相关研究成果于北京时间10月8日晚间在《自然》（Nature）期刊上发表。\n大数据与人工智能时代对数据存取性能提出了极致要求，而传统存储器的速度与功耗已成为阻碍算力发展的“卡脖子”问题之一。今年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓”二维闪存原型器件，实现了400皮秒超高速非易失存储，是迄今最快的半导体电荷存储技术，为打破算力发展困境提供了底层原理。\n“破晓”皮秒闪存器件\n但研究者们最关心的问题莫过于“LAB to FAB（从实验室到工厂）”难题。如何加速产业化进程，让二维电子器件走向功能芯片？周鹏-刘春森团队主动融入产业链。\n“从目前技术来看，存储器是二维电子器件最有可能首个产业化的器件类型。因为它对材料质量和工艺制造没有提出更高要求，而且能够达到的性能指标远超现在的产业化技术，可能会产生一些颠覆性的应用场景。”在存储器领域深耕多年的周鹏认为。\n当前，CMOS（Complementary Metal Oxide Semiconductor，互补金属氧化半导体）技术是集成电路制造的主流工艺，市场中的大部分集成电路芯片均使用CMOS技术制造，产业链较为成熟。团队认为，如果要加快新技术孵化，就要将二维超快闪存器件充分融入CMOS传统半导体产线，而这也能为CMOS技术带来全新突破。\n为了找到这条“正确的路”，团队前期经历了5年的探索试错。\n人们现在所说的芯片多由硅材料制作。而硅材料和二维材料可以说天差地别——硅片厚度往往在几百微米，一些薄层硅至少也有几十纳米；而二维半导体材料是原子级别，相当于厚度不到1纳米。\n“二维半导体作为一种全新的材料体系，在国际上所有的集成电路制造工厂里都是不存在的。一旦引入新材料，就有可能对其他电子器件产生不可估量的影响，导致产线被污染，这是所有芯片厂商都无法接受的。”周鹏介绍。\n如何将二维材料与CMOS集成又不破坏其性能，是团队需要攻克的核心难题。CMOS电路表面有很多元件，如同一个微缩“城市”，有高楼也有平地，高低起伏；而二维半导体材料厚度仅有1-3个原子，如同“蝉翼”般纤薄而脆弱，如果直接将二维材料铺在CMOS电路上，材料很容易破裂，更不用谈实现电路性能。\n“就好比我们从太空看上海，似乎很平坦，但这个城市内部其实有400多米、100多米或者几十米高度不等的建筑。如果铺一张薄膜在城市上方，膜本身就会不平整。”周鹏形象比喻道。\n这也是为什么全世界的二维半导体研究者目前只能在极为平整的原生衬底上加工材料。一种解决思路是将CMOS的衬底“磨平”以适应二维材料，但要实现原子级平整并不现实。\n“我们没有必要去改变CMOS，而需要去适应它。”团队决定从本身就具有一定柔性的二维材料入手，通过模块化的集成方案，先将二维存储电路与成熟CMOS电路分离制造，再与CMOS控制电路通过高密度单片互连技术（微米尺度通孔）实现完整芯片集成。\n正是这项核心工艺的创新，实现了在原子尺度上让二维材料和CMOS衬底的紧密贴合，最终实现超过94%的芯片良率。基于CMOS电路控制二维存储核心的全片测试支持8-bit指令操作，32-bit高速并行操作与随机寻址，良率高达94.3%。这也是迄今为止世界上首个二维-硅基混合架构闪存芯片，性能“碾压”目前的Flash闪存技术，首次实现了混合架构的工程化。\n团队进一步提出了跨平台系统设计方法论，包含二维-CMOS电路协同设计、二维-CMOS跨平台接口设计等，并将这一系统集成框架命名为“长缨（CY-01）架构”。\n“这是中国集成电路领域的‘源技术’，使我国在下一代存储核心技术领域掌握了主动权。”展望二维-硅基混合架构闪存芯片的未来，周鹏-刘春森团队期待该技术颠覆传统存储器体系，让通用型存储器取代多级分层存储架构，为人工智能、大数据等前沿领域提供更高速、更低能耗的数据支撑，让二维闪存成为AI时代的标准存储方案。\n原标题：《全球首颗，复旦团队研发二维-硅基混合架构闪存芯片》\n栏目编辑：马丹 图片来源：复旦大学\n来源：作者：新民晚报 张炯强",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-09T07:51:01.579+03:00",
+  "updated": "2025-10-10T08:06:39.000+03:00"
+}

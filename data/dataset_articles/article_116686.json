@@ -1,0 +1,136 @@
+{
+  "thread": {
+    "uuid": "7eeefc6183786db8f273110f146acd340574d825",
+    "url": "https://www.schwaebische.de/regional/bayern/wetterdienst-rechnet-mit-starkregen-in-bayern-3874984",
+    "site_full": "www.schwaebische.de",
+    "site": "schwaebische.de",
+    "site_section": "https://schwaebische.de/",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Regionale und lokale Nachrichten aus Baden-Württemberg",
+    "site_title": "Regionale und lokale Nachrichten aus Baden-Württemberg",
+    "title": "Wetterdienst rechnet mit Starkregen in Bayern",
+    "title_full": "Wetterdienst rechnet mit Starkregen in Bayern",
+    "published": "2025-08-28T08:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://cdn.schwaebische.de/2025/08/28/d052b6c1-d26f-411d-b2fc-0e8c2007158d.jpg",
+    "performance_score": 0,
+    "domain_rank": 14994,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7eeefc6183786db8f273110f146acd340574d825",
+  "url": "https://www.schwaebische.de/regional/bayern/wetterdienst-rechnet-mit-starkregen-in-bayern-3874984",
+  "ord_in_thread": 0,
+  "author": "Deutsche Presse-Agentur",
+  "published": "2025-08-28T08:17:00.000+03:00",
+  "title": "Wetterdienst rechnet mit Starkregen in Bayern",
+  "text": "Wetter\nWetterdienst rechnet mit Starkregen in Bayern\nMünchen / Lesedauer: 1 min\nZum Ende des Augusts sollten die Menschen in Bayern lieber auf Regenschirm und Jacke statt Sonnenbrille setzen. Laut dem Deutschen Wetterdienst (DWD) wird es auch in den kommenden Tagen nass im Freistaat.\nIm Laufe des Tages sollen die Schauer vom Westen über das ganze Land ziehen. Dabei ist vor allem in Unterfranken zunächst mit Starkregen zu rechnen. Laut Prognose sollen zwischen 20 und 35 Liter Regen innerhalb weniger Stunden fallen - lokal seien auch bis zu 50 Liter möglich. Im Laufe der Nacht werden ähnliche Regenmengen südlich der Donau erwartet. Zu Gewittern kommt es aber nur vereinzelt. Die Temperaturen erreichen Höchstwerte von 18 Grad im Allgäu und bis zu 27 Grad an der unteren Donau.\nAm Freitag wird es kälter und die Höchsttemperaturen liegen zwischen 18 und 24 Grad. Laut DWD lässt der Regen nach. Am Nachmittag seien vor allem im Südosten einzelne Schauer oder Gewitter möglich, hieß es. Auch am Samstag soll es immer wieder einzelne Schauer geben.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather warning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Unterfranken",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bayern",
+        "sentiment": "none"
+      },
+      {
+        "name": "Allgäu",
+        "sentiment": "none"
+      },
+      {
+        "name": "Donau",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Bayern\nMünchen",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Deutschen Wetterdienst",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T08:19:40.589+03:00",
+  "updated": "2025-08-29T09:08:37.000+03:00"
+}

@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "1374c1564ddbefa00a84ba17aa908462addf2165",
+    "url": "https://www.world-today-news.com/microsoft-launches-new-windows-11-update-for-developers-with-richer-weather-display-and-more/",
+    "site_full": "www.world-today-news.com",
+    "site": "world-today-news.com",
+    "site_section": "https://www.world-today-news.com/feed/",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "World Today News",
+    "title": "Microsoft Launches New Windows 11 Update for Developers with Richer Weather Display and More",
+    "title_full": "Microsoft Launches New Windows 11 Update for Developers with Richer Weather Display and More",
+    "published": "2024-01-03T23:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 23224,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1374c1564ddbefa00a84ba17aa908462addf2165",
+  "url": "https://www.world-today-news.com/microsoft-launches-new-windows-11-update-for-developers-with-richer-weather-display-and-more/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "world today news",
+  "published": "2024-01-03T23:45:00.000+02:00",
+  "title": "Microsoft Launches New Windows 11 Update for Developers with Richer Weather Display and More",
+  "text": "Microsoft has launched a new update for developers of its operating system, Windows 11, which revealed some upcoming changes that are in the development and testing phase before they are officially approved and reach all users.\nMicrosoft is keen to improve the most popular operating system for computers, Windows 11, by sending updates and dealing with the system more broadly, similar to updating operating systems for smartphones. A few weeks after the arrival of major updates to the system, most notably the CoPilot smart assistant, it seems that other changes are coming in 2017. 2024 new.\nAccording to what was published by Xda-Developers, Microsoft has launched a new version of Windows 11 for developers, which is called Windows 11 Dev, which is developer build number 23612, and it contains a richer\nweather information display experience on the lock screen and some other changes and bug fixes as well.\nMeanwhile, the other developer channel, Canary, is getting system build 26020, which only carries some features related to voice access.\nAs for the first version for developers, the report monitored the most important feature of this version, which is the experience of displaying more details about the\nweather condition on the lock screen, in a way that is very similar to the lock screen on Android and iOS smartphones.\nNow, when a user hovers over the\nweather icon at the bottom of the Windows 11 lock screen, more dynamic information about the weather itself should appear.\nClicking on the\nweather card will open the full MSN weather forecast. Read more: NASA shared! Turkish doctor's photo was chosen as the \"Astronomy Photo of the Day in the World\"\nThere is nothing to do to activate the feature if the\nweather display has already been enabled in the settings, but if it is not activated, this can be done by going to Settings, Personalization, then Lock Screen Settings, then activating the weather.\nWe recommend checking out:\nSome other changes can be seen in this release, mainly bug fixes, expanded languages, multi-screen support, and custom commands for voice access.\nThese latest changes are also available on the Windows 11 Canary edition, which is also intended for developers in which new features are tested before they finally officially reach users.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Weather"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "canary",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-03T23:47:28.626+02:00",
+  "updated": "2024-01-03T23:47:28.626+02:00"
+}

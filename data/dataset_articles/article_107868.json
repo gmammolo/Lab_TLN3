@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "34126043e0d7a6d3f0982b7d864cc27fe262652e",
+    "url": "https://unn.ua/en/news/pentagon-began-deploying-a-new-satellite-network-for-combat-operations",
+    "site_full": "unn.ua",
+    "site": "unn.ua",
+    "site_section": "https://unn.ua/en",
+    "site_categories": [
+      "top_news_ua",
+      "top_news"
+    ],
+    "section_title": "Operational news of Ukraine and the World | Ukrainian National News UNN",
+    "site_title": "Оперативні новини України та Світу | Українські Національні Новини УНН",
+    "title": "Pentagon began deploying a new satellite network for combat operations",
+    "title_full": "Pentagon began deploying a new satellite network for combat operations",
+    "published": "2025-09-11T11:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "UA",
+    "main_image": "https://unn.ua/img/2025/03/21/1742544306-1293-large.webp",
+    "performance_score": 0,
+    "domain_rank": 26291,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "34126043e0d7a6d3f0982b7d864cc27fe262652e",
+  "url": "https://unn.ua/en/news/pentagon-began-deploying-a-new-satellite-network-for-combat-operations",
+  "ord_in_thread": 0,
+  "author": "Stepan Haftko",
+  "published": "2025-09-11T11:11:00.000+03:00",
+  "title": "Pentagon began deploying a new satellite network for combat operations",
+  "text": "Pentagon began deploying a new satellite network for combat operations\nKyiv • UNN\nThe US successfully launched 21 satellites, which is the first step towards creating a new missile defense system. This network of cheap low-orbiting spacecraft will provide global missile tracking and improve NATO's tactical communication.\nFrom California, the first 21 satellites from a new constellation, which is to become the basis for the US missile defense system, were successfully launched. This is the first time that the space segment will be fully integrated into the combat operations of American troops. This was reported by the publication Arstechnica with reference to Pentagon data, writes UNN.\nDetails\nThe launch took place on Wednesday from Vandenberg Base using a SpaceX Falcon 9 rocket. The satellites will enter orbit at an altitude of about 1000 km. Within nine months, the Pentagon plans to add another 133 vehicles to form the first generation of the Proliferated Warfighter Space Architecture network.\nWe have put into orbit an array of vehicles in support of the new architecture. This is the result of six years of work\nHow the new system differs\nPreviously, the US relied on several expensive satellites in geostationary orbit (36,000 km). Each cost more than $1 billion and was vulnerable to attacks. The new network will consist of dozens of cheaper vehicles ($14-15 million per unit) located in low orbit. The loss of some satellites will not affect the operation of the entire system. They will be able to track the launch of ballistic and hypersonic missiles and transmit data in real time without line-of-sight limitations.\nFor the first time after a series of failures: the Starship rocket test launch was successful27.08.25, 10:00 • 2460 views\nWith the help of satellites, the military will get global coverage of the Link 16 system – NATO tactical communication, which until now only worked at short distances.\nNow we can transmit data not only for a few miles, but also, for example, from Hawaii to Guam via space\nFurther plans\nFull deployment of the first tranche requires 10 launches. The satellites will receive inter-satellite laser channels to form a single network. By 2027, it should be operational in the Indo-Pacific region, where the US is preparing to counter China. In the future, this architecture will become part of the \"Golden Dome\" project - a global missile defense shield, estimated at $175 billion.\nThis is the first time that multiple layers are integrated into one system to combat various threats\nSpaceX, one of the most valuable companies in the world, avoids federal income taxes - NYT15.08.25, 15:11 • 5957 views",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "War, Conflict and Unrest"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "War, Conflict and Unrest->military occupation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://arstechnica.com/space/2025/09/pentagon-begins-deploying-new-satellite-network-to-link-sensors-with-shooters/",
+    "https://www.arstechnica.com/space/2025/09/pentagon-begins-deploying-new-satellite-network-to-link-sensors-with-shooters/",
+    "https://arstechnica.com/space/2025/09/pentagon-begins-deploying-new-satellite-network-to-link-sensors-with-shooters"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Pentagon",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "NATO",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_ua",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-11T12:09:50.315+03:00",
+  "updated": "2025-09-12T13:13:24.000+03:00"
+}

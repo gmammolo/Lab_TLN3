@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "7d2707b3784d9979d59abed742f9dbbe59784b6f",
+    "url": "https://www.koreabiomed.com/news/articleView.html?idxno=28691",
+    "site_full": "www.koreabiomed.com",
+    "site": "koreabiomed.com",
+    "site_section": "https://www.koreabiomed.com",
+    "site_categories": [
+      "biotech_biomedical",
+      "media",
+      "business",
+      "illegal_content"
+    ],
+    "section_title": "KBR",
+    "site_title": "KBR",
+    "title": "Ozone increases kidney transplant patients' mortality risk: study",
+    "title_full": "Ozone increases kidney transplant patients' mortality risk: study",
+    "published": "2025-08-21T09:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.koreabiomed.com/news/thumbnail/202508/28691_30524_615_v150.jpg",
+    "performance_score": 0,
+    "domain_rank": 88891,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7d2707b3784d9979d59abed742f9dbbe59784b6f",
+  "url": "https://www.koreabiomed.com/news/articleView.html?idxno=28691",
+  "ord_in_thread": 0,
+  "author": "Kim Eun-ji",
+  "published": "2025-08-21T09:06:00.000+03:00",
+  "title": "Ozone increases kidney transplant patients' mortality risk: study",
+  "text": "A Korean research team has confirmed for the first time that long-term exposure to ozone (O₃) reduces the organ function and survival rates of kidney transplant patients.\nA joint research team from SMG-SNU Boramae Medical Center, Seoul National University Hospital, and Asan Medical Center announced on Thursday that they had obtained these results from a long-term follow-up study of 4,796 patients who underwent kidney transplant surgery at the three hospitals between 2002 and 2020.\nThe research team calculated the annual average ozone and fine dust (PM₂.₅) concentrations in the patients' residential areas using a machine learning-based high-resolution air pollution prediction model (spatial resolution of 1 square kilometer, explanatory power R² = 0.964).\nThe analysis of patients who survived for more than one year after transplantation showed that for every 5 ppb increase in annual average ozone concentration, the risk of all-cause mortality increased by 65 percent, and the risk of death-censored graft failure (DCGF) increased by 60 percent. Notably, the risk increased when ozone concentrations exceeded 35 ppb, and the mortality risk rose sharply at concentrations above 40 ppb.\nThese results remained consistent even after adjusting for community factors, including fine dust concentration, temperature, population density, and green space ratio, as well as transplant-related clinical indicators (e.g., eGFR, hemoglobin levels).\n“Ozone concentrations have been steadily increasing over the past few decades, closely linked to rising temperatures,” said Professor Han Seung-hyun of Inje University Ilsan Paik Hospital, the study’s co-first author. “Since organ transplant patients receiving immunosuppressive therapy are vulnerable to environmental pollution, urgent measures are needed to address climate change and strengthen environmental policies.”\nProfessor Lee Jung-pyo of SMG-SNU Boramae Center, the study’s co-corresponding author, said, “This study shows that environmental management can directly affect the prognosis of organ transplant patients. In the era of climate change, customized health management and policy intervention are essential.”\nThe study, titled “Impact of ozone on kidney transplant outcomes02878-3/abstract),” was published in the latest issue of the international academic journal “American Journal of Transplantation”. The study was co-authored by Professor Han and Yoo Eun-jin, a graduate student at Pohang University of Science and Technology (POSTECH), with Professor Lee, Professor Kim Young-hoon of Asan Medical Center, and Professor Lee Hwan-hee of Pusan National University participating as co-corresponding authors.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Health->health treatment and procedure",
+    "Health->medical condition",
+    "Health->health organisation",
+    "Science and Technology->biomedical science",
+    "Science and Technology->medical research",
+    "Social Issue->social services",
+    "Social Issue->demographics",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.amjtransplant.org/article/S1600-6135(25",
+    "https://amjtransplant.org/article/S1600-6135(25"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Seoul National University Hospital",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Asan Medical Center",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:40:51.703+03:00",
+  "updated": "2025-08-21T11:46:29.000+03:00"
+}

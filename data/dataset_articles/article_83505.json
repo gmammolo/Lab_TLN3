@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "1537beefc5864754aded91a414bf91163667ca66",
+    "url": "https://gadget.co.za/geminicode531f",
+    "site_full": "gadget.co.za",
+    "site": "gadget.co.za",
+    "site_section": "http://feeds.feedburner.com/co/gadgetza",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Gadget",
+    "site_title": null,
+    "title": "Google gives Gemini Code Assist free to SA",
+    "title_full": "Google gives Gemini Code Assist free to SA",
+    "published": "2025-02-28T00:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ZA",
+    "main_image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2025/02/potd-copy-n.png?resize=805%2C575&#038;ssl=1",
+    "performance_score": 0,
+    "domain_rank": 179844,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1537beefc5864754aded91a414bf91163667ca66",
+  "url": "https://gadget.co.za/geminicode531f",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Gadget Staff",
+  "published": "2025-02-28T00:20:00.000+02:00",
+  "title": "Google gives Gemini Code Assist free to SA",
+  "text": "Google has unveiled Gemini Code Assist , a free version of its AI-coding assistant, powered by Gemini 2.0. Now available to South African developers, it supports all programming languages in the public domain.\nRecent DORA research indicates that over 75% of developers now integrate AI into their daily workflows, underscoring its growing importance. At Google, for instance, over 25% of new code is AI-generated, subsequently validated by engineering teams.\nWhile established enterprises readily deploy advanced AI tools to enhance developer productivity, access to these resources has historically been limited for students, independent developers, and emerging startups.\nGiven the projected global developer base expansion to 57.8-million by 2028, Google says that democratising AI access is timely and crucial. Providing these tools, regardless of financial capacity, equips the next generation of developers with the essential digital capabilities required for future innovation.\nThe Gemini 2.0 model is fine-tuned for developers by analysing and validating a large number of real-world coding use cases. As a result, Google says, the quality of AI-generated recommendations in Gemini Code Assist is better than ever before and ready to address the myriad of daily challenges developers face.\nGemini Code Assist offers up to 180,000 code compilations per month.\nAI is revolutionising coding by accelerating code writing, and empowering developers to write better code. While a quality and efficient code review process is critical, code reviews are often time-consuming. To address this, the public preview of Gemini Code Assist for GitHub , which provides free, AI-powered code reviews for both public and private repositories.\nDevelopers spend most of their time coding in integrated development environments (IDEs). Now, the free version of Gemini Code Assist in Visual Studio Code and JetBrains IDEs offers developers the same code completion, generation, and chat capabilities that have been available to businesses for over a year, and are already freely available in Firebase and Android Studio .\nThis provides an opportunity to learn, create code snippets, debug, and modify existing applications, within IDE, eliminating the need to toggle between windows or copy and paste from disconnected sources.\nAn example of Gemini Code Assist creating code based on natural language prompt and applying the change to existing code.\nGemini Code Assist comes with up to 128,000 input token support in chat. This large context window lets developers use large files and ground Gemini Code Assist with a broader understanding of their local codebases.\nThe chat feature makes it easy for developers to focus on the creative part of development, while leaving the necessary, but repetitive steps – like writing comments or automated tests from requirements – to Gemini.\nGemini Code Assist provides a summary of a pull request and improvement suggestions. Then, when prompted, Gemini provides code readability suggestions.\nSA developers can use natural language in a variety of languages in Gemini Code Assist to generate, explain and improve code. For example, a freelance website developer can get code with a prompt like, “Build me a simple HTML form with fields for name, email, and message, and then add a ‘submit’ button.”\nOr someone looking to automate more routine tasks can ask Gemini to “Write a script that sends a daily email with the latest weather forecast,” or “Explain what this Python code snippet does and find any errors.”\nCode review is one of the most critical, albeit time consuming, parts of software development. With Gemini Code Assist for GitHub , SA developers get a powerful helping hand that can detect stylistic issues and bugs and automatically suggest code changes and fixes.\nOffloading basic reviews to an AI agent can help make code repositories more maintainable and improve quality, allowing developers to focus on more complex tasks. It is available directly in GitHub, where most open-source developers post and review code, via a GitHub app .\nDifferent developer teams may have different best practices, coding conventions and preferred frameworks and libraries. To address this need, Gemini Code Assist for GitHub supports custom style guides for code reviews. Each team can describe which instructions Gemini should follow when reviewing code in a .gemini/styleguide.md file in their repository . That way, Gemini tailors its code reviews to the needs of the repository.\nSignup requires a personal Gmail account; no credit card needed. SA developers can get started by installing Gemini Code Assist in Visual Studio Code , GitHub or JetBrains IDEs .\nSA developers interested in advanced functionality such as productivity metrics, customised AI responses based on private source code repositories, or integrations with Google Cloud services like BigQuery can also consider Gemini Code Assist Standard or Enterprise .\n* Visit the Gemini Code Assist website here .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.youtube.com/watch?v=Jr2nze3bwd4",
+    "https://www.idc.com/getdoc.jsp?containerId=US52187324",
+    "https://plugins.jetbrains.com/plugin/24198-gemini-code-assist",
+    "https://developer.android.com/studio/preview/gemini/ai-code-completion",
+    "https://cloud.google.com/gemini/docs/codeassist/supported-languages",
+    "https://cloud.google.com/gemini/docs/codeassist/overview",
+    "https://firebase.google.com/docs/gemini-in-firebase",
+    "http://github.com/apps/gemini-code-assist",
+    "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist",
+    "https://developers.google.com/gemini-code-assist/docs/customize-gemini-behavior-github",
+    "https://codeassist.google/products/individual",
+    "https://cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report?e=48754805",
+    "https://www.cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report?e=48754805",
+    "https://www.firebase.google.com/docs/gemini-in-firebase",
+    "https://www.developers.google.com/gemini-code-assist/docs/customize-gemini-behavior-github",
+    "https://www.plugins.jetbrains.com/plugin/24198-gemini-code-assist",
+    "https://www.marketplace.visualstudio.com/items?itemName=Google.geminicodeassist",
+    "https://www.idc.com/getdoc.jsp",
+    "https://cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report",
+    "https://idc.com/getdoc.jsp?containerId=US52187324",
+    "http://youtube.com/watch?v=Jr2nze3bwd4",
+    "https://marketplace.visualstudio.com/items",
+    "http://www.github.com/apps/gemini-code-assist",
+    "https://www.cloud.google.com/gemini/docs/codeassist/overview",
+    "http://www.youtube.com/watch",
+    "https://www.developer.android.com/studio/preview/gemini/ai-code-completion",
+    "https://www.cloud.google.com/gemini/docs/codeassist/supported-languages",
+    "https://www.codeassist.google/products/individual"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:32:52.677+02:00",
+  "updated": "2025-02-28T03:33:01.413+02:00"
+}

@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "e9593fb14500d9288164bf69d69dc0e007c04bc7",
+    "url": "https://community.fly.io/t/custom-domain-stopped-working-and-certificates-ecdsa-and-rsa-not-verified/22686",
+    "site_full": "community.fly.io",
+    "site": "fly.io",
+    "site_section": "https://community.fly.io/latest.rss",
+    "site_categories": [],
+    "section_title": "Fly.io - Latest topics",
+    "title": "Custom domain stopped working, and Certificates ECDSA and RSA not verified",
+    "title_full": "Custom domain stopped working, and Certificates ECDSA and RSA not verified",
+    "published": "2024-11-15T14:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/fly1/original/3X/e/1/e105a70001e55cbb0f485997e45ab0763b926b25.png",
+    "performance_score": 0,
+    "domain_rank": 38477,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e9593fb14500d9288164bf69d69dc0e007c04bc7",
+  "url": "https://community.fly.io/t/custom-domain-stopped-working-and-certificates-ecdsa-and-rsa-not-verified/22686",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "gkpo",
+  "published": "2024-11-15T14:31:00.000+02:00",
+  "title": "Custom domain stopped working, and Certificates ECDSA and RSA not verified",
+  "text": "So my custom domain http://dev.api.aara.app stopped working. I’m not sure why so I checked the certificates. I have set the correct A, AAAA and CNAME records on my DNS provider SquareSpace. It seems that ECDSA and RSA have issues as they stay red for ever. I’ve waited more than 72 hours and still nothing.\nAny help or advice would be very much appreciated\nHey @gkpo\nAre you sure the DNS provider is properly configured?\nI can’t resolve neither A nor AAAA record:\nA\nAAAA\n❯ dig +short a dev.api.aara.app ❯ dig +short aaaa dev.api.aara.app\nHello thanks for your reply:\nHere are the records as I have inserted them into Squarespace. Some zeros have been automatically added in the ipv6 address but no matter how many times I paste it, Squarespace keeps adding them. So I guess this is an equivalent adrress.\nAlso what are ECDSA and RSA certs ? I’ve seen many messages saying they don’t work but are they necessary ?\n@gkpo\nI can resolve the domain names now. And it seems certificates have also been issued:\n❯ curl https://dev.api.aara.app {\"message\":\"Hello\"}\nThanks so much for your help! Have you been able to identify what was the issue? we have changed a few things on our side as well, i’d like to know what fixed it! Thanks again\nI’m not sure if it was just a DNS propagation issue or some incorrect configuration on the DNS provider side, but LetsEncrypt couldn’t verify your domain and refused to issue a certificate.\nIt failed with:\nDNS problem: looking up A for dev.api.aara.app: DNSSEC: DNSKEY Missing DNS problem: looking up AAAA for dev.api.aara.app: DNSSEC: DNSKEY Missing\nYou can always check the status of your certificate with flyctl certs show <domain>, it should give you more details if something isn’t working.\nflyctl certs show <domain>",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://dev.api.aara.app",
+    "http://dev.api.aara.app",
+    "https://www.dev.api.aara.app",
+    "http://www.dev.api.aara.app"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:04:45.183+02:00",
+  "updated": "2024-11-15T17:04:45.183+02:00"
+}

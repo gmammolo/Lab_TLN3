@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "a2079af9a644b4567a2a4558c144651dea405779",
+    "url": "https://www.zdnet.com/article/nvidia-finally-open-sources-some-of-its-gpu-drivers-how-to-tell-whats-under-your-hood",
+    "site_full": "www.zdnet.com",
+    "site": "zdnet.com",
+    "site_section": "https://zdnet.com/topic/linux/",
+    "site_categories": [
+      "tech",
+      "palmtops_pdas"
+    ],
+    "section_title": "Linux | ZDNET",
+    "title": "Nvidia finally open sources some of its GPU drivers. How to tell what&apos;s under your hood | ZDNET",
+    "title_full": "Nvidia finally open sources some of its GPU drivers. How to tell what&apos;s under your hood | ZDNET",
+    "published": "2024-07-19T00:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.zdnet.com/a/img/resize/5607aa92f5b4cf6a462db27841544a88fd09314d/2024/07/18/2530f2d4-ab2a-411f-8aed-b6108784771f/voryex8gettyimages-2155769551.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "performance_score": 0,
+    "domain_rank": 344,
+    "domain_rank_updated": "2024-07-16T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a2079af9a644b4567a2a4558c144651dea405779",
+  "url": "https://www.zdnet.com/article/nvidia-finally-open-sources-some-of-its-gpu-drivers-how-to-tell-whats-under-your-hood",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Steven Vaughan-Nichols",
+  "published": "2024-07-19T00:33:00.000+03:00",
+  "title": "Nvidia finally open sources some of its GPU drivers. How to tell what&apos;s under your hood | ZDNET",
+  "text": "MF3d/Getty Images For more years than I care to recall, Linux users have hated NVIDIA, the world&apos;s leading Graphics Processing Unit (GPU) company. Why? Because years after all the other companies open-sourced their drivers, NVIDIA refused to do so. Nor would it give the Linux kernel developers the data they needed to build open-source drivers for them. That left Linux users stuck with proprietary, second-rate drivers. Now, NVIDIA has finally opened up its GPU driver code .\nHate wasn&apos;t too strong a word. In a famous interview, a frustrated Linus Torvalds said, \"I&apos;m also happy to very publicly point out that Nvidia has been one of the worst trouble spots we&apos;ve had with hardware manufacturers, and that is really sad because then Nvidia tries to sell chips - a lot of chips - into the Android Market. Nvidia has been the single worst company we&apos;ve ever dealt with. [Lifts middle finger] So Nvidia, f**k you. \"\nAlso: Linux kernel 6.10 officially rolls out: Here&apos;s what&apos;s new and improved\nAnd, lest we forget, in 2022, the Lapsus$ ransomware gang threatened to leak Nvidia&apos;s GPU files if the company refused \"to COMPLETELY OPEN-SOURCE (and distribute under a foss license) their GPU drivers for Windows, macOS and Linux, from now on and forever.\" This was not your usual ransomware demand.\nThat didn&apos;t work, but NVIDIA is transitioning fully towards open-source GPU kernel modules as it closes in on a three-trillion-dollar market cap. This marks a major change in its long-standing -- and frankly wrong-headed -- policy.\nThis transition began in May 2022 with the release of the R515 driver, which included a set of Linux GPU kernel modules as open source with dual GPL and MIT licensing. Initially, this release targeted data center compute GPUs, with GeForce and Workstation GPUs in an alpha state.\nOver the past two years, NVIDIA has worked diligently to improve these open-source modules, achieving equivalent or better application performance than their closed-source counterparts. The company has also added substantial new capabilities, including:\nHeterogeneous memory management (HMM) support Confidential computing\nSupport for the coherent memory architectures of NVIDIA&apos;s Grace platforms\nThese features won&apos;t help much with getting the best possible gaming performance, but they could assist cryptocurrency miners or artificial intelligence (AI) developers.\nAlso: How open source attracts some of the world&apos;s top innovators\nWith the upcoming R560 driver release, NVIDIA will complete its transition to open-source GPU kernel modules. This move is expected to benefit the Linux community by allowing for better integration with the operating system and enabling more robust community development and support.\nHowever, it&apos;s important to note that this transition doesn&apos;t apply to all NVIDIA GPUs. The open-source modules are mandatory for cutting-edge platforms like NVIDIA Grace Hopper or NVIDIA Blackwell. NVIDIA recommends switching to open-source modules for GPUs from the Turing, Ampere, Ada Lovelace, or Hopper architectures. Older GPUs from the Maxwell, Pascal, or Volta architectures will continue using the proprietary driver, as they&apos;re incompatible with the open-source modules.\nNeed help determining what you&apos;ve got under your computer&apos;s hood? NVIDIA provides a shell script, nvidia-driver-assistant, to help you. Once that&apos;s done, you can install the CUDA Toolkit and the appropriate GPU drivers using your Linux distros&apos; package manager.\nAlso: Latest AI training benchmarks show Nvidia has no competition\nThis move by NVIDIA is a step towards creating a more open ecosystem for Linux users and developers. It also puts NVIDIA in a better position to compete with AMD, which has long been known for its open-source-friendly approach in the Linux space.\nWhile this is a significant development, let me remind you that NVIDIA&apos;s transition to open-source is currently limited to the kernel modules. The driver&apos;s userspace components remain proprietary, which means that full open-source integration, particularly for gaming applications, may still be some way off.\nAs the tech community digests this news, many hope this could begin a broader shift towards open-source practices at NVIDIA, potentially leading to improved compatibility and performance for Linux users.\nOpen Source\n5 Linux commands you must know to keep your device running smoothly\nThe best Linux laptops you can buy: Expert tested\nThe best Linux distros for beginners\nMy 5 favorite Linux text editors (and why you should be using one)\n5 Linux commands you must know to keep your device running smoothly\nThe best Linux laptops you can buy: Expert tested\nThe best Linux distros for beginners\nMy 5 favorite Linux text editors (and why you should be using one) Editorial standards",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.youtube.com/watch?v=iYWzMvlj2RQ",
+    "https://x.com/denverbitcoin/status/1499085059453763590",
+    "https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/",
+    "https://developer.nvidia.com/cuda-toolkit",
+    "https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules",
+    "https://www.developer.nvidia.com/cuda-toolkit",
+    "http://youtube.com/watch?v=iYWzMvlj2RQ",
+    "https://www.developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/",
+    "https://www.x.com/denverbitcoin/status/1499085059453763590",
+    "http://www.youtube.com/watch"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "linus torvalds",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "zdnet",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nvidia",
+        "sentiment": "negative"
+      },
+      {
+        "name": "gpu",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-07-19T00:38:46.711+03:00",
+  "updated": "2024-08-02T03:30:09.981+03:00"
+}

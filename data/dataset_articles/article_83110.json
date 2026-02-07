@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "835b2aee2e871bdfe2b38388580c93622cdb5494",
+    "url": "https://multiplayer.it/notizie/amazon-ocelot-chip-calcolo-quantistico-super-efficiente-correzione-errori.html",
+    "site_full": "multiplayer.it",
+    "site": "multiplayer.it",
+    "site_section": "https://it.gamerslive.fr",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "Gamerslive.IT - Italia | Entra nel mondo del gaming",
+    "site_title": null,
+    "title": "Amazon Ocelot è un nuovo chip per il calcolo quantistico super efficiente nella correzione degli errori",
+    "title_full": "Amazon Ocelot è un nuovo chip per il calcolo quantistico super efficiente nella correzione degli errori",
+    "published": "2025-02-27T23:53:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://multiplayer.net-cdn.it/thumbs/images/2025/02/27/amazon-ocelot-chip_jpg_1200x0_crop_q85.jpg",
+    "performance_score": 0,
+    "domain_rank": 39049,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "835b2aee2e871bdfe2b38388580c93622cdb5494",
+  "url": "https://multiplayer.it/notizie/amazon-ocelot-chip-calcolo-quantistico-super-efficiente-correzione-errori.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@multiplayerit",
+  "published": "2025-02-27T23:53:00.000+02:00",
+  "title": "Amazon Ocelot è un nuovo chip per il calcolo quantistico super efficiente nella correzione degli errori",
+  "text": "Amazon Web Services (AWS) ha annunciato un nuovo chip chiamato Ocelot, progettato per ridurre i costi di implementazione della correzione degli errori quantistici fino al 90%. Gli errori nel calcolo quantistico sono una delle maggiori sfide del settore, poiché i qubit, l'unità di base del calcolo quantistico, sono sensibili a minime variazioni nell'ambiente.\nA differenza di Google e Microsoft, che stanno cercando di ridurre gli errori aggiungendo più qubit, Amazon ha integrato la correzione degli errori nel suo chip Ocelot con quelli che chiama \"qubit gatto\" (dal nome dell'esperimento del gatto di Schrödinger). Questi qubit dovrebbero ridurre la quantità di energia e risorse utilizzate per la correzione degli errori quantistici poiché \"sopprimono intrinsecamente\" certi tipi di errori.\nL'approccio di Amazon\nA differenza dei computer tradizionali, il calcolo quantistico sostituisce gli 1 e gli 0 binari con i qubit, un'unità che può esistere in più stati contemporaneamente. Come notato da Amazon, i qubit sono \"sensibili ai minimi cambiamenti, o 'rumori' nel loro ambiente\", come vibrazioni, calore e interferenze elettromagnetiche, rendendo \"estremamente difficile costruire computer quantistici in grado di eseguire calcoli affidabili e senza errori di qualsiasi complessità significativa\".\nL'approccio di Amazon con i \"qubit gatto\" è diverso da ciò che Google e Microsoft stanno facendo per ridurre gli errori nel calcolo quantistico. Il chip di calcolo quantistico Willow di Google pare sia in grado di eseguire una sfida di calcolo in meno di cinque minuti. I ricercatori dell'azienda hanno anche scoperto che l'introduzione di più qubit nel sistema può aiutare a ridurre gli errori. Nel frattempo, Microsoft ha recentemente annunciato il suo\nprocessore di calcolo quantistico Majorana 1, che afferma possa \"scalare fino a un milione di qubit su un singolo chip\" riducendo al contempo gli errori.\nAmazon, integrando la correzione degli errori direttamente nel chip, potrebbe realizzare computer quantistici più piccoli e più efficienti. Il chip Ocelot è ancora un prototipo, ma rappresenta un passo avanti promettente nel campo del calcolo quantistico.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ocelot",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Schrödinger",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Amazon Web Services",
+        "sentiment": "negative"
+      },
+      {
+        "name": "AWS",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      },
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:04:34.730+02:00",
+  "updated": "2025-02-28T00:04:34.730+02:00"
+}

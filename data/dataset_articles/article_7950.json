@@ -1,0 +1,187 @@
+{
+  "thread": {
+    "uuid": "c119bf8cd391d198bd201f97446d5276bb4b31da",
+    "url": "https://www.infobae.com/espana/agencias/2026/01/08/la-nieve-afecta-a-25-carreteras-de-la-red-secundaria-9-de-ellas-cerradas/",
+    "site_full": "www.infobae.com",
+    "site": "infobae.com",
+    "site_section": "https://www.infobae.com/espana/agencias",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_cl",
+      "top_news_il",
+      "top_news_es",
+      "top_news_pt",
+      "top_news_us",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news",
+      "arts, culture and entertainment",
+      "economy, business and finance",
+      "health",
+      "lifestyle and leisure",
+      "crime, law and justice",
+      "politics",
+      "sport"
+    ],
+    "section_title": "España agencias - Infobae",
+    "site_title": "Infobae América - Infobae",
+    "title": "La nieve afecta a 25 carreteras de la red secundaria, 9 de ellas cerradas - Infobae",
+    "title_full": "La nieve afecta a 25 carreteras de la red secundaria, 9 de ellas cerradas - Infobae",
+    "published": "2026-01-08T08:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+    "performance_score": 0,
+    "domain_rank": 1019,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c119bf8cd391d198bd201f97446d5276bb4b31da",
+  "url": "https://www.infobae.com/espana/agencias/2026/01/08/la-nieve-afecta-a-25-carreteras-de-la-red-secundaria-9-de-ellas-cerradas/",
+  "ord_in_thread": 0,
+  "author": "@infobae",
+  "published": "2026-01-08T08:15:00.000+02:00",
+  "title": "La nieve afecta a 25 carreteras de la red secundaria, 9 de ellas cerradas - Infobae",
+  "text": "Madrid, 8 ene (EFE).- El temporal de nieve afecta en la mañana de este jueves a 25 carreteras, ninguna en la red principal, de las que nueve están cerradas en diferentes puntos de Granada, Asturias, Salamanca, Navarra y en Santa Cruz de Tenerife.\nSegún informa la Dirección General de Tráfico (DGT), además de esas nueve carreteras en nivel negro, a la una y media de la mañana también hay 15 en nivel rojo -en las que es obligatorio el uso de cadenas o neumáticos de invierno y se restringe el paso a autobuses y vehículos pesados- en Andalucía, Aragón, Asturias, Castilla y León, Cantabria y Cataluña.\nLa DGT recuerda a los conductores que vayan equipados con cadenas o neumáticos de invierno.\nLas nueve carreteras cerradas son la A-395 y la A-4025 en Granada, en las cercanías de Sierra Nevada; en Asturias la AS-112 en Puerto de San Isidoro, la CO-4 en Covadonga hacia Los Lagos y la LN-8 en Los Pontones-El Quempu; y en Santa Cruz de Tenerife la TF-24 en Tosca de Ana María-Palo Blanco-Llanadas.\nEn Salamanca está en nivel negro la DSA-191 en Candelario; en Navarra la NA-2011 en Pikatua y la NA-2012 en Muskilda-Irati.\nLa DGT recomienda circular con precaución e informarse del estado de las carreteras antes de emprender viaje. EFE",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather statistic",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Candelario",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cantabria",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cataluña",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pikatua",
+        "sentiment": "none"
+      },
+      {
+        "name": "Isidoro",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sierra",
+        "sentiment": "none"
+      },
+      {
+        "name": "Aragón",
+        "sentiment": "none"
+      },
+      {
+        "name": "Los",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "EFE",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "EFE",
+            "exchange": "ASX"
+          }
+        ]
+      },
+      {
+        "name": "Dirección General de Tráfico",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DGT",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_co",
+      "top_news_cl",
+      "top_news_il",
+      "top_news_es",
+      "top_news_pt",
+      "top_news_us",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T08:50:06.513+02:00",
+  "updated": "2026-01-08T08:55:03.000+02:00"
+}

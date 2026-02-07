@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "debe52dd33663b579f6acda7e9f88a6d843d7422",
+    "url": "https://tecscience.tec.mx/en/biotechnology/tumor-on-a-chip",
+    "site_full": "tecscience.tec.mx",
+    "site": "tec.mx",
+    "site_section": "https://tecscience.tec.mx/en/feed",
+    "site_categories": [],
+    "section_title": "TecScience",
+    "title": "Tumors on a Chip Can Revolutionize Personalized Cancer Treatment",
+    "title_full": "Tumors on a Chip Can Revolutionize Personalized Cancer Treatment",
+    "published": "2024-10-17T22:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://tecscience.tec.mx/en/wp-content/uploads/sites/9/2024/10/tumor-on-a-chip.jpg",
+    "performance_score": 0,
+    "domain_rank": 12734,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "debe52dd33663b579f6acda7e9f88a6d843d7422",
+  "url": "https://tecscience.tec.mx/en/biotechnology/tumor-on-a-chip",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ricardo Treviño",
+  "published": "2024-10-17T22:13:00.000+03:00",
+  "title": "Tumors on a Chip Can Revolutionize Personalized Cancer Treatment",
+  "text": "Reproducing the behavior of a tumor on a 3D-printed chip, measuring less than a quarter dollar coin in size, by cultivating its cells at a microscale and assessing the effects of various drugs, may pave the way for [personalized medicine](/en/human-social/floyd-chilton-personalized-diets/) for cancer patients.\nFor individuals diagnosed with cancer, [tumor-on-a-chip (ToC)](/en/science-communication/cancer-en-un-chip-innovacion-biomedica-anticancer/) technology could not only reduce costs in the search for a cure but also provide tailored treatments that meet their specific needs. This approach allows for drugs that more precisely target cancerous tissue while minimizing adverse effects, according to Salvador Gallegos. During his doctoral studies in Biotechnology at Tec, and now as a researcher at Harvard, he has worked extensively with these devices.\nTumor-on-a-chip systems serve as valuable platforms for studying the physiology of cancerous tissues and evaluating the efficacy and toxicity of treatments. “In the literature, this technology is also referred to as microphysiological systems. These are cell culture platforms at micro—and sometimes nano—scale that use microfluidics to grow tissues and expose them to drugs,” explains Gallegos.\nThe type and design of the organ or cancer chip will depend on its intended use, whether for drug evaluation or for modeling various types of diseases such as lung, breast, or colorectal cancer, among others.\nTumor on a Chip: A Path to Personalized Medicine\nAt the end of 2020, the U.S. government approved the FDA Modernization Act 2.0, which includes the use of organ-on-a-chip technology as an alternative to animal testing in drug evaluation.\nGallegos notes that alongside testing on mice, rabbits, and other animals, there are also 2D culture tests, where cells are grown on single-layer plastic plates. However, neither of these methods accurately mimics the behavior occurring in the human body.\n“When trying to extrapolate results from these platforms, discrepancies arise; they don’t align. This is where the inspiration for a tumor-on-a-chip comes in: to create a more robust and predictable laboratory model for drug testing. This way, when we expose it to a patient, we can be more confident that it will be effective—that’s personalized medicine,” Gallegos explains.\nTo develop personalized treatments, it’s necessary to obtain cells from patients through a biopsy. These cells are then cultured in a microfluidic system, suspended in a hydrogel —a polymer with elasticity and porosity akin to natural tissues, allowing for oxygenation and nutrient uptake— before testing various drugs.\nThe [organs](/en/biotechnology/chaotic-printing/) or tumors on chips are typically smaller than 30 millimeters, and their structural barriers are usually made from two types of materials: polymeric resins created with 3D printers and a polymer called PDMS (polydimethylsiloxane). Both materials are transparent, enabling researchers to observe cellular activity, and are permeable to gases like oxygen and CO2, essential for cell growth.\n“While at Tec, I worked on [breast cancer](/en/health/artificial-intelligence-and-breast-cancer/), directing fluid flows in a system that functions as a microscopic reactor. It has a cavity —like a small pool— where the cells are located, with two channels on the sides: one for feeding, through which nutrients, oxygen, sugars, and growth factors flow, and another for purging waste. This setup mimics the blood flow and how a tissue or tumor grows outside the body,” Gallegos explains.\nAs part of the Alvarez-Trujillo Lab, he tested drugs like doxorubicin and docetaxel, evaluating drug transport, cell viability, toxicity, glucose consumption, and cell death.\nCurrently, the research group is leveraging tumor-on-a-chip technology to study other types of cancer, including colorectal, lung, and prostate cancers.\nTesting drugs on an organ-on-a-chip has no ethical implications, Gallegos states, as evaluations are conducted on independent cells created in the laboratory rather than within a human body. The only requirement is to obtain informed consent from the patient.\nBenefits for Patients and Pharmaceutical Companies\nThe development of tumor-on-a-chip technology could mean reduced treatment costs for patients, says Gallegos. “The primary investment is upfront, for designing the analysis and validation. Once that’s established, the rest is financially accessible. With the platform ready, you only need to culture the cells and run multiple tests simultaneously, much like what was done with [COVID](/en/tag/covid-19/) detection.”\nBy using cells from the patient and considering their physiological, chemical, and genetic characteristics, it becomes possible to personalize treatments with drugs that optimally target specific types of cancer.\nIn turn, this approach could reduce side effects and the time required to test one or more drugs compared to traditional cancer treatment methods.\n“I recently read an article about a pilot study where cancer patients donated their biopsies, and tumors-on-a-chip were created using their cells to be exposed to drugs for evaluation. These were patients in advanced stages of cancer, and it was found that nearly 47% of them saw an increase in life expectancy of five to ten years.”\nThe time required to conduct drug tests on cancer-on-a-chip platforms varies; however, the average duration to determine whether a drug is toxic—meaning it does not kill healthy cells or promote tumor growth—typically takes about two weeks.\nThe researcher believes that for pharmaceutical companies, these platforms also represent millions in savings when conducting clinical trials and research to validate drug efficacy. In fact, some companies are beginning to produce these devices at scale, though they face the challenge of customization to meet the specific needs of patients.\nCurrently, researchers working with organ- or tumor-on-a-chip technology encounter several challenges. One is gaining the trust of physicians to adopt these devices in defining oncology treatments. Another involves achieving interconnectivity among various chips to develop systems that can replicate human body functions.\n“We will observe how the organ chips behave when connected with one another, assessing whether they resemble a living system. This is one of the main challenges: creating a biological entity that can grow in the lab to model diseases and evaluate drugs,” he comments.\nDid you find this story interesting? Would you like to publish it? Contact our content editor to learn more at",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10617761/",
+    "https://www.researchgate.net/profile/Salvador-Gallegos-Martinez",
+    "https://www.scopus.com/record/display.uri?eid=2-s2.0-85128801191&origin=resultslist&sort=plf-f&src=s&sid=28044790e539f71f781b86eaa9ffdbf6&sot=aut&sdt=a&sl=18&s=AU-ID%2857637390700%29&relpos=5&citeCnt=7&searchTerm=",
+    "https://www.scopus.com/record/display.uri?origin=recordpage&zone=relatedDocuments&eid=2-s2.0-85160794738&relpos=0",
+    "https://www.alvareztrujillolab.com/",
+    "https://pubmed.ncbi.nlm.nih.gov/38866003/",
+    "https://pubmed.ncbi.nlm.nih.gov/38866003",
+    "https://www.scopus.com/record/display.uri",
+    "https://scopus.com/record/display.uri?eid=2-s2.0-85128801191&origin=resultslist&sort=plf-f&src=s&sid=28044790e539f71f781b86eaa9ffdbf6&sot=aut&sdt=a&sl=18&s=AU-ID%2857637390700%29&relpos=5&citeCnt=7&searchTerm=",
+    "https://scopus.com/record/display.uri?origin=recordpage&zone=relatedDocuments&eid=2-s2.0-85160794738&relpos=0",
+    "https://www.alvareztrujillolab.com",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10617761",
+    "https://researchgate.net/profile/Salvador-Gallegos-Martinez",
+    "https://www.pubmed.ncbi.nlm.nih.gov/38866003/",
+    "https://ncbi.nlm.nih.gov/pmc/articles/PMC10617761/",
+    "https://alvareztrujillolab.com/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Harvard",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T02:07:20.313+03:00",
+  "updated": "2024-10-18T02:07:20.313+03:00"
+}

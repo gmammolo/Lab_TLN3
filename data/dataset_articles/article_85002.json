@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "c656f0faba009b464dfaa821dc58a40ecb59d001",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1287831",
+    "site_full": "daijiworld.com",
+    "site": "daijiworld.com",
+    "site_section": "https://daijiworld.com",
+    "site_categories": [
+      "media",
+      "top_news_kw",
+      "top_news_ae",
+      "top_news"
+    ],
+    "section_title": "Daijiworld - A News portal linking West coast of India and the World",
+    "site_title": "Daijiworld - A News portal linking West coast of India and the World",
+    "title": "Retinal imaging on OCTA may help predict coronary artery disease risk: Austrian study - Daijiworld.com",
+    "title_full": "Retinal imaging on OCTA may help predict coronary artery disease risk: Austrian study - Daijiworld.com",
+    "published": "2025-07-30T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/retinal_310725_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 25485,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c656f0faba009b464dfaa821dc58a40ecb59d001",
+  "url": "https://daijiworld.com/news/newsDisplay?newsID=1287831",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-07-30T03:00:00.000+03:00",
+  "title": "Retinal imaging on OCTA may help predict coronary artery disease risk: Austrian study - Daijiworld.com",
+  "text": "Daijiworld Media Network- Vienna\nVienna, Jul 31: In a promising development in cardiovascular diagnostics, researchers from Austria have found that noninvasive retinal imaging could help identify patients at risk for coronary artery stenosis (CAS), a major contributor to heart disease-related deaths worldwide.\nThe findings, published in the Canadian Journal of Ophthalmology, come from a study led by Dr Maximilian Pawloff of the Medical University of Vienna. The research focused on the use of Optical Coherence Tomography Angiography (OCTA), a modern imaging technique that captures detailed images of the retina’s blood vessels without the need for injections or invasive procedures.\nThe study involved over 500 patients (982 eyes) who were scheduled to undergo coronary angiography (CA), the current gold standard for diagnosing coronary artery disease. Researchers used OCTA to analyze retinal microvascular parameters, particularly perfusion density (PD) and fractal dimension (FD)—markers that reflect the health and complexity of blood vessels—in both the superficial vascular plexus (SVP) and deep vascular plexus (DVP) of the retina.\nStatistical results showed a significant correlation between reduced PD and FD and the presence of coronary artery stenosis. These changes were most evident in the macular region of the retina, particularly within the inner and outer rings, while no substantial variation was seen around the optic nerve.\nNotably, patients’ left eyes showed lower PD and FD values than the right, indicating a potential asymmetry worth exploring further.\nDr Pawloff emphasized that while CA remains a necessary diagnostic tool, it is both invasive and costly—factors that limit its use in routine screening. “Our results highlight OCTA as a valuable noninvasive option to detect early vascular changes that may indicate heart disease,” he said.\nThe team believes that retinal imaging, when coupled with artificial intelligence, could revolutionize early detection strategies for heart disease. “This study opens the door to more refined, accessible screening methods that could help prioritize patients who truly need invasive testing,” the authors concluded.\nAs the global burden of heart disease continues to rise, these findings suggest a future where a simple eye scan might offer critical insights into cardiovascular health.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Health->medical test",
+    "Health->health treatment and procedure",
+    "Health->heart disease",
+    "Science and Technology->medical research",
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific publication"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Maximilian Pawloff",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Medical University of Vienna",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_kw",
+      "top_news_ae",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T07:54:30.789+03:00",
+  "updated": "2025-08-01T08:04:24.000+03:00"
+}

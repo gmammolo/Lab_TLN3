@@ -1,0 +1,142 @@
+{
+  "thread": {
+    "uuid": "9c9a48b209c8fec7924609cd254942a747b78e01",
+    "url": "https://www.breitbart.com/news/house-votes-to-repeal-iraq-war-authorizations/",
+    "site_full": "www.breitbart.com",
+    "site": "breitbart.com",
+    "site_section": "https://www.breitbart.com:443/news",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_us",
+      "top_news"
+    ],
+    "section_title": "All News - Breitbart News",
+    "site_title": "Breitbart News Network",
+    "title": "House votes to repeal Iraq war authorizations - Breitbart",
+    "title_full": "House votes to repeal Iraq war authorizations - Breitbart",
+    "published": "2025-09-11T13:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.breitbart.com/media/2025/09/wi/upi/house-votes-repeal-iraq-war-authorizations-house-votes-repeal-iraq-war-authorizations.jpg",
+    "performance_score": 0,
+    "domain_rank": 1813,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9c9a48b209c8fec7924609cd254942a747b78e01",
+  "url": "https://www.breitbart.com/news/house-votes-to-repeal-iraq-war-authorizations/",
+  "ord_in_thread": 0,
+  "author": "UPI",
+  "published": "2025-09-11T13:44:00.000+03:00",
+  "title": "House votes to repeal Iraq war authorizations - Breitbart",
+  "text": "Sept. 11 (UPI) — A coalition of House lawmakers from both sides of the aisle has voted to repeal laws authorizing the United States’ use of force in Iraq in 1991 and 2003, which critics say has been abused by presidents.\nThe bipartisan amendment attached to the annual National Defense Authorization Act passed the U.S. House of Representatives in a 261-167 vote on Wednesday. Forty-nine Republicans joined 167 Democrats to pass the bill.\nRep. Gregory Meeks, D-N.Y., a sponsor of the bill, described the decades-old authorizations as “long obsolete” and at risk of abuse by administrations of either party.\n“It’s time for Congress to reclaim its constitutional authority over matters of war and peace,” the ranking member of the House Foreign Affairs Committee said.\nThe 2001 Authorization for Use of Military Force was originally passed by Congress following the Sept. 11, 2001, terrorist attacks. However, it has been used by administrations since to justify military strikes, including during the first Trump administration to justify the assassination of Iranian General Qassem Soleimani in 2020.\nThe vote also comes on the heels of President Donald Trump using the military to attack a drug smuggling vessel earlier this month and Iran’s nuclear facilities earlier this summer.\nThe proposal to repeal the AUMF was part of the $892.6 billion NDAA, which passed the House on Wednesday in a 231-196 vote, with only 17 Democrats giving it their approval.\nUS",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Politics",
+    "Social Issue",
+    "War, Conflict and Unrest"
+  ],
+  "topics": [
+    "Politics->political process",
+    "Politics->government",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "War, Conflict and Unrest->peace process"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Qassem Soleimani",
+        "sentiment": "none"
+      },
+      {
+        "name": "Gregory Meeks",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "House of Representatives",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "House Foreign Affairs Committee",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Congress",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_us",
+      "top_news"
+    ],
+    "bias": "right",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-11T13:47:26.775+03:00",
+  "updated": "2025-09-12T14:10:22.000+03:00"
+}

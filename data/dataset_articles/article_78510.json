@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "d3ac9c8d8e00c1844445031d33a81afd5891133f",
+    "url": "https://elchapuzasinformatico.com/2025/08/amd-filtra-codigo-fuente-fsr-4/",
+    "site_full": "elchapuzasinformatico.com",
+    "site": "elchapuzasinformatico.com",
+    "site_section": "https://elchapuzasinformatico.com/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "El Chapuzas Informático",
+    "site_title": "El Chapuzas Informático &#8902; Noticias de tecnología, reviews, concursos y entrevistas.",
+    "title": "AMD FSR 4: la compañía filtra por error su código fuente",
+    "title_full": "AMD FSR 4: la compañía filtra por error su código fuente",
+    "published": "2025-08-21T11:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://elchapuzasinformatico.com/wp-content/uploads/2025/08/AMD-FSR4-filtrado-codigo-fuente.jpg",
+    "performance_score": 0,
+    "domain_rank": 62982,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d3ac9c8d8e00c1844445031d33a81afd5891133f",
+  "url": "https://elchapuzasinformatico.com/2025/08/amd-filtra-codigo-fuente-fsr-4/",
+  "ord_in_thread": 0,
+  "author": "Borja Rodríguez",
+  "published": "2025-08-21T11:32:00.000+03:00",
+  "title": "AMD FSR 4: la compañía filtra por error su código fuente",
+  "text": "AMD filtra por error todo el código fuente de su tecnología FSR 4 e intenta borrarlo sin éxito\nBien es sabido que Internet no olvida, y un claro ejemplo lo vemos hoy, y es que en la tarde de ayer se dio a conocer que alguien de AMD filtró por error el código fuente completo de su tecnología FSR 4. Hablamos concretamente de su tecnología de escalado AMD Fidelity FX Super Resolution 4, el rival directo de NVIDIA DLSS 4.\nTras cometer este error, el o los trabajadores eliminaron todo rastro del código abierto de AMD FSR en un intento de hacer desaparecer su error. Pero ya fue tarde, varios usuarios se descargaron toda la información. Evidentemente, las implicaciones de este grave error la veremos en los próximos meses. Y quizás a Intel o NVIDIA poco le importe esto. Pero a los principales fabricantes de GPU en auge en China... Este es un golpe de suerte que no esperaban.\n¿Realmente qué ha sucedido?\nFue ayer cuando AMD anunció oficialmente el FidelityFX SDK 2.0, que introduce tecnologías de renderizado neuronal, además del FSR 4 (FidelityFX Super Resolution 4), una solución de upscaling basada en machine learning para generar frames de alta resolución a partir de inputs de menor calidad. Sin embargo, en el repositorio de GitHub (GPUOpen-LibrariesAndSDKs/FidelityFX-SDK), AMD accidentalmente publicó el código fuente y modelos relacionados con FSR 4 en el commit 01446e6a74888bf349652fcf2cbf5f642d30c2bf.\nLo que se filtró: Incluía un directorio específico para FSR 4 bajo upscalers/dx12, con modelos neurales cuantizados en INT8 (i8) para diferentes niveles de calidad y rendimiento. Estos modelos sugieren que FSR 4 utiliza redes neuronales optimizadas para precisión INT8, enfocadas en upscaling por IA. Poco después, trabajadores de AMD intentaron eliminar el contenido sensible, revirtiendo o borrando los archivos relacionados con FSR 4 del repositorio principal. Finalmente todo fue eliminado y resubido sin la información de FSR 4, pero ya era tarde, ya esa valiosa información había sido descargada por personas ajenas a AMD.\nEl caso se viralizó en Reddit y X, donde hay\nnumerosas bromas indicando que alguien \"está en\nproblemas\" en AMD por el error. Evidentemente ha\naparecido gente indicando que tienen la información, por lo que hay\nmuchos interesados en que se comparta un torrent con los shaders y\nmodelos antes de que desaparezcan.\n¿Qué implicaciones tiene la filtración del código fuente de AMD FSR 4?\nEl primer problema, es que revela estrategias como el enfoque en INT8, lo que podría dar pistas a competidores sobre optimizaciones futuras. Además, si hay bugs o ineficiencias en los modelos filtrados, podría dañar la percepción de FSR 4 antes de pulirlo. Aunque FidelityFX es open-source (bajo licencia MIT), los modelos neuronales entrenados podrían considerarse IP propietaria. Si alguien usa los archivos filtrados para mods no autorizados, AMD podría perseguir infracciones, pero es improbable dado el espíritu open-source.\nEsto es lo de menos, lo que realmente importa es que otras compañías podrán copiar la tecnología. FSR es open-source, a diferencia de DLSS (exclusivo de NVIDIA RTX) o XeSS (Intel, pero con opciones open). Competidores como NVIDIA o Intel podrían analizar el código y modelos para inspirarse en sus escaladores (por ejemplo, para mejorar el DLSS Transformer). El leak acelera esto, ya que revela la arquitectura neuronal y optimizaciones INT8.\nPero realmente aquí quien gana es China. Así es, la industria china está comenzando a desarrollar con éxito gráficas de gama media. Estas gráficas comienzan a disfrutar de drivers medianamente pulidos. Y ahora imagina tener prácticamente un clon de la tecnología de escalado AMD FSR 4. Esto pone a la industria china a nivel de los líderes del mercado ahorrándoles mucho tiempo de desarrollo e implantación de la tecnología.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Crime, Law and Justice->cyber crime",
+    "Politics->political development",
+    "Politics->government policy",
+    "Politics->regulation of industry"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/CaptMcShotty/status/1958209363652321604",
+    "https://www.x.com/CaptMcShotty/status/1958209363652321604"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "AMD FSR",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "NVIDIA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "NVDA",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:54:30.188+03:00",
+  "updated": "2025-08-21T12:58:18.000+03:00"
+}

@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "2859d492c328dd8e88a17fc88dc400ce9cbf8b48",
+    "url": "https://games.slashdot.org/story/25/02/27/2144203/ea-releases-source-code-for-old-command-and-conquer-games",
+    "site_full": "games.slashdot.org",
+    "site": "slashdot.org",
+    "site_section": "https://news.co.za/feed",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "News South Africa",
+    "site_title": null,
+    "title": "EA Releases Source Code For Old Command and Conquer Games - Slashdot",
+    "title_full": "EA Releases Source Code For Old Command and Conquer Games - Slashdot",
+    "published": "2025-02-27T20:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://a.fsdn.com/sd/topics/opensource_64.png",
+    "performance_score": 0,
+    "domain_rank": 629,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 2
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2859d492c328dd8e88a17fc88dc400ce9cbf8b48",
+  "url": "https://games.slashdot.org/story/25/02/27/2144203/ea-releases-source-code-for-old-command-and-conquer-games",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "BeauHD",
+  "published": "2025-02-27T20:20:00.000+02:00",
+  "title": "EA Releases Source Code For Old Command and Conquer Games - Slashdot",
+  "text": "EA Releases Source Code For Old Command and Conquer Games (pcgamer.com)\n24\nreleasedthe source code for several classic Command & Conquer games,\nincluding Tiberian Dawn, Red Alert, Renegade, and Generals & Zero Hour. \"They're being released under the GPL license, meaning folks can mix, match, and redistribute them to their hearts' content without EA lawyers smashing down the door,\" adds PC Gamer. Additionally, Steam Workshop support has been added for multiple C&C titles, along with updated mission editor tools and a modding support pack. From the report: As for the Steam Workshop? That's getting switched on for C&C Renegade, C&C Generals and Zero Hour, C&C 3 Tiberium Wars and Kane's Wrath, and C&C 4 Tiberium Twilight (they can't all be winners). EA's also gone and \"updated all the Mission Editor and World Builder tools so you can publish maps directly to the Steam Workshop.\" Plus, it's putting out a modding support pack that \"contains the source Xml, Schema, Script, Shader and Map files for all the games that use the SAGE engine.\"\nPer C&C producer Jim Vessella, EA commissioned C&C community veteran Luke 'CCHyper' Feenan to officially research improvements to many of the games in the Ultimate Collection,\" and this is the fruit of his labor.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.pcgamer.com/games/strategy/ea-just-released-source-code-for-a-bunch-of-old-command-and-conquer-games-and-added-steam-workshop-support-to-bangers-like-c-and-c-3-tiberium-wars/",
+    "https://github.com/electronicarts/CnC_Red_Alert",
+    "https://pcgamer.com/games/strategy/ea-just-released-source-code-for-a-bunch-of-old-command-and-conquer-games-and-added-steam-workshop-support-to-bangers-like-c-and-c-3-tiberium-wars/",
+    "https://www.pcgamer.com/games/strategy/ea-just-released-source-code-for-a-bunch-of-old-command-and-conquer-games-and-added-steam-workshop-support-to-bangers-like-c-and-c-3-tiberium-wars",
+    "https://www.github.com/electronicarts/CnC_Red_Alert"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jim Vessella",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "C&C",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "2859d492c328dd8e88a17fc88dc400ce9cbf8b48",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:32:45.073+02:00",
+  "updated": "2025-02-28T13:22:51.853+02:00"
+}

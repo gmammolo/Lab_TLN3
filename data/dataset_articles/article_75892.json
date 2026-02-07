@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "07432ecd0000f86ec523093c65ce316ebdd2b499",
+    "url": "https://news.knowledia.com/GB/en/articles/zero-day-exploits-plague-ivanti-connect-secure-appliances-for-second-year-3112103eb43c6e06ec1decebc0ea7d30436a6b56?source=rss",
+    "site_full": "news.knowledia.com",
+    "site": "knowledia.com",
+    "site_section": "https://news.knowledia.com/GB/en/feed",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "United Kingdom - Knowledia News",
+    "title": "Zero-day exploits plague Ivanti Connect Secure appliances for second year running",
+    "title_full": "Zero-day exploits plague Ivanti Connect Secure appliances for second year running",
+    "published": "2025-01-10T02:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 73073,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "07432ecd0000f86ec523093c65ce316ebdd2b499",
+  "url": "https://news.knowledia.com/GB/en/articles/zero-day-exploits-plague-ivanti-connect-secure-appliances-for-second-year-3112103eb43c6e06ec1decebc0ea7d30436a6b56?source=rss",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Connor Jones",
+  "published": "2025-01-10T02:06:00.000+02:00",
+  "title": "Zero-day exploits plague Ivanti Connect Secure appliances for second year running",
+  "text": "Factory resets and apply patches is the advice amid fortnight delay for other appliances The cybersecurity industry is urging those in charge of defending their orgs to take mitigation efforts \"seriously\" as Ivanti battles two dangerous new vulnerabilities, one of which was already being exploited as a zero-day.\nIt's just under a year since the last high-profile security snafu hit the vendor and now two new flaws are ready to be patched at the earliest opportunity:\nCVE-2025-0282 (9.0 severity – critical) : The worst of the two is a stack-based buffer overflow bug leading to unauthenticated remote code execution. This is the one that was already exploited, affecting Ivanti Connect Secure before version 22.7R2.5, Ivanti Policy Secure before version 22.7R1.2, and Ivanti Neurons for ZTA gateways before version 22.7R2.3.\nCVE-2025-0283 (7.0 severity – high): The lesser of the two evils is another stack-based buffer overflow leading to privilege escalation for locally authenticated attackers. The same products and versions are affected.\nThe two issues aren't believed to be chained in the attacks. Ivanti said that CVE-2025-0282 is the exploited zero-day, but they just happened to find CVE-2025-0283 during the threat-hunting phase and decided to include it in the advisory.\nThe vulnerabilities will come as especially unwelcome news given that Connect Secure and Policy Secure, closely followed by ZTA Gateways – the subjects of last year's infamous flaws – are again involved here.\nThe fallout from the earlier zero-days, the resulting exploits (believed to be in the thousands), and flawed mitigation strategy prompted the company to commit to a secure-by-design development overhaul, according to an open letter penned by former CEO Jeff Abbott.\nIvanti customers looking for guidance now are advised to run its Integrity Checker Tool (ICT), which offers a little more information about the state of their appliance but shouldn't be relied upon to detect exploit activity or indicators of…\nConnor Jones",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.theregister.com/2025/01/09/zeroday_exploits_ivanti/",
+    "https://theregister.com/2025/01/09/zeroday_exploits_ivanti/",
+    "https://www.theregister.com/2025/01/09/zeroday_exploits_ivanti"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T03:31:31.144+02:00",
+  "updated": "2025-01-10T03:31:31.144+02:00"
+}

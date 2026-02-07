@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "12673c20b16dd2771c5101e44022b46aba770853",
+    "url": "https://cryptonews.net/news/security/30118565",
+    "site_full": "cryptonews.net",
+    "site": "cryptonews.net",
+    "site_section": "https://cryptonews.net/rss.xml",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "World news about cryptocurrency and blockchain technology from different sources",
+    "title": "User Solana wallet exploited in first case of AI poisoning attack",
+    "title_full": "User Solana wallet exploited in first case of AI poisoning attack",
+    "published": "2024-11-22T12:36:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cnews24.ru/uploads/79f/79f128f1e2a69d1a03b3a6d8ddc6215ad4be44aa.webp",
+    "performance_score": 0,
+    "domain_rank": 55532,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "12673c20b16dd2771c5101e44022b46aba770853",
+  "url": "https://cryptonews.net/news/security/30118565",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T12:36:00.000+02:00",
+  "title": "User Solana wallet exploited in first case of AI poisoning attack",
+  "text": "Methods of injecting malicious links are increasing, and it appears to have spread to even AI chat. In this case, the AI bot proposed scam API services, which led to user losses.\nA user discovered ChatGPT is not as security conscious as they expected, especially with crypto links when they tried to create a simple crypto app, a token bumper for Pump.fun. The API link that ChatGPT provided was contaminated and led to an immediate loss.\nThe token bumper connected to the flawed API, which ended up demanding the wallet’s private key and siphoning all its assets. The incident serves as a timely reminder that artificial intelligence tools are not entirely reliable when it comes to Web3 security.\nBe careful with information from @OpenAI ! Today I was trying to write a bump bot for https://t.co/cIAVsMwwFk and asked @ChatGPTapp to help me with the code. I got what I asked but I didn't expect that chatGPT would recommend me a scam @solana API website. I lost around $2.5k 🧵 pic.twitter.com/HGfGrwo3ir\n— r_ocky.eth 🍌 (@r_cky0) November 21, 2024\nThe fake API site has been busy with siphoning SOL from multiple wallets. The destination of the exploiter has already performed 281 transactions. While most of the sums were relatively small, all wallets used were compromised.\nRumors of AI poisoning attacks have been around for a while, but the recent attack is the first complete exploit in the crypto space.\nThe founder of the SlowMist on-chain security firm corroborated the story, stating that the most probable explanation was that the user was playing around with AI without verifying the code. The end product was a functional bot with a carefully disguised backdoor.\nFake Solana API attacks meme token traders\nThe exploiter used their API link to steal some of the latest meme tokens and store them in an identified known wallet. The haul included USDC, SOL, in addition to ELIZA, CHILLGIRL, and AI16Z.\nThe site also acted extremely fast after each connection. It is unknown who else made the call to the fake API site, which made its way into OpenAI’s data. One possible explanation is that ChatGPT accesses Python code from multiple repositories, which can be used to contaminate its available data. In the end, the intent to steal wallet data originates from a human agent. Artificial intelligence is only an amplification tool.\nThe code created by ChatGPT itself generated a part that asked for the private key. According to ScamSniffer, the exploiters deliberately seeded AI-generated Python code, which users would deploy to snipe new Pump.fun tokens.\nTrusting the code was the first mistake, as users were quick to demand Moonshot or Pump.fun trading bots. Some of the repositories are still active, while others have been reported.\nThere is nothing to stop users from attempting to use the bots. The repositories of one such user, Solanaapisdev, still contain risky trading bots, which may end up draining wallets.\nIt is uncertain who created the bot, but the rush for meme tokens was enough to make unwitting users fall for these malicious trading bots. The best approach is to avoid using unknown repositories, or at least to review the code to the best of one’s knowledge.\nWorse, the flawed APIs were also promoted in a Medium article, leading to a documentation page with the same name as the flawed GitHub repository. The available code is promoted to end users who want to automate the process on Jupiter, Raydium, Pump.fun, and Moonshot.\nWhile some services can limit flawed links, there is little to do when end users have decided to risk their wallets with unverified code.\nWith more than 69K new meme tokens launched, the need and greed for speedy sniping has laid the foundation for a new type of exploit. OpenAI has not mentioned how ChatGPT was trained to create the risky bot code.\nMalicious Zoom link scams also evolve\nAnother elaborate attack is evolving at the same time as the API exploit. The fake Zoom link that downloads malware has also changed.\nThe service, previously known as Meeten, is now spreading as Meetio, prompting users to download files. The malware also uses elements of social engineering, such as reaching out to crypto influencers, or known large-scale holders.\nRecently, one of the fake Zoom meeting exploits drained an influencer’s wallet, leading to a crash in GIGA token prices.\nThe advice in each case is to store wallets and private keys on a different device than the one used for riskier connections. For token mints and other connections, the best approach is to use a newly assigned wallet.\nA Step-By-Step System To Launching Your Web3 Career and Landing High-Paying Crypto Jobs in 90 Days.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "12673c20b16dd2771c5101e44022b46aba770853",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:25:11.777+02:00",
+  "updated": "2024-11-22T15:25:11.777+02:00"
+}

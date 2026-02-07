@@ -1,0 +1,135 @@
+{
+  "thread": {
+    "uuid": "da84f2ae86724dc7a5a9811abc79f7da77fa508a",
+    "url": "https://www.forbes.com/sites/daveywinder/2024/11/22/no-your-gmail-messages-arent-100-private-2-ways-to-fix-that",
+    "site_full": "www.forbes.com",
+    "site": "forbes.com",
+    "site_section": "http://www.forbes.com/real-time/feed2",
+    "site_categories": [
+      "media",
+      "top_news_cz",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_ae",
+      "top_news_us",
+      "top_news_pt",
+      "top_news_gb",
+      "top_news_th",
+      "top_news_sa",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_rs",
+      "top_news_hk",
+      "top_news_nl",
+      "top_news_qa",
+      "top_news_ie",
+      "top_news_pk",
+      "top_news_se",
+      "top_news_id",
+      "top_news_dk",
+      "top_news_eg",
+      "top_news_sk",
+      "top_news_ch",
+      "top_news_za",
+      "top_news_ma",
+      "top_news_my",
+      "top_news_il",
+      "top_news_kw",
+      "top_news_fi",
+      "top_news_be",
+      "top_news_in",
+      "top_news_ca",
+      "top_news_iq",
+      "top_news"
+    ],
+    "section_title": "Latest from Forbes",
+    "title": "No, Your Gmail Isn’t Truly Private—2 Ways To Fix That",
+    "title_full": "No, Your Gmail Isn’t Truly Private—2 Ways To Fix That",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://imageio.forbes.com/specials-images/imageserve/65c79f44a97dd781b8b68ab6/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "performance_score": 0,
+    "domain_rank": 71,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "da84f2ae86724dc7a5a9811abc79f7da77fa508a",
+  "url": "https://www.forbes.com/sites/daveywinder/2024/11/22/no-your-gmail-messages-arent-100-private-2-ways-to-fix-that",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Davey Winder",
+  "published": "2024-11-22T02:00:00.000+02:00",
+  "title": "No, Your Gmail Isn’t Truly Private—2 Ways To Fix That",
+  "text": "Update, Nov. 22, 2024: This story, originally published Nov. 21, now includes details of new privacy measures that Google is bringing to Gmail users such as shileded email addresses, as well as those of other Google products and services including Android’s privacy sandbox.\nGoogle’s free Gmail service has been a complete revolution as far as email ease of use and popularity is concerned. With more than 2.5 billion active accounts, according to Google’s own figures, that’s almost a third of the world’s population. One area where Gmail has not been quite so revolutionary, though, is when it comes to email privacy, specifically end-to-end encryption that ensures messages are only read by the intended recipient. While Google has made a big effort to ensure that Gmail is secure and email messages as private as possible, including the use of encryption in transit to stop eavesdropping during the delivery process, end-to-end encryption appears to be a step too far. Here’s why that matters and two things you can do to fix it.\nForbes Stop Using Your Passwords—1Password And Google Warn By Davey Winder Round One—The Great Gmail Privacy Debate OK, let’s make this as clear as possible from the get-go: Google does a great job when it comes to Gmail security and privacy protections for the most part. Gmail data is used in providing features such as smart inbox categorization, smart message compose and for spam detection, but you stay in control of whether these are enabled or not. Similarly, Gmail performance data and crash analytics usage is used to help troubleshoot problems and improve performance, as well as “to help prevent abuse of our services and for analysis,” but you have choices here as well. Then there’s the big issue of serving up relevant adverts in the promotions or social tabs of Gmail, for example, which uses an automated process based on online activity. However, Google makes it quite clear that “we do not process email content to serve ads.”\nSo, where’s the Gmail privacy beef then? Ah, well, that sits with the not so small matter of email message encryption. Or, more to the point, what is encrypted and when.\nRound Two—The Gmail Message Encryption Debate Stop Using Your Passwords—1Password And Google Warn Pam Bondi: What We Know About Trump’s New Pick For AG After Gaetz’s Exit Today’s NYT Mini Crossword Clues And Answers For Friday, November 22nd For the longest time, people have been asking me whether Google encrypts Gmail or not. And the answer remains the same: it’s complicated. By which I don’t mean the encryption process itself, although that necessarily is seeing as it’s a math thing, but rather the what, when and how explanation of Gmail encryption. Once again, Google is very upfront about just how Gmail messages are encrypted. Indeed, it has a support page dedicated to a Gmail encryption FAQ . Here, Google explains how transport layer security is used to encrypt email in transit so it’s protected against eavesdropping by anyone with sufficient access to the networks through which that message travels to its destination. “You can think of it as a temporary envelope of security that is wrapped around your email to keep it private while it is being transmitted to its intended recipient,” Google said.\nThat envelope, however, is opened once the email arrives at its destination and that means anyone with access to that inbox then also has access to the message itself. With your mail being a prime target for hackers, it’s important, therefore, to consider how your Gmail messages could be encrypted end-to-end, even though Google doesn’t provide this additional security measure.\nForbes Now Hackers Are Using Snail Mail In Cyber Attacks—Here’s How By Davey Winder What Google does provide, though, is a Gmail confidential mode that adds some additional access controls such as an expiration date for messages and controls over forwarding, copying, printing and downloading. Certain paid Google Workspace accounts can also make use of Secure/Multipurpose Internet Mail Extensions and client-side encryption. However, when it comes to end-to-end encryption for the masses, those using the free Gmail platform, you’ll need to look elsewhere to increase the privacy threshold of your email. I have approached Google for a statement.\nRound Three—Two Ways To Lockdown Email Privacy Outside Of Gmail Defaults Use a Gmail add-in such as SendSafely which adds end-to-end encryption of Gmail using the OpenPGP standard. “With the SendSafely Chrome Extension , you can send encrypted files and messages directly from Gmail or using our Chrome pop-out menu,” the developers said. Another example of such an encryption add-on is Mailvelope and works in a similar way.\nUse a dedicated email platform complete with end-to-end encryption built in, like Proton Mail , for example. Disclaimer: I have no ties to Proton Mail but I do use it as my day-to-day email client and have been doing so for quite some time now. Although there are paid-for versions of Proton Mail, the free to use version comes with end-to-end encryption and zero-access encryption which means nobody, not even Proton, can see the content of your emails. Proton Mail claims to be “the world’s largest end-to-end encrypted email service,” and whatever the legitimacy of that claim, I can testify to the fact that it’s among the easiest encrypted email platforms I have used. Which is why it makes the perfect alternative to Gmail for anyone looking to move to an end-to-end encryption-supporting platform.\nForbes Gmail Users Beware—Link Hovering Attacks On The Up By Davey Winder Round Four—Google’s Privacy Sandbox, Gmail’s Shielded Email Addresses “Building products that are secure by default, private by design, and put users in control: everything we make at Google is underpinned by these principles, and we’re proud to be an industry leader in developing, deploying, and scaling new privacy-preserving technologies that make it possible to unlock valuable insights and create helpful experiences while protecting our users’ privacy,” Miguel Guevara, product manager for privacy, safety and security at Google, recently told Help Net Security , As I’ve already mentioned, Google is a high-profile target when it comes to accusations of privacy violations, but that doesn’t mean the company isn’t actually doing a lot of good work in this area. Let’s start with Gmail, as that’s what we have focused on so far, and the introduction of shielded email.\nA painstaking analysis of the application package “APK” code for a new Google Play Services release has recently revealed what could be something of a revolutionary privacy move for Gmail: the availability of automated, random, email addresses using a private email forwarding system. If this sounds kind of familiar, that’s because it is. What we think is going to be called Shielded Email for users of the Gmail Android app, is much the same thing that Apple provides iPhone users with in the form of the Hide My Email feature. his notion of having multiple, unique and essentially anonymous email addresses to use with your existing Gmail account is a massive step forward for Gmail users. Although such services exist as add-ins from third parties, to have them bundled into the Gmail app and officially supported is a welcome move towards more privacy.\nForbes Gmail Leak Reveals New Email Addresses Are Heading Your Way By Davey Winder Sticking with Android, but moving out of the purely Gmail domain, there’s the latest Android 16 developer preview which now features Google’s privacy sandbox. This is part of the privacy-focused developments Guevara referred to earlier. “In order to ensure a healthy app ecosystem, benefiting users, developers and businesses, the industry must continue to evolve how digital advertising works to improve user privacy,” Google said. And that’s where the privacy sandbox comes in. It is being developed to improve user privacy but not at the cost of access to free content and services. “The Privacy Sandbox on Android proposes a set of application programming interfaces that enable ads personalization and measurement in a more private way,” Google said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://support.google.com/transparencyreport/answer/7381230",
+    "https://proton.me/mail",
+    "https://chromewebstore.google.com/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke",
+    "https://capi.elements.video/tr/si?token=",
+    "https://chrome.google.com/webstore/detail/sendsafely-encryption-for/glpichgelkekjnccdflklcclhnoioblm",
+    "https://support.google.com/mail/answer/10079371",
+    "https://safety.google/intl/en_us/gmail/",
+    "https://www.helpnetsecurity.com/2024/10/31/miguel-guevara-google-implementing-differential-privacy/",
+    "https://cds.elements.video/a/preload-resources-ovp.json",
+    "https://www.chromewebstore.google.com/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke",
+    "https://www.safety.google/intl/en_us/gmail/",
+    "https://www.cds.elements.video/a/preload-resources-ovp.json",
+    "https://www.proton.me/mail",
+    "https://safety.google/intl/en_us/gmail",
+    "https://www.chrome.google.com/webstore/detail/sendsafely-encryption-for/glpichgelkekjnccdflklcclhnoioblm",
+    "https://www.support.google.com/mail/answer/10079371",
+    "https://www.helpnetsecurity.com/2024/10/31/miguel-guevara-google-implementing-differential-privacy",
+    "https://www.capi.elements.video/tr/si?token=",
+    "https://helpnetsecurity.com/2024/10/31/miguel-guevara-google-implementing-differential-privacy/",
+    "https://www.support.google.com/transparencyreport/answer/7381230",
+    "https://capi.elements.video/tr/si"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dave",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:22:15.521+02:00",
+  "updated": "2024-11-22T15:22:15.521+02:00"
+}

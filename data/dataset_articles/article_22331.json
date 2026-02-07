@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "249a435ab75664d90aed56d9eb91aed0c4e9eb2e",
+    "url": "https://www.miragenews.com/2d-device-for-quantum-cooling-1270053",
+    "site_full": "www.miragenews.com",
+    "site": "miragenews.com",
+    "site_section": "https://miragenews.com/tag/australian",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Live Australian updates | Mirage News",
+    "title": "2D Device For Quantum Cooling | Mirage News",
+    "title_full": "2D Device For Quantum Cooling | Mirage News",
+    "published": "2024-07-04T23:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://actu.epfl.ch/image/145640/1440x810.jpg",
+    "performance_score": 0,
+    "domain_rank": 11530,
+    "domain_rank_updated": "2024-07-02T13:08:10.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "249a435ab75664d90aed56d9eb91aed0c4e9eb2e",
+  "url": "https://www.miragenews.com/2d-device-for-quantum-cooling-1270053",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-07-04T23:08:00.000+03:00",
+  "title": "2D Device For Quantum Cooling | Mirage News",
+  "text": "EPFL engineers have created a device that can efficiently convert heat into electrical voltage at temperatures lower than that of outer space. The innovation could help overcome a significant obstacle to the advancement of quantum computing technologies, which require extremely low temperatures to function optimally. To perform quantum computations, quantum bits (qubits) must be cooled down to temperatures in the millikelvin range (close to -273 Celsius), to slow down atomic motion and minimize noise. However, the electronics used to manage these quantum circuits generate heat, which is difficult to remove at such low temperatures. Most current technologies must therefore separate quantum circuits from their electronic components, causing noise and inefficiencies that hinder the realization of larger quantum systems beyond the lab. Researchers in EPFL's Laboratory of Nanoscale Electronics and Structures ( [LANES](https://www.epfl.ch/labs/lanes/)), led by Andras Kis, in the School of Engineering have now fabricated a device that not only operates at extremely low temperatures, but does so with efficiency comparable to current technologies at room temperature. \"We are the first to create a device that matches the conversion efficiency of current technologies, but that operates at the low magnetic fields and ultra-low temperatures required for quantum systems. This work is truly a step ahead,\" says LANES PhD student Gabriele Pasquale. The innovative device combines the excellent electrical conductivity of graphene with the semiconductor properties of indium selenide. Only a few atoms thick, it behaves as a two-dimensional object, and this novel combination of materials and structure yields its unprecedented performance. The achievement has been published in [Nature Nanotechnology](https://www.nature.com/articles/s41565-024-01717-y). Harnessing the Nernst effect The device exploits the Nernst effect: a complex thermoelectric phenomenon that generates an electrical voltage when a magnetic field is applied perpendicular to an object with a varying temperature. The two-dimensional nature of the lab's device allows the efficiency of this mechanism to be controlled electrically. The 2D structure was fabricated at the EPFL Center for MicroNanoTechnology and the LANES lab. Experiments involved using a laser as a heat source, and a specialized dilution refrigerator to reach 100 millikelvin - a temperature even colder than outer space. Converting heat to voltage at such low temperatures is usually extremely challenging, but the novel device and its harnessing of the Nernst effect make this possible, filling a critical gap in quantum technology. \"If you think of a laptop in a cold office, the laptop will still heat up as it operates, causing the temperature of the room to increase as well. In quantum computing systems, there is currently no mechanism to prevent this heat from disturbing the qubits. Our device could provide this necessary cooling,\" Pasquale says. A physicist by training, Pasquale emphasizes that this research is significant because it sheds light on thermopower conversion at low temperatures - an underexplored phenomenon until now. Given the high conversion efficiency and the use of potentially manufacturable electronic components, the LANES team also believes their device could already be integrated into existing low-temperature quantum circuits. \"These findings represent a major advancement in nanotechnology and hold promise for developing advanced cooling technologies essential for quantum computing at millikelvin temperatures,\" Pasquale says. \"We believe this achievement could revolutionize cooling systems for future technologies.\" [here](/2d-device-for-quantum-cooling-1270053/).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nature.com/articles/s41565-024-01717-y",
+    "https://www.epfl.ch/labs/lanes/",
+    "https://www.epfl.ch/labs/lanes",
+    "https://epfl.ch/labs/lanes/",
+    "https://nature.com/articles/s41565-024-01717-y"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "andras kis",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "quantum cooling | mirage news epfl",
+        "sentiment": "negative"
+      },
+      {
+        "name": "epfl",
+        "sentiment": "none"
+      },
+      {
+        "name": "laboratory of nanoscale electronics",
+        "sentiment": "none"
+      },
+      {
+        "name": "school of engineering",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-07-05T09:13:41.964+03:00",
+  "updated": "2024-07-05T18:50:50.232+03:00"
+}

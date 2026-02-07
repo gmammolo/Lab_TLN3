@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "83fc129232933b0251a7746499b6c203e0c74775",
+    "url": "https://securityonline.info/critical-laravel-flaw-cve-2024-52301-exposes-millions-of-web-applications-to-attack",
+    "site_full": "securityonline.info",
+    "site": "securityonline.info",
+    "site_section": "https://www.securityonline.info",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Cybersecurity News • Cybersecurity Daily",
+    "title": "Critical Laravel Flaw (CVE-2024-52301) Exposes Millions of Web Applications to Attack",
+    "title_full": "Critical Laravel Flaw (CVE-2024-52301) Exposes Millions of Web Applications to Attack",
+    "published": "2024-11-15T04:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 126550,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "83fc129232933b0251a7746499b6c203e0c74775",
+  "url": "https://securityonline.info/critical-laravel-flaw-cve-2024-52301-exposes-millions-of-web-applications-to-attack",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "do son",
+  "published": "2024-11-15T04:27:00.000+02:00",
+  "title": "Critical Laravel Flaw (CVE-2024-52301) Exposes Millions of Web Applications to Attack",
+  "text": "A critical security vulnerability, CVE-2024-52301 , has been identified in the Laravel framework, a popular web application framework known for its elegant syntax and comprehensive toolset for building robust applications. Rated 8.7 on the CVSS scale, this vulnerability could expose a vast number of Laravel-based applications to unauthorized access, data tampering, and privilege escalation.\n\\nCVE-2024-52301 revolves around improper input validation, specifically exploiting Laravel\\u2019s environment configuration. The root of the issue lies in Laravel\\u2019s handling of PHP\\u2019s register_argc_argv directive, which enables command-line arguments to be processed in scripts. If this directive is set to on, the framework can potentially be manipulated by attackers through crafted URLs, changing the environment variables used by Laravel when processing requests.\n\\nThis improper validation provides a pathway for attackers to bypass input validation or inject malicious data. Since register_argc_argv allows access to command-line arguments, Laravel applications with this setting enabled face increased risk, as malicious actors may exploit PHP\\u2019s default behavior, gaining unauthorized control over application environments.\n\\nLaravel is widely used for developing web applications and APIs, making this vulnerability particularly concerning due to its broad potential impact. The flaw affects multiple versions of Laravel, including:\n\\n \\n Versions < 6.20.45 \\n Versions >= 7.0.0 and < 7.30.7 \\n Versions >= 8.0.0 and < 8.83.28 \\n Versions >= 9.0.0 and < 9.52.17 \\n Versions >= 10.0.0 and < 10.48.23 \\n Versions >= 11.0.0 and < 11.31.0 \\n \\nOrganizations relying on these versions of Laravel for public-facing applications are particularly at risk, as attackers could exploit this vulnerability to escalate privileges, access sensitive data, and even inject malicious code.\n\\nIn response to CVE-2024-52301, Laravel has issued patches across affected versions, with the updated versions being:\n\\n\\nThe latest patch ensures that Laravel ignores argv values for environment detection on non-CLI SAPIs (Server Application Programming Interfaces), closing the vulnerability. For developers, this patch is essential, and Laravel advises immediate upgrading to these patched versions.\n\\n Related Posts: \\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/laravel/framework/security/advisories/GHSA-gv7v-rgg6-548h",
+    "https://www.github.com/laravel/framework/security/advisories/GHSA-gv7v-rgg6-548h"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T05:10:14.865+02:00",
+  "updated": "2024-11-15T05:10:14.865+02:00"
+}

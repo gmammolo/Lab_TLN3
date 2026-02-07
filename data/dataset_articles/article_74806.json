@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "9da65ff1415400ed5e0dfa23a8c26ae504911ec3",
+    "url": "https://www.devx.com/daily-news/oracle-agile-plm-vulnerability-patched-urgently",
+    "site_full": "www.devx.com",
+    "site": "devx.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "java",
+      "tech",
+      "databases"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Oracle Agile PLM vulnerability patched urgently",
+    "title_full": "Oracle Agile PLM vulnerability patched urgently",
+    "published": "2024-11-22T01:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.devx.com/wp-content/uploads/Agile-vulnerability.jpg",
+    "performance_score": 0,
+    "domain_rank": 20564,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9da65ff1415400ed5e0dfa23a8c26ae504911ec3",
+  "url": "https://www.devx.com/daily-news/oracle-agile-plm-vulnerability-patched-urgently",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "April Isaacs",
+  "published": "2024-11-22T01:27:00.000+02:00",
+  "title": "Oracle Agile PLM vulnerability patched urgently",
+  "text": "Oracle has released a patch for a critical security vulnerability in its Agile Product Lifecycle Management (PLM) software, CVE-2024-21287. The flaw could allow attackers to steal files from the platform without a username or password. Over 1,000 companies worldwide use Oracle Agile PLM to manage the entire lifecycle of their products.\n\\nThe vulnerability has a severity score of 7.5 and was being actively exploited in the wild. Oracle urged its users to apply the patch immediately to mitigate potential risks . The company\\u2019s Vice President of Security Assurance, Eric Maurice, confirmed the active exploitation in a blog post.\n\\nCrowdStrike, a cybersecurity company , initially reported the exploit to Oracle.\n\\n Agile PLM security fix issued \\nHowever, details about the attackers and their targets have not been disclosed.\n\\nThe vulnerability can be exploited remotely over a network without authentication. If successfully exploited, it could lead to the disclosure of sensitive files.\\xa0 The flaw is considered a significant concern because of the widespread use of Oracle Agile PLM, primarily by large enterprises with over 10,000 employees and\\xa0 revenues exceeding $1 billion .\n\\nUsers are advised to promptly apply the security updates provided by Oracle to secure their systems. Oracle\\u2019s quick response in patching the vulnerability highlights the importance of timely updates to protect against emerging cyber threats . For further information, users can refer to Oracle\\u2019s advisory and Eric Maurice\\u2019s blog post, which provide additional details and guidance on applying the necessary patches.\n\\nThe discovery and patching of this actively exploited vulnerability serves as a reminder of the critical importance of robust cybersecurity practices and prompt patch management to safeguard against potential breaches and data leaks .\n\\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Business and Market Analysis"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Eric Maurice",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T05:01:45.512+02:00",
+  "updated": "2024-11-22T11:10:45.867+02:00"
+}

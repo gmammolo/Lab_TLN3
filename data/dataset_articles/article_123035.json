@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "2c582bd161f30561646f2ab7866fbb30625c32e2",
+    "url": "https://news.okstate.edu/articles/engineering-architecture-technology/2025/osu_researchers_develop_new_tools_to_protect_oklas_power_grid_from_flooding.html",
+    "site_full": "news.okstate.edu",
+    "site": "okstate.edu",
+    "site_section": "https://news.google.com/search?q=to%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "graduate_school",
+      "education"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": null,
+    "title": "OSU researchers develop new tools to protect Okla's power grid from flooding",
+    "title_full": "OSU researchers develop new tools to protect Okla's power grid from flooding",
+    "published": "2025-12-19T16:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://news.okstate.edu/articles/engineering-architecture-technology/images/2025/osu_researchers_develop_new_tools_to_protect_oklas_power_grid_from_flooding/kenawy_flood_header_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 10905,
+    "domain_rank_updated": "2025-12-14T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2c582bd161f30561646f2ab7866fbb30625c32e2",
+  "url": "https://news.okstate.edu/articles/engineering-architecture-technology/2025/osu_researchers_develop_new_tools_to_protect_oklas_power_grid_from_flooding.html",
+  "ord_in_thread": 0,
+  "author": "Desa James",
+  "published": "2025-12-19T16:33:00.000+02:00",
+  "title": "OSU researchers develop new tools to protect Okla's power grid from flooding",
+  "text": "OSU researchers develop new tools to protect Okla’s power grid from flooding\nFriday, December 19, 2025\nMedia Contact:\nDesa James | Communications Coordinator | 405-744-2669 | desa.james@okstate.edu\nAs extreme weather events become more frequent across the United States, researchers from the College of Engineering, Architecture and Technology are working to make the state’s power grid more resilient against one of its most damaging threats – flooding.\nA new study led by Dr. Maha Kenawy, assistant professor at the School of Civil and Environmental Engineering, is developing a computational tool to assess the vulnerability of electric transmission\ninfrastructure during severe rainfall events. The project aims to help utilities,\nemergency managers and policymakers plan and prevent large-scale power disruptions\ncaused by flooding.\nKenawy will collaborate with her fellow CIVE colleague, assistant professor Dr. Gabriel Perez, combining complementary expertise to strengthen the project’s multidisciplinary approach.\nKenawy specializes in structural and natural hazard engineering, with a focus on computational modeling and simulation of infrastructure systems to assess their vulnerability to extreme events. Perez brings expertise in hydrologic and flood modeling, using stochastic storm generators and process-based models to study extreme rainfall and water-resilient infrastructure. Together, their collaboration bridges structural and hydrological perspectives.\n“The overall goal of this project is to improve the resilience of electric power transmission infrastructure in Oklahoma against severe weather, specifically extreme rainfall events,” Kenawy said.\nThe research focuses primarily on steel lattice towers, which may be susceptible to flood-related damage and debris flows along steep slopes. When these systems fail, communities can face widespread outages and prolonged recovery operations.\nBecause Oklahoma experiences frequent heavy rainfall and flash flooding, the team is using state-specific hydrologic data and historical flood records to identify the most vulnerable regions across the state. Their approach integrates hydrologic simulations, structural engineering models and artificial intelligence to create a regional-scale risk assessment framework.\nThe researchers will benchmark the proposed methods against the Department of Energy's data from past power outages and infrastructure disruptions caused by extreme weather in Oklahoma.\n“The outcome of this project will be a computational regional-scale risk assessment tool, which can be used by stakeholders for identifying regions of high vulnerability to flooding-induced power disruptions or for planning of future expansions of electric transmission lines,” Kenawy said.\nBy the end of the first year, the team plans to produce regional-scale flood risk maps for eastern Oklahoma, with plans to expand statewide in the project’s second year using machine learning methods that accelerate predictions of the cascading flood risks.\n“Our goal is to help Oklahoma’s communities build a more reliable and resilient energy grid,” Kenawy said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Environment",
+    "Weather"
+  ],
+  "topics": [
+    "Environment->energy saving",
+    "Environment->climate change",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Gabriel Perez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Maha Kenawy",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "OSU",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-19T17:20:03.144+02:00",
+  "updated": "2025-12-19T17:25:30.000+02:00"
+}

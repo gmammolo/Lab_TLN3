@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "3c7701bd5f75314871f2559fd8b7b9b42c9dbde9",
+    "url": "https://www.adslzone.net/noticias/internet/analisis-vpn-populares-android",
+    "site_full": "www.adslzone.net",
+    "site": "adslzone.net",
+    "site_section": "http://www.adslzone.net/feed/",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "ADSLZone",
+    "title": "Un análisis de las 30 VPNs de pago más populares de Android revela que más de la mitad sufre fugas de datos",
+    "title_full": "Un análisis de las 30 VPNs de pago más populares de Android revela que más de la mitad sufre fugas de datos",
+    "published": "2024-11-22T13:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.adslzone.net/app/uploads-adslzone.net/2024/11/vpn.jpg",
+    "performance_score": 0,
+    "domain_rank": 24871,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3c7701bd5f75314871f2559fd8b7b9b42c9dbde9",
+  "url": "https://www.adslzone.net/noticias/internet/analisis-vpn-populares-android",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alberto G. Méndez",
+  "published": "2024-11-22T13:00:00.000+02:00",
+  "title": "Un análisis de las 30 VPNs de pago más populares de Android revela que más de la mitad sufre fugas de datos",
+  "text": "Un análisis de las 30 VPNs de pago más populares de Android revela que más de la mitad sufre fugas de datos\nLos expertos de Top10VPN han realizado un análisis sobre la seguridad de las 30 aplicaciones de VPN de pago más populares de Android. En general, el estudio demuestra que las VPN de pago son más confiables que las apps gratuitas, no obstante, el estudio ha revelado también algunas fugas de seguridad en determinados servicios de VPN, que mencionaremos a continuación.\nTras analizar las 30 VPNs de pago más populares para smartphone, que reúnen entre todas más de 732 millones de descargas en todo el mundo en la Play Store, ha quedado de manifiesto que el hecho de ser de pago no es siempre indicativo de que la app esté libre de fallos.\nAunque los riesgos de seguridad encontrados son menos graves que aquellos que detectaron en un previo estudio similar sobre VPNs gratuitas, sí que han detectado fugas de datos de carácter leve en 16 de las VPN estudiadas. En concreto, 15 VPN delataban su uso por parte de los usuarios debido a la falta de cifrado SNI, y 7 aplicaciones VPN filtraron solicitudes DNS en condiciones muy específicas.\nPor otro lado, 3 aplicaciones VPN compartieron datos de una forma que pone en riesgo la privacidad del usuario, ya sea a través del seguimiento de anuncios (2 VPN) o malas prácticas (1 VPN). También destaca el uso de servidores DNS de terceros, ya que 7 VPN comprometen potencialmente la privacidad del usuario al no operar sus propios servidores DNS, incluidas 2 VPN que utilizan servicios distintos de Google/Cloudflare.\nOtras debilidades detectadas en algunas de estas VPN de pago eran las relacionadas con inestabilidad del túnel, y un uso invasivo mediante permisos de hardware o software del dispositivo. Así, unas 6 aplicaciones VPN solicitaron permisos de alto riesgo que no se podían justificar en función de las características de su producto, como ubicación (4 VPN), cámara (2) y lectura del estado del teléfono (1), mientras que 4 aplicaciones VPN tienen acceso a elementos de hardware arriesgados, como cámaras, micrófonos y GPS.\nLas VPN con fallos detectados\nLas VPN que mostraron tener fugas de DNS (aunque solo consultas de DNS específicas) son:\n- hide.me VPN: The Privacy Guard\n- PrivateVPN\n- TunnelBear VPN\n- Astrill VPN\n- Avira Phantom VPN: Fast VPN\nPor otro lado, las apps de VPN con SNI (indicador del nombre del servidor) visible en lugar de oculto (y que por tanto revelan a otros el hecho de estar usando una VPN) son:\n- Surfshark: Secure VPN service\n- Private Internet Access VPN\n- PureVPN – Fast and Secure VPN\n- PrivadoVPN – VPN App & Proxy\n- HMA VPN Proxy & WiFi Security\n- Hotspot Shield VPN: Fast Proxy\n- PrivateVPN\n- Private & Secure VPN: TorGuard\n- Mozilla VPN – Secure & Private\n- TunnelBear VPN\n- KeepSolid VPN Unlimited\n- VyprVPN: Ultra-private VPN\n- X-VPN – Private Browser VPN\n- Avira Phantom VPN: Fast VPN\n- PandaVPN Pro – Fast Secure VPN\nLas VPN más seguras\nEntre las VPN que no han mostrado signos de debilidad en este estudio encontramos servicios como los de NordVPN, ExpressVPN o Windscribe VPN. En concreto, NordVPN demuestra ser una de las más seguras en tanto que usa resolución de DNS propia (en lugar de terceros), oculta el SNI y no presenta fugas de DNS. NordVPN tampoco comparte información delicada como correo electrónico o marcadores publicitarios, y tampoco solicita permisos invasivos sobre el teléfono, como permisos sobre la cámara o archivos.\nEn general, las VPN de pago incluyen en su código muchos menos rastreadores publicitarios que las VPN gratuitas.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T13:55:34.401+02:00",
+  "updated": "2024-11-22T13:55:34.401+02:00"
+}

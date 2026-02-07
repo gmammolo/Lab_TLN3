@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "91b16cca8f747b3250c9844737c25f53181f24f9",
+    "url": "https://dig.watch/updates/comet-browser-caught-submitting-private-info-in-fake-shop",
+    "site_full": "dig.watch",
+    "site": "dig.watch",
+    "site_section": "https://dig.watch/updates",
+    "site_categories": [
+      "non_standard_content"
+    ],
+    "section_title": "Updates | Digital Watch Observatory",
+    "site_title": "Home | Digital Watch Observatory",
+    "title": "Comet browser caught submitting private info in fake shop | Digital Watch Observatory",
+    "title_full": "Comet browser caught submitting private info in fake shop | Digital Watch Observatory",
+    "published": "2025-08-21T12:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2025/07/OpenAI-Chrome-browser-Google-ChatGPT-AI-Alphabet-1024x683.jpg",
+    "performance_score": 0,
+    "domain_rank": 42135,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "91b16cca8f747b3250c9844737c25f53181f24f9",
+  "url": "https://dig.watch/updates/comet-browser-caught-submitting-private-info-in-fake-shop",
+  "ord_in_thread": 0,
+  "author": "harrisorla@gmail.com",
+  "published": "2025-08-21T12:00:00.000+03:00",
+  "title": "Comet browser caught submitting private info in fake shop | Digital Watch Observatory",
+  "text": "Comet browser caught submitting private info in fake shop\nPromptFix exploit shows agentic AI systems can be fooled with fake CAPTCHAs.\nCybersecurity researchers have uncovered a new AI browser exploit that allows attackers to manipulate autonomous systems using fake CAPTCHA checks.\nThe PromptFix method tricks agentic AI models into executing commands embedded in deceptive web elements invisible to the user.\nGuardio Labs demonstrated that the Comet AI browser could be misled into adding items to a cart and auto-filling sensitive data.\nComet completed fake purchases without user confirmation in some tests, raising concerns over AI trust chains and phishing exposure.\nAttackers can also exploit AI email agents by embedding malicious links, prompting the system to bypass user review and reveal credentials.\nChatGPT’s Agent Mode showed similar vulnerabilities but confined actions to a sandbox, preventing direct exposure to user systems.\nWould you like to learn more about AI, tech and digital diplomacy? If so, ask our Diplo chatbot!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html?m=1",
+    "https://www.diplomacy.edu/",
+    "https://openai.com/index/chatgpt/",
+    "https://openai.com/index/chatgpt",
+    "https://diplomacy.edu/",
+    "https://www.diplomacy.edu",
+    "https://www.openai.com/index/chatgpt/",
+    "https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html",
+    "https://www.thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html?m=1"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Digital Watch Observatory",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:10:53.651+03:00",
+  "updated": "2025-08-21T13:16:02.000+03:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "6243b52763bbf28889eb19548b6a40096b87068d",
+    "url": "https://news.rambler.ru/games/55135769-vsego-odna-funktsiya-v-smartfone-bystro-ego-razryazhaet-kak-ee-otklyuchit",
+    "site_full": "news.rambler.ru",
+    "site": "rambler.ru",
+    "site_section": "https://news.rambler.ru/rss/games/latest/?limit=100",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "section_title": "Последние новости — Рамблер/новости",
+    "site_title": "Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас",
+    "title": "Всего одна функция в смартфоне быстро его разряжает: как ее отключить - Рамблер/новости",
+    "title_full": "Всего одна функция в смартфоне быстро его разряжает: как ее отключить - Рамблер/новости",
+    "published": "2025-08-13T15:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=55135769&amp;format=png",
+    "performance_score": 0,
+    "domain_rank": 1966,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6243b52763bbf28889eb19548b6a40096b87068d",
+  "url": "https://news.rambler.ru/games/55135769-vsego-odna-funktsiya-v-smartfone-bystro-ego-razryazhaet-kak-ee-otklyuchit",
+  "ord_in_thread": 0,
+  "author": "Южный автомобиль",
+  "published": "2025-08-13T15:57:00.000+03:00",
+  "title": "Всего одна функция в смартфоне быстро его разряжает: как ее отключить - Рамблер/новости",
+  "text": "Многие владельцы смартфонов на Android со временем замечают, что батарея разряжается быстрее обычного. Часто причина кроется в отдельных функциях, которые не только потребляют много энергии, но и отслеживают действия пользователя, отмечает один из техноблогеров YouTube.\nЧтобы отключить такие функции, откройте «Настройки» → «Защита и конфиденциальность» → «Специальные разрешения» → «Доступ к данным об использовании».Далее:\nЗайдите в «Цифровое благополучие» и отключите доступ к истории использования. Сделайте то же самое для Analytics. Отключите доступ у Device Health Services.\nПродолжение истории после рекламы\nЭти сервисы постоянно отслеживают активность на смартфоне, что ускоряет разрядку аккумулятора.\nПродлить время работы батареи помогут и другие меры:\nвключение режима энергосбережения; снижение яркости экрана; отключение Wi-Fi и GPS, если они не нужны; ограничение фоновой активности приложений (в настройках в разделе «Приложения» уберите галочку напротив «Разрешить работу в фоновом режиме»).\nВыполнив эти шаги, можно заметно сократить расход энергии и увеличить время работы устройства без подзарядки.\nПродолжение истории после рекламы\nЮжный автомобиль: последние новости Чем пользоваться вместо WhatsApp и Telegram: объяснил эксперт Харитонов",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:05:26.803+03:00",
+  "updated": "2025-08-16T01:06:17.115+03:00"
+}

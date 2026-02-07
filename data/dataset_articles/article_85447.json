@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "fe2e3b6aaab3766df3f671af22123e1768ae6da1",
+    "url": "https://www.163.com/dy/article/K5PTLBT805119734.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "http://news.163.com",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "网易新闻",
+    "site_title": "网易",
+    "title": "浙大开发首款水基X射线探测器，性能超越多数传统半导体探测器|二极管|x射线探测器_网易订阅",
+    "title_full": "浙大开发首款水基X射线探测器，性能超越多数传统半导体探测器|二极管|x射线探测器_网易订阅",
+    "published": "2025-07-31T06:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 273,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fe2e3b6aaab3766df3f671af22123e1768ae6da1",
+  "url": "https://www.163.com/dy/article/K5PTLBT805119734.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-07-31T06:44:00.000+03:00",
+  "title": "浙大开发首款水基X射线探测器，性能超越多数传统半导体探测器|二极管|x射线探测器_网易订阅",
+  "text": "水能够检测 X 射线？这一发现颠覆了常规 X 射线探测器主要依赖于硅、锗或碲化镉等固态半导体材料的传统认知。\n近期，浙江大学林时胜教授团队成功研制出全球首款水基 X 射线探测器，并展现出优异的 X 射线检测性能。其核心创新在于采用了创新的垂直层状结构设计——由石墨烯、极性液体（如水）和硅片组成的“三明治”结构，实现了自驱动的高灵敏度 X 射线检测。\n在性能表现方面，该探测器在自驱动模式下展现出卓越的特性：暗电流极低（不超过 1.8 纳安每平方厘米），对 X 射线剂量率具有良好的线性响应，灵敏度达到 104.5 微库仑每戈瑞每平方厘米，响应时间仅 19 毫秒。\n图丨林时胜（来源：林时胜）\n研究团队还通过引入高原子序数元素（如碘）进一步优化了探测器性能，将灵敏度提升至 224 微库仑每戈瑞每平方厘米。这一数值不仅超越了大多数自驱动 X 射线探测器的性能水平，甚至接近高性能钙钛矿自驱动探测器的标准。\n（来源：Advanced Functional Materials）\n这项技术的突破性意义体现在多个方面：\n首先，在应用领域，它在医疗成像（特别是低剂量 X 射线检测）、光刻机以及 X 射线剂量标定等方面展现出巨大潜力；其次，在产业化方面，该器件低于现有市场产品成本和制造工艺简单的特点；更重要的是，这项研究不仅突破了固态材料的物理限制，还为开发更高灵敏度、更低功耗的新一代探测器奠定了重要的科学基础。\n“现在，我们已经掌握了 X 射线设施、水基体系优化和表面处理等核心技术。这是该方向的第一篇论文，已经超越了大部分相同结构探测器的水平，证明了其良好的发展前景。”林时胜对 DeepTech 表示。\n近日，相关论文以《高性能水基 X 射线探测器》（High Performance Water Based X-Ray Detector）为题发表在 Advanced Functional Materials [1]。浙江大学博士生杨仁余是第一作者，林时胜教授是想法的提出者，并担任通讯作者。\n图丨相关论文（来源：Advanced Functional Materials）\n这项研究是林时胜带领团队长期科研探索的延续性成果。追溯其研究历程可以发现，早在 2022 年，他就创新性地提出了“水的半导体二极管”这一新型光电探测器概念。这一研究起源于林时胜对半导体间发电器件的基础研究，特别是动态二极管的原创发明 [2]。后续在液态光电探测器方向持续发展，并与包括诺贝尔物理学奖得主康斯坦丁·诺沃肖洛夫（Konstantin Novoselov）在内的教授合作了基于水凝胶的紫外光探测器 [3] 。\n此外，在研究过程中，团队将这一物理原理进一步拓展至水在半导体间流动发电的新体系。随后，推动到光子运动与液体水分子运动作用，通过光激发调控水分子（两个氢原子和一个氧原子）的定向翻转运动，成功实现了液体光电电信号的产生。\n（来源：Advanced Functional Materials）\n最初，这种脉冲电信号仅在可见光频段被观测到。考虑到光刻机在 EUV 和软 X 射线波段的应用前景广阔，研究团队决定将其拓展到紫外、X 射线和中子射线探测领域，尤其是深紫外波段，并最终成功实现了 X 射线的有效探测。\n林时胜解释说道：“从最初的可见光探测研究开始，我们就一直在探索将其拓展至 X 射线探测的可能性。这不仅是由于 X 射线在光刻机、天文学等领域的重大应用价值，更因为这是一个极具挑战性的跨学科研究领域。”\n（来源：Advanced Functional Materials）\n与传统半导体 X 射线探测器相比，水基探测器展现出显著的技术优势。传统探测器通常需要配备复杂的冷却系统（如液氮冷却装置），这不仅增加了设备的整体重量，也大幅提高了制造成本。而水基探测器完全无需冷却系统，极大简化了设备结构设计。\n在材料性能方面，传统多晶碲锌镉材料不仅合成工艺复杂，而且内部缺陷较多，容易产生极化等不稳定现象。相比之下，水基探测器采用成熟的硅材料体系，有效规避了这些材料稳定性问题。值得注意的是，当前大多数高性能探测器都依赖于昂贵的特殊材料或复杂的制备工艺，而水基探测器在保持高探测灵敏度的同时，显著降低了制造成本。\n探测器的核心工作原理基于极性液体分子在 X 射线照射下的动态极化过程。当 X 射线激发硅表面产生光生载流子时，水分子在界面处发生翻转极化，氢端朝向硅表面，氧端朝向石墨烯电极。\n这一过程破坏了原有的电荷平衡，促使外电路产生电流。关闭 X 射线后，水分子迅速恢复到无序状态，形成可重复观测的瞬态极化电流、稳态极化电流和去极化电流。这种独特的工作机制不仅实现了高效的 X 射线-电能转换，还避免了传统探测器中因载流子复合导致的性能衰减问题，展现出优异的稳定性。\n（来源：Advanced Functional Materials）\n在研究推进过程中，团队面临了诸多技术挑战。首要难题是水作为 X 射线探测介质的可行性问题——此前从未有研究尝试用水探测 X 射线，水的电子传输理论不确定性等。\n其次，合适的 X 射线测试设备的选择也耗费了大量精力。团队曾咨询多家设备厂商，并获得通策集团捐赠的 X 射线设备，后来在浙江大学极端光学仪器国家重点实验室的支持下，使用软 X 射线设备进行测试，虽然取得一定进展但仍未达到预期。经过深入讨论，团队创新性地提出向水中添加 X 射线吸收微纳粒子的解决方案。\n林时胜指出，水的独特优势之一在于其优异的溶解性，这与传统半导体材料难以兼容其他物质的特性形成鲜明对比。通过系统筛选多种材料，团队最终在化学改性方面取得突破性进展。\n基于详尽的文献调研和实验验证，研究团队确信当前水基 X 射线探测器的性能已与 Nature Science 等顶级期刊报道的钙钛矿 X 射线探测器最高水平接近。\n谈及该技术的产业化发展，林时胜表示：“任何技术的工业化进程都必然经历市场应用驱动的迭代升级过程，就像苹果手机从初代到 iPhone13 的演进历程。”\n他坚信这项技术具备产业化潜力，但也同时指出, 在技术升级过程中需要统筹考虑工程人才、资金投入、技术配套等关键要素的系统性匹配。该团队期待未来与更多的跨领域学者开展合作，突破传统的思维局限，共同推动探测器技术的创新发展。\n参考资料：\n1.R. Yang et al. High Performance Water Based X-Ray Detector.\nAdvanced Functional Materials\n. 2025, 2506015. https://doi.org/10.1002/adfm.202506015\n2.S. Lin et al. A High Current Density Direct-Current Generator Based on a Moving van der Waals Schottky Diode.\nAdvanced Materials\n2018. https://doi.org/10.1002/adma.201804398\n3.C. Liu et al. Hydrogel Based UV Photodetector Based on Polarization of\nFree Water Molecules.\nLaser & Photonics Reviews\n2024, 2400615. https://doi.org/10.1002/lpor.202400615\n排版：刘雅坤",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://doi.org/10.1002/adfm.202506015",
+    "https://doi.org/10.1002/lpor.202400615",
+    "https://doi.org/10.1002/adma.201804398",
+    "https://www.doi.org/10.1002/adfm.202506015",
+    "https://www.doi.org/10.1002/adma.201804398",
+    "https://www.doi.org/10.1002/lpor.202400615"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T08:15:39.501+03:00",
+  "updated": "2025-07-31T08:18:22.000+03:00"
+}

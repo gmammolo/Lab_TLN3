@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "f9dfa49ece1b60cbe1f513981311c6c3f5da0b94",
+    "url": "https://www.thestar.com.my/tech/tech-news/2024/11/15/activist-terrible-ai-has-given-tech-an-existential-headache",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/opinion/columnists/musings",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Columnists - Opinion | The Star",
+    "title": "Activist: ‘Terrible’ AI has given tech an existential headache | The Star",
+    "title_full": "Activist: ‘Terrible’ AI has given tech an existential headache | The Star",
+    "published": "2024-11-15T06:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/11/15/3018278.jpg",
+    "performance_score": 0,
+    "domain_rank": 2225,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f9dfa49ece1b60cbe1f513981311c6c3f5da0b94",
+  "url": "https://www.thestar.com.my/tech/tech-news/2024/11/15/activist-terrible-ai-has-given-tech-an-existential-headache",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Joseph BOYLE",
+  "published": "2024-11-15T06:00:00.000+02:00",
+  "title": "Activist: ‘Terrible’ AI has given tech an existential headache | The Star",
+  "text": "LISBON: Technology firms are ceaselessly promoting new AI products, but climate activist Sage Lenier says AI is useless, unsustainable and has given the industry an existential problem.\n\"AI has no benefit to society,\" she told AFP on the sidelines of the Web Summit tech conference in Lisbon.\nThe CEOs who have become enraptured by a \"useless\" product class have smashed the idea of tech as an essential utility.\n\"And now they have an existential problem,\" she said.\nLenier first garnered attention as a 19-year-old student in 2018 when she founded and led a course at the University of California, Berkeley, titled \"Solutions for a Sustainable & Just Future\".\nShe has said students like her were sick of the kind of climate education that offered no hope – she wanted to focus on the solutions not just the problems.\nHundreds joined the course at Berkeley over the years and eventually hundreds more online, and Lenier has since built a nonprofit around it and now hopes to launch a documentary series.\nThe California native, who now lives in New York, said she was largely positive about tech.\nBut her climate focus makes her an outsider at the Web Summit – \"I'll keep coming if they want me to shout at them,\" she said.\nLast year, she told the crowd: \"Some of you could be considered directly responsible for architecting the ecological crisis.\"\nShe implored tech bosses to embrace the circular economy, which relies on reusing and recycling rather than creating products that end up being junked.\nBut one year on, Microsoft, Google and others have unleashed an endless stream of energy-gobbling AI products.\nThey have rushed to reopen nuclear plants, pledged to build many more data centres – and crashed through their climate targets.\n‘Waste of emissions’\nYet AI, Lenier said, \"has a million negatives\".\n\"It is terrible for the planet. It's terrible for every community that you're running data centres in. And it's useless. I think it's just a waste of emissions,\" she said.\nShe points out that it was not always this way in the tech sector.\n\"It was the only industry, at least in America, where for years and years they tried to portray themselves as clean, green and pro-future,\" she said.\n\"Bill Gates has written multiple books on climate change.\"\nThe CEOs really want the image, and succeeded in dodging the kind of scrutiny put on the fashion and automotive industries.\n\"Then the moment they got an opportunity, with AI, to increase shareholder returns... every single one of them slammed the red button,\" she said.\n‘So bad so fast’\nAlthough Lenier came to prominence by focusing attention on the solutions to the climate crisis, she sees a bleak future coming within a generation.\n\"(Expletive) is going to get so bad so fast. The food chain is going to break. We will see mass malnourishment if not mass starvation,\" she said.\nThe power grid, too, will break down.\nAgainst this background, products like cars and new clothes are superfluous.\n\"You can't have cars in the long term. It doesn't matter if they're electric or not. They're unsustainable,\" she said.\n\"We can't be producing 80 billion garments of clothing a year in a low carbon future.\"\nA year ago, she said she might have argued that tech was something different.\n\"It's a piece of our infrastructure, we built our societies around it,\" she said.\nBut with AI, \"they've given themselves their own little fast fashion\". – AFP\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sage Lenier",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "AFP",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T07:35:51.123+02:00",
+  "updated": "2024-11-15T07:35:51.123+02:00"
+}

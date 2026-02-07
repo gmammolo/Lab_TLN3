@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "1afd79d7fbae4f40d0b209c5e4b8828d30d614b1",
+    "url": "https://www.rdworldonline.com/ai-agents-the-next-big-thing-in-science-eventually",
+    "site_full": "www.rdworldonline.com",
+    "site": "rdworldonline.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "AI agents poised to redefine scientific research — in the long run",
+    "title_full": "AI agents poised to redefine scientific research — in the long run",
+    "published": "2024-12-06T01:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.rdworldonline.com/wp-content/uploads/2024/12/AdobeStock_1016152964-copy.webp",
+    "performance_score": 0,
+    "domain_rank": 58155,
+    "domain_rank_updated": "2024-12-02T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1afd79d7fbae4f40d0b209c5e4b8828d30d614b1",
+  "url": "https://www.rdworldonline.com/ai-agents-the-next-big-thing-in-science-eventually",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brian Buntz",
+  "published": "2024-12-06T01:16:00.000+02:00",
+  "title": "AI agents poised to redefine scientific research — in the long run",
+  "text": "Continue to Site Research & Development World\nR&D World Home Topics Aerospace Archeology Automotive Biotech Chemistry Environment Energy Life Science Material Science R&D Management Physics Technology 3D Printing A.I./Robotics Battery Technology Controlled Environments Cleanrooms Graphene Lasers Regulations/Standards Sensors Imaging Nanotechnology Scientific Computing Big Data HPC/Supercomputing Informatics Security Software Semiconductors R&D Market Pulse 2024 R&D 100 Awards Winner Archive R&D 100 Awards Resources Digital Issues Podcasts Subscribe Video Webinars Global Funding Forecast R&D Index SUBSCRIBE AI agents: The next big thing in science — eventually? By Brian Buntz | December 5, 2024\n[Adobe Stock]\nIf you read much about AI, you’ve likely noticed the growing number of models capable of “reasoning” and acting autonomously. This isn’t just about chatbots; it’s transforming scientific discovery. Google DeepMind recently launched a 15-day weather forecasting agent, bringing new levels of accuracy to complex atmospheric modeling. OpenAI’s latest reasoning model, o1, has demonstrated potential in scientific text analysis, accelerating literature reviews and hypothesis generation. It also is capable of math unlike most large language models. Beyond these headline-grabbing advances, AI agents are gradually finding use in research labs, automating experiments and analyzing complex datasets. Stanford’s Virtual Lab, for example, taps AI agents to collaboratively design new nanobodies. As these technologies mature, companies ranging from Microsoft to Salesforce are betting that AII agents offer revenue potential potentially untethered from traditional user-based software licenses. With Zdnet reporting that one-quarter of enterprises plan to deploy agents in 2025, this transformation is rapidly gaining steam. But the rise of agents is likely to be limited to defined use cases initially. It may not be time for a while to hand over the reins to AI for some time. “People think if ChatGPT can do something, it can do anything humans can and more,” remarked Mike Connell, chief operating officer at Enthought. Yet he also warned that dismissing these technologies out of hand is shortsighted. The potential of AI systems to do even rote tasks that humans once did — with minimal oversight — makes agents an unavoidable potential reality. “It’s not going to fizzle out.”\nWhen seeking areas to explore agents, start small, he recommended. “If you take something like coding … it’s safe. You can let it do that. If it breaks, it’s not catastrophic,” Connell said. He contrasted these limited-risk applications with the prospect of entrusting an AI to run a nuclear reactor—an idea he called “not happening in 2025, but maybe by 2030 or 2035.” But it’s now time to start think about putting agents to work — if only for limited projects — such as building out a prototype app. “We’ve opened up this design space,” he reminds us, “and we need to figure out how to best fill it.”\nPreserving human oversight and establishing risk boundaries Mike Connell\nThe challenge, Connell pointed out, lies in quantifying “when is ‘good’ good enough?” The difficulty of pinning down acceptable error rates becomes clearer as AI agents venture into high-stakes territory. Traditional oversight models—designed for human operators—will struggle to keep pace with AI systems that can adapt or even go off-script. Anthropic shares the story of a computer using its Claude model that took a break from work to peruse photos of Yellowstone . While a comical example, the potential of generative AI models to act in unpredictable ways will be a concern when building agents that can stay on task. “We need to figure out what additional components or use-case patterns we need to embed … so [models] perform better,” Connell said.\nHuman-like reasoning modules, specialized domain training, and robust testing protocols may all be parts of the solution. Connell likened current large language models to a “blob of cortex,” an engine of raw capability that emerged at scale. “They didn’t design it for all these applications; these capabilities emerged with scale, surprising even the engineers.”\nRedefining human responsibilities While a coding agent is one thing, a robotic agent is another. For instance, if lab robots can handle the repetitive, time-consuming execution of experiments, biologists and scientists are effectively freed to operate as strategic directors. No longer must they worry about, say, pipetting, recalibrating equipment or counting cells on slides. Unsteady, they can reflect more on what frontiers to probe and what data they need to get there.\nAI-assisted coding: A glimpse at agentic capabilities AI agents are writing that can produce functional apps in minutes. While an emerging technology, promise use cases are emerging for non-developers and developers alike. Connell recounts the story of a friend, a “a super developer” working with an expert from a famous startup incubator. “In three days, he and his colleagues created an entire website to implement the prototype, and they wrote zero code,” Connell said. “It works; he showed me the site.”\nConnell also recounts his experience using applications such as Git Copilot and Cursor.ai. He praised the workflow of the latter platform, highlighting features like the compose mode, which allows developers to outline their app requirements and have the AI generate multiple files as a starting point. “You can highlight lines and say, ‘Here’s what I need,’ and in chat mode, it’ll surgically edit those,” he continued.\nThe traditional path of gaining mastery through hands-on repetition may fade, replaced by a model where human insights guide a cohort of automated systems, each carrying out complex protocols. The result might be more rapid discovery, but it also forces us to consider what it means to be an expert when the fundamental training ground—performing routine, foundational tasks—has been outsourced to machines. “If machines are doing all the foundational work, how do people build expertise to reach the point they can be creative?” Connell asked.\nHumans have wrestled with similar existential questions before. In the Victorian era, Darwin’s On the Origin of Species (1859) challenged traditional religious views by introducing the theory of evolution. Some theologians agreed to ascribe more responsibility for natural phenomena to science, leading to a gradual shrinking of the domain where divine intervention was seen as necessary, a retreat sometimes referred to as the “God of the gaps” argument. Other theologians responded by rejecting the infringement of science. Examples include the American Presbyterian Charles Hodge; the Anglican priest, geologist and mentor to Darwin, Adam Sedwick; and the Bishop of Oxford Samuel Wilberforce criticized the theory of evolution.\nIn the modern age, the encroachment of AI agents threatens to lead to similar tensions. Is there a domain of human intuition, moral judgment, or long-range conceptual thinking that no AI can replicate—or will these too shrink over time? The Elsevier study “ Insights 2024: Attitudes toward AI “ found that 92% of scientists foresee cost reductions in institutions and businesses, but many have concerns, too. More than nine out of ten, 94% are worried about AI’s use to spread misinformation while 86% worry about critical errors. Nearly the same amount, 85% have concerns about privacy, bias, and loss of human judgment and empathy.\nSome of those worries pertain more to the long term. In the short term, genAI is more commonly used to accelerate scientific literature generation. A 2023 Nature survey found that nearly 30% of scientists have used generative AI tools to assist in writing manuscripts, and about 15% have employed them for drafting grant applications. The Elsevier study found that 54% had used AI tools, but only 31% have done so for work-related purposes.\nIt takes a village — and the right data approach In the near term, much of the challenge lies in building out the right environments and guardrails for these AI agents. As Connell put it, “We’ve pulled off a slice of something out of context, and it lacks the other structures that would make it exhibit human-like behaviors.” Today’s models may surprise even their developers, straying from intended tasks or failing at seemingly trivial ones. Yet these same models can handle safe, well-defined jobs—writing code snippets, preparing summaries, or running routine lab tests—and do so at speeds that encourage cautious optimism.\nWhile it is plausible that agents may one day help scientists and R&D-heavy organizations get more bang for their research buck, longer-term progress may hinge on rethinking how we approach scientific data itself.\nThe off-the-shelf mainstream large language models, for instance, have been trained on essentially the entire public internet plus other curated data sets. While researchers in domains such as genomics, astronomy and beyond have explored datasets that are many terabytes in size, many scientific AI databases are not as large as what a large language model would ingest. “We don’t have that level of data for chemistry and biology, so we can’t leverage it the same way,” Connell said. “Language models appear to do creative tasks because of the vast amount of data. We don’t have enough data to map the parameter spaces in chemistry and biology sufficiently.” If researchers did have such access, the models could do a better job at helping pinpoint unexplored areas worth investigating. “If organizations collecting redundant data would collaborate and contribute to a shared map, we’d make significant progress.”\nBut creating such a map would be a significant undertaking necessitating a shift from one-off projects to a more collaborative endeavor. “If you had a model of the parameter space — which surrogate models allow — you could look up information quickly,” Connell said. “This separation allows you to distinguish between the science of mapping the parameter space and the engineering of product design,” he said. This doesn’t necessarily involve agents unless they are helpful in this regard, but such analysis does typically involve deep learning. Having such maps could lead to more cost-effective R&D. “If we could do that, companies could do R&D more efficiently. We’d stop focusing solely on specific projects and collaborate to map parts of the parameter space that many care about, like how AlphaFold 2 did for protein folding. Everyone could then build on that for product design.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health",
+    "Education"
+  ],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.elsevier.com/insights/attitudes-toward-ai",
+    "https://www.nature.com/articles/s41586-024-08252-9",
+    "https://en.wikipedia.org/wiki/Surrogate_model",
+    "https://www.zdnet.com/article/25-of-enterprises-using-ai-will-deploy-ai-agents-by-2025/",
+    "https://www.anthropic.com/news/developing-computer-use",
+    "https://www.nature.com/articles/d41586-024-00592-w",
+    "https://elsevier.com/insights/attitudes-toward-ai",
+    "https://www.zdnet.com/article/25-of-enterprises-using-ai-will-deploy-ai-agents-by-2025",
+    "https://www.en.wikipedia.org/wiki/Surrogate_model",
+    "https://nature.com/articles/s41586-024-08252-9",
+    "https://zdnet.com/article/25-of-enterprises-using-ai-will-deploy-ai-agents-by-2025/",
+    "https://nature.com/articles/d41586-024-00592-w",
+    "https://anthropic.com/news/developing-computer-use"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-12-06T02:56:01.390+02:00",
+  "updated": "2024-12-06T03:26:12.489+02:00"
+}

@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "cbe357e45d82c840826ba49a5b81d5c3ba55ef0e",
+    "url": "https://www.frankenpost.de/inhalt.wettervorhersage-wetterdienst-rechnet-mit-starkregen-in-bayern.6a157eb7-765a-42b1-bd74-52cd4c8ba463.html",
+    "site_full": "www.frankenpost.de",
+    "site": "frankenpost.de",
+    "site_section": "https://www.frankenpost.de/region/bayern",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Bayern - Frankenpost",
+    "site_title": "Startseite - Frankenpost",
+    "title": "Wettervorhersage: Wetterdienst rechnet mit Starkregen in Bayern - Bayern - Frankenpost",
+    "title_full": "Wettervorhersage: Wetterdienst rechnet mit Starkregen in Bayern - Bayern - Frankenpost",
+    "published": "2025-08-28T08:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.frankenpost.de/media.media.6521a7d6-6e98-4381-bcb4-704a6dad326c.original1024.jpg",
+    "performance_score": 0,
+    "domain_rank": 53350,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cbe357e45d82c840826ba49a5b81d5c3ba55ef0e",
+  "url": "https://www.frankenpost.de/inhalt.wettervorhersage-wetterdienst-rechnet-mit-starkregen-in-bayern.6a157eb7-765a-42b1-bd74-52cd4c8ba463.html",
+  "ord_in_thread": 0,
+  "author": "dpa",
+  "published": "2025-08-28T08:20:00.000+03:00",
+  "title": "Wettervorhersage: Wetterdienst rechnet mit Starkregen in Bayern - Bayern - Frankenpost",
+  "text": "Der Deutsche Wetterdienst rechnet im Freistaat mit viel Regen und teils starken Schauern. Einige Gebiete sind besonders betroffen.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Environment"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->nature",
+    "Environment->water",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Deutsche Wetterdienst",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T08:37:52.871+03:00",
+  "updated": "2025-08-28T08:43:08.000+03:00"
+}

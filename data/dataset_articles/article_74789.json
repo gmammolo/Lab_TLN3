@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "d6a9571d123a9a0766cae8c5d70a8ff8e7817721",
+    "url": "https://golf.einnews.com/pr_news/762798747/advisory-warns-of-activity-by-bianlian-ransomware-group",
+    "site_full": "golf.einnews.com",
+    "site": "einnews.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Advisory warns of activity by BianLian ransomware group",
+    "title_full": "Advisory warns of activity by BianLian ransomware group",
+    "published": "2024-11-22T04:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.aha.org/sites/default/files/2018-04/Symantic%20cyberattack.jpg",
+    "performance_score": 0,
+    "domain_rank": 3422,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d6a9571d123a9a0766cae8c5d70a8ff8e7817721",
+  "url": "https://golf.einnews.com/pr_news/762798747/advisory-warns-of-activity-by-bianlian-ransomware-group",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "EIN News",
+  "published": "2024-11-22T04:35:00.000+02:00",
+  "title": "Advisory warns of activity by BianLian ransomware group",
+  "text": "Advisory warns of activity by BianLian ransomware group A joint advisory released Nov. 20 by the Federal Bureau of Investigation, Cybersecurity and Infrastructure Security Agency and international partners warns of cybercriminal activity by the BianLian ransomware group. The agencies said actions by BianLian actors have impacted multiple sectors across the U.S. since 2022. They operate by gaining access to victims' systems through valid remote desktop protocol credentials and use open-source tools and command-line scripting for finding and stealing credentials. The actors then extort money from victims by threatening to release the stolen data. \"The BianLian group has been listed as one of the most active groups over the last several years, and they have been known to attack the health care sector,\" said Scott Gee, AHA deputy national advisor for cybersecurity and risk. \"The group often uses RDP for access, which serves as a reminder to ensure that hospitals strictly limit the use of RDP and similar services to help mitigate this threat and the many others which use RDP as part of their initial access to penetrate networks. They do not appear to be encrypting networks and disrupting hospital operations. In the event that anyone’s personally identifiable information is stolen and think they may be a victim of identity theft, an excellent resource to help assist them is identitytheft.gov .\" For more information on this or other cyber and risk issues contact Gee at sgee@aha.org. For the latest threat information and other cyber and risk resources visit www.aha.org/cybersecurity . Distribution channels: Healthcare & Pharmaceuticals Industry Legal Disclaimer: EIN Presswire provides this news content \"as is\" without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the author above. Submit your press release",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.identitytheft.gov/",
+    "http://www.einpresswire.com/channel/healthcare-pharmaceuticals",
+    "https://www.cisa.gov/sites/default/files/2024-11/aa23-136a-joint-csa-stopransomware-bianlian-ransomware-group.pdf",
+    "http://www.einpresswire.com/why-us?promo=4700",
+    "https://www.aha.org/cybersecurity",
+    "http://einpresswire.com/why-us?promo=4700",
+    "http://www.einpresswire.com/why-us",
+    "https://aha.org/cybersecurity",
+    "https://identitytheft.gov/",
+    "http://einpresswire.com/channel/healthcare-pharmaceuticals",
+    "https://cisa.gov/sites/default/files/2024-11/aa23-136a-joint-csa-stopransomware-bianlian-ransomware-group.pdf",
+    "https://www.identitytheft.gov"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Scott Gee",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Fed",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Infrastructure Security Agency",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bureau of Investigation",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T04:38:51.714+02:00",
+  "updated": "2024-11-22T04:38:51.714+02:00"
+}

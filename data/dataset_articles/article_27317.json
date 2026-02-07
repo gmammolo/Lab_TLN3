@@ -1,0 +1,154 @@
+{
+  "thread": {
+    "uuid": "79312d8c4d52d2c9604b4f02d71d492dffc30c51",
+    "url": "https://www.cnbc.com/video/2025/11/06/energy-savings-can-power-high-growth-sectors-johnson-controls-vp.html",
+    "site_full": "www.cnbc.com",
+    "site": "cnbc.com",
+    "site_section": "https://www.cnbc.com/video",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_ae",
+      "top_news_us",
+      "top_news_tw",
+      "top_news_gb",
+      "top_news_th",
+      "top_news_kr",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_hk",
+      "top_news_qa",
+      "top_news_ie",
+      "top_news_pk",
+      "top_news_dk",
+      "top_news_za",
+      "top_news_my",
+      "top_news_il",
+      "top_news_kw",
+      "top_news_ca",
+      "top_news_iq",
+      "top_news"
+    ],
+    "section_title": "CNBC Latest Video News &amp; Clips",
+    "site_title": "International Business, World News &amp; Global Stock Market Analysis",
+    "title": "Energy savings can power high growth sectors Johnson Controls VP",
+    "title_full": "Energy savings can power high growth sectors Johnson Controls VP",
+    "published": "2025-11-06T09:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://image.cnbcfm.com/api/v1/image/108221605-17623364811762336478-42420389973-1080pnbcnews.jpg?v=1762336480&amp;w=1920&amp;h=1080",
+    "performance_score": 0,
+    "domain_rank": 438,
+    "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "79312d8c4d52d2c9604b4f02d71d492dffc30c51",
+  "url": "https://www.cnbc.com/video/2025/11/06/energy-savings-can-power-high-growth-sectors-johnson-controls-vp.html",
+  "ord_in_thread": 0,
+  "author": "@CNBC",
+  "published": "2025-11-06T09:40:00.000+02:00",
+  "title": "Energy savings can power high growth sectors Johnson Controls VP",
+  "text": "Vice President and Chief Sustainability Officer at Johnson Controls Katie McGinty tells CNBC's Silvia Amaro that smart environmental policy can reduce energy consumption and re-direct it towards high-growth sectors, such as new data centers and AI solutions. McGinty also highlights how energy security has clearly become a top concern among European policymakers, but insists the same steps needed to improve security can also boost sustainability and achieve climate goals. 07:29 12 minutes ago",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->energy saving",
+    "Economy, Business and Finance->energy and resource",
+    "Economy, Business and Finance->business strategy and marketing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Katie McGinty",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "CNBC",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_nz",
+      "top_news_au",
+      "top_news_ae",
+      "top_news_us",
+      "top_news_tw",
+      "top_news_gb",
+      "top_news_th",
+      "top_news_kr",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_hk",
+      "top_news_qa",
+      "top_news_ie",
+      "top_news_pk",
+      "top_news_dk",
+      "top_news_za",
+      "top_news_my",
+      "top_news_il",
+      "top_news_kw",
+      "top_news_ca",
+      "top_news_iq",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-06T09:53:23.511+02:00",
+  "updated": "2025-11-07T10:16:12.000+02:00"
+}

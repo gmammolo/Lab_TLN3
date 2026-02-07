@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "db5c8ef095060ec46549a18d9932b35776a16337",
+    "url": "https://www.zerodayinitiative.com/advisories/ZDI-24-676",
+    "site_full": "www.zerodayinitiative.com",
+    "site": "zerodayinitiative.com",
+    "site_section": "https://www.zerodayinitiative.com/advisories/published/#home",
+    "site_categories": [],
+    "section_title": "Published | Zero Day Initiative",
+    "title": "ZDI-24-676",
+    "title_full": "ZDI-24-676",
+    "published": "2024-06-13T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://zerodayinitiative.com/images/logo-footer.svg",
+    "performance_score": 0,
+    "domain_rank": 25006,
+    "domain_rank_updated": "2024-06-11T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "db5c8ef095060ec46549a18d9932b35776a16337",
+  "url": "https://www.zerodayinitiative.com/advisories/ZDI-24-676",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-06-13T03:00:00.000+03:00",
+  "title": "ZDI-24-676",
+  "text": "This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of Deep Sea Electronics DSE855 devices. Authentication is not required to exploit this vulnerability.\nThe specific flaw exists within the web-based UI. The issue results from the lack of authentication prior to allowing access to functionality. An attacker can leverage this vulnerability to create a denial-of-service condition on the system.\nADDITIONAL DETAILS 01/21/24 – ZDI requested a vendor PSIRT contact.\n01/22/24 – The vendor provided contact information.\n01/23/24 – ZDI reported the vulnerability to the vendor.\n02/05/24 – The vendor states the report was blocked by IT and asked ZDI to resend the report.\n02/12/24 – ZDI resent the report using an alternative method.\n02/13/24 – The vendor asked why we performed tests on their products.\n02/13/24 – ZDI provided the vendor with additional details about the ZDI program.\n02/14/24 – The vendor asked what initiated the ZDI to look at the DSE855.\n02/14/24 – ZDI emphasized our intent to responsibly disclose this vulnerability to Deep Sea for remediation. The ZDI also offered additional resources about coordinated vulnerability disclosure, as well as feedback on implementing a proper incident response process. We also reiterated our 120-day disclosure policy to ensure the vendor was aware they needed to respond with a patch within the allotted time.\n05/24/24 – ZDI informed the vendor that since we never received a response that we have assume this vulnerability remains unpatched, and that we’re publishing this case as a zero-day advisory on 06/13/24.\n-- Mitigation: Given the nature of the vulnerability, the only salient mitigation strategy is to restrict interaction with the application.\nDISCLOSURE TIMELINE 2024-01-23 - Vulnerability reported to vendor 2024-06-13 - Coordinated public release of advisory 2024-07-01 - Advisory Updated CREDIT Dmitry \"InfoSecDJ\" Janushkevich of Trend Micro Zero Day Initiative",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "deep sea",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-06-14T00:14:56.403+03:00",
+  "updated": "2024-07-05T06:31:45.747+03:00"
+}

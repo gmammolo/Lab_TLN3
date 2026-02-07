@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "6f88c5cdb9fe24dee799f3c2cfcf67f5a7d4e7ad",
+    "url": "https://lemmy.ca/post/32937605",
+    "site_full": "lemmy.ca",
+    "site": "lemmy.ca",
+    "site_section": "https://lemmy.ca/feeds/all.xml?sort=Active",
+    "site_categories": [],
+    "section_title": "Lemmy.ca - All",
+    "title": "AI Expert Warns Crash Is Imminent As AI Improvements Hit Brick Wall",
+    "title_full": "AI Expert Warns Crash Is Imminent As AI Improvements Hit Brick Wall",
+    "published": "2024-11-14T02:48:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://lemmy.ca/pictrs/image/89b5a998-5dfc-40d5-9201-3972093bc3c3.jpeg",
+    "performance_score": 0,
+    "domain_rank": 148022,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6f88c5cdb9fe24dee799f3c2cfcf67f5a7d4e7ad",
+  "url": "https://lemmy.ca/post/32937605",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "https://sh.itjust.works/u/zarkanian",
+  "published": "2024-11-14T02:48:00.000+02:00",
+  "title": "AI Expert Warns Crash Is Imminent As AI Improvements Hit Brick Wall",
+  "text": "[log in or register](/login)to comment.\nI think I’ve heard about enough of experts predicting the future lately.\nYay\nWell classic computers will always limited and power hungry. Quantum computer is the key to AI achieving next level\nThank fuck. Can we have cheaper graphics cards again please?\nI’m sure a RTX 4090 is very impressive, but it’s not £1800 impressive.\nI swapped to AMD this generation and it’s still expensive.\nMarcus is right, incremental improvements in AIs like ChatGPT will not lead to AGI and were never on that course to begin with. What LLMs do is fundamentally not “intelligence”, they just imitate human response based on existing human-generated content. This can produce usable results, but not because the LLM has any understanding of the question. Since the current AI surge is based almost entirely on LLMs, the delusion that the industry will soon achieve AGI is doomed to fall apart - but not until a lot of smart speculators have gotten in and out and made a pile of money.\nIt’s so funny how all this is only a problem within a capitalist frame of reference.\nThe hype should go the other way. Instead of bigger and bigger models that do more and more - have smaller models that are just as effective. Get them onto personal computers; get them onto phones; get them onto Arduino minis that cost $20 - and then have those models be as good as the big LLMs and Image gen programs.\nOther than with language models, this has already happened: Take a look at apps such as Merlin Bird ID (identifies birds fairly well by sound and somewhat okay visually), WhoBird (identifies birds by sound, ) Seek (visually identifies plants, fungi, insects, and animals). All of them work offline. IMO these are much better uses of ML than spammer-friendly text generation.\nPlatnet and iNaturalist are pretty good for plant identification as well, I use them all the time to find out what’s volunteering in my garden. Just looked them up and it turns out iNaturalist is by Seek.\nThis has already started to happen. The new llama3.2 model is only 3.7GB and it WAAAAY faster than anything else. It can thow a wall of text at you in just a couple of seconds. You’re still not running it on $20 hardware, but you no longer need a 3090 to have something useful.\nWell, you see, that’s the really hard part of LLMs. Getting good results is a direct function of the size of the model. The bigger the model, the more effective it can be at its task. However, there’s something called compute efficient frontier (\ntechnical but neatly explained video about it). Basically you can’t make a model more effective at their computations beyond said linear boundary for any given size. The only way to make a model better, is to make it larger (what most mega corps have been doing) or radically change the algorithms and method underlying the model. But the latter has been proving to be extraordinarily hard. Mostly because to understand what is going on inside the model you need to think in rather abstract and esoteric mathematical principles that bend your mind backwards. You can compress an already trained model to run on smaller hardware. But to train them, you still need the humongously large datasets and power hungry processing. This is compounded by the fact that larger and larger models are ever more expensive while providing rapidly diminishing returns. Oh, and we are quickly running out of quality usable data, so shoveling more data after a certain point starts to actually provide worse results unless you dedicate thousands of hours of human labor producing, collecting and cleaning the new data. That’s all even before you have to address data poisoning, where previously LLM generated data is fed back to train a model but it is very hard to prevent it from devolving into incoherence after a couple of generations.That would be innovation, which I’m convinced no company can do anymore.\nIt feels like I learn that one of our modern innovations was already thought up and written down into a book in the 1950s, and just wasn’t possible at that time due to some limitation in memory, precision, or some other metric. All we did was do 5 decades of marginal improvement to get to it, while not innovating much at all.\nAre you talking about something specific?\nThis is why you’re seeing news articles from Sam Altman saying that AGI will blow past us without any societal impact. He’s trying to lessen the blow of the bubble bursting for AI/ML.\nIt’s been 5 minutes since the new thing did a new thing. Is it the end?\nAs I use copilot to write software, I have a hard time seeing how it’ll get better than it already is. The fundamental problem of all machine learning is that the training data has to be good enough to solve the problem. So the problems I run into make sense, like:\n- Copilot can’t read my mind and figure out what I’m trying to do.\n- I’m working on an uncommon problem where the typical solutions don’t work\n- Copilot is unable to tell when it doesn’t “know” the answer, because of course it’s just simulating communication and doesn’t really know anything.\n2 and 3 could be alleviated, but probably not solved completely with more and better data or engineering changes - but obviously AI developers started by training the models on the most useful data and strategies that they think work best. 1 seems fundamentally unsolvable.\nI think there could be some more advances in finding more and better use cases, but I’m a pessimist when it comes to any serious advances in the underlying technology.\nSo you use other people’s open source code without crediting the authors or respecting their license conditions? Good for you, parasite.\nVery frequently, yes. As well as closed source code and intellectual property of all kinds. Anyone who tells you otherwise is a liar.\nNot copilot, but I run into a fourth problem:\n4. The LLM gets hung up on insisting that a newer feature of the language I’m using is wrong and keeps focusing on “fixing” it, even though it has access to the newest correct specifications where the feature is explicitly defined and explained.Oh god yes, ran into this asking for a shell.nix file with a handful of tricky dependencies. It kept trying to do this insanely complicated temporary pull and build from git instead of just a 6 line file asking for the right packages.\n“This code is giving me a return value of X instead of Y”\n“Ah the reason you’re having trouble is because you initialized this list with brackets instead of\nnew()\n.”“How would a syntax error give me an incorrect return”\n“You’re right, thanks for correcting me!”\n“Ok so like… The problem though.”\nYeah, once you have to question its answer, it’s all over. It got stuck and gave you the next best answer in it’s weights which was absolutely wrong.\nYou can always restart the convo, re-insert the code and say what’s wrong in a slightly different way and hope the random noise generator leads it down a better path :)\nI’m doing some stuff with translation now, and I’m finding you can restart the session, run the same prompt and get better or worse versions of a translation. After a few runs, you can take all the output and ask it to rank each translation on correctness and critique them. I’m still not completely happy with the output, but it does seem that sometime if you MUST get AI to answer the question, there can be value in making it answer it across more than one session.\nHuh?\nThe smartphone improvements hit a rubber wall a few years ago (disregarding folding screens, that compose a small market share, improvement rate slowed down drastically), and the industry is doing fine. It’s not growing like it use to, but that just means people are keeping their smartphones for longer periods of time, not that people stopped using them.\nEven if AI were to completely freeze right now, people will continue using it.\nWhy are people reacting like AI is going to get dropped?\nPeople are dumping billions of dollars into it, mostly power, but it cannot turn profit.\nSo the companies who, for example, revived a nuclear power facility in order to feed their machine with ever diminishing returns of quality output are going to shut everything down at massive losses and countless hours of human work and lifespan thrown down the drain.\nThis will have an economic impact quite large as many newly created jobs go up in smoke and businesses who structured around the assumption of continued availability of high end AI need to reorganize or go out of business.\nSearch up the Dot Com Bubble.\nBecause in some eyes, infinite rapid growth is the only measure of success.\nBecause novelty is all it has. As soon as it stops improving in a way that makes people say “oh that’s neat”, it has to stand on the practical merits of its capabilities, which is, well, not much.\nI’m so baffled by this take. “Create a terraform module that implements two S3 buckets with cross-region bidirectional replication. Include standard module files like linting rules and enable precommit.” Could I write that? Yes. But does this provide an outstanding stub to start from? Also yes.\nAnd beyond programming, it is otherwise having positive impact on science and medicine too. I mean, anybody who doesn’t see any merit has their head in the sand. That of course must be balanced with not falling for the hype, but the merits are very real.\nThe merits are real. I do understand the deep mistrust people have for tech companies, but there’s far too much throwing out of the baby with the bath water.\nAs a solo developer, LLMs are a game-changer. They’ve allowed me to make amazing progress on some of my own projects that I’ve been stuck on for ages.\nBut it’s not just technical subjects that benefit from LLMs. ChatGPT has been a great travel guide for me. I uploaded a pic of some architecture in Berlin and it went into the history of it, I asked it about some damage to an old church in Spain - turned out to be from the Spanish civil war, where revolutionaries had been mowed down by Franco’s firing squads.\nJust today, I was getting help from an LLM for an email to a Portuguese removals company. I sent my message in English with a Portuguese translation, but the guy just replied back with a single sentence in broken English:\n“Yes a can , need tho mow m3 you need delivery after e gif the price”\nThe first bit is pretty obviously “Yes I can” but I couldn’t really be sure what he was trying to say with the rest of it. So I asked ChatGPT who responded:\nIt seems he’s saying he can handle the delivery but needs to know the total volume (in cubic meters) of your items before he can provide a price. Here’s how I’d interpret it:\n“Yes, I can [do the delivery]. I need to know the [volume] in m³ for delivery, and then I’ll give you the price.”\nThanks to LLMs, I’m able to accomplish so many things that would have previously taken multiple internet searches and way more effort.\nThere’s a pretty big difference between chatGPT and the science/medicine AIs.\nAnd keep in mind that for LLMs and other chatbots, it’s not that they aren’t useful at all but that they aren’t useful enough to justify their costs. Microsoft is struggling to get significant uptake for Copilot addons in Microsoft 365, and this is when AI companies are still in their “sell below cost and light VC money on fire to survive long enough to gain market share” phase. What happens when the VC money dries up and AI companies have to double their prices (or more) in order to make enough revenue to cover their costs?\nNothing to argue with there. I agree. Many companies will go out of business. Fortunately we’ll still have the llama3’s and mistral’s laying around that I can run locally. On the other hand cost justification is a difficult equation with many variables, so maybe it is or will be in some cases worth the cost. I’m just saying there is some merit.\nPeople pay real money for smartphones.\nPeople pay real Money for AIaaS as well…\nHope?\nI am so tired of the ai hype and hate. Please give me my gen art interest back please just make it obscure again to program art I beg of you\nIt’s still quite obscure to actually mess with AI art instead of just throwing prompts at it, resulting in slop of varying quality levels. And I don’t mean controlnet, but github repos with comfyui plugins with little explanation but a link to a paper, or “this is absolutely mathematically unsound but fun to mess with”. Messing with stuff other than conditioning or mere model selection.\nI know, it’s actually still a beautiful community but much harder to talk to outsiders about\nTheres no bracing for this, OpenAI CEO said the same thing like a year ago and people are still shovelling money at this dumpster fire today.\nGood. I look forward to all these idiots finally accepting that they drastically misunderstood what LLMs actually are and are not. I know their idiotic brains are only able to understand simple concepts like “line must go up” and follow them like religious tenants though so I’m sure they’ll waste everyone’s time and increase enshitification with some other new bullshit once they quietly remove their broken (and unprofitable) AI from stuff.\nIt’s had all the signs of a bubble for the last few years.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://youtu.be/5eqRuVp65eY?si=3ff-A75zV_jGtjA_",
+    "https://youtu.be/5eqRuVp65eY",
+    "https://www.youtu.be/5eqRuVp65eY?si=3ff-A75zV_jGtjA_"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marcus",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "AGI",
+        "sentiment": "none"
+      },
+      {
+        "name": "AMD",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "6f88c5cdb9fe24dee799f3c2cfcf67f5a7d4e7ad",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T03:27:07.180+02:00",
+  "updated": "2024-11-15T03:27:07.180+02:00"
+}

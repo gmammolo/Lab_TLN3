@@ -1,0 +1,172 @@
+{
+  "thread": {
+    "uuid": "9beb4102687167e9d8a80ee498fa4ff7f5e53d13",
+    "url": "https://hipertextual.com/2025/04/windows-11-instalar-actualizaciones-sin-reiniciar-pc",
+    "site_full": "hipertextual.com",
+    "site": "hipertextual.com",
+    "site_section": "http://cucharasonica.com/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Hipertextual",
+    "site_title": "Hipertextual | Tecnología, ciencia y cultura digital | Vivimos en 2077",
+    "title": "Windows 11 ya permite instalar actualizaciones de seguridad sin reiniciar el PC",
+    "title_full": "Windows 11 ya permite instalar actualizaciones de seguridad sin reiniciar el PC",
+    "published": "2025-04-03T00:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/titanic-meme-windows.jpg?fit=1978%2C1113&quality=70&strip=all&ssl=1",
+    "performance_score": 0,
+    "domain_rank": 10481,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9beb4102687167e9d8a80ee498fa4ff7f5e53d13",
+  "url": "https://hipertextual.com/2025/04/windows-11-instalar-actualizaciones-sin-reiniciar-pc",
+  "ord_in_thread": 0,
+  "author": "Luis Miranda",
+  "published": "2025-04-03T00:45:00.000+03:00",
+  "title": "Windows 11 ya permite instalar actualizaciones de seguridad sin reiniciar el PC",
+  "text": "Microsoft ha lanzado una nueva función que permitirá aplicar actualizaciones de Windows sin reiniciar el ordenador. Conocida como Hotpaching , esta característica debutará en Windows 11 24H2 ofreciendo, por primera vez, la posibilidad de instalar actualizaciones de seguridad sin un reinicio obligatorio . La medida resolverá uno de los problemas más molestos del sistema operativo.\nOriginalmente anunciada a inicios de 2024 , el Hotpaching debutó en la compilación 26058 de Windows 11 Insider al ofrecer actualizaciones de seguridad que se instalaban más rápido y sin reiniciar el equipo. Esto era posible gracias a la combinación de una nueva tecnología de Microsoft que usaba paquetes con menos archivos binarios , reduciendo el consumo de recursos y mejorando los tiempos de instalación\nDe acuerdo con Microsoft, los parches en caliente agilizan el proceso de actualización y ofrecen varias ventajas:\nMejoras de seguridad inmediatas : Los parches de seguridad entran en vigor en cuanto se instalan. Frecuencia de actualización constante : La aplicación de parches en caliente se alinea con el programa de actualizaciones de seguridad mensual de Microsoft, lo que garantiza que los dispositivos permanezcan seguros sin tener que reiniciar. Menos interrupciones : Al limitar los reinicios necesarios a cuatro veces al año, los usuarios experimentan menos interrupciones debido a la instalación de actualizaciones. Cómo funcionan las actualizaciones \"en caliente\" de Windows 11 Según se indica en el blog de IT Pro de Microsoft , la aplicación de parches en caliente sigue un ciclo de actualización trimestral estructurado . Windows 11 instalará una actualización de seguridad completa que incluye mejoras y parches acumulativos. Esta se liberará durante enero, abril, julio y octubre y requiere reiniciar el sistema.\nTras la actualización trimestral, Windows aplicará parches de seguridad durante los dos meses siguientes sin necesidad de reiniciar . Las actualizaciones de funciones y otras mejoras del sistema se posponen hasta el siguiente ciclo trimestral. Con este enfoque, Microsoft reducirá la frecuencia de reinicios del sistema necesarios de doce a cuatro por año .\nEl único inconveniente para el usuario final es que la tecnología Hotpaching está limitada a Windows 11 Enterprise versión 24H2. En un inicio, los parches en caliente solo estarán disponibles para organizaciones que utilizan Windows 11 Enterprise E3, E5, F3, Windows 11 Educación A3, A5 y Windows 365 Enterprise.\nMicrosoft confirmó que la función es compatible con dispositivos basados en x86 con procesadores Intel y AMD, mientras que los sistemas basados en ARM permanecerán en versión preliminar pública. Por el momento no existe información que indique cuándo llegará a las versiones Windows 11 Home y Profesional.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Lifestyle and Leisure->lifestyle"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcommunity.microsoft.com/blog/windows-itpro-blog/hotpatch-for-windows-client-now-available/4399808",
+    "https://www.techcommunity.microsoft.com/blog/windows-itpro-blog/hotpatch-for-windows-client-now-available/4399808"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Hotpaching",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "La medida resolverá uno de los problemas más molestos del sistema operativo",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Windows 11 Insider",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mejoras",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Las actualizaciones de funciones",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Con este enfoque",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Windows 11 Enterprise E3",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "E5",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "F3",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Windows 11 Educación A3",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "A5",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Windows 365 Enterprise",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "ARM",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Por el momento",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Windows 11 Home",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Profesional",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "IT Pro",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Intel",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "AMD",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T00:52:38.310+03:00",
+  "updated": "2025-04-03T01:56:37.685+03:00"
+}

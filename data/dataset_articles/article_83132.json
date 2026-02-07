@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "d89ce29559ea3e36045159df0e429e4a87ebae43",
+    "url": "https://cyberinsider.com/cybercriminal-behind-90-data-leaks-arrested-in-bangkok",
+    "site_full": "cyberinsider.com",
+    "site": "cyberinsider.com",
+    "site_section": "https://restoreprivacy.com",
+    "site_categories": [],
+    "section_title": "CyberInsider | Reliable cybersecurity news and resources",
+    "site_title": null,
+    "title": "Cybercriminal Behind 90+ Data Leaks Arrested in Bangkok",
+    "title_full": "Cybercriminal Behind 90+ Data Leaks Arrested in Bangkok",
+    "published": "2025-02-27T18:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2025/02/Cybercriminal-Behind-90-Data-Leaks-Arrested-in-Bangkok.jpg",
+    "performance_score": 0,
+    "domain_rank": 25841,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d89ce29559ea3e36045159df0e429e4a87ebae43",
+  "url": "https://cyberinsider.com/cybercriminal-behind-90-data-leaks-arrested-in-bangkok",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Amar Ćemanović",
+  "published": "2025-02-27T18:14:00.000+02:00",
+  "title": "Cybercriminal Behind 90+ Data Leaks Arrested in Bangkok",
+  "text": "A joint operation between the Royal Thai Police and the Singapore Police Force, supported by cybersecurity firm Group-IB, has led to the arrest of a notorious cybercriminal responsible for more than 90 data leaks worldwide.\nIdentified as a 39-year-old Singaporean man named Chia, the suspect operated under multiple aliases, including ALTDOS, DESORDEN, GHOSTR, and 0mid16B, and had been actively targeting companies across Asia-Pacific, North America, the Middle East, and Europe since 2020. His cyberattacks led to the exposure and sale of over 13TB of sensitive personal and corporate data on dark web forums.\nHacker's victims across the globe\nGroup-IB Four-year investigation Group-IB's Threat Intelligence and High-Tech Crime Investigation teams, operating from their Digital Crime Resistance Centers (DCRCs) in Thailand and Singapore, had been tracking the suspect since 2020. He initially emerged under the alias ALTDOS, primarily attacking companies in Thailand before expanding his reach. His modus operandi involved hacking into corporate databases, stealing sensitive data, and demanding ransoms. If victims refused to pay, he notified media outlets or data protection regulators instead of leaking the data on the dark web, thereby intensifying reputational damage for his targets.\nOver time, the suspect evolved his tactics, adopting new aliases to avoid detection. Under DESORDEN, he gained notoriety for targeting companies in healthcare, finance, e-commerce, logistics, and retail sectors across multiple countries, including Singapore, Malaysia, Indonesia, India, and Thailand. Later, operating as GHOSTR and 0mid16B, he extended his cybercriminal activities to the United Kingdom, the Middle East, Canada, and the United States.\nChanging aliases over time\nGroup-IB Authorities confirmed that he used SQL injection tools like sqlmap and exploited vulnerable Remote Desktop Protocol (RDP) servers to gain unauthorized access. Once inside, he deployed a cracked version of Cobalt Strike to maintain control over compromised systems. Unlike many ransomware operators, he rarely engaged in lateral movement within breached networks, instead immediately exfiltrating data to rented cloud servers for blackmail purposes.\nArrest and seizure Thai authorities, led by Pol Col Panupat Kittipan, commander of the Technology Crime Suppression Subdivision 1, tracked Chia's location to a residence in Bangkok's Gusto Grand Ramkhamhaeng housing estate. Acting on a search warrant, law enforcement raided the property , seizing laptops, storage devices, and luxury goods worth an estimated 10 million baht ($280,000), allegedly purchased with profits from his cybercrime activities.\nThai police in the suspect's premises\nGroup-IB Investigators revealed that Chia used X (formerly Twitter) accounts linked to Omid16B Group to post ransom demands. He allegedly intimidated victims by directly contacting their customers through email and messaging platforms, warning them about leaked data to increase pressure on businesses. He later admitted to hacking over 70 companies, including 20 in Thailand. Among his known Thai victims was Black Canyon, a prominent coffee shop chain, whose systems were compromised in late 2024.\nThe suspect faces multiple cybercrime-related charges, including:\nUnauthorized access to protected computer systems and data Attempted extortion Illegal residence in Thailand Given the transnational nature of his crimes, authorities in Singapore and other affected countries may seek his extradition for further prosecution.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->arrest",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.group-ib.com/media-center/press-releases/joint-operation-with-royal-thai-police-and-singapore-police-force/",
+    "https://www.nationthailand.com/news/general/40046815",
+    "https://www.group-ib.com/media-center/press-releases/joint-operation-with-royal-thai-police-and-singapore-police-force",
+    "https://group-ib.com/media-center/press-releases/joint-operation-with-royal-thai-police-and-singapore-police-force/",
+    "https://nationthailand.com/news/general/40046815"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Royal Thai Police",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Digital Crime Resistance Centers",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Asia-Pacific",
+        "sentiment": "none"
+      },
+      {
+        "name": "Middle East",
+        "sentiment": "none"
+      },
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      },
+      {
+        "name": "North",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:04:41.385+02:00",
+  "updated": "2025-02-28T02:19:08.396+02:00"
+}

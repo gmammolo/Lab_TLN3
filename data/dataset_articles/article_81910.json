@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "262997e384b47d8b1bd18cf4f971dc49ceb92778",
+    "url": "https://www.makeuseof.com/best-obsidian-plugins",
+    "site_full": "www.makeuseof.com",
+    "site": "makeuseof.com",
+    "site_section": "https://www.makeuseof.com/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": " MakeUseOf ",
+    "title": "The 7 Best Obsidian Plugins I Can't Live Without",
+    "title_full": "The 7 Best Obsidian Plugins I Can't Live Without",
+    "published": "2024-10-17T23:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/09/a-screen-with-obsidian-showing-some-plugins-and-the-obsidian-logo-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 1273,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "262997e384b47d8b1bd18cf4f971dc49ceb92778",
+  "url": "https://www.makeuseof.com/best-obsidian-plugins",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Digvijay Kumar",
+  "published": "2024-10-17T23:00:00.000+03:00",
+  "title": "The 7 Best Obsidian Plugins I Can't Live Without",
+  "text": "Obsidian is a free note-taking app that I use almost every day. Its cool features and customizable interface are key to my daily workflow. What truly makes Obsidian unique, however, is its plugin library. I've integrated these plugins so deeply into my workflow that I just can't live without them.\n1 Dataview\nDataview allows you to create dynamic tables and graphs with data from your notes. You can query and filter your notes based on parameters like tags, dates, and keywords.\nFor instance, if you have a note about your favorite books and their ratings, Dataview can generate a table of all books rated four stars or higher. You can then sort this table by genre, author, or publication date and refine it with specific tags or keywords.\nFurthermore, Dataview lets you create charts to visualize your data, giving you quick insights into your notes. This tool helps you comprehensively organize and analyze your content and provides enough flexibility.\n2 Calendar\nAs the name suggests, the Calendar plugin adds a calendar view to your Obsidian workspace, displaying monthly, weekly, or daily notes with date tags. After installation, a small calendar icon appears in the top right corner.\nClicking it opens a sidebar calendar view with the current month highlighted. Each day has a dot for notes tagged with that date, making it easy to track your activity. You can navigate through different months and weeks using the arrows on either side.\nTo improve note visualization, use color-coded labels and icons for different dates—like green for essential deadlines and red for personal events. This approach is a great way to manage daily activities, track ideas, evaluate progress, and plan accordingly.\n3 Tasks\nAnother helpful plugin for managing tasks and checklists is Tasks. It helps you track and organize tasks across your Obsidian vault. You can assign priorities, due dates, and recurring tasks to each item. When a task is completed, you can mark it as done and monitor its progress.\nRecurring tasks automatically generate new ones by their due date. If you set up a recurring task for every Monday, the task will appear on your list each week.\nAdditionally, Tasks lets you set priority levels from lowest to highest, which is great for workload management. So, mark a checklist item due on a deadline as the highest priority to ensure it gets done on time. For a personal errand, you can assign it a lower priority and focus on more urgent tasks first.\nTo create a task with Tasks, just add a checklist item to your notebook. Use the Markdown syntax: - [ ] task name. Once added, Tasks will recognize it as a task and include it in your list. You can also use hotkeys to quickly create and manage tasks in your notes.\n4 Kanban\nKanban is my go-to plugin for visual task management in Obsidian. It lets you create and customize Kanban boards in your Obsidian vault, similar to Notion or Trello. Each board represents a project or workflow, where you can create cards for tasks and move them between columns as you progress.\nThis makes it easy to track task status and spot bottlenecks. You can assign labels, due dates, priorities, and checklists to each card for better organization. I use Kanban for my content creation process, with columns for Ideas, Outline, In Progress, and Completed.\nWhenever I have a new article idea, I create a card in the Ideas column. Once I have a solid outline, I move it to Outline. As I work on the article, I shift it to In Progress and finally to Completed when it's done. Under Completed, I have sub-columns for Published, Scheduled, and Promoted to track the entire process from idea to publication.\n5 Outliner\nRefining ideas and organizing them into a clear outline is crucial for effective note-taking and content creation. Outliner simplifies this process with its intuitive and customizable features. It allows you to create outlines within your notes, like mind maps or bullet points. You can move lists and sublists, adjust indentation, and build a hierarchical structure for better organization.\nTo indent or outdent, highlight the text and press Tab or Shift + Tab. You can also use drag-and-drop functionality and keyboard shortcuts for quick navigation. Below are the default hotkeys for these actions, but you can customize them as you see fit.\nFor Windows and Linux:\n- Move list and sublists up - Ctrl + Shift + Up Arrow (↑)\n- Move list and sublists down - Ctrl + Shift + Down Arrow (↓)\nFor macOS:\n- Move list and sublists up - Command + Shift + Up Arrow (↑)\n- Move list and sublists down - Command + Shift + Down Arrow (↓)\n6 Advanced Tables\nYou know how to create simple tables with Markdown syntax, but the Advanced Tables plugin elevates table editing to another level. This plugin allows you to navigate and format tables just like you would in an Excel spreadsheet. Its auto-formatting feature adjusts the layout as you add or remove columns and rows.\nThe plugin supports Excel-like formulas for calculations like SUM and AVERAGE and calculates and displays the result. To move between cells quickly, you can use the Tab and Enter keys—tab for horizontal movement and enter for vertical.\nYou can align columns left, center, or right for a polished appearance. Additionally, you can insert or remove columns and rows, rearrange them, or sort rows into a specific column. The plugin also transposes rows into columns and sorts data in ascending or descending order. Once you finish editing, you can export your work to CSV format for further use.\n7 Recent Files\nManaging numerous files can make it easy to lose track of which ones you've accessed recently. The Recent Files plugin keeps a record of your activities and displays them in a list for quick access, which is especially helpful when juggling multiple projects.\nAfter installing this Obsidian plugin, you can specify the maximum number of filenames to retain in the list. This prevents your sidebar from becoming, and you can easily locate what you need.\nTo access the list, just click the clock icon in the title bar or use the hotkey set during installation. The list appears in a separate pane, and you can easily scroll through your recent files. Clicking on an item opens it in the active editor, while Ctrl clicking opens the file in another pane. Additionally, you can hold the Ctrl key and hover over a file to preview its contents.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://publish.obsidian.md/tasks/Introduction",
+    "https://github.com/mgmeyers/obsidian-kanban",
+    "https://github.com/liamcain/obsidian-calendar-plugin",
+    "https://blacksmithgu.github.io/obsidian-dataview/",
+    "https://github.com/tgrosinger/advanced-tables-obsidian",
+    "https://github.com/vslinko/obsidian-outliner",
+    "https://github.com/tgrosinger/recent-files-obsidian",
+    "https://www.publish.obsidian.md/tasks/Introduction",
+    "https://blacksmithgu.github.io/obsidian-dataview",
+    "https://www.github.com/liamcain/obsidian-calendar-plugin",
+    "https://www.github.com/tgrosinger/recent-files-obsidian",
+    "https://www.github.com/mgmeyers/obsidian-kanban",
+    "https://www.github.com/vslinko/obsidian-outliner",
+    "https://www.blacksmithgu.github.io/obsidian-dataview/",
+    "https://www.github.com/tgrosinger/advanced-tables-obsidian"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:09:26.251+03:00",
+  "updated": "2024-10-18T00:09:26.251+03:00"
+}

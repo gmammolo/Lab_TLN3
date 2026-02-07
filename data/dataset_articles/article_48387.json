@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "c552bf0fbbfa5a65ae491411e202f0b116b67a29",
+    "url": "https://www.benton.org/headlines/how-low-can-they-go",
+    "site_full": "www.benton.org",
+    "site": "benton.org",
+    "site_section": "http://benton.org/rss.xml",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Benton RSS Feed",
+    "site_title": "Benton Institute for Broadband & Society | Broadband Delivers Opportunities and Strengthens Communities",
+    "title": "How Low Can They Go?",
+    "title_full": "How Low Can They Go?",
+    "published": "2025-03-27T18:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.benton.org/sites/all/themes/benton_foundation/images/benton-logo.jpg",
+    "performance_score": 0,
+    "domain_rank": 61033,
+    "domain_rank_updated": "2025-03-24T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c552bf0fbbfa5a65ae491411e202f0b116b67a29",
+  "url": "https://www.benton.org/headlines/how-low-can-they-go",
+  "ord_in_thread": 0,
+  "author": "zwalker@benton.org",
+  "published": "2025-03-27T18:11:00.000+02:00",
+  "title": "How Low Can They Go?",
+  "text": "How Low Can They Go?\nAT&T and Verizon continue to aggressively eliminate staff. You have to wonder where the bottom will be in staffing levels. Both companies are currently actively striving to eliminate copper networks, with Verizon is much further along with this effort than AT&T. However, Verizon is slated to merge with Frontier sometime this year, which will bring new employees and a return of a lot of copper networks that Verizon had ditched to Frontier in the past. Both companies also say they are considering how AI might streamline operations, which probably means even further cuts in staffing over the next few years. This is all a far cry from the time when AT&T was the telephone monopoly and had over 1 million employees, making it the biggest employer outside the U.S. military. It’s anybody’s guess how much more these companies can slash staff and remain viable.\nHow Low Can They Go?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Labor"
+  ],
+  "topics": [
+    "Economy, Business and Finance->layoffs",
+    "Economy, Business and Finance->human resources",
+    "Social Issue->social condition",
+    "Labor->employment",
+    "Labor->labour market",
+    "Labor->unemployment"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://potsandpansbyccg.com/2025/03/27/how-low-can-they-go/",
+    "https://www.potsandpansbyccg.com/2025/03/27/how-low-can-they-go/",
+    "https://potsandpansbyccg.com/2025/03/27/how-low-can-they-go"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "U.S.",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Verizon",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Frontier",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "AI",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "AT&T",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": []
+  },
+  "rating": null,
+  "crawled": "2025-03-27T19:19:59.791+02:00",
+  "updated": "2025-03-27T19:19:59.791+02:00"
+}

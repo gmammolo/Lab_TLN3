@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "b9c007ad22d3f4eb48da481f595a608543bfc775",
+    "url": "https://icoholder.com/en/news/sui-network-experiences-two-hour-outage-token-drops-7",
+    "site_full": "icoholder.com",
+    "site": "icoholder.com",
+    "site_section": "https://icoholder.com/en",
+    "site_categories": [
+      "real_estate",
+      "buying_selling_homes"
+    ],
+    "section_title": "IcoHolder: Your Key to Mastering the Crypto Investment Space",
+    "title": "Sui Network Experiences Two-Hour Outage, Token Drops 7%",
+    "title_full": "Sui Network Experiences Two-Hour Outage, Token Drops 7%",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 32285,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b9c007ad22d3f4eb48da481f595a608543bfc775",
+  "url": "https://icoholder.com/en/news/sui-network-experiences-two-hour-outage-token-drops-7",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T02:00:00.000+02:00",
+  "title": "Sui Network Experiences Two-Hour Outage, Token Drops 7%",
+  "text": "Sui Network Experiences Two-Hour Outage, Token Drops 7%\nNovember 22, 2024\n[ BACK TO NEWS](/en/news)\nSui Network faced a two-hour outage due to a transaction scheduling bug, causing a temporary drop in SUI token value before normal operations resumed - IcoHolder.\nSui Network (SUI), a newer blockchain platform, experienced an unexpected two-hour outage on Thursday, disrupting its operations and causing a temporary drop in token value. The downtime was attributed to a bug in the network's transaction scheduling logic, which led to a crash of its validator network. The issue has since been resolved, with the network confirming that operations are back to normal.\nDuring the outage, several exchanges, including the popular Upbit platform, temporarily suspended SUI token transactions. This disruption highlighted the vulnerability of even relatively new blockchain networks, which can face various technical challenges.\nBlockchain outages can occur for numerous reasons, from malicious attacks like 51% attacks to technical failures. One common cause is nodes — the individual entities that process and verify transactions — failing to sync with each other. This can cause a network-wide shutdown, as seen during the Sui outage. Another potential culprit is software bugs, which, if not addressed, can cause critical network functions to break down.\nIn Sui’s case, the issue was traced back to a bug in the transaction scheduling logic, which delayed or halted transactions and caused the network’s validators to crash. Once the bug was identified, the team behind Sui worked swiftly to fix the issue and restore normal operations.\nThe SUI token, which had dropped nearly 7% in value during the outage, has since returned to normal trading levels as the network resumed full functionality. Despite this temporary setback, [Sui Network'](https://icoholder.com/en/sui-network-1033073)s ability to resolve the issue and bring the platform back online quickly demonstrates the importance of rapid response times in the blockchain space.\nBlockchain networks are inherently complex, and as the technology continues to evolve, they remain susceptible to bugs and other technical glitches. The Sui incident serves as a reminder of the challenges new blockchain platforms face in ensuring reliability and uptime.\nWhile outages like this are relatively rare, they can have significant consequences, both in terms of token value and user trust. As blockchain technology matures, ensuring robust, error-free networks will be a key focus for developers and platform operators.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T13:54:25.184+02:00",
+  "updated": "2024-11-22T13:54:25.184+02:00"
+}

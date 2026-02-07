@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "784f6be04bb9d3efce6baecbce2bd8a3ee45cf5d",
+    "url": "https://www.beckershospitalreview.com/radiology/using-ai-in-early-detection-of-breast-cancer-5-study-notes.html",
+    "site_full": "www.beckershospitalreview.com",
+    "site": "beckershospitalreview.com",
+    "site_section": "https://www.beckershospitalreview.com/radiology",
+    "site_categories": [
+      "pets",
+      "veterinary_medicine"
+    ],
+    "section_title": "Radiology",
+    "title": "Using AI in early detection of breast cancer: 5 study notes",
+    "title_full": "Using AI in early detection of breast cancer: 5 study notes",
+    "published": "2024-11-07T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+    "performance_score": 0,
+    "domain_rank": 3600,
+    "domain_rank_updated": "2024-11-04T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "784f6be04bb9d3efce6baecbce2bd8a3ee45cf5d",
+  "url": "https://www.beckershospitalreview.com/radiology/using-ai-in-early-detection-of-breast-cancer-5-study-notes.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Elizabeth Gregerson",
+  "published": "2024-11-07T07:00:00.000+02:00",
+  "title": "Using AI in early detection of breast cancer: 5 study notes",
+  "text": "Researchers are continuing to find potential uses for AI in cancer detection, according to a study published Oct. 30 in [Academic Radiology](https://www.sciencedirect.com/science/article/pii/S1076633224007748#ab0015).\nA team from City College of New York and Memorial Sloan Kettering Cancer Center, both based in New York City, and the University of California Davis developed an AI algorithm and evaluated its ability to identify breast cancer on MRI scans.\nHere are five things to know from the study:\n- The AI model was trained on breast MRI data of 3,209 scans from 910 patients. The data contained 115 incidences of cancer that were diagnosed with one year of a negative MRI result.\n- AI showed the ability to detect cancers one year earlier.\n- AI was used to rank the top 10% of the highest-risk MRIs. If those MRIs had been analyzed by a radiologist, early detection could have been increased by up to 30%.\n- AI was able to identify the region where cancer would be detected in 66 of the 115 cases. A radiologist identified the cancers in 83 of the 115 cases. The radiologist and AI agreed on 54 cases.\n- \"This novel AI-aided re-evaluation of \"benign\" breasts shows promise for improving early breast cancer detection with MRI. As datasets grow and image quality improves, this approach is expected to become even more impactful,\" the study authors wrote.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Education"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sciencedirect.com/science/article/pii/S1076633224007748#ab0015).",
+    "https://sciencedirect.com/science/article/pii/S1076633224007748#ab0015)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Memorial Sloan Kettering Cancer Center",
+        "sentiment": "none"
+      },
+      {
+        "name": "City College",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-08T03:11:04.567+02:00",
+  "updated": "2024-11-22T15:38:13.186+02:00"
+}

@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "7b990fab14fbfea5c794595bb937b58471718235",
+    "url": "https://en.hespress.com/77641-how-two-scientists-are-using-language-models-to-democratize-climate-data-in-morocco.html",
+    "site_full": "en.hespress.com",
+    "site": "hespress.com",
+    "site_section": "https://en.hespress.com",
+    "site_categories": [],
+    "section_title": "HESPRESS English - Morocco News",
+    "title": "How two scientists are using language models to democratize climate data in Morocco",
+    "title_full": "How two scientists are using language models to democratize climate data in Morocco",
+    "published": "2024-01-05T21:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MA",
+    "main_image": "https://e1.hespress.com/wp-content/uploads/2023/02/Agriculture-Cannabis.jpg",
+    "performance_score": 0,
+    "domain_rank": 46470,
+    "domain_rank_updated": "2024-01-02T12:06:53.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7b990fab14fbfea5c794595bb937b58471718235",
+  "url": "https://en.hespress.com/77641-how-two-scientists-are-using-language-models-to-democratize-climate-data-in-morocco.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Hiba El Bouchtaoui",
+  "published": "2024-01-05T21:03:00.000+02:00",
+  "title": "How two scientists are using language models to democratize climate data in Morocco",
+  "text": "Beginning with an inquiry on Morocco, two German scientists developed ClimSight, a tool based on language models to assist in quickly and inexpensively summarizing, aggregating, and communicating localized climate-related data to people. They say that a straightforward proof-of-concept prototype could support the claim that the method of combining language models with crop-related climate predictions has the potential to effectively democratize climate information. “Consider an individual who owns a parcel of land in Morocco and contemplates its use for wheat cultivation. They are aware of changes in the climate, and concerned regarding potential impacts on their agricultural venture,” said the scientists in the research published in Nature Science magazine. What might sharing climate information look like in the future? [@JungAwi]and I are experimenting with an AI-based approach that could potentially bring local climate information from projects like [#DestinE]to everyone. Published today in [@CommsEarth]: [https://t.co/aOWB7Vv1Co] 1/3 [pic.twitter.com/TBC7rSA71Y] — Nikolay Koldunov @ [[email protected]](@oceanographer) [January 5, 2024] They set ClimSight to work on a query about a specific geographical point, “I intend to cultivate wheat. What are the implications of climate change?” With the help of a large language model (LLM), ClimSight serves as a localized decision-making assistant that evaluates the impact of climate change on specific activities, after providing a thorough answer to the query. Despite being a scientific breakthrough, ClimSight is still rather basic; it only collects a limited amount of information about the area of interest, relies solely on the output of a single, low-resolution climate model simulation, and ignores uncertainty estimates. The two scientists, Thomas Jung, and Nikolay Koldunov believe that it is likely that the majority of users will be curious about climate impacts over the next ten to thirty years, which is why the tool tries to foresee future climate scenarios. ClimSight links user queries to climate change information and demonstrates a high degree of proficiency in conveying and summarizing climate data. In response to the test on Morocco, the tool gave insights on temperature, precipitation, wind, policy, and regulatory implications as well as recommendations aligning perfectly with the climate predictions it offers. It also delves into potential risks and helps the inquirers to figure out their next step. As the technology used to provide information to the tool isn’t free of constraints, the scientists hope to expand the scope of their system and transition to open-source models instead of the large language models they are currently using. ClilSight’s creators, very aware of the risks that come with using AI in such a project, said “ Arguably more important than expansion, is the task of ensuring that users are aware of the degree of reliability of the information they receive. Large language models can occasionally generate erroneous information and fabricate facts, and climate projections are subject to their own set of inherent uncertainties and potential biases. It would be important to make the reliability of the system’s output intuitively transparent, for example by providing a range of possible future scenarios rather than just one recommendation. Furthermore, incorporating information on local model biases, drift, and ensemble spread would add confidence and trustworthiness to the recommendations communicated to the user.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://t.co/aOWB7Vv1Co",
+    "https://www.t.co/aOWB7Vv1Co"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "nikolay kolduno",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nature science",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "morocco",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-06T00:39:18.027+02:00",
+  "updated": "2024-01-06T00:39:18.027+02:00"
+}

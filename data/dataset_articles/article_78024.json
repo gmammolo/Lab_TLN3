@@ -1,0 +1,121 @@
+{
+  "thread": {
+    "uuid": "e34b80baa6ec70012ed439004cdc94877c85dcf9",
+    "url": "https://dig.watch/updates/study-finds-chain-of-thought-reasoning-in-llms-is-a-brittle-mirage",
+    "site_full": "dig.watch",
+    "site": "dig.watch",
+    "site_section": "https://dig.watch",
+    "site_categories": [
+      "non_standard_content"
+    ],
+    "section_title": "Home | Digital Watch Observatory",
+    "site_title": "Home | Digital Watch Observatory",
+    "title": "Study finds chain-of-thought reasoning in LLMs is a brittle mirage | Digital Watch Observatory",
+    "title_full": "Study finds chain-of-thought reasoning in LLMs is a brittle mirage | Digital Watch Observatory",
+    "published": "2025-08-21T10:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2025/08/Arizona-State-University-Chain-of-Thought-Reasoning-DataAlchemy-LLMs-pattern-matching.jpg",
+    "performance_score": 0,
+    "domain_rank": 42135,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e34b80baa6ec70012ed439004cdc94877c85dcf9",
+  "url": "https://dig.watch/updates/study-finds-chain-of-thought-reasoning-in-llms-is-a-brittle-mirage",
+  "ord_in_thread": 0,
+  "author": "jovankr@diplomacy.edu",
+  "published": "2025-08-21T10:22:00.000+03:00",
+  "title": "Study finds chain-of-thought reasoning in LLMs is a brittle mirage | Digital Watch Observatory",
+  "text": "Study finds chain-of-thought reasoning in LLMs is a brittle mirage\nA new study finds large language models rely on memorised patterns rather than reasoning, raising risks for high-stakes applications.\nA new study from Arizona State University researchers suggests that chain-of-thought reasoning in large language models (LLMs) is closer to pattern matching than accurate logical inference. The findings challenge assumptions about human-like intelligence in these systems.\nThe researchers used a data distribution lens to examine where chain-of-thought fails, testing models on new tasks, different reasoning lengths, and altered prompt formats. Across all cases, performance degraded sharply outside familiar training structures.\nTheir framework, DataAlchemy, showed that models replicate training patterns rather than reason abstractly. Failures could be patched quickly through fine-tuning on small new datasets, but this reinforced the pattern-matching theory.\nThe paper warns developers against relying on chain-of-thought reasoning for high-stakes domains, emphasising the risks of fluent but flawed rationale. It urges practitioners to implement rigorous out-of-distribution testing and treat fine-tuning as a limited patch.\nThe researchers argue that applications can remain effective for enterprise use by systematically mapping a model’s boundaries and aligning them with predictable tasks. Targeted fine-tuning then becomes a tool for precision rather than broad generalisation.\nWould you like to learn more about AI, tech, and digital diplomacy? If so, ask our Diplo chatbot!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Social Issue->social problem",
+    "Social Issue->social networking",
+    "Social Issue->demographics",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://venturebeat.com/ai/scaling-agentic-ai-safely-and-stopping-the-next-big-security-breach",
+    "http://www.diplomacy.edu",
+    "http://diplomacy.edu",
+    "https://www.venturebeat.com/ai/scaling-agentic-ai-safely-and-stopping-the-next-big-security-breach"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Digital Watch Observatory",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Arizona State University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:45:39.387+03:00",
+  "updated": "2025-08-21T10:51:17.000+03:00"
+}

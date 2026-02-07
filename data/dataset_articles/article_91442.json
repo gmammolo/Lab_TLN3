@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "3744f87e47fd872fdd9ef85b63d5e067fbc9e5b9",
+    "url": "https://www.ilgiorno.it/varese/cronaca/viaggio-nel-lago-per-la-d5adc80f",
+    "site_full": "www.ilgiorno.it",
+    "site": "ilgiorno.it",
+    "site_section": "https://www.ilgiorno.it/rss",
+    "site_categories": [
+      "media",
+      "top_news_it",
+      "top_news"
+    ],
+    "section_title": "Tutte le notizie di  oggi - Giorno",
+    "site_title": "Il Giorno | Tutte le ultime notizie in tempo reale dalla Lombardia",
+    "title": "Viaggio nel lago per la solidarietà. Salpa il Battello della Pace",
+    "title_full": "Viaggio nel lago per la solidarietà. Salpa il Battello della Pace",
+    "published": "2025-10-09T07:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.ilgiorno.it/image-service/view/acePublic/alias/contentid/NGZmZGQ3MzUtMjZkMy00/0/viaggio-nel-lago-per-la-solidarieta-salpa-il-battello-della-pace.jpeg?f=1.90:1&amp;w=1200",
+    "performance_score": 0,
+    "domain_rank": 17561,
+    "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 10
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3744f87e47fd872fdd9ef85b63d5e067fbc9e5b9",
+  "url": "https://www.ilgiorno.it/varese/cronaca/viaggio-nel-lago-per-la-d5adc80f",
+  "ord_in_thread": 0,
+  "author": "Il Giorno",
+  "published": "2025-10-09T07:21:00.000+03:00",
+  "title": "Viaggio nel lago per la solidarietà. Salpa il Battello della Pace",
+  "text": "Salpa da Angera sabato Il Battello di Pace , al centro di una giornata di testimonianze, musica e solidarietà. \"Insieme per denunciare la guerra, per chiedere Pace e Giustizia per Gaza e per ogni luogo di conflitto\", spiegano gli organizzatori - Insieme per imparare a costruire la Pace nelle scelte di ogni giorno\". L’iniziativa unisce in questo viaggio simbolico le due sponde del lago Maggiore , quella lombarda, Angera e quella piemontese, con le soste ad Arona, Baveno e Verbania Intra.\nIn ogni tappa del viaggio si terranno presìdi di sensibilizzazione con musica dal vivo, reading teatrali, testimonianze e riflessioni condivise sul tema della pace, per coinvolgere e stimolare all’azione la cittadinanza.\nDurante la manifestazione saranno anche raccolti fondi che saranno destinati a sostenere concretamente i progetti umanitari di Emergency e Medici Senza Frontiere . Sabato il Lago Maggiore diventa teatro quindi di un’iniziativa carica di significato con il Battello di Pace, promosso dal comitato Artigiani di Pace, da mesi impegnato con eventi contro le guerre e contro il riarmo, obiettivo diffondere messaggi di nonviolenza, cooperazione tra i popoli e speranza.\nMolte le adesioni già ricevute da associazioni locali delle due sponde del Verbano, istituzioni e cittadini che saranno presenti nei 4 presidi organizzati nelle 4 tappe del viaggio. Imbarco e sbarco saranno effettuati sempre ad Angera, non sono previsti nelle soste intermedie, il Battello della Pace farà rientro in serata ad Angera da dove salperà sabato mattina è alle 9.30.\nRos.Fo.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Social Issue",
+    "Arts, Culture and Entertainment"
+  ],
+  "topics": [
+    "Human Interest->ceremony",
+    "Social Issue->communities",
+    "Social Issue->values",
+    "Arts, Culture and Entertainment->news media"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Angera",
+        "sentiment": "none"
+      },
+      {
+        "name": "Verbania Intra",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lago Maggiore",
+        "sentiment": "none"
+      },
+      {
+        "name": "Baveno",
+        "sentiment": "none"
+      },
+      {
+        "name": "Arona",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Il Battello di Pace",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Medici Senza Frontiere",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Emergency",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_it",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-09T07:48:22.896+03:00",
+  "updated": "2025-10-10T08:06:20.000+03:00"
+}

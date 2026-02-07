@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "5e96b944a28612ead6d94876fdd4b4e1d7a922c4",
+    "url": "https://portail.free.fr/tech/high-tech/apple-corrige-des-failles-critiques-sur-les-mac-intel",
+    "site_full": "portail.free.fr",
+    "site": "free.fr",
+    "site_section": "https://portail.free.fr/tech/high-tech",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Actualités High-Tech - Portail Free",
+    "title": "Apple corrige des failles critiques sur les Mac Intel",
+    "title_full": "Apple corrige des failles critiques sur les Mac Intel",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 224,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5e96b944a28612ead6d94876fdd4b4e1d7a922c4",
+  "url": "https://portail.free.fr/tech/high-tech/apple-corrige-des-failles-critiques-sur-les-mac-intel",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T02:00:00.000+02:00",
+  "title": "Apple corrige des failles critiques sur les Mac Intel",
+  "text": "Apple corrige des failles critiques sur les Mac Intel\nDeux vulnérabilités majeures ont récemment été corrigées par Apple, affectant plusieurs systèmes de ses appareils, notamment les Mac équipés de puces Intel.\nTl;dr\n- Apple a corrigé deux failles critiques dans JavaScriptCore et WebKit.\n- Les vulnérabilités permettaient des attaques à distance et des intrusions via des sites malveillants.\n- Des mises à jour de\n[sécurité](https://www.begeek.fr/securite)ont été publiées pour macOS, iOS et iPadOS.\nDes failles critiques exposées\nLes vulnérabilités CVE-2024-44308 et CVE-2024-44309, présentes dans JavaScriptCore et WebKit, permettent l’exécution de code malveillant à distance et des attaques de type cross-site scripting (CSS). Ces failles offrent aux attaquants un accès direct aux systèmes, compromettant ainsi les données des utilisateurs. En particulier, les utilisateurs naviguant sur des sites web non sécurisés sont exposés à un risque accru, ce qui rend d’autant plus urgentes les mises à jour proposées par Apple.\nL’impact sur plusieurs appareils Apple\nBien que ces vulnérabilités aient été signalées principalement sur les [Mac](https://www.begeek.fr/cette-touche-sur-votre-mac-est-la-clef-de-nombreux-raccourcis-tres-utiles-389433) à processeur Intel, elles affectent également les appareils fonctionnant sous iOS et [iPadOS](https://www.begeek.fr/tout-ce-que-vous-devez-savoir-sur-ipados-18-403904). Cette propagation des failles à travers différentes plateformes souligne l’importance de sécuriser l’ensemble de l’écosystème [Apple](https://www.begeek.fr/lapple-iphone-17-promet-des-performances-nettement-ameliorees-407071). Le système d’exploitation destiné aux futurs dispositifs immersifs d’Apple, [visionOS](https://www.begeek.fr/apple-vision-pro-avec-visionos-2-plus-immersif-encore-si-cest-possible-402520), a également été touché. Ces incidents mettent en lumière le défi permanent de maintenir la sécurité dans un environnement technologique interconnecté.\nUne découverte préoccupante\nLes failles ont été découvertes par des chercheurs de [Google](https://www.begeek.fr/google-sous-pression-une-vente-de-chrome-est-envisagee-pour-endiguer-son-monopole-407095), mais Apple n’a pas révélé l’étendue des attaques ayant exploité ces vulnérabilités. Leur exploitation active laisse entendre que plusieurs utilisateurs ont été victimes de ces attaques, probablement via des sites web compromis. Cette situation met en évidence la complexité croissante des menaces, qui nécessitent une vigilance accrue de la part des entreprises et des utilisateurs pour prévenir de telles intrusions.\nLa réponse d’Apple face à la menace\nEn réponse à ces découvertes, Apple a publié rapidement des correctifs pour les versions récentes de macOS, iOS et iPadOS. En 2024, ce sont déjà six vulnérabilités majeures qui ont été corrigées, soulignant l’engagement d’Apple à renforcer la sécurité de ses systèmes. Malgré ces efforts, les attaques par des cybercriminels se multiplient, ce qui démontre que même les systèmes les plus avancés nécessitent des mises à jour régulières et des mesures de sécurité renforcées pour protéger les utilisateurs.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles",
+    "Health"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.begeek.fr/google-sous-pression-une-vente-de-chrome-est-envisagee-pour-endiguer-son-monopole-407095",
+    "https://www.begeek.fr/cette-touche-sur-votre-mac-est-la-clef-de-nombreux-raccourcis-tres-utiles-389433",
+    "https://www.begeek.fr/securite",
+    "https://www.begeek.fr/lapple-iphone-17-promet-des-performances-nettement-ameliorees-407071",
+    "https://www.begeek.fr/tout-ce-que-vous-devez-savoir-sur-ipados-18-403904",
+    "https://www.begeek.fr/apple-vision-pro-avec-visionos-2-plus-immersif-encore-si-cest-possible-402520",
+    "https://begeek.fr/cette-touche-sur-votre-mac-est-la-clef-de-nombreux-raccourcis-tres-utiles-389433",
+    "https://begeek.fr/apple-vision-pro-avec-visionos-2-plus-immersif-encore-si-cest-possible-402520",
+    "https://begeek.fr/securite",
+    "https://begeek.fr/tout-ce-que-vous-devez-savoir-sur-ipados-18-403904",
+    "https://begeek.fr/lapple-iphone-17-promet-des-performances-nettement-ameliorees-407071",
+    "https://begeek.fr/google-sous-pression-une-vente-de-chrome-est-envisagee-pour-endiguer-son-monopole-407095"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T14:42:06.881+02:00",
+  "updated": "2024-11-22T14:42:06.881+02:00"
+}

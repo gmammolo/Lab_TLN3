@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "d349f8b076ebdd7dce79156c7271f865ff59b22d",
+    "url": "https://www.thestar.com.my/news/nation/2025/03/06/metmalaysia-thunderstorms-and-strong-winds-expected-in-six-states",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/opinion/columnists/whats-your-status",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Columnists - Opinion | The Star",
+    "site_title": null,
+    "title": "MetMalaysia: Thunderstorms and strong winds expected in six states | The Star",
+    "title_full": "MetMalaysia: Thunderstorms and strong winds expected in six states | The Star",
+    "published": "2025-03-06T05:23:20.288+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2025/03/06/3199111.jpg",
+    "performance_score": 0,
+    "domain_rank": 2086,
+    "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 16
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d349f8b076ebdd7dce79156c7271f865ff59b22d",
+  "url": "https://www.thestar.com.my/news/nation/2025/03/06/metmalaysia-thunderstorms-and-strong-winds-expected-in-six-states",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "The Star Online",
+  "published": "2025-03-06T05:23:20.288+02:00",
+  "title": "MetMalaysia: Thunderstorms and strong winds expected in six states | The Star",
+  "text": "PETALING JAYA: Thunderstorms, heavy rain and strong winds have been forecast for Selangor, Perak, Johor and Kuala Lumpur.\nIn an advisory issued by the Meteorological Department at 9am on Thursday (March 6), thunderstorms are expected over the state of Perak, Selangor, Negri Sembilan, Melaka, Johor and Kuala Lumpur.\nAlso affected are Perak (Hilir Perak), Selangor (Sabak Bernam, Kuala Selangor, Klang, Gombak, Petaling, Kuala Langat and Sepang, Negri Sembilan (Seremban, Port Dickson, Rembau and Tampin), Melaka, Johor (Tangkak, Segamat, Muar, Batu Pahat, Kluang, Pontian, Kulai, Kota Tinggi and Johor Baru) and Kuala Lumpur.\nAlso seeing rains are Sandakan (Beluran) and Kudat (Pitas and Kudat) in Sabah.\nThe advisory is until 1pm today.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather forecast",
+    "Environment->natural resources",
+    "Environment->climate change",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jo",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Batu Pahat",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Selangor",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sepang",
+        "sentiment": "none"
+      },
+      {
+        "name": "Johor",
+        "sentiment": "none"
+      },
+      {
+        "name": "Muar",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Meteorological Department",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-06T05:23:20.288+02:00",
+  "updated": "2025-03-06T05:23:20.288+02:00"
+}

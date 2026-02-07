@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "ffeae798b0f1228d8df2268a868bdf32b0e7ede6",
+    "url": "https://www.tomshw.it/hardware/ryzen-7-9800x3d-fonde-processore-e-socket-paura-per-gli-utenti-2024-11-15",
+    "site_full": "www.tomshw.it",
+    "site": "tomshw.it",
+    "site_section": "http://www.tomshw.it/feed",
+    "site_categories": [
+      "travel",
+      "italy"
+    ],
+    "section_title": "",
+    "title": "Ryzen 7 9800X3D fonde scheda madre e socket, guai in vista per tutti?",
+    "title_full": "Ryzen 7 9800X3D fonde scheda madre e socket, guai in vista per tutti?",
+    "published": "2024-11-15T16:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.tomshw.it/storage/media/2024/11/40112/AMD-Ryzen-7-9800X3D-3.jpg",
+    "performance_score": 0,
+    "domain_rank": 27242,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ffeae798b0f1228d8df2268a868bdf32b0e7ede6",
+  "url": "https://www.tomshw.it/hardware/ryzen-7-9800x3d-fonde-processore-e-socket-paura-per-gli-utenti-2024-11-15",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Giulia Serena (giulia.serena2012@gmail.com)",
+  "published": "2024-11-15T16:03:00.000+02:00",
+  "title": "Ryzen 7 9800X3D fonde scheda madre e socket, guai in vista per tutti?",
+  "text": "Un processore AMD Ryzen 7 9800X3D (di cui abbiamo pubblicato la recensione pochi giorni fa) si è bruciato insieme al socket AM5 della scheda madre, causando danni irreparabili a entrambi i componenti. L'incidente è stato segnalato su Reddit dall'utente TrumpPooPoosPants, che ha condiviso le immagini del processore danneggiato.\nIl Ryzen 7 9800X3D è attualmente considerato il processore più veloce per il gaming, ed è molto richiesto sul mercato. Questo è il primo caso segnalato di un simile danneggiamento per questo modello, con l'utente che ha riferito che il PC non si avviava e, dopo un'ispezione, ha scoperto che sia la CPU che diversi pin dorati del socket AM5 della scheda madre MSI MAG X870 Tomahawk risultavano bruciati.\nLe cause esatte dell'incidente non sono ancora chiare. Alcuni utenti su Reddit hanno ipotizzato che potrebbe trattarsi di un errore durante l'installazione del processore, notando che i pin sembrano piegati e il socket danneggiato su un lato. Altri hanno suggerito che la scheda madre potrebbe aver inviato voltaggi eccessivi attraverso i contatti dorati.\nAMD ha avuto problemi simili in passato con il Ryzen 7 7800X3D, un altro processore con tecnologia 3D V-Cache, che si era bruciato su una scheda madre ASUS X670 a causa di voltaggi eccessivi; all'epoca, quel problema era stato risolto rapidamente attraverso aggiornamenti del BIOS.\nPer quanto sia difficile commettere errori durante l'installazione di una CPU moderna, dato che il chip può essere inserito solo in un verso, è fondamentale prestare la massima attenzione durante il montaggio:\n- Verificare che i pin della CPU e del socket siano perfettamente allineati\n- Controllare che non ci siano pin piegati o danneggiati\n- Assicurarsi che la CPU sia correttamente bloccata nel socket\nAl momento questo sembra essere un caso isolato per il Ryzen 7 9800X3D. Non sono state segnalate altre situazioni simili dagli utenti. AMD e MSI non hanno ancora rilasciato dichiarazioni ufficiali sull'accaduto.\nOvviamente seguiremo con attenzione gli sviluppi di questa vicenda, per capire se si tratta di un problema isolato o se emergeranno altre segnalazioni. Nel frattempo, il consiglio è quello di prestare la massima attenzione durante l'assemblaggio del proprio PC, soprattutto con componenti di fascia alta come il Ryzen 7 9800X3D.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles",
+    "Product and Services News"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.amazon.it/dp/B0BTZB7F88/?tag=toms-scontitech-21&ascsubtag=12247&linkCode=ogi",
+    "https://amazon.it/dp/B0BTZB7F88/?tag=toms-scontitech-21&ascsubtag=12247&linkCode=ogi",
+    "https://www.amazon.it/dp/B0BTZB7F88/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Reddit",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "TrumpPooPoosPants",
+        "sentiment": "none"
+      },
+      {
+        "name": "MSI",
+        "sentiment": "none"
+      },
+      {
+        "name": "AMD",
+        "sentiment": "none"
+      },
+      {
+        "name": "PC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:39:22.135+02:00",
+  "updated": "2024-11-15T18:39:22.135+02:00"
+}

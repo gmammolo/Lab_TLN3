@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "05b36d92461c0c771efe48913a8087cf9283599d",
+    "url": "https://stackoverflow.com/questions/77729314/mongoose-deleteone-and-deletemany-dont-work",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/feeds",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Stack Overflow",
+    "title": "Mongoose deleteOne() and deleteMany() don't work",
+    "title_full": "Mongoose deleteOne() and deleteMany() don't work",
+    "published": "2023-12-29T00:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "05b36d92461c0c771efe48913a8087cf9283599d",
+  "url": "https://stackoverflow.com/questions/77729314/mongoose-deleteone-and-deletemany-dont-work",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Danielrumata",
+  "published": "2023-12-29T00:15:00.000+02:00",
+  "title": "Mongoose deleteOne() and deleteMany() don't work",
+  "text": "I was working on a learning project creating a simple web application to write and store todos when I faced a problem that I wasn't be able to delete data in my MongoDB database. I created this simple js app with mongoose to recreate the problem. It creates item object with the name \"test\" and deletes all the objects with the \"test\" name. As you can see on the screenshot the app creates and stores successfully objects but ignores deleting them. I thank everyone in advance for the tips and help.\nscreenshot showing the problem\nMy code:\nconst express = require(\"express\"); const bodyParser = require(\"body-parser\"); const mongoose = require(\"mongoose\"); const app = express(); mongoose.connect(\"mongodb://localhost:27017/testDB\", {useNewUrlParser: true}); app.set('view engine', 'ejs'); app.use(bodyParser.urlencoded({extended: true})); app.use(express.static(\"public\")); const itemsSchema = new mongoose.Schema({ name: String }); const Item = mongoose.model(\"Item\", itemsSchema); const item1 = new Item({ name: \"test\" }); item1.save(); app.get(\"/\", function(req, res){ console.log(\"get request received\"); Item.deleteMany({name: \"test\"}); });\nTerminal output:\n$ node app.js (node:2868) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version (Use `node --trace-warnings ...` to show where the warning was created) Server started on port 3000 get request received\nMongoDB:\ntestDB> db.items.find() [ { _id: ObjectId('658de5a4687d08a6d992f578'), name: 'test', __v: 0 }, { _id: ObjectId('658de5df82d80828a24ef6ca'), name: 'test', __v: 0 }, { _id: ObjectId('658de60b1fb7cb4857d913d3'), name: 'test', __v: 0 }, { _id: ObjectId('658de6da74df4c07250fda5d'), name: 'test', __v: 0 }, { _id: ObjectId('658de7aedbb13b7d5c4da89f'), name: 'test', __v: 0 }, { _id: ObjectId('658de7e8503dc8af15ec99cb'), name: 'test', __v: 0 }, { _id: ObjectId('658de87c0af9b84f9e6447a3'), name: 'test', __v: 0 }, { _id: ObjectId('658de90b1037063646341713'), name: 'test', __v: 0 }, { _id: ObjectId('658de97076fcb27979948394'), name: 'test', __v: 0 }, { _id: ObjectId('658deda74e02782f66b75ae3'), name: 'test', __v: 0 } ]\nTried: deleteOne() and deleteMany() commands; Expected to happen: deleting all the elements with the name \"test\" in the database. Actually resulted: objects store in the database but no deleting of the elements happen.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:22:47.539+02:00",
+  "updated": "2023-12-29T00:22:47.539+02:00"
+}

@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "96acf3c2ad98db0c97be48cf05518606df30b189",
+    "url": "https://80.lv/articles/an-easy-to-use-3d-gaussian-splatting-solution-from-polycam/",
+    "site_full": "80.lv",
+    "site": "80.lv",
+    "site_section": "https://80.lv/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "80 Level ",
+    "title": "An Easy-to-Use 3D Gaussian Splatting Solution From Polycam",
+    "title_full": "An Easy-to-Use 3D Gaussian Splatting Solution From Polycam",
+    "published": "2023-12-28T19:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "LV",
+    "main_image": "https://cdn.80.lv/api/upload/meta/30770/images/657ac301703b7/contain_1200x630.jpg",
+    "performance_score": 0,
+    "domain_rank": 52985,
+    "domain_rank_updated": "2023-12-26T12:06:25.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "96acf3c2ad98db0c97be48cf05518606df30b189",
+  "url": "https://80.lv/articles/an-easy-to-use-3d-gaussian-splatting-solution-from-polycam/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Theodore McKenzie",
+  "published": "2023-12-28T19:55:00.000+02:00",
+  "title": "An Easy-to-Use 3D Gaussian Splatting Solution From Polycam",
+  "text": "Learn how the Polycam team has made 3D Gaussian Splatting easily accessible to both desktop and mobile users.\nThroughout the past several months, a new ML-powered rendering method called 3D Gaussian Splatting has been gaining widespread attention on the internet.\nFor those unaware, Gaussian Splatting is a real-time 3D reconstruction and rendering method for images taken from multiple viewpoints. As part of this approach, the 3D space is defined by using millions of particles (Gaussians), each equipped with attributes such as position, orientation, scale, opacity, and color, while machine learning is employed to calculate the parameters for each Gaussian.\nCompared to other rendering methods, like, for example, photogrammetry, a technique for generating 3D polygons from images from multiple viewpoints, or Neural Radiance Field (NeRF), which uses AI to accurately render open scenes and surfaces with reflections or translucent surfaces, 3D Gaussian Splatting requires much less computing power to render a scene in real-time.\nThis distinction is due to the fact that, although machine learning is necessary for training the Gaussian parameters, the rendering process itself is lightweight and can be executed in real-time without the need for intensive processing.\nvia its websiteand on mobile through its app.\nWith Polycam's solution, users have the ability to capture a minimum of 20 images, up to 1000 images, for direct processing within the app. Furthermore, Polycam's website enables the upload of both images and video files. Here's a visual display from Polycam's website that shows the creation process of a Gaussian Splat:\nWith Polycam's solution, you can seamlessly harness the power of Gaussian Splats to capture intricate environmental details, a task that might be challenging with traditional photogrammetry, especially when dealing with elements like reflections or water. Polycam also offers users the capability to repurpose the raw images from their initial 3D captures, reprocessing them as Gaussian Splats.\nGaussian Splats can be exported from Polycam as PLY files and seamlessly integrated into various 3D software platforms, with ready-made plug-ins for Blender, Unreal Engine, and Unity already in place.\nFurthermore, Polycam offers a Splat viewer on their website, allowing users to easily drag and drop their self-trained Gaussian Splat files, whether created within or outside of the Polycam environment.\nBelow is a series of examples from Polycam Gaussian Splats users, who leveraged the solution to capture landscapes, buildings, objects, people, and more:\nYou can learn more and get started with Polycam's Gaussian Splatting solution by clicking\nthis link. Also, don't forget to join our 80 Level Talent platform and our Telegram channel, follow us on",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://poly.cam/tools/gaussian-splatting",
+    "https://t.me/LevelEightyNews",
+    "https://poly.cam/gaussian-splatting",
+    "https://play.google.com/store/apps/details?id=ai.polycam&hl=en&gl=US",
+    "https://www.poly.cam/gaussian-splatting",
+    "https://www.t.me/LevelEightyNews",
+    "https://play.google.com/store/apps/details",
+    "https://www.play.google.com/store/apps/details?id=ai.polycam&hl=en&gl=US",
+    "https://www.poly.cam/tools/gaussian-splatting"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:43:21.909+02:00",
+  "updated": "2023-12-29T00:43:21.909+02:00"
+}

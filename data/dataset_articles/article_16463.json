@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "bfa4076e9e4031841d60ef19b7b36dd2f6cd104d",
+    "url": "https://finance.sina.com.cn/jjxw/2025-06-12/doc-inezvcxy3597398.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://www.sina.com.cn/",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "æ–°æµªç½‘",
+    "site_title": null,
+    "title": "紫牛热点｜AI大模型做高考数学I卷，豆包和DeepSeek拿到144分|高考数学_新浪财经_新浪网",
+    "title_full": "紫牛热点｜AI大模型做高考数学I卷，豆包和DeepSeek拿到144分|高考数学_新浪财经_新浪网",
+    "published": "2025-06-12T10:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bfa4076e9e4031841d60ef19b7b36dd2f6cd104d",
+  "url": "https://finance.sina.com.cn/jjxw/2025-06-12/doc-inezvcxy3597398.shtml",
+  "ord_in_thread": 0,
+  "author": "sina.com.cn",
+  "published": "2025-06-12T10:47:00.000+03:00",
+  "title": "紫牛热点｜AI大模型做高考数学I卷，豆包和DeepSeek拿到144分|高考数学_新浪财经_新浪网",
+  "text": "转自：扬子晚报\n2025年高考已经结束，机器之心使用七款大模型产品，做了高考数学I卷，结果第一名Gemini拿到145分，豆包和DeepSeek以1分之差并列第二，即使最后一名也获得134分，成绩亮眼。\n机器之心挑战高考数学I卷的AI大模型选手分别是五款国产AI：Doubao-1.5-thinking-vision-pro、DeepSeek R1、Qwen3-235b、hunyuan-t1-latest、文心 X1 Turbo。同时加上了OpenAI的ChatGPT O3和谷歌的Gemini 2.5 pro。\n在考题选择上，采用2025年高考数学新课标I卷，包含14道客观题，总计73分；5道解答题，总计77分。不做引导，不开启联网搜索，由AI大模型直接输出结果。\n客观题计分方法按照以往高考判分原则，解答题请数学专业人员进行评判，主要看大模型的最终答案以及解题步骤中是否有严重失误点。\n从客观题来看，各家大模型几乎拉不开差距，最大分差也只有3分，第6题图像题使这几家多模态大模型“全军覆没”。\n解答题是大模型失分重灾区。除了Gemini 2.5 Pro拿到全部分数，其他大模型或多或少均有失分。其中DeepSeek R1和Doubao只丢了一分；O3则失了2分。hunyuan-t1-latest和文心 X1 Turbo发挥不佳，解答分别拿到68分和66分。\n最后Gemini 2.5 pro总分145排名第一，豆包和DeepSeek R1拿到144分，ChatGPT O3为140分，Qwen3-235b为139分，hunyuan-t1-latest为136分，文心 X1 Turbo虽然是最后一名，仍然得到134分，这个分数在考生中也属于非常优秀的水平。\n这次测评结果显示，大模型在数学推理能力上有不小的进步，但仍有较大的提升空间。此外，所有参测的多模态大模型在第6题的图像识别上都出现了问题，这也暴露出当前AI在图文结合理解方面的短板。扬子晚报/紫牛新闻记者 宋世锋\n校对 石伟",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Education",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences",
+    "Education->college and university",
+    "Education->students",
+    "Education->educational testing and examinations",
+    "Social Issue->demographics",
+    "Social Issue->social services",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-12T10:55:08.772+03:00",
+  "updated": "2025-06-13T08:07:07.000+00:00"
+}

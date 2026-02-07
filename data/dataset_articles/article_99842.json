@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "17b6f68238b9b14ff4b1dd76c8040c298924629e",
+    "url": "https://www.nextgov.com/cybersecurity/2024/02/agencies-must-disconnect-all-exposed-ivanti-products-friday-cisa-says/393837/",
+    "site_full": "www.nextgov.com",
+    "site": "nextgov.com",
+    "site_section": "https://fcw.com/rss-feeds/all.aspx",
+    "site_categories": [
+      "social"
+    ],
+    "section_title": "Nextgov/FCW - All Content",
+    "title": "Agencies must disconnect all exposed Ivanti products by Friday, CISA says",
+    "title_full": "Agencies must disconnect all exposed Ivanti products by Friday, CISA says - Nextgov/FCW",
+    "published": "2024-02-01T21:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.nextgov.com/media/img/cd/2024/02/01/020124AlertNG/open-graph.jpg",
+    "performance_score": 0,
+    "domain_rank": 9741,
+    "domain_rank_updated": "2024-01-30T12:05:46.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "17b6f68238b9b14ff4b1dd76c8040c298924629e",
+  "url": "https://www.nextgov.com/cybersecurity/2024/02/agencies-must-disconnect-all-exposed-ivanti-products-friday-cisa-says/393837/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "David DiMolfetta",
+  "published": "2024-02-01T21:28:00.000+02:00",
+  "title": "Agencies must disconnect all exposed Ivanti products by Friday, CISA says",
+  "text": "Agencies must disconnect all exposed Ivanti products by Friday, CISA says The directive follows a related warning issued last month about cybersecurity flaws in Ivanti systems. The Cybersecurity and Infrastructure Security Agency [directed](https://www.cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure) all federal agencies to disconnect themselves from a suite of Ivanti products by Friday, citing the discovery of two additional security vulnerabilities in the IT products. The directive from the Homeland Security Department’s civilian cyber agency follows a related Jan. 19 [warning](https://www.nextgov.com/cybersecurity/2024/01/cisa-directs-agencies-mitigate-widespread-vpn-bugs/393485/) that officials deemed serious, stressing that some 15 agencies involved in national security business were identified as using the targeted systems. “As soon as possible and no later than 11:59PM on Friday February 2, 2024, disconnect all instances of Ivanti Connect Secure and Ivanti Policy Secure solution products from agency networks,” CISA said in a Wednesday listing of required actions. Agencies must also notify CISA on Monday that they removed the equipment from their systems. Ivanti on Wednesday rolled out an extensive vulnerability [assessment list](https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US) about the products, noting that the exposures can allow hackers “to access restricted resources by bypassing control checks” and gain administrative privileges in compromised systems. A technical analysis by Google-owned Mandiant noted that China-linked hackers have attempted to leverage the weaknesses since [at least December](https://www.mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation). At least 2,100 systems were flagged as infected in an initial [blog post](https://www.volexity.com/blog/2024/01/18/ivanti-connect-secure-vpn-exploitation-new-observations/) by cybersecurity firm Volexity.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Politics",
+    "War, Conflict and Unrest"
+  ],
+  "external_links": [
+    "https://www.forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US)",
+    "https://volexity.com/blog/2024/01/18/ivanti-connect-secure-vpn-exploitation-new-observations/)",
+    "https://www.volexity.com/blog/2024/01/18/ivanti-connect-secure-vpn-exploitation-new-observations/)",
+    "https://mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation).",
+    "https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US)",
+    "https://www.cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure)",
+    "https://cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure)",
+    "https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways",
+    "https://www.mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "cisa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "homeland security department",
+        "sentiment": "none"
+      },
+      {
+        "name": "ivanti policy secure",
+        "sentiment": "none"
+      },
+      {
+        "name": "cybersecurity and infrastructure security agency",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ivanti",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-02-02T00:39:45.434+02:00",
+  "updated": "2024-02-02T00:39:45.434+02:00"
+}

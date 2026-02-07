@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "8283d52d7c69cedeb3c9fee81b499bd94f64879f",
+    "url": "https://community.mybb.com/thread-242735.html",
+    "site_full": "community.mybb.com",
+    "site": "mybb.com",
+    "site_section": "https://community.mybb.com/syndication.php?type=atom1.0",
+    "site_categories": [],
+    "section_title": "",
+    "title": "Mycodes and attachments stopped working after upgrade.",
+    "title_full": "Mycodes and attachments stopped working after upgrade.",
+    "published": "2025-01-10T05:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 9927,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8283d52d7c69cedeb3c9fee81b499bd94f64879f",
+  "url": "https://community.mybb.com/thread-242735.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dave H Posts",
+  "published": "2025-01-10T05:41:00.000+02:00",
+  "title": "Mycodes and attachments stopped working after upgrade.",
+  "text": "2 hours ago\nThe latest in my ongoing attempts to upgrade from 1.6.13 to 1.8.38:\nAfter days of trying to update on the webserver, I finally gave up and took the backup and read it into a local linux machine and loaded myBB 1.8.38 and performed the update. Then I dumped the resulting SQL DB and reloaded it back into the web server. At first glance this seemed to work pretty good.\n(I do recall being alarmed when I saw a message \"Adding index files to attachment directories\" but hoped for the best, because I think it was too late anyway.)\nHowever, in the upgraded 1.8.38 version:\nmycodes in posts don't work. ie: posts that used to be properly formatted are now displayed with [b][/size][/font] etc. showing.\nAttachments seem gone - there are no indicators in the forum, and I see mycode-style text instead like:\n[attachment=14398][attachment=14399][attachment=14400][attachment=14401][attachment=14402]\nThank you for any clues.\nAfter days of trying to update on the webserver, I finally gave up and took the backup and read it into a local linux machine and loaded myBB 1.8.38 and performed the update. Then I dumped the resulting SQL DB and reloaded it back into the web server. At first glance this seemed to work pretty good.\n(I do recall being alarmed when I saw a message \"Adding index files to attachment directories\" but hoped for the best, because I think it was too late anyway.)\nHowever, in the upgraded 1.8.38 version:\nmycodes in posts don't work. ie: posts that used to be properly formatted are now displayed with [b][/size][/font] etc. showing.\nAttachments seem gone - there are no indicators in the forum, and I see mycode-style text instead like:\n[attachment=14398][attachment=14399][attachment=14400][attachment=14401][attachment=14402]\nThank you for any clues.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T07:46:50.235+02:00",
+  "updated": "2025-01-10T07:46:50.235+02:00"
+}

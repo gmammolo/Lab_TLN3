@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "e69bcbafd84ad66c2e87f87cea6d7d43307d0d09",
+    "url": "https://taxguru.in/goods-and-service-tax/gstr-2b-books-reconciliation-utility-free-excel-tool.html",
+    "site_full": "taxguru.in",
+    "site": "taxguru.in",
+    "site_section": "http://taxguru.in/feed/",
+    "site_categories": [
+      "tax_planning",
+      "finance"
+    ],
+    "section_title": "taxguruin",
+    "site_title": "Complete Tax Solution: Latest Tax News India, Tax Notification",
+    "title": "GSTR 2B-Books Reconciliation Utility: Free Excel Tool",
+    "title_full": "GSTR 2B-Books Reconciliation Utility: Free Excel Tool",
+    "published": "2025-06-12T10:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://taxguru.in/wp-content/uploads/2017/02/TG-Share-Image.png",
+    "performance_score": 0,
+    "domain_rank": 32899,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e69bcbafd84ad66c2e87f87cea6d7d43307d0d09",
+  "url": "https://taxguru.in/goods-and-service-tax/gstr-2b-books-reconciliation-utility-free-excel-tool.html",
+  "ord_in_thread": 0,
+  "author": "Sahil Nagpal",
+  "published": "2025-06-12T10:03:00.000+03:00",
+  "title": "GSTR 2B-Books Reconciliation Utility: Free Excel Tool",
+  "text": "I am a CA Final student with a software engineering background and I made an Invoice wise 2B-Books Reconciliation Excel Utility which is FREE to use and does the reconciliation work in 10 seconds. It comes with many features, here are a few:\n1. It can match Invoices even if Invoice Number is partially entered in Books. Example:\n- 2B-> INV-233-24/25 & Books-> 233 will be matched if GSTIN is matched.\n- 2B-> P0390041/24-25 & Books-> 41 will be matched if GSTIN is matched.\n2. It combines/merges multiple entries of different rates with the same Invoice number and GSTIN automatically.\nBrief on Reconciling GSTR-2B: Reconciling GSTR-2B with a business’s books of accounts is a crucial compliance activity for Goods and Services Tax (GST) registered taxpayers in India. GSTR-2B is an auto-generated, static Input Tax Credit (ITC) statement that provides a consolidated view of eligible and ineligible ITC based on invoices and debit/credit notes uploaded by suppliers in their GSTR-1, GSTR-5, GSTR-6, and details from ICEGATE. This reconciliation process involves comparing the purchase entries recorded in a business’s internal accounting software or purchase register with the data reflected in the GSTR-2B statement. The primary objective is to ensure that all eligible ITCs are accurately claimed, identify any discrepancies such as missing invoices, incorrect amounts, or mismatched GSTINs, and address them promptly. Common challenges include supplier delays in filing GSTR-1, errors in invoice details, and the sheer volume of transactions. Effective reconciliation, often aided by accounting software with GSTR-2B import and matching capabilities, helps businesses avoid over or under-claiming ITC, minimizes the risk of audits and penalties, and enhances overall GST compliance and financial accuracy. This proactive approach allows businesses to maintain reliable tax records and ensure smooth GST operations.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business service",
+    "Education->students",
+    "Education->adult and continuing education",
+    "Education->online and remote learning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "ITC",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-12T10:14:56.013+03:00",
+  "updated": "2025-06-12T07:20:52.000+00:00"
+}

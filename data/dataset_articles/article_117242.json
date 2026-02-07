@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "a3d7af3974aaf1a645e31819346623288f9a0860",
+    "url": "https://www.mz.de/panorama/warnung-vor-starken-gewittern-im-suden-sachsen-anhalts-4105531",
+    "site_full": "www.mz.de",
+    "site": "mz.de",
+    "site_section": "https://mz.de/panorama",
+    "site_categories": [
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Panorama - Nachrichten, Reportagen und mehr | MZ.de",
+    "site_title": "Mitteldeutsche Zeitung",
+    "title": "Wetter: Warnung vor starken Gewittern im Süden Sachsen-Anhalts",
+    "title_full": "Wetter: Warnung vor starken Gewittern im Süden Sachsen-Anhalts",
+    "published": "2025-08-28T10:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://bmg-images.forward-publishing.io/2025/08/28/d4daed62-33b6-41ae-9e53-48a7fae9db39.jpeg?rect=0%2C1%2C2048%2C1152&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 49323,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a3d7af3974aaf1a645e31819346623288f9a0860",
+  "url": "https://www.mz.de/panorama/warnung-vor-starken-gewittern-im-suden-sachsen-anhalts-4105531",
+  "ord_in_thread": 0,
+  "author": "dpa",
+  "published": "2025-08-28T10:25:00.000+03:00",
+  "title": "Wetter: Warnung vor starken Gewittern im Süden Sachsen-Anhalts",
+  "text": "Wetter Warnung vor starken Gewittern im Süden Sachsen-Anhalts\nAm Morgen ziehen Gewitter über den Süden Sachsen-Anhalts. Der Deutsche Wetterdienst warnt vor Blitzschlag, Hagel und überfluteten Straßen.\nMagdeburg - Der Deutsche Wetterdienst (DWD) warnt im Süden Sachsen-Anhalts vor starken Gewittern mit Starkregen und Windböen am Vormittag. Die Warnung gelte für den Burgenlandkreis, die Landkreise Harz und Mansfeld-Südharz, den Saalekreis, den Salzlandkreis sowie die Stadt Halle (Saale), hieß es in einer Mitteilung. Auch in der Börde seien laut Warnkarte am Morgen einzelne Gewitter mit Windböen möglich.\nEs bestehe Gefahr durch Blitzschlag, vereinzelt herabstürzende Bäume und Gegenstände sowie Hagelschlag, hieß es weiter. Zudem warnte der Wetterdienst vereinzelt vor raschen Überflutungen von Straßen und Unterführungen sowie Aquaplaning.\nDer DWD riet dazu, Aufenthalt im Freien zu vermeiden, Gewässer und Unterführungen zu meiden sowie das Verhalten im Straßenverkehr anzupassen. Auch sollten lose Gegenstände gesichert werden.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather warning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Sachsen-Anhalts",
+        "sentiment": "none"
+      },
+      {
+        "name": "Saalekreis",
+        "sentiment": "none"
+      },
+      {
+        "name": "Magdeburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Halle",
+        "sentiment": "none"
+      },
+      {
+        "name": "Harz",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutsche Wetterdienst",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T10:50:47.426+03:00",
+  "updated": "2025-08-29T11:08:23.000+03:00"
+}

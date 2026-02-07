@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "be5e7511b018f02fee9996b2e4ea798ebe5fcc56",
+    "url": "https://www.techspot.com/community/topics/chrome-extensions-are-abusing-googles-lousy-security-policies-to-come-first-in-search-results.290185",
+    "site_full": "www.techspot.com",
+    "site": "techspot.com",
+    "site_section": "https://www.techspot.com/community",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TechSpot Forums",
+    "title": "Chrome extensions are abusing Google's lousy security policies to come first in search results",
+    "title_full": "Chrome extensions are abusing Google's lousy security policies to come first in search results",
+    "published": "2025-01-09T20:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2443,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "be5e7511b018f02fee9996b2e4ea798ebe5fcc56",
+  "url": "https://www.techspot.com/community/topics/chrome-extensions-are-abusing-googles-lousy-security-policies-to-come-first-in-search-results.290185",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alfonso Maruccia",
+  "published": "2025-01-09T20:55:00.000+02:00",
+  "title": "Chrome extensions are abusing Google's lousy security policies to come first in search results",
+  "text": "Editor's take: The Chrome Web Store offers numerous tools for extension developers to publish and promote their creations. However, what it should not enable is the misuse of these tools to provide authors with manipulative tactics that push extensions in unexpected or inappropriate contexts.\nDespite the forced transition to Manifest V3, Chrome extensions remain as dangerous and malicious as ever. Rogue developers can disguise their creations as [legitimate extensions](https://www.techspot.com/news/106177-google-removed-editthiscookie-chrome-extension-but-malicious-copycat.html) still using the older Manifest V2 technology or exploit Chrome Web Store's translation system to appear in unrelated search results by Chrome users.\nThis latest tactic was recently discovered by security researcher Wladimir Palant, who detailed his [findings](https://palant.info/2025/01/08/how-extensions-trick-cws-search/) in an eye-opening post. While searching for the \"Norton Password Manager\" extension on the Chrome Web Store, Palant encountered numerous seemingly unrelated results. Upon investigating, he uncovered a clever manipulation campaign actively pushing users to install low-quality or even malicious code.\nThe core issue identified by Palant lies in how the Chrome Web Store manages translations and related metadata. Official Chrome Web Store [policies](https://developer.chrome.com/docs/webstore/program-policies/spam-and-abuse) explicitly prohibit search result manipulation, yet hundreds of extensions are flagrantly violating these rules to secure undeserved visibility and promotion.\nSome developers have discovered that the Chrome Web Store search index is shared across all languages, according to Palant. This allows them to \"sacrifice\" descriptions in less popular languages by embedding them with keyword-packed text. When users search the CWS, these keywords boost the visibility of malicious extensions, even if the extensions are programmed to perform entirely unrelated functions.\nPalant identified 920 Chrome extensions exploiting this malicious technique to manipulate CWS search results. These extensions can be traced back to a few \"clusters,\" suggesting they were likely created by a small group of developers familiar with the search manipulation trick.\nThe researcher reported this issue to Google, highlighting what appears to be a coordinated effort to manipulate the Chrome Web Store search system. Palant noted that Google had already been [alerted](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/JMtfgiagcgY/m/TNMERoXWAwAJ?pli=1) to keyword spamming practices over a year ago, yet the problematic extensions remain active. Either Google isn't looking, or they don't care at all, Palant said.\n[Chrome extensions are abusing Google's lousy security policies to come first in search results](https://www.techspot.com/news/106274-chrome-extensions-abusing-google-lousy-security-policies-come.html)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://developer.chrome.com/docs/webstore/program-policies/spam-and-abuse",
+    "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/JMtfgiagcgY/m/TNMERoXWAwAJ?pli=1",
+    "https://palant.info/2025/01/08/how-extensions-trick-cws-search/",
+    "https://www.palant.info/2025/01/08/how-extensions-trick-cws-search/",
+    "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/JMtfgiagcgY/m/TNMERoXWAwAJ",
+    "https://palant.info/2025/01/08/how-extensions-trick-cws-search",
+    "https://www.developer.chrome.com/docs/webstore/program-policies/spam-and-abuse",
+    "https://www.groups.google.com/a/chromium.org/g/chromium-extensions/c/JMtfgiagcgY/m/TNMERoXWAwAJ?pli=1"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Wladimir Palant",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:07:49.866+02:00",
+  "updated": "2025-01-10T01:07:49.866+02:00"
+}

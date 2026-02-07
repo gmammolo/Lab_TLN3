@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "a549e2b6fba5b2744a19bb3c3a935dc72f00db4d",
+    "url": "https://ics.uci.edu/2024/12/05/code-for-care-medtech-innovation-hackathon",
+    "site_full": "ics.uci.edu",
+    "site": "uci.edu",
+    "site_section": "http://www.ics.uci.edu",
+    "site_categories": [],
+    "section_title": "Home - UC Irvine Donald Bren School of Information &amp; Computer Sciences",
+    "title": "Code for Care: MedTech Innovation Hackathon - UC Irvine Donald Bren School of Information & Computer Sciences",
+    "title_full": "Code for Care: MedTech Innovation Hackathon - UC Irvine Donald Bren School of Information & Computer Sciences",
+    "published": "2024-12-05T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ics.uci.edu/wp-content/uploads/2024/12/MedTech_Trio-1200x630.jpg",
+    "performance_score": 0,
+    "domain_rank": 384,
+    "domain_rank_updated": "2024-12-02T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a549e2b6fba5b2744a19bb3c3a935dc72f00db4d",
+  "url": "https://ics.uci.edu/2024/12/05/code-for-care-medtech-innovation-hackathon",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "UC Irvine Donald Bren School of Information & Computer Sciences",
+  "published": "2024-12-05T07:00:00.000+02:00",
+  "title": "Code for Care: MedTech Innovation Hackathon - UC Irvine Donald Bren School of Information & Computer Sciences",
+  "text": "Code for Care: MedTech Innovation Hackathon\nWhat happens when you bring together physicians, researchers and software engineering students to tackle real-world medical challenges? UC Irvine’s Department of Informatics and Department of Anesthesiology & Perioperative Care decided to find out with the [MedTech Innovation Hackathon](https://sites.uci.edu/medtechinnovate).\n“The keyword here is multidisciplinary,” says Professor [Mohammad Moshirpour](https://ics.uci.edu/people/mohammad-moshirpour/) of the Donald Bren School of Information and Computer Sciences ([ICS](http://www.ics.uci.edu)), who collaborated with [Dr. Cameron Ricks](https://medschool.uci.edu/about/faculty/cricks) of the School of Medicine to plan the joint hackathon. The event, which took place October 25 and 26, 2024, challenged UCI students — in particular, those in the Master of Software Engineering ([MSWE](https://mswe.ics.uci.edu/)) program — to develop innovative applications to enhance doctors’ efficiency and improve the overall patient healthcare experience.\n“The doctors and medical staff have so many great ideas but often don’t know how to make them a reality,” says Ricks. The MedTech Innovation Hackathon aimed to bridge that gap.\n“We have at least a hundred capable software engineers at any given time who are ready to create value,” says Moshirpour, who serves as director of the professional MSWE program. The hackathon presented an opportunity for these students to create prototypes that help bring the doctors’ ideas to life.\nA Hackathon for Healthcare Innovation\nThe hackathon was centered around six different “potential product” statements, crafted by physicians and researchers in the field of anesthesiology and perioperative care:\n- Pre-op education app that answers common patient questions before surgery.\n- Pacemaker translator that simplifies pacemaker/AICD printouts for anesthesiologists by developing software that translates complex data into easily understandable language.\n- MedLedger system for tracking medical competencies, potentially using blockchain technology.\n- Trackstar system for gait analysis and treatment that offers an accessible, real-time solution for diagnosing and addressing foot-related abnormalities.\n- ECHO (Efficient Capture and Helpful Output) platform that leverages AI to transform audio and video recordings into useful resources for students, faculty, and team leaders.\n- AI-generated Queries from Patients’ EMR software that streamlines the preoperative evaluation process by efficiently extracting relevant patient information from extensive electronic medical records (EMRs).\nAround 40 students participated in the event and, unlike a typical hackathon, they had more than two days to think about their solutions.\n“A lot of times in hackathons, it takes people a while to wrap their brains around the challenge, but this wasn’t a blind event where you just show up and start working,” says Moshirpour.\n“We started to advertise these projects mid-September, so students could select which problem they wanted to tackle.”\nTeams were then assigned on October 14, and participants spent the following week meeting with physicians and coming up with a preliminary design. “Because we had given them context a couple of weeks prior, they came in focused,” explains Moshirpour. Teams could immediately get to work on October 25, and by 1 p.m. the following day, they each presented their solutions. Two expert judges, Google software engineer [Pierce Taylor](https://www.linkedin.com/in/piercetaylor/), an ICS alum, and [Dr. John Hsu](https://www.linkedin.com/in/john-hsu-md-300a8b2a/), cofounder of [iPill Dispenser](https://www.ipilldispenser.com/), deliberated after the presentations and announced the winners.\n“The hackathon was a great opportunity to think about real-world healthcare needs and how technology could make a meaningful difference,” says [Adithya Mohan Vardhan](https://www.linkedin.com/in/amvardha/), who served as project manager for the first-place team. Vardhan worked with fellow MSWE students Shlok Jain, Daniel Rivas, Sylvia Chao and Han Wang to develop software for EMR queries (project #6). “We built a generative AI tool designed to process and summarize vast electronic medical records with high precision. Our emphasis was on ensuring both accuracy and relevance, understanding that reliable information is crucial in medical decision-making. This meant implementing extensive testing and fine-tuning to handle a diverse array of medical queries.”\nThe Scribe.ai team, which also worked on project #6, tied for second place with a team working on the pacemaker translator (project #2).\nThird place went to the team developing a learning management system to streamline preoperative care provided to patients (project #1). “Participating in this hackathon was an exciting opportunity to tackle real-world healthcare challenges,” says project manager [Sanmith Kurian](https://www.linkedin.com/in/sanmith/). “Working on this solution allowed us to explore innovative approaches and leverage emerging technologies. I truly appreciated the chance to work on a meaningful project that has the potential to make a difference in healthcare.”\nThe students were able to build their portfolio, while the physicians walked away with a functioning prototype. Overall, the unique hackathon was a win-win event that Moshirpour hopes to duplicate.\nThe MSWE Dev Shop\n“We’ve started this initiative called the MSWE Dev Shop, which is open to the entire campus as well as other companies,” says Moshirpour. “The Dev Shop presents a systematic way of connecting our great pool of talent to local needs. Essentially, we’ll be offering constant prototyping hackathons throughout the year.”\nRicks plans to continue working with Moshirpour to build on the MedTech Hackathon’s success. “This was the first hackathon with MSWE and the Medical Center, and it has been a great success!” he says. “We look forward to collaborating in the future with physicians and staff from more varied medical departments.”\nMoshirpour also plans to collaborate with UCI’s [Beall Applied Innovation Center](https://innovation.uci.edu/) as well as the [Paul Merage School of Business](https://merage.uci.edu/), ensuring additional opportunities for entrepreneurship based on the hackathon prototypes. “We want this Dev Shop initiative to lead to options for finding potential investors and development teams. This will be very exciting for researchers and students alike.”\nFor information on how to get involved, email Mohammad Moshirpour at [mmoshirp@uci.edu](mailto:mmoshirp@uci.edu).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Education"
+  ],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/in/sanmith/",
+    "https://www.ipilldispenser.com/",
+    "https://www.linkedin.com/in/john-hsu-md-300a8b2a/",
+    "https://www.linkedin.com/in/amvardha/",
+    "https://www.linkedin.com/in/piercetaylor/",
+    "https://www.linkedin.com/in/john-hsu-md-300a8b2a",
+    "https://linkedin.com/in/piercetaylor/",
+    "https://linkedin.com/in/amvardha/",
+    "https://www.linkedin.com/in/amvardha",
+    "https://www.ipilldispenser.com",
+    "https://linkedin.com/in/sanmith/",
+    "https://linkedin.com/in/john-hsu-md-300a8b2a/",
+    "https://www.linkedin.com/in/piercetaylor",
+    "https://www.linkedin.com/in/sanmith",
+    "https://ipilldispenser.com/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mohammad Moshirpour",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cameron Ricks",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "UC Irvine’s Department of Informatics and Department of Anesthesiology & Perioperative Care",
+        "sentiment": "none"
+      },
+      {
+        "name": "School of Medicine",
+        "sentiment": "none"
+      },
+      {
+        "name": "UCI",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-12-06T04:10:37.101+02:00",
+  "updated": "2024-12-06T04:10:37.101+02:00"
+}

@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "bd241e6964a00549592330edca8183ba78a4b416",
+    "url": "https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+    "site_full": "www.theverge.com",
+    "site": "theverge.com",
+    "site_section": "http://www.theverge.com/rss/full.xml",
+    "site_categories": [
+      "tech",
+      "top_news_pk",
+      "top_news_gb",
+      "top_news_dk",
+      "top_news_sg",
+      "top_news_au",
+      "top_news_nz",
+      "top_news_za",
+      "top_news_ph",
+      "top_news_ca",
+      "top_news_us",
+      "top_news"
+    ],
+    "section_title": "The Verge -  All Posts",
+    "title": "OpenAI accidentally erases potential evidence in training data lawsuit - The Verge",
+    "title_full": "OpenAI accidentally erases potential evidence in training data lawsuit - The Verge",
+    "published": "2024-11-21T23:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.vox-cdn.com/thumbor/2e0-IzeyJ7KzcdVPwSc9wHJt9zc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg",
+    "performance_score": 0,
+    "domain_rank": 206,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bd241e6964a00549592330edca8183ba78a4b416",
+  "url": "https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "theverge.com",
+  "published": "2024-11-21T23:46:00.000+02:00",
+  "title": "OpenAI accidentally erases potential evidence in training data lawsuit - The Verge",
+  "text": "In a stunning misstep, OpenAI engineers accidentally erased critical evidence gathered by The New York Times and other major newspapers in their lawsuit over AI training data, according to a court filing Wednesday.\nThe newspapers’ legal teams had spent over 150 hours searching through OpenAI’s AI training data to find instances where their news articles were included, the filing claims. But it doesn’t explain how this mistake occurred or what precisely the data included. While the filing says OpenAI admitted to the error and tried to recover the data, what it managed to salvage was incomplete and unreliable — so what was recovered cannot help properly trace how the news organizations’ articles were used in building OpenAI’s AI models. While OpenAI’s lawyers characterized the data erasure as a “glitch,” The New York Times’ attorneys noted they had “no reason to believe” it was intentional.\nThe New York Times Company launched this landmark battle last December, claiming OpenAI and its partner Microsoft had built their AI tools by “copying and using millions” of the publication’s articles and now “directly compete” with its content as a result. The publication is asking for OpenAI to be held liable for “billions of dollars in statutory and actual damages” for allegedly copying its works.\nThe Times has already spent more than $1 million battling OpenAI in court — a significant fee few publishers can match. Meanwhile, OpenAI has struck deals with major outlets like Axel Springer, Conde Nast, and The Verge’s parent company Vox Media, suggesting many publishers would rather partner than fight.\nOpenAI declined to join The New York Times in filing the update to the court. This declaration was filed by Jennifer Maisel, an attorney representing the news organizations, to formally notify the court about what happened.\nIn an email to The Verge , OpenAI spokesperson Jason Deutrom said that the company disagrees with the characterizations made, and will file its own response soon. The New York Times declined The Verge ’s request for comment.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf",
+    "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "bd241e6964a00549592330edca8183ba78a4b416",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T00:01:41.119+02:00",
+  "updated": "2024-12-04T11:39:57.890+02:00"
+}

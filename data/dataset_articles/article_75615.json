@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "8dfa68f754ed4f2ab7bff6c06050958eb9d66604",
+    "url": "https://www.zdnet.com/article/windows-11-24h2-hit-by-a-brand-new-bug-but-theres-a-workaround",
+    "site_full": "www.zdnet.com",
+    "site": "zdnet.com",
+    "site_section": "https://www.zdnet.com/blog/collaboration/rss.xml",
+    "site_categories": [
+      "tech",
+      "palmtops_pdas"
+    ],
+    "section_title": "",
+    "title": "Windows 11 24H2 hit by a brand new bug, but there's a workaround",
+    "title_full": "Windows 11 24H2 hit by a brand new bug, but there's a workaround",
+    "published": "2024-11-22T16:43:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.zdnet.com/a/img/resize/89327ab3b909c070b38f1136771ab0f3453def04/2024/11/22/e2245882-e9ac-4aac-bb5a-f6262f586367/gettyimages-1351537194.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "performance_score": 0,
+    "domain_rank": 351,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8dfa68f754ed4f2ab7bff6c06050958eb9d66604",
+  "url": "https://www.zdnet.com/article/windows-11-24h2-hit-by-a-brand-new-bug-but-theres-a-workaround",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@ZDNET",
+  "published": "2024-11-22T16:43:00.000+02:00",
+  "title": "Windows 11 24H2 hit by a brand new bug, but there's a workaround",
+  "text": "Just when you thought it was safe to run Windows 11 24H2, along comes another glitch. Thankfully, this one is far from a showstopper. And you can easily get past it until Microsoft cooks up a fix.As described on Microsoft's webpage for Windows 11, version 24H2 known issues and notifications, users without administrative privileges may be unable to change the time zone at the Date & Time screen in Windows Settings. Without admin rights, the time zone option fails to even appear.Also: Can your old PC even handle the Windows 11 upgrade? Here's how to tellThough this sounds like a minor issue, the ability to change the time zone does come in handy. New PCs typically come with the time zone set to Pacific time, requiring people outside the West Coast to change it. And if you're traveling with a laptop, you need to be able to switch the time zone to your ultimate destination.Assuming your account is not set up as an administrator, how do you handle this glitch until it's resolved?On the webpage, Microsoft explained that the bug is limited to the Date & Time screen in Windows Settings and isn't caused by changes to permissions, user policies, or Windows settings. That means you're still able to modify the time zone using an older but still reliable method.Also: How to upgrade an 'incompatible' Windows 10 PC to Windows 11: Two waysOpen Control Panel. In the search field at the top, type the phrase \"time zone.\" Among the search results, click the link for \"Change the time zone.\" That opens the older Date and Time window. From there, click the button for \"Change time zone\" and you can then switch it to the current zone. Alternatively, press Win key+R to open the Run dialog box. In the Open field, type timedate.cpl and click OK. The same older Date and Time window pops up allowing you to switch to a different time zone.Microsoft said it's investigating the issue and will resolve it in an upcoming Windows update. For now, at least there's a simple enough workaround.Also: The 50+ best Black Friday deals 2024: Early sales live nowIn the overall scheme of Windows 11 24H2 bugs, this is a small one. However, other bugs affecting this new version have been more serious and frustrating, causing Microsoft to pause the update for certain PCs.The company did roll out a series of fixes on this month's Patch Tuesday, which resolved most (but not all) of the outstanding issues. The Windows 11 2024 update seems safe enough to install now. Just be aware that the bug brigade for this version may not quite be done.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": false,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T16:54:16.013+02:00",
+  "updated": "2024-11-27T22:51:28.810+02:00"
+}

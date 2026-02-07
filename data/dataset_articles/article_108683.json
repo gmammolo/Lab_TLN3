@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "a8ed5314f56333b4c4b578a9b0d98fdda4da7af1",
+    "url": "https://venturebeat.com/security/why-attackers-love-to-target-misconfigured-clouds-and-phones/",
+    "site_full": "venturebeat.com",
+    "site": "venturebeat.com",
+    "site_section": "https://venturebeat.com",
+    "site_categories": [
+      "non_standard_content"
+    ],
+    "section_title": "VentureBeat | Transformative tech coverage that matters",
+    "title": "Why attackers love to target misconfigured clouds and phones | VentureBeat",
+    "title_full": "Why attackers love to target misconfigured clouds and phones | VentureBeat",
+    "published": "2023-12-28T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-hero-image-image-Why-attackers-love-to-target-misconfigured-clouds-and-phones-.png?w=1200&strip=all",
+    "performance_score": 0,
+    "domain_rank": 553,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a8ed5314f56333b4c4b578a9b0d98fdda4da7af1",
+  "url": "https://venturebeat.com/security/why-attackers-love-to-target-misconfigured-clouds-and-phones/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Louis Columbus",
+  "published": "2023-12-28T02:00:00.000+02:00",
+  "title": "Why attackers love to target misconfigured clouds and phones | VentureBeat",
+  "text": "Data breaches tripled between 2013 and 2022, exposing 2.6 billion personal records in the past two years, with 2023 on its way to being a record year. These findings are from a recent report written by Professor Stuart E. Madnick of MIT , and underwritten by Apple .\nThe report highlights a troubling trend of attackers becoming more proficient at finding and compromising misconfigured clouds and capitalizing on unsecured end-to-end phone encryption. Ransomware continues to grow as the attack strategy of choice.\nDespite Apple being incentivized to promote in-store purchases, transactions and Apple-specific end-to-end encryption through the research, the findings speak to broader threats to enterprises.\nMadnick found a nearly 50% increase in organizations suffering a ransomware attack in the first half of 2023 compared to the first half of 2022. Attackers also go after fleets of mobile devices during attacks to freeze all communications until victims pay up.\nVB Event The AI Impact Tour\nGetting to an AI Governance Blueprint – Request an invite for the Jan 10 event.\nLearn More Misconfigured clouds are the open-door attackers hope for Unencrypted identity data stored in unsecured or misconfigured clouds is an attackers’ goldmine. Misconfigured clouds are also proving to be an easy onramp to steal identity data that can be resold or spun into new synthetic identities used for fraud.\n“Microsoft AI’s research division exposed over 38 terabytes of sensitive information due to a cloud misconfiguration, including passwords to Microsoft services, secret keys, and more than 30,000 internal Microsoft Teams messages from hundreds of Microsoft employees,” writes Madnick, citing TechCrunch’s story from earlier this year. Attackers know that the quicker they can take control of identities, starting with Microsoft Active Directory (AD), the more successful a ransomware attack will be.\nIn a recent interview with VentureBeat, Merritt Baer, Field CISO at Lacework , says that bad actors look first for an easy front door to access misconfigured clouds, the identities and access to entire fleets of mobile devices. “Novel exploits (zero-days) or even new uses of existing exploits are expensive to research and discover. Why burn an expensive zero-day when you don’t need to? Most bad actors can find a way in through the “front door”– that is, using legitimate credentials (in unauthorized ways).”\nBaer added, “This avenue works because most permissions are overprovisioned (they aren’t pruned down/least privileged as much as they could be), and because with legitimate credentials, it’s hard to tell which calls are authorized/ done by a real user versus malicious/ done by a bad actor.”\nNearly 99% of cloud security failures are tracked back to manual controls not being set correctly, and up to 50% of organizations have mistakenly exposed applications, network segments, storage and APIs directly to the public. Data breaches that start because cloud infrastructure is misconfigured cost an average of $4 million to resolve, according to IBM’s Cost of a Data Breach Report 2023 .\nEnd-to-end encryption needs to be part of a broader security strategy Organizations need to think beyond end-to-end encryption if they’re going to harden their infrastructure and keep fleets of phones, endpoints and tablets secure. Identifying intrusion attempts that use legitimate access credentials to access resources or accounts they don’t have privileges for is often how a breach starts. That’s an order of magnitude higher than any encryption technology can provide – and why enterprises need to rethink reliance on encryption alone.\nLacework’s Baer says that “detecting an anomalous call to a metadata service, for example, is something that you would only be able to identify based on triangulating what is ‘known/expected’ and unexpected behavior.” She advises that security programs must include the ability to triangulate data to alert on insecure use of legitimate credentials, which you will only be able to do effectively if they can do heuristics at a granular level.\nBaer added, “Lacework does this– for example, rather than looking at a Kubernetes host behavior, we look at the pod (more granular) level and alarm on unexpected calls based on context. Without granularity, you’ll have too many alerts and won’t be able to distinguish between acceptable and anomalous behavior.”\nThink like a CISO when it comes to unifying endpoints CISOs tell VentureBeat that 2023 will be remembered as the year of consolidation, with endpoints being part of the effort to reduce overlapping agents, analytics and alerts aimed at streamlining analysts’ workloads. Unified endpoint management (UEM) has long proven effective in securing company- and employee-owned devices and endpoints across networks. Leading vendors include IBM, Ivanti, ManageEngine, Matrix42, Microsoft and VMWare.\nVentureBeat recently interviewed Srinivas Mukkamala, Chief Product Officer at Ivanti , to get his perspective on trends driving 2024. “In 2024, the continued convergence of 5G and IoT will redefine our digital experiences. Likewise, there will be heightened demand for more rigorous standards focused on security, privacy, device interaction, and making our society more interconnected. The expectation to connect everywhere, on any device, will only increase. Organizations need to make sure they have the right infrastructure in place to enable this everywhere connectedness that employees expect,” Mukkamala says.\nUEM has also become table stakes for pursuing passwordless authentication and mobile threat defense (MTD). Leading providers of passwordless authentication solutions include Microsoft Authenticator, Okta, Duo Security, Auth0, Yubico and Ivanti. Of these, Ivanti is noteworthy in how their solution combines UEM, passwordless multi-factor authentication (Zero Sign-On), mobile threat defense (MTD), and mobile device management (MDM) on a single platform. The National Institutes of Health (NIH) relies on Ivanti to identify and remediate mobile threats across their networks. They’re using Ivanti Zero Sign-On (ZSO) , Ivanti Neurons for Mobile Threat Defense and several other modules to secure their on-premise and remote workers’ devices.\nGartner predicts that by 2025, more than 50% of the workforce and more than 20% of customer authentication transactions will be passwordless, up from less than 10% today.\nAttackers turning breaches into business opportunities Attackers continually reinvent themselves to capitalize on new technologies while finding new ways to pressure victims to pay ransom fast. Gen AI is helping to upskill cybersecurity professionals with better insights; the same applies to attackers. Earlier this year FraudGPT , a starter kit for attackers, offered subscriptions over the dark web and on telegram. FraudGPT’s subscriber base jumped to 3,000 in weeks following its first announcement last July.\nCrowdStrike’s 2023 Global Threat Report discovered that the number of breaches involving “cloud-conscious” threat actors tripled year-over-year. Their research also found that more attackers aspire to become access brokers . There’s been a 20% increase in the number of adversaries pursuing cloud data theft and extortion campaigns and the largest-ever increase in the number of adversaries.\nAccess brokerages are one of the fastest-growing illegal businesses on the dark web. Access brokers rely on the “one-access one-auction” technique of offering bulk deals on hundreds to thousands of stolen identities and privileged-access credentials.\nBy attacking industries whose businesses are time-sensitive, attackers hope to extract larger ransoms faster. Madnick’s analysis found that healthcare is a prime target. Manufacturing is another. Attackers are quick to put the new Securities and Exchange Commission ruling announced on July 26 that went into effect on December 18 to their advantage.\nCrowdStrike’s president, CEO, and co-founder, George Kurtz, was interviewed on CNBC this week and observed that “now with the SEC disclosure laws, we’re actually seeing the ransomware gangs, if they’re not getting paid, they’re now reporting that to the SEC. And it used to be something we call double extortion, which was they would either encrypt the data, or they would leak the data. Now, we’re looking at triple extortion because they can encrypt it, they can leak it or they can go right to the SEC. And that is the choice that they’re giving to the victims,” Kurtz said.\nBuckle up for 2024 CISOs, CIOs and their teams are challenged with protecting the revenue-generating operations of their businesses and hardening security around new business initiatives – without becoming a roadblock to revenue growth. To excel in the role, VentureBeat believes more CISOs need to be active members of boards.\n“I’m seeing more and more CISOs joining boards. I think this is a great opportunity for everyone here [at Fal.Con] to understand what impact they can have on a company. From a career perspective, it’s great to be part of that boardroom and help them on the journey. To keep business resilient and secure,” Kurtz said during his keynote at his company’s annual event, Fal.Con. He continued, “Adding security should be a business enabler. It should be something that adds to your business resiliency, and it should be something that helps protect the productivity gains of digital transformation.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Weather",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://www.apple.com/newsroom/2023/12/report-2-point-6-billion-records-compromised-by-data-breaches-in-past-two-years/",
+    "https://www.lacework.com/",
+    "https://www.ivanti.com/products/mobile-threat-defense",
+    "https://www.crowdstrike.com/global-threat-report/",
+    "https://www.mit.edu/",
+    "https://www.crowdstrike.com/en-us/",
+    "https://www.ivanti.com/unified-endpoint-management",
+    "https://www.ivanti.com/",
+    "https://www.cnbc.com/video/2023/12/21/ransomware-gangs-are-now-reporting-to-the-sec-says-crowdstrike-ceo.html",
+    "https://www.gartner.com/smarterwithgartner/is-the-cloud-secure/",
+    "https://techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMuEMCO7eENCirU8KlHDWJnQU_Dbfj3QMskjPuXdcUuDmx2-bvjs1OyA9hOwB3rm2OU1GimUVrjf13kPIRxCMHC_Oq9UjfDYqgUZ8YE5EuLcCBuo1Fp9ujJFERrYsGhAtrtNt7Y6D2aje_BRsnkb_NGHjUj6UwmKbLuiOGeOLMHH",
+    "https://www.ibm.com/reports/data-breach",
+    "https://www.ivanti.com/products/zero-sign-on",
+    "https://www.apple.com/",
+    "https://www.ibm.com/security/data-breach/threat-intelligence",
+    "https://www.gartner.com/document/code/745034?ref=authbody&refval=4021016",
+    "https://www.crowdstrike.com/blog/access-brokers-targets-and-worth/",
+    "https://www.gartner.com/document/3899373",
+    "https://www.ivanti.com/customers/national-institutes-of-health",
+    "https://www.sec.gov/news/press-release/2023-139",
+    "https://crowdstrike.com/blog/access-brokers-targets-and-worth/",
+    "https://cnbc.com/video/2023/12/21/ransomware-gangs-are-now-reporting-to-the-sec-says-crowdstrike-ceo.html",
+    "https://sec.gov/news/press-release/2023-139",
+    "https://www.apple.com",
+    "https://ivanti.com/",
+    "https://apple.com/",
+    "https://gartner.com/document/3899373",
+    "https://www.gartner.com/document/code/745034",
+    "https://gartner.com/smarterwithgartner/is-the-cloud-secure/",
+    "https://ivanti.com/products/zero-sign-on",
+    "https://www.gartner.com/smarterwithgartner/is-the-cloud-secure",
+    "https://lacework.com/",
+    "https://www.lacework.com",
+    "https://www.crowdstrike.com/global-threat-report",
+    "https://www.mit.edu",
+    "https://ivanti.com/customers/national-institutes-of-health",
+    "https://gartner.com/document/code/745034?ref=authbody&refval=4021016",
+    "https://crowdstrike.com/en-us/",
+    "https://ivanti.com/products/mobile-threat-defense",
+    "https://ibm.com/security/data-breach/threat-intelligence",
+    "https://techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/",
+    "https://www.ivanti.com",
+    "https://www.techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMuEMCO7eENCirU8KlHDWJnQU_Dbfj3QMskjPuXdcUuDmx2-bvjs1OyA9hOwB3rm2OU1GimUVrjf13kPIRxCMHC_Oq9UjfDYqgUZ8YE5EuLcCBuo1Fp9ujJFERrYsGhAtrtNt7Y6D2aje_BRsnkb_NGHjUj6UwmKbLuiOGeOLMHH",
+    "https://mit.edu/",
+    "https://www.apple.com/newsroom/2023/12/report-2-point-6-billion-records-compromised-by-data-breaches-in-past-two-years",
+    "https://ibm.com/reports/data-breach",
+    "https://apple.com/newsroom/2023/12/report-2-point-6-billion-records-compromised-by-data-breaches-in-past-two-years/",
+    "https://www.crowdstrike.com/blog/access-brokers-targets-and-worth",
+    "https://www.crowdstrike.com/en-us",
+    "https://crowdstrike.com/global-threat-report/",
+    "https://ivanti.com/unified-endpoint-management"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "madnick",
+        "sentiment": "none"
+      },
+      {
+        "name": "stuart e. madnick",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "apple",
+        "sentiment": "none"
+      },
+      {
+        "name": "mit",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T03:53:15.994+02:00",
+  "updated": "2023-12-29T03:53:15.994+02:00"
+}

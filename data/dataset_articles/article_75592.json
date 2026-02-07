@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "c314c8f0915b686a0f639947eedbd61d7ba1e09a",
+    "url": "https://windowsreport.com/microsoft-edge-is-plagued-by-a-new-error-that-blocks-all-traffic-on-servers",
+    "site_full": "windowsreport.com",
+    "site": "windowsreport.com",
+    "site_section": "https://www.windowsreport.com",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "Windows Report - Your go-to source for PC tutorials",
+    "title": "Microsoft Edge is plagued by a new error that blocks all traffic on servers",
+    "title_full": "Microsoft Edge is plagued by a new error that blocks all traffic on servers",
+    "published": "2024-11-22T14:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 8596,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c314c8f0915b686a0f639947eedbd61d7ba1e09a",
+  "url": "https://windowsreport.com/microsoft-edge-is-plagued-by-a-new-error-that-blocks-all-traffic-on-servers",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Flavius Floare",
+  "published": "2024-11-22T14:03:00.000+02:00",
+  "title": "Microsoft Edge is plagued by a new error that blocks all traffic on servers",
+  "text": "\\nIt seems that Microsoft Edge is starting to plague servers with an error that blocks all traffic and renders the browser useless. An admin for a system and network organization on Reddit reported the issue: it initially happened on a single device, then spread to other devices from the organization, regardless of their Windows version (it happens on Windows 11 and Windows 10, as well).\n\\n\\nThe issue, labeled as Error code RESULT_CODE_KILLED_BAD_MESSAGE, happens on Microsoft Edge quite often, and there are solutions for it , but in this case, it seems those solutions are not working.\n\\nThe admin reported that clearing the cache, resetting the Edge settings, repairing the browser, or running it as another user doesn\\u2019t fix the issue. For now, the only solution is to open Edge in a sandbox, but seeing as it\\u2019s not a viable solution, migrating to Chrome for the time being seems reasonable.\n\\nThe issue doesn\\u2019t consider the version of Windows, as it can be any version of the latest Windows 11 or Windows 10. It also affects the private sessions of Microsoft Edge. The admin started noticing the issue on the most recent version of Microsoft Edge , released a few days ago.\n\\nSo what can those affected by this issue do?\n\\nFirst, you can try to enable/disable the compatibility mode in Microsoft Edge, as it can conflict with the current version. Follow our guide , restart Edge, and see if it works.\n\\nIt might also involve an external firewall, such as Fortigate. In that case, you\\u2019ll need to disable the flag called \\u2018TLS 1.3 post-quantum key agreement\\u2019 in edge://flags.\n\\nTo do that, access edge://flags , type the flag\\u2019s name above, and disable it .\n\\nDisabling the policy will no longer cause Microsoft Edge to block incoming traffic, allowing your devices to access the Internet safely and properly.\n\\nLet us know if these solutions worked for you.\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.reddit.com/r/sysadmin/comments/1gwtslp/new_microsoft_edge_error_is_spreading_throughout/",
+    "https://reddit.com/r/sysadmin/comments/1gwtslp/new_microsoft_edge_error_is_spreading_throughout/",
+    "https://www.reddit.com/r/sysadmin/comments/1gwtslp/new_microsoft_edge_error_is_spreading_throughout"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T16:43:37.816+02:00",
+  "updated": "2024-11-22T16:43:37.816+02:00"
+}

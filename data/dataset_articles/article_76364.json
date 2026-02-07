@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "9fbd1a08cb3345393cd295a9edf79f5fde42acc3",
+    "url": "https://www.mql5.com/en/forum/479343",
+    "site_full": "www.mql5.com",
+    "site": "mql5.com",
+    "site_section": "https://mql5.com/en/rss",
+    "site_categories": [
+      "stocks",
+      "finance"
+    ],
+    "section_title": "MQL5: MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader",
+    "title": "MT4 TERMINAL FROZEN",
+    "title_full": "MT4 TERMINAL FROZEN",
+    "published": "2025-01-09T17:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://www.mql5.com/en/forum/images/og/fb/479343",
+    "performance_score": 0,
+    "domain_rank": 11098,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9fbd1a08cb3345393cd295a9edf79f5fde42acc3",
+  "url": "https://www.mql5.com/en/forum/479343",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tman Bab",
+  "published": "2025-01-09T17:13:00.000+02:00",
+  "title": "MT4 TERMINAL FROZEN",
+  "text": "MT4 TERMINAL FROZEN\nHello, please assist. my mt4 terminal does not respond, it does not show charts but only displays\" WAITING FOR UPDATES\". IT does not respond to commands. it is frozen. When the network is off the terminal knobs respond but with no chart display and no symbol data.\n2025.01.09 00:18:26.218 Data Folder: C:\\Users\\TLAMELO\\AppData\\Roaming\\MetaQuotes\\Terminal\\2191F4A3D14D7B4B1EBB84F924777883 2025.01.09 00:18:26.218 Windows 10 Home Single Language x64, UAC, 2 x Intel Celeron N3060 @ 1.60GHz, Memory: 927 / 4001 Mb, Disk: 97 / 450 Gb, GMT+2 2025.01.09 00:18:26.218 Exness Technologies MT4 build 1431 started (Exness Technologies Ltd)\n#1\nYour topic has been moved to the section:\nPlease consider which section is most appropriate —\nMQL4 and MetaTrader 4Please consider which section is most appropriate —\nhttps://www.mql5.com/en/forum/172166/page6#comment_49114893#2\nTman Bab: Hello, please assist. my mt4 terminal does not respond, it does not show charts but only displays\" WAITING FOR UPDATES\". IT does not respond to commands. it is frozen. When the network is off the terminal knobs respond but with no chart display and no symbol data.\n- First make sure that the network connection is working correctly, by checking the icon in the bottom-right, to make sure the trade server is properly connected and that the data is flowing.\n- Also check the Journal log to make sure there are no connection problems or other error messages.\n- If all the above is working, then close all your charts, and then open them again by right-clicking the respective symbols in the Market Watch window and choosing the \"Chart Window\" option.\nIf this does not resolve the issue, show us the complete Journal log entries.\n#3\nFernando Carreiro\nYour topic has been moved to the section:\nPlease consider which section is most appropriate —\nMy apologies .Thank You .\n#:Your topic has been moved to the section:\nMQL4 and MetaTrader 4Please consider which section is most appropriate —\nhttps://www.mql5.com/en/forum/172166/page6#comment_49114893#4\nFernando Carreiro\nhttps://www.mql5.com/en/forum/479343#comment_55581718:- First make sure that the network connection is working correctly, by checking the icon in the bottom-right, to make sure the trade server is properly connected and that the data is flowing.\n- Also check the Journal log to make sure there are no connection problems or other error messages.\n- If all the above is working, then close all your charts, and then open them again by right-clicking the respective symbols in the Market Watch window and choosing the \"Chart Window\" option.\nIf this does not resolve the issue, show us the complete Journal log entries.\nThank you for the reply .\nall the above mentioned is checked.\nplease note however that all other terminals from other brokers work perfectly.\n- When wifi is on the terminal just remain frozen you can't click anything on it.\n- when wifi is off that's when i can interact with it.\n- All these is with no charts displayed and no data on market watch.\nYou are missing trading opportunities:\n- Free trading apps\n- Over 8,000 signals for copying\n- Economic news for exploring financial markets\nRegistration\nLog in\nYou agree to website policy and terms of use\nIf you do not have an account, please",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:25:44.976+02:00",
+  "updated": "2025-01-10T10:25:44.976+02:00"
+}

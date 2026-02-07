@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "92f7a3996f299de7539c1e9f61dca19079c8088e",
+    "url": "https://finance.sina.cn/stock/jdts/2025-08-14/detail-infkxuaa2359516.d.html?vt=4&cid=76993&node_id=76993",
+    "site_full": "finance.sina.cn",
+    "site": "sina.cn",
+    "site_section": "https://finance.sina.cn/stock/jdts",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "焦点透视_手机新浪网",
+    "site_title": null,
+    "title": "苹果新款MacBook Pro延期至2026年：M5转向LMC封装，为采用CoWoS奠定基础_手机新浪网",
+    "title_full": "苹果新款MacBook Pro延期至2026年：M5转向LMC封装，为采用CoWoS奠定基础_手机新浪网",
+    "published": "2025-08-14T11:07:10.637+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3092,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "92f7a3996f299de7539c1e9f61dca19079c8088e",
+  "url": "https://finance.sina.cn/stock/jdts/2025-08-14/detail-infkxuaa2359516.d.html?vt=4&cid=76993&node_id=76993",
+  "ord_in_thread": 0,
+  "author": "sina_mobile",
+  "published": "2025-08-14T11:07:10.637+03:00",
+  "title": "苹果新款MacBook Pro延期至2026年：M5转向LMC封装，为采用CoWoS奠定基础_手机新浪网",
+  "text": "苹果新款MacBook Pro延期至2026年：M5转向LMC封装，为采用CoWoS奠定基础\n（来源：超能网）\n此前有报道称，苹果;)计划在今年下半年推出搭载M5芯片的MacBook Pro机型，设计上与现有机型基本一致，没有重大的改动，因此改用新款M5芯片成为了最大的亮点。传闻M5将带来显着的计算和图形性能提升，升级至台积电;)（TSMC）N3P工艺，能效会进一步提升。\n据TrendForce报道，苹果已经推迟了新款MacBook Pro的发布，延期到2026年，原因可能与M5芯片采用的封装技术有关。\nM5芯片将转向LMC封装，与高性能计算芯片和（AI）加速器的CoWoS封装技术有着相同的标准，可以提供更好的结构完整性、增强的热路径和更一致的制造结果，也为日后改用CoWoS封装奠定基础。CoWoS封装技术能够使多个小芯片在单个封装中堆叠或并排排列，从而提高带宽和计算密度。这也是苹果希望看到的结果，也是在封装选择上与台积电结盟的原因之一。\n此外，明年iPhone 18的A20芯片将采用WMCM（晶圆级多芯片模块）封装，减少了材料用量和生产步骤，以提升生产效率和良品率。\n传闻苹果也将升级去年已经过重新设计的Mac mini，改成搭载M5芯片，随着新款MacBook Pro机型的延后发布，应该会一起延期。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Politics"
+  ],
+  "topics": [
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->computing and information technology",
+    "Science and Technology->biotechnology",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Politics->government policy",
+    "Politics->regulation of industry",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:07:10.637+03:00",
+  "updated": "2025-08-15T12:08:17.000+03:00"
+}

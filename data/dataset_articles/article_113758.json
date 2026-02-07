@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "8682307bd5dbe2b86b87476ecff1ca9c6893d8b8",
+    "url": "https://news.tvbs.com.tw/english/2671535",
+    "site_full": "news.tvbs.com.tw",
+    "site": "tvbs.com.tw",
+    "site_section": "https://news.tvbs.com.tw/web_api/play_feed_realtime",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "TVBS 新聞網",
+    "title": "Typhoon Kong-rey weakens, but heavy rain persists│TVBS新聞網",
+    "title_full": "Typhoon Kong-rey weakens, but heavy rain persists│TVBS新聞網",
+    "published": "2024-11-01T08:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cc.tvbs.com.tw/img/upload/2024/10/26/20241026161021-0d571b36.jpg",
+    "performance_score": 0,
+    "domain_rank": 16029,
+    "domain_rank_updated": "2024-10-28T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8682307bd5dbe2b86b87476ecff1ca9c6893d8b8",
+  "url": "https://news.tvbs.com.tw/english/2671535",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "TVBS News Staff",
+  "published": "2024-11-01T08:38:00.000+02:00",
+  "title": "Typhoon Kong-rey weakens, but heavy rain persists│TVBS新聞網",
+  "text": "TAIPEI (TVBS News) — The Central Weather Administration (CWA, 氣象署) warned on Friday (Nov. 1) that Typhoon Kong-rey (康芮) continues to impact Taiwan with its peripheral circulation, raising the likelihood of localized heavy rain in mountainous areas of Miaoli County (苗栗縣), Taichung City (臺中市), and Nantou County (南投縣).\nAccording to the latest CWA data, Typhoon Kong-rey has weakened in the past three hours, with its storm radius shrinking. The administration urged residents to remain vigilant against potential landslides and debris flows.\nThe typhoon's center currently lies northeast of Matsu (馬祖) as it moves in a northeasterly direction. Although Matsu has exited the storm zone, northern Taiwan's coastal waters still face threats from the typhoon.\nThe bureau issued a heavy rain advisory at 2 p.m. for the mountainous regions of Miaoli County, Taichung City, and Nantou County. Due to the persistent rainfall, authorities advised caution when entering mountainous areas and rivers. The typhoon's intensity is expected to continue decreasing, along with a further reduction in its storm radius.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "CWA",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miaoli County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Matsu",
+        "sentiment": "none"
+      },
+      {
+        "name": "City",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-01T08:50:07.926+02:00",
+  "updated": "2024-11-01T08:50:07.926+02:00"
+}

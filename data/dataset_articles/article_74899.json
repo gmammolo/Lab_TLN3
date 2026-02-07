@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "0aaf543f98d7291a71339dcc470908b37ba6c7e4",
+    "url": "https://www.tudocelular.com/jogos/noticias/n228664/microsoft-flight-simulator-steam-metacritic.html",
+    "site_full": "www.tudocelular.com",
+    "site": "tudocelular.com",
+    "site_section": "http://tudocelular.com//feed/",
+    "site_categories": [
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": "Tudocelular.com",
+    "title": "Bugs no Microsoft Flight Simulator 2024 fazem notas na Steam e Metacritic despencarem",
+    "title_full": "Bugs no Microsoft Flight Simulator 2024 fazem notas na Steam e Metacritic despencarem",
+    "published": "2024-11-21T20:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://t2.tudocdn.net/735409?w=1920",
+    "performance_score": 0,
+    "domain_rank": 63983,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0aaf543f98d7291a71339dcc470908b37ba6c7e4",
+  "url": "https://www.tudocelular.com/jogos/noticias/n228664/microsoft-flight-simulator-steam-metacritic.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tudocelular.com",
+  "published": "2024-11-21T20:30:00.000+02:00",
+  "title": "Bugs no Microsoft Flight Simulator 2024 fazem notas na Steam e Metacritic despencarem",
+  "text": "13 Novembro 2024\n21 de novembro de 2024 [0](#comments)\nO Microsoft Flight Simulator 2024 foi lançado em 19 de novembro, mas infelizmente está sofrendo uma péssima recepção pelos jogadores. A causa são os vários problemas encontrados tanto por jogadores quanto pelos gamers que receberam o título antecipadamente para análise.\nDentre os problemas relatados estão travamentos constantes, bugs no streaming e acesso aos servidores. Além disso, vários jogadores criticam a decisão da Microsoft de manter o jogo online até no modo carreira, apontando este como um dos responsáveis pelos problemas que sobrecarregaram os servidores no lançamento.\nA quantidade de reclamações é tão grande que o Microsoft Flight Simulator 2024 está com nota 4,5 de 10 no Metacritic e 83% de avaliações negativas no Steam. Confira algumas das avaliações:\nLançamento péssimo e um fracasso total da Microsoft. Empresa de trilhões que não aprendeu absolutamente nada em 4 anos. Impressionante. Você paga R$ 500 pra ficar olhando para uma tela de carregamento por horas, se fosse classificado como um simulador de carregamento ou simulador de fila de espera seria fantástico.\n5h tentando entrar no jogo e não sai do trailer aguardando baixar os complementos.\nEsperava que depois de dois dias já tivesse resolvido isso.\nTenho um Intel i9 10900KF, SSD M2, 64 md de RAM e uma RTX 3070, máquina razoável.... Simplesmente não consegui rodar, frames abaixo de 20 fps!!!\nApós receber a enxurrada de críticas, o CEO do Asobo Studio e chefe de desenvolvimento do Microsoft Flight Simulator emitiu o seguinte pedidos de desculpas no vídeo acima:\nEstamos muito arrependidos, queremos pedir desculpas. Esse vídeo, nós fizemos pois estamos sempre aqui, queremos ser o mais transparente possível. Nós temos alguns problemas hoje, a equipe está trabalhando e vamos seguir em frente.\nO Asobo Studio afirma ter solucionado os problemas, detalhando suas causas:\nLogo no início, quando os jogadores começam a jogar, eles pedem a um servidor que lhes forneça dados e este servidor os salvará em um banco de dados. Este é um banco de dados muito grande, com cache, e esse cache está ficando cheio. Executamos testes de carga simulando 200.000 usuários e esta noite estamos completamente sobrecarregados.\nTentámos reiniciar os serviços, tomámos medidas para limitar o número de pessoas que podem entrar ao mesmo tempo. Funcionou muito bem, aumentamos o tamanho da fila em cinco vezes, a velocidade, e funcionou bem por meia hora e, de repente, o cache travou novamente.\nApesar disso, vários usuários da Microsoft Store ainda publicam avaliações dizendo que o jogo não está bem otimizado nos PCs, apresenta lentidão ao se conectar aos servidores e tem bugs ao iniciar o modo carreira.\nFalando no Flight Simulator, é provável que este seja o próximo jogo da Microsoft a chegar ao PlayStation junto do Forza Horizon 5.\nNada de Black Fraude! Ferramenta do TudoCelular desvenda ofertas falsas\nMicrosoft destaca novos recursos na build 26100.1876 do Windows 11 24H2\nPS5: Sony começará a vender consoles equipados com peças de reposição\nHuawei Kirin 9010L: chipset inédito é encontrado em smartphone intermediário da chinesa",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T00:35:16.128+02:00",
+  "updated": "2024-11-22T00:35:16.128+02:00"
+}

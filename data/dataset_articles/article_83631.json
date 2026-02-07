@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "a5d4872c01205e547a6cee82e3d89ef27e720706",
+    "url": "https://www.androidpolice.com/android-16-beta-21google-pixels",
+    "site_full": "www.androidpolice.com",
+    "site": "androidpolice.com",
+    "site_section": "http://androidpolice.com//feed",
+    "site_categories": [
+      "media",
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": " Android Police ",
+    "site_title": null,
+    "title": "Android 16 Beta 2.1 touches down with fixes for Doze mode and random reboots",
+    "title_full": "Android 16 Beta 2.1 touches down with fixes for Doze mode and random reboots",
+    "published": "2025-02-27T23:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/01/android-bugdroid-bush-16-9jpg.jpg",
+    "performance_score": 0,
+    "domain_rank": 2923,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a5d4872c01205e547a6cee82e3d89ef27e720706",
+  "url": "https://www.androidpolice.com/android-16-beta-21google-pixels",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dallas Thomas",
+  "published": "2025-02-27T23:30:00.000+02:00",
+  "title": "Android 16 Beta 2.1 touches down with fixes for Doze mode and random reboots",
+  "text": "Android 16 development is humming right along, which is doubly impressive when you consider that Google is well ahead of its normal release schedule this year. But with the beta program expected to hit its platform stability milestone next month ahead of a stable release in Q2 2025, things need to be moving at a brisk pace.\nRelated\nAndroid 16 timeline revealed: Platform Stability in Q1, rollout in Q2\nBeta releases begin in January\nGoogle announced Android 16 Beta 2.1 on Reddit today, calling attention to a few minor bugs that are being fixed, in addition to an issue with phones on Beta 2 randomly rebooting. The new version has a build number of BP22.250124.010 on supported devices, which include all of Google's phones, tablets, and foldables released since 2021's Pixel 6. Like Beta 2, this version includes the February security patches.\nThe release notes for this version are now available on Google's developer site, and we've pasted the full list below:\nAndroid 16 Beta 2.1 (February 2025)\nThis minor update to Android 16 Beta 2 includes the following fixes:\n-\nFixed an issue that sometimes prevented devices from entering Doze mode. (\nIssue #396603519) -\nFixed issues that caused some animations to appear choppy while configuring live wallpapers. (\nIssue #397659072) -\nFixed an issue that sometimes caused devices to reboot unexpectedly. (\nIssue #396541565) - Fixed various other issues that were impacting system stability, connectivity, and performance.\nAll eligible devices enrolled in the Android Beta for Pixel program will be offered an over-the-air (OTA) update to Beta 2.1.\nThe first bullet on that list mentions Doze Mode, a feature introduced with Android 6.0 Marshmallow that lets your phone go into a deeper sleep when certain conditions are met. Dave Burke, Google's VP of Engineering, explained last year that improvements in Android 15 have resulted in devices entering Doze Mode 50% faster than Android 14, resulting in up to three hours of additional standby time. It's unclear if the bugs addressed in today's update are the result of any additional changes being made to the system in Android 16.\nElsewhere, choppy system animations when setting a live wallpaper have been fixed, and a problem where phones would reboot into recovery mode shortly after powering on has been resolved. Google says today's release also includes various other performance and stability improvements.\nRelated\nAndroid 16 might let you easily ditch those Quick Settings tiles you never use\nMore Quick Settings changes may be coming\nAfter this release, we're expecting Beta 3 to usher in Android 16's platform stability era — a point at which all APIs and app-facing behaviors have been finalized. This is a particularly important milestone for developers looking to ensure their Android apps are fully compatible with the new version.\nAndroid 16 Beta 2.1 is being seeded as a standard OTA update, so as long as you're enrolled in the Android Beta Program on a compatible device, you can install it by heading to Settings → System → Software update → System update and tapping the Check for updates button. Google says the update is already going live, but it may take up to 24 hours to appear for all users.\nRelated\nApps can now see when Android 16's high-security mode is enabled and react accordingly\nThanks to new Advanced Protection APIs",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social condition",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://issuetracker.google.com/issues/397659072",
+    "https://www.reddit.com/r/android_beta/comments/1izqlf8/android_16_beta_21_now_available/",
+    "https://issuetracker.google.com/issues/396541565",
+    "https://g.co/androidbeta",
+    "https://www.google.com/android/beta",
+    "https://issuetracker.google.com/issues/396603519",
+    "https://developer.android.com/about/versions/16/release-notes#beta2.1",
+    "https://www.issuetracker.google.com/issues/396541565",
+    "https://google.com/android/beta",
+    "https://www.reddit.com/r/android_beta/comments/1izqlf8/android_16_beta_21_now_available",
+    "https://www.g.co/androidbeta",
+    "https://reddit.com/r/android_beta/comments/1izqlf8/android_16_beta_21_now_available/",
+    "https://www.developer.android.com/about/versions/16/release-notes#beta2.1",
+    "https://www.issuetracker.google.com/issues/397659072",
+    "https://www.issuetracker.google.com/issues/396603519"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:08:39.750+02:00",
+  "updated": "2025-02-28T00:08:39.750+02:00"
+}

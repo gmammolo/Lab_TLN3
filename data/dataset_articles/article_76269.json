@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "49db4b652255027c2149e859fb8a2747eb5144ed",
+    "url": "https://www.medianama.com/2025/01/223-meta-copyright-liability-ai-training-open-source-data",
+    "site_full": "www.medianama.com",
+    "site": "medianama.com",
+    "site_section": "https://www.medianama.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "MEDIANAMA - Technology and policy in India",
+    "title": "Meta's Copyright Lawsuit in the US Highlights Complex Liability in AI Training Using Open Source Data",
+    "title_full": "Meta's Copyright Lawsuit in the US Highlights Complex Liability in AI Training Using Open Source Data",
+    "published": "2025-01-10T09:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29018,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "49db4b652255027c2149e859fb8a2747eb5144ed",
+  "url": "https://www.medianama.com/2025/01/223-meta-copyright-liability-ai-training-open-source-data",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kamya Pandey",
+  "published": "2025-01-10T09:13:00.000+02:00",
+  "title": "Meta's Copyright Lawsuit in the US Highlights Complex Liability in AI Training Using Open Source Data",
+  "text": "A group of authors in the US— Richard Kadrey, Sarah Silverman and Christopher Golden claim that Meta torrented and processed their books to train its artificial intelligence models. The authors had originally filed a case against Meta’s copyright infringement of their works back in 2023. In their original lawsuit, the authors mentioned that the company used their books as a part of the training dataset “without consent, without credit and without compensation”.\nAs per a recent discovery order in the case, Meta CEO Mark Zuckerberg gave the company’s AI team orders to use the LibGen dataset. The fact discovery in the case also reveals that Meta engineers filtered out lines of copyright management information (CMI) to train its AI model Llama. This is despite the fact that in response to piracy discussions during the case, Zuckerberg said that such activity “raises lots of red flags.”\nWhat is Lib-Gen? Library Genesis or Lib-Gen is a file-sharing project that provides access to copyrighted works like academic books and journal articles. Besides the current lawsuit, publishers have in the past also filed court cases against LibGen for facilitating online piracy.\nFor instance, in India , Elsevier, The American Chemical, and Wiley Publications filed a court case against LibGen and fellow free academic paper-accessing site SciHub in India in 2020 for copyright infringement. The publishers urged the country to permanently block the sites in India. Internet Service Providers (ISPs) across multiple countries including the United Kingdom, France, and Germany block access to LibGen links.\nDetails of the authors’ lawsuit: In their 2023 lawsuit , the authors mentioned that in a table describing the contents of its AI models’ training dataset, Meta had listed that 85 gigabytes (GB) came from books. These books come from two sources:\nProject Gutenberg: an online archive of approximately 70,000 books that are out of copyright The Book3 section of The Pile, a publicly available training data for large language models. The authors say that the data from the Pile’s Book3 data set includes a mix of fiction and non-fiction books from the “shadow library” Bibliotik similar to other free book sites like Zlib, LibGen, and SciHub. “These shadow libraries have long been of interest to the AI-training community because of the large quantity of copyrighted material they host,” the lawsuit suggests.\nWhy it matters: While it seems here that Zuckerberg knew about the presence of LibGen sources in the company’s database, this lawsuit brings up some key questions about liability in the AI ecosystem. Meta acquired this data through an open-source dataset, which was accumulated from Bibliotik Private Tracker, part of the many shadow libraries like LibGen. If an AI company obtained the data through open-source datasets, which in turn obtained it from shadow libraries, who bears liability at each step of this chain? While some have filed cases against piracy websites in the past, should open-source dataset creators also bear liability for infringement?\nCopyright concerns with AI model training: Meta isn’t the only company to face a lawsuit for allegedly using copyrighted information to train its models. In the recent past, others like Microsoft and OpenAI have also been hit with a series of lawsuits from authors and news publications suggesting that the two used their information to train AI models. In what appears to be a response to these cases, OpenAI signed an agreement with the News Corp which gave it access to the content of major news publications like The Wall Street Journal, New York Post, and The Daily Telegraph in May last year. Microsoft similarly signed an agreement with Harper Collins to train AI on its books in November last year . Just like OpenAI and Microsoft, Meta also signed a content licensing deal with Reuters in October last year.\nAlso read:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->court",
+    "Crime, Law and Justice->law",
+    "Crime, Law and Justice->corporate crime",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Social Issue->social problem",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://torrentfreak.com/vodafone-blocks-libgen-following-elsevier-springer-macmillan-injunction-180808/",
+    "https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf",
+    "https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.1.0_3.pdf",
+    "https://torrentfreak.com/vodafone-blocks-libgen-following-elsevier-springer-macmillan-injunction-180808",
+    "https://www.storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.1.0_3.pdf",
+    "https://www.torrentfreak.com/vodafone-blocks-libgen-following-elsevier-springer-macmillan-injunction-180808/",
+    "https://www.storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Christopher Golden",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Sarah Silverman",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Mark Zuckerberg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "49db4b652255027c2149e859fb8a2747eb5144ed",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2025-01-10T09:32:09.483+02:00",
+  "updated": "2025-01-10T09:32:09.483+02:00"
+}

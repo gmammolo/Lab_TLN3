@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "c9b79cb94dd7fb953e48ec419d16a3806a2d11e3",
+    "url": "https://answers.ea.com/t5/Bug-Reports/Ahsoka-Tano-Fulcrum-is-killing-herself-with-a-Health-tax-bug/m-p/14384504",
+    "site_full": "answers.ea.com",
+    "site": "ea.com",
+    "site_section": "http://answers.ea.com//ea/rss/Community?interaction.style=forum",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "New product topics in Answer HQ",
+    "title": "Ahsoka Tano (Fulcrum) is killing herself with a Health tax bug - Answer HQ",
+    "title_full": "Ahsoka Tano (Fulcrum) is killing herself with a Health tax bug - Answer HQ",
+    "published": "2025-01-10T02:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://help.ea.com/ahq-assets/images/open-graph/AHQ-card.png",
+    "performance_score": 0,
+    "domain_rank": 783,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c9b79cb94dd7fb953e48ec419d16a3806a2d11e3",
+  "url": "https://answers.ea.com/t5/Bug-Reports/Ahsoka-Tano-Fulcrum-is-killing-herself-with-a-Health-tax-bug/m-p/14384504",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "AKAThePlaybook",
+  "published": "2025-01-10T02:38:00.000+02:00",
+  "title": "Ahsoka Tano (Fulcrum) is killing herself with a Health tax bug - Answer HQ",
+  "text": "Product : Star Wars: Galaxy of Heroes\nPlatform : Android\nWhat type of device are you experiencing the issue with? PC Client\nOS Version PC\nAlly Code: (Find it here: http://bit.ly/AllyCode )\nWhat type of issue do you have? Gameplay\nHow often does the bug occur? Every time (100%)\nSummarize your bug When a mechanic like Exile stops Fulcrum's unique from cleansing herself, she taxes herself every turn anyway as if she successfully cleansed, causing her to take hundreds of thousands of free damage. I suspect the same interaction happens with other blockers like Isolate or Plague.\nSteps: How can we find the bug ourselves? Place a dispellable debuff on Ahsoka Tano (Fulcrum) while she has Exile. Note that she deals 15% of her Health every turn, despite not successfully cleansing anything.\nConnection Type\nPlease select your region\nCountry\n‌\nWhen a mechanic like Exile stops Fulcrum's unique from cleansing herself, she taxes herself every turn anyway as if she successfully cleansed, causing her to take hundreds of thousands of free damage. I suspect the same interaction happens with other blockers like Isolate or Plague.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://bit.ly/AllyCode",
+    "http://www.bit.ly/AllyCode"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ahsoka Tano",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T03:20:24.084+02:00",
+  "updated": "2025-01-10T03:20:24.084+02:00"
+}

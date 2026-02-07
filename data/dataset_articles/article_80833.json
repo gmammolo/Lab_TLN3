@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "1776bb052daff0f517c6066ee00d9bb38d4283e2",
+    "url": "https://community.atlassian.com/t5/App-Central-questions/Zephyr-Test-Management/qaq-p/2668456",
+    "site_full": "community.atlassian.com",
+    "site": "atlassian.com",
+    "site_section": "https://community.atlassian.com/t5/apps-integrations/ct-p/atlassian-marketplace",
+    "site_categories": [
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "\n\tApp Central - Atlassian Community\n",
+    "title": "Zephyr Test Management",
+    "title_full": "Zephyr Test Management",
+    "published": "2024-04-11T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://community.atlassian.com/html/@258760D0CD1762B6F3D0D0E2133AB4FF/assets/atlassian-community-share-card-630x630.png",
+    "performance_score": 0,
+    "domain_rank": 588,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1776bb052daff0f517c6066ee00d9bb38d4283e2",
+  "url": "https://community.atlassian.com/t5/App-Central-questions/Zephyr-Test-Management/qaq-p/2668456",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Fabrício Ferreira",
+  "published": "2024-04-11T03:00:00.000+03:00",
+  "title": "Zephyr Test Management",
+  "text": "Hello.\nAtualmente, estou em um projeto em que os QAs utilizam Zephyr (Integrado ao JIRA) para gestão de testes.\nNum geral, a ferramenta é bem completa e fornece muitas métricas. Porém, senti falta de uma coisa: Campo com lista de erros em casos de teste reprovados.\nO contexto é o seguinte: Sou SM do time, e pensando em métricas e estatística, seria muito interessante termos a opção de criar um campo personalizado, onde através de uma lista de possíveis motivos de falha, possamos realizar um levantamento dos principais motivos que levam um caso de teste falhar.\nExemplo:\nCampo\nMotivo da falha: (lista)\nErro de Ambiente\nErro de API\nErro em Lógica de Código\nErro em Variável de Ambiente\nErro não mapeado\nComportamento Inesperado\nErro de Integração\nErro Funcional\nErro não Funcional\nEnfim, as possibilidades são muitas. Mas a ideia é conseguir metrificar os principais motivos, e posteriormente com esses dados, trabalhar em melhoria contínua, em conjunto com o time. Hoje o Zephyr só fornece um relatório e o erro reportado vem através de um campo de texto, escrito pelo QA. Seria muito mais funcional ter uma lista com várias opções possíveis que apontem a causa da falha do caso de teste.\nA dúvida é: É possível criar um campo personalizado (lista) no Zephyr? Uma vez que o JIRA fornece a possibilidade de integração?\nAgradeço.\nAtenciosamente,\nFabrício Ferreira",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T00:54:18.553+03:00",
+  "updated": "2024-04-12T00:54:18.553+03:00"
+}

@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "1ec128d680492bdeaefacbdcee590a5eda469b0a",
+    "url": "https://www.fudzilla.com/news/61581-amd-leaks-fsr-4-source-code",
+    "site_full": "www.fudzilla.com",
+    "site": "fudzilla.com",
+    "site_section": "http://www.fudzilla.com/?format=feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Fudzilla.com - Home",
+    "site_title": "Fudzilla.com - Home",
+    "title": "AMD leaks FSR 4 source code",
+    "title_full": "AMD leaks FSR 4 source code",
+    "published": "2025-08-21T10:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.fudzilla.com/media/k2/items/cache/ef1ff3f14b66b98d49893c9fe99cd40e_XS.jpg",
+    "performance_score": 0,
+    "domain_rank": 21153,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1ec128d680492bdeaefacbdcee590a5eda469b0a",
+  "url": "https://www.fudzilla.com/news/61581-amd-leaks-fsr-4-source-code",
+  "ord_in_thread": 0,
+  "author": "nick [AT] fudzilla [DOT] com (Nick Farrell)",
+  "published": "2025-08-21T10:57:00.000+03:00",
+  "title": "AMD leaks FSR 4 source code",
+  "text": "The early build of the FidelityFX SDK 2.0 exposed quite a bit more than the company probably wanted. Not only did it reveal FP8 and INT8 libraries, hinting at Radeon RX 7000 series support, but it made it clear that FSR 4 has been rebuilt with machine learning at its core, specifically for RDNA 4 hardware.\nFSR 4 marks AMD’s first ML-based upscaler, trained on game data using AMD Instinct kit. It’s designed to squeeze out more temporal stability, sharper detail, better particle effects and less ghosting than FSR 3.1 ever managed. There’s a small 3.1.5 patch bundled in for RX 7000 series and older kit, just in case you’re not rocking next-gen silicon yet.\nBut while FSR 3 was touted for its open-source bonhomie, AMD's had a change of heart. With SDK 2.0, developers are now required to use pre-built, signed FidelityFX API DLLs. This means no more source code to poke through or mod. Instead, everything now routes through amd_fidelityfx_loader.dll.\nThis new distribution model should make updates smoother. It mirrors Nvidia's global DLSS override by letting future Adrenalin drivers inject FSR updates into games directly, no developer patching required.\nYou’ll need a Radeon RX 9000 Series or newer, running Windows 10 or 11 with DirectX 12, if you want to take advantage of FSR 4. Otherwise, the API drops you back to the less fancy 3.1.5 automatically.\nUnreal Engine developers aren’t left out. AMD’s pushing a plugin covering UE 5.1 through 5.6, ensuring that all the shiny features get slotted in with minimum pain.\nStill, the sudden repo pull and DLL lockdown undercuts AMD’s open-source cred. The leaked code confirmed INT8 targeting, which suggests FSR 4 might have worked just fine on older hardware if the suits hadn’t stepped in to gate it off for RDNA 4 exclusivity.\nLooking ahead, AMD says it’ll expand this foundation with something called FSR Redstone later this year, a new batch of AI rendering wizardry baked into the FidelityFX SDK. No word on whether that one will launch with source, or vanish behind a wall of binaries too.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Nvidia",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "NVDA",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "AMD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AMD",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:40:24.356+03:00",
+  "updated": "2025-08-21T12:43:35.000+03:00"
+}

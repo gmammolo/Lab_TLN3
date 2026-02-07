@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "9b01e009b6aca03017b2fdb0768beb16ed206c85",
+    "url": "https://taiwannews.com.tw/zh/news/6179306",
+    "site_full": "taiwannews.com.tw",
+    "site": "taiwannews.com.tw",
+    "site_section": "https://taiwannews.com.tw/zh",
+    "site_categories": [
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "Taiwan News《台灣英文新聞》— 傳遞台灣聲音，帶入全球視野",
+    "site_title": "Taiwan News - Voice of the People, Bridge to the World",
+    "title": "金融時報：DeepSeek新AI發布延後 揭技術自主困境 | Taiwan News | Aug. 14, 2025 15:00",
+    "title_full": "金融時報：DeepSeek新AI發布延後 揭技術自主困境 | Taiwan News | Aug. 14, 2025 15:00",
+    "published": "2025-08-14T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://image.taiwannews.com.tw/2025%2F02%2F07%2F559de184813a4a93ad03c0508e678c0a.jpg",
+    "performance_score": 0,
+    "domain_rank": 6502,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 41
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9b01e009b6aca03017b2fdb0768beb16ed206c85",
+  "url": "https://taiwannews.com.tw/zh/news/6179306",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-14T03:00:00.000+03:00",
+  "title": "金融時報：DeepSeek新AI發布延後 揭技術自主困境 | Taiwan News | Aug. 14, 2025 15:00",
+  "text": "中國 AI 新創公司深度求索（DeepSeek）原定 5 月發布的 R2 模型因技術問題推遲，英國金融時報揭露，主因是採用華為（Huawei）昇騰（Ascend）晶片訓練時遭遇瓶頸，最終被迫混合使用輝達（Nvidia）H20 晶片訓練、華為晶片推理。\n關鍵問題\n訓練受挫：華為派工程師進駐協助，仍無法解決昇騰晶片在模型訓練階段的穩定性與連接速度問題。\nH20 限制：中國政府要求企業說明採購輝達 H20 理由，但國產替代方案效能仍落後 20-30%。\n市場衝擊：延遲發布讓深度求索落後競爭對手，阿里（Alibaba）通義千問（Qwen3）等模型已搶佔市場；另有知情人士指出，數據標註耗時超過預期，也是延遲的重要原因。\n地緣技術角力\n輝達以 H20 在中國銷售分潤換取出口許可。加州大學柏克萊分校 AI 研究員 Ritwik Gupta 分析：「這屬於技術迭代的陣痛期。輝達 H20 目前仍是中國企業最穩定的選擇。」輝達則聲明，限制晶片出口「將傷害美國開發者生態系利益」。\n據悉，深度求索創辦人梁文鋒已要求團隊加碼研發，目標推出「能維持技術領先的下一代模型」。據中國媒體預測，R2 模型可能於數週內發布。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social problem",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092",
+    "https://ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:19:24.047+03:00",
+  "updated": "2025-08-15T11:05:06.000+03:00"
+}

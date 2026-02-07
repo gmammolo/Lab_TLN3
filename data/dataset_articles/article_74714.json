@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "50dcec4115e4ec2ec8c79ee3642f2220b0752614",
+    "url": "https://africa.businessinsider.com/news/microsofts-copilot-has-an-oversharing-problem-the-company-is-trying-to-help-customers/vwz4xb7",
+    "site_full": "africa.businessinsider.com",
+    "site": "businessinsider.com",
+    "site_section": "https://africa.businessinsider.com/news",
+    "site_categories": [
+      "media",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_ae",
+      "top_news_us",
+      "top_news_gb",
+      "top_news_th",
+      "top_news_sg",
+      "top_news_rs",
+      "top_news_ph",
+      "top_news_hk",
+      "top_news_qa",
+      "top_news_ie",
+      "top_news_pk",
+      "top_news_se",
+      "top_news_id",
+      "top_news_dk",
+      "top_news_za",
+      "top_news_my",
+      "top_news_il",
+      "top_news_kw",
+      "top_news_fi",
+      "top_news_ca",
+      "top_news"
+    ],
+    "section_title": "BI news | Business Insider Africa",
+    "title": "Microsoft's Copilot has an oversharing problem. The company is trying to help customers fix it.",
+    "title_full": "Microsoft's Copilot has an oversharing problem. The company is trying to help customers fix it.",
+    "published": "2024-11-21T08:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ocdn.eu/pulscms-transforms/1/3b9ktkuTURBXy8yYWI1NzM0OS05ZDc5LTRhNjktYWZlZi04MmZlNzhiNDJlN2EuanBlZ5GTBc0EsM0Cdg",
+    "performance_score": 0,
+    "domain_rank": 126,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "50dcec4115e4ec2ec8c79ee3642f2220b0752614",
+  "url": "https://africa.businessinsider.com/news/microsofts-copilot-has-an-oversharing-problem-the-company-is-trying-to-help-customers/vwz4xb7",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ashley Stewart",
+  "published": "2024-11-21T08:15:00.000+02:00",
+  "title": "Microsoft's Copilot has an oversharing problem. The company is trying to help customers fix it.",
+  "text": "- Microsoft released tools to address security issues with its AI assistant Copilot.\n- Copilot's indexing of internal data led to oversharing of sensitive company information.\n- Some corporate customers delayed Copilot deployment because of security and oversharing concerns.\nRecommended articles\nMicrosoft's [Copilot](https://www.businessinsider.com/microsoft-ai-artificial-intelligence-bet-doubts-marc-benioff-satya-nadella-2024-11) has been doing an [AI](https://www.businessinsider.com/microsoft-mustafa-suleyman-ai-copilot-update-reviews-2024-10) version of this behavior, which has unnerved corporate customers so much that some have delayed deploying the product, as Business Insider first [reported](https://www.businessinsider.com/microsoft-ai-artificial-intelligence-bet-doubts-marc-benioff-satya-nadella-2024-11) last week.\nNow the software giant is trying to fix the problem. On Tuesday, [Microsoft](https://www.businessinsider.com/microsoft-hints-big-change-to-openai-investments-sec-filing-2024-10) released new tools and a guide to help customers mitigate a Copilot security issue that inadvertently let employees access sensitive information such as CEO emails and HR documents.\nThese updates are designed \"to identify and mitigate oversharing and ongoing governance concerns,\" the company said in a [blueprint](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-blueprint-oversharing) for Microsoft's 365 productivity software suite.\n\"Many data-governance challenges in the context of AI were not caused by AI's arrival,\" a Microsoft spokesperson told BI on Wednesday.\nThe spokesperson added that AI was simply the latest call to action for enterprises to take proactive management of their internal documents and other information.\nThe spokesperson said factors such as specific industry regulations and risk tolerance should inform these decisions. For instance, different employees should have access to different types of files, workspaces, and other resources.\n\"Microsoft is helping customers enhance their central governance of identities and permissions, to help organizations continuously update and manage these fundamental controls,\" the spokesperson said.\nCopilot's magic — its ability to create a 10-slide road-mapping presentation, or to summon a list of your company's most profitable products — works by browsing andindexing all your company's internal information, like the web crawlers used by search engines.\nIT departments at some companies have set up lax permissions for who can access internal documents — selecting \"allow all\" for the company's HR software, say, rather than going through the trouble of selecting specific users.\nThat didn't create much of a problem because there wasn't a tool that an average employee could use to identify and retrieve sensitive company documents — until Copilot.\nAs a result, some customers have deployed Copilot only to discover that it can let employees read an executive's inbox or access sensitive HR documents.\n\"Now when Joe Blow logs into an account and kicks off Copilot, they can see everything,\" a Microsoft employee familiar with customer complaints said. \"All of a sudden Joe Blow can see the CEO's emails.\"\nAre you a Microsoft employee or someone else with insight to share?\nContact Ashley Stewart via the encrypted messaging app Signal (+1-425-344-8242) or email ([astewart@businessinsider.com](mailto:astewart@businessinsider.com)). Use a nonwork device.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate Governance and CSR",
+    "Customer Insights and Reviews"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-blueprint-oversharing",
+    "https://www.learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-blueprint-oversharing"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T03:04:24.514+02:00",
+  "updated": "2024-11-22T03:04:24.514+02:00"
+}

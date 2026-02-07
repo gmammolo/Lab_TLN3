@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "c6b573cbad161483424a2bf18207aefd97385d6c",
+    "url": "https://finance.sina.com.cn/tech/digi/2025-04-03/doc-inervuvz1797605.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://www.sina.com.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪网",
+    "site_title": null,
+    "title": "谷歌 AI 笔记应用 NotebookLM 新增\"发现资料\"功能，可自动检索相关网络资源|谷歌|AI_新浪科技_新浪网",
+    "title_full": "谷歌 AI 笔记应用 NotebookLM 新增\"发现资料\"功能，可自动检索相关网络资源|谷歌|AI_新浪科技_新浪网",
+    "published": "2025-04-03T02:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 249,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c6b573cbad161483424a2bf18207aefd97385d6c",
+  "url": "https://finance.sina.com.cn/tech/digi/2025-04-03/doc-inervuvz1797605.shtml",
+  "ord_in_thread": 0,
+  "author": "sina.com.cn",
+  "published": "2025-04-03T02:07:00.000+03:00",
+  "title": "谷歌 AI 笔记应用 NotebookLM 新增\"发现资料\"功能，可自动检索相关网络资源|谷歌|AI_新浪科技_新浪网",
+  "text": "IT之家 4 月 3 日消息，谷歌旗下的人工智能笔记应用 NotebookLM 推出了一项令人眼前一亮的新功能 ——“发现资料”（Discover sources），这一功能的上线有望极大地提升学生和研究人员在资料收集方面的效率。\n以往，用户在使用 NotebookLM 时，需要手动添加 PDF 文件、谷歌文档或幻灯片、网站链接、YouTube 视频链接或粘贴文本等资料，才能使用该应用的诸如音频概览（Audio Overviews）和思维导图（Mind Maps）等功能。然而，如今情况发生了改变。\nIT之家注意到，谷歌通过其官方博客 The Keyword 宣布了这一新功能。借助 Gemini 技术的支持，NotebookLM 能够为用户自动搜索网络上的资料，从而节省用户手动查找资料的时间和精力。用户只需打开一个新笔记本或现有的笔记本，在资料面板中，除了传统的“添加资料”按钮外，现在还会看到一个“发现资料”按钮。\n点击该按钮后，会出现一个带有“您感兴趣的是什么？”提示的文本框。用户只需在文本框中描述自己想要查找的内容，越具体越好，然后点击提交按钮。NotebookLM 将在几秒钟内搜索数百个潜在的网络资源，对它们进行分析，并根据用户的话题筛选出最相关的资料。最终，它会整理出一份最多包含 10 个推荐资料的列表，并附上解释其相关性的摘要。用户可以勾选想要导入笔记本的资料，然后点击导入按钮。\n此外，用户还可以像往常一样在 NotebookLM 中使用这些资料，无论是生成音频概览、思维导图、常见问题解答（FAQs）、问答（Q&As）、快速摘要，还是提问等。对于那些想要随机学习新知识的用户，NotebookLM 还提供了一个“好奇心驱动”（I'm feeling curious）按钮，它可以随机生成一个主题的资料。\n谷歌在博客中提到，这只是 NotebookLM 利用 Gemini 收集相关资料功能系列中的第一个。这一新功能从即日起开始向所有 NotebookLM 用户推出，预计将在一周内全面上线。\n尽管有人可能会担心 NotebookLM 可能会出现信息“幻觉”（即生成不准确或虚假的信息），但目前来看，这一问题尚未出现。无论如何，这一新功能的推出无疑是 NotebookLM 在提升用户体验和功能实用性方面迈出的一大步，也让人们对其未来的发展充满期待。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:14:16.414+03:00",
+  "updated": "2025-04-03T02:14:16.414+03:00"
+}

@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "612a64a5253f90cf823c9124159dc30f320f0d5f",
+    "url": "https://www.163.com/dy/article/K6U66OPM0552IBJ1.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "https://tech.163.com/keywords/4/b/4eba5de5667a80fd/1.html",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "人工智能_标签_网易出品",
+    "site_title": "网易",
+    "title": "DeepSeek R2 因芯片问题推迟发布|英伟达|人工智能|智能手机|知名企业|nvidia|deepseek_网易订阅",
+    "title_full": "DeepSeek R2 因芯片问题推迟发布|英伟达|人工智能|智能手机|知名企业|nvidia|deepseek_网易订阅",
+    "published": "2025-08-14T08:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 273,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "612a64a5253f90cf823c9124159dc30f320f0d5f",
+  "url": "https://www.163.com/dy/article/K6U66OPM0552IBJ1.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-08-14T08:46:00.000+03:00",
+  "title": "DeepSeek R2 因芯片问题推迟发布|英伟达|人工智能|智能手机|知名企业|nvidia|deepseek_网易订阅",
+  "text": "创始人梁文锋对进展不满、 加码研发\n2025年8月14日，英国《金融时报》报道，DeepSeek 在使用昇腾芯片训练 R2模型时，因昇腾平台稳定性欠佳、软硬件支持不足、芯片通信慢等，导致训练受阻，只能训练阶段用英伟达芯片，推理阶段用华为芯片，致使 R2发布从5月起推迟。\n华为派遣 「一个工程师团队」前往 DeepSeek 办公室，帮助使用 昇腾芯片 开发 R2 模型。 目前，DeepSeek 继续与华为合作推理兼容。创始人梁文锋加码研发，模型或几周内发布。\n此外， 创始人梁文锋对进展不满 ，且数据标注耗时超预期，也都影响了 R2发布。\n全文翻译如下（机翻）：\n标题：“DeepSeek’s launch of new AI model delayed by Huawei chip issues；Difficulties of training Chinese start-up’s latest system with domestic tech highlights dependence on Nvidia”\n中国人工智能公司深度求索（DeepSeek）因未能使用华为芯片对其新模型进行训练，已推迟该模型的发布。这一情况凸显出中国在推动技术替代美国方面存在的局限性。\n据三位知情人士透露，在今年1月发布R1模型后，深度求索受到有关部门的鼓励，要求其采用华为的昇腾处理器，而非使用英伟达的系统。\n但这些人士表示，这家中国初创公司在使用昇腾芯片进行R2模型训练的过程中，遭遇了持续的技术问题，这促使其在训练阶段使用英伟达芯片，而在推理阶段使用华为芯片。\n一位了解情况的人士称，这些问题是该模型从5月起推迟发布的主要原因，导致其落后于竞争对手。（行业有报道）\n训练指的是模型从大型数据集中学习的过程，而推理则是指利用经过训练的模型进行预测或生成响应（例如聊天机器人回复查询）的步骤。\n深度求索遇到的困难表明，中国芯片在关键任务上仍落后于美国竞争对手，凸显出中国在实现技术自主方面面临的挑战。\n北京鼓励使用 广华为和寒武纪等\n英国《金融时报》本周报道，北京已要求中国科技公司说明其订购英伟达H20芯片的理由，此举旨在鼓励它们推广华为和寒武纪等企业生产的替代产品。\n业内人士表示，与英伟达的产品相比，中国芯片存在稳定性问题、芯片间连接速度较慢以及软件性能较差等问题。\n两位知情人士称，华为已派遣一组工程师前往深度求索的办公室，协助该公司使用其AI芯片开发R2模型。但他们表示，尽管有工程师驻场，深度求索仍无法在昇腾芯片上成功完成训练运行。\n这些人士还表示，深度求索仍在与华为合作，以使该模型在推理阶段能与昇腾芯片兼容。\n他们称，深度求索创始人梁文峰在内部表示，他对R2模型的进展不满，并一直在推动投入更多时间来打造一款先进模型，以维持公司在人工智能领域的领先地位。\n另一位人士补充道，R2模型的发布推迟，也是因为其更新模型的数据标注工作比预期耗时更长。中国媒体报道称，该模型可能最快在未来几周内发布。\n业内看法 ：研究员称模型易替代，开发者转用阿里等\n加州大学伯克利分校的人工智能研究员里特维克·古普塔表示：“模型就像商品一样，很容易被替换。很多开发者都在使用阿里巴巴的通义千问3（Qwen3），它功能强大且具有灵活性。”\n古普塔指出，通义千问3借鉴了深度求索的核心理念，例如其能让模型具备推理能力的训练算法，但通义千问3在使用上更高效。\n一直在关注华为人工智能生态系统的古普塔表示，华为在将昇腾芯片用于训练方面正面临“成长的烦恼”，不过他预计这家中国领军企业最终会适应。\n他说：“仅仅因为我们现在没有看到基于华为芯片训练出的领先模型，并不意味着未来不会出现。这只是时间问题。”\n处于中美地缘政治博弈中心的芯片制造商英伟达，最近同意将其在华收入的一部分上交美国政府，以恢复向中国销售H20芯片。\n关于中国企业使用其芯片一事，英伟达表示：“开发者将在打造成功的人工智能生态系统中发挥关键作用。放弃整个市场和开发者，只会损害美国的经济和国家安全。”\n深度求索和华为均未回应置评请求。\n注：小标题为易于阅读添加，非原文。以上仅供参考，不代表芯榜意见。\n- End -\n责任编辑：赵俊_NS5119",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->diversity, equity and inclusion"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:21:25.692+03:00",
+  "updated": "2025-08-15T10:11:27.000+03:00"
+}

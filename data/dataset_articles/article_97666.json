@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "76b2b420a3711398e324eb0957f8b69676e2262e",
+    "url": "https://www.sportschau.de/fussball/championsleague/fc-arsenal-fuegt-bayern-die-erste-saisonniederlage-zu,audio-flash-arsenal-bayern-100.html",
+    "site_full": "www.sportschau.de",
+    "site": "sportschau.de",
+    "site_section": "https://www.sportschau.de/audio",
+    "site_categories": [
+      "world_soccer",
+      "sports"
+    ],
+    "section_title": "Alle Audios | sportschau.de",
+    "site_title": "Sportschau - Sport-News, Live-Ticker, Videos, Ergebnisse und Tabellen | sportschau.de",
+    "title": "Champions League: FC Arsenal fügt Bayern die erste Saisonniederlage zu | sportschau.de",
+    "title_full": "Champions League: FC Arsenal fügt Bayern die erste Saisonniederlage zu | sportschau.de",
+    "published": "2025-11-27T07:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.sportschau.de/image/8b2c6eb7-6361-4a30-9ef6-86096742c055/AAABmsH1qxM/AAABmgWmh8Q/16x9-big/arsenal-bayern-106.jpg?width=1280",
+    "performance_score": 0,
+    "domain_rank": 7053,
+    "domain_rank_updated": "2025-11-23T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "76b2b420a3711398e324eb0957f8b69676e2262e",
+  "url": "https://www.sportschau.de/fussball/championsleague/fc-arsenal-fuegt-bayern-die-erste-saisonniederlage-zu,audio-flash-arsenal-bayern-100.html",
+  "ord_in_thread": 0,
+  "author": "sportschau.de",
+  "published": "2025-11-27T07:22:00.000+02:00",
+  "title": "Champions League: FC Arsenal fügt Bayern die erste Saisonniederlage zu | sportschau.de",
+  "text": "Stand: 27.11.2025 06:22 Uhr Der FC Arsenal gewinnt in der Champions League mit 3:1 gegen den FC Bayern München - die erste Saisonniederlage der Bayern.\nSportschau, 26.11.2025 23:27 Uhr",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": [
+    "Sport"
+  ],
+  "topics": [
+    "Sport->soccer",
+    "Sport->sport event",
+    "Sport->sports record"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2025/11/26/63d667ab-f796-4acd-86dc-280e4551e481/63d667ab-f796-4acd-86dc-280e4551e481_MP3-128.mp3",
+    "https://sand-hub.ard.de/v1/projects/deo-mpm-prod-359708/topics/sand-beacon:publish",
+    "https://sand.ard.de/auth/sand-token.json?apiKey=sportschau",
+    "https://sand-hub.ard.de/v1/projects/deo-mpm-prod-359708/topics/sand-topic:publish",
+    "https://www.sand-hub.ard.de/v1/projects/deo-mpm-prod-359708/topics/sand-beacon:publish",
+    "https://www.sand.ard.de/auth/sand-token.json?apiKey=sportschau",
+    "https://www.sand-hub.ard.de/v1/projects/deo-mpm-prod-359708/topics/sand-topic:publish",
+    "https://sand.ard.de/auth/sand-token.json",
+    "https://www.sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2025/11/26/63d667ab-f796-4acd-86dc-280e4551e481/63d667ab-f796-4acd-86dc-280e4551e481_MP3-128.mp3"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "München",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "FC Baye",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "FC Arsenal",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Champions League",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-27T07:35:33.849+02:00",
+  "updated": "2025-11-27T07:39:08.000+02:00"
+}

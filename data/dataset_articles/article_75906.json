@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "7fab06f88aaa67bb8ec1f5364d6316a0f1265095",
+    "url": "https://www.csoonline.com/article/3729065/legitimate-poc-exploited-to-spread-information-stealer.html",
+    "site_full": "www.csoonline.com",
+    "site": "csoonline.com",
+    "site_section": "https://www.csoonline.com/cloud-security",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cloud Security | CSO Online",
+    "title": "Legitimate PoC exploited to spread information stealer | CSO Online",
+    "title_full": "Legitimate PoC exploited to spread information stealer | CSO Online",
+    "published": "2025-01-10T02:17:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.csoonline.com/wp-content/uploads/2025/01/3729065-0-71502300-1736468268-shutterstock_666678937.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 2680,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7fab06f88aaa67bb8ec1f5364d6316a0f1265095",
+  "url": "https://www.csoonline.com/article/3729065/legitimate-poc-exploited-to-spread-information-stealer.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Howard Solomon",
+  "published": "2025-01-10T02:17:00.000+02:00",
+  "title": "Legitimate PoC exploited to spread information stealer | CSO Online",
+  "text": "It’s another example of how openly-posted proofs of concepts are being abused to sucker security researchers.\nCredit: Shutterstock A recently copied and abused open source proof of concept (PoC) exploit from a reputable security company, aimed at helping threat researchers, is the latest example of the novel tactics hackers will use to spread malware.\nPoCs for known vulnerabilities are created to be shared by students, researchers, and IT pros to improve software and toughen defenses. The danger is that anything posted on the internet can be abused.\nCSOonline reported on the original — and safe — PoC exploit, LDAPNightmare, created by SafeBreach for a vulnerability in Windows Lightweight Directory Access Protocol (LDAP) on Jan. 3. Today, however, Trend Micro said it has found a malicious version of that PoC sitting on GitHub.\nIn an interview, Tomer Bar, SafeBreach’s vice-president of security research, stressed that the company’s PoC wasn’t compromised, but was copied and manipulated. The original proof of concept exploit was published on SafeBreach’s official GitHub site.\n“We always publish full open-source” code, he added, “so people can verify that it’s valid and not malicious.”\n“The malicious repository containing the PoC appears to be a fork from the original creator,” Trend Micro said in its report. “In this case, the original Python files were replaced with the executable poc[dot]exe that was packed using UPX.”\nFortunately, the presence of an executable file in a Python-based project was a clue for experienced infosec pros that something was awry.\nA ‘classic Trojan horse’ The bad repository has since been taken down. But its discovery is another example of why anyone in IT should be careful of downloading code from anywhere, including an open source repository, said David Shipley, CEO of Canadian awareness training firm Beauceron Security.\n“Trojan’s gonna Trojan,” he said in an interview, describing the attempt to lure the unprepared as a “classic social engineering strategy.”\n“This is the classic Trojan Horse : You go looking for a legitimate, research-based PoC and you get one that looks like the PoC, but you get one with an executable.”\nThe reason why threat actors are increasingly using this tactic, he said, is because it works. Among the defences: Test the proof of concept in an isolated computer environment.\n“Any code from the web should be treated as massively unhygienic until you know it’s safe,” Shipley added.\nNot a new tactic The tactic of using a PoC to hide malware or a backdoor isn’t new. In 2023, for example, Uptycs reported on a widely-shared malicious proof of concept on GitHub purporting to address the critical Linux kernel vulnerability CVE-2023-35829. And according to a 2022 study by researchers at Cornell University into GitHub-hosted PoCs, almost 2% of the 47,285 repositories it examined had indicators of malicious intent. “This figure shows a worrying prevalence of dangerous malicious PoCs among the exploit code distributed on GitHub,” the study concluded — and that was over two years ago.\nLast fall, SonicWall released a another report on the rise of malicious PoCs . “While security researchers are often very well equipped to handle and detect this situation,” it concluded, “it is easy to become overconfident, leading to compromise.”\nOnly use trusted repositories Cybersecurity professionals, including blue and red teams, should only download content from trusted open source repositories that have a lot of stars, SafeBreach’s Bar said, and never download executables from untrusted sources.\nIn addition, Trend Micro advised IT workers to:\nalways download code, libraries, and dependencies from official and trusted repositories; be cautious of repositories with suspicious content that may seem out of place for the tool or application it is supposedly hosting; if possible, confirm the identity of the repository owner or organization; review the repository’s commit history and recent changes for anomalies or signs of malicious activity; be cautious of repositories with very few stars, forks, or contributors, especially if they claim to be widely used; look for reviews, issues, or discussions about the repository to identify potential red flags.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sonicwall.com/blog/hold-verify-execute-rise-of-malicious-pocs-targeting-security-researchers",
+    "https://arxiv.org/abs/2210.08374",
+    "https://www.trendmicro.com/en_us/research/25/a/information-stealer-masquerades-as-ldapnightmare-poc-exploit.html",
+    "https://www.uptycs.com/blog/threat-research-report-team/new-poc-exploit-backdoor-malware",
+    "https://en.wikipedia.org/wiki/Trojan_Horse",
+    "https://www.en.wikipedia.org/wiki/Trojan_Horse",
+    "https://uptycs.com/blog/threat-research-report-team/new-poc-exploit-backdoor-malware",
+    "https://sonicwall.com/blog/hold-verify-execute-rise-of-malicious-pocs-targeting-security-researchers",
+    "https://trendmicro.com/en_us/research/25/a/information-stealer-masquerades-as-ldapnightmare-poc-exploit.html",
+    "https://www.arxiv.org/abs/2210.08374"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "7fab06f88aaa67bb8ec1f5364d6316a0f1265095",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2025-01-10T03:41:59.055+02:00",
+  "updated": "2025-01-11T20:42:45.239+02:00"
+}

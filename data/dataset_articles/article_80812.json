@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "a3767c923351d1c6e18691b0644dcfdd1ce816ab",
+    "url": "https://www.eltiempo.com/tecnosfera/dispositivos/asi-puede-usar-windows-de-forma-remota-en-un-mac-book-3332944",
+    "site_full": "www.eltiempo.com",
+    "site": "eltiempo.com",
+    "site_section": "https://eltiempo.com/mundo",
+    "site_categories": [
+      "media",
+      "education",
+      "business",
+      "top_news"
+    ],
+    "section_title": " Noticias del Mundo - Noticias - ELTIEMPO.COM - ELTIEMPO.COM",
+    "title": "Así puede usar Windows de forma remota en iPhone y Mac Book",
+    "title_full": "Así puede usar Windows de forma remota en iPhone y Mac Book",
+    "published": "2024-04-11T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://imagenes.eltiempo.com/files/og_thumbnail/uploads/2024/04/11/6618306d12f5c.jpeg",
+    "performance_score": 0,
+    "domain_rank": 3827,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a3767c923351d1c6e18691b0644dcfdd1ce816ab",
+  "url": "https://www.eltiempo.com/tecnosfera/dispositivos/asi-puede-usar-windows-de-forma-remota-en-un-mac-book-3332944",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Daniela Gutierrez Munar",
+  "published": "2024-04-11T03:00:00.000+03:00",
+  "title": "Así puede usar Windows de forma remota en iPhone y Mac Book",
+  "text": "Disfrutar de Windows 10 en su Apple Mac ahora es posible. Gracias a este gran avance, podrá sincronizar sus dispositivos Windows con mac OS, con la ayuda de Boot Camp Assistant. Una vez instalado, le permite cambiar fácilmente entre mac OS y Windows simplemente al reiniciar su Mac. Sin embargo, tenga en cuenta que debe cumplir con ciertos requisitos. (Lea también: Apple ofrece trabajo remoto con pago de más de $ 100 mil por hora: así puede aplicar) Las actualizaciones más recientes de macOS, pueden incluir actualizaciones del Asistente Boot Campm, este será el asistente que necesita para instalar Windows 10. Según la página oficial de Apple Suport, esta es la lista de computadoras que son aptas para la sincronización, tenga en cuenta que Boot Camp requiere un Mac con procesador Intel: MacBook de 2015 a 2017MacBook Air de 2012 a 2020, excepto el MacBook Air (M1, 2020)MacBook Pro de 2012 a 2020, excepto el MacBook Pro (13 pulgadas, M1, 2020)Mac mini de 2012 a 2018iMac de 2012 a 20201iMac Pro (todos los modelos)Mac Pro (2013-2019) Tenga en cuenta que también necesita 64 GB o más de espacio de almacenamiento, además, también es necesaria una unidad flash USB externa con capacidad de almacenamiento de 16 GB o más, sin embargo, si tiene un Mac que no requiera una unidad flash para instalar Windows, esta no será necesaria. (Le puede interesar: ¿Quiere aprender inteligencia artificial? Estos son los mejores cursos gratis). Según la página de soporte de Apple, esta es la guía paso a paso para instalar Windows en Mac. 1. Comprobar la configuración de Arranque seguro: es necesario que aprenda a verificar su configuración de arranque seguro. La configuración predeterminada de 'Arranque seguro' es Seguridad total. Si la ha cambiado a 'Sin seguridad', vuelva a seleccionar Seguridad total antes de instalar Windows. 2. Utilice el Asistente Boot Camp para crear una partición de Windows: abra el Asistente Boot Camp, que se encuentra en la carpeta 'Utilidades de la carpeta', 'Aplicaciones'. A continuación, siga las instrucciones que aparecen en pantalla. 3. Formatee la partición de Windows (BOOTCAMP): cuando el Asistente Boot Camp termina, el dispositivo se reinicia y muestra el instalador de Windows. Si el instalador pregunta dónde instala Windows, seleccione la partición BOOTCAMP y haga clic en 'Formatear'. 4. Instalar Windows: desconecte todos los dispositivos externos que no sean necesarios para la instalación. Después, haga clic en 'Siguiente' y siga las instrucciones que aparecen en la pantalla para empezar a instalar Windows. 5. Usa el instalador de Boot Camp en Windows: cuando finalice la instalación de Windows, el Mac arranca en Windows y se abre la ventana 'Instalador de Boot Camp'. Siga las instrucciones en pantalla para instalar Boot Camp y el software de compatibilidad con Windows (controladores). Para obtener más información sobre el uso de Windows en el Mac, abre el Asistente Boot Camp y haz clic en el botón Abrir Ayuda de Boot Camp. DANIELA GUTIÉRREZ MUNAR REDACCIÓN ÚLTIMAS NOTICIAS Apple advierte sobre un 'software' espía mercenario a usuarios de casi 100 de países El fundador de Apple que vendió todas sus acciones por solo 800 dólares Apple revela qué iPhone se considera 'obsoleto' y las razones detrás de esta decisión",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T00:47:27.356+03:00",
+  "updated": "2024-04-12T00:47:27.356+03:00"
+}

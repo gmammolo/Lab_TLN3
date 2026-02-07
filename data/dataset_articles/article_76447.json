@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "79aa90b06ec834b070f7d37c2984daa790a0c2ad",
+    "url": "https://forums.unraid.net/topic/184462-wireguard-not-able-to-connect-any-peer",
+    "site_full": "forums.unraid.net",
+    "site": "unraid.net",
+    "site_section": "https://forums.unraid.net/forum/55-general-support/",
+    "site_categories": [
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "General Support - Unraid",
+    "title": "Wireguard not able to connect any peer - General Support - Unraid",
+    "title_full": "Wireguard not able to connect any peer - General Support - Unraid",
+    "published": "2025-01-10T10:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 44836,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "79aa90b06ec834b070f7d37c2984daa790a0c2ad",
+  "url": "https://forums.unraid.net/topic/184462-wireguard-not-able-to-connect-any-peer",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Fotis Yanchev",
+  "published": "2025-01-10T10:31:00.000+02:00",
+  "title": "Wireguard not able to connect any peer - General Support - Unraid",
+  "text": "Hello, have the Unraid installation for an year - did all the setup back then, but suddenly Wireguard stopped working (was using it to access remotely the shares from my remote windows location)\nJust checking the docker apps:\n- Swag - is working no error\n- CloudflaredTunnel - have a custom domain - remotely I can access the dashboard through my domain\n- DuckDns - is ok, handling the IP changes - requested static IP from ISP, should be available later today or tomorrow.\nWireguard tunnel -- where should it point for local endpoint - local IP of server, custom domain or duckdns address. Read that its good to use Remote tunneled access (have no idea and could not find peer type access explained, so to be able to choose the correct one in different scenarios)\nI have a router from ISP with 192.168.1.1 mask and my router after the ISP with 192.168.0.1 which gives a dedicated address for the server. Have created a UDP port forward from 192.168.1.1:51820 to 192.168.0.1:51820 I think its correct. Done same for swag, plex and other services.\nWhatever I do create a peer add it to my phone via file or QR -core, turn it on, it shows green but not able to connect to shares as before and Date received Data send stays at 0.\nI really do not if the issue is directly with Wireguard setup, or it conflicts with the other docker containers somehow. Would appreciate any help or advice.\nThank you in advance for your time and efforts.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->political science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T11:22:34.154+02:00",
+  "updated": "2025-01-10T11:22:34.154+02:00"
+}

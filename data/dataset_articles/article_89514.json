@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "1918da2b424caad53ba25ffd71f8eb48663103a5",
+    "url": "https://fedscoop.com/nasa-investigations-mobile-devices-overseas-china-russia-israel",
+    "site_full": "fedscoop.com",
+    "site": "fedscoop.com",
+    "site_section": "https://www.fedscoop.com/feed",
+    "site_categories": [],
+    "section_title": "FedScoop",
+    "title": "NASA has probed 200+ potential instances of devices brought abroad without authorization | FedScoop",
+    "title_full": "NASA has probed 200+ potential instances of devices brought abroad without authorization | FedScoop",
+    "published": "2024-08-15T22:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://fedscoop.com/wp-content/uploads/sites/5/2024/05/GettyImages-1241157707.jpg",
+    "performance_score": 0,
+    "domain_rank": 20838,
+    "domain_rank_updated": "2024-08-13T13:08:59.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1918da2b424caad53ba25ffd71f8eb48663103a5",
+  "url": "https://fedscoop.com/nasa-investigations-mobile-devices-overseas-china-russia-israel",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "rheilweil",
+  "published": "2024-08-15T22:00:00.000+03:00",
+  "title": "NASA has probed 200+ potential instances of devices brought abroad without authorization | FedScoop",
+  "text": "NASA has probed 200+ potential instances of devices brought abroad without authorization In the past three years, NASA has investigated more than 200 reports of either space agency devices or systems being accessed outside the country without prior authorization, which would violate internal policy regarding where mobile technology units may be brought abroad. The reports of unauthorized foreign access investigations, obtained by FedScoop through a public records request, occur when a NASA device is detected overseas without a clear prior record of a planned trip. These reports are similar to databases that FedScoop has obtained from other agencies, including [the Federal Emergency Management Agency](https://fedscoop.com/fema-employees-brought-government-devices-abroad-without-authorization-including-to-china-and-iraq-document-shows/) and [the U.S. Agency for International Development](https://fedscoop.com/more-than-1300-devices-have-been-reported-missing-to-usaid-document-shows/) — and reflect the government’s longstanding approach to restrict the use of its devices abroad. The documents do not show the results of the investigations or which countries the pings were from. These reports appear to occur for several reasons, including: a device was pinged or geolocated on non-U.S. cellular networks, a device not cleared for travel was pinged abroad, or a device had connected to a NASA system from outside the country. The documents were obtained through a public records request for reports about lost or internationally carried devices from the past three years, as well as for other information explaining rules for mobile device security abroad. NASA’s Security Operations Center (SOC) monitors connections made to networks run by the space agency. Connections made abroad are flagged to the SOC, which then investigates whether the employee linked to that device was on authorized travel, according to Jennifer Dooren, a deputy news director at the space agency. She said that when a device doesn’t have prior authorization, “that device is restricted from accessing NASA’s networks and systems.” Her statement continued: “After review and approval, NASA employees are authorized to take government IT devices abroad on official government travel. Some NASA users may be required to perform authorized federal government work on NASA IT within designated countries. Users must follow all IT devices and travel requirements. For security purposes, it’s not appropriate for NASA to disclose details on NASA device configurations or potential individual security incidents.” The agency did not address FedScoop’s questions about the extent to which NASA employees are currently traveling to Russia, or whether Russia — or any other designated country of concern — has ever taken possession of a NASA device. There are risks with taking government devices abroad, said Sean Costigan, the managing director of resilience strategy at the software company Red Sift. The reports of devices brought abroad without authorization emphasize the importance of policies and protocols designed to protect government devices before government workers travel. China and Russia, he said, maintain “aggressive intelligence collection efforts that pose a heightened risk when government-furnished property is mishandled abroad.” Greg Falco, a Cornell engineering professor focused on cybersecurity and aerospace, said the number of devices reported seemed to be “inordinate,” though he said the issue was likely due to poor communication or, potentially, a cumbersome loaner device policy. “The risks are largely relating to eavesdropping or theft, where foreign entities may target data or software on a machine of interest and monitor activity,” he said. Documents also show that NASA issued an interim directive at the end of last year governing travel with government devices, along with other related rules. According to the policy, which represents the agency’s most-current version of rules on bringing devices abroad, space agency users can bring government devices to all countries, provided they meet certain technical and specific requirements and have approval, except for Russia and states on the agency’s [Designated Countries List](https://www.nasa.gov/wp-content/uploads/2023/08/designated-country-list-4.21.2023.pdf). Those countries include Taiwan, which the U.S. does not [officially](https://www.state.gov/u-s-relations-with-taiwan/) have diplomatic relations with, as well as Israel, which is listed as having “missile technology concern,” based on the [ Commerce Department’s methodology](https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740). Other countries on the list include North Korea, Iran, and China. NASA employees are supposed to use specially configured loaner devices when visiting these countries. “Operating outside the U.S. increases these risks, mainly where telecommunication networks are owned or controlled by the host government. IT devices are always at risk for introducing malicious software, and such risks are greater when devices leave the user’s physical control,” the policy states. These risks are greatest when traveling to the Russian Federation or countries on the Designated Countries List, it adds. The document also spells out what to do in the scenario that a device is confiscated by a foreign government or by U.S. authorities, including the Transportation Security Administration and Customs and Border Protection. NASA employees are supposed to attempt to use their credentials to retain control of the device; if they’re asked for access codes to use the devices, they’re supposed to attempt to enter the device manually before giving out a password. The interim directive, which will remain in effect until December and will be replaced by another policy, comes amid growing concerns about the cybersecurity of the space industry. Last August, the Office of the Director of National Intelligence [released a brief warning](https://fedscoop.com/foreign-intelligence-warning-to-space-industry-highlights-risks/) that “foreign intelligence entities” could be targeting the commercial space industry and trying to steal technology assets. Namrata Goswami, an independent space policy expert, said “the consequence of any malicious foreign cyber actor getting access to a NASA network could mean them lurking in the network without discovery, getting access to export control technologies, and sniffing out encrypted passwords. This could have long-term strategic consequences for the United States specifically related to space technologies, which might have dual-use civil-military applicability for adversary nations to use against the U.S.” Costigan, the Red Sift cyber expert, said that given the space industry’s emerging technologies and strategic significance, the sector is “a prime target for espionage activities aimed at acquiring intellectual property and national security advantage.” “NASA devices used abroad, and their transmission of data across foreign networks, would make especially attractive targets,” he added.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "ai_allow": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://state.gov/u-s-relations-with-taiwan/)",
+    "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740).",
+    "https://www.state.gov/u-s-relations-with-taiwan/)",
+    "https://nasa.gov/wp-content/uploads/2023/08/designated-country-list-4.21.2023.pdf).",
+    "https://ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740).",
+    "https://www.nasa.gov/wp-content/uploads/2023/08/designated-country-list-4.21.2023.pdf)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "fedscoop",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nasa",
+        "sentiment": "negative"
+      },
+      {
+        "name": "federal emergency management agency",
+        "sentiment": "none"
+      },
+      {
+        "name": "fedscoop",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s. agency for international development",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T01:03:04.015+03:00",
+  "updated": "2024-08-16T01:03:04.015+03:00"
+}

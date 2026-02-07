@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "48dc18e02e939e2af3263548236d77a437d305a1",
+    "url": "https://www.oschina.net/news/367616",
+    "site_full": "www.oschina.net",
+    "site": "oschina.net",
+    "site_section": "https://oschina.net",
+    "site_categories": [
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "OSCHINA - 中文开源技术交流社区",
+    "site_title": "OSCHINA - 中文开源技术交流社区",
+    "title": "​Perplexity Comet 浏览器遭遇恶意指令攻击漏洞 - OSCHINA - 中文开源技术交流社区",
+    "title_full": "​Perplexity Comet 浏览器遭遇恶意指令攻击漏洞 - OSCHINA - 中文开源技术交流社区",
+    "published": "2025-08-20T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4406,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "48dc18e02e939e2af3263548236d77a437d305a1",
+  "url": "https://www.oschina.net/news/367616",
+  "ord_in_thread": 0,
+  "author": "白开水不加糖",
+  "published": "2025-08-20T19:00:00.000+03:00",
+  "title": "​Perplexity Comet 浏览器遭遇恶意指令攻击漏洞 - OSCHINA - 中文开源技术交流社区",
+  "text": "推广 | 这一次的源创会，不会只让你坐着听讲 Perplexity 公司推出的基于人工智能的 Comet 浏览器近日被发现存在处理未验证输入的严重安全漏洞。这一漏洞使得浏览器在请求对网页内容进行总结时，能够随意接受并处理页面上的文本，包括那些隐藏的恶意指令。这种攻击方式被称为间接提示注入攻击。\n该漏洞的发现者是竞争对手 Brave 浏览器的安全团队，他们在比较自家 AI 服务 Leo 与其他浏览器的 AI 实现时，注意到了 Comet 的安全问题。Brave 的 高级 移动安全工程师 Artem Chaikin 和隐私与安全副总裁 Shivan Kaul Sahib 在一篇博客中提到:“我们在研究 Comet 时发现了这些漏洞，并向 Perplexity 报告了这些问题，这突显了浏览器中代理 AI 实现所面临的安全挑战。”\n他们表示，这种漏洞表明，人工智能在处理网页内容时无法自行区分用户的指令与页面中的不可信内容。Chaikin 和 Sahib 进一步解释，他们创建了一个概念验证攻击示例，其中恶意指令被隐藏在 Reddit 页面的 “剧透” 标签后面。当 Comet 被请求总结该页面时，它获取了这些指令，并成功提取了一次性密码，进而获得了用户的 Perplexity 账户访问权限。\n这一问题并非 首次 出现。在此之前，AI 代码编辑器 Cursor 也修复了类似的间接提示注入漏洞，谷歌的 Gemini for Workspace AI 助手也曾面临此类问题。这使得基本的网络安全原则再次受到关注。Chaikin 和 Sahib 指出:“Perplexity Comet 中的这一漏洞凸显了代理 AI 浏览器面临的根本挑战:确保代理仅执行与用户意图一致的操作。”\nPerplexity 方面尚未对此漏洞的修复情况做出回应。尽管 Brave 报告称该漏洞已在2025年8月13日得到修复，但 Brave 的一位发言人表示，Perplexity 并没有分享修复方案，且其代码并非开源。他们还表示，无法保证 Comet 已经彻底修复所有可能的提示注入攻击。至于 Brave 的 Leo 是否经历过类似问题，该发言人称，Leo 的 AI 总结功能无法触发浏览器以代理身份执行独立操作。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->cyber crime",
+    "Social Issue->social networking",
+    "Social Issue->discrimination",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:36:02.694+03:00",
+  "updated": "2025-08-21T11:42:57.000+03:00"
+}

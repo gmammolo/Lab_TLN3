@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "ca49ec80ead8562d6667b042a438d2d597f18403",
+    "url": "https://www.news.de/technik/858878254/keycloak-gefaehrdet-bsi-meldung-zur-it-sicherheit-linux-und-unix-betroffen-schwachstelle-ermoeglicht-versand-beliebiger-e-mails/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "IT-Sicherheit: Linux und UNIX bedroht - IT-Sicherheitshinweis zu neuem Bug bei Keycloak",
+    "title_full": "IT-Sicherheit: Linux und UNIX bedroht - IT-Sicherheitshinweis zu neuem Bug bei Keycloak",
+    "published": "2025-08-21T12:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771814/images/d1/1c/7f165b3a1447f1d83791024a1b96/nopic/no_pic/1200/675/1/1/176/3/671/377/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771814_1200x675_9c7b04671f0e8a79d584b4d7e2283a86.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ca49ec80ead8562d6667b042a438d2d597f18403",
+  "url": "https://www.news.de/technik/858878254/keycloak-gefaehrdet-bsi-meldung-zur-it-sicherheit-linux-und-unix-betroffen-schwachstelle-ermoeglicht-versand-beliebiger-e-mails/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:36:00.000+03:00",
+  "title": "IT-Sicherheit: Linux und UNIX bedroht - IT-Sicherheitshinweis zu neuem Bug bei Keycloak",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 19.08.2025 einen Sicherheitshinweis für Keycloak herausgegeben. Betroffen von der Sicherheitslücke sind die Betriebssysteme Linux und UNIX sowie das Produkt Open Source Keycloak.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: GitHub Keycloak Issue #41808 (Stand: 19.08.2025). Weitere nützliche Quellen werden weiter unten in diesem Artikel aufgeführt.\nSicherheitshinweis für Keycloak - Risiko: mittel\nRisikostufe: 3 (mittel)\nCVSS Base Score: 6,8\nCVSS Temporal Score: 5,9\nRemoteangriff: Ja\nZur Bewertung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Kriterien miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Beim Temporal Score fließen über die Zeit veränderbare Rahmenbedingungen in die Bewertung ein. Der Schweregrad der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 6,8 als \"mittel\" eingestuft.\nKeycloak Bug: Schwachstelle ermöglicht Versand beliebiger E-Mails\nKeycloak ermöglicht Single Sign-On mit Identity and Access Management für moderne Anwendungen und Dienste.\nEin entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um beliebige E-Mails zu senden.\nKlassifiziert wurde die Schwachstelle mithilfe des CVE-Bezeichnungssystems (Common Vulnerabilities and Exposures) durch die individuelle Seriennummer CVE-2025-7962.\nVon der Keycloak-Sicherheitslücke betroffene Systeme im Überblick\nBetriebssysteme\nLinux, UNIX\nProdukte\nOpen Source Keycloak <26.3.3 (cpe:/a:keycloak:keycloak)\nOpen Source Keycloak 26.3.3 (cpe:/a:keycloak:keycloak)\nAllgemeine Maßnahmen zum Umgang mit IT-Sicherheitslücken\n- Anwender der betroffenen Systeme sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten neue Sicherheitsupdates verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten regelmäßig prüfen, wann das herstellende Unternehmen ein neues Sicherheitsupdate zur Verfügung stellt.\nQuellen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nGitHub Keycloak Issue #41808 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://github.com/keycloak/keycloak/issues/41808\nKeycloak 26.3.3 release vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://www.keycloak.org/2025/08/keycloak-2633-released\nVersionshistorie dieses Sicherheitshinweises\nDies ist die initiale Fassung des vorliegenden IT-Sicherheitshinweises für Keycloak. Bei Bekanntgabe von Updates wird dieser Text aktualisiert. Änderungen oder Ergänzungen können Sie in dieser Versionshistorie nachlesen.\n19.08.2025 - Initiale Fassung\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific standards",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social services",
+    "Social Issue->social condition",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/News.de",
+    "https://github.com/keycloak/keycloak/issues/41808",
+    "https://twitter.com/news_de",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://www.keycloak.org/2025/08/keycloak-2633-released",
+    "https://pin.it/11NQyAf",
+    "https://facebook.com/News.de",
+    "https://www.pin.it/11NQyAf",
+    "https://www.twitter.com/news_de",
+    "https://www.github.com/keycloak/keycloak/issues/41808",
+    "https://keycloak.org/2025/08/keycloak-2633-released",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "BSI",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "UNIX",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:34.554+03:00",
+  "updated": "2025-08-22T14:09:11.000+03:00"
+}

@@ -1,0 +1,147 @@
+{
+  "thread": {
+    "uuid": "19293bfcc7416f7e8aa681d5a717bf677970bee2",
+    "url": "https://www.techinasia.com/news/anthropic-qatars-wealth-fund-backing-13b",
+    "site_full": "www.techinasia.com",
+    "site": "techinasia.com",
+    "site_section": "https://www.techinasia.com/wp-json/techinasia/2.0/categories/news/posts?page=1&per_page=30",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "",
+    "site_title": "Tech in Asia - Connecting Asia's startup ecosystem",
+    "title": "Anthropic gets Qatar's wealth fund backing in $13b round",
+    "title_full": "Anthropic gets Qatar's wealth fund backing in $13b round",
+    "published": "2025-09-04T00:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ID",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3512,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "19293bfcc7416f7e8aa681d5a717bf677970bee2",
+  "url": "https://www.techinasia.com/news/anthropic-qatars-wealth-fund-backing-13b",
+  "ord_in_thread": 0,
+  "author": "Naomi Li Gan",
+  "published": "2025-09-04T00:10:00.000+03:00",
+  "title": "Anthropic gets Qatar's wealth fund backing in $13b round",
+  "text": "Anthropic has named the Qatar Investment Authority (QIA) as a major backer in its US$13 billion funding round, which values the AI startup at US$183 billion.\nQIA joins existing investors including Amazon and Goldman Sachs.\nThis marks the first time Anthropic, which develops advanced AI models, has accepted investment from a Middle Eastern sovereign wealth fund.\nQIA is the only Gulf fund among over 20 investors in the round.\nQIA has recently increased its technology investments, including stakes in firms such as Databricks, xAI, Instabase, and Applied Intuition.\n🔗 Source: Bloomberg\n🧠 Food for thought 1️⃣ Late tech entry creates catch-up pressure for Gulf sovereign funds Qatar’s investment timeline reveals how sovereign wealth funds can miss critical technology waves despite massive resources.\nThe QIA shifted to tech investing in 2021, just one year before ChatGPT launched and triggered the AI investment boom 1 . This late entry contrasts with the fund’s traditional focus on “trophy assets” like Credit Suisse and Harrods since its 2005 founding 1 .\nThe timing disadvantage is now driving aggressive catch-up strategies, with Qatar planning to double its annual tech deals from 10-15 to 25 transactions 1 .\nMeanwhile, competitors moved faster: Abu Dhabi’s MGX had already invested in OpenAI, while Saudi’s Kingdom Holdings established positions in xAI before Qatar entered the market 1 .\nThis demonstrates how even well-funded institutional investors can struggle with timing in rapidly evolving sectors, forcing them into more aggressive deployment strategies to compensate for lost ground.\n2️⃣ Startup failures drive sovereign funds toward risk-adjusted investment models Qatar’s Builder.ai disaster illustrates how sovereign wealth funds adapt their strategies after high-profile losses, even with board representation.\nThe QIA held a board seat at Builder.ai when the British startup collapsed in 2023 after investors discovered the former CEO had allegedly overinflated sales, forcing the fund to write off its investment from a $1.5 billion valuation to zero 1 .\nThis failure prompted immediate strategy changes: Qatar now limits startup positions to under 15% equity and typically invests $25-100 million per deal, compared to previous larger concentrated bets 1 .\nThe approach reflects broader institutional learning in venture investing, where even sophisticated investors with governance rights can face information asymmetries that lead to complete losses.\nOther sovereign funds have adopted similar defensive strategies, with the trend toward smaller checks and minority positions becoming standard practice for government-backed investors entering high-risk sectors like AI.\nRecent Anthropic developments",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business financing",
+    "Economy, Business and Finance->investment and opinion pieces",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->biotechnology",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social condition",
+    "Social Issue->charity",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bloomberg.com/news/articles/2025-09-03/qatar-s-wealth-fund-qia-plans-to-back-more-ai-startups-after-anthropic-xai-bets",
+    "https://bloomberg.com/news/articles/2025-09-03/qatar-s-wealth-fund-qia-plans-to-back-more-ai-startups-after-anthropic-xai-bets"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Gulf",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Qatar Investment Authority",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Credit Suisse",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Goldman Sachs",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "GS",
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Bloomberg",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-04T07:52:36.880+03:00",
+  "updated": "2025-09-04T07:57:29.000+03:00"
+}

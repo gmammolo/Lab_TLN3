@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "f290330a5630c41508171ba2daa36975e5b7e275",
+    "url": "https://levelup.gitconnected.com/the-invisible-cpu-hog-thats-slowing-down-your-website-and-how-to-fix-it-aeb2a32b7097?source=collection_home---4------1-----------------------",
+    "site_full": "levelup.gitconnected.com",
+    "site": "gitconnected.com",
+    "site_section": "https://levelup.gitconnected.com",
+    "site_categories": [
+      "javascript",
+      "tech"
+    ],
+    "section_title": "Level Up Coding",
+    "title": "The Invisible CPU Hog That’s Slowing Down Your Website 🐢(And How to Fix It)",
+    "title_full": "The Invisible CPU Hog That’s Slowing Down Your Website 🐢(And How to Fix It)",
+    "published": "2024-11-14T23:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*rPCcfrkLGA-AlZc0",
+    "performance_score": 0,
+    "domain_rank": 17382,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f290330a5630c41508171ba2daa36975e5b7e275",
+  "url": "https://levelup.gitconnected.com/the-invisible-cpu-hog-thats-slowing-down-your-website-and-how-to-fix-it-aeb2a32b7097?source=collection_home---4------1-----------------------",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Harsha Vardhan",
+  "published": "2024-11-14T23:29:00.000+02:00",
+  "title": "The Invisible CPU Hog That’s Slowing Down Your Website 🐢(And How to Fix It)",
+  "text": "Uncover the secret performance killer lurking in your CSS and DOM manipulations — and learn the simple trick that will make your pages fly As web developers, we often focus on flashy features, eye-catching designs, and the latest JavaScript frameworks. But there’s an invisible performance bottleneck that’s silently dragging down the user experience of even the most polished websites. It’s called reflow — and if you’re not careful, it can turn your carefully crafted layouts into a CPU-melting mess. What is Reflow, and Why Should You Care? Reflow is the process that occurs when the browser needs to recalculate the position and geometry of elements on the page. This happens any time the DOM or styles are modified, whether through JavaScript, CSS animations, or user interactions. The problem is, reflow is an incredibly CPU-intensive operation. The browser has to traverse the entire DOM and CSS object model, recalculate all the affected layout, and then repaint the screen. For complex pages with thousands of elements, this can bring even the beefiest of machines to a crawl.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Business and Market Analysis"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T00:34:00.469+02:00",
+  "updated": "2024-11-15T08:06:10.838+02:00"
+}

@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "4523c9f89fda63825a2f01b462c01c0c412746b5",
+    "url": "https://executivedigest.sapo.pt/noticias/cibercriminosos-recorrem-a-inteligencia-artificial-para-criar-esquemas-de-phishing-em-larga-escala",
+    "site_full": "executivedigest.sapo.pt",
+    "site": "sapo.pt",
+    "site_section": "https://executivedigest.sapo.pt/termos-de-utilizacao/",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Termos de Utilização - Executive Digest",
+    "title": "Cibercriminosos recorrem \\u00e0 Intelig\\u00eancia Artificial para criar esquemas de phishing em larga escala",
+    "title_full": "Cibercriminosos recorrem \\u00e0 Intelig\\u00eancia Artificial para criar esquemas de phishing em larga escala",
+    "published": "2024-11-15T16:36:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PT",
+    "main_image": "https://executivedigest.sapo.pt/wp-content/uploads/2018/12/Ciber-risco2.jpg",
+    "performance_score": 0,
+    "domain_rank": 1853,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4523c9f89fda63825a2f01b462c01c0c412746b5",
+  "url": "https://executivedigest.sapo.pt/noticias/cibercriminosos-recorrem-a-inteligencia-artificial-para-criar-esquemas-de-phishing-em-larga-escala",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "André Manuel Mendes",
+  "published": "2024-11-15T16:36:00.000+02:00",
+  "title": "Cibercriminosos recorrem \\u00e0 Intelig\\u00eancia Artificial para criar esquemas de phishing em larga escala",
+  "text": "Os cibercriminosos estão a utilizar grandes modelos de linguagem (LLMs) para criar conteúdos fraudulentos, incluindo páginas de phishing e esquemas em grande escala, revelou o Centro de Investigação de IA da Kaspersky. Este fenómeno, que visa sobretudo utilizadores de carteiras de criptomoedas, está a facilitar a automatização de ataques que anteriormente exigiam trabalho manual. De acordo com os especialistas da Kaspersky, os LLMs permitem a criação de múltiplas páginas web de alta qualidade, deixando, no entanto, vestígios característicos no conteúdo e no código HTML. Entre os sinais mais evidentes estão frases como “Como um modelo de linguagem de IA…” ou estruturas concessivas como “Embora eu não possa fazer exatamente o que quer, posso tentar algo semelhante”, que têm sido identificadas em páginas fraudulentas de plataformas como KuCoin, Gemini e Exodus. Além disso, estas páginas apresentam frequentemente elementos únicos nos textos e metadados, como o uso de expressões específicas (“in the ever-evolving landscape” ou “delve”) e símbolos Unicode para dificultar a deteção pelas ferramentas de segurança. Um exemplo notório é uma página de phishing que imita o website Crypto[.]com, onde elementos como acentos diacríticos e caracteres não padronizados foram usados para ofuscar informações críticas. “Com os LLMs, os atacantes podem automatizar a criação de dezenas ou mesmo centenas de páginas web de phishing e scam com conteúdo único e de alta qualidade. Anteriormente, isto exigia esforço manual, mas agora, através da IA os cibercriminosos podem gerar esse conteúdo automaticamente”, explica Vladislav Tushkanov, Diretor do Grupo de Desenvolvimento de Investigação da Kaspersky. Para combater estas ameaças, a Kaspersky recomenda verificar cuidadosamente as hiperligações antes de clicar, introduzir diretamente o endereço do site no navegador, e optar por soluções de segurança avançadas que incluam funcionalidades de navegação segura.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:49:43.891+02:00",
+  "updated": "2024-11-15T18:49:43.891+02:00"
+}

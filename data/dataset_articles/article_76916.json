@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "5f769cdd980f8348cba18b2b1e4cd8ccafcf3b79",
+    "url": "https://news.pedaily.cn/202508/553570.shtml",
+    "site_full": "news.pedaily.cn",
+    "site": "pedaily.cn",
+    "site_section": "https://www.pedaily.cn/all",
+    "site_categories": [
+      "hobbies_and_interests",
+      "investors_and_patents",
+      "finance",
+      "financial_news"
+    ],
+    "section_title": "\r\n\t滚动资讯_投资界：播报投资界投资并购动态\r\n",
+    "site_title": "投资界_创业与投资资讯平台",
+    "title": "「无限量」供应Claude，就是AI IDE们的百亿补贴",
+    "title_full": "「无限量」供应Claude，就是AI IDE们的百亿补贴",
+    "published": "2025-08-14T09:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://pic2.pedaily.cn/23/202302/20230223143948004800.jpg",
+    "performance_score": 0,
+    "domain_rank": 31826,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5f769cdd980f8348cba18b2b1e4cd8ccafcf3b79",
+  "url": "https://news.pedaily.cn/202508/553570.shtml",
+  "ord_in_thread": 0,
+  "author": "董道力",
+  "published": "2025-08-14T09:14:00.000+03:00",
+  "title": "「无限量」供应Claude，就是AI IDE们的百亿补贴",
+  "text": "Anthropic于2025年7月28日宣布，将从 8月28日起对Claude Code工具新增每周调用限额 ——因为少数重度用户全天候高频使用，一次使用成本甚至高达数万美元，远远超过普通订阅预期。\n同样在上个月，Cursor曾因其“I’ll keep it unlimited”的Pro收费模式悄然变更为计算tokens限制，导致大量用户抱怨“实际上并非无限”，纷纷在社群中吐槽，迫使公司CEO出面道歉、甚至给出退款补偿。\n这两个案例共通之处在于：\n曾经极力宣传的“免费/无限Claude调用”模式，如今因为成本被迫收手。AI IDE厂商们一度将“无限调用Claude”作为最强增长武器，用补贴换取用户粘性与传播，却忽略了补贴模型的内在脆弱性—— 当调用成本爆炸、资本支撑减弱时，“无限”标签迅速变成信任的裂缝 。\n1\nAI IDE同质化严重，谁能提供免费模型谁就是最 好的？\n过去半年，AI IDE赛道热闹非常。Cursor与Amp在技术社区迅速登顶话题榜，国内腾讯字节分别推出CodeBuddy和Trae分庭抗礼，开源工具Windsurf和Kiro则借助社区效应异军突起。几乎每天都有用户晒体验、讨论demo、对比速度。\n然而，打开这些IDE，会发现其功能几乎高度同质化，核心提供的都是自动补全、自然语言提示、多文件编辑与对话式交互，而其背后的算力来源，绝大部分依赖Claude、GPT‑4、Gemini等大模型接口。即便界面、交互或用色风格略有不同， 但对开发者而言，关键体验没有本质差异。\n即便有厂商试图通过某项独特功能创新杀出重围，几乎瞬间就会被竞争对手高速“复刻”。一旦某家上线新的补全机制或接口直连方案，其它厂商只需短时间内模仿即可赶上。正如业内分析指出，产品之间的切换成本极低，开发者可以轻松从Cursor切换到Windsurf，而双方的核心功能几乎没有差别。\n当市场不再被功能创新吸引，用户的决策则会迅速转移到“算力价格”这一个维度，说白了，哪个IDE能让你用最少成本调用最多次数的Claude，成为了用户最关心的。\n回应这种需求，Cursor、Windsurf等厂商纷纷将“Claude免费调用”或“点对点直连Claude模型”作为最重要的宣传标签。\n在社区中有开发者表示，他们几乎可以“无限使用Claude Sonnet 4”，即便免费额度耗尽，仍可以继续调用。甚至出现， 在Cursor使用Claude模型，比在Anthropic中使用还便宜的离谱状况。\n2\nAI软件不是互联网软件，用户越多，成本越高？\n在AI IDE的扩张竞赛中，“无限调用Claude”曾被视为最有效的用户增长杠杆。无论是Cursor在社区反复强调的“unlimited Pro”，还是Windsurf们推出的“点对点直连Claude接口”， 本质都是一场以低价乃至免费算力获取用户注意力与粘性的补贴战。\n对于经历过“打车大战”、“外卖大战”的用户来说早已司空见惯，这类策略的核心逻辑并不复杂：先用补贴换取用户，再靠留存数据吸引下一轮融资。\n但落地到AI工具上，却呈现出完全不同的成本曲线。一方面，AI IDE的基础服务几乎全部依赖外部模型API，每一次补全、重构、解释代码的操作，背后都对应真实的计算成本。另一方面，用户越活跃、调用频率越高，平台承担的算力成本就越高，单个用户从“资产”迅速转化为“负债”。一个每天用Cursor写代码十小时的用户，带来的可能不是盈利，而是连续几天的巨额亏损。\n此外，大模型API的调用成本至今没有可见的“规模红利”。传统SaaS产品的成本与AI软件相比，边际成本几乎为零。而AI IDE厂商即便拥有百万用户，也无法在底层成本上获得本质性削减。\n因此，2025年6月，Cursor不得不对订阅体系进行调整，将原本标榜“无限”的Pro订阅计划加入调用次数限制，并开始收取额外费用，直接引爆了社区情绪。大量用户发现，自己支付的订阅费并未涵盖真实使用需求，不得不为Claude调用额外付费；更有用户将其形容为“开了流量阀门的AI水龙头，越用越破产”。迫于压力，Cursor创始团队接连在Discord道歉，并为部分用户发放退款补偿。\n3\n高 ARR ≠ 高盈利，Cursor 的“红利陷阱”\nAI IDE 厂商们如今正面临一个极为残酷的现实，过去靠补贴Claude调用资源赢得增长红利的比赛，正逐渐逼近终点。下一阶段的竞争，不再是谁烧钱烧得猛，而是 谁能率先在产品形态与商业路径上跑通正循环 。\n换言之，单靠算力补贴换增长的策略暴露出一个核心问题： 并非所有增长都能带来盈利 。\nCursor虽然凭借快速迭代＋产品驱动增长，实现 ARR 的极速飞升——从2024年的约1亿美元跃升至2025年5月的约5亿美元，创造了SaaS界史上最快增速记录 ，但多个行业观察者强调，这并不等同于盈利。\n有分析师（Ed Zitron）指出，包括Cursor在内的几乎所有生成式AI软件公司，都面临 深度亏损的现实 。它们的产品只能以极低的或亏损的价格提供服务，无法覆盖模型调用支出和运营成本 。Reddit社区也有人直言：Cursor的营收虽高，但扣除硬件、电力、算力、研发和客户支持等成本后，利润微乎其微。\n即便Cursor拥有几百万用户、估值也得到推高至近百亿美元，但当高频用户每天因模型调用消耗达数十美元，VC补贴成为维持增长的重要支撑时，就意味着： 高 ARR 只是表象，若无法有效控制调用成本，盈利只是妄想 。\n而这种格局里，对于Cursor这样的AI编程初创公司来说，虽然已经估值上天、关注度极高，但仍然面临另一个“陷阱”，就是和大厂旗下AI编程业务的不对等竞争。\nCursor们既要承受高昂的调用成本，又要面对投资人对增长曲线的持续期待，一旦融资环境收紧、估值支撑动摇，就很容易陷入“补不起、涨不起、转不动”的困境。对于依赖外部模型的AI IDE来说，成本结构的刚性让它们几乎没有腾挪空间，哪怕想通过提价修正，都可能瞬间引发用户流失。\n而另一边，用着同样补贴策略的，却是大厂里的AI编程产品。它们在算账逻辑上完全不同——不需要每一条调用都单独算盈利，而是可以将AI IDE当作开发者生态的入口，与云服务、广告、付费API、硬件等长链路营收一起“算总账”。在这样的全局视角里，短期的亏损补贴只是投资未来的手段——毕竟，“百亿补贴”本就是大厂们最熟练掌握的打法。\n这意味着，接下来的竞争中，一个重要的变量正在成型：如果补贴战继续打下去，创业公司会越烧越吃力，而大厂则可能越打越强。对于开发者而言，这也许是一场从“谁给Claude更便宜”到“谁能给我更完整生态”的迁移；而对于创业公司来说，如何在大厂的总账逻辑之外找到独立生存的护城河，除了“打不过就加入”之外，能否找到另外的路，成了最重要的考验。\n【本文由投资界合作伙伴硅星人授权发布，本平台仅提供信息存储服务。】如有任何疑问，请联系（editor@zero2ipo.com.cn）投资界处理。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Social Issue->social networking",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:37:19.076+03:00",
+  "updated": "2025-08-14T09:47:30.000+03:00"
+}

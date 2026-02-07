@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "b2ba5e7299d2fdaeba2080cde684e870972b9772",
+    "url": "https://cybersecuritynews.com/hackers-leveraging-google-docs-weebly-services",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://www.cybersecuritynews.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "Hackers Leveraging Google Docs & Weebly Services To Attack Telecom Industries",
+    "title_full": "Hackers Leveraging Google Docs & Weebly Services To Attack Telecom Industries",
+    "published": "2024-11-22T15:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 56464,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b2ba5e7299d2fdaeba2080cde684e870972b9772",
+  "url": "https://cybersecuritynews.com/hackers-leveraging-google-docs-weebly-services",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T15:38:00.000+02:00",
+  "title": "Hackers Leveraging Google Docs & Weebly Services To Attack Telecom Industries",
+  "text": "A sophisticated phishing campaign targeting the telecommunications and financial sectors has been uncovered recently by the cybersecurity researchers at EclecticIQ in late October 2024.\nThe attackers employed a cunning strategy, utilizing Google Docs to deliver phishing links that redirected victims to fake login pages hosted on Weebly, a popular website builder service.\nThe threat actors exploited the trusted reputation of Google’s domain to bypass standard email filters and endpoint protections.\nBy embedding malicious links within Google Docs , the attackers leveraged the inherent trust associated with widely used platforms, increasing the likelihood of user engagement.\nSecurity analysts at EclecticIQ discovered that Weebly’s legitimate infrastructure played a crucial role in this campaign:-\nLow-cost hosting and ease of use made it attractive to financially motivated threat actors Its established reputation helped evade anti-phishing scanners Attackers could avoid the complexity of self-hosted servers Leveraging 2024 MITRE ATT&CK Results for SME & MSP Cybersecurity Leaders – Attend Free Webinar\nTechnical Analysis The campaign demonstrated a high level of customization, with phishing pages meticulously designed to mimic login portals of specific brands such as AT&T and various financial institutions.\nUS-based telecommunications-institution (Source – EclecticIQ) This industry-specific approach increased the credibility of phishing lures, as victims were more likely to trust interfaces aligned with their work environment.\nHere below we have mentioned all the key features of the campaign:-\nUse of Weeblysite domains (e.g., att-mail-102779[.]weeblysite[.]com) Customized phishing pages for multiple sectors Dynamic DNS infrastructure for frequent URL rotation Targeting of both EMEA and AMER regions MFA phishing prompt on secured1st-accesscode[.]weebly[.]com (Source – EclecticIQ) To increase success rates, attackers implemented fake Multi-Factor Authen t ication (MFA) prompts that closely replicated legitimate security steps. For instance, the secured1st-accesscode[.]weebly[.]com page prompted victims to enter a “secure access code,” mimicking genuine MFA workflows.\nThe phishing pages incorporated legitimate tracking tools such as Snowplow Analytics and Google Analytics. These tools allowed attackers to monitor victim engagement, collect interaction data, and refine their phishing techniques over time.\nIn addition to phishing, attackers targeted telecom accounts with SIM swapping techniques. By obtaining telecom account credentials, they could initiate SIM swaps, intercepting SMS-based MFA codes and other communications tied to victims’ accounts.\nThe phishing kits utilized HTML forms that closely mimicked legitimate login pages for targeted brands. Attackers leveraged Weebly’s quick deployment features and dynamic DNS for subdomain rotation to evade detection.\nTo counter such sophisticated attacks, organizations should implement:-\nAdvanced email filtering for cloud-shared documents Proactive DNS monitoring Mandatory Multi-Factor Authentication (MFA) and credential hygiene Detection systems for phishing kit artifacts Experts urged that organizations must remain vigilant and adapt their security measures to combat these advanced phishing tactics.\nIoCs IoCs (Source – EclecticIQ) Are you from SOC/DFIR Teams? – Analyse Malware & Phishing with ANY.RUN -> Try for Free",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blog.eclecticiq.com/financially-motivated-threat-actor-leveraged-google-docs-and-weebly-services-to-target-telecom-and-financial-sectors",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSia5HOvrxFnDaZ8E-niEvz4HF-VCHuRerrrsCd5-Vg0bBfg-19Rvyla29DuDdLXdjKB3gBBa5ado9bXcPKcigL7L0qUzhyussozgklHMcTsUzzYmOTBNldp0lefqvh5iCmPAj4LlWPqiUAptlBDyWnbCAU0On4VKTfmQUdMaCyZijHmlnJjH8zGCzHtc/s16000/IoCs%20(Source%20-%20EclecticIQ).webp",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgipZyC5D8nN4x1z_TTku3RmEpzikLhbaxbVBiykgUyKUMLMLRbse6CJvPmgvofEDfM4Mk0MKglR_NwNeG7opWGUDZ16_aPPDbIVUbPxcLF0iTY0v1BxpzkVlGTaC6e943SiI5LsYLeAR0P8CjtWfSahNBhbA3msp-oxnYMboMuPW3eO4xBJaGksQD_Fk4/s16000/US-based%20telecommunications-institution%20(Source%20-%20EclecticIQ).webp",
+    "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTs5zoopOzhn0rX_-aaRQbRq5Fsn1wZ9sUQP3Re-zLT254-LtotMlmiG00PzNT_I3zZPtggPQqWXuPiAjvkklK7MeOwKEyViYL73kohyphenhyphen81QTssfPlM5wz86Oo50cyECAP8qk0AqwPmigy9cG9J4SdvfwugOqyHJKkKbWcmT2Q97eJgA6TgYD5Zq9ImNe4/s16000/MFA%20phishing%20prompt%20on%20secured1st-accesscode%5B.%5Dweebly%5B.%5Dcom%20(Source%20-%20EclecticIQ).webp",
+    "https://www.blog.eclecticiq.com/financially-motivated-threat-actor-leveraged-google-docs-and-weebly-services-to-target-telecom-and-financial-sectors",
+    "https://www.go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSia5HOvrxFnDaZ8E-niEvz4HF-VCHuRerrrsCd5-Vg0bBfg-19Rvyla29DuDdLXdjKB3gBBa5ado9bXcPKcigL7L0qUzhyussozgklHMcTsUzzYmOTBNldp0lefqvh5iCmPAj4LlWPqiUAptlBDyWnbCAU0On4VKTfmQUdMaCyZijHmlnJjH8zGCzHtc/s16000/IoCs%20(Source%20-%20EclecticIQ).webp",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTs5zoopOzhn0rX_-aaRQbRq5Fsn1wZ9sUQP3Re-zLT254-LtotMlmiG00PzNT_I3zZPtggPQqWXuPiAjvkklK7MeOwKEyViYL73kohyphenhyphen81QTssfPlM5wz86Oo50cyECAP8qk0AqwPmigy9cG9J4SdvfwugOqyHJKkKbWcmT2Q97eJgA6TgYD5Zq9ImNe4/s16000/MFA%20phishing%20prompt%20on%20secured1st-accesscode%5B.%5Dweebly%5B.%5Dcom%20(Source%20-%20EclecticIQ).webp",
+    "https://go.cynet.com/mitre_2024",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgipZyC5D8nN4x1z_TTku3RmEpzikLhbaxbVBiykgUyKUMLMLRbse6CJvPmgvofEDfM4Mk0MKglR_NwNeG7opWGUDZ16_aPPDbIVUbPxcLF0iTY0v1BxpzkVlGTaC6e943SiI5LsYLeAR0P8CjtWfSahNBhbA3msp-oxnYMboMuPW3eO4xBJaGksQD_Fk4/s16000/US-based%20telecommunications-institution%20(Source%20-%20EclecticIQ).webp",
+    "https://app.any.run/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "b2ba5e7299d2fdaeba2080cde684e870972b9772",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:55:40.174+02:00",
+  "updated": "2024-11-22T15:55:40.174+02:00"
+}

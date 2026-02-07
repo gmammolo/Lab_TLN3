@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "c83b3d8c56e652460e1a53b00caf878cb79763ef",
+    "url": "https://www.rhein-zeitung.de/deutschland-welt/panorama/hurrikan-imelda-fegt-ueber-bermuda_arid-4072889.html",
+    "site_full": "www.rhein-zeitung.de",
+    "site": "rhein-zeitung.de",
+    "site_section": "https://rhein-zeitung.de/deutschland-welt",
+    "site_categories": [
+      "sports"
+    ],
+    "section_title": "Deutschland &amp; Welt - Rhein-Zeitung",
+    "site_title": "Startseite - Rhein-Zeitung",
+    "title": "Wirbelsturm: Hurrikan «Imelda» fegt über Bermuda",
+    "title_full": "Wirbelsturm: Hurrikan «Imelda» fegt über Bermuda",
+    "published": "2025-10-02T07:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.rhein-zeitung.de/cms_media/module_img/8295/4147894_1_defaultxl_Hurrikan_Imelda_hat_die_Inselgruppe_Bermuda_im_Nordatlantik_erreicht..webp",
+    "performance_score": 0,
+    "domain_rank": 23448,
+    "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c83b3d8c56e652460e1a53b00caf878cb79763ef",
+  "url": "https://www.rhein-zeitung.de/deutschland-welt/panorama/hurrikan-imelda-fegt-ueber-bermuda_arid-4072889.html",
+  "ord_in_thread": 0,
+  "author": "Dpa",
+  "published": "2025-10-02T07:11:00.000+03:00",
+  "title": "Wirbelsturm: Hurrikan «Imelda» fegt über Bermuda",
+  "text": "Hamilton (dpa) – Der Hurrikan «Imelda» hat die Inselgruppe Bermuda im Nordatlantik erreicht. Mit anhaltenden Windgeschwindigkeiten von 155 Kilometern pro Stunde bewege sich das Zentrum des Sturms der Stufe zwei von fünf in den kommenden Stunden über die Insel, teilte das US-Hurrikanzentrum am späten Mittwochabend (Ortszeit) mit.\nDas Zentrum warnte vor Winden in Hurrikan-Stärke und Niederschlägen von bis zu 100 Litern pro Quadratmeter, die Sturzfluten auslösen könnten. Außerdem werde eine gefährliche Sturmflut mit «großen und zerstörerischen Wellen» erwartet.\nKursänderung durch zweiten Sturm\nFrühere Voraussagen waren davon ausgegangen, dass «Imelda» an der Inselgruppe vorbeizieht. Die plötzliche Kursänderung in Richtung des britischen Überseegebiets hänge mit dem Sturm «Humberto» zusammen, der am Dienstag ebenfalls als Hurrikan an Bermuda vorbeigezogen war und den Kurs von «Imelda» beeinflusst habe, schrieb die örtliche Zeitung «The Royal Gazette».\nBereits am Montag hatte «Imelda» in der Karibik heftige Regenfälle und Überschwemmungen verursacht. Auf Kuba starben zwei Menschen in den östlichen Provinzen Guantánamo und Santiago de Cuba, wie Ministerpräsident Manuel Marrero Cruz auf der Plattform X mitteilte.\nTropische Wirbelstürme entstehen über warmem Ozeanwasser. Die Hurrikansaison beginnt im Atlantik am 1. Juni und dauert offiziell bis zum 30. November.\n© dpa-infocom, dpa:251002-930-113108/1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Hamilton",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bermuda im Nordatlantik",
+        "sentiment": "none"
+      },
+      {
+        "name": "Karibik",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kuba",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      },
+      {
+        "name": "The Royal Gazette",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-02T09:42:47.242+03:00",
+  "updated": "2025-10-02T09:47:35.000+03:00"
+}

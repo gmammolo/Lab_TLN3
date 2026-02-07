@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "063c85b1c8700777269f66fd7a65d48cbd597c37",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/ukraine-military-targeted-with-russian-apt-powershell-attack",
+    "site_full": "www.darkreading.com",
+    "site": "darkreading.com",
+    "site_section": "https://www.darkreading.com:443/rss.xml",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "darkreading",
+    "title": "Ukraine Military Targeted With Russian APT PowerShell Attack",
+    "title_full": "Ukraine Military Targeted With Russian APT PowerShell Attack",
+    "published": "2024-02-01T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9352a5c08aa5a3fc/65bc03aea381e50407fdbd9a/bearworm-Design_Pics_Inc-alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop",
+    "performance_score": 0,
+    "domain_rank": 3759,
+    "domain_rank_updated": "2024-01-30T12:05:46.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "063c85b1c8700777269f66fd7a65d48cbd597c37",
+  "url": "https://www.darkreading.com/cyberattacks-data-breaches/ukraine-military-targeted-with-russian-apt-powershell-attack",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nathan Eddy, Contributing Writer",
+  "published": "2024-02-01T02:00:00.000+02:00",
+  "title": "Ukraine Military Targeted With Russian APT PowerShell Attack",
+  "text": "A sophisticated Russian advanced persistent threat (APT) has launched a targeted PowerShell attack campaign against the Ukrainian military.\nThe attack is most likely perpetrated by malicious threat actors related to Shuckworm , a group with a history of campaigns against Ukraine, motivated by geopolitical, espionage, and disruption interests.\nThe malicious campaign, tracked by Securonix under the name STEADY#URSA, employs a newly discovered SUBTLE-PAWS PowerShell-based backdoor to infiltrate and compromise targeted systems.\nThis type of backdoor allows threat actors to gain unauthorized access, execute commands, and maintain persistence within compromised systems.\nThe attack methodology involves the distribution of a malicious payload through compressed files delivered via phishing emails.\nDistribution and lateral movement of the malware is carried out through USB drives, thus removing the need to access the network directly.\nThe report noted that type of approach would be made difficult due to Ukraine's air-gapped communications like Starlink.\nThe campaign exhibits similarities with the Shuckworm malware, and it incorporates distinct tactics, techniques, and procedures (TTPs) observed in previous cyber campaigns against the Ukrainian military.\nOleg Kolesnikov, vice president of threat research and data science/AI for Securonix, explains that SUBTLE-PAWS differentiates itself by its \"fairly exclusive\" reliance on off-disk/PowerShell stagers for execution, avoiding traditional binary payloads. It also employs additional layers of obfuscation and evasion techniques.\n\"These including encoding, command splitting and registry-based persistence to evade detection among others,\" he says.\nIt establishes command and control (C2) by communicating via Telegram with a remote server, using adaptive methods such as DNS queries and HTTP requests with dynamically stored IP addresses.\nThe malware also employs stealth measures like Base64 and XOR encoding, randomization techniques, and environment sensitivity to enhance its elusive nature.\nThe targeted entity executes a malicious shortcut (.lnk) file, initiating the loading and execution of a new PowerShell backdoor payload code.\nThe SUBTLE-PAWS backdoor is embedded within another file contained in the same compressed archive.\nKolesnikov says possible proactive measures can include implementing user education programs to recognize potential exploitation via email, increasing awareness around the use of malicious .lnk payloads on external drives to spread in air-gapped and more compartmentalized environments, and enforcing strict policies and user file decompression to mitigate risks.\n\"To bolster USB drive security, organizations should implement device control policies to restrict unauthorized USB usage and regularly scan removable media for malware using advanced endpoint security solutions,\" he says.\nTo enhance log detection coverage, Securonix advised deploying additional process-level logging, such as Sysmon and PowerShell logging.\n\"Organizations should also enforce strict application whitelisting policies [and] implement enhanced email filtering, proper system monitoring, and endpoint detection and response solutions to monitor and block suspicious activity,\" Kolesnikov says.\nCyber Threats, State Actors The ongoing ground war in Ukraine has been waged in the digital realm as well, with Kyivstar, Ukraine's biggest mobile telecom operator, suffering a cyberattack in December that wiped out cell service for more than half of Ukraine's population.\nIn June 2023, Microsoft released details of Russian APT Cadet Blizzard , thought to be responsible for wiper malware deployed during the weeks leading up to Russia's invasion of Ukraine.\nCybersecurity attacks by Russian hacktivist groups — including Joker DPR threat group, thought to be tied to the state — also claimed to have breached the Ukraine military's battlefield management system DELTA, revealing real-time troop movements .\nBeyond the conflict in Eastern Europe, threat groups in Iran , Syria , and Lebanon demonstrate the threat of cyberattacks in conflicts across the Middle East. The growing sophistication of these threats indicates state-backed malicious actors are modernizing their malware techniques, and multiple threat groups are banding together to launch more complex attacks.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "securonix",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "powershell",
+        "sentiment": "negative"
+      },
+      {
+        "name": "starlink",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ukraine",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-02-02T00:24:10.159+02:00",
+  "updated": "2024-02-02T00:24:10.159+02:00"
+}

@@ -1,0 +1,141 @@
+{
+  "thread": {
+    "uuid": "305dd80811b9ef5cbe1cdac2acc0e86ceb3ef3c7",
+    "url": "https://www1.wdr.de/nachrichten/westfalen-lippe/schnee-glatteis-sauerland-100.html",
+    "site_full": "www1.wdr.de",
+    "site": "wdr.de",
+    "site_section": "https://www1.wdr.de/nachrichten/westfalen-lippe/uebersicht-westfalen-lippe-100.feed",
+    "site_categories": [
+      "media",
+      "hobbies_and_interests",
+      "radio"
+    ],
+    "section_title": "Westfalen-Lippe - WDR.de",
+    "site_title": "WDR - Informationen und Nachrichten vom Westdeutschen Rundfunk - WDR",
+    "title": "Wintereinbruch im Sauerland: Berufsverkehr mit Chaos",
+    "title_full": "Wintereinbruch im Sauerland: Berufsverkehr mit Chaos",
+    "published": "2025-11-20T10:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www1.wdr.de/nachrichten/westfalen-lippe/streudienst-winterberg-schnee-104~_v-gseagaleriexl.jpg",
+    "performance_score": 0,
+    "domain_rank": 5174,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "305dd80811b9ef5cbe1cdac2acc0e86ceb3ef3c7",
+  "url": "https://www1.wdr.de/nachrichten/westfalen-lippe/schnee-glatteis-sauerland-100.html",
+  "ord_in_thread": 0,
+  "author": "WDR",
+  "published": "2025-11-20T10:06:00.000+02:00",
+  "title": "Wintereinbruch im Sauerland: Berufsverkehr mit Chaos",
+  "text": "Wintereinbruch im Sauerland: Züge fallen aus, Lkw landet im Graben\nStand: 20.11.2025, 09:02 Uhr\nDer Wintereinbruch macht vielen Autofahrern heute früh im Berufsverkehr zu schaffen. Im Hochsauerland und im Kreis Soest kam es zu mehreren Glatteisunfällen. Die Deutsche Bahn meldet in der Region Arnsberg Zug-Ausfälle.\nMeistens blieb es bei Blechschäden, ein paar Autofahrer wurden aber auch leicht verletzt. Auf der B480 in Brilon-Wülfte rutschte ein Lkw in den Straßengraben und sorgte für massive Verkehrsbehinderungen.\nLandstraße gesperrt\nZwischen Sundern-Hagen und Finnentrop musste eine Landesstraße am frühen Morgen gesperrt werden, weil sich mehrere Laster festgefahren hatten. Laut Polizei ging nichts mehr, bis der Räumdienst kam.\nAuch die Feuerwehr war heute früh in Südwestfalen an mehreren Stellen im Einsatz. Im Märkischen Kreis, im Hochsauerland und im Kreis Olpe waren Bäume durch die Schneelast umgekippt.\nProbleme auch bei der Bahn\nDie Bahn hat aktuell Probleme in der Region Arnsberg. Zwischen Hagen und Brilon sowie zwischen Dortmund und Winterberg fahren keine Züge. Es gibt einen Schienenersatzverkehr. Betroffen sind:\n- RE 17 Hagen–Schwerte (Ruhr)–Bestwig–Brilon\n- RE 57 Dortmund–Arnsberg–Bestwig–Winterberg/Warburg\nWegen starken Schneefalls müssen mehrere Weichen repariert werden. \"Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt möglich. In der Folge kommt es jetzt zu Verspätungen, Teilausfällen und Ausfällen auf dem kompletten Laufweg.\", so die Mitteilung. Das Ende der Sperrung könne man noch nicht abschätzen.\nUnsere Quellen:\n- Polizei\nHochsauerlandkreis - Polizei\nKreis Soest Zuginfo.nrw",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather statistic",
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->transportation accident and incident"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.zuginfo.nrw",
+    "https://zuginfo.nrw"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Sundern-Hagen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Südwestfalen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Winterberg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Arnsberg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Dortmund",
+        "sentiment": "none"
+      },
+      {
+        "name": "Brilon",
+        "sentiment": "none"
+      },
+      {
+        "name": "Soest",
+        "sentiment": "none"
+      },
+      {
+        "name": "Olpe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutsche Bahn",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T10:33:57.032+02:00",
+  "updated": "2025-11-20T10:43:32.000+02:00"
+}

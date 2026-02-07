@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "0f0f9780a8cbe5ea5eebaf04e685e99be2d1e39f",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-03-13/doc-inepniqt0919966.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://tech.sina.com.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪科技_新浪网",
+    "site_title": null,
+    "title": "兆易创新推出GD25NE系列SPI NOR Flash_新浪科技_新浪网",
+    "title_full": "兆易创新推出GD25NE系列SPI NOR Flash_新浪科技_新浪网",
+    "published": "2025-03-13T03:08:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 246,
+    "domain_rank_updated": "2025-03-10T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0f0f9780a8cbe5ea5eebaf04e685e99be2d1e39f",
+  "url": "https://finance.sina.com.cn/tech/roll/2025-03-13/doc-inepniqt0919966.shtml",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "电子产品世界",
+  "published": "2025-03-13T03:08:00.000+02:00",
+  "title": "兆易创新推出GD25NE系列SPI NOR Flash_新浪科技_新浪网",
+  "text": "业界领先的半导体器件供应商兆易创新GigaDevice近日宣布推出专为1.2V SoC应用打造的双电压供电SPI NOR Flash产品——GD25NE系列。该系列产品无需借助外部升压电路即可与下一代1.2V SoC实现无缝兼容，此产品的面世将进一步强化兆易创新在双电压供电闪存解决方案领域的战略布局。凭借更高的性能和更低的功耗，GD25NE系列可充分满足市场对于先进嵌入式存储解决方案日益增长的需求，成为智能可穿戴设备、医疗健康、物联网、数据中心及边缘人工智能应用的理想选择。\n本文引用地址：\nGD25NE系列SPI NOR Flash的核心供电电压为1.8V，IO接口电压为1.2V，支持单通道、双通道、四通道、双沿四通道模式，最高时钟频率为STR 133MHz，DTR 104MHz。GD25NE系列的写入时间典型值为0.15ms，扇区擦除时间为30ms，其与常规1.2V单电压供电的Flash解决方案相比，数据读取性能提升了20%，写入速度提升60%，擦除时间缩短30%。凭借这些技术优势，GD25NE系列成为新兴嵌入式应用的卓越之选。\n为进一步满足能耗敏感型应用的需求，GD25NE系列采用超低功耗设计。其深度睡眠功耗电流低至0.2µA，在双沿四通道104MHz频率下的读取电流低至9mA，擦写电流低至8mA。与传统的1.8V Flash解决方案相比，GD25NE系列的1.2V IO接口设计可将功耗降低50%。这一优化的电源架构不仅显著提升了能效，还保持了Flash器件的高性能表现，同时简化了SoC的系统设计。\n“GD25NE系列作为双电源SPI NOR Flash品类的代表，实现了高性能与超低功耗的完美平衡，”兆易创新副总裁、存储事业部总经理苏如伟表示，“凭借显著降低的功耗、更快的读取速度以及更高的擦写效率，GD25NE系列能够满足新一代1.2V SoC持续演进的需求。未来，兆易创新还将不断拓展双电源SPI NOR Flash的产品组合，致力于为客户提供更高效、更可靠、更前沿的闪存解决方案，助力创新应用的发展。”\n目前，兆易创新GD25NE系列可提供从32Mb到256Mb的多种容量选择，并支持SOP16（300 mil）和BGA24（5×5 ball array）封装选项。该系列首款产品——256Mb的GD25NE256H现已开始提供样片。其余32Mb至128Mb容量的产品也将陆续推出。如需了解详细信息及产品定价，请联系当地销售代表。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Environment"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->business information",
+    "Environment->energy resources"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-13T03:16:46.102+02:00",
+  "updated": "2025-03-13T09:03:28.609+02:00"
+}

@@ -1,0 +1,140 @@
+{
+  "thread": {
+    "uuid": "1283fb4fa241274f99a296595ca30c797a01b2db",
+    "url": "https://www.news.de/technik/856583031/gstreamer-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-und-macos-x-vom-19-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "IT-Sicherheit: Linux, MacOS X und UNIX gefährdet - IT-Sicherheitslücke bei GStreamer mit hohem Risiko! Warnung erhält Update",
+    "title_full": "IT-Sicherheit: Linux, MacOS X und UNIX gefährdet - IT-Sicherheitslücke bei GStreamer mit hohem Risiko! Warnung erhält Update",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771853/images/1f/28/6650b074675baebdda744a462cde/nopic/no_pic/1200/675/1/1/1/4/1022/575/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771853_1200x675_7a8346455ed85205b699ee3f7f41e595.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1283fb4fa241274f99a296595ca30c797a01b2db",
+  "url": "https://www.news.de/technik/856583031/gstreamer-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-und-macos-x-vom-19-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "IT-Sicherheit: Linux, MacOS X und UNIX gefährdet - IT-Sicherheitslücke bei GStreamer mit hohem Risiko! Warnung erhält Update",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 19.08.2025 ein Update zu einer am 31.03.2021 bekanntgewordenen Sicherheitslücke für GStreamer herausgegeben. Betroffen von der Sicherheitslücke sind die Betriebssysteme Linux, MacOS X, UNIX und Windows sowie die Produkte Debian Linux, Amazon Linux 2, Red Hat Enterprise Linux, Ubuntu Linux, SUSE Linux, Gentoo Linux, Open Source GStreamer und Dell Avamar.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: Amazon Linux Security Advisory ALAS2-2025-2964 (Stand: 19.08.2025). Weitere nützliche Quellen werden weiter unten in diesem Artikel aufgeführt.\nSicherheitshinweis für GStreamer - Risiko: hoch\nRisikostufe: 4 (hoch)\nCVSS Base Score: 9,8\nCVSS Temporal Score: 8,5\nRemoteangriff: Ja\nZur Einschätzung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Kriterien miteinander zu vergleichen, um eine darauf aufbauende Prioritätenliste zur Einleitung von Gegenmaßnahmen zu erstellen. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Beim Temporal Score fließen über die Zeit veränderbare Rahmenbedingungen in die Bewertung ein. Der Schweregrad der aktuellen Schwachstelle wird nach dem CVSS mit einem Base Score von 9,8 als \"hoch\" eingeschätzt.\nGStreamer Bug: Mehrere Schwachstellen ermöglichen Denial of Service\nGStreamer ist ein Multimedia-Framework mit einer Plugin-basierten Architektur für eine Vielzahl von Plattformen.\nEin entfernter, anonymer Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um einen Denial of Service Angriff durchzuführen.\nDie Verwundbarkeit wird mit den individuellen CVE-Seriennummern (Common Vulnerabilities and Exposures) CVE-2021-3497 und CVE-2021-3498 gehandelt.\nVon der GStreamer-Sicherheitslücke betroffene Systeme im Überblick\nBetriebssysteme\nLinux, MacOS X, UNIX, Windows\nProdukte\nDebian Linux (cpe:/o:debian:debian_linux)\nAmazon Linux 2 (cpe:/o:amazon:linux_2)\nRed Hat Enterprise Linux (cpe:/o:redhat:enterprise_linux)\nUbuntu Linux (cpe:/o:canonical:ubuntu_linux)\nSUSE Linux (cpe:/o:suse:suse_linux)\nGentoo Linux (cpe:/o:gentoo:linux)\nOpen Source GStreamer <1.18.4 (cpe:/a:open_source:gstreamer)\nOpen Source GStreamer 1.18.4 (cpe:/a:open_source:gstreamer)\nDell Avamar <19.12 (cpe:/a:dell:avamar)\nDell Avamar 19.12 (cpe:/a:dell:avamar)\nAllgemeine Empfehlungen zum Umgang mit IT-Schwachstellen\n- Anwender der betroffenen Anwendungen sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten neue Sicherheitsupdates verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten die genannten Quellen regelmäßig daraufhin prüfen, ob ein neues Sicherheitsupdate zur Verfügung steht.\nHersteller-Informationen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nAmazon Linux Security Advisory ALAS2-2025-2964 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALAS2-2025-2964.html\nDell Security Advisory DSA-2025-071 vom 2025-02-05 (04.02.2025)\nWeitere Informationen finden Sie unter: https://www.dell.com/support/kbdoc/de-de/000281275/dsa-2025-071-security-update-for-dell-avamar-for-multiple-component-vulnerabilities\nSUSE Security Update SUSE-SU-2023:3688-1 vom 2023-09-19 (19.09.2023)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2023-September/016209.html\nAmazon Linux Security Advisory ALAS-2023-2011 vom 2023-04-05 (05.04.2023)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALAS-2023-2011.html\nRed Hat Security Advisory RHSA-2022:7618 vom 2022-11-08 (08.11.2022)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2022:7618\nGentoo Linux Security Advisory GLSA-202208-31 vom 2022-08-23 (22.08.2022)\nWeitere Informationen finden Sie unter: https://security.gentoo.org/glsa/202208-31\nSUSE Security Update SUSE-SU-2021:2915-1 vom 2021-09-02 (02.09.2021)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2021-September/009382.html\nSUSE Security Update SUSE-SU-2021:2916-1 vom 2021-09-02 (02.09.2021)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2021-September/009383.html\nUbuntu Security Notice USN-4928-1 vom 2021-04-29 (28.04.2021)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-4928-1\nDebian Security Advisory DLA-2640 vom 2021-04-26 (26.04.2021)\nWeitere Informationen finden Sie unter: https://lists.debian.org/debian-lts-announce/2021/04/msg00027.html\nDebian Security Advisory DSA-4900 vom 2021-04-25 (25.04.2021)\nWeitere Informationen finden Sie unter: https://www.debian.org/security/2021/dsa-4900\nGStreamer Security Advisory vom 2021-03-31 (31.03.2021)\nWeitere Informationen finden Sie unter: https://gstreamer.freedesktop.org/security/sa-2021-0005.html\nGStreamer Security Advisory vom 2021-03-31 (31.03.2021)\nWeitere Informationen finden Sie unter: https://gstreamer.freedesktop.org/security/sa-2021-0004.html\nGStreamer Security Advisory vom 2021-03-31 (31.03.2021)\nWeitere Informationen finden Sie unter: https://gstreamer.freedesktop.org/security/sa-2021-0003.html\nGStreamer Security Advisory vom 2021-03-31 (31.03.2021)\nWeitere Informationen finden Sie unter: https://gstreamer.freedesktop.org/security/sa-2021-0002.html\nGStreamer Security Advisory vom 2021-03-31 (31.03.2021)\nWeitere Informationen finden Sie unter: https://gstreamer.freedesktop.org/security/sa-2021-0001.html\nGStreamer Release Notes vom 2021-03-31 (31.03.2021)\nWeitere Informationen finden Sie unter: https://gstreamer.freedesktop.org/releases/1.18/#1.18.4\nVersionshistorie dieser Sicherheitswarnung\nDies ist die 12. Version des vorliegenden IT-Sicherheitshinweises für GStreamer. Sollten weitere Updates bekanntgegeben werden, wird dieser Text aktualisiert. Änderungen oder Ergänzungen können Sie in dieser Versionshistorie nachlesen.\n31.03.2021 - Initiale Fassung\n19.04.2021 - CVE ergänzt\n25.04.2021 - Neue Updates von Debian aufgenommen\n26.04.2021 - Neue Updates von Debian aufgenommen\n28.04.2021 - Neue Updates von Ubuntu aufgenommen\n02.09.2021 - Neue Updates von SUSE aufgenommen\n22.08.2022 - Neue Updates von Gentoo aufgenommen\n08.11.2022 - Neue Updates von Red Hat aufgenommen\n05.04.2023 - Neue Updates von Amazon aufgenommen\n19.09.2023 - Neue Updates von SUSE aufgenommen\n04.02.2025 - Neue Updates von Dell aufgenommen\n19.08.2025 - Neue Updates von Amazon aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://access.redhat.com/errata/RHSA-2022:7618",
+    "https://twitter.com/news_de",
+    "https://alas.aws.amazon.com/AL2/ALAS-2023-2011.html",
+    "https://gstreamer.freedesktop.org/security/sa-2021-0003.html",
+    "https://www.dell.com/support/kbdoc/de-de/000281275/dsa-2025-071-security-update-for-dell-avamar-for-multiple-component-vulnerabilities",
+    "https://gstreamer.freedesktop.org/security/sa-2021-0005.html",
+    "https://ubuntu.com/security/notices/USN-4928-1",
+    "https://lists.debian.org/debian-lts-announce/2021/04/msg00027.html",
+    "https://pin.it/11NQyAf",
+    "https://www.facebook.com/News.de",
+    "https://gstreamer.freedesktop.org/security/sa-2021-0002.html",
+    "https://gstreamer.freedesktop.org/security/sa-2021-0004.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2023-September/016209.html",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://www.debian.org/security/2021/dsa-4900",
+    "https://lists.suse.com/pipermail/sle-security-updates/2021-September/009383.html",
+    "https://lists.suse.com/pipermail/sle-security-updates/2021-September/009382.html",
+    "https://alas.aws.amazon.com/AL2/ALAS2-2025-2964.html",
+    "https://gstreamer.freedesktop.org/security/sa-2021-0001.html",
+    "https://gstreamer.freedesktop.org/releases/1.18/#1.18.4",
+    "https://security.gentoo.org/glsa/202208-31",
+    "https://www.gstreamer.freedesktop.org/security/sa-2021-0003.html",
+    "https://www.gstreamer.freedesktop.org/security/sa-2021-0001.html",
+    "https://www.alas.aws.amazon.com/AL2/ALAS2-2025-2964.html",
+    "https://www.gstreamer.freedesktop.org/security/sa-2021-0005.html",
+    "https://debian.org/security/2021/dsa-4900",
+    "https://facebook.com/News.de",
+    "https://www.pin.it/11NQyAf",
+    "https://www.lists.debian.org/debian-lts-announce/2021/04/msg00027.html",
+    "https://www.twitter.com/news_de",
+    "https://www.access.redhat.com/errata/RHSA-2022:7618",
+    "https://www.gstreamer.freedesktop.org/security/sa-2021-0002.html",
+    "https://dell.com/support/kbdoc/de-de/000281275/dsa-2025-071-security-update-for-dell-avamar-for-multiple-component-vulnerabilities",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2021-September/009383.html",
+    "https://www.security.gentoo.org/glsa/202208-31",
+    "https://www.ubuntu.com/security/notices/USN-4928-1",
+    "https://www.gstreamer.freedesktop.org/security/sa-2021-0004.html",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2021-September/009382.html",
+    "https://www.alas.aws.amazon.com/AL2/ALAS-2023-2011.html",
+    "https://www.gstreamer.freedesktop.org/releases/1.18/#1.18.4",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2023-September/016209.html"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:32.585+03:00",
+  "updated": "2025-08-22T14:05:52.000+03:00"
+}

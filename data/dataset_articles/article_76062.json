@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "0256bf317dfd189f0915204a061c977dda88f994",
+    "url": "https://yro.slashdot.org/story/25/01/10/0056202/see-the-thousands-of-apps-hijacked-to-spy-on-your-location",
+    "site_full": "yro.slashdot.org",
+    "site": "slashdot.org",
+    "site_section": "http://slashdot.org/index.rss",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Slashdot",
+    "title": "See the Thousands of Apps Hijacked To Spy On Your Location",
+    "title_full": "See the Thousands of Apps Hijacked To Spy On Your Location",
+    "published": "2025-01-10T05:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://a.fsdn.com/sd/topics/privacy_64.png",
+    "performance_score": 0,
+    "domain_rank": 628,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 3
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0256bf317dfd189f0915204a061c977dda88f994",
+  "url": "https://yro.slashdot.org/story/25/01/10/0056202/see-the-thousands-of-apps-hijacked-to-spy-on-your-location",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "BeauHD",
+  "published": "2025-01-10T05:30:00.000+02:00",
+  "title": "See the Thousands of Apps Hijacked To Spy On Your Location",
+  "text": "An anonymous reader quotes a report from 404 Media: Some of the world's most popular apps are likely being co-opted by rogue members of the advertising industry to harvest sensitive location data on a massive scale, with that data ending up with a location data company whose subsidiary has previously sold global location data to US law enforcement. The thousands of apps,\n\"For the first time publicly, we seem to have proof that one of the largest data brokers selling to both commercial and government clients appears to be acquiring their data from the online advertising 'bid stream,'\" rather than code embedded into the apps themselves, Zach Edwards, senior threat analyst at cybersecurity firm Silent Push and who has followed the location data industry closely, tells 404 Media after reviewing some of the data. The data provides a rare glimpse inside the world of real-time bidding (RTB). Historically, location data firms\n\"This is a nightmare scenario for privacy, because not only does this data breach contain data scraped from the RTB systems, but there's some company out there acting like a global honey badger, doing whatever it pleases with every piece of data that comes its way,\" Edwards says. Included in the hacked Gravy data are tens of millions of mobile phone coordinates of devices inside the US, Russia, and Europe. Some of those files also reference an app next to each piece of location data. 404 Media\nincluded in hacked filesfrom location data company Gravy Analytics, include everything from games likeCandy Crushand dating apps like Tinder to pregnancy tracking and religious prayer apps across both Android and iOS. Because much of the collection is occurring through the advertising ecosystem -- not code developed by the app creators themselves -- this data collection is likely happening without users' or even app developers' knowledge.\"For the first time publicly, we seem to have proof that one of the largest data brokers selling to both commercial and government clients appears to be acquiring their data from the online advertising 'bid stream,'\" rather than code embedded into the apps themselves, Zach Edwards, senior threat analyst at cybersecurity firm Silent Push and who has followed the location data industry closely, tells 404 Media after reviewing some of the data. The data provides a rare glimpse inside the world of real-time bidding (RTB). Historically, location data firms\npaid app developersto include bundles of code that collected the location data of their users. Many companies have turned instead tosourcing location information through the advertising ecosystem, where companies bid to place ads inside apps. But a side effect is that data brokers can listen in on that process and harvest the location of peoples' mobile phones.\"This is a nightmare scenario for privacy, because not only does this data breach contain data scraped from the RTB systems, but there's some company out there acting like a global honey badger, doing whatever it pleases with every piece of data that comes its way,\" Edwards says. Included in the hacked Gravy data are tens of millions of mobile phone coordinates of devices inside the US, Russia, and Europe. Some of those files also reference an app next to each piece of location data. 404 Media",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Zach Edwards",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T06:22:10.085+02:00",
+  "updated": "2025-01-10T06:22:10.085+02:00"
+}

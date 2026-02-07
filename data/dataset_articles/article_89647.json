@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "7e5bfb8d70b8fe764c658c7a07c3807475f66cd2",
+    "url": "https://katiecouric.com/news/did-social-security-numbers-get-leaked-in-npd-data-breach",
+    "site_full": "katiecouric.com",
+    "site": "katiecouric.com",
+    "site_section": "https://www.katiecouric.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Katie Couric Media",
+    "title": "Could Your Social Security Number Be on the Dark Web?",
+    "title_full": "Could Your Social Security Number Be on the Dark Web?",
+    "published": "2024-08-16T00:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25232,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7e5bfb8d70b8fe764c658c7a07c3807475f66cd2",
+  "url": "https://katiecouric.com/news/did-social-security-numbers-get-leaked-in-npd-data-breach",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rachel Uda",
+  "published": "2024-08-16T00:43:00.000+03:00",
+  "title": "Could Your Social Security Number Be on the Dark Web?",
+  "text": "Your Social Security number may be in the hands of hackers, according to a new lawsuit filed in Florida.\nA hacking group known as USDoD claimed it had stolen Social Security numbers, addresses, and more sensitive data, a lawsuit filed earlier this month states. In April, USDoD allegedly stole unencrypted personal information from a data broker called National Public Data (NPD).\nHere’s a closer look at this massive data breach.\nWhat information was stolen in the data breach? The data breach came to light thanks to a class-action lawsuit filed by a California man, who claims an identity theft protection service alerted him that his personal information had been leaked. The law firm representing Hoffman claims that 2.9 billion records were stolen from NPD, which scrapes public record databases and then sells that information to background check companies, investigators, and others. Then, on April 8, the hackers offered to sell the databases on the dark web for $3.5 million, per a press release from la w firm Schubert Jonckheer & Koble.\nSince then, others have leaked copies of the data, the cybersecurity news site Bleeping Computer reports .\nCiting the cybersecurity site vx-underground, the law firm says the stolen file contains 277.1 gigabytes of data, including the names, address histories, relatives, and Social Security numbers “dating back at least three decades.”\nBecause NPD acquired the data without people knowing, “individuals may not even know that they have been affected,” the law firm notes. It also claims that NPD hasn’t confirmed the breach.\nHow can you protect yourself? If your data falls into the wrong hands, it can be used to steal your identity . But there are a few things you can do to protect yourself.\nMonitor your bank accounts: Check your statements regularly, and if you see any suspicious charges, report them to your bank or credit card company. Place a fraud alert: If you think you may be a victim, you can also place a fraud alert on your credit. A fraud alert requires a business to verify your identity before it issues new credit in your name. Fraud alerts last one year; to add one to your report, you only need to contact one of the three major credit bureaus, Experian , Equifax , and TransUnion , per the FTC . (That company is then responsible for alerting the other two.) Place a credit freeze: If your identity has been stolen, “one of the most important things you can do is put a freeze on your credit report,” Ira Rheingold, executive director of the National Association of Consumer Advocates, shared with us in 2022. A credit freeze restricts access to your credit report, which means that while the freeze is in effect, no one — including yourself — will be able to open a new credit account. You can always temporarily lift a freeze if you do need to apply for credit. Update your passwords: Most of us are guilty of using the same password — or variations of it — across multiple accounts, but that may make stealing your identity a lot easier. The software security company, McAfee , suggests updating them and making sure each one is unique — and if you have trouble keeping track of them, using a password manager that you can refer to. For more advice, check out our guide to preventing identity theft .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/",
+    "https://www.mcafee.com/blogs/privacy-identity-protection/how-to-protect-yourself-from-identity-theft-after-a-data-breach/",
+    "https://www.equifax.com/personal/credit-report-services/credit-freeze/",
+    "https://www.transunion.com/credit-freeze",
+    "https://www.classactionlawyers.com/blog/npd",
+    "https://www.experian.com/freeze/center.html",
+    "https://www.consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts",
+    "https://www.equifax.com/personal/credit-report-services/credit-freeze",
+    "https://transunion.com/credit-freeze",
+    "https://equifax.com/personal/credit-report-services/credit-freeze/",
+    "https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts",
+    "https://classactionlawyers.com/blog/npd",
+    "https://www.mcafee.com/blogs/privacy-identity-protection/how-to-protect-yourself-from-identity-theft-after-a-data-breach",
+    "https://mcafee.com/blogs/privacy-identity-protection/how-to-protect-yourself-from-identity-theft-after-a-data-breach/",
+    "https://experian.com/freeze/center.html",
+    "https://bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/",
+    "https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "flor",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hoffman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "npd",
+        "sentiment": "none"
+      },
+      {
+        "name": "social security",
+        "sentiment": "none"
+      },
+      {
+        "name": "schubert jonckheer & koble",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "california",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T01:10:37.451+03:00",
+  "updated": "2024-08-16T01:10:37.451+03:00"
+}

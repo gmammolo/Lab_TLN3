@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "0ebeaab076c9e8d2e3412e85d40a329948dc98a6",
+    "url": "https://www.theregister.com/2024/11/22/nvidia_green500_amd/?ref=biztoc.com",
+    "site_full": "www.theregister.com",
+    "site": "theregister.com",
+    "site_section": "https://biztoc.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "BizToc",
+    "title": "Nvidia's dominance on the Green500 faces challenges from AMD - and itself",
+    "title_full": "Nvidia's dominance on the Green500 faces challenges from AMD - and itself",
+    "published": "2024-11-22T02:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://regmedia.co.uk/2024/11/21/green500.jpg",
+    "performance_score": 0,
+    "domain_rank": 709,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0ebeaab076c9e8d2e3412e85d40a329948dc98a6",
+  "url": "https://www.theregister.com/2024/11/22/nvidia_green500_amd/?ref=biztoc.com",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tobias Mann",
+  "published": "2024-11-22T02:15:00.000+02:00",
+  "title": "Nvidia's dominance on the Green500 faces challenges from AMD - and itself",
+  "text": "Systems Nvidia's dominance on the Green500 faces challenges from AMD – and itself Blackwell's weaker FP64 performance could give the House of Zen's Instinct accelerators a leg up in future efficiency benchmarks Tobias Mann Fri 22 Nov 2024 // 00:15 UTC SC24 Nvidia's accelerators are among the most power hungry machines in their class, yet the chips continue to dominate the Green500 ranking of the most sustainable supercomputers in the world.\nEight of the ten most power-efficient systems on the bi-annual list employed Nvidia parts, and of those five were powered by the GPU giant's 1,000-watt Grace Hopper Superchip (GH200).\nThe parts, which meld a 72-core Grace CPU based on Arm's Neoverse V2 design and 480 GB of LPDDR5x memory with an H100 GPU with 96 to 144 GB of HBM3 or HBM3e memory, have become quite popular in the HPC community.\nOn the latest Green 500 list, the chip powers both the first and second most efficient systems — EuroHPC's JEDI and the Romeo HPC Center's Romeo-2025 machines, which achieved 72.7 and 70.9 gigaFLOPS per watt in the High-Performance Linpack benchmark — that's FP64, of course.\nThe two systems are nearly identical, having been built using Eviden's BullSequana XH3000 platform and employing the same GH200 accelerators. Nvidia's GH200 also claims position four, six, and seven on the list with the Isambard-AI Phase 1 (68.8 gigaFLOPS/watt), Jupiter Exascale Transition Instrument (67.9 gigaFLOPS/watt), and Helios GPU (66.9 FLOPS/watt).\nThe Jupiter Exascale Development Instrument ... Source | Image by Forschungszentrum Jülich / Ralf-Uwe Limbach\nMeanwhile, Nvidia's venerable H100 powers the fifth, eighth, and ninth most efficient machines, including the Capella, Henri, and HoreKa-Teal systems.\nIt is doubtful Nvidia will retain its high ranking on the Green 500. Its Grace-Blackwell superchips are already on the way in the form of the 2.7-kilowatt GB200 and the 5.4-kilowatt GB200 NVL4 .\nThe new products don’t always deliver more compute power per watt.\nFrom the A100 in 2020 to the H100 in 2022, FP64 performance jumped roughly 3.5x. However, compared to the 1,200-watt Blackwell, the 700-watt H100 is actually faster in FP64 matrix math. In fact, for FP64, the only improvement is for vector math, where the incoming chip boasts 32 percent higher perf.\nSo while Nvidia enjoys high positions on the Green500 today, AMD isn't out of the game just yet. In fact, the House of Zen's MI300A accelerated processing unit claimed the number three spot on the latest list with the Adastra 2 system.\nIf you're not familiar, AMD's MI300A was announced a little under a year ago and fuses 24-CPU cores and six CDNA-3 GPU dies into a single APU with up to 128 GB of HBM3 memory on board, and a configurable TDP of 550-760 watts. And, at least on paper, the part already boasts 1.8x the HPC performance of the H100.\nBuilt by HPE Cray using EX255a blades – as used in the world's most powerful publicly known supercomputer –Adastra 2 managed 69 gigaFLOPS/watt of performance. It's not alone either. The 10th most efficient machine is another MI300A-based machine at Lawrence Livermore National Laboratory called RZAdams, which managed 62.8 gigaFLOPS/watt.\nMicrosoft unveils beefy custom AMD chip to crunch HPC workloads on Azure Nvidia continues its quest to shoehorn AI into everything, including HPC LLNL's El Capitan surpasses Frontier with 1.74 exaFLOPS performance Nvidia's latest Blackwell boards pack 4 GPUs, 2 Grace CPUs, and suck down 5.4 kW Scaling up All of these systems in the Green500's top 10 are now well above the 50 gigaFLOPS/watt target necessary to achieve an exaFLOP of compute in a 20-megawatt envelope. But as it turns out maintaining these levels of efficiency at scale is rather tricky.\nLooking at the three most efficient machines on the Green500, they're all on the small side. JEDI is rated for just 67 kilowatts of power. For comparison, the Swiss National Supercomputing Centre's Alps machine - the most powerful GH200 system on the Top500 - achieves 434 petaFLOPS in the HPL benchmark while consuming 7.1 megawatts, making it the 14th most efficient machine at 61 gigaFLOPS per watt.\nIt's a similar story for Adastra 2, which is even smaller than JEDI at 37 kilowatts. If you could maintain 69 gigaFLOPS per watt at scale, you'd only need about 25.2 megawatts to match El Capitan's 1.742 exaFLOPS of real-world performance. In reality, El Capitan needed nearly 29.6 megawatts of power to achieve its record-breaking run. ®\nGet our Tech Resources Share More about AMD GPU Nvidia More like these × More about AMD GPU Nvidia SC24 Supercomputer Narrower topics Apple M1 Epyc GTC Omniverse Xilinx Broader topics Alder Lake Computer Hardware Supercomputing More about Share POST A COMMENT More about AMD GPU Nvidia More like these × More about AMD GPU Nvidia SC24 Supercomputer Narrower topics Apple M1 Epyc GTC Omniverse Xilinx Broader topics Alder Lake Computer Hardware Supercomputing TIP US OFF Send us news",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.fz-juelich.de/en/ias/jsc/systems/supercomputers/jedi",
+    "https://top500.org/lists/green500/2024/11/",
+    "https://fz-juelich.de/en/ias/jsc/systems/supercomputers/jedi",
+    "https://www.top500.org/lists/green500/2024/11/",
+    "https://top500.org/lists/green500/2024/11"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T02:26:31.891+02:00",
+  "updated": "2024-11-22T02:34:15.106+02:00"
+}

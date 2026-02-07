@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "a99e38cc0138690e9014901e107ae1de81ebd04a",
+    "url": "https://ironsilk-games.itch.io/beats-to-kill-to/devlog/481395/alpha-update",
+    "site_full": "ironsilk-games.itch.io",
+    "site": "itch.io",
+    "site_section": "https://itch.io/devlogs.xml",
+    "site_categories": [],
+    "section_title": " Devlogs  - itch.io",
+    "title": "Alpha Update!",
+    "title_full": "Alpha Update!",
+    "published": "2024-01-06T01:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.itch.zone/aW1nLzE0NTYzNTUxLmdpZg==/original/2E6YVo.gif",
+    "performance_score": 0,
+    "domain_rank": 1136,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a99e38cc0138690e9014901e107ae1de81ebd04a",
+  "url": "https://ironsilk-games.itch.io/beats-to-kill-to/devlog/481395/alpha-update",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@ironsilk_games",
+  "published": "2024-01-06T01:33:00.000+02:00",
+  "title": "Alpha Update!",
+  "text": "Alpha Update!\nHello, Spiderlings! The long-awaited alpha launch is upon us! Here are the new features we added in this version.\nNew Character\nThe Archer is a ranged technologist who specializes in high damage, long range attacks. Where the fighter wants to run, the archer wants to run away shooting arrows and bait opponents into getting hit by their flash grenade. While the archer has some tricks, if you manage to get up close while their abilities are on cooldown the Archer is at a big disadvantage.\nCombat Balancing\nEach move on this character has gotten tweaks that should still let the character play to their strengths, without being able to just cheaply one-shot opponents\nCancelling used to be too easy to do accidentally, and also difficult to do anything truly skillful with. So, it's been replaced with COUNTERSPELL. Counterspell now spends 1 meter to stop time for the player and makes them completely invincible for one beat. This means you can counterspell to parry enemy attacks. The counterspell will also stop time for any enemy close enough to you, letting you line up a shot against them. You can end the time stop early by attacking before the animation ends, or you can double-tap a direction to add some movement to your counterspell. Beware, enemies can still counterspell while time is stopped, so with good reactions, the enemy can turn the tables on you if they have enough charge.\nNew and Updated Stages\nThe factory is a large, enclosed square map with two floors. Players can use their movement skills to jump off the walls of this interior space to quickly change what floor they are on. This will be essential since the pistons on this map fire to the beat drastically changing the amount of cover on each floor.\nThe Ruins map has been updated to have a new visual style. The center of the map has stayed similar, but new geometry has been added around the main pyramid. The topography of this map can also change through the crystals around the map. Occasionally these crystals will shatter and reform to the beat, adding and removing geometry from the map.\nThe new map, Arena, features a small circular map that is great for 1v1 battles. The map has 4 distinct zones each with their own style. Being able to quickly switch between zones, or play to the strength of the zone you are fighting in will give you a great advantage on this map.\nTimelost Chamber is a large and open map, great for big team battles. This map features both tight indoor spaces and vast open areas with great sight lines.\nThis is another very open map, but its main purpose is to supply some geometry to explain the game's movement system to the player. There are various highlighted objects that show some of the common terrain you will find in BTKT. Get comfortable exploring this map or use it to practice in our new Training Mode!\nFresh Features\nBTKT now supports creating and loading custom music! Creators will be able to use FMOD to completely customize how their song plays in game by setting loop points, transitions, or even mashing up multiple songs into one file. Once completed the file can be exported and put in a folder with some extra data to label the songs and supply an image. Users simply need to download this folder and add it to their Mods/CustomTracks folder and then they will be able to play those songs with anyone else online who has the same music as them!\nWe'll be posting an in-depth guide about this soon, so keep an eye out if custom tracks are your jam!\nTwo single-player training modes have been added to the game. One is a timed \"break the target\" mode where you can practice trying to quickly destroy every target on a stage. The other mode is an un-timed free roam mode where players can just practice moving to the beat and getting a feel for the game.\nMany new settings were added to the game so that everyone can play!\n- Graphics settings were added to get the game running on lower-end PCs (we also did many performance upgrades to the game to help this)\n- Customizable keymapping\n- Color-picking for allies and enemies\n- Adjustable Fog and Emissives\n- Adjustable Audio and Visual cue delays\nBug Fixes\nLobbies were fixed in a variety of ways to help prevent crashes.\nGet BEATS TO KILL TO\nLeave a comment\nLog in with itch.io to leave a comment.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "archer",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-06T01:55:13.686+02:00",
+  "updated": "2024-01-06T01:55:13.686+02:00"
+}

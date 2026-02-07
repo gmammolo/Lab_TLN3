@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "2a284c9c838125873cc99c3797a99f052bf45edb",
+    "url": "https://www.codeproject.com/Articles/5377602/Google-Sheets-in-Csharp-How-to-Build-Your-Own-Leve",
+    "site_full": "www.codeproject.com",
+    "site": "codeproject.com",
+    "site_section": "http://www.codeproject.com/WebServices/ArticleRSS.aspx?cat=1",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "CodeProject Latest Articles",
+    "title": "Google Sheets in C# – How to Build Your Own Levels.fyi!",
+    "title_full": "Google Sheets in C# – How to Build Your Own Levels.fyi!",
+    "published": "2024-02-15T22:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://www.codeproject.com/KB/Blogs/5377602/Thumbnail.Png",
+    "performance_score": 0,
+    "domain_rank": 2613,
+    "domain_rank_updated": "2024-02-13T12:06:36.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2a284c9c838125873cc99c3797a99f052bf45edb",
+  "url": "https://www.codeproject.com/Articles/5377602/Google-Sheets-in-Csharp-How-to-Build-Your-Own-Leve",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dev Leader",
+  "published": "2024-02-15T22:32:00.000+02:00",
+  "title": "Google Sheets in C# – How to Build Your Own Levels.fyi!",
+  "text": "Many developers are surprised to learn that levels.fyi, known for its tech salary data, initially ran on spreadsheets without a backend database. This example shows the potential of spreadsheets in managing web data and how you can start with something that works to optimize it later. We can do the same thing with Google Drive and Google Sheets in C#!\nIn this article, I’ll guide you through accessing Google Sheets from Google Drive using C# and .NET. I’ll share the code I used in my own personal projects to make some of this work more effectively. Let’s get into it!\nBefore we get too far into things, let’s make sure you have things setup properly. This will save you some time in the long run — I promise!\nBefore we start writing any code, ensure you have the necessary Google API packages installed. For this tutorial, we’re using:\nThese versions were current at the time of writing, so please adjust according to any future updates.\nTo interact with Google APIs in the same way that I’m illustrating in this tutorial, you’ll need a JSON credential file from the Google Cloud console. This involves creating a service account and sharing your Google Drive files with it, granting the necessary permissions. This step is critical for the API to access your spreadsheets.\nTo do this, make sure you log in to your Google Cloud console and create a new service account (or leverage an existing one). The reason a service account is beneficial here is that you get an associated email address with it, and you can share your files/folders with the email so that the service account gets permission. Without the correct permissions to your files, the API calls might be structured and called properly but they’ll fail to find any results!\nIf you’d like more visual guidance on some of these steps, you can follow along with this video tutorial on using Google Sheets in C#:\nThe first step in our C# application involves referencing the Google Sheets and Google Drive APIs through NuGet packages. You did that part though, right? You should have similar entries to this in your csproj file (keeping in mind the versions will likely be different by the time you are reading this):\n<PackageReference Include=\"Google.Apis.Drive.v3\" Version=\"1.66.0.3309\" />\n<PackageReference Include=\"Google.Apis.Sheets.v4\" Version=\"1.66.0.3148\" />\nYou’ll also need to ensure you get your credentials loaded up in code. This code illustrates setting up the authentication with our JSON credentials to establish a connection with Google’s services, using the correct scopes:\nvar credential = GoogleCredential\n.FromJson(\n\"\"\"\n{\n\"type\": \"service_account\",\n\"project_id\": \"api-abc123abc123-456789\",\n\"private_key_id\": \"123456789123456789\",\n\"private_key\": \"-----BEGIN PRIVATE KEY----KEY HERE------END PRIVATE KEY-----\\n\",\n\"client_email\": \"project-name@api-aabbcc-123456.iam.gserviceaccount.com\",\n\"client_id\": \"your client ID here\",\n\"auth_uri\": \"https://accounts.google.com/o/oauth2/auth\",\n\"token_uri\": \"https://oauth2.googleapis.com/token\",\n\"auth_provider_x509_cert_url\": \"https://www.googleapis.com/oauth2/v1/certs\",\n\"client_x509_cert_url\": \"https://www.googleapis.com/robot/v1/metadata/x509/project-name%40api-aabbcc-123456.iam.gserviceaccount.com\",\n\"universe_domain\": \"googleapis.com\"\n}\n\"\"\")\n.CreateScoped(\nDriveService.ScopeConstants.Drive,\nSheetsService.ScopeConstants.Drive,\nSheetsService.ScopeConstants.Spreadsheets);\nOf course, this is a dummy credential file, but you get the idea. Also, consider that you don’t want to keep this in your source code but probably load it from some secure storage if you’re deploying this application (vs just running some code locally for fun)!\nOur main goal is to access and manipulate data within Google Sheets. However, finding the right spreadsheet can be challenging without knowing its unique ID. I don’t know about you, but when I use Google Drive and Google Sheets, I look up files and folders by their name and path… not by some hidden unique identifier.\nWe can tackle this by implementing a method to search for the spreadsheet using a path-like structure, despite Google Drive not natively supporting this feature:\npublic sealed class GoogleDriveClient(\nDriveService _driveService)\n{\npublic async Task<GoogleDriveFile> GetFileOrFolderForPathAsync(\nstring fullyQualifiedPath,\nCancellationToken cancellationToken)\n{\nQueue<string> pathPartQueue = new();\nforeach (string pathPart in fullyQualifiedPath.Split(['/', '\\\\']))\n{\npathPartQueue.Enqueue(pathPart);\n}\nStringBuilder pathSoFar = new(fullyQualifiedPath.Length);\nstring? parentId = null;\nwhile (pathPartQueue.Count > 0)\n{\nstring pathPart = pathPartQueue.Dequeue();\npathSoFar.Append(pathPart);\nFilesResource.ListRequest listRequest = CreateListRequest(\n_driveService,\nparentId,\npathPart);\nFileList items = await listRequest\n.ExecuteAsync(cancellationToken)\n.ConfigureAwait(false);\nif (items.Files.Count == 0)\n{\nthrow new InvalidOperationException(\n$\"Could not find a match for '{pathSoFar}'.\");\n}\nelse if (items.Files.Count > 1)\n{\nthrow new InvalidOperationException(\n$\"Multiple matches for '{pathSoFar}'.\");\n}\nif (pathPartQueue.Count == 0)\n{\nreturn items.Files[0];\n}\nparentId = items.Files[0].Id;\npathSoFar.Append('/');\n}\nthrow new InvalidOperationException(\n$\"Could not find a match for '{fullyQualifiedPath}'.\");\n}\nprivate static FilesResource.ListRequest CreateListRequest(\nDriveService driveService,\nstring? parentId,\nstring pathPart)\n{\nvar listRequest = driveService.Files.List();\nlistRequest.SupportsAllDrives = true;\nlistRequest.IncludeItemsFromAllDrives = true;\nlistRequest.PageSize = 2;\nlistRequest.Q = $@\"name = '{pathPart}'\";\nif (parentId != null)\n{\nlistRequest.Q += $@\" and '{parentId}' in parents\";\n}\nreturn listRequest;\n}\n}\nThe code above uses a path to a file or folder in Google Drive to be able to query each “path part” until the file or folder is found. If no such file or folder is found or there are multiple matches, an exception is thrown.\nNow that we have the file, we have the magical identifier that we need to access our Google Sheet spreadsheet in C#! Let’s look at the following code:\npublic sealed class DevLeaderLongFormTextPostContentFetcher(\nGoogleDriveClient _googleDriveClient,\nSheetsService _sheetsService)\n{\npublic async Task ProcessSpreadsheetAsync(\nstring pathToFileOnGoogleDrive,\nCancellationToken cancellationToken)\n{\nvar file = await _googleDriveClient.GetFileOrFolderForPathAsync(\npathToFileOnGoogleDrive,\ncancellationToken);\nvar spreadsheet = await _sheetsService\n.Spreadsheets\n.GetByDataFilter(\nnew()\n{\nIncludeGridData = true,\n},\nfile.Id)\n.ExecuteAsync(cancellationToken)\n.ConfigureAwait(false);\nforeach (var rowData in sheet.Data[0].RowData)\n{\n// TODO: do something with the row data!\n}\n}\n}\nIn the code above, we look for the spreadsheet at the particular path. From there, we open it up with the sheets service because we have the ID of the file that was returned. Once we have a spreadsheet object, we can use the Google Sheets API to interact with it accordingly.\nIn the code that we saw above, it’s by no means optimized for performance. If you have to do multiple lookups, even for the same file path… you’ll be stuck doing multiple queries. If you want to minimize the number of API calls, you could consider caching the paths to ID mapping locally. This would allow you to shortcut if you had a partial path match and skip having to do multiple path-part lookups — or jump right to the file ID if you’ve seen the exact path already.\nYou could expand this logic to work with other file types from Google as well! Instead of just spreadsheets, what about documents? When we consider other document types, something you might have noticed is that there aren’t extensions for spreadsheets (at least in my experience) on Google Drive. So what happens to our API calls if we have a document and a spreadsheet with the same name? Is it even possible in Google Drive? Try it out!\nThis guide has walked you through the basics of using the Google Sheets API in C# to access and manipulate data stored in Google Drive. You can now build applications leveraging data stored in your Google Drive by coding them up in dotnet!\nThe initial setup and authentication we used involved getting a JSON credential from Google Cloud console. Beyond that, we had to navigate down to the file in question by going each part of a path at a time — unless you want to work with the file IDs directly!\nWhether you’re looking to build a data-driven website or manage content schedules (which is what I was doing!), these Google APIs can help you out! Feel free to experiment with these concepts in your projects and explore the full capabilities of the Google Sheets and Drive APIs in your .NET applications. If you found this useful and you’re looking for more learning opportunities, you can check out my free videos on YouTube!\nYes! You can use Google Drive APIs and Google Sheets APIs to manage a dynamic data store for your C# applications by accessing and manipulating spreadsheets. While this may not be a suggested scalable approach for large high-performance applications, it could certainly work for smaller use cases to get started!\nIf following the tutorial in this article, you’ll need the Google Sheets API (v4) and Google Drive API (v3) packages. These NuGet packages are essential for interacting with Google’s services in a C# application.\nAuthentication requires a JSON credential file from the Google Cloud console. The article outlines creating a service account, obtaining the JSON credentials, and sharing your Google Drive files with this account for the necessary permissions.\nYou can search for a spreadsheet using a path-like structure, despite Google Drive not supporting this feature natively. This allows developers to locate files by name and path instead of unique identifiers. This is accomplished by going to each part of the path to look for a sub-folder before reaching the target file.\nConsider optimizing performance by caching paths to ID mappings locally to minimize API calls. The article suggests expanding the logic to work with other file types and handling documents and spreadsheets with the same name.\nUsing these APIs, you can build data-driven applications, manage content schedules, and leverage Google Drive’s storage capabilities within your .NET applications, enabling a wide range of functionalities from data analysis to content management.\nThis article, along with any associated source code and files, is licensed under The Code Project Open License (CPOL)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [
+    "https://www.googleapis.com/robot/v1/metadata/x509/project-name%40api-aabbcc-123456.iam.gserviceaccount.com",
+    "https://accounts.google.com/o/oauth2/auth",
+    "https://www.googleapis.com/oauth2/v1/certs",
+    "https://oauth2.googleapis.com/token",
+    "https://googleapis.com/robot/v1/metadata/x509/project-name%40api-aabbcc-123456.iam.gserviceaccount.com",
+    "https://www.oauth2.googleapis.com/token",
+    "https://googleapis.com/oauth2/v1/certs",
+    "https://www.accounts.google.com/o/oauth2/auth"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "google",
+        "sentiment": "negative"
+      },
+      {
+        "name": "google drive",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-02-16T01:19:57.862+02:00",
+  "updated": "2024-02-16T01:19:57.862+02:00"
+}

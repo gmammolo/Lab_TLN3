@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "b5d0974f87f19b6612d06c0094b210c383ffb11d",
+    "url": "https://www.lehighvalleylive.com/weather-alerts/2026/01/update-be-prepared-for-dense-fog-and-black-ice-in-northern-wayne-and-susquehanna-county-until-early.html",
+    "site_full": "www.lehighvalleylive.com",
+    "site": "lehighvalleylive.com",
+    "site_section": "https://www.lehighvalleylive.com/arc/outboundfeeds/rss/?outputtype=xml",
+    "site_categories": [
+      "media",
+      "crime, law and justice",
+      "lifestyle and leisure",
+      "weather",
+      "sport",
+      "economy, business and finance"
+    ],
+    "section_title": "",
+    "site_title": "Lehigh Valley news, Easton, Bethlehem, Allentown, Phillipsburg and Lehigh Valley sports &amp; weather",
+    "title": "Update: Be prepared for dense fog and black ice in Northern Wayne and Susquehanna County until early Thursday morning",
+    "title_full": "Update: Be prepared for dense fog and black ice in Northern Wayne and Susquehanna County until early Thursday morning",
+    "published": "2026-01-08T07:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.lehighvalleylive.com/resizer/v2/PX6CRFTTXZHQHDUSHV3RX3XJRU.png?auth=a4f7e40d63fcec8e570036ebf43a4c581aaf2d53a5b1c6fe2f3bd18bbed10b1b&amp;width=1280&amp;smart=true&amp;quality=90",
+    "performance_score": 0,
+    "domain_rank": 35054,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b5d0974f87f19b6612d06c0094b210c383ffb11d",
+  "url": "https://www.lehighvalleylive.com/weather-alerts/2026/01/update-be-prepared-for-dense-fog-and-black-ice-in-northern-wayne-and-susquehanna-county-until-early.html",
+  "ord_in_thread": 0,
+  "author": "Advance Local Weather Alerts",
+  "published": "2026-01-08T07:12:00.000+02:00",
+  "title": "Update: Be prepared for dense fog and black ice in Northern Wayne and Susquehanna County until early Thursday morning",
+  "text": "An updated report from the National Weather Service was issued on Thursday at 12:06 a.m. for dense fog and black ice until 5 a.m. for Northern Wayne and Susquehanna County.\n\"Mist, drizzle, and fog have left surfaces wet and with temperatures near or just below freezing, patchy black ice will be possible. The shallow ground fog is also locally dense over the cold snow pack tonight, with localized visibilities under 1/4 mile. Use caution if walking or driving tonight. Be prepared for rapid visibility changes and for possible ice on roadways, sidewalks, stairs, driveways or any other untreated surfaces,\" comments the weather service.\nGuidance from the weather service for navigating foggy conditions\nIf you need to drive through fog, remember these safety guidelines:\nModerate your speed:\n- Slow down and allow extra travel time to reach your destination safely.\nVisibility priority:\n- Ensure your vehicle is visible to others by using low-beam headlights, which also activate your taillights. If you have fog lights, use them.\nAvoid high-beams:\n- Refrain from using high-beam headlights, as they create glare that impairs your visibility on the road.\nMaintain safe gaps:\n- Leave a safe distance between you and the vehicle in front of you to account for sudden stops or changes in the traffic pattern.\nStay in your lane:\n- Use the road's lane markings as a guide to staying in the correct lane.\nZero visibility strategy:\n- In situations of near-zero visibility due to dense fog, activate your hazard lights and seek a secure location, such as a nearby business's parking lot, to pull over and come to a stop.\nNo parking options:\n- If no designated parking area is available, pull your vehicle as far off the road as possible. Once stationary, deactivate all lights except the hazard flashers, engage the emergency brake, and release the brake pedal to ensure your tail lights are not illuminated, reducing the risk of other drivers colliding with your stationary vehicle.\nBy adhering to these recommendations from the weather service, you can navigate foggy conditions more safely, reducing the risk of accidents and ensuring your well-being.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather warning",
+    "Disaster and Accident->emergency response"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Susquehanna County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Weather Service",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "b5d0974f87f19b6612d06c0094b210c383ffb11d",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Allentown",
+        "Bethlehem",
+        "Easton"
+      ],
+      "state": [
+        "Pennsylvania"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T07:39:07.083+02:00",
+  "updated": "2026-01-08T07:42:45.000+02:00"
+}

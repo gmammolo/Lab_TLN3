@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "966339ea8f2ebfcdb7124c4e43653395c9695a01",
+    "url": "https://securityboulevard.com/?p=2014690",
+    "site_full": "securityboulevard.com",
+    "site": "securityboulevard.com",
+    "site_section": "https://securityboulevard.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Home - Security Boulevard",
+    "title": "Simbian Unveils Generative AI Platform to Automate Cybersecurity Tasks - Security Boulevard",
+    "title_full": "Simbian Unveils Generative AI Platform to Automate Cybersecurity Tasks - Security Boulevard",
+    "published": "2024-04-11T23:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://securityboulevard.com/wp-content/uploads/2024/04/abstract-ai-connections-kanhaiya-sharma-EiAqej-cGks-unsplash.jpg",
+    "performance_score": 0,
+    "domain_rank": 11076,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "966339ea8f2ebfcdb7124c4e43653395c9695a01",
+  "url": "https://securityboulevard.com/?p=2014690",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Michael Vizard",
+  "published": "2024-04-11T23:58:00.000+03:00",
+  "title": "Simbian Unveils Generative AI Platform to Automate Cybersecurity Tasks - Security Boulevard",
+  "text": "Simbian Unveils Generative AI Platform to Automate Cybersecurity Tasks Simbian today launched a cybersecurity platform that leverages generative artificial intelligence (AI) to automate tasks that can increase in complexity as the tool learns more about the IT environment. Fresh off raising $10 million in seed funding, Simbian CEO Ambuj Kumar said the company has trained a large language model (LLM), dubbed TrustedLLM, to create an AI co-pilot that can summarize events, suggest remediations and automate tasks. Cybersecurity teams can determine how much faith they want to place in a TrustedLLM over time, as it continuously observes how an IT environment is evolving. The more the LLM learns about the environment, the more complex the tasks the platform can autonomously perform, said Kumar. As the reasoning engines embedded within LLMs become more advanced, generative AI platforms are increasingly able to combine a series of steps to automate a task. For example, cybersecurity teams can use a natural language interface to assign Trusted LLM platform to find and remediate a vulnerability anywhere it exists that might require it to generate code to enable multiple cybersecurity tools and platforms to work in concert with each other to complete a task, said Kumar. Over time, each cybersecurity professional will become more of a supervisor of tasks executed by a co-pilot, Kumar added, rather than someone who has to manually perform each task themselves. Less clear is to what degree a cybersecurity expert will be required to supervise a co-pilot, as generative AI continue to make managing cybersecurity easier for any IT professional. Unlike general-purpose LLMs, the Trusted LLM has been trained on a narrow set of cybersecurity data to eliminate common hallucinations like those regularly encountered with platforms such as ChatGPT, said Kumar. That approach also ensures that data shared with the LLM isn’t inadvertently going to be used to train an LLM that might be accessible to anyone, he added. Given the chronic shortage of cybersecurity expertise , it’s only a matter of time before more organizations rely on AI to automate tasks. There are, of course, any number of existing automation platforms for cybersecurity. However, they all require cybersecurity teams to master some level of programming, to varying degrees. By exposing a natural language interface, Generative AI platforms eliminate that requirement so the number of workflows that can be automated should continue to increase. As more of those workflows are automated, cybersecurity will steadily improve as organizations can eliminate vulnerabilities before cybercriminals are able to exploit them. In addition, cybersecurity teams should also be able to better contain any damage inflicted, as they can respond more adroitly as soon as a breach is discovered. The overall cybersecurity return on investment (ROI) should also improve, because small teams can maintain cybersecurity across highly distributed computing environments. It’s not likely AI is going to eliminate the need for cybersecurity professionals, but their roles are about to change. Hopefully, less time will be spent performing the manual tasks that leads to higher turnover rates among cybersecurity professionals. Most would prefer to spend their time eliminating threat vectors and thwarting attacks in progress. Photo credit: Kanhaiya Sharma on Unsplash",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://www.businesswire.com/news/home/20240411263264/en/Simbian-Emerges-from-Stealth-with-10M-to-Build-Fully-Autonomous-Security-Platform-Powered-by-GenAI)",
+    "https://simbian.ai/)",
+    "https://unsplash.com/photos/a-black-and-white-photo-of-a-geometric-object-EiAqej-cGks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)",
+    "https://unsplash.com/@kanhaiyasharma?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)",
+    "https://unsplash.com/photos/a-black-and-white-photo-of-a-geometric-object-EiAqej-cGks",
+    "https://www.simbian.ai/)",
+    "https://businesswire.com/news/home/20240411263264/en/Simbian-Emerges-from-Stealth-with-10M-to-Build-Fully-Autonomous-Security-Platform-Powered-by-GenAI)",
+    "https://www.unsplash.com/@kanhaiyasharma?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)",
+    "https://unsplash.com/@kanhaiyasharma",
+    "https://www.unsplash.com/photos/a-black-and-white-photo-of-a-geometric-object-EiAqej-cGks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kumar",
+        "sentiment": "none"
+      },
+      {
+        "name": "ambuj kumar",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T02:12:01.442+03:00",
+  "updated": "2024-04-12T02:42:49.407+03:00"
+}

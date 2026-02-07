@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "3b99310b2f1e56794baf915c33a0be8342e03569",
+    "url": "https://www.eepw.com.cn/article/202508/473100.htm",
+    "site_full": "www.eepw.com.cn",
+    "site": "eepw.com.cn",
+    "site_section": "https://www.eepw.com.cn/news",
+    "site_categories": [],
+    "section_title": "新闻中心_电子产品世界",
+    "site_title": "EEPW 电子产品世界-权威的电子设计应用网站",
+    "title": "英伟达否认 Rubin 延迟传闻，AMD MI450 刺激重新设计猜测",
+    "title_full": "英伟达否认 Rubin 延迟传闻，AMD MI450 刺激重新设计猜测",
+    "published": "2025-08-14T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 36352,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3b99310b2f1e56794baf915c33a0be8342e03569",
+  "url": "https://www.eepw.com.cn/article/202508/473100.htm",
+  "ord_in_thread": 0,
+  "author": "作者： 时间：",
+  "published": "2025-08-14T03:00:00.000+03:00",
+  "title": "英伟达否认 Rubin 延迟传闻，AMD MI450 刺激重新设计猜测",
+  "text": "英伟达否认 Rubin 延迟传闻，AMD MI450 刺激重新设计猜测\n随着其专注于中国的 H20 仍面临美国批准的不确定性，NVIDIA 的下一代 AI 芯片 Rubin 在延迟传闻中再次引起关注。但该公司告诉 巴伦周刊 和 雪球 ，这些说法是假的，并补充说 Rubin 仍按计划进行。\n报道，援引富邦研究的数据，警告称 NVIDIA 的 Rubin 可能会因为重新设计以应对 AMD 即将推出的 MI450 而延迟。尽管 Rubin 首次在 6 月份完成流片，但据引用的研究报告称，预计在 9 月底或 10 月进行的第二次流片将导致 2026 年的产量有限。\n根据 wccftech 的报道，如果传言属实，Rubin 延迟了四到六个月。然而，NVIDIA 否认了这些说法，称 Rubin 及其 GPU 仍按照公司的年度发布周期进行。根据 NVIDIA 的路线图，Rubin 预计将在 2026 年推出，Rubin Ultra 则将在 2027 年推出，这是根据 Tom’s Hardware 报道的。\n值得注意的是，Tom’s Hardware 的报道指出，Rubin 将进行 HBM 升级，从 HBM3/HBM3e 过渡到 HBM4，而 Rubin Ultra 将采用 HBM4e。每张 GPU 的内存容量仍将保持在 288GB，与 B300 相同，但带宽将增加到 13 TB/s，从 8 TB/s 提升。此外，NVLink 的速度将翻倍，报道补充道。\n如 TrendForce 观察，NVIDIA 正在以惊人的速度推进其 AI 路线图。虽然当前的 Blackwell Ultra (GB300) 刚刚进入生产阶段，下一代“Vera Rubin”架构已经接近设计完成，预计将在 2026 年下半年推出。Rubin 预计将标志一个重大的技术飞跃，采用台积电的 3nm 工艺、HBM4 以及 NVIDIA 首次采用的芯片设计。然而，TrendForce 指出，如此紧凑的产品周期给供应链的适应能力带来了巨大挑战。\nAMD 的 MI400：一个更强劲的挑战者\n另一方面，正如 Barron’s 指出的，AMD 即将推出的 MI400 系列，包括 MI450，将标志着 AMD 首款机架级 AI 服务器，配备 72 个处理器——这可能是对 NVIDIA 的一个远比之前型号更强劲的挑战者。\n根据 TechPowerUp 的报道，每个 MI400 预计将配备十二个 HBM4 堆栈，总共拥有高达 432 GB 的片上内存和近 19.6 TB/s 的带宽。Wccftech 补充说，AMD 的模块化设计，通过以太网使用 Infinity Fabric，也使得机架部署更加容易——这促使 NVIDIA 考虑新的 Rubin 配置，尽管目前仍属猜测。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:28:01.866+03:00",
+  "updated": "2025-08-14T10:31:15.000+03:00"
+}

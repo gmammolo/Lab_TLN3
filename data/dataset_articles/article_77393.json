@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "6fe662209de31f575f236744773a9bd455267f6a",
+    "url": "https://www.softzone.es/noticias/windows/windows-11-23h2-fin-soporte-tres-meses/",
+    "site_full": "www.softzone.es",
+    "site": "softzone.es",
+    "site_section": "https://softzone.es/feed",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "SoftZone - Web de software de Windows y Linux - Noticias, tutoriales, guías, consejos y trucos",
+    "site_title": "SoftZone - Web de software de Windows y Linux - Noticias, tutoriales, guías, consejos y trucos",
+    "title": "El fin de Windows 10 no es el único problema: tu Windows 11 podría estar en riesgo",
+    "title_full": "El fin de Windows 10 no es el único problema: tu Windows 11 podría estar en riesgo",
+    "published": "2025-08-14T11:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.softzone.es/app/uploads-softzone.es/2025/08/Portatiles-con-Windows-10-y-Windows-11.jpg",
+    "performance_score": 0,
+    "domain_rank": 134348,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6fe662209de31f575f236744773a9bd455267f6a",
+  "url": "https://www.softzone.es/noticias/windows/windows-11-23h2-fin-soporte-tres-meses/",
+  "ord_in_thread": 0,
+  "author": "Rubén Velasco",
+  "published": "2025-08-14T11:07:00.000+03:00",
+  "title": "El fin de Windows 10 no es el único problema: tu Windows 11 podría estar en riesgo",
+  "text": "Todo el mundo habla del final de soporte de Windows 10 y del impacto que va a tener en la industria que este sistema operativo alcance su final de soporte. Cuando llegue el día clave, 14 de octubre, todos los PCs que aún utilicen este sistema operativo se van a quedar sin actualizaciones a no ser que paguen y se unan al programa de soporte extendido, ESU, para poder actualizar sus ordenadores durante un año más. Pero Windows 10 no es el único que se va a quedar sin actualizaciones. Y es que si usas Windows 11, puede que también estén en peligro.\nAhora mismo conviven dos versiones de Windows 11: la 23H2, lanzada en 2023, y la 24H2, lanzada un año después, en 2024. Los usuarios con cualquiera de estas dos versiones pueden usar Windows 11 sin problemas y recibir tanto actualizaciones como mantenimiento. Sin embargo, justo un mes después del final de soporte de Windows 10, la versión 23H2 de Windows 11 también se va a quedar sin soporte.\nAdiós a Windows 11 23H2, con matices\nTal como estaba planeado desde su lanzamiento, la versión 23H2 de Windows 11 ha tenido dos años de soporte y actualizaciones. Con Windows 11 24H2, y la nueva 25H2 a la vuelta de la esquina, es hora de que la 23H2 pase a mejor vida. Al menos, en entornos domésticos.\nEl día 11 de noviembre de 2025 será el día en el que este sistema dejará de recibir todo tipo de soporte y actualizaciones en sus ediciones Home y Pro. Las ediciones Enterprise y Education aún tendrán soporte durante un año más, hasta el 10 de noviembre de 2026. En esa fecha, esta versión dejará de existir por completo.\nPara comprobar qué versión de Windows 11 utilizas ahora mismo, lo que tienes que hacer es abrir el buscador de Windows y buscar en él «winver». O también puedes entrar en Configuración > Sistema > Información para ver la versión del sistema operativo que tienes instalada.\nSi en el apartado destacado aparece la 23H2, u otra versión anterior, tienes un problema. Y deberías pensar en instalar la nueva versión de Windows, la 24H2, lo antes posible para asegurarte de que vas a tener actualizaciones y soporte sin problemas. Si en la parte de «Edición» aparece «Enterprise» o «Education», entonces sí vas a tener actualizaciones un año más, pero asegúrate de que cumples con los términos de licencia para usar esa versión.\nActualizar a Windows 11 24H2\nMicrosoft liberó hace poco la versión 24H2 para todos los usuarios. Por lo tanto, cualquiera con Windows 11 23H2 debería poder ver la nueva versión dentro de Windows Update y, si es así, instalarla para poner el sistema al día y asegurarse las actualizaciones.\nNo obstante, es importante tener en cuenta que, aunque 24H2 ya ha sido liberado para todo el mundo, podemos encontrarnos con algunos componentes incompatibles que podrían seguir bloqueando la actualización, como:\n- Drivers de SenseShield Technology: confirmados como incompatibles en el boletín de soporte KB5037008 de Microsoft. Se recomienda actualizar los drivers a la versión más reciente del fabricante.\n- Cámaras integradas: ciertos modelos de webcams presentan fallos tras la actualización.\n- Drivers de audio Intel Smart Sound Technology (SST): Problemas documentados en la página de estado de versiones de Windows. La solución pasa por instalar el controlador versión 10.30.00.5714 o superior.\n- Software de personalización de fondos: estos programas afectan la estabilidad del escritorio.\n- Software de mejora de audio Dirac: puede provocar conflictos con el nuevo sistema de sonido.\nComponente/Software | Problema Detectado | Estado/Solución Sugerida |\n---|---|---|\nDrivers SenseShield Technology | Bloqueo de la actualización debido a ofuscación de código. | Actualizar a la última versión del driver proporcionada por el desarrollador del software. |\nCámaras integradas (ciertos modelos) | Posibles fallos de funcionamiento o pantallazos azules (BSOD). | Verificar actualizaciones de drivers a través de Windows Update o del fabricante del equipo. |\nIntel Smart Sound Technology (SST) | Errores de sonido o fallos del sistema. | Instalar la versión 10.30.00.5714 o superior del controlador. |\nSoftware de personalización de fondos | Inestabilidad del explorador de archivos y el escritorio. | Desinstalar temporalmente el software antes de actualizar. |\nSoftware de mejora de audio Dirac | Conflictos con el subsistema de audio de Windows. | Desinstalar el software o buscar una versión compatible con 24H2. |\nSi es tu caso, con este truco puedes forzar la actualización a Windows 11 24H2 de manera que puedas dar el salto a la última versión de Windows sin problemas.\nWindows 11 ya supera a Windows 10 en cuota de mercado, superando a este sistema en un 11% (53% frente a 42% según los datos más recientes de StatCounter Global Stats correspondientes a julio de 2025). Y, si lo que buscamos es jugar, dentro del sector gaming también hay valores que dan la ventaja a Windows 11. En concreto, un 59.9% frente al 35.1% que aún usan Windows 10 tal como nos deja ver la última encuesta de hardware y software de Steam.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "ESU",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:31:55.469+03:00",
+  "updated": "2025-08-14T11:41:10.000+03:00"
+}

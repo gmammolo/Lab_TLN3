@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "9df482ce59d173c8331fb6ecb9fcff2e9358fe9f",
+    "url": "https://m.c114.com.cn/w3542-1295460.html",
+    "site_full": "m.c114.com.cn",
+    "site": "c114.com.cn",
+    "site_section": "https://m.c114.com.cn/index.asp?c=wap",
+    "site_categories": [],
+    "section_title": "C114通信网",
+    "site_title": "C114ͨ����|ͨ����վ|ͨ���Ż�",
+    "title": "代理式人工智能如何暴露你最敏感的个人数据 - C114通信网",
+    "title_full": "代理式人工智能如何暴露你最敏感的个人数据 - C114通信网",
+    "published": "2025-08-21T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 59125,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9df482ce59d173c8331fb6ecb9fcff2e9358fe9f",
+  "url": "https://m.c114.com.cn/w3542-1295460.html",
+  "ord_in_thread": 0,
+  "author": "来源：C",
+  "published": "2025-08-21T03:00:00.000+03:00",
+  "title": "代理式人工智能如何暴露你最敏感的个人数据 - C114通信网",
+  "text": "AI代理代表着一个根本性的转变，从如今基于权限的应用程序转变为能够自主行动的系统。与当前响应指令的语音助手不同，代理式AI可以自主做出决策、执行复杂任务，并在没有持续人工监督的情况下访问海量的个人数据。这种自主性带来了前所未有的隐私与安全风险，因为这类系统需要调用大规模个人数据。\n我们已习惯应用程序请求授权：获取定位、查看通讯录或启用麦克风。但自主人工智能彻底颠覆了这一模式——这些系统不再请求许可，而是直接行动，使得\"辅助工具\"与\"自主操作者\"的界限日渐模糊。\n然而，这种技术范式可能引发全新且极其重大的隐私与安全风险。\n究其根源，专家预测AI代理体未来将承担的各类任务 —— 如规划假期行程、确认医疗预约乃至智能比价购物 —— 均需调用敏感数据，包括财务信息、实时定位等核心隐私。\n据Gartner咨询公司预警，未来企业数据泄露事件中，将有25%与自主AI系统滥用有关。因此，厘清三大核心问题至关重要：AI代理体的运作机制、其衍生的新型隐私风险，以及网络安全专家构建的风险缓释体系。\nAI代理究竟是什么？\nAI代理（又称自主人工智能），是指具备高度自治能力的人工智能系统（https://transmitter.ieee.org/what-is-agentic-ai/）。\"这类系统可在不受人类持续控制的情况下，自主行动以实现目标，\"IEEE高级会员Keeley Crockett解释道。\nCrockett进一步指出：\"基于预设程序及所持数据，此类系统能够自主决策、执行任务并动态适应环境，通常无需人工干预。\"\n尽管AI代理体可应用于网络安全或金融领域，但更多专家预见其将掀起个人数字助理的新浪潮——从自动采购日用品到主动设置提醒，深度介入人类生活管理。\n然而，这类系统与智能手机中常见的语音助手存在本质差异。IEEE高级会员Keeley Crockett指出：\"现有语音助手仅具备被动响应能力，缺乏自主设定目标的功能。\"\nCrockett强调：\"它们虽能执行单一简单任务，但若无人为指令介入，则无法实施任何具有实际意义的操作。\"\n对数据的巨大需求\n数据作为所有人工智能系统的命脉，AI代理亦不例外。要实现其自主运行，往往需要调用海量数据资源。\nIEEE高级会员Vaibhav Tupe指出：\"自主AI系统需获取全方位数据权限，包括银行账户、医疗记录、日程安排、定位轨迹、通讯模式、消费习惯，乃至健康监测所需的生物特征数据。\"\nTupe强调：\"现有应用通常仅调用单一数据类型，而自主AI必须串联用户整个数字生活的所有节点。\"\n风险指数级攀升\n自主人工智能（AI）带来的隐私风险，较当前技术呈数量级增长。\nIEEE高级会员Kayne McGladrey指出：\"自主AI需要彻底打破现有数据孤岛，实现全面整合——这意味着风险并非简单累加，而是呈几何级数倍增。\"\n当前非自主AI的普通消费级应用，通常仅调用单一类型数据（如健康或财务数据）；而自主AI系统可能同时需要上述所有数据，并叠加历史行为模式与实时监测能力。\n现有消费级算法仅针对特定用途处理数据，且需获得用户授权。\nIEEE高级会员Kayne McGladrey警示道：\"自主AI系统会主动采集跨领域数据，并自主决策数据使用方式。现有系统通常需用户授权才能执行操作，而自主AI的设计初衷就是在最小化人工监督下独立运行—— 这将催生全新类型的责任风险。\"\n保障人工智能智能体的安全\n那么，人们在使用人工智能智能体时如何保护自己的隐私呢？\n网络安全专家建议采用多层次防护方法，从基本的安全卫生习惯做起，再延伸到专为自主人工智能系统设计的新实践。\n“为所有账户启用多因素认证，将数据共享最小化到仅特定任务绝对必要的范围，为不同用途创建单独的账户，以分隔数字暴露面，” McGladrey说。\n这种分隔策略在人工智能智能体方面显得尤为重要，因为它们通常需要访问多个数据源。用户不应让一个人工智能系统获取所有数据的访问权限，而应考虑为不同用途使用不同的人工智能工具，比如一个用于财务任务，另一个用于健康管理，依此类推。\nIEEE高级会员Kayne McGladrey建议：\"使用隐私保护型浏览器及工具，定期审查设备权限，并对那些‘完美得不真实’的AI系统保持合理怀疑。\"\n专家同时指出，AI交互需与传统应用区别对待。McGladrey强调：\"建议将每次AI交互视为可能生成永久记录的行为，在分享敏感信息前做好相应预案。\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T07:46:31.976+03:00",
+  "updated": "2025-08-21T07:51:02.000+03:00"
+}

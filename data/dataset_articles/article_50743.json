@@ -1,0 +1,148 @@
+{
+  "thread": {
+    "uuid": "f59973ed85117ad8e0e55d699a3973fb7a80deb3",
+    "url": "https://www.xda-developers.com/i-might-switch-windows-if-macos-gets-annoying",
+    "site_full": "www.xda-developers.com",
+    "site": "xda-developers.com",
+    "site_section": "http://feeds.feedburner.com/xda-developers/shsh#software",
+    "site_categories": [
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": " XDA ",
+    "title": "I might switch to Windows if Apple keeps making macOS more annoying for power users",
+    "title_full": "I might switch to Windows if Apple keeps making macOS more annoying for power users",
+    "published": "2024-08-30T00:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/05/vmware-fusion-pro-13-3.jpg",
+    "performance_score": 0,
+    "domain_rank": 1580,
+    "domain_rank_updated": "2024-08-27T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f59973ed85117ad8e0e55d699a3973fb7a80deb3",
+  "url": "https://www.xda-developers.com/i-might-switch-windows-if-macos-gets-annoying",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "xda-developers.com",
+  "published": "2024-08-30T00:00:00.000+03:00",
+  "title": "I might switch to Windows if Apple keeps making macOS more annoying for power users",
+  "text": "Menu\nSign in now Close News & Deals Submenu News Deals Reviews Submenu Laptops CPUs Graphics cards SSDs Product Awards Best Guides Submenu Best Laptops Best Chromebooks Best CPUs Best graphics cards Tutorials Submenu Windows macOS Linux ChromeOS Threads Topics Submenu Acer Apple Dell HP Lenovo Microsoft Razer Sign in Newsletter Trending Copilot+ Snapdragon X Series Windows 11 2024 Update On this day Forums Close I might switch to Windows if Apple keeps making macOS more annoying for power users macOS Sequoia: A new Siri, window snapping, and everything else you need to know By Brady Snyder Published 1 hour ago Thread Your changes have been saved\nEmail is sent\nEmail has already been sent\nclose Please verify your email address.\nSend confirmation email close You’ve reached your account maximum for followed topics.\nManage Your List Follow Followed Follow with Notifications Follow Unfollow Share Facebook Flipboard Copy link Link copied to clipboard Sign in to your XDA account\nKey Takeaways A new macOS Sequoia behavior will make users grant permission for apps that need screen sharing on a monthly basis. The change covers any app that does screen sharing or recording, but also applies to apps with color pickers and screenshot utilities, potentially adding hassle to the workflows of power users. While this behavior is appearing in the macOS Sequoia developer beta and is not official, this is far from the first macOS change to negatively affect enthusiasts and professionals on the platform. The idea that one desktop operating system, like macOS, Windows, or Linux, can be the absolute best is a false notion. As much as I love using the best Macs for productivity work, I understand two basic factors that influence desktop users above all else. It's not about specs, hardware, user-interface, or even any one specific feature. Instead, the OS that you know how to use and feel familiar with will likely always be preferred, and the type of work you need to do will play a role as well. I've been a macOS user my entire life, and I don't think using Windows 11 will ever feel as natural to me as using macOS Sonoma .\nWhen this reality is brought up, people often criticize those who feel too comfortable with macOS, Linux, or Windows to switch operating systems as being unwilling to learn. I disagree — because if something works, it works. As much as I love using my Lenovo Yoga Book 9i as a mobile workstation, macOS works better for my workflow because I've already mastered it.\nIt works, and until it doesn't, I have no reason to switch to Windows. But lately, as Apple makes macOS more tailored to casual users, and I start needing more from my Macs as a power user, I wonder if our wants and needs are diverging.\nRelated macOS Sequoia hands-on: Apple finally figured out how to snap windows macOS Sequoia is like macOS Sonoma, but with window snapping built-in.\nApple made a few frustrating changes to macOS over the last few releases that specifically affected power users, professionals, and enthusiasts. Now, the biggest annoyance is set to come with macOS Sequoia, which is set to launch in about a month or less. For me, it represents a tipping of the scales. If Apple keeps making macOS more annoying, I might go all-in on Windows 11.\nmacOS Sequoia will change how you use your Mac And it's not for the better — using color pickers, screenshot tools, and video meetings will be more annoying Close I've been experimenting with the macOS Sequoia developer beta for months now, and there's a lot to like. Finally, Apple has a window management tool comparable to what Windows offers. Apple Intelligence is impressive, even if that's just based on early impressions. And, there's a new screen sharing feature that makes it clearer to see what you're sharing with people and apps.\nUnfortunately, everything else related to screen sharing is about to get a lot more difficult. Earlier this month, macOS Sequoia users started to see a new pop-up asking them to grant permission for each app that uses screen sharing on a weekly basis. Many thought this was a bug, initially, but it was later revealed that this was the intended behavior. Understandably, there was public outcry. Can you imagine having to manually give Google Meet or Zoom permission to share your screen once per week? It's the kind of behavior Microsoft was slammed for in the past.\nRelated I tried 5 new Apple Intelligence features in macOS Sequoia, here’s how it went The flagship features aren’t available yet, but I’m already impressed by the Apple Intelligence beta.\n3 In a subsequent beta release, Apple shifted the pop-up interval from every week to every month. This is better, but it's still quite annoying and something that power users might have to do multiple times every month. You might not realize how many apps will bug you about these permissions until this feature rolls out. When it does, assuming it isn't altered before release, you may see one of two prompts:\n[App] is requesting to bypass the system private window picker and directly access your screen and audio. This will allow [app name] to record your screen and system audio, including personal or sensitive information that may be visible or audible.\n[App] can access this computer’s screen and audio. Do you want to continue to allow access? This application may be able to collect information from any open applications on your desktop while the app is running.\nThis change will apply to any app that can access your screen's contents, and that covers a lot of apps. For starters, you might be surprised to learn that any app with a color picker that can see your desktop or windows will need monthly permission to do so in macOS Sequoia. The same goes for screen recording and sharing apps, like OBS, Google Meet, Zoom, Teams, and more. Screenshot tools are subject to the monthly permission, too, so users of CleanShotX and similar apps will need to live with the prompts. Since this requirement is on a per-app basis, you'll have to do it for each app, 12 times per year.\nIt's shocking that there isn't an option to permanently allow screen sharing permission for specific apps in macOS Sequoia. If I know the app, trust the app, and need to share my screen regularly, why won't Apple let me do so without the hassle?\nIt's not the first change to hurt power users Multiple years later, the System Settings app is still poorly optimized for macOS\nFor me, this might be the change that makes me think twice about using macOS full-time. However, it's far from the only recent change to alter the workflows of power users for the worse. On a much smaller scale, I think the addition of the Control Center to the macOS menu bar represents a step backward. The entire purpose of the menu bar is to show information at a glance and house quick toggles and modules.\nBy putting some of these options behind the Control Center, Apple is just adding clicks to the process. People in the know can change this, thankfully, and move modules directly to the menu bar. But it's still a user-interface change that makes macOS more like iOS and needlessly dilutes the Mac's identity.\nRelated 4 features I wish Apple would steal from Windows Apple granted my wish with window snapping, but I want more\n2 The worst offense is clearly the System Preferences overhaul a few years back that created System Settings . That's the new app for macOS settings, and it has the same downsides as the Control Center. It mimics iOS and iPadOS in ways that simply harm the macOS user experience. In the sidebar, the Displays page is the 15th option from the top, and the Keyboard page is the 27th option from the top. They're pushed lower so that pages like Notifications , Screen Time , and Focus are higher.\nThis matches iOS and iPadOS, but doesn't really make sense for the Mac. Changing your keyboard, mouse, and display settings is a frequent necessity for power users, and it's harder to do in recent versions of macOS.\nHow Apple can fix macOS for power users Choice! That's all it takes to keep advanced macOS experts happy\nThere's an easy solution to the permissions problem in macOS Sequoia. All Apple needs to do is give power users a way to permanently disable them, even if it's difficult. This may be something Apple adds before macOS Sequoia launches, because there's already a Persistent Content Capture value on the Apple Developer website. I'd be extremely disappointed if the company didn't give power users a choice beyond the monthly permission dialog boxes.\nIn general, it feels like iOS and iPadOS are gaining user choice — especially in the EU — while macOS users are losing it. That's unacceptable for me, and when these changes start to impact my workflow, I start to seriously wonder whether it's worth putting up with macOS. If they continue, I might be forced to give Windows another look despite being a longtime macOS enthusiast.\nRelated 15 settings you didn't know you should change on your Mac Revealing lesser-known macOS settings for power users\nmacOS macOS Sequoia: A new Siri, window snapping, and everything else you need to know Apple Your changes have been saved\nEmail is sent\nEmail has already been sent\nclose Please verify your email address.\nSend confirmation email close You’ve reached your account maximum for followed topics.\nManage Your List Follow Followed Follow with Notifications Follow Unfollow Readers like you help support XDA. When you make a purchase using links on our site, we may earn an affiliate commission. Read More . Close Thread Sign in to your XDA account We want to hear from you! Share your opinions in the thread below and remember to keep it respectful.\nBe the first to post Attachment(s) Please respect our community guidelines . No links, inappropriate language, or spam. Your comment has not been saved\nSend confirmation email This thread is open for discussion.\nBe the first to post your thoughts.\nTerms Privacy Feedback Recommended\nEven Apple finally admits that 8GB RAM isn't enough macOS Sequoia: A new Siri, window snapping, and everything else you need to know Base-model Macs won't be able to take advantage of Apple's flagship Xcode 16 feature: Predictive Code Completion.\n13 Jun 23, 2024\n4 reasons you must build a PC with all used parts at least once PC Build Guide At least once in your life, you must build a PC only with used parts for an invaluable and memorable experience\n2 days ago\n6 free programs to install as soon as you get your new gaming PC Game Streaming Just got a new gaming PC but not sure what programs to install? These 6 free programs are sure to help you make the most of it\n13 4 days ago\nIntel releases a swath of Xeon news, including a 17x improvement in AI processing Xeon Good news for Xeon fans: Intel has a lot of big developments on the way.\n1 day ago\nThis modular Raspberry Pi 5 tablet is a portable device lover's dream Single-Board Computers Want a teeny-tiny tablet with a modular design? This Raspberry Pi 5 computer has you covered.\n1 2 days ago\nMicrosoft's latest Excel function finally fixes a very annoying problem Software and Services Microsoft's latest Excel function gets rid of an ancient, annoying problem in the spreadsheet software, but it's only in preview for now.\n8 hours ago",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F",
+    "https://www.valnetinc.com/en/terms-of-use#community-guidelines",
+    "https://t.me/xdadevelopershub",
+    "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/capture-3.PNG?q=49&fit=crop&w=360&h=240&dpr=2",
+    "https://twitter.com/xdadevelopers",
+    "https://www.instagram.com/xdasocial/",
+    "https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F",
+    "https://developer.apple.com/documentation/bundleresources/entitlements/com_apple_developer_persistent-content-capture",
+    "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/capture-3.PNG?q=49&fit=crop&w=420&h=260&dpr=2",
+    "https://www.valnetinc.com/en/privacy-policy",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F&title=I%20might%20switch%20to%20Windows%20if%20Apple%20keeps%20making%20macOS%20more%20annoying%20for%20power%20users&source=www.xda-developers.com&summary=macOS%20Sequoia%20is%20going%20to%20make%20using%20my%20Mac%20more%20difficult%2C%20so%20why%20should%20I%20accept%20it%3F",
+    "https://www.valnetinc.com/en/terms-of-use",
+    "https://www.valnetinc.com/",
+    "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/capture-3.PNG",
+    "https://www.facebook.com/xda.developers",
+    "https://discord.gg/e4v8qtkcBw",
+    "https://xdaforums.com/",
+    "https://www.valnetinc.com/en/editorial-integrity",
+    "https://twitter.com/intent/tweet?text=I%20might%20switch%20to%20Windows%20if%20Apple%20keeps%20making%20macOS%20more%20annoying%20for%20power%20users&url=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F",
+    "http://share.flipboard.com/bookmarklet/popout?v=2&title=I%20might%20switch%20to%20Windows%20if%20Apple%20keeps%20making%20macOS%20more%20annoying%20for%20power%20users&url=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F&utm_campaign=tools&utm_medium=article-share&utm_source=www.xda-developers.com",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F%2F&src=sdkpreparse",
+    "https://www.youtube.com/user/xdadevelopers?sub_confirmation=1",
+    "https://valnetinc.com/en/editorial-integrity",
+    "http://share.flipboard.com/bookmarklet/popout",
+    "https://xdaforums.com",
+    "https://www.linkedin.com/shareArticle",
+    "https://www.t.me/xdadevelopershub",
+    "https://youtube.com/user/xdadevelopers?sub_confirmation=1",
+    "https://valnetinc.com/en/privacy-policy",
+    "https://valnetinc.com/en/terms-of-use",
+    "https://www.twitter.com/intent/tweet?text=I%20might%20switch%20to%20Windows%20if%20Apple%20keeps%20making%20macOS%20more%20annoying%20for%20power%20users&url=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F",
+    "https://www.web.whatsapp.com/send?text=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F",
+    "https://www.valnetinc.com",
+    "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F&title=I%20might%20switch%20to%20Windows%20if%20Apple%20keeps%20making%20macOS%20more%20annoying%20for%20power%20users&source=www.xda-developers.com&summary=macOS%20Sequoia%20is%20going%20to%20make%20using%20my%20Mac%20more%20difficult%2C%20so%20why%20should%20I%20accept%20it%3F",
+    "https://www.reddit.com/submit",
+    "https://www.youtube.com/user/xdadevelopers",
+    "https://twitter.com/intent/tweet",
+    "https://www.developer.apple.com/documentation/bundleresources/entitlements/com_apple_developer_persistent-content-capture",
+    "https://www.discord.gg/e4v8qtkcBw",
+    "https://www.twitter.com/xdadevelopers",
+    "https://web.whatsapp.com/send",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://www.static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/capture-3.PNG",
+    "https://www.instagram.com/xdasocial",
+    "https://facebook.com/xda.developers",
+    "https://valnetinc.com/en/terms-of-use#community-guidelines",
+    "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/capture-3.PNG",
+    "https://instagram.com/xdasocial/",
+    "http://www.share.flipboard.com/bookmarklet/popout?v=2&title=I%20might%20switch%20to%20Windows%20if%20Apple%20keeps%20making%20macOS%20more%20annoying%20for%20power%20users&url=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F&utm_campaign=tools&utm_medium=article-share&utm_source=www.xda-developers.com",
+    "https://www.xdaforums.com/",
+    "https://reddit.com/submit?url=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F",
+    "https://www.static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/capture-3.PNG?q=49&fit=crop&w=420&h=260&dpr=2",
+    "https://valnetinc.com/",
+    "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.xda-developers.com%2Fi-might-switch-windows-if-macos-gets-annoying%2F%2F&src=sdkpreparse",
+    "https://www.static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/capture-3.PNG?q=49&fit=crop&w=360&h=240&dpr=2"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "siri",
+        "sentiment": "none"
+      },
+      {
+        "name": "brady snyder",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "acer apple dell",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "close news & deals submenu news deals reviews submenu",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "lenovo microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-30T00:40:30.806+03:00",
+  "updated": "2024-08-30T01:29:20.978+03:00"
+}

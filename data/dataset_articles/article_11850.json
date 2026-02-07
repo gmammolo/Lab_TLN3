@@ -1,0 +1,141 @@
+{
+  "thread": {
+    "uuid": "dcb88ae8a0ef2234cb2a002b432b3924685183a9",
+    "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260115_B3/",
+    "site_full": "www3.nhk.or.jp",
+    "site": "nhk.or.jp",
+    "site_section": "https://news.google.com/search?q=above%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "japan",
+      "travel",
+      "crime, law and justice",
+      "politics",
+      "war, conflict and unrest",
+      "economy, business and finance"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "NHK | 日本放送協会",
+    "title": "US approves Nvidia AI chip sales to China ... at a price",
+    "title_full": "US approves Nvidia AI chip sales to China ... at a price",
+    "published": "2026-01-15T08:13:34.461+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20260115_B3_1610374_L.jpg",
+    "performance_score": 0,
+    "domain_rank": 901,
+    "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dcb88ae8a0ef2234cb2a002b432b3924685183a9",
+  "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260115_B3/",
+  "ord_in_thread": 0,
+  "author": "NHK WORLD",
+  "published": "2026-01-15T08:13:34.461+02:00",
+  "title": "US approves Nvidia AI chip sales to China ... at a price",
+  "text": "The US has approved exports to China of certain advanced AI chips made by Nvidia and others. Such semiconductors will first be imported to the US and subject to tariffs.\nThe Commerce Department on Tuesday unveiled the new rules for Nvidia's H200 AI processor and a similar chip from AMD called the MI325X. It says export applications to China will need to meet security requirements.\nPresident Donald Trump on Wednesday signed an order to impose a 25 percent import tariff on the chips, but it excludes those to be used in the US.\n\"China wants them, and other people want them, and we're going to be making 25 percent on the sale of those chips, basically,\" Trump said. \"We're allowing them to do it, but the United States is getting 25 percent of the chips in terms of the dollar value, and I think it's a very great deal.\"\nMost advanced AI chips imported to the US come from Taiwan.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business and market analysis"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Donald Trump",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "China",
+        "sentiment": "none"
+      },
+      {
+        "name": "US",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Nvidia",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "NVDA",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Commerce Department",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "AMD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AMD",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-15T08:13:34.461+02:00",
+  "updated": "2026-01-15T08:14:34.000+02:00"
+}

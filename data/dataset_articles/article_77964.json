@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "2779aa39a8e2ccafc43c082689f3e8c0a4ec3160",
+    "url": "https://www.heise.de/news/Docker-Desktop-Kritische-Sicherheitsluecke-erlaubt-Host-Zugriff-10560090.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://heise.de/ix",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "iX: Das Magazin für professionelle IT | heise online",
+    "site_title": "heise online - IT-News, Nachrichten und Hintergründe | heise online",
+    "title": "Docker Desktop: Kritische Sicherheitslücke erlaubt Host-Zugriff | heise online",
+    "title_full": "Docker Desktop: Kritische Sicherheitslücke erlaubt Host-Zugriff | heise online",
+    "published": "2025-08-21T10:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/2/0/7/3/8/shutterstock_1495439420-a37ed9194dd1a89a.jpg",
+    "performance_score": 0,
+    "domain_rank": 924,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2779aa39a8e2ccafc43c082689f3e8c0a4ec3160",
+  "url": "https://www.heise.de/news/Docker-Desktop-Kritische-Sicherheitsluecke-erlaubt-Host-Zugriff-10560090.html",
+  "ord_in_thread": 0,
+  "author": "Dirk Knop",
+  "published": "2025-08-21T10:09:00.000+03:00",
+  "title": "Docker Desktop: Kritische Sicherheitslücke erlaubt Host-Zugriff | heise online",
+  "text": "close notice\nThis article is also available in English . It was translated with technical assistance and editorially reviewed before publication.\nDon’t show this again .\nIn der Container-Software Docker Desktop können Angreifer aus bösartigen Containern auf die Docker-Engine und in der Folge auf das Dateisystem des Host-Systems zugreifen. Aktualisierte Software steht bereit, um die Sicherheitslücke zu schließen.\nAnzeige In der Versionsankündigung fasst Docker knapp zusammen: Bösartige Container, die in Docker Desktop laufen, können auf die Docker-Engine zugreifen und weitere Container starten, ohne, dass der Docker-Socket gemountet sein müsste. Dies kann unautorisierten Zugriff auf Nutzerdateien im Host-System ermöglichen, Enhanced Container Isolation (ECI) richtet nichts gegen diese Schwachstelle aus (CVE-2025-9074 / EUVD-2025-25308 , CVSS 9.3 , Risiko \" kritisch \").\nDie Schwachstellenmeldung selbst geht weiter ins Detail. Lokal laufende Linux-Container können die Docker-Engine-API über das konfigurierte Subnetz erreichen, standardmäßig unter 192.168.65.7:2375. Die Schwachstelle tritt unabhängig davon auf, ob Enhanced Container Isolation (ECI) aktiviert oder wie die Option \"Expose daemon on tcp://localhost:2375 without TLS\" konfiguriert wurde. Dadurch lassen sich eine Reihe an privilegierten Befehlen an die Docker-Engine-API ausführen, einschließlich der Kontrolle anderer Container, Erstellen neuer Container, Verwalten von Images und so weiter. Unter Umständen, etwa wenn Docker Desktop für Windows mit WSL-Backend läuft, erlaubt das auch das Mounten des Hostlaufwerks mit den Rechten des Nutzerkontos, in dem Docker Desktop läuft.\nSicherheitslücke mit Update geschlossen Um das zu verhindern, sollten IT-Verantwortliche auf Docker Desktop 4.44.3 oder neuer aktualisieren. Darin haben die Entwickler die sicherheitsrelevanten Fehler ausgebügelt.\nVideos by heise\nmehr Videos\nDie aktualisierten Docker -Pakete stehen direkt zum Herunterladen bereit:\nAnzeige Ende April hatte Docker ein Update für Docker Desktop für Windows herausgegeben . Darin haben die Programmierer eine als hochriskant eingestufte Schwachstelle geschlossen, durch die Angreifer ihre Rechte ausweiten konnten.\n( dmk )\nDieser Link ist leider nicht mehr gültig. Links zu verschenkten Artikeln werden ungültig, wenn diese älter als 7 Tage sind oder zu oft aufgerufen wurden.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->law",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Social Issue->social networking",
+    "Social Issue->social services",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://euvd.enisa.europa.eu/vulnerability/EUVD-2025-25308",
+    "https://docs.docker.com/desktop/release-notes/#4443",
+    "https://www.euvd.enisa.europa.eu/vulnerability/EUVD-2025-25308",
+    "https://www.docs.docker.com/desktop/release-notes/#4443"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:26:22.849+03:00",
+  "updated": "2025-08-21T11:09:47.858+03:00"
+}

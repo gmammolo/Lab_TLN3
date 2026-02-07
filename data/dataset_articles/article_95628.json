@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "aefca906db497adcf3af123ae8d39fe2f6d03e0c",
+    "url": "https://www.thestar.com.my/sport/football/2024/09/06/soccer-dorgu-scores-debut-goal-as-denmark-beat-nine-man-switzerland-2-0",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/sport/football",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "Football - Sport | The Star",
+    "title": "Football: Soccer-Dorgu scores debut goal as Denmark beat nine-man Switzerland 2-0 | The Star",
+    "title_full": "Football: Soccer-Dorgu scores debut goal as Denmark beat nine-man Switzerland 2-0 | The Star",
+    "published": "2024-09-05T23:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/09/06/2898425.jpg",
+    "performance_score": 0,
+    "domain_rank": 2239,
+    "domain_rank_updated": "2024-09-03T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aefca906db497adcf3af123ae8d39fe2f6d03e0c",
+  "url": "https://www.thestar.com.my/sport/football/2024/09/06/soccer-dorgu-scores-debut-goal-as-denmark-beat-nine-man-switzerland-2-0",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2024-09-05T23:57:00.000+03:00",
+  "title": "Football: Soccer-Dorgu scores debut goal as Denmark beat nine-man Switzerland 2-0 | The Star",
+  "text": "COPENHAGEN (Reuters) - Denmark's Patrick Dorgu scored a minute after coming off the bench for his debut as his side beat nine-man Switzerland 2-0 in their Nations League A Group 4 clash at the Parken Stadium on Thursday.\nThe Danes thought they had won a penalty early in the second half when Nico Elvedi picked up a booking for upending Kasper Dolberg, but after a VAR review the referee changed his decision to a free kick just outside the box and a red card for the Swiss defender.\nJonas Wind had the ball in the net in the 72nd minute but the goal was chalked off for offside, and nine minutes later the 19-year-old Dorgu was introduced for his first cap as his side chased a winner.\nA minute later he was on the scoresheet, latching on to a ball from fellow substitute Andreas Skov Olsen and firing home with his right foot.\nAny chance the Swiss had of mounting a comeback disappeared when captain Granit Xhaka, who was booked in the aftermath of the goal, was dismissed in the 87th minute after picking up his second yellow card.\nDanish captain Pierre Emil Hojbjerg wrapped up the victory with a stoppage-time goal from another Skov Olsen assist to leave Denmark top of the group after a scoreless draw between Spain and Serbia.\n(Reporting by Philip O'Connor; Editing by Julien Pretot)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Sport",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-09-06T01:10:16.029+03:00",
+  "updated": "2024-09-06T01:10:16.029+03:00"
+}

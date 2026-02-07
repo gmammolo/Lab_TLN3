@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "443c9adeb949905d7da842523fb8df76599e83a7",
+    "url": "https://www.esslinger-zeitung.de/inhalt.wetter-in-baden-wuerttemberg-achtung-auf-den-strassen-neuschnee-nachschub-kommt.231833a0-2f4a-4cc9-97e7-25bed9c6dfb2.html",
+    "site_full": "www.esslinger-zeitung.de",
+    "site": "esslinger-zeitung.de",
+    "site_section": "https://www.esslinger-zeitung.de/index.rss",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Esslinger Zeitung - Startseite",
+    "site_title": "Nachrichten für Esslingen & die Region - Esslinger Zeitung",
+    "title": "Wetter in Baden-Württemberg: Achtung auf den Straßen - Neuschnee-Nachschub kommt",
+    "title_full": "Wetter in Baden-Württemberg: Achtung auf den Straßen - Neuschnee-Nachschub kommt",
+    "published": "2025-11-20T07:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.esslinger-zeitung.de/media.media.636e2362-9912-403c-b1c3-6968d4d9e766.original1024.jpg",
+    "performance_score": 0,
+    "domain_rank": 120993,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "443c9adeb949905d7da842523fb8df76599e83a7",
+  "url": "https://www.esslinger-zeitung.de/inhalt.wetter-in-baden-wuerttemberg-achtung-auf-den-strassen-neuschnee-nachschub-kommt.231833a0-2f4a-4cc9-97e7-25bed9c6dfb2.html",
+  "ord_in_thread": 0,
+  "author": "red/dpa",
+  "published": "2025-11-20T07:40:00.000+02:00",
+  "title": "Wetter in Baden-Württemberg: Achtung auf den Straßen - Neuschnee-Nachschub kommt",
+  "text": "Minusgrade, Schneeregen und stürmische Böen: Baden-Württemberg steht vor frostigen Nächten und glatten Straßen. Wo Ausflügler und Autofahrer besonders vorsichtig sein sollten.\nWinterwunderland oder eher ein Graus für jeden und jede hinter dem Steuer? Nach dem Schneefall in der Nacht könnten im Tagesverlauf gerade in höheren Lagen in Baden-Württemberg weiter Schneeflocken rieseln – Schneeregen ist vor allem im Flachland möglich. Zudem könnte es mancherorts sehr glatt auf den Straßen sein.\nDie Temperaturen erreichen laut Prognose des Deutschen Wetterdienstes (DWD) Höchstwerte zwischen minus 1 Grad im Bergland und bis zu plus 6 Grad im Breisgau. Der Wind wehe schwach bis mäßig aus Südwest bis West. Auf den Bergen müssen sich Ausflügler auf stürmische Böen einstellen.\nNachts eiskalt\nIn der Nacht auf Freitag kann es laut DWD bei Tiefstwerten zwischen minus 1 und minus 7 Grad verbreitet glatt werden – durch überfrierende Nässe ebenso wie durch zeitweise auftretenden Schneefall, insbesondere im Süden des Landes. Im Norden Baden-Württembergs soll es teils neblig werden.\nAm Freitag bleibt es voraussichtlich meist stark bewölkt, aber weitgehend trocken. Im Süden könnten laut DWD einzelne Schneeschauer niedergehen. Die Höchstwerte bewegen sich der Prognose zufolge zwischen minus 3 Grad im Bergland und plus 4 Grad im Rheintal. Auf dem Feldberg seien weiterhin starke bis stürmische Böen möglich, ansonsten sei der Wind schwächer.\nSamstag zweigeteilt\nIn der Nacht zum Samstag könnte es bei Tiefstwerten von minus 3 bis minus 8 Grad erneut glatt werden. Der Norden bleibt dabei wohl weitgehend niederschlagsfrei, in Oberschwaben könnten jedoch noch einzelne Schneeflocken fallen. Stellenweise könne sich Nebel bilden.\nDer Samstag selbst zeigt sich im Nordwesten laut der Vorhersage nach Nebelauflösung heiter und trocken. Im Südosten hingegen dürfte es weiter stark bewölkt bleiben. Mit Höchstwerten zwischen minus 3 Grad im Bergland und plus 2 Grad im Kraichgau bleibt es frostig.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather warning"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Baden-Württembergs",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutschen Wetterdienstes",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T08:52:59.970+02:00",
+  "updated": "2025-11-20T08:55:38.000+02:00"
+}

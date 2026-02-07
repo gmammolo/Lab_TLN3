@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "e856ee44bbe37002232552e4119eaa0b9e7119f6",
+    "url": "https://community.bt.com/t5/Home-setup-Wi-Fi-network/Cannot-pair-phone-adapter-to-my-Archer-VR2100/m-p/2416307",
+    "site_full": "community.bt.com",
+    "site": "bt.com",
+    "site_section": "https://community.bt.com/bt/rss/Community?interaction.style=group",
+    "site_categories": [
+      "television",
+      "entertainment"
+    ],
+    "section_title": "rss.livelink.threads-in-node",
+    "title": "Cannot pair phone adapter to my Archer VR2100.",
+    "title_full": "Cannot pair phone adapter to my Archer VR2100.",
+    "published": "2024-11-22T10:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2081,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e856ee44bbe37002232552e4119eaa0b9e7119f6",
+  "url": "https://community.bt.com/t5/Home-setup-Wi-Fi-network/Cannot-pair-phone-adapter-to-my-Archer-VR2100/m-p/2416307",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Gary2024",
+  "published": "2024-11-22T10:49:00.000+02:00",
+  "title": "Cannot pair phone adapter to my Archer VR2100.",
+  "text": "Hi,\nSince installing my new BT homehub and phone adapter, I have found that the throughput of the internet is poor. The BB speed is reported as 59Mbs in the hub admin, is only actually 45Mbs when tested with Ookla (why do BT lie about speeds? but I have to wait5 secs or more for the 'wheel' to stop spinning and the site to appear.\nI re-installed my Archer VR2100 and the throughput increased to less than 1 sec to display a website, perfect. I then tried to pair the phone adapter, no luck.\n1. Is it possible to fix this or has BT tied the adapter down to only the BT Home Hub? This was not explained when I purchased the service and will restult in my cancelling the contract.\n2. Can the slow throughput of the BT Home Hub be fixed. Also note you cannot change the DNS settings from BT's to Google for better performance. BT should really be thinking of its customers needs, not theirs.\nRegards (and very annoyed)\nGary\nDigital Voice only works with the SH2.\nDVAs pair to a DECT base in the SH2, not over WiFi, so will never connect to your router. Not that it would work anyway.\nMaybe download a WiFi analyser to check for competing channels from neighbours. It may simply be that your router is using different channels.\nIf you go back to Plusnet for broadband you will have to use a third party VOIP provider for the phone as Plusnet are now broadband only.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      },
+      {
+        "name": "DECT",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:33:00.191+02:00",
+  "updated": "2024-11-22T11:33:00.191+02:00"
+}

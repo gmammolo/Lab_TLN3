@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "60458e4823d339b9c5cacae95f9c340780b0e244",
+    "url": "https://www.theregister.com/2024/04/11/genai_amazon_internet",
+    "site_full": "www.theregister.com",
+    "site": "theregister.com",
+    "site_section": "https://www.theregister.com/2024/sitemap.xml",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "",
+    "title": "Amazon CEO: GenAI bigger than the cloud — No, the web! • The Register",
+    "title_full": "Amazon CEO: GenAI bigger than the cloud — No, the web! • The Register",
+    "published": "2024-04-12T00:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://regmedia.co.uk/2024/04/11/jassy_shutterstock.jpg",
+    "performance_score": 0,
+    "domain_rank": 702,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "60458e4823d339b9c5cacae95f9c340780b0e244",
+  "url": "https://www.theregister.com/2024/04/11/genai_amazon_internet",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tobias Mann",
+  "published": "2024-04-12T00:00:00.000+03:00",
+  "title": "Amazon CEO: GenAI bigger than the cloud — No, the web! • The Register",
+  "text": "It's safe to say Amazon CEO Andy Jassy is pretty jazzed about generative AI's potential to drive profits.\n\"Generative AI may be the largest technology transformation since the cloud — which itself, is still in the early stages — and perhaps since the internet,\" he wrote in his annual letter to shareholders Thursday. \"There never has been a time in Amazon's history where we've felt so much opportunity to make our customer's lives better and easier.\"\nFor the e-commerce giant turned cloud titan, the chances to capitalize on the much-hyped technology are many, but just like the move to the cloud, there is plenty of work that needs done first.\nThe stage, what Jassy describes as the bottom layer, won't come as a surprise to anyone: selling developers the computing resources and software services necessary to develop their own foundation models.\nThese efforts, he acknowledges, will require a lot of Nvidia GPUs. Even if Amazon can't build the shovels — or, at least not the ones everyone wants — in this AI goldrush, it can still rent them at a massive premium.\nAt GTC, Nvidia revealed that Amazon's Ceiba supercomputer, which was initially planned to use its existing Hopper GPUs, will actually be built using more than 20,000 Blackwell accelerators.\nBut, with those resources in high-demand, Jassy says there's growing interest in alternative hardware, highlighting Anthropic's plans to use Amazon's own home-grown Trainium and Inferentia chips to build, train and deploy future foundation models. On the software side, Jassy also highlighted the cloud-giants SageMaker platform which is designed to streamline the process of training said models.\nTo support these efforts Amazon also plans to expand its datacenter presence with six new regions in Malaysia, Mexico, New Zealand, Saudi Arabia, Thailand, and Germany already in the works.\nOne step up from this, Jassy says Amazon is well positioned to help enterprises fine-tune, customize, and integrate existing foundation models — something we'll note is computationally much easier to do than train a system from scratch.\nFor this Amazon has Bedrock, which it announced in early 2023. According to Jassy, the service has added tens of thousands of users in the year since its launch. It probably doesn't hurt that Amazon is handing out $500k in credits to anyone who wants to play with pre-trained models.\nThe idea of customizing and building applications using one or more large language models (LLMs) has garnered a lot of attention as of late. During his keynote address this week at Intel Vision, CEO Pat Gelsinger discussed using technologies like retrieval augmented generation (RAG) to make general purpose models, like Llama2, context aware by connecting them to vector databases containing relevant information.\nNvidia CEO Jensen Huang has also sung RAG's praises as one of the key technologies required to bring generative AI apps to the enterprise.\nAmazon, for its part, has partnered closely with AI startups, including a $4 billion investment in Anthropic, the model builder behind Claude.\nAWS must pay $525M to cloud storage patent holder, says jury US-EAST-1 region is not the cloudy crock it's made out to be, claims AWS EC2 boss Google joins the custom server CPU crowd with Arm-based Axion chips Stability AI reportedly ran out of cash to pay its bills for rented cloudy GPUs At the top of Jassy's generative AI stack are off-the-shelf applications and services. These are apps like Amazon's Q code assistant, which debuted last fall, as well as internal applications designed to drive sales.\n\"We're building a substantial number of GenAI applications across every Amazon customer business. These range from Rufus — our new AI-powered shopping assistant — to an even more intelligent and capable Alexa, to advertising capabilities,\" he said.\nWhile Amazon will continue to develop these kinds of AI tools, Jassy expects most generative AI apps will ultimately be built by others.\n\"These AWS services, at all three layers of the stack, comprise a set of primitives that democratize this next seminal phase of AI, and will empower internal and external builders to transform virtually every customer experience that we know,\" he said. ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders",
+    "https://www.nextplatform.com/2024/03/20/aws-and-nvidia-reboot-ceiba-supercomputer-for-blackwell-gpus/",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/ad",
+    "https://nextplatform.com/2024/03/20/aws-and-nvidia-reboot-ceiba-supercomputer-for-blackwell-gpus/",
+    "https://aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://www.nextplatform.com/2024/03/20/aws-and-nvidia-reboot-ceiba-supercomputer-for-blackwell-gpus",
+    "https://pubads.g.doubleclick.net/gampad/jump",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_offprem/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZhhReTWt3L4xvaWttn@8qwAAAFM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "andy jassy",
+        "sentiment": "negative"
+      },
+      {
+        "name": "jassy",
+        "sentiment": "none"
+      },
+      {
+        "name": "ama",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "amazon",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nvidia",
+        "sentiment": "none"
+      },
+      {
+        "name": "gtc",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "amazon",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T00:09:16.489+03:00",
+  "updated": "2024-05-10T20:28:26.225+03:00"
+}

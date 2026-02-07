@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "581882d7f37e24a867dda19ef85e184bb116d02c",
+    "url": "https://www.techspot.com/news/106954-doom-defies-impossible-running-typescript-type-system.html",
+    "site_full": "www.techspot.com",
+    "site": "techspot.com",
+    "site_section": "https://www.techspot.com/backend.xml",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TechSpot",
+    "site_title": null,
+    "title": "Doom defies the impossible by running in TypeScript's type system | TechSpot",
+    "title_full": "Doom defies the impossible by running in TypeScript's type system | TechSpot",
+    "published": "2025-02-28T00:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.techspot.com/images2/news/bigimage/2025/02/2025-02-27-image-30.jpg",
+    "performance_score": 0,
+    "domain_rank": 2347,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "581882d7f37e24a867dda19ef85e184bb116d02c",
+  "url": "https://www.techspot.com/news/106954-doom-defies-impossible-running-typescript-type-system.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cal Jeffrey",
+  "published": "2025-02-28T00:49:00.000+02:00",
+  "title": "Doom defies the impossible by running in TypeScript's type system | TechSpot",
+  "text": "In context: People have ported Doom to everything from calculators to McDonald's cash registers. There has recently been a push to get the software running on platforms with no actual processing power – PDF and Word documents are the latest examples. Of course, these methods are painfully slow, but it's incredible that the game can even execute on non-computer platforms.\nSoftware engineer Dmitri Mitropoulos has taken porting Doom to non-computing platforms to a whole new level. The programmer managed to get Doom running inside TypeScript's type system – a feat so mind-bogglingly complex that it took him an entire year to pull off.\nTypeScript is a language developed by Microsoft that builds on JavaScript by adding static type-checking to catch coding mistakes before execution. Think of it as a spelling or grammar checker for code, ensuring functions and variables are entered correctly. Developers commonly use it to build large JavaScript applications.\nRunning a game within TypeScript's type system is considered \"impossible.\" Even Mitropoulos noted that he started the project to \"quickly\" prove why it could not be done. However, as he got into it, he became obsessively motivated to make it work. In the end, even seasoned TS developers were left impressed and speechless.\nMitropoulos reacting to TypeScript finally rendering its first frame of Doom. Mitropoulos's version of Doom runs inside 3.5 trillion lines of types, consuming a staggering 177 terabytes. Compiling a single frame takes 12 days, resulting in an excruciatingly slow 0. 9645 frames per second. The TypeScript type tracker must process 20 million type instantiations per second to generate the output, resulting in the extremely slow frame rate.\nDespite the massive overhead, Mitropoulos believes performance improvements are possible. In the Michigan TypeScript Discord server , he suggested that compilation could be reduced to \"1 to 12 hours\" with further optimizations. He has already identified areas where he can improve the speed.\nTo make it all work, he built a virtual machine entirely from TypeScript types, including logical implementations of all 116 WebAssembly instructions required to run Doom. Every element of a functioning computer – RAM, disk space, even an L1 CPU cache – had to be painstakingly recreated within the type system. Since TypeScript only allows string iterations from the left, he had to input binary algorithms in reverse.\nTypeScript community reactions: \"What!?\" \"This is a masterpiece.\" \"I have so many questions.\" Running the program required a custom WebAssembly runtime, processing everything within a TypeScript editor. The TypeScript compiler also had to be modified to handle the project's extreme scale, as its type tracker alone consumed over 90GB of RAM during execution.\nMitropoulos described the effort as a grueling challenge. He wrote 12,364 handwritten tests, learned multiple programming languages, and initially estimated the project would require up to 1.25 petabytes before optimization. At one point, compiling a single frame took three months of continuous type instantiation. He remarked that AI was no help.\n\"Oh, and AI can't help with any of this stuff,\" Mitropoulos said in his brief seven-minute video explanation (masthead). \"It's so low-level that there are no arrays or objects or strings or booleans inside the engine – only binary numbers and Doom only uses 64-bit and 32-bit integers, that's it. Oh, and those integers are neither signed nor unsigned. I spent a whole day figuring that one out.\"\nThe gargantuan task took an entire year of 18-hour days to complete. Other TS developers had so many questions about the project that Mitropoulos plans to release two more videos explaining the highly technical details and his motivations. For now, we have one more piece of evidence proving Doom can run on anything – including things that were never meant to run games at all.\n4 comments 48 likes and shares",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Lifestyle and Leisure->gaming and lottery"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://discord.com/invite/pfKUSmSY",
+    "https://www.typescriptlang.org",
+    "https://www.discord.com/invite/pfKUSmSY",
+    "https://typescriptlang.org"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "581882d7f37e24a867dda19ef85e184bb116d02c",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:11:51.909+02:00",
+  "updated": "2025-03-07T08:43:29.159+02:00"
+}

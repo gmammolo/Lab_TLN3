@@ -1,0 +1,149 @@
+{
+  "thread": {
+    "uuid": "d91b2a0c43edb06c82df8e2740bbe5dbd9d5b99a",
+    "url": "https://www.sandiegouniontribune.com/2025/04/02/qualcomm-acquires-vietnamese-ai-startup-movianai",
+    "site_full": "www.sandiegouniontribune.com",
+    "site": "sandiegouniontribune.com",
+    "site_section": "https://www.sandiegouniontribune.com/",
+    "site_categories": [
+      "real_estate",
+      "media",
+      "buying_selling_homes"
+    ],
+    "section_title": "The San Diego Union-Tribune: Local News, Sports and Things to Do",
+    "site_title": "The San Diego Union-Tribune: Local News, Sports and Things to Do",
+    "title": "Qualcomm acquires Vietnamese AI startup MovianAI - San Diego Union-Tribune",
+    "title_full": "Qualcomm acquires Vietnamese AI startup MovianAI - San Diego Union-Tribune",
+    "published": "2025-04-03T02:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/04/SUT-L-Irwin-Jacobs-23.jpg?w=1024&amp;h=682",
+    "performance_score": 0,
+    "domain_rank": 1611,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d91b2a0c43edb06c82df8e2740bbe5dbd9d5b99a",
+  "url": "https://www.sandiegouniontribune.com/2025/04/02/qualcomm-acquires-vietnamese-ai-startup-movianai",
+  "ord_in_thread": 0,
+  "author": "Natallie Rocha",
+  "published": "2025-04-03T02:19:00.000+03:00",
+  "title": "Qualcomm acquires Vietnamese AI startup MovianAI - San Diego Union-Tribune",
+  "text": "Qualcomm, the San Diego-based company designing chips that power smartphones, laptops, virtual reality headsets and next-generation cars, acquired a Vietnamese startup for its generative artificial intelligence technology.\nThe local firm announced the acquisition Tuesday as part of its effort to expand its research and development of generative AI. This segment of artificial intelligence technology — which includes tools such as ChatGPT — uses large data sets of information to learn and recognize patterns, which allows it to generate content such as text, images and videos.\nQualcomm did not share the purchase price, terms or closing date of the acquisition deal.\nMovianAI is the former generative AI division of VinAI Application and Research JSC, and part of Vingroup, one of Vietnam’s largest multi-industry conglomerates. VinAI is an AI research company that focuses on automotive technology.\nQualcomm said in the announcement that it will leverage VinAI’s generative artificial intelligence research and development for its next-generation technology for smartphones, laptops and cars.\n“This acquisition underscores our commitment to dedicating the necessary resources to R&D that makes us the driving force behind the next wave of AI innovation,” said Jilei Hou, senior vice president of engineering for Qualcomm Technologies Inc., in the announcement. “By bringing in high-caliber talent from VinAI, we are strengthening our ability to deliver cutting-edge AI solutions that will benefit a wide range of industries and consumers.”\nAdditionally, VinAI’s founder and CEO, Hung Bui, will join Qualcomm as part of the deal. Bui formerly worked for Google DeepMind, the artificial intelligence lab subsidiary of Alphabet Inc.\n“We are ready to contribute to Qualcomm’s mission of making breakthroughs in fundamental AI research and scale them across industries, including smartphones, PCs, software-defined vehicles, and more,” Bui said in the announcement.\nLast month, Qualcomm announced its acquisition of German firm Edge Impulse for an undisclosed amount. The company said Edge Impulse’s artificial intelligence platform will complement its offerings in the Internet of Things segment to support software and hardware developers.\nOriginally Published: April 2, 2025 at 4:19 PM PDT",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->corporate news and profiles",
+    "Economy, Business and Finance->business financing",
+    "Social Issue->social networking",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://capi.connatix.com/tr/si?token=8b64ff35-2d21-481e-88ae-8562dded85bd&cid=1ffe15d6-eb53-11e9-b4d2-06948452ae1a",
+    "https://www.capi.connatix.com/tr/si?token=8b64ff35-2d21-481e-88ae-8562dded85bd&cid=1ffe15d6-eb53-11e9-b4d2-06948452ae1a",
+    "https://capi.connatix.com/tr/si"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jilei Hou",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Hung Bui",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "San Diego",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Vietnam",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "AI",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "AI",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "VinAI Application and Research JSC",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Vingroup",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Qualcomm Technologies Inc.",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Google DeepMind",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Alphabet Inc.",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Edge Impulse’s",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:43:09.824+03:00",
+  "updated": "2025-04-03T02:43:09.824+03:00"
+}

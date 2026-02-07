@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "17e8915553682590f4987475659f1e5753eb7b1c",
+    "url": "https://www.archyde.com/gpt-5-safety-flaws-slurs-ai-bias-persist/",
+    "site_full": "www.archyde.com",
+    "site": "archyde.com",
+    "site_section": "https://www.archyde.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Archyde &#8211; Stay updated with Archyde – your source for breaking news, global headlines, economy, entertainment, health, technology, and sports. Fresh stories daily.",
+    "site_title": "HOME &#8211; Archyde",
+    "title": "GPT-5 Safety Flaws: Slurs & AI Bias Persist",
+    "title_full": "GPT-5 Safety Flaws: Slurs & AI Bias Persist",
+    "published": "2025-08-14T06:50:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.wired.com/photos/689bb53c08ded8cd4237e918/191:100/w_1280,c_limit/chatgpt-hate-speech-gear-2171240925.jpg",
+    "performance_score": 0,
+    "domain_rank": 26526,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "17e8915553682590f4987475659f1e5753eb7b1c",
+  "url": "https://www.archyde.com/gpt-5-safety-flaws-slurs-ai-bias-persist/",
+  "ord_in_thread": 0,
+  "author": "Sophie Lin - Technology Editor",
+  "published": "2025-08-14T06:50:00.000+03:00",
+  "title": "GPT-5 Safety Flaws: Slurs & AI Bias Persist",
+  "text": "The GPT-5 Shift: Why AI Safety is Now About What Bots *Say*, Not Just What You Ask A surprising 78% of users report frustration with AI chatbots due to inappropriate or unhelpful responses, according to a recent study by the AI Ethics Institute. OpenAI’s release of GPT-5 isn’t about a flashy new personality – it’s a fundamental rethink of how AI safety works, moving from policing user prompts to scrutinizing the potential outputs. This isn’t just a tweak; it’s a potential turning point in the evolution of responsible AI.\nFrom Binary Rejection to Nuanced Harm Assessment Previously, ChatGPT operated on a relatively simple principle: analyze the user’s input and determine if it violated OpenAI’s content policies. A violation meant a curt refusal. Now, with GPT-5, the focus has shifted. The AI now prioritizes evaluating the potential harm of its response before generating anything. This means a more nuanced approach to content moderation, recognizing that not all policy breaches are created equal.\nOpenAI’s model specifications clearly outline these boundaries. While educational content about sensitive topics like reproductive anatomy is permissible, attempts to generate explicit erotica or graphic violence are heavily restricted. Saachi Jain, from OpenAI’s safety systems research team, explains that this shift allows for a more “conservative” approach to compliance, acknowledging that “some mistakes are truly worse than others.”\nThe “Safe Completions” Paradigm and Its Implications The core of this change lies in the concept of “safe completions.” Instead of asking “Is this question okay?”, GPT-5 asks “Is this answer okay?” This proactive approach is designed to prevent the AI from generating harmful content, even if the initial prompt isn’t overtly malicious. If a potentially unsafe output is detected, the chatbot now explains the violation and suggests alternative, acceptable topics.\nThis has significant implications for developers and users alike. For developers, it necessitates a deeper understanding of potential output risks and a more sophisticated approach to safety engineering. For users, it means a more informative and potentially less frustrating experience when encountering content restrictions. However, it also raises questions about the potential for over-censorship and the limitations it places on creative exploration.\nGPT-5 in Action: More of the Same…For Now? Initial user experiences with GPT-5 have been mixed. While the model demonstrates impressive capabilities in areas like interactive simulations – creating a functioning volcano model, for example – many users report that everyday tasks feel largely unchanged. This aligns with observations that the most noticeable differences lie in the AI’s handling of sensitive or potentially harmful requests.\nTesting the boundaries of GPT-5 reveals this shift in action. Attempts to engage the chatbot in explicit role-playing were met with firm refusals and suggestions for alternative, non-explicit scenarios. Interestingly, a deliberate misspelling (“horni” instead of “horny”) in custom instructions bypassed some safeguards, highlighting the ongoing challenges of robust content filtering. This underscores the importance of continuous refinement and the potential for users to discover loopholes.\nThe Custom Instructions Conundrum The custom instructions feature, while intended to personalize the chatbot’s responses, also presents a vulnerability. The ability to subtly manipulate the AI’s parameters, as demonstrated by the misspelling workaround, raises concerns about the potential for malicious actors to exploit these features. OpenAI will need to continually address these vulnerabilities to maintain the integrity of its safety systems.\nBeyond GPT-5: The Future of AI Safety The shift to output-focused safety isn’t limited to OpenAI. It represents a broader trend in the AI industry towards proactive risk mitigation. We can expect to see further developments in this area, including:\nReinforcement Learning from Human Feedback (RLHF) 2.0: More sophisticated RLHF techniques that prioritize safety and alignment with human values. Differential Privacy: Techniques to protect sensitive information while still allowing AI models to learn from data. Explainable AI (XAI): Tools that provide insights into the AI’s decision-making process, making it easier to identify and address potential biases or safety concerns. The evolution of AI safety is a continuous process, and GPT-5 is just one step along the way. As AI models become more powerful and integrated into our lives, the need for robust and adaptable safety mechanisms will only become more critical. The focus on “safe completions” signals a crucial move towards building AI systems that are not only intelligent but also responsible and trustworthy. The AI Ethics Institute provides further research and insights into these evolving challenges.\nWhat are your thoughts on the new approach to AI safety? Share your predictions for the future of responsible AI in the comments below!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Social Issue->diversity, equity and inclusion"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://aiethicsinstitute.org/",
+    "https://aiethicsinstitute.org",
+    "https://www.aiethicsinstitute.org/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T08:31:14.711+03:00",
+  "updated": "2025-08-14T08:36:56.000+03:00"
+}

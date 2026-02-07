@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "1703c8d493002a75541b99b266c2e05896b4a772",
+    "url": "https://cybersecuritynews.com/multiple-d-link-end-of-life-routers-vulnerabilities",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://www.cybersecuritynews.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "Multiple D-Link End-of-Life Routers Vulnerabilities Let Attackers Execute Remote Code",
+    "title_full": "Multiple D-Link End-of-Life Routers Vulnerabilities Let Attackers Execute Remote Code",
+    "published": "2024-11-22T13:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 56464,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1703c8d493002a75541b99b266c2e05896b4a772",
+  "url": "https://cybersecuritynews.com/multiple-d-link-end-of-life-routers-vulnerabilities",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T13:34:00.000+02:00",
+  "title": "Multiple D-Link End-of-Life Routers Vulnerabilities Let Attackers Execute Remote Code",
+  "text": "D-Link, a prominent networking hardware manufacturer, has issued a critical security advisory urging users to retire and replace several end-of-life VPN router models due to a severe remote code execution (RCE) vulnerability.\nThe affected devices include all hardware revisions of DSR-150, DSR-150N, DSR-250, DSR-250N, DSR-500N, and DSR-1000N routers.\nThe vulnerability, discovered by security researcher ‘delsploit,’ allows unauthenticated users to execute rem o te code on the affected devices due to a stack buffer overflow issue.\nD-Link has not assigned a CVE identifier to this flaw, likely to prevent widespread exploitation attempts.\nMost of the impacted models reached their end-of-service life on May 1, 2024, with the DSR-500N and DSR-1000N having been discontinued in 2015.\nAffected models (Source – D-Link) D-Link has made it clear that they will not be releasing security updates for these devices, as their general policy is to cease all firmware development and support for products that have reached end-of-life status.\nLeveraging 2024 MITRE ATT&CK Results for SME & MSP Cybersecurity Leaders – Attend Free Webinar\nD-Link Response The company strongly advises users to retire these routers immediately, warning that continued use may pose significant risks to connected devices.\nFor those who choose to keep using the affected routers against D-Link’s recommendations, the company suggests ensuring that the latest available firmware is installed, frequently updating the device’s unique password, and always enabling Wi-Fi encryption with a separate password.\nTo assist affected customers in the United States, D-Link is offering a 20% discount on the purchase of a newer model, the DSR-250v2 4-Port Unified Services VPN Router.\nHowever, this offer does little to address the security concerns of users who may be unable or unwilling to upgrade immediately.\nThis incident follows a recent pattern of D-Link declining to patch critical vulnerabilities in end-of-life devices.\nEarlier this month, the company faced criticism for not addressing a severe flaw affecting thousands of end-of-life NAS devices , despite reports of active exploitation attempts.\nThe situation shows the ongoing challenges in maintaining the security of older networking equipment and raises questions about manufacturers’ responsibilities towards users of legacy devices.\nAs cyber threats continue to evolve, users are increasingly caught between the need for up-to-date security and the desire to maximize the lifespan of their existing hardware.\nAre you from SOC/DFIR Teams? – Analyse Malware & Phishing with ANY.RUN -> Try for Free",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10415",
+    "https://go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqTaf3k-IvlFHxaPpIKotguXwvCiv-WVjQsSsiF6s0AgeanQ40rf-u2cUrwGuXeV0C_6MVQTHDX1OCtZhsNtirmbI_2dAT_uG5AIhwUw3pSbT_vmlNcgfiFr1XtQEt_d6rQRWfLNrojdiYTgSIx5dTLOVYWVGyF8xYhe3njrlTiP-bXMhT_mLg1R8ZUtI/s16000/Affected%20models%20(Source%20-%20D-Link).webp",
+    "https://www.go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://www.supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10415",
+    "https://supportannouncement.us.dlink.com/security/publication.aspx",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqTaf3k-IvlFHxaPpIKotguXwvCiv-WVjQsSsiF6s0AgeanQ40rf-u2cUrwGuXeV0C_6MVQTHDX1OCtZhsNtirmbI_2dAT_uG5AIhwUw3pSbT_vmlNcgfiFr1XtQEt_d6rQRWfLNrojdiYTgSIx5dTLOVYWVGyF8xYhe3njrlTiP-bXMhT_mLg1R8ZUtI/s16000/Affected%20models%20(Source%20-%20D-Link).webp",
+    "https://go.cynet.com/mitre_2024",
+    "https://app.any.run/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "1703c8d493002a75541b99b266c2e05896b4a772",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:55:37.160+02:00",
+  "updated": "2024-11-22T15:55:37.160+02:00"
+}

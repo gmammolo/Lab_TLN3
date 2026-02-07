@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "f7765060e7e002352e31bec25d8059d88f411c58",
+    "url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/themeisle-companion/orbit-fox-by-themeisle-21043-authenticated-contributor-stored-cross-site-scripting-via-pricing-table-widget",
+    "site_full": "www.wordfence.com",
+    "site": "wordfence.com",
+    "site_section": "https://wordfence.com/threat-intel",
+    "site_categories": [],
+    "section_title": "Wordfence Intelligence",
+    "title": "Orbit Fox by ThemeIsle <= 2.10.43 - Authenticated (Contributor+) Stored Cross-Site Scripting via Pricing Table Widget",
+    "title_full": "Orbit Fox by ThemeIsle <= 2.10.43 - Authenticated (Contributor+) Stored Cross-Site Scripting via Pricing Table Widget",
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2005,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f7765060e7e002352e31bec25d8059d88f411c58",
+  "url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/themeisle-companion/orbit-fox-by-themeisle-21043-authenticated-contributor-stored-cross-site-scripting-via-pricing-table-widget",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-09T02:00:00.000+02:00",
+  "title": "Orbit Fox by ThemeIsle <= 2.10.43 - Authenticated (Contributor+) Stored Cross-Site Scripting via Pricing Table Widget",
+  "text": "CVE |\n|\n---|\nThe Orbit Fox by ThemeIsle plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's Pricing Table widget in all versions up to, and including, 2.10.43 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\nSoftware Type | Plugin |\n---|---|\nSoftware Slug |\nthemeisle-companion\n|\nThis record contains material that is subject to copyright.\nCopyright 2012-2025 Defiant Inc.\nLicense:\nDefiant hereby grants you a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute this software vulnerability information. Any copy of the software vulnerability information you make for such purposes is authorized provided that you include a hyperlink to this vulnerability record and reproduce Defiant's copyright designation and this license in any such copy.\n[Read more.](https://www.wordfence.com/wordfence-intelligence-terms-and-conditions/)\nCopyright 1999-2025 The MITRE Corporation\nLicense:\nCVE Usage: MITRE hereby grants you a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Common Vulnerabilities and Exposures (CVE®). Any copy you make for such purposes is authorized provided that you reproduce MITRE's copyright designation and this license in any such copy.\n[Read more.](https://www.cve.org/Legal/TermsOfUse)\nHave information to add, or spot any errors? Contact us at [wfi-support@wordfence.com](mailto:wfi-support@wordfence.com) so we can make any appropriate adjustments.\nDid you know Wordfence Intelligence provides free personal and commercial API access to our comprehensive WordPress vulnerability database, along with a free webhook integration to stay on top of the latest vulnerabilities added and updated in the database? Get started today!\nWant to get notified of the latest vulnerabilities that may affect your WordPress site?\nInstall Wordfence on your site today to get notified immediately if your site is affected by a vulnerability that has been added to our database.\nThe Wordfence Intelligence WordPress vulnerability database is completely free to access and query via API. Please review the documentation on how to access and consume the vulnerability data via API.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->scientific standards",
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cve.org/Legal/TermsOfUse",
+    "https://cve.org/Legal/TermsOfUse"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T06:54:58.376+02:00",
+  "updated": "2025-01-10T06:54:58.376+02:00"
+}

@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "c7d9255862087ed95d7091e4ed0db7310f878edd",
+    "url": "https://vulners.com/ibm/9D50336B2D9F23024FAB2BBF6EC9D6E2A2CF28B669F53DC773CD0050B313D36E",
+    "site_full": "vulners.com",
+    "site": "vulners.com",
+    "site_section": "https://vulners.com/rss.xml",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Vulners.com RSS Feed",
+    "title": "Security Bulletin: IBM Technical Support Appliance - possible exposure of sensitive information",
+    "title_full": "Security Bulletin: IBM Technical Support Appliance - possible exposure of sensitive information",
+    "published": "2024-11-22T03:37:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://vulners.com/static/img/ibm.png",
+    "performance_score": 0,
+    "domain_rank": 153429,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c7d9255862087ed95d7091e4ed0db7310f878edd",
+  "url": "https://vulners.com/ibm/9D50336B2D9F23024FAB2BBF6EC9D6E2A2CF28B669F53DC773CD0050B313D36E",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "IBM",
+  "published": "2024-11-22T03:37:00.000+02:00",
+  "title": "Security Bulletin: IBM Technical Support Appliance - possible exposure of sensitive information",
+  "text": "CVSS3\nAttack Vector\nNETWORK\nAttack Complexity\nLOW\nPrivileges Required\nNONE\nUser Interaction\nNONE\nScope\nUNCHANGED\nConfidentiality Impact\nHIGH\nIntegrity Impact\nNONE\nAvailability Impact\nNONE\nCVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N\nAI Score\nConfidence\nLow\nRSA-PSK key exchange occurs when establishing a connection from a web browser to the IBM Technical Support Appliance web UI.\n**CVEID:**CVE-2024-0553 **DESCRIPTION:**GnuTLS could allow a remote attacker to obtain sensitive information. By perform a timing side-channel attack in the RSA-PSK key exchange, a remote attacker could exploit this vulnerability to obtain sensitive information. **CWE:**CWE-203: Observable Discrepancy **CVSS Source:**IBM X-Force **CVSS Base score:**7.5 CVSS Vector:(CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N)\nAffected Product(s) | Version(s) |\n---|---|\nTechnical Support Appliance | All |\nUpdate the IBM Technical Support Appliance to 3.0.1. Refer to the online support documentation on how to perform an update.\nNone\nVendor | Product | Version | CPE |\n---|---|---|---|\n|\nCVSS3\nAttack Vector\nNETWORK\nAttack Complexity\nLOW\nPrivileges Required\nNONE\nUser Interaction\nNONE\nScope\nUNCHANGED\nConfidentiality Impact\nHIGH\nIntegrity Impact\nNONE\nAvailability Impact\nNONE\nCVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N\nAI Score\nConfidence\nLow",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T05:13:38.076+02:00",
+  "updated": "2024-11-22T05:13:38.076+02:00"
+}

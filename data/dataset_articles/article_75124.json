@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "2728958e6e7a110d98e3a105efcd151c486b4fbf",
+    "url": "https://gbhackers.com/unsecured-ics-devices-exposed",
+    "site_full": "gbhackers.com",
+    "site": "gbhackers.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "145,000 ICS Systems, Thousands of HMIs Exposed to Cyber Attacks",
+    "title_full": "145,000 ICS Systems, Thousands of HMIs Exposed to Cyber Attacks",
+    "published": "2024-11-22T11:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7a3QUU855mp3nszV86NntBF1gAesto55XAjyZsrcw9XK2W9uvwBQUKxL5sxE-1pwovbjVPoNdDX5UCZn-7G79S48YY-5cbSGO8sY8ITPPfTXYbAyZ9_7c6UMogJloIao7Ow806ti8n0vlGrPVOjuk9p05WmANlQ67o5ifbE_xS7wSxJt-Fyg0tnZUgfYk/s1600/ICS-1.webp",
+    "performance_score": 0,
+    "domain_rank": 62110,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2728958e6e7a110d98e3a105efcd151c486b4fbf",
+  "url": "https://gbhackers.com/unsecured-ics-devices-exposed",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Divya",
+  "published": "2024-11-22T11:06:00.000+02:00",
+  "title": "145,000 ICS Systems, Thousands of HMIs Exposed to Cyber Attacks",
+  "text": "Critical infrastructure, the lifeblood of modern society, is under increasing threat as a new report from Censys reveals that over 145,000 industrial control system ( ICS ) devices are exposed to the internet.\nAmong these, thousands of human-machine interfaces (HMIs) — which allow operators to control critical systems — remain unsecured, leaving them vulnerable to exploitation by malicious actors.\nThe findings highlight the growing risks to essential services like energy, water, and transportation, where even small disruptions can have far-reaching consequences.\nThe report paints a stark picture of global ICS vulnerabilities . Many HMIs, designed to simplify system management, are accessible online without authentication, offering attackers a direct route into vital operations.\nThese interfaces bypass the need for specialized knowledge of ICS protocols, enabling attackers to manipulate critical systems with alarming ease.\nLeveraging 2024 MITRE ATT&CK Results for SME & MSP Cybersecurity Leaders – Attend Free Webinar\nUnsecured ICS Devices Exposed North America leads the world in ICS exposure, accounting for 38% of global vulnerabilities, with the United States alone hosting over one-third of the exposed devices.\nThe report also details real-world examples, such as attacks on water systems in Pennsylvania and Texas, where exposed HMIs were exploited to manipulate operations without requiring advanced ICS expertise.\nFor years, the focus of ICS cybersecurity has been on safeguarding specialized protocols like Modbus and DNP3.\nHowever, the Censys report underscores a more immediate threat: exposed HMIs and remote access points.\nThese interfaces often misconfigured and lacking even basic security measures, present low-complexity entry points that attackers can exploit with minimal effort.\nTheir user-friendly design makes them particularly appealing targets, as they allow direct operational control without the need for deep technical knowledge.\nAccording to recent research from GreyNoise, a threat intelligence firm that studied internet-connected HMIs during the summer of 2024.\nTheir findings revealed that such systems are scanned and probed by attackers almost immediately upon being discovered online. In some cases, over 30% of IP addresses scanning these devices were later identified as malicious.\nInterestingly, the research found that attackers often targeted remote access protocols like Virtual Network Computing (VNC) rather than ICS-specific protocols, further highlighting the need to secure these entry points.\nThe growing exposure of ICS devices is more than a technical issue; it is a societal challenge. Safeguarding critical infrastructure requires immediate attention.\nOrganizations must conduct thorough inventories of internet-facing systems, secure HMIs with strong authentication and network segmentation, and monitor systems for potential reconnaissance activity.\nWhile protecting ICS protocols remains important, the focus must shift to securing low-hanging vulnerabilities like HMIs and remote access services.\nThe vulnerabilities outlined in the Censys report are a wake-up call. If left unaddressed, they could lead to catastrophic consequences for public safety and national security. The time to act is now — securing critical systems and closing exploitable gaps is no longer optional but essential.\nAre you from SOC/DFIR Teams? – Analyse Malware & Phishing with ANY.RUN -> Try for Free",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://cybersecuritynews.com/multiple-linux-kernel-vulnerabilities/",
+    "https://cybersecuritynews.com/cybersecurity-in-trading-software-development/",
+    "https://www.greynoise.io/blog/new-report-reveals-hidden-risks-how-internet-exposed-systems-threaten-critical-infrastructure",
+    "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://cybersecuritynews.com/multiple-linux-kernel-vulnerabilities",
+    "https://cybersecuritynews.com/cybersecurity-in-trading-software-development",
+    "https://www.go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://www.cybersecuritynews.com/cybersecurity-in-trading-software-development/",
+    "https://go.cynet.com/mitre_2024",
+    "https://www.cybersecuritynews.com/multiple-linux-kernel-vulnerabilities/",
+    "https://greynoise.io/blog/new-report-reveals-hidden-risks-how-internet-exposed-systems-threaten-critical-infrastructure",
+    "https://app.any.run/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "North",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "2728958e6e7a110d98e3a105efcd151c486b4fbf",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:24:06.040+02:00",
+  "updated": "2024-11-22T12:02:44.310+02:00"
+}

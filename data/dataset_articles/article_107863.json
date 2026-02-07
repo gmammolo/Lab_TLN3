@@ -1,0 +1,139 @@
+{
+  "thread": {
+    "uuid": "8b4df248840e4dfe15e2b051dd7722d726735424",
+    "url": "https://techfundingnews.com/psiquantum-1b-funding-nvidia-blackrock-quantum-computing/",
+    "site_full": "techfundingnews.com",
+    "site": "techfundingnews.com",
+    "site_section": "https://techfundingnews.com/category/sustainable",
+    "site_categories": [],
+    "section_title": "Sustainable News &#8212; Tech Funding News",
+    "site_title": "Tech Funding News | Global technology startup funding news",
+    "title": "PsiQuantum grabs $1B from Nvidia, BlackRock to bring fault-tolerant quantum machines online",
+    "title_full": "PsiQuantum grabs $1B from Nvidia, BlackRock to bring fault-tolerant quantum machines online",
+    "published": "2025-09-11T11:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://techfundingnews.com/wp-content/uploads/2025/09/PsiQuantum-team.jpg",
+    "performance_score": 0,
+    "domain_rank": 80250,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8b4df248840e4dfe15e2b051dd7722d726735424",
+  "url": "https://techfundingnews.com/psiquantum-1b-funding-nvidia-blackrock-quantum-computing/",
+  "ord_in_thread": 0,
+  "author": "Sofia Chesnokova",
+  "published": "2025-09-11T11:05:00.000+03:00",
+  "title": "PsiQuantum grabs $1B from Nvidia, BlackRock to bring fault-tolerant quantum machines online",
+  "text": "The quantum computing race has long been framed as a series of scientific marvels that never quite escape the lab. PsiQuantum wants to put that scepticism to rest. The California startup just closed a $1 billion Series E round to scale its photonic quantum systems.\nThe funding values PsiQuantum at $7 billion, up from $3.2 billion in 2021. BlackRock led the round, joined by Nvidia’s venture arm NVentures, Temasek, Baillie Gifford, Morgan Stanley’s Counterpoint Global, the Qatar Investment Authority, and others. Existing backers Blackbird and Third Point Ventures also renewed their support.\nPsiQuantum states that the funds will be utilised to expand its large-scale quantum sites in Brisbane and Chicago, deploy prototype systems to validate designs, and enhance the performance of its quantum photonic chips. The company also announced a new collaboration with Nvidia that spans algorithms, software, and integration with PsiQuantum’s silicon photonics platform.\n“We defined what it takes from day one — this is a grand engineering challenge, not a science experiment,” CEO and co-founder Jeremy O’Brien said.\nFrom academia to building machines\nPsiQuantum was founded nearly a decade ago by O’Brien and Chief Scientific Officer Pete Shadbolt. Both come from academic research in photonics, but they decided early on that the field couldn’t progress by accumulating small experimental wins. Instead, they set out to build quantum chips that could be produced in large volumes using standard semiconductor fabrication facilities.\nThat approach has already drawn public backing. Last year, the company received almost A$1 billion in government funding to establish its Brisbane site, while announcing plans for a similar project in Chicago.\n“Nearly nine years after we started, we have pushed the technology to an unprecedented level of maturity and performance. We have the chips, we have scalable cooling, we can handle networking, and we have identified the sites. We’re ready to build utility-scale systems,” Shadbolt said.\nPhotons over superconductors\nPsiQuantum is betting on photons as qubits, designed using silicon photonics and fabricated at scale in New York through a commercial foundry. This sets it apart from rivals pursuing superconducting approaches, such as Google Quantum AI and Quantum Circuits, or ion-trap technologies, as used by IonQ and Quantinuum.\nAlongside the chips, PsiQuantum builds its own modular cryostats, which resemble data centre racks and can cool hundreds of chips in one cabinet, supporting the scalability of its photonic quantum computing architecture.\nThe company has consistently framed fault tolerance as its differentiator. Rather than focusing on small systems, PsiQuantum argues that only million-qubit, fault-tolerant architectures will make quantum computing practically useful in areas like materials research, finance, logistics, and drug discovery.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "War, Conflict and Unrest"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Economy, Business and Finance->business financing",
+    "Economy, Business and Finance->investment and opinion pieces",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/in/pete-shadbolt-4b7541126/",
+    "https://www.linkedin.com/in/jeremy-o-brien-39482631",
+    "https://linkedin.com/in/jeremy-o-brien-39482631",
+    "https://www.linkedin.com/in/pete-shadbolt-4b7541126",
+    "https://linkedin.com/in/pete-shadbolt-4b7541126/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Baillie Gifford",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jere",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "BlackRock",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "BLK",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "Qatar Investment Authority",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Temasek",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-11T12:06:26.789+03:00",
+  "updated": "2025-09-11T12:12:39.000+03:00"
+}

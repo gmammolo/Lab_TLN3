@@ -1,0 +1,121 @@
+{
+  "thread": {
+    "uuid": "565e7747380894478ae711d9bed071df0fb37214",
+    "url": "https://elpais.com/tecnologia/2026-01-29/el-premio-fronteras-reconoce-a-los-artifices-del-sistema-que-protege-la-seguridad-y-la-privacidad-en-internet.html",
+    "site_full": "elpais.com",
+    "site": "elpais.com",
+    "site_section": "https://elpais.com/noticias/mercados-financieros/",
+    "site_categories": [
+      "media",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news_pe",
+      "top_news_co",
+      "top_news_es",
+      "top_news_be",
+      "top_news_mx",
+      "top_news_ma",
+      "top_news_cl",
+      "top_news_pt",
+      "top_news",
+      "crime, law and justice",
+      "politics",
+      "arts, culture and entertainment",
+      "lifestyle and leisure",
+      "economy, business and finance"
+    ],
+    "section_title": "Mercados financieros en EL PAÍS",
+    "site_title": "EL PAÍS: el periódico global",
+    "title": "El premio Fronteras reconoce a los artífices del sistema que protege la seguridad y la privacidad en internet | Tecnología | EL PAÍS",
+    "title_full": "El premio Fronteras reconoce a los artífices del sistema que protege la seguridad y la privacidad en internet | Tecnología | EL PAÍS",
+    "published": "2026-01-29T13:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://imagenes.elpais.com/resizer/v2/GCYIJMDL4JBCLJ5RBOW6XUCJ24.jpg?auth=7545dac27632513d7f4aede1a464f741ec5ab38437a31e510b3d70ebf694e086&amp;width=1200",
+    "performance_score": 0,
+    "domain_rank": 642,
+    "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "565e7747380894478ae711d9bed071df0fb37214",
+  "url": "https://elpais.com/tecnologia/2026-01-29/el-premio-fronteras-reconoce-a-los-artifices-del-sistema-que-protege-la-seguridad-y-la-privacidad-en-internet.html",
+  "ord_in_thread": 0,
+  "author": "Selva Vargas Reátegui",
+  "published": "2026-01-29T13:57:00.000+02:00",
+  "title": "El premio Fronteras reconoce a los artífices del sistema que protege la seguridad y la privacidad en internet | Tecnología | EL PAÍS",
+  "text": "Desde su creación a finales del siglo pasado, el algoritmo de encriptación Advanced Encryption Standard (AES) —también llamado Rijndael— es el sistema estándar internacional que protege la seguridad y privacidad en los ordenadores portátiles, los móviles, los sistemas de mensajería digital, las tarjetas bancarias y hasta el almacenamiento de datos en la nube. Sus creadores, los ingenieros belgas Joan Daemen y Vincent Rijmen, acaban de ser galardonados este jueves con el premio Fundación BBVA Fronteras del Conocimiento en la categoría de Tecnologías de la Información y la Comunicación (TIC) . En la XVIII edición de este premio, el jurado ha destacado que ese cimiento matemático se ha convertido en la tecnología que “sustenta la era digital actual”. Gracias a ella, afirman, “nuestro dinero permanece en nuestras cuentas bancarias, nuestros historiales médicos siguen siendo privados y nuestros mensajes solo llegan a las personas a las que queremos enviarlos”. En 1997, los investigadores desarrollaron Rijndael, una combinación de sus apellidos . En 2001 se integró en el sistema estadounidense, y en 2005 se aplicó a escala internacional hasta nuestros días. La contribución de Daemen (Universidad Radboud de Nimega, Países Bajos) y Rijmen (Universidad Católica de Lovaina-KU Leuven, Bélgica, y Universidad de Bergen, Noruega) nació en un momento en el que el Data Encryption Standard (DES), del Instituto Nacional de Estándares y Tecnología (NIST) en Estados Unidos, comenzaba a presentar cada vez más defectos. El organismo convocó a un concurso para mejorar su sistema. Daemen y Rijmen llegaron a esa convocatoria con la ventaja de que sus tesis doctorales se centraban precisamente en los fundamentos matemáticos y algorítmicos de la criptografía. Acabaron ganando la competición. Se trata de un código abierto, una característica que permitió su estandarización global y, de acuerdo con el jurado, “la transparencia en la comunidad criptográfica”. “Se enseña en todos los cursos del mundo en materia de seguridad informática y se puede examinar en busca de vulnerabilidades”, destacan. En videollamada con EL PAÍS, Daemen subraya que, aunque su creación data de los años noventa del siglo pasado, adaptaron durante todos estos años su algoritmo: “Ahora estamos trabajando en una criptografía, pero no tengo grandes esperanzas de que sustituya al AES, porque el AES está en todas partes y sigue funcionando bien”, sostiene. Rijmen apunta que la presencia del Advanced Encryption Standard se extiende a múltiples ámbitos de la vida cotidiana: “Estuvo en las tres primeras aplicaciones móviles y está cuando imprimes un documento. Las impresoras modernas hablan con el cartucho de tinta para averiguar si es un cartucho de tinta adecuado. Esa comunicación también está asegurada”, dice. Por su parte, Daemen advierte sobre los desafíos políticos que rodean la criptografía: “La criptografía que hacemos, como la del AES o sistemas similares, son solo componentes básicos. Pero la arquitectura de seguridad a nivel superior requiere decisiones sobre cómo se almacenan y gestionan los datos: si en la nube, de forma descentralizada o centralizada”. En ese contexto, dice, muchos criptógrafos y expertos en seguridad se han manifestado sobre prácticas como el escaneo del lado del cliente, planteadas para prevenir abusos sexuales infantiles. Aunque el objetivo es loable, advierte Daemen, estas tecnologías también pueden convertirse en herramientas de vigilancia masiva, algo especialmente preocupante en países donde las tendencias políticas alejan la supervisión de los ciudadanos. “Con la infraestructura actual nunca ha habido tanta capacidad de vigilancia masiva, y muchos criptógrafos hacen oír su voz e intentan influir en la legislación”, afirma. El jurado está presidido por Oussama Khatib, catedrático de Ciencias de la Computación y director del Laboratorio de Robótica en la Universidad de Stanford (Estados Unidos); y como secretario, Ron Ho, vicepresidente corporativo de I+D en Hardware en Lattice Semiconductor (Estados Unidos). En la anterior edición del galardón , el premio fue a parar a Anil K. Jain (Basti, India, 1948) y Michael I. Jordan (Maryland, EE UU, 1956) por sus aportes en el desarrollo de la IA y el reconocimiento facial. Tras un trabajo de cuatro décadas, los científicos lograron que los ordenadores sean capaces de identificar patrones y realizar predicciones con grupos de datos. Esta hazaña impulsó tecnologías transformadoras como la biometría y sentó las bases de la inteligencia artificial generativa. ¿Por qué estás viendo esto?",
+  "summary": "Desde su creación a finales del siglo pasado, el algoritmo de encriptación Advanced Encryption Standard (AES) —también llamado Rijndael— es el sistema estándar internacional que protege la seguridad y privacidad en los ordenadores portátiles, los móviles, los sistemas de mensajería digital, las tarjetas bancarias y hasta el almacenamiento de datos en la nube.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_ar",
+      "top_news_ve",
+      "top_news_pe",
+      "top_news_co",
+      "top_news_es",
+      "top_news_be",
+      "top_news_mx",
+      "top_news_ma",
+      "top_news_cl",
+      "top_news_pt",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-29T14:15:31.727+02:00",
+  "updated": "2026-01-31T15:43:43.802+02:00"
+}

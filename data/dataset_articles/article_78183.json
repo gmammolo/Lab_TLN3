@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "328eae3cc6176ba3a063ddeb5fd748bb4e09f7fb",
+    "url": "https://www.it-connect.fr/le-clickjacking-menace-les-donnees-des-gestionnaires-de-mots-de-passe-les-plus-populaires/",
+    "site_full": "www.it-connect.fr",
+    "site": "it-connect.fr",
+    "site_section": "https://www.it-connect.fr/rss",
+    "site_categories": [
+      "windows",
+      "unix",
+      "tech"
+    ],
+    "section_title": "IT-Connect",
+    "site_title": "IT-Connect | Tutoriels - Cours informatique - Tests - Vidéos",
+    "title": "Le clickjacking menace les données des gestionnaires de mots de passe les plus populaires !",
+    "title_full": "Le clickjacking menace les données des gestionnaires de mots de passe les plus populaires !",
+    "published": "2025-08-21T09:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.it-connect.fr/wp-content-itc/uploads/2025/08/Clickjacking-Web-Des-gestionnaires-de-mots-de-passe-vulnerables.jpg",
+    "performance_score": 0,
+    "domain_rank": 138527,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "328eae3cc6176ba3a063ddeb5fd748bb4e09f7fb",
+  "url": "https://www.it-connect.fr/le-clickjacking-menace-les-donnees-des-gestionnaires-de-mots-de-passe-les-plus-populaires/",
+  "ord_in_thread": 0,
+  "author": "Florian BURNEL",
+  "published": "2025-08-21T09:15:00.000+03:00",
+  "title": "Le clickjacking menace les données des gestionnaires de mots de passe les plus populaires !",
+  "text": "Le clickjacking menace les données des gestionnaires de mots de passe les plus populaires !\nUne faille de sécurité de type clickjacking touche les extensions de gestionnaires de mots de passe comme 1Password, LastPass et Bitwarden, exposant identifiants, codes 2FA et données bancaires. Votre gestionnaire de mots de passe est-il vulnérable ? Faisons le point.\nLe Clickjacking DOM, une menace invisible\nCette technique de clickjacking basé sur le DOM (Document Object Model) a été présentée en août 2025 par le chercheur en sécurité Marek Tóth, lors de la conférence DEF CON 33.\nLe clickjacking consiste à détourner l'interface utilisateur en superposant des éléments invisibles sur une page web légitime, afin de tromper un utilisateur et de lui faire cliquer sur un lien ou un bouton à son insu. Cette méthode n'est pas nouvelle, mais ce qui est intéressant avec la présentation de Marek Tóth, c'est qu'elle cible les gestionnaires de mots de passe.\nEn effet, la méthode mise au point par Marek Tóth applique ce principe aux éléments que les extensions de gestionnaires de mots de passe injectent dans les pages web, comme les icônes de remplissage automatique dans les champs de formulaire.\nLe chercheur précise : \"Un simple clic n'importe où sur un site web contrôlé par un attaquant pourrait permettre de voler les données des utilisateurs (détails de carte de crédit, données personnelles, identifiants de connexion, y compris les TOTP)\". Un risque important pour les coffre-forts des gestionnaires de mots de passe.\nL'attaque se déroule en plusieurs étapes :\n- Un site malveillant affiche une pop-up en apparence anodine (une bannière de cookies, par exemple), tout en chargeant en arrière-plan un formulaire de connexion invisible, superposé exactement sous le bouton \"Accepter\" de la bannière. Il est invisible en jouant sur l'opacité.\n- Lorsque l'utilisateur clique sur ce qu'il croit être le bouton d'acceptation, il clique en réalité sur le bouton invisible de remplissage automatique du gestionnaire de mots de passe.\n- Les identifiants sont alors insérés dans le formulaire caché et immédiatement exfiltrés vers un serveur contrôlé par l'attaquant.\nUne fois cette méthode mise au point, Marek Tóth a décidé d'évaluer les gestionnaires de mots de passe les plus populaires, afin de déterminer ceux qui sont vulnérables à cette attaque.\nMillions d'utilisateurs concernés et correctifs partiels\nAu total, 11 extensions populaires testés ont été identifiées comme vulnérables, affectant potentiellement des millions d'utilisateurs à travers le monde. En effet, l'ensemble de ces solutions représenteraient au moins 40 millions d'installations actives.\n\"Pour référence, l'article The Best Password Managers for 2025 de PCMag a été utilisé pour la sélection de 10 gestionnaires de mots de passe. [...] J'ai également ajouté les iCloud Passwords à cette liste car il est largement utilisé.\", précise Marek.\nLe tableau récapitulatif présenté ci-dessous montre que les extensions sont vulnérables et qu'elles sont plus ou moins sensibles à cette attaque.\nLe problème vient du fait que, par défaut, la plupart des gestionnaires testés remplissent automatiquement les identifiants non seulement sur le domaine principal, mais aussi sur tous ses sous-domaines. Il y a l'autofill automatique (aucun clic !) et l'autofill manuel (choix de l'identifiant depuis une liste).\n\"Un pirate pourrait facilement trouver des failles XSS ou autres et voler les informations d'identification stockées par l'utilisateur en un seul clic (10 sur 11), y compris TOTP (9 sur 11). Dans certains scénarios, l'authentification par clé de passe pourrait également être exploitée (8 sur 11).\", précise le chercheur.\nMais, alors, comment se protéger ?\nUn patch de sécurité se fait attendre de la part de chacun des éditeurs, afin de protéger les utilisateurs de ce risque potentiel. Il est à noter que les versions suivantes (et leurs versions antérieures) sont vulnérables :\n- 1Password Password Manager 8.11.4.27\n- Apple iCloud Passwords 3.1.25\n- Bitwarden Password Manager 2025.7.0\n- Enpass 6.11.6\n- LastPass 4.146.3\n- LogMeOnce 7.12.4\nDésormais, Bitwarden a déjà réagi en publiant la version 2025.8.0 de son extension pour corriger la vulnérabilité. Des correctifs ont aussi été déployés rapidement par Dashlane, Keeper, NordPass, ProtonPass et RoboForm.\nEnpass et Apple (pour iCloud Passwords) travailleraient activement sur un correctif. En revanche, 1Password et LastPass auraient simplement classé le rapport comme \"informatif\", ce qui suggère que ce problème de sécurité ne sera pas traité en priorité.\nLes mesures de protection à appliquer\nPour mieux protéger les données de votre gestionnaire de mots de passe, il y a plusieurs bonnes pratiques que vous pouvez appliquer :\n- Configurer le verrouillage automatique de votre coffre-fort en cas d'inactivité.\n- Désactiver la fonction de remplissage automatique (privilégiez le copier-coller manuel, même si c'est plus contraignant).\n- Utiliser un paramétrage strict pour la détection du domaine, afin d'exclure les sous-domaines (correspondance exacte).\nCes trois réglages réduisent le confort d’usage, mais renforcent la sécurité.\nQu'en pensez-vous ?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->scientific research",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://marektoth.com/blog/dom-based-extension-clickjacking/",
+    "https://marektoth.com/blog/dom-based-extension-clickjacking",
+    "https://www.marektoth.com/blog/dom-based-extension-clickjacking/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:40:59.198+03:00",
+  "updated": "2025-08-21T11:47:46.000+03:00"
+}

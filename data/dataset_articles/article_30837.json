@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "4e48f8209e93a7f5a538d2bb87d2e550e40e80d9",
+    "url": "https://securityonline.info/malicious-app-found-on-amazon-appstore-masquerades-as-health-tool",
+    "site_full": "securityonline.info",
+    "site": "securityonline.info",
+    "site_section": "https://www.securityonline.info",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Cybersecurity News • Cybersecurity Daily",
+    "title": "Malicious App Found on Amazon Appstore Masquerades as Health Tool",
+    "title_full": "Malicious App Found on Amazon Appstore Masquerades as Health Tool",
+    "published": "2024-12-20T03:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 110768,
+    "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4e48f8209e93a7f5a538d2bb87d2e550e40e80d9",
+  "url": "https://securityonline.info/malicious-app-found-on-amazon-appstore-masquerades-as-health-tool",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "do son",
+  "published": "2024-12-20T03:54:00.000+02:00",
+  "title": "Malicious App Found on Amazon Appstore Masquerades as Health Tool",
+  "text": "McAfee Labs uncovered a malicious app on the Amazon Appstore that disguised itself as a simple health tool while secretly stealing sensitive user data. The app, named “BMI CalculationVsn”, pretended to offer basic body mass index (BMI) calculations but engaged in covert activities like SMS interception and device monitoring.\nAt first glance, BMI CalculationVsn appeared to be a harmless app. As McAfee noted, “ On the surface, this app appears to be a basic tool, providing a single page where users can input their weight and height to calculate their BMI .” However, hidden beneath this simple interface were sinister capabilities designed to compromise user privacy.\nApplication published on Amazon Appstore | Source: McAfee\nUpon closer inspection, McAfee researchers identified several alarming activities:\nScreen Recording : The app initiated a background service to record the screen whenever users clicked the “Calculate” button. While this functionality was incomplete and didn’t upload recordings to a command-and-control (C2) server, its presence indicates the developer’s intent to capture sensitive user inputs like gesture passwords. App Scanning : The spyware scanned devices for installed applications, likely to identify potential targets for further attacks. SMS Interception : Most concerning was its ability to intercept incoming SMS messages, including one-time passwords (OTP) and verification codes, which were stored on Firebase under the storage bucket testmlwr-d4dd7.appspot.com . The app appeared to be a work in progress, with its evolution traced back to October 2024. Initially a simple screen recording app, it later adopted the BMI calculator interface, and SMS stealing capabilities were added in the latest version. The timeline, as detailed by McAfee, revealed that the app was still under active development, with the Firebase API address using the term “testmlwr,” indicating a testing phase.\nInterestingly, the app listed its developer as “ PT. Visionet Data Internasional ”, the name of a legitimate enterprise IT management provider in Indonesia. McAfee suggests this was a deliberate move to gain user trust, noting, “ The malware author tricked users by abusing the names of an enterprise IT management service provider in Indonesia .”\nAfter McAfee reported the app, Amazon quickly removed it from the Appstore. The discovery of BMI CalculationVsn is a sobering reminder of how even seemingly innocuous apps can harbor significant risks. As McAfee puts it, “Apps like ‘BMI CalculationVsn’ serve as a stark reminder that even the simplest tools can harbor hidden threats.”\nRelated Posts:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Health"
+  ],
+  "topics": [
+    "Crime, Law and Justice->fraud",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->cyber crime",
+    "Health->health treatment and procedure",
+    "Health->medical test"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.buymeacoffee.com/ddos",
+    "https://buymeacoffee.com/ddos"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "McAfee",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-12-20T04:13:15.647+02:00",
+  "updated": "2024-12-20T04:13:15.647+02:00"
+}

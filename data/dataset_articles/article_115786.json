@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "a0fdb8c24676724f3ffca4aac8486cce03a1bade",
+    "url": "https://www.silive.com/weather-alerts/2025/01/ny-weather-weather-alert-for-heavy-snow-in-sullivan-county-thursday-night.html",
+    "site_full": "www.silive.com",
+    "site": "silive.com",
+    "site_section": "https://www.silive.com/arc/outboundfeeds/rss/?outputType=xml",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "",
+    "title": "NY weather: Weather alert for heavy snow in Sullivan County Thursday night",
+    "title_full": "NY weather: Weather alert for heavy snow in Sullivan County Thursday night",
+    "published": "2025-01-03T03:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.silive.com/resizer/v2/5MMFFVVMONHOFNEY4ZVJNCYVVM.png?auth=4cec32f4c6492c6195c4abcb04d5acd5f22c06bce2095ba72f922c3b9d332258&amp;width=1280&amp;quality=90",
+    "performance_score": 0,
+    "domain_rank": 5373,
+    "domain_rank_updated": "2024-12-30T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a0fdb8c24676724f3ffca4aac8486cce03a1bade",
+  "url": "https://www.silive.com/weather-alerts/2025/01/ny-weather-weather-alert-for-heavy-snow-in-sullivan-county-thursday-night.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Advance Local Weather Alerts",
+  "published": "2025-01-03T03:47:00.000+02:00",
+  "title": "NY weather: Weather alert for heavy snow in Sullivan County Thursday night",
+  "text": "A weather alert was issued by the National Weather Service on Thursday at 8:41 p.m. for heavy snow until 9:45 p.m. for Sullivan County.\n\"At 8:41 p.m., a band of heavy snow was along a line extending from near Shehawken to near Nichols and moving east at 35 MPH,\" states the weather service.\nLocations impacted by the alert include Carbondale, Honesdale, Bethel, Rush, Damascus, Jackson, Callicoon, Clifford, Forest City and Springville. This includes the following highway exits: pennsylvania Interstate 81 between 202 and 223.\nThe weather service adds, \"Icy roads are possible as the snow melts on the roadway and then quickly refreezes. Use extra caution if you must travel into or through this band of heavy snow. Rapid changes in visibility and potentially slick roads may lead to accidents.\"\nAdvance Local Weather Alerts is a service provided by United Robots, which uses machine learning to compile the latest data from the National Weather Service.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "National Weather Service",
+        "sentiment": "negative"
+      },
+      {
+        "name": "United Robots",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Sullivan County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Shehawken",
+        "sentiment": "none"
+      },
+      {
+        "name": "Honesdale",
+        "sentiment": "none"
+      },
+      {
+        "name": "Callicoon",
+        "sentiment": "none"
+      },
+      {
+        "name": "Nichols",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-03T04:11:19.953+02:00",
+  "updated": "2025-01-03T04:11:19.953+02:00"
+}

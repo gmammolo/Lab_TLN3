@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "bbd63dce44dff2a5ff406dfd34a8c1c145347636",
+    "url": "https://datascience.cancer.gov/news-events/news/machine-learning-reveals-shared-traits-osteosarcomas-pet-dogs-and-humans",
+    "site_full": "datascience.cancer.gov",
+    "site": "cancer.gov",
+    "site_section": "https://datascience.cancer.gov/news-events/news",
+    "site_categories": [
+      "health",
+      "law_government_and_politics",
+      "cancer",
+      "us_government_resources"
+    ],
+    "section_title": "News | CBIIT",
+    "title": "Machine Learning Reveals Shared Traits of Osteosarcomas in Pet Dogs and Humans | CBIIT",
+    "title_full": "Machine Learning Reveals Shared Traits of Osteosarcomas in Pet Dogs and Humans | CBIIT",
+    "published": "2024-11-07T06:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 693,
+    "domain_rank_updated": "2024-11-04T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bbd63dce44dff2a5ff406dfd34a8c1c145347636",
+  "url": "https://datascience.cancer.gov/news-events/news/machine-learning-reveals-shared-traits-osteosarcomas-pet-dogs-and-humans",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-07T06:00:00.000+02:00",
+  "title": "Machine Learning Reveals Shared Traits of Osteosarcomas in Pet Dogs and Humans | CBIIT",
+  "text": "News\nMachine Learning Reveals Shared Traits of Osteosarcomas in Pet Dogs and Humans\nIf you’re looking to bolster your cancer data, you might want to consider NCI’s [Integrated Canine Data Commons](https://datacommons.cancer.gov/repository/integrated-canine-data-commons) (ICDC), a repository featuring multiple types of naturally occurring cancers in dogs.\nNCI-funded researchers recently applied an in-house machine learning model to data from dogs and people to search for commonalities in osteosarcoma. Data from dogs are especially useful for cancers like osteosarcoma, which the researchers say is at least 10 times more prevalent in dogs than people.\n[full report](https://pubmed.ncbi.nlm.nih.gov/39412757/)in Clinical Cancer Research.\nBy tapping the ICDC, the researchers gained power for their analysis, enabling them to identify and prioritize tumor microenvironmental risk factors that set the stage for osteosarcoma to develop and grow.\nAccording to Dr. Sushant Patkar, of NCI’s [Center for Cancer Research](https://ccr.cancer.gov/) (CCR), a corresponding author on the study, “Our study comprehensively benchmarks a model for identifying cancer risk using key tumor microenvironmental factors. In addition, because of its strong translational relevance, our model offers considerable promise for pediatric oncology, especially in identifying new biomarkers and prioritizing treatments for osteosarcoma.”\n“Our study also demonstrates the tremendous potential of harnessing data from naturally occurring cancers in canines to model the complexities of the tumor microenvironment in humans,” he added.\nCo-corresponding author, Dr. Jessica Beck, of NCI’s CCR’s [Comparative Oncology Program](https://ccr.cancer.gov/comparative-oncology-program), said, “Although our study was focused primarily on an unmet clinical need in osteosarcoma, the comparative analysis approach we outlined is potentially applicable across a variety of cancer types—ultimately leading to better clinical outcomes in both people and pets.”\nDr. Amy LeBlanc, the Comparative Oncology Program director, noted, “This study is emblematic of the comparative approach to cancer research, which leverages access to spontaneous cancers in pet dogs to advance our collective knowledge of this devastating disease and thus benefit both species. We are actively working to identify additional deployable biomarkers for treatment response and outcomes in osteosarcoma that have value for both dogs and humans.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://pubmed.ncbi.nlm.nih.gov/39412757/)in",
+    "https://www.pubmed.ncbi.nlm.nih.gov/39412757/)in"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sushant Patkar",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ICDC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-08T02:15:22.648+02:00",
+  "updated": "2024-11-22T14:45:13.685+02:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "fc5b47bfa162e82acd0300602270827f764b8bd5",
+    "url": "https://www.nature.com/articles/d41586-024-03424-z",
+    "site_full": "www.nature.com",
+    "site": "nature.com",
+    "site_section": "http://feeds.nature.com/nature/rss/aop",
+    "site_categories": [
+      "shopping"
+    ],
+    "section_title": "Nature",
+    "title": "AI tool helps people with opposing views find common ground",
+    "title_full": "AI tool helps people with opposing views find common ground",
+    "published": "2024-10-17T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.nature.com/lw1200/magazine-assets/d41586-024-03424-z/d41586-024-03424-z_27704052.jpg",
+    "performance_score": 0,
+    "domain_rank": 108,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fc5b47bfa162e82acd0300602270827f764b8bd5",
+  "url": "https://www.nature.com/articles/d41586-024-03424-z",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Helena Kudiabor",
+  "published": "2024-10-17T08:00:00.000+03:00",
+  "title": "AI tool helps people with opposing views find common ground",
+  "text": "A chatbot-like tool powered by artificial intelligence (AI) can help people with differing views to find areas of agreement, an experiment with online discussion groups has shown. The model, developed by Google DeepMind in London, was able to synthesise diverging opinions and produce summaries of each group’s position that took different perspectives into account. Participants preferred the AI-generated summaries to ones written by human mediators, suggesting such tools could be used to help support complex deliberations. The study was published in science on 17 October[1](#ref-CR1). “You can see it as sort of proof of concept that you can use AI, and specifically, large language models, to fulfil part of the function that is fulfilled by current citizens assemblies and deliberative polls,” says Christopher Summerfield, co-author of the study and research director at the UK AI Safety Institute. “People need to find common ground because collective action requires agreement.” Compromise machine Democratic initiatives like citizen’s assemblies, where groups of people are asked to share their opinions on public policy issues, help ensure that politicians hear a wide variety of perspectives. But scaling up these initiatives can be tricky, and these discussions are typically restricted to small groups to ensure all voices are heard. Intrigued by research into the potential of LLMs to support these discussions, Summerfield and his colleagues developed a study to assess how AI could be at helping people with opposing viewpoints reach a compromise. They deployed a fine-tuned version of the pre-trained DeepMind LLM Chinchilla, which they named the Habermas Machine, after the philosopher Jürgen Habermas, who developed a theory about how rational discussion can help solve conflict. To test their model, the researchers recruited 439 UK residents, who were sorted into smaller groups. Each group discussed three questions related to UK public policy, sharing their personal opinions on each. These opinions were then fed to the AI machine, which generated overarching statements that combined all participants’ viewpoints. Participants were able to rank each statement, and share critiques on them, which the AI then incorporated into a final summary of the group’s collective view. This AI chatbot got conspiracy theorists to question their convictions “The model is trained to try to produce a statement which will garner maximum endorsement by a group of people who have volunteered their opinions,” says Summerfield. “Because the model learns what your preferences are over these statements, it can then produce a statement which is most likely to satisfy everyone.” Alongside the AI, one participant was chosen to be a mediator. They were also told to produce a summary that best incorporated all participant’s views. Participants were shown both the AI’s and the mediator’s final summaries, and asked to rate them. Most participants rated the summaries written by the AI as better than those by the mediator. 56% of participants preferred the AI’s work, compared to 44% who preferred the human summary. External reviewers were also asked to assess the summaries, and gave the AI ones higher ratings for fairness, quality and clarity. The research team then recruited a group of participants demographically representative of the UK population for a virtual citizen’s assembly. In this scenario, group agreement on contentious topics increased after interacting with the AI. This finding suggests that if incorporated into a real citizen’s assembly, AI tools could make it easier for leaders to produce policy proposals that take different perspectives into account. “The LLM could be used in many ways to assist in deliberations and serve roles previously reserved for human moderators,” says Ethan Busby, who researches how AI tools could improve democratic societies at Brigham Young University in Provo, Utah. “I think of this as the cutting edge of work in this space that has a big potential to address pressing social and political problems.” Summerfield adds that AI could even help to make conflict-resolution processes faster and more efficient. Lost connections “Actually applying these technologies into deliberative experiments and processes is really good to see,” says Sammy McKinney, who researches deliberative democracy and its intersections with artificial intelligence at the University of Cambridge, UK. But he adds that researchers should carefully consider the potential impacts of AI on the human aspect of deliberation. “A key reason to support citizen deliberation is that it creates certain kinds of spaces for people to relate to each other,” he says. “By removing more human contact and human facilitation, what are we losing?” Summerfield acknowledges the limitations associated with AI technologies like these. “We did not train the model to try to intervene in the deliberation,” he says, which means that the model’s statement could include extremist or other problematic beliefs. He adds that rigorous research on the impact AI has on society is crucial to understanding its value. “Proceeding with caution seems important to me,” says McKinney, “and then taking steps to, where possible, mitigate those concerns.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Christopher Summerfield",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:25:58.433+03:00",
+  "updated": "2024-10-18T00:52:58.336+03:00"
+}

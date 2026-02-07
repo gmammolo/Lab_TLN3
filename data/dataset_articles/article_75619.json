@@ -1,0 +1,66 @@
+{
+  "thread": {
+    "uuid": "5fe5d130152a0ab270f5cbe62ea587dd2ce984c5",
+    "url": "https://news.bitdegree.org/apple-security-flaw-opens-doors-for-cyber-attackscrypto-users-beware",
+    "site_full": "news.bitdegree.org",
+    "site": "bitdegree.org",
+    "site_section": "https://www.bitdegree.org/crypto/news/rss",
+    "site_categories": [],
+    "section_title": "Crypto News Alerts: Bitcoin, Ethereum &amp; Cryptocurrency News",
+    "title": "Apple Security Flaw Opens Doors for Cyber Attacks—Crypto Users Beware",
+    "title_full": "Apple Security Flaw Opens Doors for Cyber Attacks—Crypto Users Beware",
+    "published": "2024-11-22T15:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.bitdegree.org/images/apple-security-flaw-opens-doors-for-cyber-attackscrypto-users-beware-featured-image.jpg",
+    "performance_score": 0,
+    "domain_rank": 18299,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5fe5d130152a0ab270f5cbe62ea587dd2ce984c5",
+  "url": "https://news.bitdegree.org/apple-security-flaw-opens-doors-for-cyber-attackscrypto-users-beware",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Editor-In-Chief, BitDegree",
+  "published": "2024-11-22T15:16:00.000+02:00",
+  "title": "Apple Security Flaw Opens Doors for Cyber Attacks—Crypto Users Beware",
+  "text": "Apple has recently revealed a serious security flaw affecting its devices, enabling the execution of malicious code remotely via web-based JavaScript.\nThis loophole creates an opportunity for attackers to exploit unsuspecting users, potentially compromising their cryptocurrency assets.\nA disclosure from Apple highlights the importance of updating to the latest versions of JavaScriptCore and WebKit to close this vulnerability. This issue, initially identified by Google’s threat analysis team, allows harmful web content to trigger cross-site scripting attacks.\nDid you know?\nWant to get smarter & wealthier with crypto?\nSubscribe - We publish new crypto explainer videos every week!\nWhat is BNB? The Truth Behind Binance Smart Chain (Animated)\nApple acknowledged reports suggesting this vulnerability may have been actively exploited, particularly on Mac systems equipped with Intel processors.\nFurthermore, the company released a parallel security advisory for iPhone and iPad users. These devices were similarly affected, with the flaw enabling code execution when visiting malicious websites. Apple assured users that installing the latest updates would mitigate the risk.\nConcerns about this vulnerability gained traction on social media, especially within the cryptocurrency community. Changpeng Zhao, Binance <a href=\"https://www.bitdegree.org/top-crypto-exchanges/binance\">\n</a>\nThis incident comes from another discovery earlier this year. Security researchers had reported vulnerabilities in Apple’s M1 and M2 chip series. These chips were found to be susceptible to attacks exploiting a mechanism known as prefetching.\nThis process, intended to optimize performance, allows sensitive data to be stored in the processor’s cache. Hackers can manipulate this flaw to retrieve cryptographic keys.\nCybersecurity threats don’t stop at operating systems—they exploit unsuspecting individuals through clever scams as well. Just recently, a phishing attack cost a Giga Token holder $6 million. How did the hacker pull such a heist? Read the full story.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T16:57:56.650+02:00",
+  "updated": "2024-11-22T16:57:56.650+02:00"
+}

@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "ee7bfaf9cfbdde779abaaebc2b2a4b15cc09136f",
+    "url": "https://news.rambler.ru/tech/55138744-ekspert-nikolskaya-massovoe-vnedrenie-gumanoidnyh-robotov-v-byt-poka-nevozmozhno",
+    "site_full": "news.rambler.ru",
+    "site": "rambler.ru",
+    "site_section": "https://news.rambler.ru/rss/tech/latest/?limit=100",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "section_title": "Последние новости — Рамблер/новости",
+    "site_title": "Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас",
+    "title": "Эксперт Никольская: Массовое внедрение гуманоидных роботов в быт пока невозможно - Рамблер/новости",
+    "title_full": "Эксперт Никольская: Массовое внедрение гуманоидных роботов в быт пока невозможно - Рамблер/новости",
+    "published": "2025-08-14T08:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=55138744&amp;format=png",
+    "performance_score": 0,
+    "domain_rank": 1966,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee7bfaf9cfbdde779abaaebc2b2a4b15cc09136f",
+  "url": "https://news.rambler.ru/tech/55138744-ekspert-nikolskaya-massovoe-vnedrenie-gumanoidnyh-robotov-v-byt-poka-nevozmozhno",
+  "ord_in_thread": 0,
+  "author": "Агентство «Москва»",
+  "published": "2025-08-14T08:30:00.000+03:00",
+  "title": "Эксперт Никольская: Массовое внедрение гуманоидных роботов в быт пока невозможно - Рамблер/новости",
+  "text": "На сегодняшний день использование гуманоидных роботов в домашних условиях пока невозможно из соображений безопасности и отсутствия необходимой инфраструктуры для их эксплуатации. Об этом в интервью Агентству городских новостей «Москва» сообщила заместитель директора Института искусственного интеллекта РТУ МИРЭА Мария Никольская. «Хотя технически зарядка таких роботов в домашних условиях возможна, так как они используют перезаряжаемые литиевые аккумуляторы, которые используются у нас в пауэрбанках, на данный момент это может быть сопряжено с рисками и не является полностью безопасным для рядового пользователя. На скорость разрядки сильно влияет функционал: включение интенсивных режимов (например, «Спорт»), потоковая обработка сенсорных данных (изображение, звук), работа нейронной сети на борту, количество активных двигателей и задачи позиционирования», – сказала Никольская. По ее словам, литиевые аккумуляторы обладают высокой энергетической плотностью, из-за чего подвержены перегреву, а механические повреждения корпуса робота могут спровоцировать короткое замыкание и возгорание. Также Никольская подчеркнула отсутствие инфраструктуры для безопасной эксплуатации роботов дома. «Несмотря на это, для домашнего использования остается актуальной проблема отсутствия специализированных зарядных станций с адаптивной регулировкой тока, что увеличивает вероятность ошибок при эксплуатации неквалифицированным пользователем. Современные решения включают многоуровневую защиту: термодатчики, автоматическое отключение при превышении пороговых значений и использование композитных материалов для корпуса аккумуляторных отсеков», – пояснила она.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Social Issue->social networking",
+    "Social Issue->disabilities",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:20:42.039+03:00",
+  "updated": "2025-08-15T11:06:37.000+03:00"
+}

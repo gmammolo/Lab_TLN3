@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "46d42d200d921f4f9bbc829d8f68bab345d8a2ff",
+    "url": "https://www.news.de/technik/858878239/cisco-identity-services-engine-ise-gefaehrdet-it-sicherheitshinweis-vom-bsi-und-bug-report-schwachstelle-ermoeglicht-das-hochladen-beliebiger-dateien/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "Cisco Identity Services Engine (ISE) gefährdet: IT-Sicherheitshinweis für neue Schwachstelle",
+    "title_full": "Cisco Identity Services Engine (ISE) gefährdet: IT-Sicherheitshinweis für neue Schwachstelle",
+    "published": "2025-08-21T12:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771871/images/57/85/6c9351e9cf0f0f7ee322735dbfdf/nopic/no_pic/1200/675/1/1/8/4/1008/567/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771871_1200x675_1a9221f805b76b45a039c4e540c1a4b7.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "46d42d200d921f4f9bbc829d8f68bab345d8a2ff",
+  "url": "https://www.news.de/technik/858878239/cisco-identity-services-engine-ise-gefaehrdet-it-sicherheitshinweis-vom-bsi-und-bug-report-schwachstelle-ermoeglicht-das-hochladen-beliebiger-dateien/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:36:00.000+03:00",
+  "title": "Cisco Identity Services Engine (ISE) gefährdet: IT-Sicherheitshinweis für neue Schwachstelle",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 20.08.2025 einen Sicherheitshinweis für Cisco Identity Services Engine (ISE) veröffentlicht. Betroffen von der Sicherheitslücke sind das Betriebssystem CISCO Appliance sowie das Produkt Cisco Identity Services Engine (ISE).\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: Cisco Security Advisory cisco-sa-ise-file-upload-qksX6C8g (Stand: 20.08.2025).\nSicherheitshinweis für Cisco Identity Services Engine (ISE) - Risiko: mittel\nRisikostufe: 3 (mittel)\nCVSS Base Score: 4,9\nCVSS Temporal Score: 4,3\nRemoteangriff: Ja\nZur Bewertung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Beim Temporal Score fließen über die Zeit veränderbare Rahmenbedingungen in die Bewertung ein. Das Risiko der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 4,9 als \"mittel\" eingestuft.\nCisco Identity Services Engine (ISE) Bug: Schwachstelle ermöglicht das Hochladen beliebiger Dateien\nDie Cisco Identity Services Engine (ISE) bietet eine attributbasierte Zugangs-Kontroll-Lösung.\nEin entfernter, authentisierter Angreifer kann eine Schwachstelle in Cisco Identity Services Engine (ISE) ausnutzen, um beliebige Dateien hochzuladen.\nDie Verwundbarkeit wird mit der eindeutigen CVE-Seriennummer (Common Vulnerabilities and Exposures) CVE-2025-20131 gehandelt.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssystem\nCISCO Appliance\nProdukte\nCisco Identity Services Engine (ISE) <3.1 P10 (cpe:/a:cisco:identity_services_engine_software)\nCisco Identity Services Engine (ISE) 3.1 P10 (cpe:/a:cisco:identity_services_engine_software)\nCisco Identity Services Engine (ISE) <3.2 P7 (cpe:/a:cisco:identity_services_engine_software)\nCisco Identity Services Engine (ISE) 3.2 P7 (cpe:/a:cisco:identity_services_engine_software)\nCisco Identity Services Engine (ISE) <3.3 P3 (cpe:/a:cisco:identity_services_engine_software)\nCisco Identity Services Engine (ISE) 3.3 P3 (cpe:/a:cisco:identity_services_engine_software)\nCisco Identity Services Engine (ISE) <3.4 (cpe:/a:cisco:identity_services_engine_software)\nCisco Identity Services Engine (ISE) 3.4 (cpe:/a:cisco:identity_services_engine_software)\nAllgemeine Maßnahmen zum Umgang mit IT-Schwachstellen\n- Anwender der betroffenen Systeme sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten Sicherheitspatches verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten regelmäßig prüfen, wann das herstellende Unternehmen ein neues Sicherheitsupdate zur Verfügung stellt.\nQuellen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nCisco Security Advisory cisco-sa-ise-file-upload-qksX6C8g vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-file-upload-qksX6C8g\nVersionshistorie dieses Sicherheitshinweises\nDies ist die initiale Fassung des vorliegenden IT-Sicherheitshinweises für Cisco Identity Services Engine (ISE). Bei Bekanntgabe von Updates wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.\n20.08.2025 - Initiale Fassung\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Environment"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-file-upload-qksX6C8g",
+    "https://www.facebook.com/News.de",
+    "https://twitter.com/news_de",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://pin.it/11NQyAf",
+    "https://facebook.com/News.de",
+    "https://www.pin.it/11NQyAf",
+    "https://www.twitter.com/news_de",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://www.sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-file-upload-qksX6C8g"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "BSI",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Cisco Identity Services Engine",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "CISCO Appliance",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "ISE",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:35.925+03:00",
+  "updated": "2025-08-21T13:14:35.000+03:00"
+}

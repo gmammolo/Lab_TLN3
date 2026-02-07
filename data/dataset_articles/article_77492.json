@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "26959a11ec42de0487e18379e4856774bfaa5094",
+    "url": "https://vuldb.com/?id.320035",
+    "site_full": "vuldb.com",
+    "site": "vuldb.com",
+    "site_section": "https://vuldb.com/?rss.recent",
+    "site_categories": [],
+    "section_title": "VulDB Recent Entries",
+    "site_title": "Vulnerability Database",
+    "title": "CVE-2025-9006 | Tenda CH22 1.0.0.1 /goform/delFileName formdelFileName buffer overflow",
+    "title_full": "CVE-2025-9006 | Tenda CH22 1.0.0.1 /goform/delFileName formdelFileName buffer overflow",
+    "published": "2025-08-13T22:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 186376,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "26959a11ec42de0487e18379e4856774bfaa5094",
+  "url": "https://vuldb.com/?id.320035",
+  "ord_in_thread": 0,
+  "author": "vuldb.com",
+  "published": "2025-08-13T22:31:00.000+03:00",
+  "title": "CVE-2025-9006 | Tenda CH22 1.0.0.1 /goform/delFileName formdelFileName buffer overflow",
+  "text": "Summary\nA vulnerability was found in Tenda CH22 1.0.0.1 and classified as critical. Affected by this issue is the function formdelFileName\nof the file /goform/delFileName. The manipulation leads to buffer overflow.\nThis vulnerability is handled as CVE-2025-9006. The attack may be launched remotely. Furthermore, there is an exploit available.\nDetails\nA vulnerability has been found in Tenda CH22 1.0.0.1 and classified as critical. Affected by this vulnerability is the function formdelFileName\nof the file /goform/delFileName. The manipulation with an unknown input leads to a buffer overflow vulnerability. The CWE definition for the vulnerability is CWE-120. The product copies an input buffer to an output buffer without verifying that the size of the input buffer is less than the size of the output buffer, leading to a buffer overflow. As an impact it is known to affect confidentiality, integrity, and availability.\nIt is possible to read the advisory at github.com. This vulnerability is known as CVE-2025-9006. The exploitation appears to be easy. The attack can be launched remotely. Technical details and also a public exploit are known.\nIt is possible to download the exploit at github.com. It is declared as proof-of-concept.\nThere is no information about possible countermeasures known. It may be suggested to replace the affected object with an alternative product.\nSimilar entry is available at VDB-215138.\nProduct\nType\nVendor\nName\nVersion\nLicense\nCPE 2.3\nCPE 2.2\nCVSSv4\nVulDB Vector:🔒\nVulDB Reliability:\n🔍\nCVSSv3\nVulDB Meta Base Score: 8.8VulDB Meta Temp Score: 8.0\nVulDB Base Score:\n8.8\nVulDB Temp Score:\n8.0\nVulDB Vector:\n🔒\nVulDB Reliability:\n🔍\nCVSSv2\nAV | AC | Au | C | I | A |\n---|---|---|---|---|---|\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\nVector | Complexity | Authentication | Confidentiality | Integrity | Availability |\n---|---|---|---|---|---|\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nVulDB Base Score:\n🔒\nVulDB Temp Score:\n🔒\nVulDB Reliability:\n🔍\nExploiting\nClass: Buffer overflowCWE:\nCWE-120 / CWE-119\nCAPEC:\n🔒\nATT&CK:\n🔒\nPhysical: No\nLocal: No\nRemote: Yes\nAvailability:\n🔒\nAccess: Public\nStatus: Proof-of-Concept\nDownload:\n🔒\nPrice Prediction:\n🔍\nCurrent Price Estimation:\n🔒\n0-Day | Unlock | Unlock | Unlock | Unlock |\n---|---|---|---|---|\nToday | Unlock | Unlock | Unlock | Unlock |\nThreat Intelligence\nInterest:🔍\nActive Actors:\n🔍\nActive APT Groups:\n🔍\nCountermeasures\nRecommended: no mitigation knownStatus:\n🔍\n0-Day Time:\n🔒\nTimeline\n08/13/2025Advisory disclosed\n08/13/2025\nVulDB entry created\n08/13/2025\nVulDB entry last update\nSources\nVendor:tenda.com.cn\nAdvisory:\ngithub.com\nStatus: Not defined\nCVE:\nCVE-2025-9006(\n🔒)\nGCVE (CVE):\nGCVE-0-2025-9006\nGCVE (VulDB):\nGCVE-100-320035\nscip Labs:\nhttps://www.scip.ch/en/?labs.20161013\nSee also:\n🔒\nEntry\nCreated: 08/13/2025 09:31 PMChanges:\n08/13/2025 09:31 PM (56)\nComplete:\n🔍\nSubmitter:\nmoweizhang1994\nCache ID: 212:46F:111\nSubmit\nAccepted\nSubmit #628845: Tenda CH22 V1.0.0.1 Buffer Overflow (by moweizhang1994)\nDiscussion\nNo comments yet. Languages: en.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.tenda.com.cn/",
+    "https://www.first.org/cvss/v3.1/specification-document#Base-Metrics",
+    "https://www.first.org/cvss/v3.1/specification-document#Temporal-Metrics",
+    "https://www.scip.ch/en/?labs.20161013",
+    "https://tenda.com.cn/",
+    "https://scip.ch/en/?labs.20161013",
+    "https://first.org/cvss/v3.1/specification-document#Base-Metrics",
+    "https://www.tenda.com.cn",
+    "https://first.org/cvss/v3.1/specification-document#Temporal-Metrics",
+    "https://www.scip.ch/en/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:52:44.216+03:00",
+  "updated": "2025-08-14T12:02:19.000+03:00"
+}

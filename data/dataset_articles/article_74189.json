@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "f483a0cc9423fb9d5146c9c31b21ca034e542453",
+    "url": "https://www.newsday.com/business/artificial-intelligence-math-problems-pum6b1bz",
+    "site_full": "www.newsday.com",
+    "site": "newsday.com",
+    "site_section": "https://www.newsday.com/api/rss/recent",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Most recent stories - Newsday",
+    "title": "AI math doesn't always add up",
+    "title_full": "AI math doesn't always add up",
+    "published": "2024-11-15T12:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.newsday.com/ace/c:M2JjOTU4NzUtZmQzOS00:OWM3ODg2OTYtMDQzMi00/landscape/1280",
+    "performance_score": 0,
+    "domain_rank": 1903,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f483a0cc9423fb9d5146c9c31b21ca034e542453",
+  "url": "https://www.newsday.com/business/artificial-intelligence-math-problems-pum6b1bz",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Peter King",
+  "published": "2024-11-15T12:00:00.000+02:00",
+  "title": "AI math doesn't always add up",
+  "text": "[Business](/business) AI math doesn't always add up You might be better at solving grade-school math problems than AI is. An Apple study found that artificial intelligence models get confused by irrelevant information in math problems. For example, researchers posed this basic math problem to several AI models: “Oliver picks 44 kiwis on Friday. Then he picks 58 kiwis on Saturday. On Sunday, he picks double the number of kiwis he did on Friday. How many kiwis does Oliver have?” All AI models correctly answered “190.” But when researchers added the irrelevant phrase “five of them were a bit smaller than average,” most AI models answered “185” because they incorrectly subtracted the below-average kiwis. Researchers said there are “significant limitations” in AI’s ability to perform mathematical reasoning because models are “pattern matching” for numbers without truly understanding language. Coming attractions Movie chains will invest $2.2 billion over the next three years to upgrade their theaters, according to the National Association of Theatre Owners. The industry group says theaters will add new food and beverage options, create “family entertainment options” like arcades and upgrade “core site elements” such as air-conditioning and seats. Among the chains slated for upgrades are AMC Entertainment and Regal Cinemas, which have a large presence on Long Island. Halliburton: Cyberattack cost $35M After initially saying an August cybersecurity attack would not have “a material impact” on its financials, energy industry services provider Halliburton disclosed in a government filing that the attack cost it at least $35 million in “lost or delayed revenue.” Halliburton said the attackers, linked to the ransomware gang RansomHub, stole data from its systems. Halliburton hasn’t disclosed what data was accessed or if it paid a ransom. Chipotle serves up ‘virtual recruiter’ Chipotle Mexican Grill is rolling out an artificial intelligence assistant it hopes will cut the time it takes to hire workers by as much as 75%. The virtual recruiter, known as Ava Cado, will be available at the chain’s more than 3,500 restaurants. The company said Ava will collect applicants’ information, answer their questions about the company, book meetings and send offers to candidates selected by humans. — BLOOMBERG NEWS Updated 52 minutes ago 'Disney on Ice' preview ... Climate change on LI ... LI's best pizza ... Get the latest news and more great videos at NewsdayTV Updated 52 minutes ago 'Disney on Ice' preview ... Climate change on LI ... LI's best pizza ... Get the latest news and more great videos at NewsdayTV",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Education"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Oliver",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Association of Theatre Owners",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T13:34:52.562+02:00",
+  "updated": "2024-11-15T21:49:15.513+02:00"
+}

@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "0442f90375d0dde7764be46201c93b524971e34b",
+    "url": "https://werd.io/japan-apple-must-lift-browser-engine-ban-by-december/",
+    "site_full": "werd.io",
+    "site": "werd.io",
+    "site_section": "https://werd.io/content/all?_t=rss",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Ben Werdmuller",
+    "site_title": "Werd I/O",
+    "title": "Japan: Apple Must Lift Browser Engine Ban by December",
+    "title_full": "Japan: Apple Must Lift Browser Engine Ban by December",
+    "published": "2025-08-06T17:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+    "performance_score": 0,
+    "domain_rank": 127760,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0442f90375d0dde7764be46201c93b524971e34b",
+  "url": "https://werd.io/japan-apple-must-lift-browser-engine-ban-by-december/",
+  "ord_in_thread": 0,
+  "author": "Ben Werdmuller",
+  "published": "2025-08-06T17:14:00.000+03:00",
+  "title": "Japan: Apple Must Lift Browser Engine Ban by December",
+  "text": "Technology\nJapan: Apple Must Lift Browser Engine Ban by December\nJapan, the EU, and the UK all now require Apple to support third-party browser engines. That's great news for the open web.\nIt’s interesting to watch various national technology policies build on each other, learning from their failures and unintended effects in order to be more effective.\nHere, Japan’s legislation has learned from EU rules in order to more effectively ensure that Apple allows non-Safari engines to be used in iOS browser apps:\n“Designated providers (i.e. Apple) must not only eliminate outright bans (like[App Store Guideline 2.5.6]), but must also refrain from practices that, while technically permitting browser engines, render their use impractical or commercially unviable.\nThis is directly relevant to Apple’s current iOS behavior, even under the EU’s Digital Markets Act, where[technical and procedural restrictions continue to block meaningful competition]. Japan’s guidance is clearly designed to avoid similar outcomes.”\nThis should be great news for consumers — particularly if these kinds of regulations are offered beyond the current three regions (EU, UK, and now Japan). Apple has traditionally been a laggard when it comes to adding open web features that might be competitive with native apps. Opening up the App Store to other browsers, and forcing browser choice, could help mitigate that and allow open web features to fall into the hands of iPhone and iPad users sooner.\nOne way this could go wrong, of course, is if it further entrenches Chrome’s position in the market. Chrome already represents two thirds of web browsers. Although Chrome does a far better job of supporting modern open web features (because it suits Google’s business model), it would be a real shame if regulation designed to promote competition actually reduces it on the web.\nWe’ll see how this all pans out, but the best outcome would be a web that has a plethora of different browser engines from different vendors with different business and sustainability models. Stronger competition (with a healthy dose of structured regulation) would help ensure that open web features arrive in the hands of users promptly and accurately. That, in turn, prevents lock-in, helps improve user privacy, and allows the open web to thrive.\n[Link]",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Politics",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Politics->government policy",
+    "Politics->regulation of industry",
+    "Politics->international relations",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->social services",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/?ref=werd.io",
+    "https://techjury.net/industry-analysis/chrome-browser-market-share/?ref=werd.io",
+    "https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/",
+    "https://www.techjury.net/industry-analysis/chrome-browser-market-share/?ref=werd.io",
+    "https://www.open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/?ref=werd.io",
+    "https://techjury.net/industry-analysis/chrome-browser-market-share/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "EU",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "EU",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Apple",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AAPL",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T08:42:10.127+03:00",
+  "updated": "2025-08-14T08:51:16.000+03:00"
+}

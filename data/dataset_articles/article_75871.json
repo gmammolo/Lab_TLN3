@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "27d31e6d60719553b82f117c034eadef4d0a6a28",
+    "url": "https://www.fudzilla.com/news/60357-microsoft-admits-new-bugs-in-windows-11-version-24h2-update",
+    "site_full": "www.fudzilla.com",
+    "site": "fudzilla.com",
+    "site_section": "https://www.fudzilla.com/?format=feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Fudzilla.com - Home",
+    "title": "Microsoft admits new bugs in Windows 11 Version 24H2 Update",
+    "title_full": "Microsoft admits new bugs in Windows 11 Version 24H2 Update",
+    "published": "2025-01-10T00:05:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.fudzilla.com/media/k2/items/cache/b89327127aa7551e14edc5d756c534f4_XS.jpg",
+    "performance_score": 0,
+    "domain_rank": 21085,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "27d31e6d60719553b82f117c034eadef4d0a6a28",
+  "url": "https://www.fudzilla.com/news/60357-microsoft-admits-new-bugs-in-windows-11-version-24h2-update",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "nick [AT] fudzilla [DOT] com (Nick Farrell)",
+  "published": "2025-01-10T00:05:00.000+02:00",
+  "title": "Microsoft admits new bugs in Windows 11 Version 24H2 Update",
+  "text": "Users have reported issues such as the address bar overlapping with content in full-screen mode, blocking access to Home and Gallery icons, and the \"See more\" or \"More options\" menus appearing at the top of the screen instead of below the cursor.\nSome menu options are becoming inaccessible when File Explorer is in full-screen mode.\nAdditionally, the mouse cursor disappears when interacting with text input, File Explorer's top bar is slow to load, typing a path in the address bar is reportedly not always working properly, and things crash when creating new folders in certain locations.\nMicrosoft has confirmed that fixes for these issues are being developed. Some patches have already been included in the Beta Channel build for Windows 11 23H2 and are expected to roll out to 24H2 users in upcoming updates.\nFor now, users are advised to use File Explorer in windowed mode instead of full-screen, resize the File Explorer window to access menu options, and try to use keyboard shortcuts. The first security update of 2025 for Windows 11 is scheduled for Jan. 14, which may include some of these fixes.\nWe have not been able to test any of this because our main computer will not install the upgrade, it just downloads it and has a snooze. We did a check and there are a few people on the worldwide wibble who have a similar problem.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T03:19:46.837+02:00",
+  "updated": "2025-01-10T03:19:46.837+02:00"
+}

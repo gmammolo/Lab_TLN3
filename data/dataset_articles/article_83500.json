@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "ff731e2af111045a3d0a5b30d0cceef3ba871b27",
+    "url": "https://linuxiac.com/fish-shell-4-is-here-entirely-rewritten-in-rust",
+    "site_full": "linuxiac.com",
+    "site": "linuxiac.com",
+    "site_section": "https://www.linuxiac.com",
+    "site_categories": [],
+    "section_title": "Linuxiac - All things Linux &amp; Open Source",
+    "site_title": null,
+    "title": "Fish Shell 4 Is Here Entirely Rewritten in Rust",
+    "title_full": "Fish Shell 4 Is Here Entirely Rewritten in Rust",
+    "published": "2025-02-28T01:32:10.006+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 84004,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ff731e2af111045a3d0a5b30d0cceef3ba871b27",
+  "url": "https://linuxiac.com/fish-shell-4-is-here-entirely-rewritten-in-rust",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bobby Borisov",
+  "published": "2025-02-28T01:32:10.006+02:00",
+  "title": "Fish Shell 4 Is Here Entirely Rewritten in Rust",
+  "text": "The much-loved Fish Shell project has just unveiled Fish 4, a significant update introducing major behind-the-scenes improvements and new user-facing features.\nWithout further ado, here’s the star of the show – Rust! Yes, that’s right: Fish 4 has been entirely rewritten in Rust . However, from an everyday user’s perspective, the transition should remain virtually invisible: the commands, settings, and typical interactions are intended to be unchanged.\nMoving on to what you will notice, Fish has introduced an updated bind notation system and deeper terminal compatibility. You can now replace opaque sequences with friendlier, intuitive commands such as bind ctrl-right . Thanks to “ modifyOtherKey ” and the Kitty keyboard protocol, Fish can distinguish control sequences that previously seemed identical.\nAnother highlight in Fish 4 is tighter integration with terminal capabilities. For example, Fish now automatically employs OSC 133 sequences for prompts and command output, promoting smoother synchronization with various terminals that once relied on add-on “shell integration” scripts.\nIn addition, Fish 4 standardizes cursor changes in vi-mode across most terminals, no longer relying on environment-specific detection, which often falls short.\nNotably, the shell now handles long command lines more gracefully, scrolling instead of misrendering them. Plus, any edits triggered by command-line bindings are immediately visible, offering a more intuitive scripting and interactive experience.\nFish Shell 4 Speaking of enhancements to interactive use, the ctrl-r history pager—first introduced in Fish 3.6—has been refined. You can now rely on glob syntax to filter history entries more precisely. Even better, this search applies strictly to the current command, letting you build more complex, multi-line history reconstructions without rummaging through entire scripts.\nThe default theme has also seen a small but meaningful tweak: commands now appear in the terminal’s “normal” color instead of the somewhat hard-to-read “blue.” Existing users will retain their current settings unless they manually reload the theme via fish_config .\nThe new self-installable build feature might be a game-changer for users who frequently SSH into servers without administrative privileges. After compiling Fish, you can run a single, self-contained binary that directly extracts everything necessary—functions, man pages, and even the web configuration tool—to your home directory.\nIn other words, this makes it easier than ever to run Fish on environments where a package manager is unavailable (or you don’t have permission to use it). Pre-built versions are available for major platforms like x86_64 and aarch64 Linux on the project’s GitHub Releases page . Other platforms are supported, too, though you may need to compile your own builds.\nAnother long-requested feature, the ability to exclude certain commands from history, is finally here. By defining a custom function called fish_should_add_to_history , you can decide exactly which commands get retained. Any command flagged for exclusion remains in a temporary spot, so you can still press the up arrow to repeat it immediately, but once you run something else, it’s erased.\nFor scripting enthusiasts, Fish 4 delivers a lot of improvements, with the main ones being:\nstring match now supports a --max-matches option, allowing you to limit the number of matches processed. for loops will no longer remember local variables from the previous iteration. set gains a --no-event option to suppress variable change events (particularly useful in event handlers). time begins measuring earlier, capturing the duration of any command substitutions that occur before executing a command. complete --erase fully disables autoloading completions for specified commands, aligning with functions --erase . For more information on all novelties in Fish Shell 4, see the release announcement .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Lifestyle and Leisure->trend"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/fish-shell/fish-shell/releases/tag/4.0.0",
+    "https://fishshell.com/blog/new-in-40/",
+    "https://fishshell.com/blog/new-in-40",
+    "https://www.fishshell.com/blog/new-in-40/",
+    "https://www.github.com/fish-shell/fish-shell/releases/tag/4.0.0"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:32:10.006+02:00",
+  "updated": "2025-02-28T06:23:29.786+02:00"
+}

@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "b42b936155d3bc2bd33f2830ff4161a84e31f3f7",
+    "url": "https://news.knowledia.com/in/en/articles/researchers-claim-fortinet-s-fortijump-patch-was-incomplete-and-left-be6de941ef67541b900838a9c4906e36f7745567",
+    "site_full": "news.knowledia.com",
+    "site": "knowledia.com",
+    "site_section": "https://news.knowledia.com/in/en",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Knowledia News",
+    "title": "Researchers claim Fortinet's FortiJump patch was 'incomplete' and left users vulnerable",
+    "title_full": "Researchers claim Fortinet's FortiJump patch was 'incomplete' and left users vulnerable",
+    "published": "2024-11-15T16:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 73965,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b42b936155d3bc2bd33f2830ff4161a84e31f3f7",
+  "url": "https://news.knowledia.com/in/en/articles/researchers-claim-fortinet-s-fortijump-patch-was-incomplete-and-left-be6de941ef67541b900838a9c4906e36f7745567",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Solomon Klappholz",
+  "published": "2024-11-15T16:47:00.000+02:00",
+  "title": "Researchers claim Fortinet's FortiJump patch was 'incomplete' and left users vulnerable",
+  "text": "WatchTowr claims a patch for the critical FortiJump RCE flaw failed to address the root cause of the issue Fortinet's patch for FortiJump, a critical missing authentication RCE flaw in FortiManager, left new vulnerabilities on the table for threat actors to exploit, according to new research.\nA new report from watchTowr Labs described how when trying to recreate the initial FortiJump vulnerability, researchers discovered a series of additional flaws, and one they considered particularly worrying.\n\"[We] stumbled upon a couple of DoS vulnerabilities and what we suspect is a new vulnerability that allows an authenticated managed FortiGate device to take control of the FortiManager instance.\"\nThe report has dubbed this new vulnerability 'FortiJump Higher', and like its namesake affects FortiManager, the company's tool for the centralized administration of FortiGate devices.\nAs such, the report warns FortiManager has a critical function in many organizations, and \"you'd assume that it was built to at least the same standard as Fortinet's other secure appliances.\"\nThey added that due to the gravity of the original FortiJump flaw, and the similarity of FortJump Higher, they felt tech-savvy adversaries will likely already be aware of the weakness.\nAs such watchTowr said it decided to publish…\nSolomon Klappholz",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.itpro.com/security/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable",
+    "https://itpro.com/security/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:02:52.161+02:00",
+  "updated": "2024-11-15T18:02:52.161+02:00"
+}

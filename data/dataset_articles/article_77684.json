@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "ab5fcbb445d4175498dd51b7a02aa92311a757ca",
+    "url": "https://www.it-connect.fr/apple-faille-zero-day-cve-2025-43300/",
+    "site_full": "www.it-connect.fr",
+    "site": "it-connect.fr",
+    "site_section": "https://www.it-connect.fr/rss",
+    "site_categories": [
+      "windows",
+      "unix",
+      "tech"
+    ],
+    "section_title": "IT-Connect",
+    "site_title": "IT-Connect | Tutoriels - Cours informatique - Tests - Vidéos",
+    "title": "Apple corrige une nouvelle faille zero-day exploitée dans des attaques ciblées : CVE-2025-43300",
+    "title_full": "Apple corrige une nouvelle faille zero-day exploitée dans des attaques ciblées : CVE-2025-43300",
+    "published": "2025-08-21T08:18:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.it-connect.fr/wp-content-itc/uploads/2025/08/Faille-Apple-Image-IO-CVE-2025-43300.jpg",
+    "performance_score": 0,
+    "domain_rank": 138527,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ab5fcbb445d4175498dd51b7a02aa92311a757ca",
+  "url": "https://www.it-connect.fr/apple-faille-zero-day-cve-2025-43300/",
+  "ord_in_thread": 0,
+  "author": "Florian BURNEL",
+  "published": "2025-08-21T08:18:00.000+03:00",
+  "title": "Apple corrige une nouvelle faille zero-day exploitée dans des attaques ciblées : CVE-2025-43300",
+  "text": "Apple corrige une nouvelle faille zero-day exploitée dans des attaques ciblées : CVE-2025-43300\nApple a publié en urgence un nouveau correctif de sécurité pour combler une faille zero-day exploitée dans des attaques jugées \"extrêmement sophistiquées\". Faisons le point.\nApple : une faille de sécurité dans Image I/O\nCette nouvelle faille de sécurité zero-day, désormais associée à la référence CVE-2025-43300, touche le composant Image I/O. Il est utilisé par de nombreuses applications pour lire et écrire différents formats d’images.\nCette vulnérabilité est liée à une erreur d’écriture hors limites (out-of-bounds write). En l'exploitant par l'intermédiaire d'un fichier image piégé, un attaquant peut écrire en mémoire au-delà de la zone prévue, ce qui peut provoquer : une corruption de données. Ce type de vulnérabilité peut aussi mener à un plantage de l’application et à l’exécution de code arbitraire.\nD'après Apple, cette vulnérabilité est déjà exploitée par les cybercriminels : \"Apple est au courant d’un rapport selon lequel ce problème pourrait avoir été exploité dans une attaque extrêmement sophistiquée contre des individus spécifiquement ciblés.\"\nApple ne donne pas d’informations détaillées sur les campagnes malveillantes en cours, mais indique que les attaques observées ciblent des individus précis. Il pourrait s'agir de campagnes d'espionnage.\nCVE-2025-43300 : appareils et systèmes concernés\nLe bulletin de sécurité d'Apple indique que cette vulnérabilité affecte un large éventail d’appareils, des modèles les plus récents aux générations précédentes. Parmi les appareils concernés, on retrouve :\n- iPhone XS et modèles ultérieurs,\n- iPad Pro 13 pouces, iPad Pro 12,9 pouces (3e génération et ultérieures), iPad Pro 11 pouces (1re génération et ultérieures), iPad Air 3e génération et ultérieures, iPad 7e génération et ultérieures, iPad mini 5e génération et ultérieures, mais aussi certains modèles plus anciens comme l’iPad Pro 12,9 pouces 2e génération, l’iPad Pro 10,5 pouces et l’iPad 6e génération,\n- Mac compatibles avec macOS Ventura, Sonoma et Sequoia.\nPour se protéger, il convient d'utiliser les versions suivantes des systèmes d'Apple :\n- iOS 18.6.2 et iPadOS 18.6.2, ainsi que iPadOS 17.7.10,\n- macOS Sequoia 15.6.1, macOS Sonoma 14.7.8, et macOS Ventura 13.7.8.\nDepuis le début de l'année 2025, Apple a corrigé 6 failles zero-day dans ses systèmes d'exploitation.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social networking",
+    "Social Issue->discrimination",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://support.apple.com/en-us/124925",
+    "https://www.support.apple.com/en-us/124925"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T08:39:31.491+03:00",
+  "updated": "2025-08-21T08:42:55.000+03:00"
+}

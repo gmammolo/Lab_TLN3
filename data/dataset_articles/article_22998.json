@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "69eaa6b1ebecc3903fca40789fdfc5e4eac33081",
+    "url": "https://scitechdaily.com/deformation-imaging-revolutionizing-our-view-of-earths-subterranean-mysteries",
+    "site_full": "scitechdaily.com",
+    "site": "scitechdaily.com",
+    "site_section": "https://feedle.world/rss",
+    "site_categories": [
+      "science",
+      "space_astronomy"
+    ],
+    "section_title": "feedle |",
+    "title": "Deformation Imaging: Revolutionizing Our View of Earth’s Subterranean Mysteries",
+    "title_full": "Deformation Imaging: Revolutionizing Our View of Earth’s Subterranean Mysteries",
+    "published": "2024-07-05T17:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://scitechdaily.com/images/Subterranean-Earth-Imaging-Concept.jpg",
+    "performance_score": 0,
+    "domain_rank": 4178,
+    "domain_rank_updated": "2024-07-02T13:08:10.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "69eaa6b1ebecc3903fca40789fdfc5e4eac33081",
+  "url": "https://scitechdaily.com/deformation-imaging-revolutionizing-our-view-of-earths-subterranean-mysteries",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-07-05T17:33:00.000+03:00",
+  "title": "Deformation Imaging: Revolutionizing Our View of Earth’s Subterranean Mysteries",
+  "text": "Deformation Imaging: Revolutionizing Our View of Earth’s Subterranean Mysteries TOPICS: Earthquakes Geology Geophysics Seismology University of Texas at Austin By University of Texas at Austin July 5, 2024\nResearchers at The University of Texas have developed a technique called deformation imaging that uses surface mapping data to view Earth’s interior structures. This method improves our understanding of geological phenomena and has successfully imaged subsurface areas affected by the 2011 Tohoku earthquake. Credit: SciTechDaily.com\nA new computational technique developed enables the use of surface mapping technologies like GPS to analyze subsurface geological structures.\nThis method, termed deformation imaging, offers insights into the rigidity of the Earth’s crust and mantle, enhancing our understanding of geological processes like earthquakes. The technique has already provided a detailed view of subsurface areas during the 2011 Tohoku earthquake and has the potential for widespread future applications with satellite data.\nSurface mapping technology such as GPS, radar, and laser scanning have long been used to measure features on the Earth’s surface. Now, a new computational technique developed at The University of Texas at Austin is allowing scientists to use those technologies to look inside the planet.\nA GPS station atop the Sierra Nevada mountains. Researchers at The University of Texas at Austin used GPS networks to image the planet’s interior. Credit: UNAVCO/National Science Foundation\nThe new technique, described by researchers as “deformation imaging,” provides results comparable to seismic imaging but offers direct information about the rigidity of the planet’s crust and mantle. This property is essential for understanding how earthquakes and other large-scale geological processes work, said Simone Puel, who developed the method for a research project at the University of Texas Institute for Geophysics while in graduate school at the UT Jackson School of Geosciences.\n“Material properties like rigidity are critical to understanding the different processes that occur in a subduction zone or in earthquake science in general,” Puel said. “When combined with other techniques like seismic, electromagnetic or gravity, it should be possible to actually produce a much more comprehensive mechanical model of an earthquake in a way that has never been done before.”\nA graphic showing the stiffness of Earth’s crust beneath Japan. The image reveals the boundary where Japan’s continental plate (large dark red patch) collides with the stiffer oceanic plate (dark blue patch). The smaller dark red patches in the center of the image are likely a magma system feeding Japan’s volcanoes (red triangles). The image was created using data collected with a new deformation imaging technique developed by researchers at UT Austin. Credit: Simone Puel\nPuel, who is now a postdoctoral scholar at the California Institute of Technology, published the theory behind his method earlier this year. A recent study published in June in Science Advances shows it in action. It used GPS data recorded during Japan’s 2011 Tohoku earthquake to image the subsurface down to about 100 kilometers underground.\nThe image revealed the tectonic plates and volcanic system beneath the Japanese portion of the Pacific Ring of Fire, including an area of low rigidity that’s thought to be a deep magma reservoir feeding the system — the first time such a reservoir has been detected using only surface information.\nThe method relies on the fact that Earth’s crust is a hodge-podge of rocky material with differing elastic properties. Some parts are more pliant, and other parts are more rigid. This causes the crust to contract and expand unevenly. During an earthquake, for example, the Earth vibrates in a way that reflects what it’s made of, leaving the surface deformed in telltale ways.\nTo turn this uneven deformation into an image of the subsurface, the researchers constructed a computer model that treats the Earth as if it is a simplified elastic material, while allowing its elastic strength to vary in three dimensions. The model then computed the subsurface rigidity based on how much the GPS sensors had moved in relation to one another during the earthquake. The result is a 3D picture of the Earth’s interior based on changes on the surface.\nThere are some caveats. Despite the model generating a web of 12.5 million data points, the image is not as sharp as seismic tomography, the most common way of imaging Earth’s interior. However, it directly measures rigidity, an important measurement for building more sophisticated models of the Earth.\nAnother advantage is that the new method can use measurements made by satellites. These include NASA ’s upcoming NISAR spacecraft, a joint mission with the Indian Space Research Organization that will map the entire globe in very high resolution every 12 days.\nUsing the new technique, NISAR could offer important insights into some of the world’s most geologically hazardous regions, said study co-author Thorsten Becker, a professor at the Jackson School. By continuously mapping the Earth’s surface, the satellite will allow scientists to track structural changes in earthquake faults as they progress through their earthquake cycle.\nCo-author Omar Ghattas, a professor at the UT Walker Department of Mechanical Engineering and UT Oden Institute for Computational Engineering and Sciences, said that the new method could be an important step to building digital twins of the Earth. These complex computer models perpetually improve themselves by identifying where to make new observations, then assimilating the new data.\n“As the models get better, as the data are richer and are more informative, perhaps we can get to the point where we can start to say something about predictability of earthquakes,” he said.\nReference: “Volcanic arc rigidity variations illuminated by coseismic deformation of the 2011 Tohoku-oki M9” by Simone Puel, Thorsten W. Becker, Umberto Villa, Omar Ghattas and Dunyu Liu, 5 June 2024, Science Advances .\nDOI: 10.1126/sciadv.adl4264\nThe research was funded by the National Science Foundation and the U.S. Department of Energy. Other co-authors include Dunyu Liu, a computational geoscientist at UTIG, and Umberto Villa, a research scientist at the Oden Institute.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://doi.org/10.1093/gji/ggad442",
+    "https://doi.org/10.1126/sciadv.adl4264",
+    "https://www.doi.org/10.1093/gji/ggad442",
+    "https://www.doi.org/10.1126/sciadv.adl4264"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "university of texas at austin",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "earth",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-07-05T17:43:18.539+03:00",
+  "updated": "2024-07-05T18:57:02.067+03:00"
+}

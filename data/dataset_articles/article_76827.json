@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "b2735f9f9600a7e960c73c1d1fe8ae36f7bec3fa",
+    "url": "https://cybersecuritynews.com/vextrio-hackers-attacking-users-via-fake-captcha-robots/",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://news.google.com/search?q=their%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "VexTrio Hackers Attacking Users via Fake CAPTCHA Robots and Malicious Apps into Google Play and App Store",
+    "title_full": "VexTrio Hackers Attacking Users via Fake CAPTCHA Robots and Malicious Apps into Google Play and App Store",
+    "published": "2025-08-14T08:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZRVtGLZt886lvo5f-wwoY6_siZj2y_Gk1R5eyFLRwQ0X1ToB2J_k-OJZ8ZijhqTUmu5n_dFHZyYv3WODikfHDT695dbU3iOkxQwX_-twKxnSV0Ff2s0pDPjRgZaRnkEw1c2rESi99ZVc1t9JkKfnWdzmmQJDCzF-hbGukAg3B3HGqRyLzHTwwGxQnUM/s16000/VexTrio%20Hackers%20Attacking%20Users%20via%20Fake%20CAPTCHA%20Robots%20and%20Malicious%20Apps%20into%20Google%20Play%20and%20App%20Store.webp",
+    "performance_score": 0,
+    "domain_rank": 35499,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b2735f9f9600a7e960c73c1d1fe8ae36f7bec3fa",
+  "url": "https://cybersecuritynews.com/vextrio-hackers-attacking-users-via-fake-captcha-robots/",
+  "ord_in_thread": 0,
+  "author": "Tushar Subhra Dutta",
+  "published": "2025-08-14T08:35:00.000+03:00",
+  "title": "VexTrio Hackers Attacking Users via Fake CAPTCHA Robots and Malicious Apps into Google Play and App Store",
+  "text": "A sophisticated cybercriminal organization known as VexTrio has been orchestrating a massive fraud empire through deceptive CAPTCHA robots and malicious applications distributed across Google Play and the App Store.\nThis criminal network, operating for over 15 years, has successfully infiltrated legitimate app stores with fraudulent software that has collectively garnered over one million downloads, while simultaneously conducting extensive spam campaigns targeting millions of users worldwide.\nThe threat actors behind VexTrio employ a multi-pronged attack strategy that combines fake CAPTCHA verification systems with malicious mobile applications to harvest user data and generate revenue through subscription fraud.\nTheir infamous robot CAPTCHA prompts users with messages like “PRESS THE ‘ALLOW’ BUTTON TO VERIFY YOU’RE HUMAN!” which serves as a gateway to their broader criminal ecosystem.\nThis deceptive interface has become synonymous with VexTrio operations and has been documented in numerous security reports over the years.\nVexTrio’s operations extend far beyond simple spam, encompassing a comprehensive traffic distribution system (TDS) that delivers fraudulent content across multiple verticals including dating, cryptocurrency, and sweepstakes scams.\nScam landing pages (Source – Infoblox) Infoblox analysts identified that the organization controls the majority of landing pages delivered through their smartlinks, benefiting doubly from their affiliate network operations.\nThe group’s infrastructure reveals a complex web of shell companies and technical partnerships that blur the lines between legitimate business and cybercrime.\nThe criminal organization has developed an extensive portfolio of malicious applications masquerading as legitimate services.\nTheir app catalog includes fake VPNs, device monitoring tools, spam blockers, and dating applications published under various developer names including HolaCode, LocoMind, Hugmi, Klover Group, and AlphaScale Media.\nGoogle Play page for the Spam Shield app listed as developed by HolaCode in December 2024 and ApLabz in early 2025 (Source – Infoblox) These applications employ sophisticated social engineering techniques to extract subscription fees from unsuspecting users while bombarding them with intrusive advertisements.\nInfection Mechanism and Persistence Tactics VexTrio’s mobile applications utilize a carefully orchestrated infection chain that begins with seemingly legitimate functionality before transitioning to malicious behavior.\nTheir spam blocker application, Spam Shield, exemplifies this approach by initially providing basic notification blocking services while displaying fabricated security reports.\nThe application presents users with fake monitoring interfaces showing blocked spam and malicious notifications, creating an illusion of protection that justifies subscription fees.\nThe technical implementation reveals DNS records linking malicious applications to VexTrio’s infrastructure.\nDNS analysis shows that IP address 136.243.216.249 simultaneously hosts HolaCode, AdsPro Digital, Los Pollos, and multiple scam applications, demonstrating the interconnected nature of their operations.\nThe applications employ residential proxy networks disguised as VPN services, raising significant privacy concerns as user traffic becomes part of their proxy infrastructure.\nVexTrio’s persistence strategy extends beyond individual applications to encompass an entire ecosystem of fraudulent services.\nTheir email marketing operations utilize lookalike domains of established services such as SendGrid and MailGun, with domains like sendgrid.rest and mailgun.fun configured with specific SPF records that authorize mail servers at IP address 78.47.103.187.\nThis infrastructure supports massive spam campaigns that feed victims into their application ecosystem, creating a self-reinforcing cycle of fraud that has enabled the organization to operate with impunity for over a decade while generating substantial criminal profits through subscription scams and data harvesting.\nBoost your SOC and help your team protect your business with free top-notch threat intelligence: Request TI Lookup Premium Trial .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Social Issue->social networking",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://blogs.infoblox.com/threat-intelligence/vextrio-unmasked-a-legacy-of-spam-and-homegrown-scams/",
+    "https://intelligence.any.run/plans/",
+    "https://blogs.infoblox.com/threat-intelligence/vextrio-unmasked-a-legacy-of-spam-and-homegrown-scams",
+    "https://www.intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://www.blogs.infoblox.com/threat-intelligence/vextrio-unmasked-a-legacy-of-spam-and-homegrown-scams/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "b2735f9f9600a7e960c73c1d1fe8ae36f7bec3fa",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:14:25.123+03:00",
+  "updated": "2025-08-14T09:32:01.103+03:00"
+}

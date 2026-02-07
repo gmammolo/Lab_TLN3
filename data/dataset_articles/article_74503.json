@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "ce7dc53a8d09c35566340554335669dc60986088",
+    "url": "https://www.helpnetsecurity.com/2024/11/15/android-malware-via-letter",
+    "site_full": "www.helpnetsecurity.com",
+    "site": "helpnetsecurity.com",
+    "site_section": "https://www.helpnetsecurity.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cybersecurity News and Expert Analysis - Help Net Security",
+    "title": "Cyber crooks push Android malware via letter",
+    "title_full": "Cyber crooks push Android malware via letter",
+    "published": "2024-11-15T16:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6563,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ce7dc53a8d09c35566340554335669dc60986088",
+  "url": "https://www.helpnetsecurity.com/2024/11/15/android-malware-via-letter",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Zeljka Zorz",
+  "published": "2024-11-15T16:23:00.000+02:00",
+  "title": "Cyber crooks push Android malware via letter",
+  "text": "Cyber crooks are trying out an interesting new approach for getting information-stealing malware installed on Android users’ smartphones: a physical letter impersonating MeteoSwiss (i.e., Switzerland’s Federal Office of Meteorology and Climatology).\n“The letter asks the recipients to install a new severe weather app. However, there is no such federal app with the name mentioned. Rather, the QR code shown in the letter leads to the download of malware called ‘Coper’ (also known as ‘Octo2’),” the Swiss National Cyber Security Centre has warned on Friday.\nThe letter (Source: Switzerland’s National Cyber Security Centre)\nThe malware Once installed, the Android-specific malware tries to steal access data from over 380 smartphone apps, including mobile banking apps, the NCSC says.\nIt does that by performing overlay attacks and by intercepting and controlling calls, SMS, and push notifications.\nThe malware is sold under the as-a-service model and cyber crooks previously tried distributing it online by impersonating legitimate applications, Team Cymru researchers noted .\nWhat should victims do? “As soon as the malware has been downloaded, it is displayed as the ‘AlertSwiss’ app on phones with the Android operating system,” the NCSC explains.\n“The spelling (‘AlertSwiss’ instead of ‘Alertswiss’) and, depending on the Android version, the app icon also differ significantly from the genuine app (rectangular logo in a white circle for the fake app, round logo for the genuine app).”\nUsers who have scanned the QR code in the letter and downloaded and installed the fake app have been advised to reset their smartphone to factory settings to remove it.\nHelp Net Security has reached out to the NCSC to ask for more details about the extent and success of this unusual malware delivery campaign, and we’ll update this article if we hear back from them.\nUPDATE (November 16, 2024, 02:55 a.m. ET):\n“For tactical reasons, we cannot provide any information about the measures taken,” a NCSC spokesperson told us.\n“We are also unable to provide any information about the distribution of the letter, as there is no general reporting requirement in Switzerland. Reporting to the NCSC is voluntary, therefore the number of unreported cases may be correspondingly higher. The [Federal Office for Cyber ​​Security] (BACS) has so far received around a dozen reports about this letter.”\nA Google spokesperson told Help Net Security that based on their current detection, no apps containing this malware are found on Google Play.\n“Android users are automatically protected against known versions of this malware by Google Play Protect, which is on by default on Android devices with Google Play Services. Google Play Protect can warn users or block apps known to exhibit malicious behavior, even when those apps come from sources outside of Play.”\nI have read and agree to the terms & conditions Leave this field empty if you're human:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.team-cymru.com/post/coper-octo-a-conductor-for-mobile-mayhem-with-eight-limbs",
+    "https://www.ncsc.admin.ch/ncsc/en/home/aktuell/im-fokus/2024/2024-meteosuisse.html",
+    "https://wordpress.org/plugins/mailchimp-for-wp/",
+    "https://wordpress.org/plugins/mailchimp-for-wp",
+    "https://www.wordpress.org/plugins/mailchimp-for-wp/",
+    "https://ncsc.admin.ch/ncsc/en/home/aktuell/im-fokus/2024/2024-meteosuisse.html",
+    "https://team-cymru.com/post/coper-octo-a-conductor-for-mobile-mayhem-with-eight-limbs"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "NCSC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:18:29.232+02:00",
+  "updated": "2024-11-16T10:11:37.582+02:00"
+}

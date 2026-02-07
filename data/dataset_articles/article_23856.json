@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "f727f46ccf8a748955587b61f70e9cd561905570",
+    "url": "https://eng.pw.edu.pl/News/Artificial-intelligence-in-the-fight-for-healthy-lungs-the-xLungs-system",
+    "site_full": "eng.pw.edu.pl",
+    "site": "pw.edu.pl",
+    "site_section": "https://eng.pw.edu.pl",
+    "site_categories": [],
+    "section_title": "Home - Warsaw University of Technology",
+    "title": "Artificial intelligence in the fight for healthy lungs – the xLungs system / News / Home - Warsaw University of Technology",
+    "title_full": "Artificial intelligence in the fight for healthy lungs – the xLungs system / News / Home - Warsaw University of Technology",
+    "published": "2024-07-19T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PL",
+    "main_image": "https://eng.pw.edu.pl/var/engpw/storage/images/news/artificial-intelligence-in-the-fight-for-healthy-lungs-the-xlungs-system/42825-1-eng-GB/Artificial-intelligence-in-the-fight-for-healthy-lungs-the-xLungs-system_opengraph.jpg",
+    "performance_score": 0,
+    "domain_rank": 11691,
+    "domain_rank_updated": "2024-07-16T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f727f46ccf8a748955587b61f70e9cd561905570",
+  "url": "https://eng.pw.edu.pl/News/Artificial-intelligence-in-the-fight-for-healthy-lungs-the-xLungs-system",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Warsaw University of Technology",
+  "published": "2024-07-19T03:00:00.000+03:00",
+  "title": "Artificial intelligence in the fight for healthy lungs – the xLungs system / News / Home - Warsaw University of Technology",
+  "text": "Artificial intelligence in the fight for healthy lungs – the xLungs system Advanced work is underway by scientists from the Faculty of Mathematics and Information Science of the Warsaw University of Technology on a system that will improve the diagnosis and monitoring of lesions within the chest. The xLungs project aims to support doctors, for example pulmonologists and radiologists, in the analysis of CT scans. The developed artificial intelligence models can not only detect, but also very accurately describe lesions. Importantly, xLungs is easy to integrate with existing systems already used by clinicians. The project manager and leader of the MI2.AI team is Prof. Przemysław Biecek. Imaging tests play a key role in the diagnosis of lung diseases. The aim of the project entitled “Trustworthy artificial intelligence supporting the identification of lesions in the lungs based on imaging data” is to support the process of identifying lesions visible on lung CT scans and X-rays. WUT scientists use the capabilities of artificial intelligence to facilitate the process of interpreting their results, which can be a challenge even for experienced radiologists and currently available algorithms. It turns out that language models, such as GPT, are also helpful in the analysis of descriptive data accompanying chest CT scans. They can extract structured information from available historical descriptions of CT scans, and this information can then be used to train models that recognise specific lesions, such as tumours or emphysema. Integrating computer vision models with text-based models allows for the automation of the process of manually describing results. The researchers are working on an information system based on artificial intelligence (AI) and a user interface that allows a radiologist to converse with an AI module. AI models need large databases. In the case of xLungs, training is conducted on a corpus of 40 TB (terabytes) of imaging data, covering different subpopulations, from lung cancer screening to paediatric imaging data. Three unique datasets have been developed specifically for this project and in consultation with doctors, which will also be made available to other research teams working on models for the diagnosis of chest diseases. How will AI help in the diagnosis of lung cancer? A unique feature of the tool is a reliable artificial intelligence module that will reduce the time of image analysis needed to detect changes and make the image evaluation process more transparent. The system has been developed to allow the base model to be expanded with modules that detect a wide range of features. The AI module will also provide image and text explanations that will enable the tracing of the decision-making path behind a specific diagnosis, and will also be verified in terms of effective cooperation with a radiologist. All this is to ensure transparency and full security of treatment recommendations. The project involves a multidisciplinary team of experts: specialists in software engineering, artificial intelligence, explainable machine learning, data visualisation and radiology. The scientists work alongside the Polish Lung Cancer Group and the Children's Clinical Hospital in Warsaw. - Training AI models is a colossal challenge, not only organisationally, but also from the engineering point of view. The data has a huge volume – 40 TB in its compressed form. To train the model, you need enormous computing power – so far we have used over 180,000 hours of work of advanced computing processes such as A100 GPU cards. A single case is a three-dimensional matrix with the dimensions of 500x500x300 pixels. The scale of our project is unique, the PLIST dataset that we’re working on will be the largest publicly available database of chest CT scans in the world. The first version of the models has already been developed and tested, and we are currently looking for more medical partners to cooperate on testing, implementation and further development of the system - says Prof. Biecek, research project manager. The “Trustworthy artificial intelligence supporting the identification of lesions in the lungs based on imaging” (XLUNGS) project is financed by Poland’s National Centre for Research and Development (NCBR) as part of the INFOSTRATEG I competition, and its value is PLN 5,755,000. - The Infostrateg project allowed for the establishment of a unique and very diverse research team. We have leading experts in radiology and pulmonology who advise us on the medical side. We have great software engineers who develop IT tools, designers who create AI models, and specialists in model explanation who make sure that the model does not learn erroneous correlations. The results of our team’s work are presented at leading IT conferences such as ECCV, ECAI and MICCAI. At this stage, we plan to bring these developed innovative models as close as possible to clinical practice - adds Prof. Biecek. At the beginning of July, the NCBR Steering Committee published an assessment of the reports after phase II of project implementation. The efforts of WUT scientists have been appreciated and positively evaluated, so they can move on to the next phase – the implementation of the research project. The work will carry on until the end of June 2025.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "przemysław biecek",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "news / home - warsaw university of technology artificial",
+        "sentiment": "negative"
+      },
+      {
+        "name": "warsaw university of technology",
+        "sentiment": "none"
+      },
+      {
+        "name": "faculty of mathematics",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-07-19T13:47:39.277+03:00",
+  "updated": "2024-07-19T13:47:39.277+03:00"
+}

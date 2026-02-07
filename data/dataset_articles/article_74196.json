@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "0629b026f60fbbed271f83985bd6d310a3a3166a",
+    "url": "https://www.forbes.com/sites/larsdaniel/2024/11/15/silicons-hidden-threats-agency-reveals-98-ways-your-hardware-can-be-hacked/?ref=biztoc.com",
+    "site_full": "www.forbes.com",
+    "site": "forbes.com",
+    "site_section": "https://biztoc.com",
+    "site_categories": [
+      "media",
+      "top_news_id",
+      "top_news_gb",
+      "top_news_au",
+      "top_news_dk",
+      "top_news_ma",
+      "top_news_pk",
+      "top_news_ie",
+      "top_news_ph",
+      "top_news_fi",
+      "top_news_nz",
+      "top_news_th",
+      "top_news_hk",
+      "top_news_il",
+      "top_news_ca",
+      "top_news_pt",
+      "top_news_kw",
+      "top_news_be",
+      "top_news_qa",
+      "top_news_nl",
+      "top_news_sk",
+      "top_news_ae",
+      "top_news_ch",
+      "top_news_cz",
+      "top_news_my",
+      "top_news_se",
+      "top_news_eg",
+      "top_news_iq",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_us",
+      "top_news_rs",
+      "top_news_in"
+    ],
+    "section_title": "BizToc",
+    "title": "NIST Reveals 98 Ways Your Hardware Can Be Hacked",
+    "title_full": "NIST Reveals 98 Ways Your Hardware Can Be Hacked",
+    "published": "2024-11-15T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://imageio.forbes.com/specials-images/imageserve/6736abc1d346524e3b70d7d9/0x0.jpg?format=jpg&amp;crop=3069,1727,x0,y127,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "performance_score": 0,
+    "domain_rank": 67,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0629b026f60fbbed271f83985bd6d310a3a3166a",
+  "url": "https://www.forbes.com/sites/larsdaniel/2024/11/15/silicons-hidden-threats-agency-reveals-98-ways-your-hardware-can-be-hacked/?ref=biztoc.com",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lars Daniel",
+  "published": "2024-11-15T02:00:00.000+02:00",
+  "title": "NIST Reveals 98 Ways Your Hardware Can Be Hacked",
+  "text": "The chips inside our devices harbor 98 different ways they can be hacked. And unlike software vulnerabilities that can be patched with a quick update, these flaws are literally carved into silicon.\nPeter Mell and Irena Bojanova, researchers at the National Institute for Standards in Technology, or NIST, release a report on Nov. 14 that provides a comprehensive analysis of hardware security vulnerabilities that could affect millions of devices worldwide. \"Hardware is often assumed to be robust from a security perspective,\" the researchers note. However, modern computer chips contain millions of components and embedded software, often called firmware. Unlike software vulnerabilities that can be patched with updates, hardware flaws are physically embedded in silicon—making them extremely difficult and expensive to fix.\nThe Silicon Problem: When Hardware Security Fails Remember Spectre and Meltdown? Those processor vulnerabilities that sent the tech industry into a panic in 2018? According to NIST's findings, that might have been just a preview of what's possible when hardware security fails. NIST has identified seven major categories of hardware vulnerabilities, each representing a different way your devices could be compromised.\nThe most common being access control problems, with 43 different scenarios where unauthorized users could potentially access sensitive information or control systems. \"An HW weakness may start a chain of software weaknesses,\" the researchers warn. In other words, a single hardware flaw could compromise just about every piece of software running on the device. And unlike software bugs that can be fixed with a patch, these vulnerabilities are permanent—they're physically etched into the chips themselves.\nAccess Control Problems: Think of your device's hardware like a secure building. NIST researchers found 43 different ways the \"security guards and locks\" in computer chips can fail. For example, during routine maintenance, someone with physical access to a device could potentially steal sensitive information like encryption keys—essentially getting master keys to all your data. This is the most common type of hardware vulnerability they discovered. Resource Management Issues: Imagine your computer's hardware as a city's infrastructure system. NIST identified 40 ways these resource management systems can fail. When they do, attackers might be able to manipulate how your device uses memory or power, potentially causing crashes or stealing sensitive information left in the device's memory—like finding confidential documents in a public trash bin. Security Mechanism Failures: These are failures in the basic security features built into hardware—like having a safe with a broken lock. The researchers found 15 different ways these fundamental security systems could fail, potentially exposing sensitive data or allowing unauthorized access to systems. What makes these particularly dangerous is that they can't be fixed with a simple software update. Coding Standard Issues: Even hardware needs to be programmed, and NIST found 14 scenarios where poor programming practices during the design phase create permanent vulnerabilities. Unlike software bugs that can be patched, these flaws are physically embedded in the chips. Control Flow Problems: The researchers identified 11 ways attackers could manipulate how hardware processes instructions. These vulnerabilities could allow attackers to change how your device operates at its most fundamental level. Error Handling Problems: When unexpected situations occur, hardware needs to handle them safely. NIST found five scenarios where this error handling could fail, potentially allowing attackers to exploit moments of confusion in the system to gain unauthorized access. Comparison Errors: While only one scenario was identified in this category, it's a critical one. It's like having a security guard who can't properly check IDs—when hardware makes mistakes in comparing values, like passwords, it might incorrectly verify who should have access to what. The implications of this report are daunting. A single flaw in a widely used chip could affect millions of devices worldwide. I already mentioned Spectre and Meltdown, which affected virtually every modern processor—from the chips in our smartphones to those powering critical infrastructure.\nWhat Time Is Netflix’s Live Jake Paul Vs. Mike Tyson Fight On Friday? Trump’s Cabinet: Here Are His Picks For Key Roles—RFK Jr, Doug Burgum, Matt Gaetz And More NYT ‘Strands’ Today: Hints, Spangram And Answers For Friday, November 15th The report outlines several scenarios that are sobering:\nEncryption Key Extraction During Maintenance: When technicians perform routine maintenance on devices, they often need special access to debug or test the hardware. The NIST report reveals that during these maintenance procedures, attackers could potentially extract sensitive encryption keys that are normally protected. Think of it like a hotel room safe—while it's secure during normal operation, if someone has maintenance access, they might be able to retrieve the master code. This is particularly dangerous because these encryption keys could be used to protect all data on the device. Exposed Manufacturing Data During Debug Operations: During debugging, when technicians try to identify and fix problems, devices often expose detailed information about how they were manufactured and configured. The report warns that this sensitive manufacturing data could help attackers understand exactly how the device works and where its vulnerabilities lie. It's similar to having detailed blueprints of a building's security system—in the wrong hands, this information could be used to plan an attack. Physical Access Security Compromises: \"A malicious human can leverage physical access to obtain restricted information because the physical security features are insufficient,\" the report states. This means that simply having physical access to a device could allow attackers to bypass security measures that are supposed to protect it. Unlike software attacks that happen over networks, these hardware vulnerabilities require physical contact with the device—but once an attacker has this access, they might be able to completely compromise the device's security. Power Management Manipulation: Modern devices have complex power management systems to conserve energy and manage performance. The NIST researchers found that flaws in these systems could be exploited by attackers to manipulate how devices behave. Attackers might force a device into low power modes at critical moments and use those power fluctuations to bypass security features. Hardware Security: Industry Impact The researchers emphasize that hardware security must be considered from the earliest stages of design—not treated as an afterthought. \"Organizations must take proactive steps to address these weaknesses before they become vulnerabilities,\" Mell and Bojanova urge. But here's the catch: fixing these issues isn't just a matter of pushing out a software update. It requires redesigning and replacing physical components—a process that could cost billions.\nThe report serves as a wake-up call for the technology industry: while software security remains important, we must also ensure that the physical foundation of our digital world —the hardware itself —is secure from the ground up. As our world becomes increasingly dependent on digital technology, the security of hardware components becomes ever more crucial. The next major cybersecurity breach might not come from a sophisticated software hack, but from a flaw literally built into the silicon heart of our devices.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://capi.elements.video/tr/si?token=",
+    "https://cds.elements.video/a/preload-resources-ovp.json",
+    "https://www.capi.elements.video/tr/si?token=",
+    "https://www.cds.elements.video/a/preload-resources-ovp.json",
+    "https://capi.elements.video/tr/si"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "0629b026f60fbbed271f83985bd6d310a3a3166a",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T13:42:18.047+02:00",
+  "updated": "2024-11-15T13:42:18.047+02:00"
+}

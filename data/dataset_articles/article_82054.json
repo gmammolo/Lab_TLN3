@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "1b2416e6c85f1171ef2098d87583ef6add0d26bc",
+    "url": "https://venturebeat.com/ai/simplismart-supercharges-ai-performance-with-personalized-software-optimized-inference-engine",
+    "site_full": "venturebeat.com",
+    "site": "venturebeat.com",
+    "site_section": "http://venturebeat.com/feed",
+    "site_categories": [
+      "education",
+      "business"
+    ],
+    "section_title": "VentureBeat",
+    "title": "Simplismart supercharges AI performance with personalized, software-optimized inference engine | VentureBeat",
+    "title_full": "Simplismart supercharges AI performance with personalized, software-optimized inference engine | VentureBeat",
+    "published": "2024-10-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 587,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1b2416e6c85f1171ef2098d87583ef6add0d26bc",
+  "url": "https://venturebeat.com/ai/simplismart-supercharges-ai-performance-with-personalized-software-optimized-inference-engine",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Shubham Sharma",
+  "published": "2024-10-17T03:00:00.000+03:00",
+  "title": "Simplismart supercharges AI performance with personalized, software-optimized inference engine | VentureBeat",
+  "text": "Enterprises are all in on AI. They want their models to run in production environments smoothly and with as high performance as possible to obtain a high return on investment. However, even with all the advanced models available in the market, teams continue to struggle with deployment issues.\nLast year, Peter Bendor-Samuel, the CEO of Everest Group, estimated that 90% of the gen AI pilots started will not make it to production. Even Gartner has predicted that a significant portion of generative AI projects are likely to be abandoned after proof of concept by the end of 2025.\nAmong the hurdles to adoption, the largest one is orchestration. Teams just don’t have the resources to do everything in-house, which leaves them reliant on rigid and expensive third-party APIs. Today, Simplismart AI raised $7 million in funding to address this gap with its end-to-end MLOps platform that accelerates the entire orchestration effort by taking care of everything from fine-tuning models to deployment and observability.\nWhile there are other MLOps solutions in the market, including those from Datadog, what makes this startup different is its personalized software-optimized inference engine. It deploys models at lightning-fast speed, significantly boosting their performance while driving down associated costs.\n“Without any hardware optimization, we’ve unlocked a throughput of 501 tokens per second on the Llama3.1 8B model , which far beats other inference engines. Similarly, we’ve achieved better results across all modalities, including text-to-speech, speech-to-text, text-to-image, image-to-image,” Amritanshu Jain, former Oracle engineer who co-founded the startup with ex-Google techie Devansh Ghatak, tells VentureBeat.\nSolving orchestration gaps with Simplismart optimized inference When deploying AI in-house (for enhanced control and privacy), teams have to deal with several bottlenecks, right from accessing compute power and optimizing model performance to scaling infrastructure, CI/CD pipelines and cost efficiency. Handling everything manually can easily take months. Not to mention, a slight error here or there in the pipeline can hit the performance of the model and lead to high costs and poor ROI.\nWith its end-to-end orchestration platform, Simplismart standardizes this entire workflow, allowing users to fine-tune, deploy and observe highly optimized open-source models – covering different modalities – according to their needs.\n“Users can either use our shared infrastructure or bring their own compute, cloud account to configure their infrastructure and deployments with ease. The intuitive dashboard of the platform allows them to set parameters like GPUs, machine types, scaling ranges, etc. Once the cluster is ready, users can deploy from a wide range of pre-optimized models or import their own… Finally, the observability features come into play and allow users to track SLAs, monitor the performance of the model in the real world and benchmark performance against past numbers…,” Jain explained.\nThe Terraform-like declarative orchestration language of the platform lets enterprises easily manage the entire pipeline, putting complete control back into their hands and reducing their dependency on the DevOps teams. Meanwhile, the personalized, software-optimized inference engine at its heart ensures that the models are deployed to deliver the desired performance and cost results.\n“Simplismart stands out as the platform that can deliver a personalized inference engine tailored to each enterprise’s needs—whether it’s load, SLAs, performance requirements, GPU usage, etc. This helps enterprises strike the right balance between cost and performance,” Jain said.\nHe noted that the inference engine performance is optimized across three main layers.\nFirst, it optimizes application serving with a custom serving layer for ML workloads. Then, it supports infrastructure with rapid upscaling/downscaling and sharding of models across GPUs to maximize hardware utilization. Finally, it optimizes model-GPU interaction with 28 custom kernels using CUDA. This allows the engine to squeeze even more performance out of the hardware being used.\nHe said the optimized inference engine is already running some popular models, including Llama 3.1 8B, OpenAI’s Whisper v2 and SDXL , with a major performance boost.\n“We’ve consistently recorded a throughput of 501 tokens/sec during multiple Llama 3.1 8B runs. That said, this doesn’t mean every single request will achieve that exact figure, as performance can fluctuate within a band, which is typical for all inference engines. In our tests, we observed a median of ~350 tokens/second under sustained load. What’s particularly exciting is that even at this median, our performance band remains significantly higher than any other inference engine on the market,” he noted.\nThe company’s primary competitors in this space are TogetherAI , Baseten , Replicate , Fireworks and Amazon Bedrock .\nPlan to double down on performance Simplismart already has a pipeline of 30 enterprise customers, including Invideo, Dashtoon, Dubverse and Vodex. One pharma marketplace used the company’s platform to deploy InternVL2 models for digitizing hand-written prescriptions and was able to improve spatial configuration detection, processing 2.5x more images at half the cost.\nAs the next step in this work, Simplismart wants to improve the performance of its MLOps platforms further. It will use the fresh funding to fuel R&D and come up with new techniques to increase the speed of AI inference and stay ahead of the competition.\n“The company has tripled revenue in the last four months to reach ~$1M annual revenue run-rate. We aim to scale to $10M ARR in the next 15 months. Our major levers are to target the top 50 AI-first enterprises and drive open-source adoption of our terraform-like orchestration language,” Jain noted.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.simplismart.ai/",
+    "https://www.together.ai/",
+    "https://replicate.com/",
+    "https://aws.amazon.com/bedrock/",
+    "https://www.baseten.co/",
+    "https://www.gartner.com/en/newsroom/press-releases/2024-07-29-gartner-predicts-30-percent-of-generative-ai-projects-will-be-abandoned-after-proof-of-concept-by-end-of-2025",
+    "https://www.financialexpress.com/business/digital-transformation-90-of-generative-ai-pilot-projects-may-not-make-it-to-production-in-2024-3350304/",
+    "https://fireworks.ai/",
+    "https://together.ai/",
+    "https://www.baseten.co",
+    "https://fireworks.ai",
+    "https://simplismart.ai/",
+    "https://www.fireworks.ai/",
+    "https://www.simplismart.ai",
+    "https://www.aws.amazon.com/bedrock/",
+    "https://gartner.com/en/newsroom/press-releases/2024-07-29-gartner-predicts-30-percent-of-generative-ai-projects-will-be-abandoned-after-proof-of-concept-by-end-of-2025",
+    "https://financialexpress.com/business/digital-transformation-90-of-generative-ai-pilot-projects-may-not-make-it-to-production-in-2024-3350304/",
+    "https://www.financialexpress.com/business/digital-transformation-90-of-generative-ai-pilot-projects-may-not-make-it-to-production-in-2024-3350304",
+    "https://aws.amazon.com/bedrock",
+    "https://www.replicate.com/",
+    "https://replicate.com",
+    "https://www.together.ai",
+    "https://baseten.co/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Peter Bendor-Samuel",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Everest Group",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:10:49.468+03:00",
+  "updated": "2024-10-25T04:44:19.514+03:00"
+}

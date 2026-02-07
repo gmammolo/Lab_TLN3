@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "5d6c58c02848488de1fd358fa408583a344844de",
+    "url": "https://www.thestar.com.my/business/business-news/2025/02/28/sime-motors-launches-first-used-ev-dealership",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/news/latest",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Latest - News | The Star",
+    "site_title": null,
+    "title": "Sime Motors launches first used EV dealership | The Star",
+    "title_full": "Sime Motors launches first used EV dealership | The Star",
+    "published": "2025-02-28T01:42:51.183+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3189622.jpg",
+    "performance_score": 0,
+    "domain_rank": 2079,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5d6c58c02848488de1fd358fa408583a344844de",
+  "url": "https://www.thestar.com.my/business/business-news/2025/02/28/sime-motors-launches-first-used-ev-dealership",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "The Star Online",
+  "published": "2025-02-28T01:42:51.183+02:00",
+  "title": "Sime Motors launches first used EV dealership | The Star",
+  "text": "PETALING JAYA: Sime Motors has introduced Malaysia’s first used electric vehicle (EV) dealership for all car brands in the country.\nCalled EV Next, the dealership will be a one-stop centre for used EV trade-ins and aftersales support.\nSime Motors said it has equipped the dealership with the latest technology and tools, along with certified technicians, to ensure EVs, including their batteries, remain in top-notch condition.\nComplementing EV Next is Drivecare, an independent aftersales network under Sime Motors.\nThe EV Next portfolio offers a wide selection of EV brands including BYD, BMW, MINI, Hyundai, Jaguar, Porsche and Volvo.\nSime Motors’ managing director for South-East Asia, Jeffrey Gan, said the company sees demand for well-maintained used EVs in the market.\n“We are confident of delivering high-quality products to our customers.\n“Our comprehensive end-to-end service ensures peace of mind throughout their EV ownership experience.\n“By doing so, we aim to build trust, reliability and confidence at every stage of the EV ownership experience,” Gan said.\nMeanwhile, Sime Motors managing director Andrew Basham said EV Next is designed to cater to diverse lifestyles.\n“The demand for EVs has been on a steady growth in Malaysia, reflecting the popularity of sustainable mobility.\n“Our unwavering commitment to driving progress toward a greener future ensures we deliver the best products and solutions to our customers across the region.”\nCustomers looking to trade in their EVs or purchase a used one can visit EV Next showrooms in Glenmarie, Chan Sow Lin and TREC Kuala Lumpur.\nEV Next is expanding nationwide, with new locations in Penang, Tebrau and Johor Baru.\nSime Motors is one of the core businesses of Sime Group, representing a wide array of marques from luxury names such as BMW, Rolls-Royce, Jaguar, Land Rover and Porsche to broad appeal brands including Ford, Hyundai and BYD, as well as commercial vehicles.\nSime Motors has a presence in 10 markets, namely, Malaysia, Singapore, mainland China, Hong Kong, Macau, Taiwan, Australia, New Zealand, Thailand and Indonesia.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->consumer goods",
+    "Economy, Business and Finance->products and services",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:42:51.183+02:00",
+  "updated": "2025-02-28T01:42:51.183+02:00"
+}

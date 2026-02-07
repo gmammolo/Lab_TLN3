@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "4f7ffd611700e32fdf11ddaa689c080a4b78a81e",
+    "url": "https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-14-apps-google-play-miles-descargas-revisa-movil-1352919/",
+    "site_full": "computerhoy.com",
+    "site": "computerhoy.com",
+    "site_section": "https://24noticias.org/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "24 Noticias",
+    "title": "Detectan un peligroso malware en 14 apps de la Google Play con miles de descargas, revisa tu móvil | Computer Hoy",
+    "title_full": "Detectan un peligroso malware en 14 apps de la Google Play con miles de descargas, revisa tu móvil | Computer Hoy",
+    "published": "2023-12-28T22:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/malware-android-3202220.jpg?tf=1200x",
+    "performance_score": 0,
+    "domain_rank": 16635,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4f7ffd611700e32fdf11ddaa689c080a4b78a81e",
+  "url": "https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-14-apps-google-play-miles-descargas-revisa-movil-1352919/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "David Hernández",
+  "published": "2023-12-28T22:20:00.000+02:00",
+  "title": "Detectan un peligroso malware en 14 apps de la Google Play con miles de descargas, revisa tu móvil | Computer Hoy",
+  "text": "Siempre es recomendable que echemos un vistazo a todas las aplicaciones que tengamos instaladas en nuestros dispositivos porque es probable que algunas de estas apps no las identifiquemos y puede que sean fraudulentas. Ahora, la firma de seguridad McAfee ha descubierto 14 aplicaciones infectadas en Google Play Store, y lo más preocupante, es que tres de las cuales tenían más de 100.000 instalaciones cada una . Lo identifican como una puerta trasera de Android llamada Xamalicious y que ya habría infectado a 338.300 dispositivos a través de estas aplicaciones maliciosas. Aunque estas aplicaciones maliciosas ya se han eliminado de Google Play, llegaron a estar disponibles en algún momento, y es probable que te las instalaras. De esta forma, echa un vistazo a alguna de estas aplicaciones fraudulentas por si las tienes instaladas en tu dispositivo Android : Por otra parte, un conjunto separado de 12 aplicaciones maliciosas que llevan esta amenaza, se llegaron a distribuir en tiendas de aplicaciones de terceros a través de Archivos APK. La mayoría de los dispositivos infectados se encuentran en Estados Unidos, Alemania, España, Reino Unido, Australia, Brasil, México y Argentina. El malware después de su instalación, se comunica con un servidor C2 y se activa si se cumplen ciertos requisitos previos específicos como lo geográficos. De esta forma, este malware puede recopilar información del dispositivo y del hardware, puede determinar la ubicación geográfica del dispositivo, puede enumerar todas las aplicaciones del sistema instaladas en el dispositivo e incluso puede informar del estado de los permisos de los servicios de accesibilidad. Por otra parte, también han descubierto, que Xamalicious también es capaz de realizar fraude publicitario en los dispositivos infectados, provocando que el rendimiento de tu móvil sea inferior al estar ocupándose de realizar clics fraudulentos en segundo plano.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/stealth-backdoor-android-xamalicious-actively-infecting-devices/",
+    "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/stealth-backdoor-android-xamalicious-actively-infecting-devices",
+    "https://mcafee.com/blogs/other-blogs/mcafee-labs/stealth-backdoor-android-xamalicious-actively-infecting-devices/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:56:54.109+02:00",
+  "updated": "2023-12-29T01:56:54.109+02:00"
+}

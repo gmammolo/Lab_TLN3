@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "f8076968fbc8b75ca95947550651bba662490157",
+    "url": "https://dev.to/ramonduraes/speeding-up-the-development-of-net-c-microservices-with-devprime-cjo",
+    "site_full": "dev.to",
+    "site": "dev.to",
+    "site_section": "https://www.dev.to",
+    "site_categories": [
+      "javascript",
+      "tech",
+      "databases"
+    ],
+    "section_title": "DEV Community",
+    "title": "Speeding up the development of .NET / C# microservices with Devprime - DEV Community",
+    "title_full": "Speeding up the development of .NET / C# microservices with Devprime - DEV Community",
+    "published": "2023-12-29T00:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u9E8oYJJ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gm0e2dyppxds3268n396.jpg",
+    "performance_score": 0,
+    "domain_rank": 1888,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f8076968fbc8b75ca95947550651bba662490157",
+  "url": "https://dev.to/ramonduraes/speeding-up-the-development-of-net-c-microservices-with-devprime-cjo",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@",
+  "published": "2023-12-29T00:27:00.000+02:00",
+  "title": "Speeding up the development of .NET / C# microservices with Devprime - DEV Community",
+  "text": "The market is undergoing a significant shift driven by digital transformation, compelling companies to update their business processes and strategies for greater efficiency and agility. The adoption of new technologies enables the development of digital platforms that promote new sales channels, online presence, and customer relationships. The microservices approach serves as a significant facilitator by allowing the isolation of business contexts with independent, agile, and secure evolution. This architecture incorporates various principles that drive new experiences, such as the ability to scale according to business demand. When discussing microservices, many distributed system patterns come to mind, such as retry, circuit breaker, resilience, asynchronous communication, and observability. These patterns are essential in discussions about modern cloud-native applications. A crucial factor in the microservices strategy is determining the appropriate size for each one. My recommendation is to embark on a Domain-Driven Design (DDD) journey with business areas to build clear modeling and outputs, such as a Context Map. In a traditional project, decision-making about technical directions in microservices implementation would typically take weeks or even months. Additionally, there would be significant divergences among the teams responsible for implementation. In this article, I'll discuss microservices development using [Devprime](https://devprime.io), which provides a complete software architecture project, accelerators, and intelligent components. This approach enables the development of the first microservice in just 30 minutes, saving about 70% of the investment in backend development. However, in this article, I will demonstrate that advancing through these stages and adopting a modern software development experience follows the leading market strategies. Getting Started Installing the Devprime Platform The first step is to create an account on the [Devprime platform](https://devprime.io), activate it, and obtain a valid license. Next, you'll need to install a version of .NET SDK 7+ compatible with your operating system, be it Linux, macOS, or Windows. Make sure to follow the installation instructions provided by Microsoft for the .NET SDK. Additionally, you'll need to install a containerization tool like Docker or Rancher Desktop, enabling the creation and execution of containers for your microservices. These tools facilitate deployment and management of microservices in isolated environments. Lastly, choose a code editor to develop your microservices. Visual Studio Code is a popular and free option, but you can also use other options like Visual Studio Professional, depending on your preferences and specific needs. Execute the commands below: a) dotnet tool install devprime.cli -g b) dp auth Prepare your local environment with MongoDB, RabbitMQ, SEQ containers following the instructions in the Devprime documentation ( [https://docs.devprime.io](https://docs.devprime.io)). After starting the services, enter RabbitMQ and create the default exchanges and queues named 'orderevents' and 'paymentevents'. Creating the First Microservice in 30 Minutes The command \"dp new\" triggers Devprime's intelligent engine to design a production-ready microservice application in seconds, saving weeks or months of work. dp new ms-order –state mongodb –stream rabbitmq At this point, you have a production-ready microservice as described earlier, with a complete project of software architecture, standardization, maintainability, and special functionalities provided by the Devprime Stack, such as observability (Log, Distributed Trace, Metrics), retry and circuit break, resilience applicable to various services like databases, streaming, and external API consumption. To run it on Windows, Linux, or macOS, use one of the scripts below, remembering to apply \"chmod +x run.sh\" for the shell. .\\run.ps1 or ./run.sh (Linux, macOS) Visualizing the Newly Created Microservice by Devprime CLI The Devprime platform has provisioned a new microservice with a complete software architecture project using a Hexagonal Architecture approach, Event-driven Architecture (EDA) based on leading market practices, prioritizing maintainability, testability, and productivity using Devprime's intelligent components integrated with technology adapters. Open the project in Visual Studio Code using the command: code . Key elements in the image: Web – API exposure Stream – Integration with Streams (RabbitMQ, Kafka, AWS SQS, Azure Services BUS, Google PUB/SUB...) State – Integration with persistence and storage (SqlServer, MongoDB, MySQL, PostgreSQL, ElasticSearch, Redis, Oracle) Security – Integration with Identity provider (IDP) (Keycloak, Auth0, Azure AD, AWS Cognito, Google Identity Platform...) Services – Adapter for external API integration Observability – Exposure of Logs, Trace, Metrics Healthcheck – Service availability Extensions – Extensibility for external components Adding Business Rules One of the primary challenges in application evolution is standardizing business rules. The Devprime platform addresses this issue through Domain-Driven Design (DDD), standardizing the implementation of source code within the Domain project. This approach includes concepts like Context Map, Bounded Context, Aggregate Roots, Value Objects, Entity, Application Services, Domain Services, Domain Events, and Handlers. To accelerate the implementation, let's use an example code based on a marketplace, containing code for the \"Order\" Aggregate and another for the \"Item\" Entity. Execute the command below and observe the result: dp marketplace order When opening the project in Visual Studio Code, you'll notice the Marketplace business class generated by the previously executed command. This business class represents the \"Order\" entity within the Marketplace context. The actual implementation of business rules is carried out by the developer after the DDD journey in collaboration with the client or team responsible for the business domain. During the DDD journey, the goal is to understand and model the concepts, behaviors, and interactions of the business domain. This modeling is translated into code during implementation. Accelerating Additional Implementations with Devprime Accelerators A powerful feature available in Devprime CLI is the \"dp init\" command, which analyzes business rules and implements various common stages, generating necessary code such as Dependency injection, Application objects, Repository, and Unit tests for the basic software cycle. Execute the command: dp init After completing the microservice implementation, you can run it and observe the log automatically generated by the Devprime platform's observability adapter. This log is extremely useful for understanding your microservice's behavior and performance during execution. In a production environment, the log generated by the microservice will be automatically captured by Kubernetes, a widely used container orchestration platform. Kubernetes can redirect microservice logs to a centralized storage solution like Elasticsearch. ![Image description]( [https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhc3z63ob24g2hxljpi7](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhc3z63ob24g2hxljpi7) .png) Making a POST on the Microservice API By accessing the microservice API's default URL ( [https://localhost:5001](https://localhost:5001) or [http://localhost:5000](http://localhost:5000)), you'll have access to Swagger, an interactive documentation tool displaying available endpoints in the API. These endpoints are automatically available when using the \"dp init\" command and implemented within the Devprime platform's web adapter. Access the \"POST\" option via Swagger, fill in the data, and confirm. This request will be received by the Web adapter, transported by Application Services, and subsequently processed in the previously implemented business rule in the domain, as shown in the log below. By observing the log generated during the request's processing in the microservice, you'll understand the entire application processing flow, including stages like persistence in the MongoDB database and event emission in RabbitMQ. Exploring Accelerators for Distributed Systems Now, let's take another step in understanding the microservices accelerators present in the Devprime platform's Stack. At this point, let's start the RabbitMQ service in Docker to observe automatic retry and circuit breaker behavior. When attempting a new POST on the API, you can observe another intelligent behavior: if a circuit breaker resulting in a \"Not delivered\" status for the event is detected, the resilience strategy will initiate local fallback to preserve this event. Upon reactivating the RabbitMQ service in Docker and the stream adapter detecting connectivity, the circuit breaker is deactivated, and the preserved event in the resilience strategy is recovered and automatically returned to RabbitMQ. In this demonstration, you could observe an incredible and essential behavior in all modern applications, offered in all projects based on the Devprime platform. This ability to handle failures automatically, such as the circuit breaker and resilience strategy, makes applications more robust and reliable, ensuring a better user experience. The Devprime platform provides these functionalities as an integral part of its projects, facilitating the development of resilient and distributed microservices. Exploring Unit Tests Apart from the entire implementation flow carried out by the 'dp init' command, another very interesting aspect is the unit test cases, serving as a guide for software developers to use as a model in unit test development. Final Thoughts In this article, we demonstrated a basic example of using the Devprime platform's accelerators, aiding in the implementation of the first cloud-native microservice in 30 minutes. These accelerators also contribute to saving approximately 70% of backend development costs, offering a modern, customizable, and evolutionary software architecture project. The [Devprime platform](https://devprime.io) provides an efficient and agile approach to microservices development, supporting patterns like Domain-Driven Design (DDD), resilience, asynchronous communication, and observability. It offers a wide range of resources, from quick project startup to the implementation of advanced fault tolerance strategies. By adopting the [Devprime platform](https://devprime.io), companies can accelerate the development process, reduce costs, and achieve a robust and scalable architecture. Furthermore, the customization and evolution possibilities allow adapting the platform to the specific needs of each project. In summary, the [Devprime platform](https://devprime.io) is an excellent choice to drive microservices development, providing efficiency, quality, and flexibility. By leveraging the benefits offered by the platform, companies can stand out in the market, delivering innovative and high-performance digital solutions. What do you think? Join the comments and share! Until next time! Ramon Durães CEO, Devprime Image: Freepik / BiZkettE1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://docs.devprime.io)).",
+    "https://docs.devprime.io",
+    "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhc3z63ob24g2hxljpi7)",
+    "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhc3z63ob24g2hxljpi7",
+    "https://devprime.io)",
+    "https://devprime.io),",
+    "https://www.devprime.io),",
+    "https://www.docs.devprime.io",
+    "https://www.devprime.io)",
+    "https://www.dev-to-uploads.s3.amazonaws.com/uploads/articles/uhc3z63ob24g2hxljpi7",
+    "https://www.docs.devprime.io)).",
+    "https://www.dev-to-uploads.s3.amazonaws.com/uploads/articles/uhc3z63ob24g2hxljpi7)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T04:26:38.867+02:00",
+  "updated": "2023-12-29T04:26:38.867+02:00"
+}

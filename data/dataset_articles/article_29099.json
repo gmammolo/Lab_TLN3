@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "6c8a28038de48943a067591e57d4fdb286aa780a",
+    "url": "https://devzone.nordicsemi.com/f/nordic-q-a/106981/persistent-key-storage-build-problems-kconfig-and-or-files-not-found",
+    "site_full": "devzone.nordicsemi.com",
+    "site": "nordicsemi.com",
+    "site_section": "https://devzone.nordicsemi.com",
+    "site_categories": [],
+    "section_title": "Nordic DevZone",
+    "title": "Persistent Key Storage build problems (Kconfig and/or files not found) - Nordic Q&A - Nordic DevZone - Nordic DevZone",
+    "title_full": "Persistent Key Storage build problems (Kconfig and/or files not found) - Nordic Q&A - Nordic DevZone - Nordic DevZone",
+    "published": "2023-12-28T14:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 19667,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6c8a28038de48943a067591e57d4fdb286aa780a",
+  "url": "https://devzone.nordicsemi.com/f/nordic-q-a/106981/persistent-key-storage-build-problems-kconfig-and-or-files-not-found",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "underpickled",
+  "published": "2023-12-28T14:33:00.000+02:00",
+  "title": "Persistent Key Storage build problems (Kconfig and/or files not found) - Nordic Q&A - Nordic DevZone - Nordic DevZone",
+  "text": "I'm having trouble getting persistent key storage to work properly on my NRF52(832)DK. I'm currently running the AES-GCM example successfully, but it only works if the key lifetime is set like so: psa_set_key_lifetime(&key_attributes, PSA_KEY_LIFETIME_VOLATILE); If I set that to PSA_KEY_LIFETIME_VOLATILE, I get error -134 due to MBEDTLS_PSA_CRYPTO_STORAGE_C not being enabled. When I add CONFIG_MBEDTLS_PSA_CRYPTO_STORAGE_C=y to the conf file, I get this error during compilation: oberon/psa/core/library/psa_crypto_storage.c:35:10: fatal error: psa/error.h: No such file or directory I've looked a number of Q&A items and compared my config and code to the Persistent Key Storage example, which has CONFIG_MBEDTLS_PSA_CRYPTO_STORAGE_C and CONFIG_PSA_NATIVE_ITS=y, but the latter of the two is completely unrecognized by the SDK and the build just fails due to Kconfig errors. The crypto features in my build are shown below (with non-working options commented out) I've tried a number of configs based on examples and Q&A posts, but whatever I put together either doesn't build due to the above errors or gives an error during runtime.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kconfig",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "sdk",
+        "sentiment": "none"
+      },
+      {
+        "name": "aes",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "devzone - nordic devzone",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:15:39.649+02:00",
+  "updated": "2023-12-29T00:15:39.649+02:00"
+}

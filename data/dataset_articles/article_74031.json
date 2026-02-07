@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "86dcdfbab635a775c4f0cf9e599e938ccfe2eb46",
+    "url": "https://www.theregister.com/2024/11/15/when_ai_assistants_leak_secrets",
+    "site_full": "www.theregister.com",
+    "site": "theregister.com",
+    "site_section": "https://www.theregister.com/",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "The Register: Enterprise Technology News and Analysis",
+    "title": "When AI assistants leak secrets, prevention beats cure • The Register",
+    "title_full": "When AI assistants leak secrets, prevention beats cure • The Register",
+    "published": "2024-11-15T10:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://regmedia.co.uk/2024/05/15/ai_shutterstock.jpg",
+    "performance_score": 0,
+    "domain_rank": 694,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "86dcdfbab635a775c4f0cf9e599e938ccfe2eb46",
+  "url": "https://www.theregister.com/2024/11/15/when_ai_assistants_leak_secrets",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Thomas Segura, Technical Content Writer, GitGuardian",
+  "published": "2024-11-15T10:29:00.000+02:00",
+  "title": "When AI assistants leak secrets, prevention beats cure • The Register",
+  "text": "Sponsored Post The recent Sisense breach , - where attackers exfiltrated customer data after discovering hardcoded AWS credentials in GitLab repositories - serves as yet another stark reminder: hardcoded secrets remain a primary attack vector.\nWith AI coding assistants now routinely suggesting potentially insecure code patterns, the risk has only increased. GitGuardian, known for its secrets detection and remediation platform, is tackling this challenge where it starts - in the developer's IDE. The company's new VS Code extension aims to catch secrets before they reach version control, saving time for both developers and application security teams.\nThe extension operates by scanning code as developers type, highlighting potential secrets directly in the editor. When detected, developers receive immediate feedback through IDE notifications and inline highlights - no need to switch tools or wait for CI/CD pipelines to fail.\nKey capabilities include:\n- Real-time secrets scanning powered by GitGuardian's detection engine.\n- Guided remediation with actionable fix suggestions.\n- False positive management through gitguardian.yaml configuration.\n- One-click installation with no additional dependencies.\n- Built-in support for air-gapped environments.\nWhile pre-commit hooks have been the traditional first line of defense, they can be bypassed or forgotten during setup. The VS Code extension provides an earlier, more consistent security checkpoint that's always active.\nStudies show that better developer awareness alone can reduce exposed secrets by up to 20 percent. By catching issues at the source, the extension helps teams avoid the difficult compromise between security and productivity when revocating a secret that was accidentally exposed.\nAs more developers rely on AI coding assistants, the risk of inadvertently introducing secrets increases. The extension acts as a safety net, detecting potentially dangerous suggestions before they make it into production code.\nThe tool is open-source and available on GitHub, allowing security teams to verify its operation and contribute improvements. It's designed to work alongside existing security measures like pre-commit hooks and GitGuardian's broader platform, providing defense-in-depth against secret exposure.\nDon't wait for a breach to improve your secrets management. Start protecting your code where it's written.\nClick here to get the GitGuardian VS Code extension now.\nSponsored by GitGuardian.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://marketplace.visualstudio.com/items?itemName=gitguardian-secret-security.gitguardian",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://blog.gitguardian.com/sisense-breach/",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://www.blog.gitguardian.com/sisense-breach/",
+    "https://pubads.g.doubleclick.net/gampad/ad",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://blog.gitguardian.com/sisense-breach",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://marketplace.visualstudio.com/items",
+    "https://www.marketplace.visualstudio.com/items?itemName=gitguardian-secret-security.gitguardian",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_software/devops&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzcZqArroCZoV3csRxc8GAAAAI0&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/jump"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T11:53:47.275+02:00",
+  "updated": "2024-11-22T23:18:46.091+02:00"
+}

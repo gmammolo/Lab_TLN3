@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "4389761f02ae39dcb185fd0aab2dff4b248531aa",
+    "url": "https://community.spiceworks.com/t/phantom-print-job-canon-imagerunner-c5550/1103375",
+    "site_full": "community.spiceworks.com",
+    "site": "spiceworks.com",
+    "site_section": "https://community.spiceworks.com/posts.rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Spiceworks Community - Latest posts",
+    "title": "Phantom Print Job Canon ImageRunner C5550",
+    "title_full": "Phantom Print Job Canon ImageRunner C5550",
+    "published": "2024-11-14T23:48:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/spiceworks/original/1X/7a73606d7df2f794c4789897e49693fb3c471b23.png",
+    "performance_score": 0,
+    "domain_rank": 3246,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4389761f02ae39dcb185fd0aab2dff4b248531aa",
+  "url": "https://community.spiceworks.com/t/phantom-print-job-canon-imagerunner-c5550/1103375",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@410guy 410guy",
+  "published": "2024-11-14T23:48:00.000+02:00",
+  "title": "Phantom Print Job Canon ImageRunner C5550",
+  "text": "I have hundreds of these “Phantom Print” jobs occurring daily. Result is “OK”, Original Pages is “0”, Output Pages is “0” and User Name is Blank. Printer used to be shared out from the Server but has since been uninstalled and installed to user laptops via “Add Device”. These Jobs happen all throughout the day/night, at times when there’s no device on the network. AirPrint is disabled. Copier Tech says it’s something with our Network. I’m stumped. It’s not impacting our Print Counts/Ink, nothing is being printed but it’s maddening on the OCD. Any thoughts?\nI’m confused. You say there are phantom print jobs, and that makes me think there are pages printed “randomly” and you don’t know what is causing this. Then you say there is nothing printed. Can you elaborate? I’m not sure I understand what you mean.\nSorry for the confusion and thanks for the reply.\nIn the Job Log, it details an entry for a Job No. The “Result” is OK, it lists a start an end time, lists a “job Type” lists “Original Pages” as 0, “Output Pages” as 0 but does not list a User Name. There is “Data” being sent to the Copier. I can even hear the copier “wake up” as it’s receiving data and it “processing” the data. I check the Job Log, and there will be 7-8 of these entries every 2 hours or so. But there is nothing actually printed out physically.\nHas printer been removed from server? Have you factory reset printer before setting up using add device?\nIt was removed from the Server, it was not Reset before readding to laptops via Add Device.\nJust thinking there may have been something sat there causing the issue\nUnderstood - easy enough to reset and test. Thank you!\nI’ve never heard of this. If the job log includes date/time on the entries, you might be able to collaborate that with events on the network. If there are not a lot of laptops, you might consider unplugging them from the network and then plugging them in one at a time until you start to see job log entries to determine where it’s coming from. If, when all the laptops are unplugged from the network, you still see job log entries, then it’s either an unknown machine, the original print server, or the printer itself.\nIt’s a lot of work to do this, but if you have a small number of clients (I assume so since you’ve moved the printer from a print server to local device installations) it is worth the effort to resolve this.\nAlso, take the time to look at the print queues on each laptop – ya nevva know\nWireshark and see what IP the data is coming from. Could be a device with a corrupt driver that is sending jobs that just flush out without printing. Maybe some device is polling SNMP and the printer is thinking that is a print job.\nThanks Sal - It’s a very odd situation for sure! I have about 50 laptops. Possible to review Print Queues - thank you for the replies!\nThank you! Appreciate the reply.\nFifty laptops is a lot to look at. My idea of unplugging them will take forever, so that’s not practical unless you want to spend a Saturday at the office. I thought it was a much smaller number, like maybe a dozen.\nCurious as to why you changed the printer setups to go local rather than a print server. That makes it hard to manage these types of things.\nI had another thought: In the Windows Event Viewer, I set Applications and Service Logs → Microsoft → Windows → PrintService → Operational to enable logging. I then printed a short text file from Notepad. I got 5 log entries. You might want to enable print logging for a short period on the laptops (GPO?) to see if there is anything you can find in the logs to find the cause. I suggest you might turn it on for a day and then take some time to review the logs on each of the laptops.\nSorry, 410 – this is the best I can do. Hope it’s helpful.\nIt’s extremely helpful Sal, I sincerely appreciate it.\nAs for the move, we’re decommissioning the Server in lieu of everything “Cloud”. I know I could have setup an Azure Print Server but Exec’s didn’t want to go that route.\nThat makes sense; Azure Print is a horror show, I’ve been told. (I only support things with the big red “O” on them so anything Microsoft-specific that I know is mostly through hearing coworkers talk about it.)\nWe’re going cloud here for many things, and I don’t know if they’ve discussed what to do with printers. My best guess is they’re going to want to keep a local print server running (we have over 1600 nodes) rather than do local installations, but it’s not my call. I really don’t care; I support the ERP and business systems, so when users get a report my job is done. If they want to put that report on paper, it’s not my problem\nHappy to help. I hope you resolve this soon – please post any results you find. I’m very curious to know why this is happening!\nThanks for all the great help! I know it’s been a minute but wanted to follow up on this. Turns out this was being caused by Arctic Wolf Scans. Once the Printer specific scans were stopped, so did the Phantom Prints. CRAZY!!!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Business and Market Analysis",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Copier Tech",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T01:34:41.083+02:00",
+  "updated": "2024-11-15T01:34:41.083+02:00"
+}

@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "cb199bc4be1535450d8afc7c4a0d859e0823e981",
+    "url": "https://www.eleconomista.es/tecnologia/noticias/13100123/11/24/alerta-en-facebook-descubren-un-virus-en-la-plataforma-que-puede-incluso-vaciarte-la-cuenta-bancaria.html",
+    "site_full": "www.eleconomista.es",
+    "site": "eleconomista.es",
+    "site_section": "https://www.eleconomista.es/ultimas-noticias/",
+    "site_categories": [
+      "sports",
+      "top_news_ve",
+      "top_news_es",
+      "top_news_pe",
+      "top_news"
+    ],
+    "section_title": "Últimas noticias  | ElEconomista.es",
+    "title": "Alerta en Facebook: descubren un virus en la plataforma que puede incluso vaciarte la cuenta bancaria",
+    "title_full": "Alerta en Facebook: descubren un virus en la plataforma que puede incluso vaciarte la cuenta bancaria",
+    "published": "2024-11-22T16:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://s03.s3c.es/imag/_v0/1200x675/8/3/e/facebook-estafa.jpg",
+    "performance_score": 0,
+    "domain_rank": 3622,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cb199bc4be1535450d8afc7c4a0d859e0823e981",
+  "url": "https://www.eleconomista.es/tecnologia/noticias/13100123/11/24/alerta-en-facebook-descubren-un-virus-en-la-plataforma-que-puede-incluso-vaciarte-la-cuenta-bancaria.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Miguel Terán Haughey",
+  "published": "2024-11-22T16:54:00.000+02:00",
+  "title": "Alerta en Facebook: descubren un virus en la plataforma que puede incluso vaciarte la cuenta bancaria",
+  "text": "A pesar de no ser ya una de las redes sociales más usadas, Facebook sigue teniendo millones de usuarios que se conectan cada día, y es que esta junto a la antigua Twitter y el ya olvidado Messenger, ha formado parte de las primeras plataformas de este tipo. Y como hemos podido confiar con estafas de este tipo en WhatsApp o Gmail, los ciberdelincuentes van allá donde haya muchas potenciales víctimas. Por esa razón, si eres un usuario activo de Facebook debes tener especial cuidado con un nuevo malware que los investigadores de de Netskope Threat Labs han descubierto. Este virus recibe el nombre de Python NodeStealer, y es una nueva versión todavía más peligrosa de un virus que ya no solo ataca cuentas de Facebook Business, sino que ahora también se enfoca en Facebook Ads Manager. Este malware se propaga principalmente a través de anuncios falsos en Facebook donde suelen utilizar imágenes llamativas, como \\\"fotos reveladoras\\\" o \\\"el escándalo de este famoso\\\", para atraer la atención de las víctimas y engañarlas para que descarguen el archivo malicioso. Al hacer clic en el anuncio, se descarga un archivo ZIP que contiene el malware. Otra forma de propagación es a través de mensajes de Facebook que contienen archivos adjuntos maliciosos. Si bien hasta ahora servía para robar información confidencial y comprometer cuentas, como señalan los investigadores ha añadido la capacidad de robar información de tarjetas de crédito. Una vez que la víctima descarga y ejecuta el archivo malicioso, NodeStealer comienza su trabajo. El malware está diseñado para robar una variedad de información, incluyendo: credenciales de acceso, cookies, información del perfil de Facebook e información bancaria. Con toda esta información, los atacantes son capaces de utilizar la cuenta para promocionar productos o servicios fraudulentos, o para difundir más malware entre otros usuarios, difundir spam y ahora incluso realizar transacciones fraudulentas. Cómo te puedes proteger de este virus Es crucial tomar medidas para protegerse de este malware. Algunas recomendaciones son: Desconfiar de anuncios y enlaces sospechosos: No haga clic en anuncios que parezcan demasiado buenos para ser verdad o que provengan de fuentes desconocidas. No descargar archivos adjuntos de mensajes de Facebook de personas que no conoce. Mantener el software actualizado: Las actualizaciones de software a menudo incluyen parches de seguridad que protegen contra malware. Utilizar un software antivirus confiable: Un buen antivirus puede detectar y eliminar malware. Activar la autenticación de dos factores (2FA) en su cuenta de Facebook: 2FA agrega una capa adicional de seguridad al requerir un código de verificación además de la contraseña para iniciar sesión.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T17:13:41.271+02:00",
+  "updated": "2024-11-22T17:13:41.271+02:00"
+}

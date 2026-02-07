@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "13397449f0f0d641584068033b4586e18cdd8f58",
+    "url": "https://hipertextual.com/2024/11/ios-18-1-va-a-reiniciar-tu-iphone-cada-tres-dias-como-evitarlo",
+    "site_full": "hipertextual.com",
+    "site": "hipertextual.com",
+    "site_section": "http://motorfull.com/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Hipertextual",
+    "title": "iOS 18.1 va a reiniciar tu iPhone cada tres días: esto es lo que tienes que hacer para evitarlo",
+    "title_full": "iOS 18.1 va a reiniciar tu iPhone cada tres días: esto es lo que tienes que hacer para evitarlo",
+    "published": "2024-11-15T11:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/iOS-18-1-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 9420,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 6
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "13397449f0f0d641584068033b4586e18cdd8f58",
+  "url": "https://hipertextual.com/2024/11/ios-18-1-va-a-reiniciar-tu-iphone-cada-tres-dias-como-evitarlo",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rubén Chicharro",
+  "published": "2024-11-15T11:25:00.000+02:00",
+  "title": "iOS 18.1 va a reiniciar tu iPhone cada tres días: esto es lo que tienes que hacer para evitarlo",
+  "text": "Aunque Apple Intelligence es la absoluta protagonista de iOS 18.1 , la nueva versión del sistema operativo para el iPhone incluye otras funciones dignas de mención por su utilidad. Algunas de estas, incluso, ni siquiera la compañía las menciona. Es el ejemplo de esta medida de seguridad que llegó a los modelos compatibles tras la actualización en septiembre, y que ha sido descubierta gracias a investigadores de seguridad.\nSegún informa TechCrunch , estos han comprobado que, con iOS 18.1, el iPhone es capaz de reiniciarse automáticamente cuando detecta 72 horas de inactividad . Esto hace que cualquier persona que intente acceder a ese iPhone, lo tenga más complicado por un motivo en particular.\nCuando el iPhone con iOS 18.1 se reinicia, es más complicado acceder o desbloquear el iPhone por terceros , ya sean las fuerzas de seguridad o hackers. Esto se debe a que el dispositivo tiene diferentes fases de desbloqueo; y la más frágil es cuando el iPhone ya se ha encendido y el usuario ya ha introducido el código previamente.\nCon el reinicio, el iPhone entra en un estado de “Antes del primer desbloqueo”, donde todos los datos que se almacenan e stán completamente encriptados . Por lo que es mucho más complicado acceder a la información personal del usuario, incluso utilizando herramientas externas.\nQué tiene que pasar para que el iPhone se reinicie solo en iOS 18.1 En cualquier caso, para que el iPhone se reinicie, es necesario que se cumplan una serie de condiciones. En primer lugar, el iPhone tiene que estar bloqueado; es decir, haber superado los intentos de Face ID y Touch ID. Además, solo se reinicia transcurridos los tres días desde el bloqueo. Para evitar que se reinicie , simplemente debes desbloquear o usar el dispositivo con normalidad cada tres días.\nCuriosamente, en iOS 18, esta medida de seguridad estaba programado para un periodo de inactividad de siete días. Apple, sin embargo, la redujo a tres días en iOS 18.1 . La compañía por el momento no ha ofrecido más detalles al respecto, y no parece haber una opción para desactivar esta característica en los ajustes del sistema.\nEso sí, las fuerzas de seguridad todavía pueden hacer uso de herramientas externas para intentar acceder a la información de los dispositivos bloqueados. No obstante, la nueva función de iOS 18.1, hacen que acceder a estos datos sea algo más complicado.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/",
+    "https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm",
+    "https://www.techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T13:26:50.753+02:00",
+  "updated": "2024-11-15T15:17:28.836+02:00"
+}

@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "1ba69a919454c36d5d445106e8a971f0ac86c4ea",
+    "url": "https://www.nola.com/news/crime_police/teen-killed-bywater-man-with-shovel-after-leaving-mental-hospital-new-orleans-police-say/article_34bb6fff-a3b4-4f89-afbf-a6290c32204f.html",
+    "site_full": "www.nola.com",
+    "site": "nola.com",
+    "site_section": "https://news.google.com/search?q=with%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "New Orleans, LA Local News, Breaking News, Sports | NOLA.com | New Orleans News, Sports and Entertainment",
+    "title": "Teen killed man with shovel after leaving mental hospital | Crime/Police | nola.com",
+    "title_full": "Teen killed man with shovel after leaving mental hospital | Crime/Police | nola.com",
+    "published": "2025-04-10T00:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/bf/abf886c5-161a-4bb7-9af5-37beb486f606/67e709ba3098f.image.png?crop=1800%2C945%2C0%2C102&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 2203,
+    "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1ba69a919454c36d5d445106e8a971f0ac86c4ea",
+  "url": "https://www.nola.com/news/crime_police/teen-killed-bywater-man-with-shovel-after-leaving-mental-hospital-new-orleans-police-say/article_34bb6fff-a3b4-4f89-afbf-a6290c32204f.html",
+  "ord_in_thread": 0,
+  "author": "Missy Wilkinson",
+  "published": "2025-04-10T00:30:00.000+03:00",
+  "title": "Teen killed man with shovel after leaving mental hospital | Crime/Police | nola.com",
+  "text": "Facebook Twitter WhatsApp SMS Email Print Copy article link Save /* Let's add some conversion tracking: requestUrl */ var requestUrlNavButtonMobile = window.location.origin + window.location.pathname; var encodedRequestUrlNavButtonMobile = encodeURIComponent( requestUrlNavButtonMobile ); /** END */ const subscribe_offer = \"322\"; let mobileUrl = `https://subscribe.nola.com/digitalplan?ofrgp_id=${subscribe_offer}&g2i_source=subscribebuttonmn&requestUrl=${encodedRequestUrlNavButtonMobile}`; let mobileSubscribeButtonText = \"Subscribe for $1\"; let nowWidthLogin = window.innerWidth; let navbarHeader = document.querySelector(\".navbar-header\"); let desktopNavbar = document.querySelector(\".desktop-navbar\"); let accountContainerDiv = document.createElement(\"div\"); accountContainerDiv.setAttribute(\"id\", \"nav-account-container\"); accountContainerDiv.setAttribute(\"class\", \"nav-account-container\"); let accountNameAndSvgContainer = document.createElement(\"div\"); accountNameAndSvgContainer.setAttribute(\"class\", \"nav-name-and-svg-container\"); accountContainerDiv.appendChild(accountNameAndSvgContainer); let accountNameContainerDiv = document.createElement(\"div\"); accountNameContainerDiv.setAttribute(\"class\", \"nav-name-container\"); let formattedNameP = document.createElement(\"p\"); formattedNameP.setAttribute(\"id\", \"nav-user-firstName\"); formattedNameP.setAttribute(\"class\", \"nav-user-firstName\"); // comment out this for username // formattedNameP.innerHTML =`Hello, ${formattedName}!`; accountNameContainerDiv.appendChild(formattedNameP); accountNameAndSvgContainer.appendChild(accountNameContainerDiv); let accountSvgContainerDiv = document.createElement(\"div\"); accountSvgContainerDiv.setAttribute(\"class\", \"nav-svg-container\"); checkWidthToIconArrow(992, accountSvgContainerDiv); accountNameAndSvgContainer.appendChild(accountSvgContainerDiv); let accountIconUserDiv = document.createElement(\"div\"); accountIconUserDiv.setAttribute(\"class\", \"nav-icon-user-container\"); checkWidthToIconUser(992, accountIconUserDiv); accountContainerDiv.appendChild(accountIconUserDiv); // Append the right children element to parent checkWidthToAppend(992, navbarHeader, desktopNavbar, accountContainerDiv); /* OPEN SETTINGS BLOCK */ let openSettingsContainerDiv = document.createElement(\"div\"); openSettingsContainerDiv.setAttribute(\"class\", \"open-setting-container\"); const settings = [ { name: \"MY ACCOUNT\", url: ' MY ACCOUNT', onclick: () => close(), }, { name: \"E-Edition\", url: ' VIEW E-EDITION', onclick: () => close(), }, { name: \"LOG OUT\", url: ' LOG OUT', onclick: () => close(), }, ]; let settingsDiv = document.createElement(\"div\"); settingsDiv.setAttribute(\"class\", \"nav-settings-div\"); let settingsUl = document.createElement(\"ul\"); settingsUl.setAttribute(\"class\", \"nav-settings-ul\"); settingsDiv.appendChild(settingsUl); settings.map((setting) => { let settingLi = document.createElement(\"li\"); settingLi.setAttribute(\"class\", \"nav-setting-li\"); if (setting.onclick) { settingLi.onclick = setting.onclick; } settingLi.innerHTML = setting.url; settingsUl.appendChild(settingLi); }); openSettingsContainerDiv.appendChild(settingsDiv); checkWidthToAppend(992, navbarHeader, desktopNavbar, openSettingsContainerDiv); if (nowWidthLogin > 992) { accountContainerDiv.addEventListener(\"mouseover\", mouseOver); accountContainerDiv.addEventListener(\"mouseout\", mouseOut); openSettingsContainerDiv.addEventListener(\"mouseover\", mouseOver); openSettingsContainerDiv.addEventListener(\"mouseout\", mouseOut); } else { accountContainerDiv.removeEventListener(\"mouseover\", mouseOver); accountContainerDiv.removeEventListener(\"mouseout\", mouseOut); let open = false; openSettingsContainerDiv.style.height = \"0\"; settingsDiv.style.display = \"none\"; accountContainerDiv.addEventListener(\"click\", () => { if (!open) { open = !open; openSettingsContainerDiv.style.height = \"80px\"; settingsDiv.style.display = \"block\"; } else { open = !open; openSettingsContainerDiv.style.height = \"0\"; settingsDiv.style.display = \"none\"; } }); } window.addEventListener(\"resize\", function () { var width = window.innerWidth; if (width { if (!open) { open = !open; openSettingsContainerDiv.style.height = \"80px\"; settingsDiv.style.display = \"block\"; } else { open = !open; openSettingsContainerDiv.style.height = \"0\"; settingsDiv.style.display = \"none\"; } }); } else { accountContainerDiv.addEventListener(\"mouseover\", mouseOver); accountContainerDiv.addEventListener(\"mouseout\", mouseOut); openSettingsContainerDiv.addEventListener(\"mouseover\", mouseOver); openSettingsContainerDiv.addEventListener(\"mouseout\", mouseOut); } }); /* SIGN IN */ let signInContainerDiv = document.createElement(\"div\"); signInContainerDiv.setAttribute(\"id\", \"nav-signIn-container\"); signInContainerDiv.setAttribute(\"class\", \"nav-signIn-container\"); signInContainerDiv.setAttribute(\"data-mg2-action\", \"login\"); let signInNameAndSvgContainer = document.createElement(\"div\"); signInNameAndSvgContainer.setAttribute(\"class\", \"nav-name-and-svg-container\"); signInContainerDiv.appendChild(signInNameAndSvgContainer); signInContainerDiv.style.border = \"1px solid transparent\"; //signInContainerDiv.style.border = \"1px solid # \"; // HERE let signInNameContainerDiv = document.createElement(\"div\"); signInNameContainerDiv.setAttribute(\"class\", \"nav-name-container\"); let formattedSignInP = document.createElement(\"p\"); formattedSignInP.setAttribute(\"class\", \"nav-user-firstName\"); formattedSignInP.innerHTML = ' LOG IN'; if (nowWidthLogin > 992) { signInContainerDiv.addEventListener(\"mouseover\", signInMouseOver); signInContainerDiv.addEventListener(\"mouseout\", signInMouseOut); } window.addEventListener(\"resize\", function () { var width = window.innerWidth; if (width > 992) { signInContainerDiv.addEventListener(\"mouseover\", signInMouseOver); signInContainerDiv.addEventListener(\"mouseout\", signInMouseOut); } }); signInNameContainerDiv.appendChild(formattedSignInP); signInNameAndSvgContainer.appendChild(signInNameContainerDiv); let signInSvgContainerDiv = document.createElement(\"div\"); signInSvgContainerDiv.setAttribute(\"class\", \"nav-svg-container\"); signInSvgContainerDiv.setAttribute(\"data-mg2-action\", \"login\"); checkWidthToIconArrow(992, signInSvgContainerDiv); signInNameAndSvgContainer.appendChild(signInSvgContainerDiv); let signInUserIconContainer = document.createElement(\"div\"); signInUserIconContainer.setAttribute(\"id\", \"user_icon_container\"); signInUserIconContainer.innerHTML = ` `; signInContainerDiv.appendChild(signInUserIconContainer); let signInIconUserDiv = document.createElement(\"div\"); signInIconUserDiv.setAttribute(\"id\", \"signin-nav-icon-user-container\"); signInIconUserDiv.setAttribute(\"class\", \"nav-icon-user-container\"); signInIconUserDiv.setAttribute(\"data-mg2-action\", \"login\"); checkWidthToIconUser(992, signInIconUserDiv); if (nowWidthLogin > 992) { formattedSignInP.innerHTML = ' LOG IN'; } else { signInContainerDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInSvgContainerDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInIconUserDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInSvgContainerDiv.innerHTML = \"\"; signInIconUserDiv.innerHTML = \"\"; formattedSignInP.innerHTML = ` ${mobileSubscribeButtonText}`; } window.addEventListener(\"resize\", function () { if (nowWidthLogin > 992) { formattedSignInP.innerHTML = ' LOG IN'; } else { signInContainerDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInSvgContainerDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInIconUserDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInSvgContainerDiv.innerHTML = \"\"; signInIconUserDiv.innerHTML = \"\"; formattedSignInP.innerHTML = ` ${mobileSubscribeButtonText}`; } }); document.getElementById(\"MG2logout\").addEventListener(\"click\", function () { if (nowWidthLogin ${mobileSubscribeButtonText}`; } }); signInContainerDiv.appendChild(signInIconUserDiv); checkWidthToAppend(992, navbarHeader, desktopNavbar, signInContainerDiv); // navbarHeader.appendChild(signInContainerDiv); /*",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Crime, Law and Justice->homicide",
+    "Crime, Law and Justice->assault"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Michael Craig Hankins",
+        "sentiment": "none"
+      },
+      {
+        "name": "Trevor Lee Delrie",
+        "sentiment": "none"
+      },
+      {
+        "name": "Dwight McKenna",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-04-10T00:48:13.445+03:00",
+  "updated": "2025-04-10T03:22:46.117+03:00"
+}

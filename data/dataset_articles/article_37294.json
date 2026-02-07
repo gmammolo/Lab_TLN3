@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "dc2df2ec1958ec294230394edbcb594b2d9f1773",
+    "url": "https://ren.tv/news/proisshestviia/1351867-daily-mail-dvoe-britantsev-pogibli-prygnuv-v-bassein-otelia-v-portugalii",
+    "site_full": "ren.tv",
+    "site": "ren.tv",
+    "site_section": "http://ren.tv/export/feed.xml",
+    "site_categories": [
+      "media",
+      "television",
+      "entertainment"
+    ],
+    "section_title": "РЕН ТВ. Новости - наше призвание",
+    "site_title": "Новости — наше призвание на РЕН ТВ",
+    "title": "Daily Mail: двое британцев погибли, прыгнув в бассейн отеля в Португалии",
+    "title_full": "Daily Mail: двое британцев погибли, прыгнув в бассейн отеля в Португалии",
+    "published": "2025-07-17T07:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cdn.ren.tv/cache/1200x630/media/img/54/b0/54b06540c505acad67ea15c9f76b749a848e251a.jpg",
+    "performance_score": 0,
+    "domain_rank": 10681,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dc2df2ec1958ec294230394edbcb594b2d9f1773",
+  "url": "https://ren.tv/news/proisshestviia/1351867-daily-mail-dvoe-britantsev-pogibli-prygnuv-v-bassein-otelia-v-portugalii",
+  "ord_in_thread": 0,
+  "author": "@rentvchannel",
+  "published": "2025-07-17T07:21:00.000+03:00",
+  "title": "Daily Mail: двое британцев погибли, прыгнув в бассейн отеля в Португалии",
+  "text": "Два британских туриста погибли на португальском курорте Албуфейра, упав в бассейн. Об этом сообщила газета Daily Mail.\n\"Двое британских туристов погибли после прыжка в бассейн отеля, вернувшись с ночной прогулки в Португалии\", – указано в материале.\nДва мужчина 27 и 29 лет отдыхали с друзьями, остановившись в номере, в котором был бассейн. Ночью они выпили алкогольные напитки и спрыгнули в воду, хотя ни один из них не умел плавать.\nСпасатели пытались реанимировать туристов, но мужчины погибли. Сейчас правоохранители выясняют причины и обстоятельства инцидента.\nРанее на таиландском Пхукете профессиональная бодибилдерша Юлия Родина утонула при отбойном течении.\nСМИ2\n(function() { var sc = document.createElement('script'); sc.type =\n'text/javascript'; sc.async = true; sc.src =\n'//smi2.ru/data/js/89437.js'; sc.charset = 'utf-8'; var s =\ndocument.getElementsByTagName('script')[0];\ns.parentNode.insertBefore(sc, s); }());\n(function() { var sc = document.createElement('script');\nsc.type = 'text/javascript'; sc.async = true; sc.src =\n'//smi2.ru/data/js/89437.js'; sc.charset = 'utf-8'; var s =\ndocument.getElementsByTagName('script')[0];\ns.parentNode.insertBefore(sc, s); }());\nvar checkIsTestPage = false;\nvar isTest = checkIsTestPage;\nvar init_adfox_under_article_desktop_1351867 = function() {\n// puid2: '229103',\nif (window.Ya && window.Ya.adfoxCode) {\nvar params = isTest ? {\np1: 'ddomg',\np2: 'ffnu'\n} : {\np1: 'bzorw',\np2: 'fulf',\npuid8: window.localStorage.getItem('puid8'),\npuid12: '186107',\npuid21: 1,\npuid26: window.localStorage.getItem('puid26'),\npuid4: 'ren.tv',\n};\nconst pk = window.localStorage.getItem('pk');\nif (pk) {\nparams.pk = pk;\nparams.pke = '1';\n}\nvar existBidding = window.Ya?.headerBidding.getBidsReceived().map(elm => elm.containerId) || []\nvar elementId = isTest ? 'adfox_172319719459163455_1351867' : 'adfox_151870620891737873_1351867'\nif (window.Ya.headerBidding && !existBidding.includes(elementId)) {\nwindow.Ya.headerBidding.pushAdUnits([\n{\n\"code\": elementId,\n\"bids\": [\n{\"bidder\": \"adriver\", \"params\": {\"placementId\": \"30:rentv_970x250_mid\"}},\n{\"bidder\": \"bidvol\", \"params\": {\"placementId\": \"37226\"}},\n{\"bidder\": \"sape\", \"params\": {\"placementId\": \"836081\"}},\n{\"bidder\": \"hybrid\", \"params\": {\"placementId\": \"6602ab127bc72f23c0325b09\"}},\n{\"bidder\": \"adfox_adsmart\", \"params\": {\n\"pp\": \"h\",\n\"ps\": \"doty\",\n\"p2\": \"ul\",\n\"puid20\": \"\"\n}}\n],\n\"sizes\": [[970,250],[728,250],[728,90],[990,90],[990,250]]\n}\n]);\n}\nwindow.yaContextCb?.push(() => {\nYa.adfoxCode.createScroll({\nownerId: checkIsTestPage ? 241452 : 264443,\ncontainerId: elementId,\nparams: params,\nlazyLoad: true,\n}, ['desktop', 'tablet'], {\ntabletWidth: 1104,\nphoneWidth: 576,\nisAutoReloads: false\n});\n});\n}\n}\nif (window.Ya && window.Ya.adfoxCode) {\ninit_adfox_under_article_desktop_1351867();\n} else {\ndocument.addEventListener('adfoxload', event => {\ninit_adfox_under_article_desktop_1351867();\n});\n}",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Crime, Law and Justice->homicide",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Social Issue->death and dying",
+    "Social Issue->social condition",
+    "Social Issue->communities",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.dailymail.co.uk/news/article-14908563/Two-British-tourists-dead-jumping-hotel-pool-night-Portugal.html",
+    "https://dailymail.co.uk/news/article-14908563/Two-British-tourists-dead-jumping-hotel-pool-night-Portugal.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-17T07:48:42.423+03:00",
+  "updated": "2025-07-17T04:53:32.000+00:00"
+}

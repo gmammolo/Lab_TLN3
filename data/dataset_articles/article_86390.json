@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "7a9e6122542576172348cb11fdd78ee652c77cab",
+    "url": "http://business.china.com.cn/2025-12/25/content_43319111.shtml",
+    "site_full": "business.china.com.cn",
+    "site": "china.com.cn",
+    "site_section": "http://business.china.com.cn/",
+    "site_categories": [
+      "japan",
+      "travel"
+    ],
+    "section_title": "中国商务-中国网商务门户",
+    "site_title": "中国网--网上中国",
+    "title": "浪潮计算机C86服务器登顶TPCx-IoT全球榜首，突破中国算力新高度_中国网 中国商务",
+    "title_full": "浪潮计算机C86服务器登顶TPCx-IoT全球榜首，突破中国算力新高度_中国网 中国商务",
+    "published": "2025-12-25T08:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5015,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7a9e6122542576172348cb11fdd78ee652c77cab",
+  "url": "http://business.china.com.cn/2025-12/25/content_43319111.shtml",
+  "ord_in_thread": 0,
+  "author": "商闻",
+  "published": "2025-12-25T08:27:00.000+02:00",
+  "title": "浪潮计算机C86服务器登顶TPCx-IoT全球榜首，突破中国算力新高度_中国网 中国商务",
+  "text": "首页 > 中国商务 > 浪潮计算机C86服务器登顶TPCx-IoT全球榜首，突破中国算力新高度 时间：2025-12-25\n来源：中国网商务频道\n分享到： 链接已复制 字体： 小 大 近日，国际权威性能测评机构TPC（事务处理性能委员会）公布最新TPCx-IoT榜单——浪潮计算机联合清华大学，共同打造的C86服务器CS5280H3与数据库软件TimechoDB软硬一体化协同方案，刷新了全球物联网数据处理性能世界纪录，浪潮计算机也成为国内首个突破此项纪录的安全可靠整机厂商。\n据TPC官方数据显示，该集群性能成绩达到24,653,819 IoTps，即每秒可稳定支撑2465多万条物联网时序数据记录的并发处理。这一成绩标志着中国算力正式跻身全球领先行列，从“能用”迈向“好用且全球领先”的新阶段。\n作为国际公认的数据库性能测评权威组织，TPC制定的TPCx-IoT基准是首个专门衡量物联网场景系统性能的行业标准，其评估涵盖性能、性价比等多维度指标，是全球用户选择物联网数据处理平台的重要参考。此次突破，并非单点技术的偶然爆发，而是源于面向物联网场景的全栈优化创新。面对数百亿条时序数据瞬时涌入、毫秒级查询响应与GB/s级突发上行的极限挑战，浪潮通过软硬件深度协同的服务器架构重塑，实现了从硬件、网络到操作系统与数据库调度的全链路优化。\n在核心技术方面，浪潮构建了三大核心能力：其一是数百亿数据高效处理。通过底层硬件资源深度垂直整合与内存直连加速技术，去除存储与计算冗余环节，将跨芯片访问延迟降至物理极限，即便面对GB/s级爆发式流量，也能实现数据写入的高效流畅；其二是聚合查询毫秒级响应。依托智能亲和调度与超高带宽存储阵列，让计算任务在“极速缓存”中运行，大幅减少数据搬运耗时，确保跨表多维度聚合查询延迟稳定控制在毫秒级，让深度洞察实时呈现；其三是多数据节点强一致性。通过精密的抗抖动优化与批次化数据同步，有效排除网络延迟不确定性，保障多节点数据强一致性，实现极高传输吞吐。\n浪潮的此次登顶，不仅是性能数值的突破，更是一次面向物联网数据处理核心瓶颈的“架构级应答”。这一技术背后所沉淀的软硬协同方法与调优经验，也将持续反哺至更广泛的实时数据处理场景，为中国数字基础设施的纵深发展注入核心动能。（推广）\n【责任编辑：沈晔】",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->computing and information technology",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T09:06:59.398+02:00",
+  "updated": "2025-12-25T09:08:49.000+02:00"
+}

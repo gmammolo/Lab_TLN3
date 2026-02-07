@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "0b87b1b1961b0f8ccb1b088bd997d13425c3281b",
+    "url": "https://www.techzine.eu/news/data-management/127684/how-google-created-the-transformer-model-but-lost-the-ai-race",
+    "site_full": "www.techzine.eu",
+    "site": "techzine.eu",
+    "site_section": "https://www.techzine.eu/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Techzine Global",
+    "title": "How Google created the transformer model but lost the AI race",
+    "title_full": "How Google created the transformer model but lost the AI race",
+    "published": "2025-01-10T11:36:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.techzine.eu/wp-content/uploads/2025/01/AI.png",
+    "performance_score": 0,
+    "domain_rank": 75323,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0b87b1b1961b0f8ccb1b088bd997d13425c3281b",
+  "url": "https://www.techzine.eu/news/data-management/127684/how-google-created-the-transformer-model-but-lost-the-ai-race",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mels Dees",
+  "published": "2025-01-10T11:36:00.000+02:00",
+  "title": "How Google created the transformer model but lost the AI race",
+  "text": "ChatGPT’s explosive success sent shockwaves through the tech world, especially at Google. The company saw the LLM chatbot as a potential threat to its dominance in the search market.\nIn recent years, especially since the launch of ChatGPT, some have seen Google as a sleeping giant. The influential article Attention Is All You Need, published under Google’s banner, introduced the Transformer model, the foundation underneath ChatGPT. This created a situation where Google developed a groundbreaking technology back in 2017 but did not (seemingly) fully utilize it and was surprised when a competitor built something revolutionary with it.\nThe transformer model\nIn response to the rapid advance of OpenAI, Google introduced features such as AI overviews, although these initially faced problems. Part of Google’s strategy to deal with the threat of OpenAI was to consolidate its AI efforts. In 2023, the Google Brain team merged with DeepMind, resulting in a new unit called Google DeepMind.\nExpansion of Google DeepMind\nThis team has since led the development of Gemini, Google’s answer to ChatGPT. Since its inception, Google DeepMind has released models such as Gemini 2.0 Flash, which supports multimodality, and features such as Gemini Live.\nNow it seems Google is ramping up its efforts further. And it is doing so by expanding the Google DeepMind unit. Google’s mission is clear – to build the best AI development platform in the world, offering Google’s latest models, tools and techniques to third-party developers.\nOpenAI bets on superintelligence\nMeanwhile, Sam Altman, Google’s prominent rival and CEO of OpenAI, recently highlighted OpenAI’s focus on what he calls superintelligence. In a blog post, he described it as a tool that could greatly accelerate scientific discoveries and innovations far beyond what we can achieve on our own.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific innovation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:12:28.913+02:00",
+  "updated": "2025-01-10T12:12:28.913+02:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "769c7a3e5a8ba462ab367621ad6cea24f99b406f",
+    "url": "https://www.bleepingcomputer.com/news/security/ascension-hacked-after-employee-downloaded-malicious-file",
+    "site_full": "www.bleepingcomputer.com",
+    "site": "bleepingcomputer.com",
+    "site_section": "http://www.bleepingcomputer.com/feed/",
+    "site_categories": [
+      "windows",
+      "hacking",
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "BleepingComputer",
+    "title": "Ascension hacked after employee downloaded malicious file",
+    "title_full": "Ascension hacked after employee downloaded malicious file",
+    "published": "2024-06-13T20:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.bleepstatic.com/content/hl-images/2024/06/13/Ascension-headpic.jpg",
+    "performance_score": 0,
+    "domain_rank": 1465,
+    "domain_rank_updated": "2024-06-11T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "769c7a3e5a8ba462ab367621ad6cea24f99b406f",
+  "url": "https://www.bleepingcomputer.com/news/security/ascension-hacked-after-employee-downloaded-malicious-file",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sergiu Gatlan",
+  "published": "2024-06-13T20:52:00.000+03:00",
+  "title": "Ascension hacked after employee downloaded malicious file",
+  "text": "IMAGE: MIDJOURNEY Ascension, one of the largest U.S. healthcare systems, revealed that a May 2024 ransomware attack was caused by an employee who downloaded a malicious file onto a company device.\nAscension says this was likely an \"honest mistake\" as the employee thought they were downloading a legitimate file.\nThe attack impacted the MyChart electronic health records system, phones, and systems used to order tests, procedures, and medications, prompting the healthcare giant to take some devices offline on May 8 to contain what it described at the time as a \"cyber security event,\"\nThis forced employees to keep track of procedures and medications on paper, as they could no longer access patient records electronically.\nAscension also paused some non-emergent elective procedures, tests, and appointments and diverted emergency medical services to other healthcare units to avoid triage delays.\nOn Wednesday, it said that some of its services are still being impacted, and the healthcare system is still working on bringing some electronic health records systems, patient portals, and phone systems, as well as tests, procedures, and medication ordering systems online.\nIt also added that an ongoing investigation found evidence the threat actors only gained access to and stole files from seven out of thousands of servers on its network.\n\"At this point, we now have evidence that indicates that the attackers were able to take files from a small number of file servers used by our associates primarily for daily and routine tasks. These servers represent seven of the approximately 25,000 servers across our network,\" an Ascension spokesperson said .\n\"Though we are still investigating, we believe some of those files may contain Protected Health Information (PHI) and Personally Identifiable Information (PII) for certain individuals, although the specific data may differ from individual to individual.\"\nHowever, Ascension says it has yet to find proof that the attackers stole data from its Electronic Health Records (EHR) and other clinical systems, which store the full patient records.\nRansomware attack linked to Black Basta While the healthcare giant has yet to link the attack to a specific ransomware operation, CNN reported that the Black Basta gang is behind the incident.\nDays after the attack, Health-ISAC (Information Sharing and Analysis Center) also issued a threat bulletin warning that Black Basta \"has recently accelerated attacks against the healthcare sector.\"\nSince it surfaced in April 2022, Black Basta's affiliates have breached the networks of many high-profile victims, including Rheinmetall , Capita , ABB , and the Toronto Public Library .\nJoint research from Elliptic and Corvus Insurance also revealed the gang made over $100 million from 90+ victims until November 2023.\nAs one of the largest nonprofit health networks in the U.S., Ascension operates 140 hospitals and 40 senior care facilities, and it reported a total revenue of $28.3 billion in 2023.\nAscension also employs 8,500 providers and has 35,000 affiliated providers and 134,000 associates across 19 states and the District of Columbia.\nRelated Articles: Ascension redirects ambulances after suspected ransomware attack\nAscension healthcare takes systems offline after cyberattack\nLondon hospitals cancel over 800 operations after ransomware attack\nNew York Times warns freelancers of GitHub repo data breach\nLondon hospitals face blood shortage after Synnovis ransomware attack",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://h-isac.org/black-basta-threat-actor-emerges-as-a-major-threat-to-the-healthcare-industry/",
+    "https://edition.cnn.com/2024/05/10/tech/cyberattack-ascension-ambulances-hospitals/index.html",
+    "https://about.ascension.org/en/cybersecurity-event",
+    "http://doublepulsar.com/black-basta-ransomware-group-extorts-capita-with-stolen-customer-data-capita-fumble-response-9c3ca6c3b283",
+    "https://www.h-isac.org/black-basta-threat-actor-emerges-as-a-major-threat-to-the-healthcare-industry/",
+    "https://www.edition.cnn.com/2024/05/10/tech/cyberattack-ascension-ambulances-hospitals/index.html",
+    "https://www.about.ascension.org/en/cybersecurity-event",
+    "http://www.doublepulsar.com/black-basta-ransomware-group-extorts-capita-with-stolen-customer-data-capita-fumble-response-9c3ca6c3b283",
+    "https://h-isac.org/black-basta-threat-actor-emerges-as-a-major-threat-to-the-healthcare-industry"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-14T00:58:38.513+03:00",
+  "updated": "2024-06-21T01:47:10.959+03:00"
+}

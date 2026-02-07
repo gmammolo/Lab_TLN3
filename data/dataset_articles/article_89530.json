@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "4c9f65701a478d3094cba65942e26c3e1c033f7b",
+    "url": "https://es.digitaltrends.com/computadoras/word-problemas-graves-escribir",
+    "site_full": "es.digitaltrends.com",
+    "site": "digitaltrends.com",
+    "site_section": "https://es.digitaltrends.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Digital Trends Español - Su fuente para las últimas noticias y comentarios sobre la tecnología",
+    "title": "Vaya problema: Word está sufriendo problemas graves al escribir - Digital Trends Español",
+    "title_full": "Vaya problema: Word está sufriendo problemas graves al escribir - Digital Trends Español",
+    "published": "2024-08-15T22:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://es.digitaltrends.com/wp-content/uploads/2022/01/gettyimages-1234250258.jpg?resize=1200%2C630&amp;p=1",
+    "performance_score": 0,
+    "domain_rank": 735,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4c9f65701a478d3094cba65942e26c3e1c033f7b",
+  "url": "https://es.digitaltrends.com/computadoras/word-problemas-graves-escribir",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Diego Bastarrica",
+  "published": "2024-08-15T22:54:00.000+03:00",
+  "title": "Vaya problema: Word está sufriendo problemas graves al escribir - Digital Trends Español",
+  "text": "Digital Trends Español Un problema gravísimo está afectando a algunos usuarios con el popular procesador de textos de Microsoft Office : Word . Esto porque una actualización de Windows generó un error al escribir.\nDespués de actualizar a la versión 2407 (compilación 17830.20138) o posterior, puede encontrarse con que Outlook, Word o OneNote pueden cerrarse inesperadamente al escribir o realizar otras tareas de creación, como la revisión ortográfica.\nRecommended Videos Una confirmación del error podría estar en el registro de aplicaciones del Visor de eventos de Windows para el evento 1000 o el evento 1001 y los detalles del evento siguiente: Nombre de la aplicación con errores: OUTLOOK.EXE, versión: 16.0.17830.20138, marca de tiempo: 0x66aaad8c Nombre del módulo con errores: mscss7it.dll, versión: 16.0.12527.20122, marca de tiempo: 0x5e439ea1 Código de excepción: 0xc 5 Desplazamiento con errores: 0x 3e518 Id. del proceso con errores: 0x0x51B0 Hora de inicio de la aplicación con errores: 0x0x1DAE97DD89190C3\nEsto específicamente está precedido de una actualización de los paquetes de idiomas de Word, y de los demás programas. Donde idiomas como italiano o alemán están provocando fallos.\nCómo solucionar la falla de Word Outlook y Los equipos de Office están investigando el problema.\nPara resolver el problema, haga lo siguiente:\nRealice una reparación en línea de la aplicación de Office, Reparar una aplicación de Office . Desinstala y vuelve a instalar el paquete de idioma, consulta «Paso 2: Configurar el idioma de Microsoft 365», Paquete accesorio de idioma para Microsoft 365 . Recomendaciones del editor Google está reparando un grave problema en Android TV Esta actualización de iPhone arregla problema grave de Apple Pay Cómo Word ha cambiado en 40 años la forma en que escribimos El grave error al estilo GOT de The Last of Us capítulo 6 WordPress: millones de sitios reciben parche por falla crítica",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://support.microsoft.com/es-es/office/paquete-accesorio-de-idioma-para-microsoft-365-82ee1236-0f9a-45ee-9c72-05b026ee809f",
+    "https://capi.connatix.com/tr/si?token=",
+    "https://support.microsoft.com/es-es/office/reparar-una-aplicaci%C3%B3n-de-office-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b",
+    "https://live.primis.tech/live/liveView.php?s=${playerId}&schain=1.0,1!fabrik.com,60,1&playerApiId=${playerId}`;",
+    "https://www.live.primis.tech/live/liveView.php?s=${playerId}&schain=1.0,1!fabrik.com,60,1&playerApiId=${playerId}`;",
+    "https://capi.connatix.com/tr/si",
+    "https://www.support.microsoft.com/es-es/office/reparar-una-aplicaci%C3%B3n-de-office-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b",
+    "https://www.capi.connatix.com/tr/si?token=",
+    "https://www.support.microsoft.com/es-es/office/paquete-accesorio-de-idioma-para-microsoft-365-82ee1236-0f9a-45ee-9c72-05b026ee809f",
+    "https://live.primis.tech/live/liveView.php"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T01:04:24.264+03:00",
+  "updated": "2024-08-16T01:04:24.264+03:00"
+}

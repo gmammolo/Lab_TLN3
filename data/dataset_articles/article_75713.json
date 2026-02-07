@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "9809eb6ca12ed8d2de9552fb9ba304563e44ea4e",
+    "url": "https://www.googlenestcommunity.com/t5/Home-Automation/Google-Nest-Cam-Outdoor-or-Indoor-Battery-as-Trigger-For-Lights-IF-Off-and/m-p/668618",
+    "site_full": "www.googlenestcommunity.com",
+    "site": "googlenestcommunity.com",
+    "site_section": "https://www.googlenestcommunity.com/unqkr23473/rss/Community?interaction.style=review&feeds.replies=true",
+    "site_categories": [],
+    "section_title": "rss.livelink.posts-in-node",
+    "title": "Re: Google Nest Cam (Outdoor or Indoor, Battery) as Trigger For Lights IF Off and IF Night",
+    "title_full": "Re: Google Nest Cam (Outdoor or Indoor, Battery) as Trigger For Lights IF Off and IF Night",
+    "published": "2025-01-10T01:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.googlenestcommunity.com/html/assets/Google_G_192.png",
+    "performance_score": 0,
+    "domain_rank": 58304,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9809eb6ca12ed8d2de9552fb9ba304563e44ea4e",
+  "url": "https://www.googlenestcommunity.com/t5/Home-Automation/Google-Nest-Cam-Outdoor-or-Indoor-Battery-as-Trigger-For-Lights-IF-Off-and/m-p/668618",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "TwisUp Community Member",
+  "published": "2025-01-10T01:30:00.000+02:00",
+  "title": "Re: Google Nest Cam (Outdoor or Indoor, Battery) as Trigger For Lights IF Off and IF Night",
+  "text": "Monday - last edited Monday\nHi All,\nI have a Nest Doorbell Cam (1st Gen) and just picked up a Google Nest Cam (Outdoor or Indoor, Battery) to look at the driveway. I want to do a fairly standard automation on either of them.\nIf Motion\nand\nIf night\nand\nIf Porch light off\nThen\nturn on porch light.\nwait 5 mins then turn off porch light\nThe part I cannot figure out is the part in red. The reason it is important because I have another automation turning on porch lights at sunset and turning them off at 9PM. The issue is if there was motion between sunset and 9PM then it would turn off the light after 5 mins. If the light is already on, I want it left on.\nThanks in advance.\nMy only experience with automations is via the App on my Android phone.\nThanks\nTwisUp\n6m ago - last edited 2m ago\nHi TwisUp,\nThanks for reaching out to our community.\nI’m sorry to hear that you cannot figure out the command “If Porch lights off” in the automation you’re creating to manage your Nest Doorbell Cam (1st Gen) and a Google Nest Cam (Outdoor or Indoor Battery) to look at the driveway. It is my pleasure to help you to find the answer.\nBased on the information you provided me, I recommend you go to the Google Developer Center, where you can find the Google Automations Script Editor to customize your automation.\nIf you need further assistance with your Google Nest products, please feel free to contact us whenever you need it.\nBest regards,\nVirna.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:32:25.582+02:00",
+  "updated": "2025-01-10T01:32:25.582+02:00"
+}

@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "9764fb69a0e30f5fa2971086ebf057f7da942ff1",
+    "url": "https://www.lemagit.fr/actualites/366616237/Ransomware-Hunters-International-decentralise-le-stockage",
+    "site_full": "www.lemagit.fr",
+    "site": "lemagit.fr",
+    "site_section": "https://www.lemagit.fr/rss/ContentSyndication.xml",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Ransomware : Hunters International décentralise le stockage",
+    "title": "Ransomware : Hunters International décentralise le stockage | LeMagIT",
+    "title_full": "Ransomware : Hunters International décentralise le stockage | LeMagIT",
+    "published": "2024-11-22T09:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.lemagit.fr/rms/LeMagIT/hunters_international.jpg",
+    "performance_score": 0,
+    "domain_rank": 48693,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9764fb69a0e30f5fa2971086ebf057f7da942ff1",
+  "url": "https://www.lemagit.fr/actualites/366616237/Ransomware-Hunters-International-decentralise-le-stockage",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Valéry Rieß-Marchive",
+  "published": "2024-11-22T09:46:00.000+02:00",
+  "title": "Ransomware : Hunters International décentralise le stockage | LeMagIT",
+  "text": "Le fichier s’appelle « storage_linux_x64 ». Il s’agit d’un exécutable pour Linux. Il figure parmi les données de deux victimes d’affidés de la franchise de rançongiciel Hunters International. Il n’est pas anodin.\nSon descriptif explique que « Storage Software vous permet de partager l’accès aux données exfiltrées, catégoriser les documents et faire des révélations au travers de notre site Web sans avoir besoin de les uploader où que ce soit. Les données restent sur votre serveur ».\nAutrement dit, ce logiciel développé par Hunters International et mis à la disposition de ses affidés leur permet de divulguer les données volées à leurs victimes sur le site vitrine de l’enseigne, sans en perdre le contrôle.\nL’outil, tout juste découvert , permet de commander à distance la destruction des données en question – par la victime elle-même après paiement, dans l’interface de négociation . Mais ce logiciel permet aussi aux affidés de maintenir une infrastructure décentralisée de stockage des données de leurs victimes : « vous pouvez exécuter autant de copies, pointant vers différents dossiers, pour servir autant d’entreprises [victimes, N.D.L.R.] que vous en avez besoin ».\nL’utilisation de l’outil nécessite Tor, le point de terminaison de l’infrastructure de la franchise étant un nom de domaine en .onion. Un tel point de terminaison est codé en dur dans l’exécutable, mais celui-ci peut en accepter un autre. L’accès au point de terminaison est sécurisé par jeton.\nMessage d’aide de l’outil de stockage décentralisé de Hunters International. Le site vitrine de Hunters International a été découvert à l’automne dernier . Très vite, des liens avec Hive ont été repérés, par le chercheur rivitna , et à partir de l’analyse du code source du ransomware utilisé par Hunters International. Les équipes de Glimps ont fait les mêmes observations .\nLe 24 octobre dernier, Hunters International a toutefois réfuté toute affiliation directe avec Hive, assurant que « tous les codes sources de Hive ont été vendus, y compris le site Web et les anciennes versions Golang et C, et nous sommes ceux qui les ont achetés ». Le groupe a néanmoins récemment été surpris en plein recyclage de données issues de cyberattaques précédemment conduites sous bannière Hive .\nEt justement, fin janvier 2023, l’infrastructure de Hive avait été saisie à l’occasion d’une vaste opération judiciaire internationale . La décentralisation du stockage des données volées à ses victimes permet à Hunters International d’éviter que les forces de l’ordre ne mettent la main dessus, si une éventuelle compromission de son infrastructure devait advenir.\nL’examen des divulgations de données sous la bannière de Hunters International suggère que cet outil de décentralisation du stockage est utilisé depuis les débuts de l’enseigne : les données attribuées à plus de 70 de ses victimes – dont les 26 premières – sont inaccessibles à la vitrine de la franchise.\nCe chiffre suggère en outre une large adoption de l’outil parmi les affidés de Hunters International : l’enseigne a été utilisée pour la revendication de 242 victimes à cette date, dont près de 200 pour lesquelles des données ont été divulguées. Et en plus de celles dont les données apparaissent « déconnectées », il faut vraisemblablement compter avec celles pour lesquelles la latence de chargement des arborescences s’avère élevée.\nArticle initialement publié le 22 novembre 2024, mis à jour le 25 novembre 2024.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.glimps.fr/hunters-international-un-nouvel-ancien-ransomware/",
+    "https://x.com/ValeryMarchive/status/1859944462652412170",
+    "https://www.x.com/ValeryMarchive/status/1859944462652412170",
+    "https://glimps.fr/hunters-international-un-nouvel-ancien-ransomware/",
+    "https://www.glimps.fr/hunters-international-un-nouvel-ancien-ransomware"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T16:16:51.714+02:00",
+  "updated": "2024-11-27T13:12:06.994+02:00"
+}

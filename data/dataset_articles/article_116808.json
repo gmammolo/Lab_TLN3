@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "f8b087c349701134287da0656962488bd25e4076",
+    "url": "https://www.mittelbayerische.de/nachrichten/bayern/wetterdienst-rechnet-mit-starkregen-in-bayern-19372745",
+    "site_full": "www.mittelbayerische.de",
+    "site": "mittelbayerische.de",
+    "site_section": "https://donaukurier.de/newsticker",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Newsticker | donaukurier.de - aktuelle Nachrichten aus den Landkreisen der Region",
+    "site_title": "mittelbayerische.de | Nachrichten aus der Oberpfalz und aus der ganzen Welt",
+    "title": "Wetterdienst rechnet mit Starkregen in Bayern",
+    "title_full": "Wetterdienst rechnet mit Starkregen in Bayern",
+    "published": "2025-08-28T08:49:53.578+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.mittelbayerische.de/ezplatform/images/_aliases/detail_teaser_item_image_variation/2/4/2/7/401817242-1-ger-DE/22d9be418c08-fmb2i5yd5n-v5-ax-s2048.jpeg",
+    "performance_score": 0,
+    "domain_rank": 20924,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f8b087c349701134287da0656962488bd25e4076",
+  "url": "https://www.mittelbayerische.de/nachrichten/bayern/wetterdienst-rechnet-mit-starkregen-in-bayern-19372745",
+  "ord_in_thread": 0,
+  "author": "DPA",
+  "published": "2025-08-28T08:49:53.578+03:00",
+  "title": "Wetterdienst rechnet mit Starkregen in Bayern",
+  "text": "Der Deutsche Wetterdienst rechnet im Freistaat mit viel Regen und teils starken Schauern. Einige Gebiete sind besonders betroffen.\nZum Ende des Augusts sollten die Menschen in Bayern lieber auf Regenschirm und Jacke statt Sonnenbrille setzen. Laut dem Deutschen Wetterdienst (DWD) wird es auch in den kommenden Tagen nass im Freistaat.\nIm Laufe des Tages sollen die Schauer vom Westen über das ganze Land ziehen. Dabei ist vor allem in Unterfranken zunächst mit Starkregen zu rechnen. Laut Prognose sollen zwischen 20 und 35 Liter Regen innerhalb weniger Stunden fallen - lokal seien auch bis zu 50 Liter möglich. Im Laufe der Nacht werden ähnliche Regenmengen südlich der Donau erwartet. Zu Gewittern kommt es aber nur vereinzelt. Die Temperaturen erreichen Höchstwerte von 18 Grad im Allgäu und bis zu 27 Grad an der unteren Donau.\nAm Freitag wird es kälter und die Höchsttemperaturen liegen zwischen 18 und 24 Grad. Laut DWD lässt der Regen nach. Am Nachmittag seien vor allem im Südosten einzelne Schauer oder Gewitter möglich, hieß es. Auch am Samstag soll es immer wieder einzelne Schauer geben.\n© dpa-infocom, dpa:250828-930-964946/1\nArtikel kommentieren",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather forecast",
+    "Weather->weather phenomena"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://player.glomex.com/variant/40599w1tl6mbzpqd/variant.css",
+    "https://www.player.glomex.com/variant/40599w1tl6mbzpqd/variant.css"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Unterfranken",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bayern",
+        "sentiment": "none"
+      },
+      {
+        "name": "Allgäu",
+        "sentiment": "none"
+      },
+      {
+        "name": "Donau",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutsche Wetterdienst",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Deutschen Wetterdienst",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T08:49:53.578+03:00",
+  "updated": "2025-08-28T08:53:02.000+03:00"
+}

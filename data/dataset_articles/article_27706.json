@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "a06c90b532f07d9236c9a9253d88a15dbb835429",
+    "url": "https://www.europapress.es/asturias/noticia-controlado-incendio-forestal-llonin-penamellera-alta-20251106103028.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://europapress.es/sociedad",
+    "site_categories": [
+      "media",
+      "top_news_es",
+      "top_news_pe",
+      "top_news"
+    ],
+    "section_title": "\r\n\tNoticias sociales de hoy | EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "Controlado el incendio forestal de Llonín, en Peñamellera Alta",
+    "title_full": "Controlado el incendio forestal de Llonín, en Peñamellera Alta",
+    "published": "2025-11-06T11:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251106103028_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a06c90b532f07d9236c9a9253d88a15dbb835429",
+  "url": "https://www.europapress.es/asturias/noticia-controlado-incendio-forestal-llonin-penamellera-alta-20251106103028.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press Asturias",
+  "published": "2025-11-06T11:30:00.000+02:00",
+  "title": "Controlado el incendio forestal de Llonín, en Peñamellera Alta",
+  "text": "OVIEDO 6 Nov. (EUROPA PRESS) -\nEl jefe de zona del oriente de Bomberos de Asturias ha dado por controlado a las 9.37 horas el incendio forestal de Llonín, en Peñamellera Alta, uno de los que permanecían activos este jueves.\nEn las labores de extinción en el mencionado incendio ha participado un helicóptero del Servicio de Emergencias del Principado de Asturias (SEPA).\nTambién han permanecido efectivos trabajando la pasada en las labores de extinción en los incendios forestales de Coaña y Llanes, según información del SEPA recogida por Europa Press.\nÚltimas noticias sobre estos temas\nContenido patrocinado",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Environment",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Environment->nature",
+    "Environment->conservation",
+    "Disaster and Accident->fire"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Llanes",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Peñamellera",
+        "sentiment": "none"
+      },
+      {
+        "name": "Llonín",
+        "sentiment": "none"
+      },
+      {
+        "name": "Coaña",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Bomberos de Asturias",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Europa Press",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_es",
+      "top_news_pe",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-06T11:36:37.271+02:00",
+  "updated": "2025-11-07T12:14:15.000+02:00"
+}

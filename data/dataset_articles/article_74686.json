@@ -1,0 +1,67 @@
+{
+  "thread": {
+    "uuid": "ddfae367fc976c6b5c9304f1341c5840b15ca054",
+    "url": "https://www.safetydetectives.com/news/nso-group-used-whatsapp-exploits-to-deploy-pegasus-spyware",
+    "site_full": "www.safetydetectives.com",
+    "site": "safetydetectives.com",
+    "site_section": "https://www.safetydetective.com/feed",
+    "site_categories": [],
+    "section_title": "SafetyDetectives",
+    "title": "NSO Group Used WhatsApp Exploits to Deploy Pegasus Spyware",
+    "title_full": "NSO Group Used WhatsApp Exploits to Deploy Pegasus Spyware",
+    "published": "2024-11-22T01:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.safetydetectives.com/wp-content/themes/comparison/assets/img/share_image.png",
+    "performance_score": 0,
+    "domain_rank": 13676,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ddfae367fc976c6b5c9304f1341c5840b15ca054",
+  "url": "https://www.safetydetectives.com/news/nso-group-used-whatsapp-exploits-to-deploy-pegasus-spyware",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Paige Henley",
+  "published": "2024-11-22T01:39:00.000+02:00",
+  "title": "NSO Group Used WhatsApp Exploits to Deploy Pegasus Spyware",
+  "text": "Paige Henley\nPublished on: November 21, 2024\nPublished on: November 21, 2024\nRecent court filings in Meta’s lawsuit against Israeli spyware vendor NSO Group have revealed shocking details about how NSO exploited WhatsApp’s vulnerabilities to deliver its Pegasus spyware.\nDespite Meta suing the company in October 2019, NSO continued to develop and deploy zero-click exploits, including one called “Erised,” which remained active until at least May 2020. These attacks allowed Pegasus to infect devices without user interaction, compromising the privacy of thousands globally.\nThe documents expose NSO’s methods, including reverse-engineering WhatsApp’s code to create exploits like “Heaven” and “Eden.” The spyware leveraged WhatsApp’s servers to redirect targeted devices to NSO-controlled systems, bypassing security defenses. When WhatsApp implemented server-side updates in 2018, NSO adapted, creating new tools to maintain access.\n“They developed those exploits by extracting and decompiling WhatsApp’s code, reverse-engineering WhatsApp, and designing and using their own ‘WhatsApp Installation Server’ (or ‘WIS’) to send malformed messages (which a legitimate WhatsApp client could not send) through WhatsApp servers and thereby cause target devices to install the Pegasus spyware agent—all in violation of federal and state law and the plain language of WhatsApp’s Terms of Service,” the released documents stated.\nOne exploit tracked as CVE-2019-3568 targeted 1,400 devices in May 2019. After WhatsApp strengthened its defenses, NSO pivoted to “Eden,” a more sophisticated attack using WhatsApp’s own relay servers.\nContrary to NSO’s claims that its spyware is client-operated to combat terrorism and crime, the filings show that NSO controlled the entire process. Clients provided a phone number, and NSO managed the installation, surveillance, and data retrieval. Victims of Pegasus include journalists, activists, and government officials, sparking global concerns about misuse.\nThe implications extend beyond this lawsuit. Apple, which has enhanced iOS security with tools like Lockdown Mode, recently dropped its own lawsuit against NSO, citing concerns about revealing sensitive threat intelligence. Meanwhile, WhatsApp continues to strengthen defenses, but the persistence of NSO’s spyware highlights the challenges of protecting users from commercial surveillance.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T02:33:06.429+02:00",
+  "updated": "2024-11-22T02:33:06.429+02:00"
+}

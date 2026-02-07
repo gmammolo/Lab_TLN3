@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "8096b1e24164f46c4b74a1deb713fac39f1c7d12",
+    "url": "https://www.stuttgarter-zeitung.de/inhalt.wasenwetter-3-oktober-langes-wochenende-baden-wuerttemberg.0a0a653a-5c83-423a-a8e0-9329deda4b84.html",
+    "site_full": "www.stuttgarter-zeitung.de",
+    "site": "stuttgarter-zeitung.de",
+    "site_section": "http://www.stuttgarter-zeitung.de/stuttgart.rss.feed",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Stuttgarter Zeitung - Stuttgart",
+    "site_title": "Aktuelle Nachrichten",
+    "title": "Gutes Wasenwetter zum 3. Oktober?",
+    "title_full": "Gutes Wasenwetter zum 3. Oktober?",
+    "published": "2025-10-02T09:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.stuttgarter-zeitung.de/media.media.a4556641-ff2b-4ca8-a6df-15e2e8cf9045.original1024.jpg",
+    "performance_score": 0,
+    "domain_rank": 7306,
+    "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8096b1e24164f46c4b74a1deb713fac39f1c7d12",
+  "url": "https://www.stuttgarter-zeitung.de/inhalt.wasenwetter-3-oktober-langes-wochenende-baden-wuerttemberg.0a0a653a-5c83-423a-a8e0-9329deda4b84.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-02T09:14:00.000+03:00",
+  "title": "Gutes Wasenwetter zum 3. Oktober?",
+  "text": "Regen, Wind und kühlere Temperaturen – herbstliche Tage zum langen Wochenende 01.10.2025 - 16:31 Uhr , aktualisiert am 02.10.2025 - 08:14 Uhr Am Wochenende soll es regnen. Ein Regenschirm kann helfen. (Symbolbild) Foto: Marijan Murat/dpa",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather forecast",
+    "Weather->weather phenomena"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Marijan Murat",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-02T11:05:50.772+03:00",
+  "updated": "2025-10-03T12:04:47.000+03:00"
+}

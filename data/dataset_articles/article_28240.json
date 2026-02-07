@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "c09344049788a762eb2069cc8c9a26f67f330d65",
+    "url": "https://www.irishtimes.com/science/2025/12/04/irish-led-research-team-develops-bacteria-based-sensors-to-detect-forever-chemicals/",
+    "site_full": "www.irishtimes.com",
+    "site": "irishtimes.com",
+    "site_section": "https://www.irishtimes.com/latest",
+    "site_categories": [
+      "media",
+      "top_news_ie",
+      "top_news"
+    ],
+    "section_title": "Latest Stories | Breaking News, Analysis &amp; Features | The Irish Times",
+    "site_title": "The Irish Times | Latest news and headlines - Irish news, world news, video and podcasts",
+    "title": "Irish-led research team develops bacteria-based sensors to detect 'forever chemicals'",
+    "title_full": "Irish-led research team develops bacteria-based sensors to detect 'forever chemicals'",
+    "published": "2025-12-04T08:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IE",
+    "main_image": "https://www.irishtimes.com/resizer/v2/S23GMVWUBRHXLM5PWOF2DY3A4U.jpg?smart=true&amp;auth=482650030eb09b7940a754ea323d5979937a0ed013090b85235ed04787b9ed17&amp;width=1200&amp;height=630",
+    "performance_score": 1,
+    "domain_rank": 2884,
+    "domain_rank_updated": "2025-11-30T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 15,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c09344049788a762eb2069cc8c9a26f67f330d65",
+  "url": "https://www.irishtimes.com/science/2025/12/04/irish-led-research-team-develops-bacteria-based-sensors-to-detect-forever-chemicals/",
+  "ord_in_thread": 0,
+  "author": "Caroline O'Doherty",
+  "published": "2025-12-04T08:00:00.000+02:00",
+  "title": "Irish-led research team develops bacteria-based sensors to detect 'forever chemicals'",
+  "text": "A breakthrough led by Irish researchers has developed bacteria that can detect the presence of forever chemicals in soil and water and transmit the information in real time.\nIt is hoped that the development will be a big step forward in efforts to locate and eradicate the chemicals that are accumulating rapidly in the environment.\nThe Tyndall Institute at University College Cork is leading the Biosensei project, combining expertise from seven other universities and research centres in Europe.\nProf Alan O’Riordan of Tyndall secured funding for it from the European Commission and assembled the expert consortium.\n“It is a privilege to be working with them on such an important development which will protect future generations,” he said.\nPer- and polyfluoroalkyl substances (PFAS) are called forever chemicals because they do not degrade naturally in the environment but continue building up to levels scientists fear pose a serious public health risk.\nThere are thousands of them and they are widely used to coat everyday items of cookware, clothing and furnishings to make them non-stick, waterproof, fire resistant and stain resistant.\nEventually, they make their way into wastewater and from there into waterways used as drinking water sources and into soils used for food production.\nUp to now, detecting them required taking samples to laboratories, which is a lengthy process and is only useful in known areas of contamination or in small areas of static water or soils.\nThe Biosensei consortium has developed a matchbox-sized device containing bacteria that can be genetically modified to react to the presence of the chemicals.\nThey set off sensors that relay continuous data in real time to researchers monitoring remotely.\nWageningen University in the Netherlands led the work on the bacteria while the Tyndall Institute created the microscopic sensors which, at their longest, measure about the width of a strand of hair.\nThe device is being prepared for field testing at sites in the Netherlands and at Harper’s Island Wetlands reserve in Cork Harbour.\n“We’ve delivered proof of concept and we’re only halfway through a three-year project,” said Prof O’Riordan.\nA ready market awaits the technology, in wastewater treatment plants.\n“A company we know is working on chemical degradation of PFAS but they need to know where they are so they can target them and they need to know they’ve got rid of them at the other end so they need accurate, real-time detection.\n“There’ll be more and more remediation technologies coming to market in the coming years and they’ll be targeting different contaminants – pharmaceuticals, for example, which are also in the water,” says Prof O’Riordan.\n“We’ll be able to adjust the bacteria to react to all sorts of substances that you need to find.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "topics": [
+    "Science and Technology->chemistry",
+    "Science and Technology->biotechnology",
+    "Environment->water pollution",
+    "Environment->environmental pollution"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alan O’Riordan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "European Commission",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_ie",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Dublin"
+      ],
+      "state": [
+        "Ireland"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-04T09:33:58.063+02:00",
+  "updated": "2025-12-05T10:11:39.000+02:00"
+}

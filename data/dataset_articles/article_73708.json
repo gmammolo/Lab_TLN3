@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "6f0111b60547dc957fea1452c6a3442ee25bde4a",
+    "url": "https://itbrief.com.au/story/study-shows-ai-in-software-testing-yet-to-boost-efficiency",
+    "site_full": "itbrief.com.au",
+    "site": "itbrief.com.au",
+    "site_section": "https://itbrief.com.au",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "IT Brief Australia - Technology news for CIOs &amp; IT decision-makers",
+    "title": "Study shows AI in software testing yet to boost efficiency",
+    "title_full": "Study shows AI in software testing yet to boost efficiency",
+    "published": "2024-11-15T04:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://itbrief.com.au/uploads/story/2024/11/14/compatible_techday_9645108f043a2e1f5859.jpg",
+    "performance_score": 0,
+    "domain_rank": 78076,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6f0111b60547dc957fea1452c6a3442ee25bde4a",
+  "url": "https://itbrief.com.au/story/study-shows-ai-in-software-testing-yet-to-boost-efficiency",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Shannon Williams",
+  "published": "2024-11-15T04:01:00.000+02:00",
+  "title": "Study shows AI in software testing yet to boost efficiency",
+  "text": "A new study conducted by Rainforest QA involving 600 developers from the United States, Canada, the United Kingdom, and Australia, details the current testing practices and the disruptive role of GenAI, automation, and no-code tools in the software testing landscape traditionally dominated by open-source frameworks. The report, titled \"The State of Software Test Automation in the Age of AI,\" highlights several key findings regarding test maintenance, the role of generative AI, and the effectiveness of no-code tools in test automation. According to the findings, 81% of respondents incorporate generative AI into their software testing workflows. However, despite the widespread adoption and increased trust in AI, many teams do not see significant productivity gains, particularly in the areas of test creation and maintenance.\nThe study reveals that more than half of the respondents (56%) have increased trust in the accuracy of generative AI output over the past year, while 52% report greater trust in its security. However, developers using AI still spend considerable time on test maintenance tasks, suggesting that while AI adoption is high, its anticipated productivity benefits have not yet materialised. As noted, \"To be able to maintain automated tests, especially with a small dev team, just takes time,\" a sentiment echoed by a Software Engineering Lead.\nMike Sonders, associated with the study, commented, \"Open-source teams using AI are still spending just as much — if not more — time on painful test writing and maintenance tasks than ones not using AI.\" This is despite the hope that AI could alleviate the time-consuming nature of these tasks.\nThe report also underscores the prevalent use of open-source frameworks, with over 90% of respondents indicating their integration within their testing processes. However, it notes that these frameworks often require more time for test creation and maintenance compared to no-code tools. For mid-sized teams of 11-30 developers, for instance, 42% using open-source frameworks spend more than 20 hours on test tasks, compared to only 10% of those utilizing no-code tools.\nMoreover, the study shows that for larger teams exceeding 50 developers, 75% of those using open-source tools invest over 20 hours on maintenance, as opposed to 50% of teams using no-code solutions.\nOpen-source frameworks' demands are particularly challenging for smaller teams, where keeping end-to-end (E2E) test suites current is less common. Only 75% of teams with fewer than 10 developers report keeping their test suites updated, a figure that jumps to 93% with the adoption of no-code solutions.\nDespite the limited time savings in test maintenance, AI appears to provide some advantages for the smallest teams. They are 22% more likely to keep their tests up to date than those not using AI.\nThe report states that hiring QA engineers becomes a priority as development teams grow. Among teams with 6-10 developers, 72% hire QA engineers, although many teams, regardless of size, continue to involve their developers in test automation. \"In the past, we gave up on testing the front end with open source because it was too difficult to maintain and the tests were very often broken,\" said an Engineering Manager, exemplifying the difficulties faced in open-source testing environments.\nGiven the insights from the report, it is clear that while AI is broadly accepted, its current implementation does not significantly reduce the effort required for test maintenance in open-source frameworks. As research continues and AI technologies evolve, the study suggests that more effective integration and innovation could eventually yield productivity breakthroughs. Meanwhile, teams are increasingly looking at no-code tools as a viable means to streamline their testing workflows, potentially freeing up more resources for development efforts.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "6f0111b60547dc957fea1452c6a3442ee25bde4a",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:45:11.411+02:00",
+  "updated": "2024-11-15T02:45:11.411+02:00"
+}

@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "06195ab89945e4da779d21e81a2f274d36afce70",
+    "url": "https://finance.sina.com.cn/stock/t/2025-12-25/doc-inhcywam9012682.shtml?cref=cj",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://finance.sina.cn?from=redirect",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": "æ°æµªè´¢ç»_éèä¿¡æ¯æå¡å",
+    "title": "字节Seed发布最强数学模型：一招\"打草稿\"，IMO银牌变金牌|数学_新浪财经_新浪网",
+    "title_full": "字节Seed发布最强数学模型：一招\"打草稿\"，IMO银牌变金牌|数学_新浪财经_新浪网",
+    "published": "2025-12-25T08:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 548,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "06195ab89945e4da779d21e81a2f274d36afce70",
+  "url": "https://finance.sina.com.cn/stock/t/2025-12-25/doc-inhcywam9012682.shtml?cref=cj",
+  "ord_in_thread": 0,
+  "author": "市场资讯",
+  "published": "2025-12-25T08:24:00.000+02:00",
+  "title": "字节Seed发布最强数学模型：一招\"打草稿\"，IMO银牌变金牌|数学_新浪财经_新浪网",
+  "text": "炒股就看 金麒麟分析师研报 ，权威，专业，及时，全面，助您挖掘潜力主题机会！\n（来源：量子位）\n字节最新数学推理专用模型，刚刚刷新战绩：拿下IMO金牌成绩。\nScaling Law 加持下，这个名为 Seed Prover 1.5 的模型，在16.5小时内，顺利解决IMO 2025的前5道题目，在仅失一题的情况下拿到35分，达到今年IMO的金牌线。\n这一成绩与7月官方认证的IMO金牌“选手”谷歌Gemini打平。而字节自己的前代模型，当时的成绩是3天完成了6道题目中的4道，以及一道题的部分证明，达到银牌成绩。\n同时，Seed Prover 1.5也在北美本科级别数学竞赛Putnam这一基准上，大幅刷新了SOTA成绩。\n模型尚未开源，但技术报告已经公开。\n值得关注的是，Seed Prover 1.5强调了大规模强化学习给数学模型带来的性能提升，也证明，在推理阶段增加计算资源，可以显著提高解题率。\n即，验证了测试时Scaling和强化学习训练时的Scaling的有效性。\n草稿引导的高效形式化证明\n具体来看技术报告。Seed Prover 1.5的参数规模与Seed 1.6相同，230B总参数，23B激活。\n主要创新有两点：\nAgentic Prover\n相较于通用模型用自然语言解答数学问题的方式，数学推理专用模型采用的是 形式化数学推理 ，也就是用Lean等形式语言，构建可在公理系统中机械验证的证明，以确保结果更加可靠。\n其难点在于，形式化证明比自然语言证明更加困难。根据“De Bruijn factor”经验法则，一行普通的数学推导，通常需要扩展成4到10行复杂的代码。\n这要求模型不仅懂数学，还要精通编程和类型论，而这一高门槛导致形式化证明在效率和成功率上一直远落后于自然语言推理。\n以往的研究中，形式化证明器通常分为两类：\nSeed Prover 1.5为了平衡两种方法的优缺点，提出了一种全新的Agentic Prover架构：\n模型将Lean语言视为一种工具，且在证明过程中可以自主地调用其他多种工具。\n这样一来，模型既可以像人类一样先使用“草稿纸”（自然语言）进行推理，又能够与Lean环境及多种工具进行交互，随时调用工具来验证猜想。\n就是说，Seed Prover 1.5采用的是 基于引理的交互方式 ，既不是一次性生成整个证明，也无需每一步都做交互验证。\n官方技术报告中还提到，Seed Prover 1.5进行了大规模的Agentic RL。\n实验证明，随着强化学习训练步数的增加，模型在训练集上的证明通过率从初始的50%升至接近90%。\nAgentic RL还带来了大幅的效率提升。在对比测试中，Seed Prover 1.5仅需少量的计算资源，就能在Putnam和Fate等高难度数据集上，击败消耗大量算力的上一代Seed Prover模型。\nSketch Model\n为了让模型能更好地“打草稿”，研究人员还专门训练了Sketch Model，来模拟人类数学家解决问题的方式：\n数学家在证明一个复杂定理时，通常不会直接写出每一步严丝合缝的代码。他们会先在纸上写下一个非形式化的证明草稿，列出关键的中间步骤、引理和大致思路。\nSketch Model同样不纠结于具体的语法细节，而是专注于逻辑路径的规划。它可以将自然语言证明拆解为若干个独立的、难度更低的引理，并暂时跳过具体证明，仅保留整体的逻辑骨架。\n这就将原本不可解的复杂命题，转化成了难度更低的子目标。\n研究人员采用混合奖励信号的强化学习策略，来训练这一模型：\n当草稿在形式验证、数学正确性和整体评分上均满足要求时，才会获得正向奖励。\n测试时工作流\n以上创新最终构成了一个分层级的多智能体协作系统：\n如果某个引理太难证明，系统还会递归地调用Sketch Model再次进行拆解。这不仅规避了长文本生成的错误累积问题，更提升了推理的并行度和成功率。\n研究人员还验证了这一工作流的测试时Scaling特性。\n如上图所示，投入更多的计算资源，Seed Prover 1.5对问题的解决率会呈对数线性增长。\n这项研究来自字节Seed AI4Math团队。\n量子位捕捉到了其中几位作者的踪迹。\nZheng Yuan，清华统计学博士。今年6月刚刚加入字节，此前在阿里Qwen团队负责对齐和推理方向工作。\nHanwen Zhu，本科毕业于牛津大学数学与计算机科学专业，目前在CMU读研，即将加入字节Seed。\n郑泽宇，CMU在读博士，字节Seed实习生，专业方向同样是数学与计算机科学联合方向。\n论文链接：\nhttps://arxiv.org/pdf/2512.17260\n参考链接：\n[1]https://mp.weixin.qq.com/s/vcciJWK9KfDBM4FBIJwTfw?click_id=2\n[2]https://x.com/GanjinZero/status/2001948751871815741\n— 完 —",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->mathematics",
+    "Education->students",
+    "Education->educational testing and examinations"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/GanjinZero/status/2001948751871815741",
+    "https://arxiv.org/pdf/2512.17260",
+    "https://mp.weixin.qq.com/s/vcciJWK9KfDBM4FBIJwTfw?click_id=2",
+    "https://www.arxiv.org/pdf/2512.17260",
+    "https://www.x.com/GanjinZero/status/2001948751871815741",
+    "https://www.mp.weixin.qq.com/s/vcciJWK9KfDBM4FBIJwTfw?click_id=2",
+    "https://mp.weixin.qq.com/s/vcciJWK9KfDBM4FBIJwTfw"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T08:26:32.879+02:00",
+  "updated": "2025-12-25T08:30:56.000+02:00"
+}

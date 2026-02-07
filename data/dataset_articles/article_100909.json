@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "35406faa102a840ea41bf5f47c19717cd8556131",
+    "url": "https://www.jpost.com/middle-east/article-815995",
+    "site_full": "www.jpost.com",
+    "site": "jpost.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "War could cost Lebanese economy $3 billion a month - The Jerusalem Post",
+    "title_full": "War could cost Lebanese economy $3 billion a month - The Jerusalem Post",
+    "published": "2024-08-23T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/617319",
+    "performance_score": 0,
+    "domain_rank": 943,
+    "domain_rank_updated": "2024-08-20T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 21,
+        "comments": 24,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "35406faa102a840ea41bf5f47c19717cd8556131",
+  "url": "https://www.jpost.com/middle-east/article-815995",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "JERUSALEM POST STAFF",
+  "published": "2024-08-23T03:00:00.000+03:00",
+  "title": "War could cost Lebanese economy $3 billion a month - The Jerusalem Post",
+  "text": "A war in Lebanon could cost the Lebanese economy up to $3 billion a month in direct and indirect losses, according to a report on Murr Television (MTV) Lebanon on Wednesday. ;The MTV report estimated that during the current fighting, the cost to the economy has been close to 10% of the national GDP per day, or $6 million a day. ;They estimate that if this prediction is accurate, the Lebanese economy has lost close to $2 billion since the start of the fighting.console.log(\"2390 BODY2. CatId is:\"+catID);if(catID==120){ console.log(\"2390 BODY. YES for anyclip script\"); var script = document.createElement('script'); script.src = 'https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js'; script.setAttribute('pubname','jpostcom'); script.setAttribute('widgetname','0011r00001lcD1i_12258'); document.getElementsByClassName('divAnyClip')[0].appendChild(script); }else if(catID !== 151) { let widgetid = \"60fd6becf6393400049e6535\"; if(catID === 69){ widgetid = \"65c3a2148772803523c6f41b\"; }else if(catID === 161){ widgetid = \"65c3a224fb10822a0a7db2dd\"; } console.log(\"2390 BODY. YES for vidazoo script\"); var script = document.createElement('script'); script.src = 'https://static.vidazoo.com/basev/vwpt.js'; script.setAttribute('data-widget-id', widgetid); document.getElementsByClassName('divVidazoo')[0].appendChild(script);} If an all-out war breaks out in Lebanon, the economic damage would be devastating, with the report estimating that the costs could reach $100 million a day, or 166% of GDP per day, amounting to $3 billion a month.The report says the war came at a terrible time for the Lebanese economy, which had only just started to recover from the immense financial and economic crises that have been plaguing the country since 2019. Dust rises as part of Beirut grain silos, damaged in the August 2020 port blast, collapses, in Beirut Lebanon July 31, 2022 (credit: REUTERS/MOHAMED AZAKIR)Crisis after crisisThe Lebanese economy is currently less than half the size it was before the series of crises struck the country, having been reduced to just under $18 billion (2023) from its peak of just under $55 billion (2018).After the financial crisis struck the country in 2019, the coronavirus pandemic hit it in 2020 along with the Beirut port explosion, followed by the commodity crisis resulting from the Russian invasion of Ukraine in 2022, leaving the country on extremely shaky ground economically. The report also said that unlike in 2006, the recovery is unlikely to be as swift or effective.In 2006, the Lebanese banking system was still strong, and the Lebanese Pound was still riding high; on top of this, the Gulf Arab states were much more willing to open up lines of credit to Lebanon.Despite this, the report claimed that there any war could allow for significant improvement in the economy in the long term if the recovery was well managed.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js&#x27;;",
+    "https://static.vidazoo.com/basev/vwpt.js&#x27;;",
+    "https://www.player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js&#x27;;",
+    "https://www.static.vidazoo.com/basev/vwpt.js&#x27;;"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "murr television",
+        "sentiment": "none"
+      },
+      {
+        "name": "mtv",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "lebanon",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-23T02:08:25.462+03:00",
+  "updated": "2024-08-23T02:08:25.462+03:00"
+}

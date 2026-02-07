@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "12c098ebaea0d9c13c42500fecbda31f6a952c47",
+    "url": "https://news.rambler.ru/tech/55139100-ft-deepseek-otlozhil-vypusk-novoy-modeli-iz-za-problem-s-chipami",
+    "site_full": "news.rambler.ru",
+    "site": "rambler.ru",
+    "site_section": "https://news.rambler.ru/rss/tech/latest/?limit=100",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "section_title": "Последние новости — Рамблер/новости",
+    "site_title": "Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас",
+    "title": "FT: DeepSeek отложил выпуск новой модели из-за проблем с чипами - Рамблер/новости",
+    "title_full": "FT: DeepSeek отложил выпуск новой модели из-за проблем с чипами - Рамблер/новости",
+    "published": "2025-08-14T10:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=55139100&amp;format=png",
+    "performance_score": 0,
+    "domain_rank": 1966,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "12c098ebaea0d9c13c42500fecbda31f6a952c47",
+  "url": "https://news.rambler.ru/tech/55139100-ft-deepseek-otlozhil-vypusk-novoy-modeli-iz-za-problem-s-chipami",
+  "ord_in_thread": 0,
+  "author": "Global Look Press",
+  "published": "2025-08-14T10:52:00.000+03:00",
+  "title": "FT: DeepSeek отложил выпуск новой модели из-за проблем с чипами - Рамблер/новости",
+  "text": "Китайская компания DeepSeek отложила выпуск новой модели своего чат-бота из-за проблем с чипами Huawei. © Global Look Press Как пишет газета Financial Times , ссылаясь на источники, власти КНР рекомендовали DeepSeek использовать китайские процессоры Ascend от Huawei вместо американских чипов от NVIDIA.\nПри разработке новой модели искусственного интеллекта специалисты DeepSeek столкнулись с техническими проблемами. Разработчикам пришлось использовать чипы NVIDIA для обучения, а на этапе тестирования готовой модели для генерации ответов прибегнуть к решениям от Huawei.\nПродолжение истории после рекламы\nПо данным источников, обучить ИИ-модель на чипах Ascend не удалось, но работы продолжаются.\nРанее газета сообщила, что NVIDIA и AMD согласились платить США 15% выручки от продажи чипов в Китае .\nBloomberg отмечал, что Китай призвал компании отказаться от процессоров NVIDIA H20 .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business service",
+    "Science and Technology->technology and engineering",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->social networking",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://russian.rt.com/business/news/1519426-ssha-vyruchka-chipy-kitai",
+    "https://www.ft.com/",
+    "https://globallookpress.com/",
+    "https://russian.rt.com/world/news/1519989-kitai-nvidia-processory",
+    "https://www.ft.com",
+    "https://www.russian.rt.com/business/news/1519426-ssha-vyruchka-chipy-kitai",
+    "https://ft.com/",
+    "https://globallookpress.com",
+    "https://www.russian.rt.com/world/news/1519989-kitai-nvidia-processory",
+    "https://www.globallookpress.com/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:01:33.939+03:00",
+  "updated": "2025-08-15T11:13:10.000+03:00"
+}

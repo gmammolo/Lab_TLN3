@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "45e49355dd74c4fbbee184def63512023bdc758d",
+    "url": "https://www.worldjournal.com/wj/story/122160/8939251",
+    "site_full": "www.worldjournal.com",
+    "site": "worldjournal.com",
+    "site_section": "https://www.worldjournal.com/wj",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "世界新聞網 : 一網帶您看遍世界",
+    "site_title": "世界新聞網 : 一網帶您看遍世界",
+    "title": "FT：DeepSeek新模型延後問世 問題出在華為晶片 還是得靠輝達",
+    "title_full": "FT：DeepSeek新模型延後問世 問題出在華為晶片 還是得靠輝達",
+    "published": "2025-08-14T10:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/08/14/32905269.jpg&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600",
+    "performance_score": 0,
+    "domain_rank": 32347,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "45e49355dd74c4fbbee184def63512023bdc758d",
+  "url": "https://www.worldjournal.com/wj/story/122160/8939251",
+  "ord_in_thread": 0,
+  "author": "世界新聞網",
+  "published": "2025-08-14T10:00:00.000+03:00",
+  "title": "FT：DeepSeek新模型延後問世 問題出在華為晶片 還是得靠輝達",
+  "text": "FT：DeepSeek新模型延後問世 問題出在華為晶片 還是得靠輝達\n中國人工智慧（AI）公司深度求索（DeepSeek）使用華為晶片訓練發生困難，被迫延後發表新模型，可見中國推動自家技術來取代美國面臨瓶頸。\n英國金融時報引述知情人士報導，DeepSeek今年1月推出R1模型後，在主管機關鼓勵下改用華為昇騰處理器（Ascend）來取代Nvidia輝達（另稱英偉達）晶片。\n但這家中國新創公司以昇騰晶片訓練R2模型時持續遭遇技術問題，不得不改用輝達晶片來訓練，華為晶片則用於推理（inference）。報導指出，這正是新模型原定5月發表卻延後的主因。\n金融時報引述中國業界人士指出，中國晶片在穩定性、晶片間連線速度和軟體水準方面都不如輝達的產品。\n據報導，華為曾派出工程團隊進駐 DeepSeek辦公室，協助該公司使用昇騰晶片開發R2模型。但知情人士說，即使華為駐點支援，DeepSeek仍未能在昇騰晶片上成功完成一次訓練。\n據知情人士透露，DeepSekk創辦人梁文峰曾在公司內部對R2進展表達不滿，並力促團隊投入更多時間打造更先進的模型，以維持該公司在AI領域的優勢。\n據報導，R2延後問世，也跟新版模型數據標記（data labeling）作業超過預期有關。中國媒體報導指出，R2模型可能最快在未來數周內發布。\n加州大學柏克萊校區AI研究員 Ritwik Gupta 說：「模型就像商品，很容易被替換。許多開發者現在都在用阿里巴巴的「通義千問3」（Qwen3），功能強大又靈活。」\n古普塔指出，通義千問3採用了DeepSeek的核心理念，例如能讓模型具備推理能力的訓練演算法，但在使用效率上做得更好。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->financial service",
+    "Politics->regulation of industry",
+    "Politics->economic policy",
+    "Politics->government policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:09:42.278+03:00",
+  "updated": "2025-08-14T10:23:39.000+03:00"
+}

@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "01aa69b2fd31586a0e6e00402d6ec245d2b068b3",
+    "url": "https://elchapuzasinformatico.com/2025/08/amd-culpa-bios-odm-sockets-quemados-placas-base-am5/",
+    "site_full": "elchapuzasinformatico.com",
+    "site": "elchapuzasinformatico.com",
+    "site_section": "https://elchapuzasinformatico.com/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "El Chapuzas Informático",
+    "site_title": "El Chapuzas Informático &#8902; Noticias de tecnología, reviews, concursos y entrevistas.",
+    "title": "AMD culpa a las BIOS de los sockets quemados en las placas AM5",
+    "title_full": "AMD culpa a las BIOS de los sockets quemados en las placas AM5",
+    "published": "2025-08-21T12:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://elchapuzasinformatico.com/wp-content/uploads/2025/08/AMD-responde-a-los-problemas-de-los-sockets-quemados-en-AM5-y-culpa-a-las-BIOS-ODM.jpg",
+    "performance_score": 0,
+    "domain_rank": 62982,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "01aa69b2fd31586a0e6e00402d6ec245d2b068b3",
+  "url": "https://elchapuzasinformatico.com/2025/08/amd-culpa-bios-odm-sockets-quemados-placas-base-am5/",
+  "ord_in_thread": 0,
+  "author": "Protector Indefinido",
+  "published": "2025-08-21T12:23:00.000+03:00",
+  "title": "AMD culpa a las BIOS de los sockets quemados en las placas AM5",
+  "text": "AMD culpa a las BIOS ODM de los sockets quemados en las placas base AM5: «No cumplen con nuestros valores recomendados»\nEl fuego es algo que, por desgracia en nuestro país, está de\nmoda debido a los incendios que estamos sufriendo, y precisamente,\nAMD también es consciente de ello, pero en sus placas base\ncon sockets quemados. En una visita a Corea del Sur por\nparte de David McAfee,\nvicepresidente de Gestión de Productos y Marketing del\nGrupo de Negocios de Clientes,\ny Travis\nKirsch, director sénior de\nProductos para Clientes del Grupo de Negocios de Clientes de los\nrojos, los compañeros de QuasarZone\ntuvieron un momento para entrevistarlos, donde ambos desvelaron\nqué está pasando en AM5. Según AMD, la culpa de los sockets\nquemados es por las BIOS ODM, ¿a qué se refieren\nexactamente?\nY no es fácil de asimilar ni parece tan sencillo de resolver como debería, puesto que, aunque tenemos \"culpables\", los problemas se siguen dando y los foros están ardiendo (tenía que hacer el chascarrillo) semanalmente sumando placas caídas a la causa. ¿Qué demonios está pasando realmente y por qué este tema no es algo del pasado en este laureado y querido socket de los rojos?\nAMD explica qué está pasando en AM5: las BIOS son las culpables de los sockets quemados\nVisita incendiaria (estoy onfire... ya paro) la de David McAfee y Travis Kirsch en Corea del Sur. La pregunta era obligada cuando ambos están delante de uno, ya que el problema no ha sido resuelto y visto lo visto, parece improbable: ¿por qué AMD sigue viendo cómo aumenta el número de sockets quemados tras las nuevas BIOS que iban a solucionar el problema?\nLa respuesta necesita más detalles, de eso no hay duda, pero esto es lo que dijeron ambos profesionales de AMD a modo \"muy diplomático\", como era de esperar:\nAMD se toma muy en serio la calidad. Por ello, colaboramos estrechamente con nuestros socios de placas base durante el desarrollo de productos y BIOS para garantizar que funcionen dentro de los límites de las especificaciones.\nEste problema surge porque algunas BIOS ODM no cumplen con los valores recomendados por AMD. La postura de AMD es, fundamentalmente, ofrecer productos de la más alta calidad mediante pruebas exhaustivas. Siempre recomendamos a todos actualizar la BIOS de su placa base a la última versión. Esto se debe a que incorpora funciones adicionales, mejoras de rendimiento y soluciones para la resolución de problemas.\nUna cosa a agregar es que una de las desventajas de la flexibilidad que ofrece AMD es que las plataformas de la competencia a menudo limitan la cantidad de combinaciones de placa base y CPU disponibles para una plataforma determinada.\nAMD, por otro lado, ofrece una amplia gama de combinaciones y también admite PBO y overclocking. Esto significa que existen numerosos escenarios posibles. Si bien se trata de un tema complejo, estamos trabajando estrechamente con nuestros socios para resolver los problemas y seguir desarrollando la plataforma.\n¿A qué se refiere AMD con eso de BIOS ODM y por qué son un problema?\nPartiendo de la base mínima para situar el problema, una BIOS ODM no es más que la que ha sido desarrollada como \"Original Design Manufacturer\", es decir por un fabricante que se encarga de diseñar este software para las placas base para otra empresa.\nAterrizando el término y la explicación breve: AMI, Phoenix, InsydeH2O o Award no están cumpliendo con los valores que había puesto AMD, y luego, los OEM, es decir, los fabricantes de las placas base que finalmente compramos, han añadidos sus capas y características especiales a sus modelos sin detectar los problemas que finalmente han sufrido los usuarios.\nPor lo tanto, son los creadores de BIOS ODM citados (entre otros, solo he nombrado los más conocidos y grandes) los que deben revisar su código y adaptarse a la normativa de AMD. Por eso, los dos directivos de AMD comentan que debemos actualizar las BIOS/UEFI para evitar los sockets quemados, porque supuestamente el problema está resuelto, o en vísperas de solventarse.\nLos foros igualmente siguen reportando casos,\nque bien podrían ser de placas a la venta y en las estanterías\nanteriores a las actualizaciones pertinentes. Por tanto, lo ideal\ncuando compres una placa base y montes tu PC es que actualices a la\núltima versión de BIOS en cuanto puedas, si no lleva ya la última\ndisponible, obviamente. Esperemos que todo se solucione de una vez\ny dejemos de hablar de este tema, porque está muy quemado 🙂",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://quasarzone.com/bbs/qn_report/views/471810",
+    "https://www.quasarzone.com/bbs/qn_report/views/471810"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Travis\nKirsch",
+        "sentiment": "none"
+      },
+      {
+        "name": "David McAfee",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "AMD",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "AMD",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "BIOS ODM",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:54:30.148+03:00",
+  "updated": "2025-08-21T12:59:34.000+03:00"
+}

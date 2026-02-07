@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "96535893da3f9a7584c1d997ff90c2eb4b431f11",
+    "url": "https://www.govinfosecurity.com/breach-roundup-reserachers-showcase-fortijumphigher-a-26813",
+    "site_full": "www.govinfosecurity.com",
+    "site": "govinfosecurity.com",
+    "site_section": "https://www.govinfosecurity.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Government info security news, training, education - GovInfoSecurity",
+    "title": "Breach Roundup: Reserachers Showcase 'FortiJumpHigher'",
+    "title_full": "Breach Roundup: Reserachers Showcase 'FortiJumpHigher'",
+    "published": "2024-11-14T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/breach-roundup-showcase_image-3-a-26813.jpg",
+    "performance_score": 0,
+    "domain_rank": 63364,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "96535893da3f9a7584c1d997ff90c2eb4b431f11",
+  "url": "https://www.govinfosecurity.com/breach-roundup-reserachers-showcase-fortijumphigher-a-26813",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@ISMG_News",
+  "published": "2024-11-14T02:00:00.000+02:00",
+  "title": "Breach Roundup: Reserachers Showcase 'FortiJumpHigher'",
+  "text": "[Cybercrime](https://www.govinfosecurity.com/cybercrime-c-416) , [Fraud Management & Cybercrime](https://www.govinfosecurity.com/fraud-management-cybercrime-c-409) , [Incident & Breach Response](https://www.govinfosecurity.com/incident-breach-response-c-40) Breach Roundup: Reserachers Showcase 'FortiJumpHigher' Also: Honeypot 'Jinn Ransomware,' Patch Tuesday and At Risk SectorsEvery week, ISMG rounds up cybersecurity incidents and breaches around the world. This week, Researchers say Fortinet didn't fully patch FortiJump, \"Jinn Ransomware\" was a set up, Microsoft Patch Tuesday and a Moody's warning over at-risk sectors. Also, a debt servicing firm breach, a DemandScience breach and a malicious tool targetint GitHub users. See Also: [Gartner Guide for Digital Forensics and Incident Response](https://www.govinfosecurity.com/whitepapers/gartner-guide-for-digital-forensics-incident-response-w-14302?rf=RAM_SeeAlso) Fortinet Devices Still At Risk of FortiJump: WatchTowr Firewall maker Fortinet didn't fully patch a flaw in its centralized management platform that allows hackers to execute arbitrary code or commands, say cybersecurity researchers from WatchTowr. In a Thursday [blog post](https://labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575/), vulnerability hunters wrote they were able to elevate privileges on FortiManager, the central management of FortiGate appliances. The platform has come attack under attack through an exploit dubbed \"FortiJump\" for which the Silicon Valley manufacturer released patches and mitigations in late October (see: [Fortinet Discloses Actively Exploited Zero-Day](/fortinet-discloses-actively-exploited-zero-day-a-26602)). The patch didn't prevent researchers from laterally moving from a FortiGate appliance to the management platform, WatchTowr wrote - setting up Fortinet environments for attacks should another zero day allow hackers unauthenticated access. \"This has the effect of changing the threat model for FortiManager installations considerably, since pwnership of any managed FortiGate appliance is easily elevated to FortiManger itself, and thus to all other managed appliances,\" WatchTowr wrote. The company dubbed its flaw \"FortiJumpHigher.\" The original FortiJump, tracked as [CVE-2024-4757](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-47575) took advantage of a setting allowing any known or unknown device to connect to FortiManager in order to inject malicious commands. Fortinet now requires registration before new devices can communicate with FortiManager, WatchTowr wrote - but analysis of the code base showed that the command injection vulnerability is unpatched. The company did write a patch to head off command injections, but reserachers were still able to achieve it. \"This implies that Fortinet have simply patched the wrong code, in the wrong file, in an entirely different library,\" WatchTowr wrote. Because of the corrections ot device registration, FortiJumpHigher is \"a post-authentication privilege escalation attack, instead of the full RCE that is FortiJump,\" WatchTowr said. Fortinet did not respond to a request for comment. 'Jinn Ransomware' Is A Honeypot A pen tester is claiming responsibility for spreading a fake ransomware builder on a criminal online forum frequented by hackers of varying ability. Cristian Cornea, founder of Zerotak, [wrote](https://corneacristian.medium.com/how-i-hacked-100-hackers-5c3c313e8a1a) Tuesday that he posed as a hacker named \"HeapCrash\" on BreachForums to distribute a backdoored builder for \"Jinn Ransomware.\" Cornea said a honeypot command and control center ended up receiving more than 100 connections. \"Always analyze the code within the samples of exploits and hacking tools taken from the Internet,\" he wrote. Microsoft Patches Four Zero-Day Exploits in November Microsoft's November Patch Tuesday addressed 89 vulnerabilities, including 4 zero-days, 2 of which are actively exploited. Among the critical flaws are two remote code execution, RCE, vulnerabilities and two elevation of privilege issues. The update also fixes a range of other vulnerabilities, including 26 EoP flaws, 2 security feature bypasses, 52 RCEs and 4 denial-of-service vulnerabilities. Microsoft fixed an NTLM hash disclosure spoofing vulnerability - [CVE-2024-43451](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-43451) - that allows remote attackers to retrieve NTLMv2 hashes with minimal user interaction, such as clicking or inspecting a malicious file. One cybersecurity company [observed](https://www.clearskysec.com/0d-vulnerability-exploited-in-the_wild/) the flaw being used to attack Ukrainian organizations. Another notable fix addresses [CVE-2024-49039](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-49039), a Microsoft Windows' Task Scheduler vulnerability that could allow attackers to elevate privileges from a low-privilege environment, enabling the execution of restricted code. Microsoft also patched other vulnerabilities that were publicly disclosed but not yet exploited. These include a spoofing vulnerability in Microsoft Exchange Server, [CVE-2024-49040](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49040), and an EoP flaw in Active Directory Certificate Services, [CVE-2024-49019](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49019). Telecom, Airlines and Utilities Face Rising Cyber Risks Telecommunications, airlines and utilities are at \"very high\" risk of hacking due to rapid digitization and insufficient security measures, said paywalled research from Moody's published on Tuesday. Telecommunications is the sector most at risk due to its systemic importance. Carriers have made substantial investments into digital transformation including migrating operations to the cloud, introducing new vulnerabilities, the report said. Sector firms are investing heavily in cybersecurity, but \"their efforts have yet to counteract their heightened risk exposure,\" is the Moody's assessment. Airlines' highly digital and increasingly interconnected ecosystem renders \"them susceptible to a range of cyberthreats targeting sensitive customer data.\" An industrywide reliance on third-party software introduces further vulnerabilities. Similarly, stepped up digitization by power and water utilities combined with their critical role in critical infrastructure make them targets for cyberattacks. Utilities are attempting to offset risks, but \"due to large differences in scale and regulatory support for cybersecurity cost recovery, there is wide variability in individual utilities' ability to maintain the same level of investment as other corporations and financial institutions.\" Set Forth Data Breach Exposes Sensitive Information of 1.5 Million Individuals Debt services firm Set Forth [said](https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5c00fedb-134a-4436-b778-5df30b84cdab.html) a data breach affected the personal information of 1.5 million people. Forth detected the breach on May 21 after \"suspicious activity\" on company systems. Following an investigation with third-party forensic experts, Set Forth identified that the compromised data includes customers' names, addresses, birth dates and Social Security numbers, as well as information related to their spouses, co-applicants and dependents. Data of 122 Million Exposed in DemandScience Leak Hackers [leaked](https://x.com/H4ckManac/status/1762838131055702398?) the personal contact details of 122 million professionals after breaching a B2B demand generation platform DemandScience, formerly known as Pure Incubation. Security expert Troy Hunt [confirmed](https://www.troyhunt.com/inside-the-demandscience-by-pure-incubation-data-breach/) the claim, which included names, addresses, email addresses, phone numbers, job titles and social media links, collected from public sources and third parties to aid in lead generation and marketing. A hacker named \"KryptonZambie\" in February began selling 132.8 million records on BreachForums, alleging the data was sourced from Pure Incubation. DemandScience initially denied evidence of a breach. KryptonZambie in August released the dataset for minimal cost. According to an email response from DemandScience, the data was linked to an outdated system decommissioned two years ago, which is not part of current operations. Hunt's investigation confirmed the presence of accurate information, including his own from his time at Pfizer. New Tool Targets GitHub Users for Bulk Credential Theft A new tool targets GitHub users by harvesting their email addresses and enabling bulk phishing campaigns, [said](https://slashnext.com/blog/goissue-github-phishing-attacks/) researchers from SlashNext. Called \"Golssue\" and marketed on a cybercrime forum, the malicious tool extracts data from GitHub profiles, such as email addresses, organization memberships and stargazer lists, using automated processes and GitHub tokens. It's retail price is around $700 for a custom build, or $3,000 for full source code access. The tool's primary function is to launch large-scale phishing campaigns targeting developers, with the potential to bypass spam filters and reach specific communities. It can steal developer credentials, spread malware and trigger OAuth app authorizations to gain access to private repositories. SlashNext linked GoIssue to the Gitloker extortion campaign, which uses GitHub notifications to push malicious OAuth apps aimed at wiping developer repositories. The contact information in GoIssue's advertisement led researchers to a Telegram profile associated with the Gitloker team, suggesting a possible connection. Other Stories From Last Week [US Prosecutors Charge Hackers in Snowflake Data Theft](/us-prosecutors-charge-hackers-in-snowflake-data-theft-a-26805)[Schneider Electric Warns of Critical Modicon Flaws](/schneider-electric-warns-critical-modicon-flaws-a-26804)[The Intractable Problem of AI Hallucinations](/intractable-problem-ai-hallucinations-a-26802)[Hamas Tied to October Wiper Attacks Using Eset Email](/hamas-tied-to-october-wiper-attacks-using-eset-email-a-26795)[Australia on Track to Ban Social Media Access for Minors](/australia-on-track-to-ban-social-media-access-for-minors-a-26794) With reporting from Information Security Media Group's Akshaya Asokan in Southern England and David Perera in Washington, D.C.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-43451)",
+    "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-49039),",
+    "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49019).",
+    "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-47575)",
+    "https://slashnext.com/blog/goissue-github-phishing-attacks/)",
+    "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5c00fedb-134a-4436-b778-5df30b84cdab.html)",
+    "https://www.troyhunt.com/inside-the-demandscience-by-pure-incubation-data-breach/)",
+    "https://labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575/),",
+    "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49040),",
+    "https://www.clearskysec.com/0d-vulnerability-exploited-in-the_wild/)",
+    "https://x.com/H4ckManac/status/1762838131055702398?)",
+    "https://corneacristian.medium.com/how-i-hacked-100-hackers-5c3c313e8a1a)",
+    "https://www.msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49019).",
+    "https://www.msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49040),",
+    "https://maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5c00fedb-134a-4436-b778-5df30b84cdab.html)",
+    "https://cve.mitre.org/cgi-bin/cvename.cgi",
+    "https://www.labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575/),",
+    "https://www.msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-49039),",
+    "https://www.slashnext.com/blog/goissue-github-phishing-attacks/)",
+    "https://www.msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-43451)",
+    "https://clearskysec.com/0d-vulnerability-exploited-in-the_wild/)",
+    "https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-47575)",
+    "https://x.com/H4ckManac/status/1762838131055702398",
+    "https://www.corneacristian.medium.com/how-i-hacked-100-hackers-5c3c313e8a1a)",
+    "https://www.x.com/H4ckManac/status/1762838131055702398?)",
+    "https://troyhunt.com/inside-the-demandscience-by-pure-incubation-data-breach/)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Digital Forensics",
+        "sentiment": "none"
+      },
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      },
+      {
+        "name": "Moody",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T00:25:37.785+02:00",
+  "updated": "2024-11-15T00:25:37.785+02:00"
+}

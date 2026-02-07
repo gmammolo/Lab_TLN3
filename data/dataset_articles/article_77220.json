@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "82bad624925acec499c85c696f0f41367cbf22f0",
+    "url": "https://www.securitymagazine.com/articles/101829-hackers-dont-take-pto-why-travel-season-is-prime-time-for-cyberattacks",
+    "site_full": "www.securitymagazine.com",
+    "site": "securitymagazine.com",
+    "site_section": "http://www.securitymagazine.com/rss/articles",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Security Magazine",
+    "site_title": "Security Magazine | The business magazine for security executives",
+    "title": "Hackers Don't Take PTO: Why Travel Season Is Prime Time for Cyberattacks",
+    "title_full": "Hackers Don't Take PTO: Why Travel Season Is Prime Time for Cyberattacks",
+    "published": "2025-08-14T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.securitymagazine.com/ext/resources/2025/08/13/Man-on-laptop-at-airport-by-Joel-Mott.png?height=635&amp;t=1755094271&amp;width=1200",
+    "performance_score": 0,
+    "domain_rank": 6971,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "82bad624925acec499c85c696f0f41367cbf22f0",
+  "url": "https://www.securitymagazine.com/articles/101829-hackers-dont-take-pto-why-travel-season-is-prime-time-for-cyberattacks",
+  "ord_in_thread": 0,
+  "author": "Brent Johnson",
+  "published": "2025-08-14T08:00:00.000+03:00",
+  "title": "Hackers Don't Take PTO: Why Travel Season Is Prime Time for Cyberattacks",
+  "text": "Hackers Don’t Take PTO: Why Travel Season Is Prime Time for Cyberattacks\nWhen vacationers unwind and employees unplug, cybercriminals clock in for their busiest time of year.\nThe travel and hospitality industries are a top target for cyberattacks. Booking portals, mobile apps and reservation systems create a sprawling network of public-facing entry points that are difficult to secure.\nIn April 2025, cybersecurity researchers identified more than 95,000 vulnerabilities across hospitality platforms, including 14,000 classified as critical. Add that baseline risk with a summer surge in traveler data and fewer staff on duty, and it creates the perfect storm for cyberattacks.\nDon’t let your busiest season become your most vulnerable. Strengthen your security to keep transactions secure, maintain customer trust and safeguard sensitive data.\nHackers Capitalize on Hospitality’s Peak Season\nDuring peak travel season, travelers rush to finalize plans — booking flights, reserving hotel rooms and checking in on the go.\nAs a result, more personally identifiable information (PII) — from email addresses to credit card and passport numbers — flows through hospitality platforms during this season than any other point in the year. Much of it is entered quickly, often over unsecured networks and public-facing systems.\nAt the same time, internal teams are stretched thin by seasonal PTO, leaving fewer people to catch unusual activity or respond to alerts. It’s an ideal scenario for hackers: sensitive data moving through exposed systems, with limited oversight to spot suspicious activity.\nCybercriminals understand these vulnerabilities, and their tactics are rapidly evolving. Many now use generative AI to create convincing phishing emails, fake booking confirmations and even deepfake voicemails impersonating guest services or IT support.\nFor example, an attacker might spoof a hotel’s booking confirmation email with a fraudulent link. A guest, eager to confirm details, clicks through and enters their credentials — unknowingly sharing credit card details, upcoming trip data and enough PII to launch follow-up attacks or fraudulent bookings.\nEven the most secure platforms aren’t immune to data breaches. In June 2025, a breach exposed more than 16 billion login credentials from tech giants like Apple, Google and Facebook. The scope was historic, and the message clear: If industry leaders with massive security budgets can be compromised, hospitality brands must be even more proactive about securing their sites.\nAs warmer weather peaks, so does the risk of cyberattacks. Hackers’ tactics are smarter, and the window for detection is smaller. Now is the time to secure your systems before a busy season turns into a security crisis.\n4 Ways to Fortify Your Site From Hackers\nWith more travelers submitting sensitive data to hospitality sites and fewer staff available to oversee systems, cybercriminals are well positioned to exploit the opportunity.\nTo stay secure, your site needs layered, preemptive defenses. The following four strategies can help you safeguard customer data, stay PCI compliant and maintain trust from the moment a guest visits your site to the second they check out.\n1. Audit Your Infrastructure and Close Gaps\nStart with a comprehensive vulnerability assessment across your public-facing systems, from login portals to reservation platforms. Penetration testing by a trusted third party can simulate real-world breach attempts, helping you identify weak spots before attackers do.\nWhile compliance with PCI DSS 4.0 is critical and represents an important improvement, it should be viewed as a solid foundation rather than a complete solution. True protection requires layered security beyond compliance checkboxes.\nAt the transaction level, 3D Secure (3DS) adds another layer of defense by authenticating the cardholder in real time through the issuing ban. While PCI 3DS is mandatory in Europe and widely used to verify high-value online transactions, it remains optional in the U.S. Even so, U.S. hospitality brands can benefit from adopting it proactively to prevent unauthorized purchases.\nFor card-present transactions, adopting PCI-validated Point-to-Point Encryption (P2PE) is the gold standard, immediately encrypting cardholder data upon dip, tap, swipe or key entry, ensuring that no payment data is exposed upon entry or in transit.\n2. Implement End-To-End Encryption and Tokenization\nIf attackers manage to breach your systems, encryption ensures they can’t decipher what they steal. By partnering with a trusted payment security provider, you can encrypt data as it moves through your network, making it unreadable without a decryption key.\nTokenization provides an added layer of protection in case that key is compromised. It replaces actual card or personal information with randomized, unrecognizable tokens that hold no exploitable value.\nFor example, if a hotel’s payment database is breached, tokenization prevents exposure of real credit card numbers or guest details — attackers would only find format-preserving tokens that have no mathematical or cryptographic relationship to the original data, rendering them useless without authorized access to the tokenization system.\n3. Train Employees to Recognize Social Engineering Attacks\nReduced staffing and PTO coverage during the summer may increase the chances of warning signs of a phishing attack going unnoticed. Just one click on a fraudulent login page can grant attackers network access or launch malware.\nRegular training is essential to help employees recognize threats like fake invoices, credential-stealing links or AI-generated voicemails impersonating executives. Simulated phishing exercises — like fake guest complaint emails — reinforce this training in a safe, realistic context.\nEqually important are clear reporting protocols. Employees should know exactly how to report suspicious messages and whom to contact, even when key leaders are out of the office.\n4. Prepare for High-Traffic, Low Coverage Periods\nWithout a clear coverage plan, employee vacations leave gaps in oversight, slowing threat detection and increasing the risk of delayed responses.\nTo maintain readiness, security operations need to run at full strength — even when staffing is limited. Fortunately, automated monitoring and alerting systems don’t take time off. These solutions should be put in place to encrypt and tokenize data from point-to-point, with designated personnel on-call to respond to incidents. Essential updates — like software patches and security maintenance — should never be delayed due to limited staff availability.\nNow is also the time to test the effectiveness of your response procedures. If a breach happens over a holiday weekend, your team should be ready to act immediately and confidently.\nTravel Security Starts Now\nCybercriminals don’t take vacations, and your defenses can’t afford to either. With more guest data flowing through your systems and fewer eyes on alerts, this is the most vulnerable time for your site’s cybersecurity.\nThat’s why layered defenses like encryption and tokenization — which operate continuously — are essential. Combined with well-trained staff and proactive planning, they allow your guests to focus on the trip ahead while your team delivers a seamless user experience.\nFrom the moment a guest lands on your website until they tap “Book Now,” every interaction should be protected. Secure your systems now so that a data breach doesn’t disrupt your busiest quarter.\nLooking for a reprint of this article?\nFrom high-res PDFs to custom plaques, order your copy today!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->cyber crime",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bnpmedia.com/reprints",
+    "https://bnpmedia.com/reprints"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:52:10.796+03:00",
+  "updated": "2025-08-14T11:03:41.000+03:00"
+}

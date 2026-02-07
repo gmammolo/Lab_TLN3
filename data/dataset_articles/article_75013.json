@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "76d885f95321bf7d7ebc7e59ed79ebabc098ccfb",
+    "url": "https://80.lv/articles/the-internet-compares-microsoft-s-bing-wallpaper-app-to-malware",
+    "site_full": "80.lv",
+    "site": "80.lv",
+    "site_section": "https://80.lv",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "80 Level",
+    "title": "The Internet Compares Microsoft's Bing Wallpaper App to Malware",
+    "title_full": "The Internet Compares Microsoft's Bing Wallpaper App to Malware",
+    "published": "2024-11-22T04:02:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "LV",
+    "main_image": "https://cdn.80.lv/api/upload/meta/37980/images/67401d6b6a1f3/contain_1200x630.jpg",
+    "performance_score": 0,
+    "domain_rank": 31471,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "76d885f95321bf7d7ebc7e59ed79ebabc098ccfb",
+  "url": "https://80.lv/articles/the-internet-compares-microsoft-s-bing-wallpaper-app-to-malware",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Theodore McKenzie",
+  "published": "2024-11-22T04:02:00.000+02:00",
+  "title": "The Internet Compares Microsoft's Bing Wallpaper App to Malware",
+  "text": "The new app's shenanigans with default browser settings didn't sit well with some users.\nA few days ago, Microsoft officially launched Bing Wallpaper for Windows 10 and 11, an app featuring \"a collection of beautiful images from around the world\" that change daily and provide a delightful visual treat every time you boot up your PC. Innocuous and, frankly speaking, not particularly notable at first glance, the app did manage to attract some attention online – but unfortunately, not for its intended purpose.\nMicrosoft\nAs noticed by Engineer [Rafael Rivera](https://x.com/WithinRafael/status/1858769565054062772) (via [Neowin](https://www.neowin.net/news/microsofts-free-bing-wallpaper-app-for-windows-is-borderline-malware/)), the seemingly harmless application hides several unpleasant caveats, leading to comparisons to a typical malware you could encounter back in the day when downloading files online – not necessarily harmful, but incredibly annoying.\nAccording to Rafael, Bing Wallpaper automatically installs Bing Visual Search and includes code to examine and decrypt your cookie files in Firefox, Edge, and Chrome. As if that weren't enough, the app also includes a web geolocation API, reportedly attempts to change your default search engine to Bing, and pushes users toward setting Microsoft Edge as the preferred browser.\nTo top it all off, after you close your default browser, Bing Wallpaper will reopen it with a new tab saying that \"you've already installed Microsoft Bing Search extension\" and try to trick the user into completing the process by enabling the extension in the browser settings. The listed shenanigans, Rafael noted, are just a modest selection of the \"many nasty tricks Bing Wallpaper employs.\"\nPreviously, Microsoft was lambasted for a similar reason when they [unveiled Recall](https://80.lv/articles/windows-11-s-new-ai-feature-will-make-screenshots-of-everything-you-do), an Orwellian piece of technology that takes screenshots of everything you do and uses generative AI along with the NPU to process this data into a searchable timeline, which raised concerns that users could be spied on and their files used for generative AI training and other shady purposes. Thankfully, the program [has been confirmed to be uninstallable](https://80.lv/articles/microsoft-confirms-its-screenshot-taking-ai-feature-is-optional-can-be-uninstalled/), meaning that if, for some inexplicable reason, you don't want any app, website, document, or email you've opened on your computer to be screenshotted, you can either opt-out or delete Recall altogether.\nDon't forget to join our [80 Level Talent platform](https://80.lv/talent) and our [new Discord server](https://discord.gg/80lv), follow us on [Instagram](https://www.instagram.com/eighty_level/), [Twitter](https://x.com/80Level), [LinkedIn](https://www.linkedin.com/company/80-lv), [Telegram](https://t.me/LevelEightyNews), [TikTok](https://www.tiktok.com/@eightylevel), and [Threads](https://www.threads.net/@eighty_level), where we share breakdowns, the latest news, awesome artworks, and more.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.neowin.net/news/microsofts-free-bing-wallpaper-app-for-windows-is-borderline-malware/",
+    "https://x.com/80Level",
+    "https://www.linkedin.com/company/80-lv",
+    "https://discord.gg/80lv",
+    "https://www.threads.net/@eighty_level",
+    "https://www.tiktok.com/@eightylevel",
+    "https://www.instagram.com/eighty_level/",
+    "https://x.com/WithinRafael/status/1858769565054062772",
+    "https://t.me/LevelEightyNews",
+    "https://linkedin.com/company/80-lv",
+    "https://www.discord.gg/80lv",
+    "https://www.instagram.com/eighty_level",
+    "https://instagram.com/eighty_level/",
+    "https://www.x.com/WithinRafael/status/1858769565054062772",
+    "https://neowin.net/news/microsofts-free-bing-wallpaper-app-for-windows-is-borderline-malware/",
+    "https://www.t.me/LevelEightyNews",
+    "https://threads.net/@eighty_level",
+    "https://www.neowin.net/news/microsofts-free-bing-wallpaper-app-for-windows-is-borderline-malware",
+    "https://tiktok.com/@eightylevel",
+    "https://www.x.com/80Level"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bing Wallpaper",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rafael Rivera",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T09:44:44.605+02:00",
+  "updated": "2024-11-22T09:44:44.605+02:00"
+}

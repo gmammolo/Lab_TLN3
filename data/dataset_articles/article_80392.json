@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "89a17e010db60449baa1502362adfad7efd99261",
+    "url": "https://zephyrnet.com/data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis-kdnuggets/",
+    "site_full": "zephyrnet.com",
+    "site": "zephyrnet.com",
+    "site_section": "https://zephyrnet.com/feed",
+    "site_categories": [
+      "hobbies_and_interests",
+      "investors_and_patents"
+    ],
+    "section_title": "Plato Data Intelligence",
+    "title": "Data Cleaning in SQL: How To Prepare Messy Data for Analysis – KDnuggets",
+    "title_full": "Data Cleaning in SQL: How To Prepare Messy Data for Analysis – KDnuggets",
+    "published": "2024-01-05T06:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "https://zephyrnet.com/wp-content/uploads/2024/01/data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis-kdnuggets.jpg",
+    "performance_score": 0,
+    "domain_rank": 70421,
+    "domain_rank_updated": "2024-01-02T12:06:53.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "89a17e010db60449baa1502362adfad7efd99261",
+  "url": "https://zephyrnet.com/data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis-kdnuggets/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Republished By Plato",
+  "published": "2024-01-05T06:00:00.000+02:00",
+  "title": "Data Cleaning in SQL: How To Prepare Messy Data for Analysis – KDnuggets",
+  "text": "Image generated with Segmind SSD-1B model\nExcited to start analyzing data using SQL? Well, you may have to wait just a bit. But why?\nData in database tables can often be messy. Your data may contain missing values, duplicate records, outliers, inconsistent data entries, and more. So cleaning the data before you can analyze it using SQL is super important.\nWhen you’re learning SQL, you can spin up database tables, alter them, update and delete records as you like. But in practice, this is almost never the case. You may not have permission to alter tables, update and delete records. But you’ll have read access to the database and will be able to run a bunch of SELECT queries.\nIn this tutorial, we’ll spin up a database table, populate it with records, and see how we can clean the data with SQL. Let’s start coding!\nFor this tutorial, let’s create an\nemployees table like so:\n-- Create the employees table CREATE TABLE employees ( employee_id INT PRIMARY KEY, employee_name VARCHAR(50), salary DECIMAL(10, 2), hire_date VARCHAR(20), department VARCHAR(50) );\nNext, let’s insert some fictional sample records into the table:\n-- Insert 20 sample records INSERT INTO employees (employee_id, employee_name, salary, hire_date, department) VALUES (1, 'Amy West', 60000.00, '2021-01-15', 'HR'), (2, 'Ivy Lee', 75000.50, '2020-05-22', 'Sales'), (3, 'joe smith', 80000.75, '2019-08-10', 'Marketing'), (4, 'John White', 90000.00, '2020-11-05', 'Finance'), (5, 'Jane Hill', 55000.25, '2022-02-28', 'IT'), (6, 'Dave West', 72000.00, '2020-03-12', 'Marketing'), (7, 'Fanny Lee', 85000.50, '2018-06-25', 'Sales'), (8, 'Amy Smith', 95000.25, '2019-11-30', 'Finance'), (9, 'Ivy Hill', 62000.75, '2021-07-18', 'IT'), (10, 'Joe White', 78000.00, '2022-04-05', 'Marketing'), (11, 'John Lee', 68000.50, '2018-12-10', 'HR'), (12, 'Jane West', 89000.25, '2017-09-15', 'Sales'), (13, 'Dave Smith', 60000.75, '2022-01-08', NULL), (14, 'Fanny White', 72000.00, '2019-04-22', 'IT'), (15, 'Amy Hill', 84000.50, '2020-08-17', 'Marketing'), (16, 'Ivy West', 92000.25, '2021-02-03', 'Finance'), (17, 'Joe Lee', 58000.75, '2018-05-28', 'IT'), (18, 'John Smith', 77000.00, '2019-10-10', 'HR'), (19, 'Jane Hill', 81000.50, '2022-03-15', 'Sales'), (20, 'Dave White', 70000.25, '2017-12-20', 'Marketing');\nIf you can tell, I’ve used a small set of first and last names to sample from and construct the name field for the records. You can be more creative with the records, though.\nNote: All the queries in this tutorial are for\nMySQL. But you’re free to use the RDBMS of your choice.\nMissing values in data records are always a problem. So you have to handle them accordingly.\nA naive approach is to drop all the records that contain missing values for one or more fields. However, you should not do this unless you’re sure there is no other better way of handling missing values.\nIn the\nemployees table, we see that there is a NULL value in the ‘department’ column (see row of employee_id 13) indicating that the field is missing:\nSELECT * FROM employees;\nYou can use the\nCOALESCE() function to use the ‘Unknown’ string for the NULL value:\nSELECT employee_id, employee_name, salary, hire_date, COALESCE(department, 'Unknown') AS department FROM employees;\nRunning the above query should give you the following result:\nDuplicate records in a database table can distort the results of analysis. We’ve chosen the employee_id as the primary key in our database table. So we’ll not have any repeating employee records in the\nemployee_data table.\nYou can still the SELECT DISTINCT statement:\nSELECT DISTINCT * FROM employees;\nAs expected, the result set contains all the 20 records:\nIf you notice, the ‘hire_date’ column is currently VARCHAR and not a date type. To make it easier when working with dates, it’s helpful to use the\nSTR_TO_DATE() function like so:\nSELECT employee_id, employee_name, salary, STR_TO_DATE(hire_date, '%Y-%m-%d') AS hire_date, department FROM employees;\nHere, we’ve only selected the ‘hire_date’ column amongst others and haven’t performed any operations on the date values. So the query output should be the same as that of the previous query.\nBut if you want to perform operations such as adding an offset date to the values, this function can be helpful.\nOutliers in one or more numeric fields can skew analysis. So we should check for and remove outliers so as to filter out the data that is not relevant.\nBut deciding which values constitute outliers requires domain knowledge and data using knowledge of both the domain and historical data.\nIn our example, let’s say we know that the ‘salary’ column has an upper limit of 100000. So any entry in the ‘salary’ column can be at most 100000. And entries greater than this value are outliers.\nWe can check for such records by running the following query:\nSELECT * FROM employees WHERE salary > 100000;\nAs seen, all entries in the ‘salary’ column are valid. So the result set is empty:\nInconsistent data entries and formatting are quite common especially in date and string columns.\nIn the\nemployees table, we see that the record corresponding to employee ‘bob johnson’ is not in the title case.\nBut for consistency let’s select all the names formatted in the title case. You have to use the\nCONCAT() function in conjunction with UPPER() and SUBSTRING() like so:\nSELECT employee_id, CONCAT( UPPER(SUBSTRING(employee_name, 1, 1)), -- Capitalize the first letter of the first name LOWER(SUBSTRING(employee_name, 2, LOCATE(' ', employee_name) - 2)), -- Make the rest of the first name lowercase ' ', UPPER(SUBSTRING(employee_name, LOCATE(' ', employee_name) + 1, 1)), -- Capitalize the first letter of the last name LOWER(SUBSTRING(employee_name, LOCATE(' ', employee_name) + 2)) -- Make the rest of the last name lowercase ) AS employee_name_title_case, salary, hire_date, department FROM employees;\nWhen talking about outliers, we mentioned how we’d like the upper limit on the ‘salary’ column to be 100000 and considered any salary entry above 100000 to be an outlier.\nBut it’s also true that you don’t want any negative values in the ‘salary’ column. So you can run the following query to validate that all employee records contain values between 0 and 100000:\nSELECT employee_id, employee_name, salary, hire_date, department FROM employees WHERE salary 0 OR salary > 100000;\nAs seen, the result set is empty:\nDeriving new columns is not essentially a data cleaning step. However, in practice, you may need to use existing columns to derive new columns that are more helpful in analysis.\nFor example, the\nemployees table contains a ‘hire_date’ column. A more helpful field is, perhaps, a ‘years_of_service’ column that indicates how long an employee has been with the company.\nThe following query finds the difference between the current year and the year value in ‘hire_date’ to compute the ‘years_of_service’:\nSELECT employee_id, employee_name, salary, hire_date, department, YEAR(CURDATE()) - YEAR(hire_date) AS years_of_service FROM employees;\nYou should see the following output:\nAs with other queries we’ve run, this does not modify the original table. To add new columns to the original table, you need to have permissions to ALTER the database table.\nI hope you understand how relevant data cleaning tasks can improve data quality and facilitate more relevant analysis. You’ve learned how to check for missing values, duplicate records, inconsistent formatting, outliers, and more.\nTry spinning up your own relational database table and run some queries to perform common data cleaning tasks. Next, learn about\nSQL for data visualization.\n is a developer and technical writer from India. She likes working at the intersection of math, programming, data science, and content creation. Her areas of interest and expertise include DevOps, data science, and natural language processing. She enjoys reading, writing, coding, and coffee! Currently, she’s working on learning and sharing her knowledge with the developer community by authoring tutorials, how-to guides, opinion pieces, and more. Bala Priya C\n- SEO Powered Content & PR Distribution.\nGet Amplified Today.\n- PlatoData.Network Vertical Generative Ai. Empower Yourself.\nAccess Here.\n- PlatoAiStream. Web3 Intelligence. Knowledge Amplified.\nhttps://platoaistream.com\n- PlatoESG.\nCarbon, CleanTech, Energy, Environment, Solar, Waste Management. https://platoesg.com\n- PlatoHealth. Biotech and Clinical Trials Intelligence.\nhttps://platohealth.ai\n- Source:\nhttps://www.kdnuggets.com/data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis?utm_source=rss&utm_medium=rss&utm_campaign=data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://dev.mysql.com/doc/refman/8.0/en/comparison-operators.html#function_coalesce",
+    "https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_str-to-date",
+    "https://www.kdnuggets.com/sql-for-data-visualization-how-to-prepare-data-for-charts-and-graphs",
+    "https://platoesg.com/aiwire/solar/",
+    "https://www.kdnuggets.com/data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis?utm_source=rss&utm_medium=rss&utm_campaign=data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis",
+    "https://platohealth.ai",
+    "https://platoesg.com/aiwire/cleantech/",
+    "https://platoesg.com/aiwire/environment/",
+    "https://www.mysql.com/",
+    "https://dev.mysql.com/doc/refman/8.0/en/string-functions.html#function_upper",
+    "https://dev.mysql.com/doc/refman/8.0/en/string-functions.html#function_concat",
+    "https://twitter.com/balawc27",
+    "https://platoaistream.com",
+    "https://platoesg.com",
+    "https://platoesg.com/aiwire/carbon/",
+    "https://dev.mysql.com/doc/refman/8.0/en/string-functions.html#function_substring",
+    "https://platoesg.com/aiwire/waste-management/",
+    "https://platodata.network",
+    "https://platoesg.com/aiwire/energy/",
+    "https://www.amplifipr.com",
+    "https://www.platoesg.com/aiwire/carbon/",
+    "https://www.dev.mysql.com/doc/refman/8.0/en/string-functions.html#function_upper",
+    "https://www.dev.mysql.com/doc/refman/8.0/en/string-functions.html#function_substring",
+    "https://www.twitter.com/balawc27",
+    "https://www.platoesg.com/aiwire/energy/",
+    "https://platoesg.com/aiwire/cleantech",
+    "https://amplifipr.com",
+    "https://www.platoesg.com/aiwire/environment/",
+    "https://platoesg.com/aiwire/environment",
+    "https://www.platoesg.com/aiwire/cleantech/",
+    "https://www.platoesg.com",
+    "https://platoesg.com/aiwire/carbon",
+    "https://www.platoaistream.com",
+    "https://kdnuggets.com/sql-for-data-visualization-how-to-prepare-data-for-charts-and-graphs",
+    "https://platoesg.com/aiwire/solar",
+    "https://www.platohealth.ai",
+    "https://www.dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_str-to-date",
+    "https://www.platodata.network",
+    "https://platoesg.com/aiwire/waste-management",
+    "https://www.kdnuggets.com/data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis",
+    "https://www.dev.mysql.com/doc/refman/8.0/en/string-functions.html#function_concat",
+    "https://mysql.com/",
+    "https://www.mysql.com",
+    "https://kdnuggets.com/data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis?utm_source=rss&utm_medium=rss&utm_campaign=data-cleaning-in-sql-how-to-prepare-messy-data-for-analysis",
+    "https://www.platoesg.com/aiwire/solar/",
+    "https://platoesg.com/aiwire/energy",
+    "https://www.platoesg.com/aiwire/waste-management/",
+    "https://www.dev.mysql.com/doc/refman/8.0/en/comparison-operators.html#function_coalesce"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-06T02:33:33.468+02:00",
+  "updated": "2024-01-06T02:33:33.468+02:00"
+}

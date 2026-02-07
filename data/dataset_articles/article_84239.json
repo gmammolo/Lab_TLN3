@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "838e9affe84c2e3647cf6a9d03ed9a3e8801b678",
+    "url": "https://www.neowin.net/news/google-finally-adds-ability-to-search-the-web-on-notebooklm",
+    "site_full": "www.neowin.net",
+    "site": "neowin.net",
+    "site_section": "https://www.neowin.net/software",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "Software News - Neowin",
+    "site_title": "Tech News, Reviews & Betas | Neowin",
+    "title": "Google finally adds ability to search the web on NotebookLM",
+    "title_full": "Google finally adds ability to search the web on NotebookLM",
+    "published": "2025-04-03T01:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.neowin.com/news/images/uploaded/2025/04/1743629752_notebooklm_studentblogheader_dis.width-1600.format-webp_story.jpg",
+    "performance_score": 0,
+    "domain_rank": 3633,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "838e9affe84c2e3647cf6a9d03ed9a3e8801b678",
+  "url": "https://www.neowin.net/news/google-finally-adds-ability-to-search-the-web-on-notebooklm",
+  "ord_in_thread": 0,
+  "author": "@heykarthikm",
+  "published": "2025-04-03T01:56:00.000+03:00",
+  "title": "Google finally adds ability to search the web on NotebookLM",
+  "text": "NotebookLM, arguably one of Google’s most slept-on AI products, just got a pretty powerful update — web search integration. If you're not familiar with it, NotebookLM is Google’s AI-powered notebook that works off your own stuff, including PDFs, Google Docs, Slides, websites, and more. You can feed it your sources, and it helps you generate summaries, briefings, FAQs, and now, curated search results.\nThe new feature is called Discover Sources, and it basically lets you search the web directly from inside your notebook. When a user describes their topic, NotebookLM scans through hundreds of web sources in seconds. It picks out up to 10 of the most relevant ones, complete with annotated summaries that explain why each source might matter to your topic. With just a single click, you can pull them into your notebook and add them as part of your sources.\nTo try it:\n- Go to\nnotebooklm.google.com - Open up a notebook.\n- In the Sources panel, tap the Discover button.\n- Describe what you’re interested in.\nThis isn’t the only upgrade. Earlier this year, NotebookLM added YouTube video support, where you can paste a public video URL, and it becomes part of your source stack. You can get summaries and citations and view the video in an embedded player. Google also added support for Audio Overview to NotebookLM, which turns documents, charts, slides, etc., into narrated AI audio briefings that can be shared with others as well.\nNotebookLM is available for both regular users and organizations. If you're in an EDU or enterprise setup, Workspace admins can enable it domain-wide.\nNotebookLM still feels like one of Google’s most underrated and underused tools. It can be helpful, especially for students, writers, analysts, or anyone dealing with messy research. With updates like this, it’s starting to look like something that could actually change how we do research with AI.\nSource: Google",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://notebooklm.google.com",
+    "https://blog.google/technology/ai/notebooklm-audio-overviews/",
+    "https://blog.google/technology/google-labs/notebooklm-discover-sources/",
+    "https://www.blog.google/technology/ai/notebooklm-audio-overviews/",
+    "https://www.blog.google/technology/google-labs/notebooklm-discover-sources/",
+    "https://blog.google/technology/ai/notebooklm-audio-overviews",
+    "https://blog.google/technology/google-labs/notebooklm-discover-sources",
+    "http://www.notebooklm.google.com"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:07:37.864+03:00",
+  "updated": "2025-04-03T02:07:37.864+03:00"
+}

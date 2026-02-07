@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "b7b9fadea0f463518ffc16585378c01f521003df",
+    "url": "https://www.newindianexpress.com/xplore/2024/Jul/19/how-sustainability-ai-can-drive-a-greener-future-for-data-centres",
+    "site_full": "www.newindianexpress.com",
+    "site": "newindianexpress.com",
+    "site_section": "https://newindianexpress.com/feed",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "newindianexpress",
+    "title": "How sustainability, AI can drive a greener future for data centres",
+    "title_full": "How sustainability, AI can drive a greener future for data centres",
+    "published": "2024-07-19T02:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://media.assettype.com/newindianexpress%2F2024-07%2Fdb5c27a8-7ba1-4a03-a826-5f939bd3a535%2Fnewindianexpress_2024-04_4fb6357c-9f79-4ac2-826e-f31cc94a7972_Artifical_Intelligence.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+    "performance_score": 0,
+    "domain_rank": 3321,
+    "domain_rank_updated": "2024-07-16T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b7b9fadea0f463518ffc16585378c01f521003df",
+  "url": "https://www.newindianexpress.com/xplore/2024/Jul/19/how-sustainability-ai-can-drive-a-greener-future-for-data-centres",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Akhtar Ali",
+  "published": "2024-07-19T02:24:00.000+03:00",
+  "title": "How sustainability, AI can drive a greener future for data centres",
+  "text": "In recent years, AI technologies have made significant progress, with steady adoption by large organisations. As AI adoption accelerates, so does energy consumption. It prompts a critical question: how can data centres adapt to AI’s rising energy demands? Hence, a strategic shift towards powerful and sustainable data centres becomes imperative for fostering business growth and environmental responsibility.\nBefore delving into the role of data centres in enhancing energy efficiency, it is important to decode why AI demands such significant energy consumption. AI’s significant energy consumption stems from two main phases — the training phase, where the model learns behaviour autonomously, and the inference phase, where the model operates live, generating responses based on prompts. While both phases are highly energy-intensive, the model training phase is generally more demanding than the inference phase.\nEvery online interaction relies on information stored in distant servers, housed in energy-demanding data centres worldwide. The complexity and duration of server operations to fulfil requests directly correlate with increased power consumption. Within the data centre, energy usage extends beyond servers to include cooling systems, storage systems, networking equipment, and power infrastructure. Notably, servers, the central component, account for a significant 43% of energy consumption, mirroring the contribution of cooling systems. Hence, recognising the environmental impact of AI’s energy consumption becomes paramount. Data centres, the backbone of AI operations, contribute around 1% to global electricity consumption, a seemingly modest figure with significant implications given the carbon footprint associated with electricity generation. Before the AI explosion can take place in full bloom, it will need to find a new approach to energy in the form of Sustainable Solutions for a Greener Tomorrow.\nTransparency and monitoring\nPushing for a clear, transparent, and comparable monitoring and reporting of AI sustainability metrics is the first step toward making AI more environmentally sustainable.\nDeveloping energy-efficient AI algorithms and hardware\nIn the pursuit of sustainability, the tech industry is focusing on developing energy-efficient AI algorithms and hardware. Researchers are exploring techniques such as model pruning, quantization, and efficient neural network architectures to reduce computational complexity without compromising performance.\nEvaluate the energy sources of your cloud provider or data centre\nMinimizing the carbon footprint of AI can be achieved by deploying models in regions equipped with environmentally friendly power resources and a carbon-friendly infrastructure.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-07-19T07:48:39.737+03:00",
+  "updated": "2024-07-19T07:48:39.737+03:00"
+}

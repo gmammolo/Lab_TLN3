@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "e6e5e87e51cfc436e91e0f131d66fa3d616e25b4",
+    "url": "https://nyweekly.com/tech/how-data-science-is-transforming-healthcare-a-deep-dive",
+    "site_full": "nyweekly.com",
+    "site": "nyweekly.com",
+    "site_section": "https://nyweekly.com/feed/",
+    "site_categories": [],
+    "section_title": "New York Weekly",
+    "title": "How Data Science is Transforming Healthcare: A Deep Dive",
+    "title_full": "How Data Science is Transforming Healthcare: A Deep Dive",
+    "published": "2024-04-12T01:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://nyweekly.com/wp-content/uploads/2024/04/How-Data-Science-is-Transforming-Healthcare-A-Deep-Dive.png",
+    "performance_score": 0,
+    "domain_rank": 66536,
+    "domain_rank_updated": "2024-04-09T13:11:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e6e5e87e51cfc436e91e0f131d66fa3d616e25b4",
+  "url": "https://nyweekly.com/tech/how-data-science-is-transforming-healthcare-a-deep-dive",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NY Weekly Staff",
+  "published": "2024-04-12T01:54:00.000+03:00",
+  "title": "How Data Science is Transforming Healthcare: A Deep Dive",
+  "text": "There are applications for data science everywhere in our lives. Data science is necessary for every industry in the world, including IT, entertainment, healthcare, and many more, to become more productive and generate higher returns on investment. You may be asking now how Data Science is being used in Healthcare. Keep reading the article to learn how Data Science is changing this industry.\nWith the advent of low-cost internet and increased processing power, every business is now data-hungry, offering customers a digital life unlike anything before. A few terabytes of data are produced daily by users today.\nFor deeper insights into the intersection of data science and healthcare, visit\nhttps://www.johnsnowlabs.com/healthcare-llm/. John Snow Labs has a wealth of experience using linguistic pattern analysis to extract data from various information sources, including text, audio, and visual.\nWhy is data science used in healthcare?\nLike other fields, the healthcare industry has immense amounts of data about patients, medical histories, and individuals’ health information. These data could include blood pressure, heart level, sugar level, stress level, and so forth.\nThe problem is that healthcare has traditionally been passive. That is, we have never been able to manage or reduce diseases on a wide scale because we lack centralized data to evaluate and develop insights that could assist the healthcare system in saving lives.\nIt gave rise to the idea of applying data science to the healthcare industry to digitize all of these data points and compile them into a health map for each patient, which would enable them to get the best treatment possible.\nWithout this ability, it will be far too late to detect life-threatening disorders in individuals.\nThanks to data science and machine learning, doctors can now get real-time information on a patient’s health status using wearable technology, such as a smartwatch that continuously tracks a patient’s vital signs.\nThe advantages of data science for medical systems\nWe are now aware of the problems with healthcare systems; thanks to data science’s capability, healthcare systems are now data-driven and effective. Now, let’s examine how applying data science has benefited the healthcare industry.\n- It helps to shorten the patient’s wait time.\n- It aided in providing patients with appropriate care on time.\n- It contributed to the healthcare system’s workflow being more efficient.\n- It made emergencies more straightforward to handle.\n- It reduced the likelihood of patient failure while receiving treatment.\nBy using AI-enabled devices to analyze data, it may be possible to detect diseases early on and significantly reduce healthcare costs. This would also make it easier for healthcare insurance companies to monitor these parameters and create more customized, customer-friendly policies.\nWhat role do Data Scientists play in the Healthcare sector?\nHealthcare features and policies are evolving at an increasingly rapid pace. The overall application of data science in the healthcare system shows data scientists as a crucial and essential component.\nWhen working with data, data scientists find patterns and insights that may be used to build prediction models.\nHere, we’ll quickly review the key responsibilities of Data Science specialists to help you understand how they fit into the overall healthcare system.\n- Gather and examine patient information, hospital requirements, and other details.\n- Organize and classify data so that medical practitioners can use it more easily.\n- Utilize data analytics to create predictive models by applying various algorithms to raw data.\nTo sum up, data scientists employed by the healthcare system support medical staff in providing high-quality and efficient patient care.\nPublished by: Martin De Juan",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://www.johnsnowlabs.com/healthcare-llm/",
+    "https://johnsnowlabs.com/healthcare-llm/",
+    "https://www.johnsnowlabs.com/healthcare-llm"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "john snow labs",
+        "sentiment": "none"
+      },
+      {
+        "name": "healthcare",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T03:58:23.451+03:00",
+  "updated": "2024-04-12T03:58:23.451+03:00"
+}

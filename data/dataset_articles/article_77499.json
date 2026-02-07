@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "3502c8f4553034047933d6aa973735eafbfc02ad",
+    "url": "https://cybersecuritynews.com/web-ddos-app-exploitation-attacks/",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://www.cybersecuritynews.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "site_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "Web DDoS, App Exploitation Attacks Saw a Huge Surge in First Half of 2025",
+    "title_full": "Web DDoS, App Exploitation Attacks Saw a Huge Surge in First Half of 2025",
+    "published": "2025-08-14T10:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizvOjJ0rlMnPWFupeq3bvgG94OJ-rEVgE2fwwjz-yzAKhggjJQn4TyBv5rZfMPT1LJxhrBrcZbPaOptV1W2KnIQvHCay-RDlV0wkzop9L5VCFCqrolZaSLGFfs9Y5lMEpg5VdjMKVzsGCzE_tqBmrfBUA8dO5nLf8Uqy9W3y87lQJAR7o-ZF0pfRfD0r0/s16000/Web%20DDoS,%20App%20Exploitation%20Attacks%20Saw%20a%20Huge%20Surge%20in%20First%20Half%20of%202025.webp",
+    "performance_score": 0,
+    "domain_rank": 35499,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3502c8f4553034047933d6aa973735eafbfc02ad",
+  "url": "https://cybersecuritynews.com/web-ddos-app-exploitation-attacks/",
+  "ord_in_thread": 0,
+  "author": "Tushar Subhra Dutta",
+  "published": "2025-08-14T10:35:00.000+03:00",
+  "title": "Web DDoS, App Exploitation Attacks Saw a Huge Surge in First Half of 2025",
+  "text": "The cybersecurity landscape experienced an unprecedented escalation in digital threats during the first half of 2025, with Web Distributed Denial of Service (DDoS) attacks surging by 39% compared to the second half of 2024.\nThe second quarter alone witnessed a staggering 54% quarter-over-quarter spike in attack activity, marking the highest levels on record and signaling a fundamental shift in how cybercriminals orchestrate their campaigns .\nGeographic distribution of Web DDoS attack activity in 2025 and 2024 (source – Radware) This dramatic increase represents more than just a numerical surge; it reflects a strategic evolution in attack methodologies.\nUnlike previous years characterized by massive volumetric assaults, threat actors in 2025 have pivoted toward smaller, more sustained attacks predominantly operating under 100,000 requests per second (RPS).\nThis tactical shift demonstrates the growing influence of automated tools enhanced by generative artificial intelligence, effectively democratizing DDoS capabilities among loosely coordinated threat groups and enabling new actors to enter the cybercrime ecosystem.\nRadware researchers identified that despite the prevalence of smaller-scale attacks, peak capabilities remain formidable, with the largest recorded Web DDoS attack reaching an extraordinary 10 million RPS in the first quarter.\nThe company’s comprehensive analysis revealed that application-layer exploitation has become equally concerning, with malicious web transactions increasing by 33% compared to the latter half of 2024.\nRemarkably, the volume of malicious activity observed in just six months already accounts for 87% of the total recorded throughout the entire previous year.\nThe threat landscape has been further complicated by a parallel surge in bad bot activity, which increased by 57% during the same period.\nThese automated threats, designed for fraud, credential stuffing, and data scraping operations, mirror the trajectory of application-layer attacks and underscore the growing sophistication of cybercriminal infrastructure.\nHacktivist groups have also intensified their operations, claiming nearly 9,200 DDoS attacks on Telegram platforms, representing a 62% increase over the first half of 2024.\nAI-Enhanced Attack Automation and Persistence Tactics The emergence of AI-enhanced attack tools has fundamentally transformed the persistence and execution strategies employed by modern threat actors.\nTraditional DDoS campaigns relied heavily on brute-force volumetric attacks that were easily detectable and often short-lived.\nWeb application and API attacks by category (source – Radware) However, the integration of machine learning algorithms and generative AI has enabled attackers to develop more nuanced approaches that can adapt in real-time to defensive countermeasures.\nThese AI-driven systems can automatically adjust attack parameters such as request patterns, timing intervals, and target selection to maintain persistence while evading detection mechanisms.\nThe shift toward sustained, lower-volume attacks reflects this technological evolution, as automated systems can maintain prolonged campaigns with minimal human intervention.\nVulnerability exploitation, which accounts for over one-third of all application-layer attacks, has become increasingly sophisticated through AI-assisted reconnaissance tools that can identify and exploit weaknesses faster than traditional manual methods.\nThe democratization of these capabilities through open-source tools and AI enhancement has lowered the technical barriers for entry, enabling a broader range of actors to conduct effective cyber operations with unprecedented coordination and persistence.\nBoost your SOC and help your team protect your business with free top-notch threat intelligence: Request TI Lookup Premium Trial .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.radware.com/blog/threat-intelligence/2025-h1-global-threat-analysis/",
+    "https://intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://www.radware.com/blog/threat-intelligence/2025-h1-global-threat-analysis",
+    "https://intelligence.any.run/plans/",
+    "https://www.intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://radware.com/blog/threat-intelligence/2025-h1-global-threat-analysis/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:53:53.469+03:00",
+  "updated": "2025-08-14T11:59:47.000+03:00"
+}

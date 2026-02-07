@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "72f532536f9e7e18f18c82d17d7f0f67e547dc92",
+    "url": "https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/comment-page-1",
+    "site_full": "eclecticlight.co",
+    "site": "eclecticlight.co",
+    "site_section": "https://eclecticlight.co/comments/feed",
+    "site_categories": [
+      "hobbies_and_interests",
+      "painting"
+    ],
+    "section_title": "\n\tComments for The Eclectic Light Company\t",
+    "title": "Comment on M4 Macs can’t virtualise older macOS by hoakley",
+    "title_full": "Comment on M4 Macs can’t virtualise older macOS by hoakley",
+    "published": "2024-11-15T05:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://eclecticlight.co/wp-content/uploads/2024/11/macos121.jpg?w=1200",
+    "performance_score": 0,
+    "domain_rank": 42897,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "72f532536f9e7e18f18c82d17d7f0f67e547dc92",
+  "url": "https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/comment-page-1",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "hoakley",
+  "published": "2024-11-15T05:45:00.000+02:00",
+  "title": "Comment on M4 Macs can’t virtualise older macOS by hoakley",
+  "text": "If you’ve already got a new M4 Mac and tried to run a macOS virtual machine on it, then you might have been disappointed. It seems that M4 chips can’t virtualise any version of macOS before 13.4 Ventura. So before you trade in or pass on your M1, M2 or M3 Mac, if you need access to older VMs, you might like to check whether this affects you.\nI’m indebted to Csaba Fitzl for drawing my attention to this problem, and for reporting it to Apple in Feedback FB15774587. It has also been reported as affecting UTM, and I believe affects all other macOS virtualisation software for Apple silicon.\nThe bug\nRunning a macOS VM for any version before 13.4 Ventura on an M4 Mac results in a black screen, and the VM fails to boot. This is true whatever settings are used in the virtualiser, even if it’s set to boot the VM in Recovery mode. It’s also true when that VM has been built on that Mac: although that appears to complete successfully, when first run that VM opens as a black screen and never proceeds with personalisation and setup.\nCurrently the only way to run a VM with macOS prior to 13.4 Ventura is to do so on a host with an M1, M2 or M3 chip.\nCan this be fixed?\nUnfortunately, as this bug prevents the VM from booting, there’s no reliable way to access its log to discover what’s going wrong there. There’s no sign of the failure in the host’s log either: the host appears to initialise its Virtio and other support normally, without errors or faults. After those, virtualisation processes on the host fall silent as they wait for the VM to start, which never happens.\nThere is a useful clue in Activity Monitor, though: in its CPU pane, despite being allocated multiple virtual cores, only one is seen to be active on the host. That implies the failure is occurring before the VM kernel boots the other cores, an event that occurs early during the kernel boot phase. Until that point, pre-boot phases and the kernel run on just a single CPU core.\nmacOS 13.4 updated iBoot to version 8422.121.1, so at first sight the VM could be failing when running older firmware. That doesn’t appear likely, as version 8422.121.1 was also installed in the 12.6.6 security update, so 12.7.x shouldn’t suffer this problem, but it does.\nIt thus appears most likely that this bug strikes in the early part of kernel boot, in which case the most feasible solution would be to fix the bug in macOS kernels prior to 13.4, and promulgate new IPSW image files for those. I suspect that’s very unlikely to happen, and as far as I’m aware it would be the first time that Apple has issued revised IPSWs.\nWhich macOS can you virtualise?\nSupport for lightweight virtualisation of macOS on Apple silicon Macs was still in progress in the first version of macOS to run on M1 chips, Big Sur. You therefore cannot create or run Big Sur VMs.\nThe first versions that can run in VMs are macOS 12 Monterey, although prior to 12.4 they can sometimes be a bit fractious. They also have major limitations, such as not supporting shared folders with the host.\nThis is 12.1 with its old System Preferences, running happily on an M3 Pro.\nmacOS Ventura should run well on M1, M2 and M3 hosts, and 13.4 and later on M4 hosts too.\nmacOS Sonoma should run even better on all current Apple silicon Macs, and delivers a much improved display with autoscaling. However, 14.2 and 14.2.1 don’t automatically support shared folders because of a bug that was fixed in 14.3.\nmacOS Sequoia is fully compatible, and adds support for iCloud Drive and some other Apple Account features, although still won’t run App Store apps. It may also fail to install the required extras to support Apple Intelligence.\nSummary\n- Currently, M4 Macs can only run VMs of macOS Ventura 13.4 and later, 14 Sonoma, and 15 Sequoia.\n- M1, M2 and M3 Macs can run VMs of macOS Monterey 12.0.1 and later.\n- macOS Big Sur 11 can’t be virtualised on Apple silicon.\nFurther information\nViable and virtualisation\nWhy macOS 14.2 & 14.2.1 VMs lose shared folders, and how to work around it",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/utmapp/UTM/issues/6794",
+    "https://www.github.com/utmapp/UTM/issues/6794"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Csaba Fitzl",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T12:56:02.791+02:00",
+  "updated": "2024-11-15T12:56:02.791+02:00"
+}

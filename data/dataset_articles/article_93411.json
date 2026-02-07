@@ -1,0 +1,131 @@
+{
+  "thread": {
+    "uuid": "d224b4333f49201e0350c46ee3d74e2f41439762",
+    "url": "https://www.thestar.com.my/sport/football/2024/07/26/canadian-coach-analyst-kicked-out-of-games-after-drone-incident",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/sport/football",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "Football - Sport | The Star",
+    "title": "Football: Canadian coach, analyst kicked out of Games after drone incident | The Star",
+    "title_full": "Football: Canadian coach, analyst kicked out of Games after drone incident | The Star",
+    "published": "2024-07-25T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+    "performance_score": 0,
+    "domain_rank": 2238,
+    "domain_rank_updated": "2024-07-23T13:08:24.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d224b4333f49201e0350c46ee3d74e2f41439762",
+  "url": "https://www.thestar.com.my/sport/football/2024/07/26/canadian-coach-analyst-kicked-out-of-games-after-drone-incident",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2024-07-25T19:00:00.000+03:00",
+  "title": "Football: Canadian coach, analyst kicked out of Games after drone incident | The Star",
+  "text": "PARIS: Canada coach Bev Priestman removed herself from their opening match duties at the Paris Olympics while an assistant coach and a team analyst were kicked out of the Games after a spying scandal engulfed the women’s football tournament.\nGlobal football’s governing body FIFA said they had begun disciplinary proceedings after New Zealand’s women’s team said their training session on Monday had been disrupted by a drone flown by a staff member of their opening Group A opponents Canada.\nThe Canadian Olympic Committee (COC) said on Wednesday they had taken action to remove two members of staff from their Olympic squad, who were gold medallists at the Tokyo Games, while Priestman would not take charge against New Zealand.\n“Joseph Lombardi, an unaccredited analyst with Canada Soccer, is being removed from the Canadian Olympic Team and will be sent home immediately,” COC said in a statement.\n“Jasmine Mander, an assistant coach to whom Mr Lombardi reports to, is being removed from the Canadian Olympic Team and will be sent home immediately.”\nLombardi was handed an eight-month suspended jail term and his material was confiscated, a French court said.\nFIFA said on Wednesday they had “opened proceedings against Canada Soccer, Ms Beverly Priestman, Mr Joseph Lombardi and Ms Jasmine Mander due to the potential breach of article 13 of the FIFA Disciplinary Code and article 6.1 of the Regulations Olympic Football”.\n“The matter will be submitted for the consideration of the Disciplinary Committee in the next days,” FIFA explained in a statement.\nPriestman apologised for what had happened and said ultimate responsibility lay with her.\n“On behalf of our entire team, I first and foremost want to apologise to the players and staff at New Zealand Football and to the players on Team Canada,” she said.\n“This does not represent the values that our team stands for. I am ultimately responsible for conduct in our programme.\n“Accordingly, to emphasise our team’s commitment to integrity, I have decided to voluntarily withdraw from coaching the match. In the spirit of accountability, I do this with the interests of both teams in mind and to ensure everyone feels that the sportsmanship of this game is upheld.”\nThe incident was reported by the NZOC to the police and to the International Olympic Committee’s integrity unit. — Reuters\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Sport"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bev priestman",
+        "sentiment": "negative"
+      },
+      {
+        "name": "priestman",
+        "sentiment": "none"
+      },
+      {
+        "name": "joseph lombardi",
+        "sentiment": "none"
+      },
+      {
+        "name": "jasmine mander",
+        "sentiment": "none"
+      },
+      {
+        "name": "lombardi",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "star paris",
+        "sentiment": "negative"
+      },
+      {
+        "name": "coc",
+        "sentiment": "none"
+      },
+      {
+        "name": "fifa",
+        "sentiment": "none"
+      },
+      {
+        "name": "canada soccer",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new zealand",
+        "sentiment": "none"
+      },
+      {
+        "name": "canada",
+        "sentiment": "none"
+      },
+      {
+        "name": "tokyo",
+        "sentiment": "none"
+      },
+      {
+        "name": "paris olymp",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-07-26T04:14:49.481+03:00",
+  "updated": "2024-07-26T04:14:49.481+03:00"
+}

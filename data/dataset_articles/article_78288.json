@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "fdfc11316bc18506a2344efe50cc2e8251ef2d5b",
+    "url": "https://informationsecuritybuzz.com/patching-for-persistence-dripdropper-malware-secures-the-door-it-broke-open/",
+    "site_full": "informationsecuritybuzz.com",
+    "site": "informationsecuritybuzz.com",
+    "site_section": "https://informationsecuritybuzz.com/feed",
+    "site_categories": [],
+    "section_title": "Information Security Buzz",
+    "site_title": "Information Security Buzz",
+    "title": "Patching for Persistence: DripDropper Malware Secures the Door It Broke Open",
+    "title_full": "Patching for Persistence: DripDropper Malware Secures the Door It Broke Open",
+    "published": "2025-08-21T09:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://informationsecuritybuzz.com/wp-content/uploads/DripDropper-Malware.jpg",
+    "performance_score": 0,
+    "domain_rank": 108866,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fdfc11316bc18506a2344efe50cc2e8251ef2d5b",
+  "url": "https://informationsecuritybuzz.com/patching-for-persistence-dripdropper-malware-secures-the-door-it-broke-open/",
+  "ord_in_thread": 0,
+  "author": "Kirsten Doyle",
+  "published": "2025-08-21T09:59:00.000+03:00",
+  "title": "Patching for Persistence: DripDropper Malware Secures the Door It Broke Open",
+  "text": "It sounds counterintuitive. An adversary exploits a system, gains access, and then patches the very hole they used to break in. Yet that is exactly what Red Canary researchers observed in a recent campaign targeting cloud-based Linux servers.\nThe logic is simple. By fixing the exploited vulnerability, a malefactor can lock out rivals and mask their method of entry. What looks like remediation is, in reality, persistence.\nThe Red Canary Threat Intelligence team tracked a cluster of activity exploiting CVE-2023-46604 in Apache ActiveMQ, a widely deployed open-source message broker.\nOnce inside, the adversary moved quickly. “It’s a great way to potentially lock out other adversaries, ensuring their foothold remains exclusive. It can also obscure the adversary’s initial access technique,” the researchers said.\nCovert Cloud Persistence\nDozens of cloud Linux endpoints were scanned and prodded. Some were compromised. On those, the threat actor deployed command-and-control tools, including Sliver and Cloudflare Tunnels, to maintain quiet, long-term access.\nIn one case, after planting the Sliver implant, the attacker altered the SSH daemon’s configuration to allow root logins. Modern Linux distributions disable this by default. Reversing the setting opened the door for unfettered remote control. From there, a new tool appeared: DripDropper.\nWhat is DripDropper?\nDripDropper is no ordinary dropper. It is an encrypted PyInstaller ELF file that requires a password to run, blocking most automated analysis. It communicates with a Dropbox account under adversary control. What is sent or received remains uncertain. What is clear is the result: two malicious files are left behind.\nThe first file’s function varies. Sometimes, it monitors processes, and other times, it calls back to Dropbox. Always, it persists, embedding itself into cron jobs. The second has a random eight-character name and frequently altered SSH configuration files.\nOne tactic is changing the default login shell for the “games” account to /bin/sh, preparing the way for hidden access.\nDripDropper’s reliance on Dropbox is not unusual. Public platforms like Discord, Telegram, and Dropbox have become common command-and-control channels. They blend into legitimate traffic and frustrate detection.\nA Patch With Purpose\nThe campaign revealed one more striking move. After achieving persistence, the attacker pulled down two JAR files from Apache Maven repositories. These were not backdoors. They were legitimate patches for CVE-2023-46604. By installing them, the adversary effectively closed the exploited vulnerability.\nRed Canary’s assessment is blunt: “We assess the adversary likely did this to reduce detection via common methods, such as vulnerability scanners, and to effectively reduce the likelihood of being spotted by defenders due to another adversary being detected when attempting to exploit the vulnerability.”\nIt is not the first time attackers have patched their own compromises. The tactic leaves defenders with a dangerous illusion of safety. A clean vulnerability scan does not always mean a secure system.\nWhy This Matters\nLinux has become the backbone of modern cloud infrastructure. Adversaries know it. They have invested in tools and tradecraft to exploit it. DripDropper shows how far they are willing to go to maintain persistence by fixing what they broke to keep the door locked from the inside.\nThe lesson for defenders is: do not assume patching alone is enough. Document every update. Verify who applied it and why. Build incident response playbooks designed for Linux and cloud environments.\nEffective defense requires multiple layers. Harden host-level configurations. Enforce secure SSH policies through automation tools like Ansible or Puppet. Run services with non-root accounts. Restrict exposure with ingress rules tied to trusted IPs or VPNs. And above all, monitor logs. They provide the trail that adversaries prefer you never see.\nThe Bigger Picture\nActiveMQ’s CVE-2023-46604 is nearly three years old. Yet it remains a favorite exploit path for ransomware operators and cryptominers. According to its EPSS score, it carries a 94.44 percent likelihood of being exploited in the next 30 days. That figure underscores the reality: even old flaws remain dangerous.\nNot the First Time\nThomas Richards, Infrastructure Security Practice Director at Black Duck says this isn’t the first threat actor to patch a vulnerability after they successfully exploited it. “The malware that exploited the Ivanti vulnerability back in February also patched the system after exploiting it to prevent competing attackers from compromising the same systems. Given that the vulnerability is at least two years old, systems that are exploited are probably not being monitored and maintained proactively by an organization’s patching system. The compromise and remediation probably goes unnoticed until the attacker tries to reach out to other systems and triggers alarms.”\nA Classic Case of Patching for Persistence\nRed Canary’s finding is a classic case of patching for persistence, adds Jason Soroko, Senior Fellow at Sectigo. “An adversary exploited the 2023 ActiveMQ RCE (CVE‑2023‑46604), established footholds with tools like Sliver and Cloudflare Tunnels, then quietly replaced the vulnerable ActiveMQ JARs with fixed versions from the Apache Maven repo—closing the very hole they used so scanners and opportunistic rivals wouldn’t trip the alarm.\n“On top of that, they hardened access by enabling root logins over SSH and deploying a password‑gated PyInstaller ELF (“DripDropper”) that talks to Dropbox, with cron‑based persistence via the `0anacron` scripts—tradecraft designed to blend in and stick around even after the vulnerability disappears from reports.”\nWe’ve seen this tactic before, Soroko says. “During the Citrix NetScaler/ADC CVE‑2019‑19781 wave, researchers documented ‘adversary patching’ and the NOTROBIN backdoor, which removed competitors’ webshells and altered components so only the intruder with a secret key could re‑enter—leaving victims ‘patched’ yet still backdoored.”\nSimilarly, he says government guidance during Log4Shell noted cases where attackers patched Log4j after compromise to evade detection. “It’s very possible for a security team to miss detecting someone else performing a patch. Unless teams correlate patch timestamps with authorized change tickets and hunt for side‑effects, they can wrongly assume remediation was internal and complete.”\nA False Sense of Security\nMayuresh Dani, Security Research Manager, at Qualys comments: “Most legacy vulnerability scanners and patch management systems focus on whether a vulnerability is patched, not who patched it. In such situations, the security teams often wouldn’t notice immediately and incorrectly assume they’re safe, missing that the patching occurred through compromise.”\nHowever, Dani adds that modern vulnerability management solutions now also include patch management workflows and ticketing systems inbuilt. “There definitely will be pointers in these systems as a vulnerability was discovered and assigned to someone in the security team for managing the risk and before the person got to mitigating it, the vulnerability now says patched. This missing patch attribution can help identify affected systems.”\nA Much Greater Problem\nNivedita Murthy, Senior Staff Consultant at Black Duck says patching a vulnerable software after taking advantage of its vulnerability is definitely a new tactic to avoid detection.\nHowever, she says this points to a much greater problem of attackers being able to install software without any additional permission. “This vulnerability should have been detected by the IT Team especially on the server. The attackers gained root access and that should have been flagged by any server monitoring tool. This incident highlights the need for stricter controls on operating environments and deeper detection mechanisms to identify changes that were not approved.”\nInformation Security Buzz News Editor\nKirsten Doyle has been in the technology journalism and editing space for nearly 24 years, during which time she has developed a great love for all aspects of technology, as well as words themselves. Her experience spans B2B tech, with a lot of focus on cybersecurity, cloud, enterprise, digital transformation, and data centre. Her specialties are in news, thought leadership, features, white papers, and PR writing, and she is an experienced editor for both print and online publications.\nThe opinions expressed in this post belong to the individual contributors and do not necessarily reflect the views of Information Security Buzz.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Social Issue->values",
+    "Politics->espionage and intelligence",
+    "Politics->safety of citizens"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://redcanary.com/blog/threat-intelligence/dripdropper-linux-malware/",
+    "https://redcanary.com/blog/threat-intelligence/dripdropper-linux-malware",
+    "https://www.redcanary.com/blog/threat-intelligence/dripdropper-linux-malware/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Red Canary Threat Intelligence",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:04:11.639+03:00",
+  "updated": "2025-08-21T12:08:14.000+03:00"
+}

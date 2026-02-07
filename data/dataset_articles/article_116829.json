@@ -1,0 +1,139 @@
+{
+  "thread": {
+    "uuid": "f1308117d21e0922aa4a1e181e0753da00696728",
+    "url": "https://www.welt.de/regionales/thueringen/article68afe0d65d3e123a945ada9d/Wetterdienst-warnt-vor-starken-Gewittern-in-Thueringen.html",
+    "site_full": "www.welt.de",
+    "site": "welt.de",
+    "site_section": "https://www.welt.de/beta",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Nachrichten, Hintergründe, Videos &amp; News-Ticker - WELT",
+    "site_title": "WELT - Aktuelle Nachrichten, News, Hintergründe &amp; Videos",
+    "title": "Wetterdienst warnt vor starken Gewittern in Thüringen - WELT",
+    "title_full": "Wetterdienst warnt vor starken Gewittern in Thüringen - WELT",
+    "published": "2025-08-28T07:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.welt.de/68afe0d65d3e123a945ada9d/3e29187f2fedae2b7f454a28ffdb6ae7-master/ci16x9-w1200/gewitter",
+    "performance_score": 0,
+    "domain_rank": 960,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f1308117d21e0922aa4a1e181e0753da00696728",
+  "url": "https://www.welt.de/regionales/thueringen/article68afe0d65d3e123a945ada9d/Wetterdienst-warnt-vor-starken-Gewittern-in-Thueringen.html",
+  "ord_in_thread": 0,
+  "author": "@welt",
+  "published": "2025-08-28T07:53:00.000+03:00",
+  "title": "Wetterdienst warnt vor starken Gewittern in Thüringen - WELT",
+  "text": "Am Morgen ziehen Gewitter über Thüringen hinweg. Der Deutsche Wetterdienst warnt vor Blitzschlag, Hagel und überfluteten Straßen.\nAnzeige Der Deutsche Wetterdienst (DWD) warnt in vielen Landesteilen Thüringens vor starken Gewittern mit Starkregen am Morgen und am Vormittag. Es bestehe Gefahr durch Blitzschlag, vereinzelt herabstürzende Bäume und Gegenstände sowie Hagelschlag, hieß es in einer Mitteilung.\nZudem warnte der Wetterdienst vereinzelt vor raschen Überflutungen von Straßen und Unterführungen sowie Aquaplaning. Der DWD riet dazu, Aufenthalt im Freien zu vermeiden, Gewässer und Unterführungen zu meiden sowie das Verhalten im Straßenverkehr anzupassen.\ndpa-infocom GmbH",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather warning"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.welt.de%2Fregionales%2Fthueringen%2Farticle68afe0d65d3e123a945ada9d%2FWetterdienst-warnt-vor-starken-Gewittern-in-Thueringen.html%3Fcid%3Dsocialmedia.linkedin.shared.web",
+    "https://www.linkedin.com/shareArticle",
+    "https://linkedin.com/shareArticle?url=https%3A%2F%2Fwww.welt.de%2Fregionales%2Fthueringen%2Farticle68afe0d65d3e123a945ada9d%2FWetterdienst-warnt-vor-starken-Gewittern-in-Thueringen.html%3Fcid%3Dsocialmedia.linkedin.shared.web"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Thüringens",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutsche Wetterdienst",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "dpa-infocom GmbH",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T08:56:33.554+03:00",
+  "updated": "2025-08-29T09:04:18.000+03:00"
+}

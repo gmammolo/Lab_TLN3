@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "8b31cdae77bda3eca6f3b9216b7e1102be9c4566",
+    "url": "https://natlawreview.com/article/privacy-tip-403-genai-tools-use-banned-us-house",
+    "site_full": "natlawreview.com",
+    "site": "natlawreview.com",
+    "site_section": "http://www.natlawreview.com/recent-contributions/feed/",
+    "site_categories": [],
+    "section_title": "Recent Contributors to The National Law Review",
+    "title": "Privacy Tip #403 – GenAI Tools Use Banned by US House",
+    "title_full": "Privacy Tip #403 – GenAI Tools Use Banned by US House",
+    "published": "2024-06-27T23:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://natlawreview.com/sites/default/files/styles/article_image/public/2024-06/AI%20Legal%20tech%20cloud%20Law%20machine%20learning.jpg?h=6a0f798c&amp;itok=H1vBIYb6",
+    "performance_score": 0,
+    "domain_rank": 3391,
+    "domain_rank_updated": "2024-06-25T13:08:38.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8b31cdae77bda3eca6f3b9216b7e1102be9c4566",
+  "url": "https://natlawreview.com/article/privacy-tip-403-genai-tools-use-banned-us-house",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Robinson & Cole LLP",
+  "published": "2024-06-27T23:11:00.000+03:00",
+  "title": "Privacy Tip #403 – GenAI Tools Use Banned by US House",
+  "text": "I always watch what the federal government requires of its employees’ use of technology to get a feel for risks and what is coming down the pike from a regulatory standpoint—this has been going on for years. That’s why I was one of the first to get a cover for my laptop camera, why I have been concerned about traveling to foreign countries with laptops, and why I was worried about the use of geofencing and location-based services long before it was commonly understood (and I would argue it is still NOT commonly understood). A perfect example is that the federal government was the first to ban the use of TikTok by its employees. Then states followed, prohibiting state employees from using TikTok on state-issued phones. Why? Because it is spyware. Not long after, Congress passed a [bipartisan bill banning TikTok entirely](https://natlawreview.com/article/aid-package-signed-president-biden-includes-divestiture-tiktok-requirement). I predict the same will be true with GenAI tools. In April, the U.S. House “set a [strict ban](https://www.axios.com/2024/03/29/congress-house-strict-ban-microsoft-copilot-staffers) on congressional staffers’ use of Microsoft Copilot,” after restricting staffers’ use of ChatGPT last year. The reason? “The Microsoft Copilot application has been deemed by the Office of Cybersecurity to be a risk to users due to the threat of leaking House data to non-House approved cloud services.” Therefore, it “will be removed from and blocked on all House Windows devices.” There are a several risks with using GenAI tools in the workplace, including the risk of exposing company data. Although using these tools will make work lives more efficient, it is essential to understand the risks and manage them personally and professionally. I thought [this article by Wired](https://www.wired.com/story/ai-workplace-privacy-security/) did a good job of explaining the risks in a cogent and efficient way and is worth a read",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Science and Technology"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.axios.com/2024/03/29/congress-house-strict-ban-microsoft-copilot-staffers",
+    "https://www.wired.com/story/ai-workplace-privacy-security/",
+    "https://www.wired.com/story/ai-workplace-privacy-security",
+    "https://axios.com/2024/03/29/congress-house-strict-ban-microsoft-copilot-staffers",
+    "https://wired.com/story/ai-workplace-privacy-security/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "house",
+        "sentiment": "negative"
+      },
+      {
+        "name": "congress",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s. house",
+        "sentiment": "none"
+      },
+      {
+        "name": "microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "us",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-28T02:10:57.888+03:00",
+  "updated": "2024-06-28T04:45:13.610+03:00"
+}

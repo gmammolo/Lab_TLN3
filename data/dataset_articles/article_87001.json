@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "3e59dfaf042eaa695b2ba73c50ef0a87db8a5095",
+    "url": "https://stackoverflow.com/questions/77883171/symfony-6-send-email-with-rabbit-custom-serializer-must-be-one-of-traver",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/feeds",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Stack Overflow",
+    "title": "symfony 6 send email with rabbit - custom serializer .... must be one of \"Traversable\", \"array\", \"string\" (\"null\" given)",
+    "title_full": "symfony 6 send email with rabbit - custom serializer .... must be one of \"Traversable\", \"array\", \"string\" (\"null\" given)",
+    "published": "2024-01-26T00:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3e59dfaf042eaa695b2ba73c50ef0a87db8a5095",
+  "url": "https://stackoverflow.com/questions/77883171/symfony-6-send-email-with-rabbit-custom-serializer-must-be-one-of-traver",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Developer",
+  "published": "2024-01-26T00:13:00.000+02:00",
+  "title": "symfony 6 send email with rabbit - custom serializer .... must be one of \"Traversable\", \"array\", \"string\" (\"null\" given)",
+  "text": "I try send email with symfony\nnamespace App\\Service\\Email; use Symfony\\Component\\Mailer\\Envelope; use Symfony\\Component\\Mailer\\MailerInterface; use Symfony\\Component\\Mime\\Address; use Symfony\\Component\\Mime\\Email; class EmailService { private MailerInterface $mailer; public function __construct(MailerInterface $mailer) { $this->mailer = $mailer; } public function send(Email $email, Envelope $envelope = null) { try{ $this->mailer->send($email); }catch (\\Throwable $exception){ dd($exception); } }\nhere is config\nframework: messenger: failure_transport: failed serializer: default_serializer: messenger.transport.symfony_serializer symfony_serializer: format: json context: {} transports: # https://symfony.com/doc/current/messenger.html#transport-configuration async: dsn: '%env(MESSENGER_TRANSPORT_DSN)%/async' shipping: dsn: '%env(MESSENGER_TRANSPORT_DSN)%/shipping' fulfilment: dsn: '%env(MESSENGER_TRANSPORT_DSN)%/fulfilment' create_discount: dsn: '%env(MESSENGER_TRANSPORT_DSN)%/create_discount' recalculate_inventory: dsn: '%env(MESSENGER_TRANSPORT_DSN)%/recalculate_inventory' failed: 'doctrine://default?queue_name=failed' # sync: 'sync://' routing: App\\Message\\CreateDiscountCommandMessage: create_discount App\\Message\\RecalculateFulfilledInventoryMessage: recalculate_inventory App\\Message\\RecalculateInventoryMessage: recalculate_inventory App\\Message\\ShippingMessage: shipping App\\Message\\ShippedMessage: fulfilment Symfony\\Component\\Mailer\\Messenger\\SendEmailMessage: async Symfony\\Component\\Notifier\\Message\\ChatMessage: async Symfony\\Component\\Notifier\\Message\\SmsMessage: async\nhere is handler\n<?php namespace App\\MessageHandler; use Symfony\\Component\\Mailer\\Messenger\\SendEmailMessage; use Symfony\\Component\\Mailer\\MailerInterface; use Symfony\\Component\\Messenger\\Attribute\\AsMessageHandler; use Symfony\\Component\\Mime\\Email; #[AsMessageHandler] class SendEmailMessageHandler { private $mailer; public function __construct(MailerInterface $mailer) { $this->mailer = $mailer; } public function __invoke(SendEmailMessage $message){\nhere is error\nphp /application/bin/console messenger:consume async -vvv [OK] Consuming messages from transport \"async\". // The worker will automatically exit once it has received a stop signal via the messenger:stop-workers command. // Quit the worker with CONTROL-C. In Serializer.php line 85: [Symfony\\Component\\Messenger\\Exception\\MessageDecodingFailedException] Could not decode message: The type of the \"message\" attribute for class \"Symfony\\Component\\Mime\\RawMessage\" must be one of \"Traversable\", \"array\", \"string\" (\"null\" given). Exception trace: at /application/vendor/symfony/messenger/Transport/Serialization/Serializer.php:85 Symfony\\Component\\Messenger\\Transport\\Serialization\\Serializer->decode() at /application/vendor/symfony/amqp-messenger/Transport/AmqpReceiver.php:66 Symfony\\Component\\Messenger\\Bridge\\Amqp\\Transport\\AmqpReceiver->getEnvelope() at /application/vendor/symfony/amqp-messenger/Transport/AmqpReceiver.php:47 Symfony\\Component\\Messenger\\Bridge\\Amqp\\Transport\\AmqpReceiver->getFromQueues() at /application/vendor/symfony/amqp-messenger/Transport/AmqpReceiver.php:41 Symfony\\Component\\Messenger\\Bridge\\Amqp\\Transport\\AmqpReceiver->get() at /application/vendor/symfony/messenger/Worker.php:106 Symfony\\Component\\Messenger\\Worker->run() at /application/vendor/symfony/messenger/Command/ConsumeMessagesCommand.php:229 Symfony\\Component\\Messenger\\Command\\ConsumeMessagesCommand->execute() at /application/vendor/symfony/console/Command/Command.php:312 Symfony\\Component\\Console\\Command\\Command->run() at /application/vendor/symfony/console/Application.php:1040 Symfony\\Component\\Console\\Application->doRunCommand() at /application/vendor/symfony/framework-bundle/Console/Application.php:88 Symfony\\Bundle\\FrameworkBundle\\Console\\Application->doRunCommand() at /application/vendor/symfony/console/Application.php:314 Symfony\\Component\\Console\\Application->doRun() at /application/vendor/symfony/framework-bundle/Console/Application.php:77 Symfony\\Bundle\\FrameworkBundle\\Console\\Application->doRun() at /application/vendor/symfony/console/Application.php:168 Symfony\\Component\\Console\\Application->run() at /application/vendor/symfony/runtime/Runner/Symfony/ConsoleApplicationRunner.php:54 Symfony\\Component\\Runtime\\Runner\\Symfony\\ConsoleApplicationRunner->run() at /application/vendor/autoload_runtime.php:29 require_once() at /application/bin/console:11 In NotNormalizableValueException.php line 31: [Symfony\\Component\\Serializer\\Exception\\NotNormalizableValueException] The type of the \"message\" attribute for class \"Symfony\\Component\\Mime\\RawMessage\" must be one of \"Traversable\", \"array\", \"string\" (\"null\" given). Exception trace: at /application/vendor/symfony/serializer/Exception/NotNormalizableValueException.php:31 Symfony\\Component\\Serializer\\Exception\\NotNormalizableValueException::createForUnexpectedDataType() at /application/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php:579 Symfony\\Component\\Serializer\\Normalizer\\AbstractObjectNormalizer->validateAndDenormalize() at /application/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php:591 Symfony\\Component\\Serializer\\Normalizer\\AbstractObjectNormalizer->denormalizeParameter() at /application/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php:365 Symfony\\Component\\Serializer\\Normalizer\\AbstractNormalizer->instantiateObject() at /application/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php:233 Symfony\\Component\\Serializer\\Normalizer\\AbstractObjectNormalizer->instantiateObject() at /application/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php:326 Symfony\\Component\\Serializer\\Normalizer\\AbstractObjectNormalizer->denormalize() at /application/vendor/symfony/serializer/Debug/TraceableNormalizer.php:71 Symfony\\Component\\Serializer\\Debug\\TraceableNormalizer->denormalize() at /application/vendor/symfony/serializer/Serializer.php:227 Symfony\\Component\\Serializer\\Serializer->denormalize() at /application/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php:527 Symfony\\Component\\Serializer\\Normalizer\\AbstractObjectNormalizer->validateAndDenormalize() at /application/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php:591 Symfony\\Component\\Serializer\\Normalizer\\AbstractObjectNormalizer->denormalizeParameter() at /application/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php:365 Symfony\\Component\\Serializer\\Normalizer\\AbstractNormalizer->instantiateObject() at /application/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php:233 Symfony\\Component\\Serializer\\Normalizer\\AbstractObjectNormalizer->instantiateObject() at /application/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php:326 Symfony\\Component\\Serializer\\Normalizer\\AbstractObjectNormalizer->denormalize() at /application/vendor/symfony/serializer/Debug/TraceableNormalizer.php:71 Symfony\\Component\\Serializer\\Debug\\TraceableNormalizer->denormalize() at /application/vendor/symfony/serializer/Serializer.php:227 Symfony\\Component\\Serializer\\Serializer->denormalize() at /application/vendor/symfony/serializer/Serializer.php:145 Symfony\\Component\\Serializer\\Serializer->deserialize() at /application/vendor/symfony/serializer/Debug/TraceableSerializer.php:61 Symfony\\Component\\Serializer\\Debug\\TraceableSerializer->deserialize() at /application/vendor/symfony/messenger/Transport/Serialization/Serializer.php:83 Symfony\\Component\\Messenger\\Transport\\Serialization\\Serializer->decode() at /application/vendor/symfony/amqp-messenger/Transport/AmqpReceiver.php:66 Symfony\\Component\\Messenger\\Bridge\\Amqp\\Transport\\AmqpReceiver->getEnvelope() at /application/vendor/symfony/amqp-messenger/Transport/AmqpReceiver.php:47 Symfony\\Component\\Messenger\\Bridge\\Amqp\\Transport\\AmqpReceiver->getFromQueues() at /application/vendor/symfony/amqp-messenger/Transport/AmqpReceiver.php:41 Symfony\\Component\\Messenger\\Bridge\\Amqp\\Transport\\AmqpReceiver->get() at /application/vendor/symfony/messenger/Worker.php:106 Symfony\\Component\\Messenger\\Worker->run() at /application/vendor/symfony/messenger/Command/ConsumeMessagesCommand.php:229 Symfony\\Component\\Messenger\\Command\\ConsumeMessagesCommand->execute() at /application/vendor/symfony/console/Command/Command.php:312 Symfony\\Component\\Console\\Command\\Command->run() at /application/vendor/symfony/console/Application.php:1040 Symfony\\Component\\Console\\Application->doRunCommand() at /application/vendor/symfony/framework-bundle/Console/Application.php:88 Symfony\\Bundle\\FrameworkBundle\\Console\\Application->doRunCommand() at /application/vendor/symfony/console/Application.php:314 Symfony\\Component\\Console\\Application->doRun() at /application/vendor/symfony/framework-bundle/Console/Application.php:77 Symfony\\Bundle\\FrameworkBundle\\Console\\Application->doRun() at /application/vendor/symfony/console/Application.php:168 Symfony\\Component\\Console\\Application->run() at /application/vendor/symfony/runtime/Runner/Symfony/ConsoleApplicationRunner.php:54 Symfony\\Component\\Runtime\\Runner\\Symfony\\ConsoleApplicationRunner->run() at /application/vendor/autoload_runtime.php:29 require_once() at /application/bin/console:11 messenger:consume [-l|--limit LIMIT] [-f|--failure-limit FAILURE-LIMIT] [-m|--memory-limit MEMORY-LIMIT] [-t|--time-limit TIME-LIMIT] [--sleep SLEEP] [-b|--bus BUS] [--queues QUEUES] [--no-reset] [--] [<receivers>...]\nlibraries\n\"require\": { \"php\": \">=8.2.3\", \"ext-ctype\": \"*\", \"ext-iconv\": \"*\", \"beberlei/doctrineextensions\": \"^1.3\", \"ccampbell/chromephp\": \"^4.1\", \"doctrine/annotations\": \"^2.0\", \"doctrine/dbal\": \"^3.6\", \"doctrine/doctrine-bundle\": \"*\", \"doctrine/doctrine-migrations-bundle\": \"^3.2\", \"doctrine/orm\": \"^2.14\", \"elliotjreed/royal-mail-tracking\": \"^3.0\", \"friendsofsymfony/ckeditor-bundle\": \"^2.4\", \"friendsofsymfony/jsrouting-bundle\": \"^3.2\", \"gnikyt/basic-shopify-api\": \"^11.0\", \"jms/serializer-bundle\": \"*\", \"knplabs/knp-paginator-bundle\": \"^6.2\", \"lcobucci/jwt\": \"^5.0\", \"moneyphp/money\": \"^3.3\", \"nesbot/carbon\": \"^2.66\", \"openai-php/client\": \"^0.6.1\", \"phpdocumentor/reflection-docblock\": \"^5.3\", \"phpstan/phpdoc-parser\": \"^1.16\", \"sensio/framework-extra-bundle\": \"^6.2\", \"setasign/fpdf\": \"^1.8\", \"setasign/fpdi\": \"^2.3\", \"shopify/shopify-api\": \"^4.2\", \"sonata-project/admin-bundle\": \"^4.27.1\", \"sonata-project/doctrine-orm-admin-bundle\": \"^4.10\", \"sonata-project/user-bundle\": \"^5.6\", \"stof/doctrine-extensions-bundle\": \"*\", \"symfony/amqp-messenger\": \"6.2.*\", \"symfony/asset\": \"6.2.*\", \"symfony/console\": \"6.2.*\", \"symfony/debug-bundle\": \"6.2.*\", \"symfony/doctrine-messenger\": \"6.2.*\", \"symfony/dotenv\": \"6.2.*\", \"symfony/expression-language\": \"6.2.*\", \"symfony/flex\": \"^2\", \"symfony/form\": \"6.2.*\", \"symfony/framework-bundle\": \"6.2.*\", \"symfony/http-client\": \"6.2.*\", \"symfony/intl\": \"6.2.*\", \"symfony/lock\": \"6.2.*\", \"symfony/mailer\": \"6.2.*\", \"symfony/mercure-bundle\": \"^0.3.6\", \"symfony/mime\": \"6.2.*\", \"symfony/monolog-bundle\": \"^3.0\", \"symfony/notifier\": \"6.2.*\", \"symfony/process\": \"6.2.*\", \"symfony/property-access\": \"6.2.*\", \"symfony/property-info\": \"6.2.*\", \"symfony/rate-limiter\": \"6.2.*\", \"symfony/runtime\": \"6.2.*\", \"symfony/security-bundle\": \"6.2.*\", \"symfony/serializer\": \"6.2.*\", \"symfony/string\": \"6.2.*\", \"symfony/translation\": \"6.2.*\", \"symfony/twig-bundle\": \"6.2.*\", \"symfony/validator\": \"6.2.*\", \"symfony/web-link\": \"6.2.*\", \"symfony/webpack-encore-bundle\": \"^1.16\", \"symfony/yaml\": \"6.2.*\", \"symfonycasts/verify-email-bundle\": \"^1.13\", \"tbbc/money-bundle\": \"^5.0\", \"twig/extra-bundle\": \"^2.12|^3.0\", \"twig/twig\": \"^2.12|^3.0\", \"vich/uploader-bundle\": \"2.1.1\", \"ext-bcmath\": \"*\" },\nupdate 1\nwhen i remove custom serializer :\nframework: messenger: failure_transport: failed # serializer: # default_serializer: messenger.transport.symfony_serializer # symfony_serializer: # format: json # context: {}\nmessage is received - but i need this serializer for other handlers, how to configure email - async queue serializer ?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://symfony.com/doc/current/messenger.html#transport-configuration",
+    "https://www.symfony.com/doc/current/messenger.html#transport-configuration"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "mailer",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:15:22.590+02:00",
+  "updated": "2024-01-26T00:15:22.590+02:00"
+}

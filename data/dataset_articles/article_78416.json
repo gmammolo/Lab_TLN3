@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "95fea29eafef1d1d09269d564c81c64b06b083c6",
+    "url": "https://www.techlusive.in/news/iphone-xs-iphone-11-iphone-12-iphone-13-iphone-14-iphone-15-iphone-16-ipad-and-mac-users-hit-by-a-zero-day-flaw-apple-asks-you-to-update-your-devices-right-away-1588708/",
+    "site_full": "www.techlusive.in",
+    "site": "techlusive.in",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": "Technology and Gadgets &#8211; News, Reviews, Comparisons | Gadgets, Gizmos &amp; Mobiles | Video &amp; Photo Reviews at Techlusive India",
+    "title": "iPhone, iPad, And Mac Users Hit By A Zero-Day Flaw; Apple Asks You To Update Right Away",
+    "title_full": "iPhone, iPad, And Mac Users Hit By A Zero-Day Flaw; Apple Asks You To Update Right Away",
+    "published": "2025-08-21T11:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://st1.techlusive.in/wp-content/uploads/2025/08/Apple-Attack.png",
+    "performance_score": 0,
+    "domain_rank": 145867,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "95fea29eafef1d1d09269d564c81c64b06b083c6",
+  "url": "https://www.techlusive.in/news/iphone-xs-iphone-11-iphone-12-iphone-13-iphone-14-iphone-15-iphone-16-ipad-and-mac-users-hit-by-a-zero-day-flaw-apple-asks-you-to-update-your-devices-right-away-1588708/",
+  "ord_in_thread": 0,
+  "author": "@techlusiveOFCL",
+  "published": "2025-08-21T11:33:00.000+03:00",
+  "title": "iPhone, iPad, And Mac Users Hit By A Zero-Day Flaw; Apple Asks You To Update Right Away",
+  "text": "Apple has notified all iPhone, iPad, and Mac users of another zero-day vulnerability, a topic of concern for all users. As per a support page by Apple, a security flaw number CVE-2025-43300 has caused an out-of-bounds write issue, which was addressed with improved bounds checking. What’s the issue with it?\nApple security researchers have revealed that processing a malicious image file may result in memory corruption. If exploited, a malicious image file could cause memory corruption. In the worst case, attackers could use it for remote code execution, potentially giving them control over a targeted device. “Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals,” Apple said in a report.\nThe zero-day vulnerability has impacted several devices, which include:\nTo address the issue, Apple has rolled out emergency security updates across iOS, iPadOS, and macOS versions. The fix comes in iOS 18.6.2 and iPadOS 18.6.2, as well as iPadOS 17.7.10 for older models.\nOn the Mac side, updates are available in macOS Sequoia 15.6.1, macOS Sonoma 14.7.8, and macOS Ventura 13.7.8. Apple says the flaw has been resolved through improved bounds checking, which prevents attackers from writing data outside the intended memory space.\nWhile Apple has not shared specifics about the attacks, it did note that the vulnerability has already been used in “extremely sophisticated attacks” against a handful of targeted individuals. That means the average user may not be the primary target, but Apple still urges everyone to update as quickly as possible.\nSecurity experts recommend installing the latest software updates right away. You can head to Settings > General > Software Update on iPhone and iPad, or System Settings > General > Software Update on Mac, to check if the latest version is available for your device.\nGet latest Tech and Auto news from Techlusive on ourAuthor Name | Divya\nSelect Language",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Apple",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AAPL",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:32:05.752+03:00",
+  "updated": "2025-08-21T12:38:18.000+03:00"
+}

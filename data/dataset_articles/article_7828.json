@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "2d624c5b3af529509f0c4bc2327366aa109123bd",
+    "url": "https://www.saarbruecker-zeitung.de/saarland/blickzumnachbarn/a2-nach-schwerem-lastwagenunfall-gesperrt-ein-toter_aid-141928505",
+    "site_full": "www.saarbruecker-zeitung.de",
+    "site": "saarbruecker-zeitung.de",
+    "site_section": "https://www.saarbruecker-zeitung.de/feed.rss",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news",
+      "politics",
+      "sport",
+      "arts, culture and entertainment",
+      "lifestyle and leisure",
+      "economy, business and finance",
+      "health",
+      "crime, law and justice"
+    ],
+    "section_title": "Home | Saarbrücker Zeitung",
+    "site_title": "Nachrichten für das Saarland, Deutschland und die Welt",
+    "title": "Autobahnunfall: A2 nach schwerem Lastwagenunfall gesperrt - ein Toter",
+    "title_full": "Autobahnunfall: A2 nach schwerem Lastwagenunfall gesperrt - ein Toter",
+    "published": "2026-01-08T08:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.saarbruecker-zeitung.de/imgs/03/2/5/4/8/1/1/9/1/9/tok_7a5a1f3aea7f8b185c754163e225e8f7/w1200_h630_x1024_y668_niug5fznt3-v6-ax-s2048-d850e2d5831f22b3.jpeg",
+    "performance_score": 0,
+    "domain_rank": 35340,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2d624c5b3af529509f0c4bc2327366aa109123bd",
+  "url": "https://www.saarbruecker-zeitung.de/saarland/blickzumnachbarn/a2-nach-schwerem-lastwagenunfall-gesperrt-ein-toter_aid-141928505",
+  "ord_in_thread": 0,
+  "author": "Saarbrücker Zeitung",
+  "published": "2026-01-08T08:29:00.000+02:00",
+  "title": "Autobahnunfall: A2 nach schwerem Lastwagenunfall gesperrt - ein Toter",
+  "text": "Nach einem schweren Lastwagenunfall ist die Autobahn 2 nach Hannover nahe der Abfahrt Herford seit dem frühen Morgen gesperrt. In Richtung Dortmund fließe der Verkehr nur einspurig, teilte die Polizei Bielefeld mit. Es werde mit erheblichen Verkehrsbehinderungen bis zum späten Vormittag gerechnet. Bei dem Unfall war eine Sattelzugmaschine mit zwei Insassen aus unbekannten Gründen umgestürzt und auf die Mittelleitplanke gestürzt. Ein Mensch wurde getötet, der 59 Jahre alte Fahrer erlitt laut Polizei lebensgefährliche Verletzungen.\n© dpa-infocom, dpa:260108-930-512744/1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->transportation accident and incident"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Hannover",
+        "sentiment": "none"
+      },
+      {
+        "name": "Herford",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bielefeld",
+        "sentiment": "none"
+      },
+      {
+        "name": "Dortmund",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T08:44:21.836+02:00",
+  "updated": "2026-01-09T09:06:56.000+02:00"
+}

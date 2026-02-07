@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "5d5e28efc55685a11404587dcf89b1a7f76f819c",
+    "url": "https://www.neowin.net/news/after-15-years-of-secrecy-microsoft-unveils-azures-actual-revenue/",
+    "site_full": "www.neowin.net",
+    "site": "neowin.net",
+    "site_section": "https://www.neowin.net/news/cat",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "Tech News, Reviews & Betas | Neowin",
+    "site_title": "Tech News, Reviews & Betas | Neowin",
+    "title": "After 15 years of secrecy, Microsoft unveils Azure's actual revenue - Neowin",
+    "title_full": "After 15 years of secrecy, Microsoft unveils Azure's actual revenue - Neowin",
+    "published": "2025-07-31T06:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.neowin.com/news/images/uploaded/2021/05/1620422423_azure_logo_new_1_story.jpg",
+    "performance_score": 0,
+    "domain_rank": 3870,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5d5e28efc55685a11404587dcf89b1a7f76f819c",
+  "url": "https://www.neowin.net/news/after-15-years-of-secrecy-microsoft-unveils-azures-actual-revenue/",
+  "ord_in_thread": 0,
+  "author": "@pradeepviswav",
+  "published": "2025-07-31T06:36:00.000+03:00",
+  "title": "After 15 years of secrecy, Microsoft unveils Azure's actual revenue - Neowin",
+  "text": "Microsoft first announced its cloud computing platform under the name \"Windows Azure\" at the Microsoft PDC in October 2008. Later, Azure officially went live on February 1, 2010. In the 15 years since its launch, Microsoft has never disclosed Azure’s standalone revenue. Instead, its financials were always combined with other commercial products and services, making it difficult to assess Azure’s true performance.\nToday, Microsoft announced its earnings for the quarter ended June 30, 2025. As part of the results, Microsoft CEO Satya Nadella finally revealed that Azure surpassed $75 billion in revenue in the fiscal year ended June 30, 2025, up 34 percent year-over-year, driven by growth across all workloads.\nFor comparison, AWS generated around $108 billion in cloud revenue in 2024, and based on early 2025 results, it is trending toward an annual run rate of approximately $117 billion. Azure is still $42 billion behind AWS in annual revenue, which is about a 36% gap. If both maintain their current growth rates, it would take Azure around 3 to 4 years to catch up.\nRecently, Google reported its Q2 2025 earnings. According to the results, Google Cloud generated $13.6 billion in revenue, reflecting 32% year-over-year growth and an annualized run rate exceeding $54 billion. This indicates that Azure remains significantly larger than Google Cloud in terms of annual revenue but still trails well behind the market leader, AWS.\nMicrosoft CFO Amy Hood said the following during the earnings call webcast:\n\"Commercial remaining performance obligation increased to $368 billion, up 37% (and 35% in constant currency). Roughly 35% will be recognized as revenue in the next 12 months, up 21% year-over-year. The remaining portion, to be recognized beyond the next 12 months, increased by 49%. And this quarter, our annuity mix was again 98%.\"\nShe also mentioned that, while Microsoft brought additional datacenter capacity online this quarter, demand continues to outpace supply. These factors indicate that Azure is likely to maintain its strong growth momentum in the coming quarters. To support this growth, Microsoft expects to spend over $30 billion in capital expenditures in the next quarter alone.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->financial and economic news",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://view.officeapps.live.com/op/view.aspx?src=https://microsoft.com/en-us/investor/earnings/FY-2025-Q4/Document/DownloadDocument/65/TranscriptQandAFY25q4.docx",
+    "https://view.officeapps.live.com/op/view.aspx",
+    "https://www.view.officeapps.live.com/op/view.aspx?src=https://www.microsoft.com/en-us/investor/earnings/FY-2025-Q4/Document/DownloadDocument/65/TranscriptQandAFY25q4.docx"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Satya Nadella",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "MSFT",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Google",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T07:37:39.903+03:00",
+  "updated": "2025-07-31T07:40:11.000+03:00"
+}

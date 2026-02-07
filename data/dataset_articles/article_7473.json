@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "4e0470330d49a6c4d9ba2891c2534e64e2efa6de",
+    "url": "https://www.schwarzwaelder-bote.de/inhalt.nachbarn-unter-schock-explosion-eines-wohnhauses-in-albstadt-tailfingen.c1a8019e-d7d0-49f2-8e8b-efd639618f6d.html",
+    "site_full": "www.schwarzwaelder-bote.de",
+    "site": "schwarzwaelder-bote.de",
+    "site_section": "https://www.schwarzwaelder-bote.de/.rss.feed",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news",
+      "arts, culture and entertainment",
+      "sport",
+      "disaster and accident",
+      "lifestyle and leisure",
+      "economy, business and finance",
+      "crime, law and justice",
+      "politics"
+    ],
+    "section_title": "Schwarzwälder Bote - Lokal",
+    "site_title": "Lokal - Schwarzwälder Bote",
+    "title": "Nachbarn unter Schock: Explosion eines Wohnhauses in Albstadt-Tailfingen",
+    "title_full": "Nachbarn unter Schock: Explosion eines Wohnhauses in Albstadt-Tailfingen",
+    "published": "2026-01-08T07:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.schwarzwaelder-bote.de/media.media.78c5327d-c6ec-474c-892e-d4093fee66f4.16x9_1024.jpg",
+    "performance_score": 1,
+    "domain_rank": 34947,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 14,
+        "comments": 9,
+        "shares": 10
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4e0470330d49a6c4d9ba2891c2534e64e2efa6de",
+  "url": "https://www.schwarzwaelder-bote.de/inhalt.nachbarn-unter-schock-explosion-eines-wohnhauses-in-albstadt-tailfingen.c1a8019e-d7d0-49f2-8e8b-efd639618f6d.html",
+  "ord_in_thread": 0,
+  "author": "(Nölke/red)",
+  "published": "2026-01-08T07:31:00.000+02:00",
+  "title": "Nachbarn unter Schock: Explosion eines Wohnhauses in Albstadt-Tailfingen",
+  "text": "Am frühen Donnerstagmorgen ist in Albstadt-Tailfingen ein Wohnhaus explodiert. Feuerwehr und der Rettungsdienst sind im Großeinsatz.\nAm Donnerstagmorgen um 5 Uhr ging der Notruf ein. Ein Doppelhaus in der Josefstraße in Albstadt-Tailfingen ist explodiert. Das Gebäude ist vollständig eingestürzt. Ob sich Personen darin befunden haben, ist bislang unklar.\nRund 150 Einsatzkräfte von Feuerwehr, Rettungsdienst, THW und Polizei sind vor Ort.\nAuch die Nachbarhäuser wurden zum Teil erheblich beschädigt und mussten evakuiert werden. Fenster wurden durch die Explosion zerschlagen.\nDie Bewohner stehen zum Teil unter Schock und werden von der psychosozialen Notfallversorgung Zollernalb betreut. Verletzt wurde aus der Nachbarschaft laut ersten Erkenntnissen niemand.\nDie Strom- und Wasserversorgung ist unterbrochen, Straßen sind zugeschneit.\nWir berichten weiter.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->explosion accident and incident"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Albstadt-Tailfingen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Josefstraße",
+        "sentiment": "none"
+      },
+      {
+        "name": "Zollernalb",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "THW",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T08:18:36.591+02:00",
+  "updated": "2026-01-08T08:24:20.000+02:00"
+}

@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "47351a809558c4c34004c7aa13dfb507e2944463",
+    "url": "https://www.osnews.com/story/141134/startups-ai-tool-spams-github-repositories-with-bogus-commits-without-consent",
+    "site_full": "www.osnews.com",
+    "site": "osnews.com",
+    "site_section": "https://www.osnews.com",
+    "site_categories": [
+      "windows",
+      "tech",
+      "palmtops_pdas"
+    ],
+    "section_title": "OSnews  -  Exploring the Future of Computing",
+    "title": "Startup’s “AI” tool spams GitHub repositories with bogus commits, without consent",
+    "title_full": "Startup’s “AI” tool spams GitHub repositories with bogus commits, without consent",
+    "published": "2024-11-14T18:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NL",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 9944,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "47351a809558c4c34004c7aa13dfb507e2944463",
+  "url": "https://www.osnews.com/story/141134/startups-ai-tool-spams-github-repositories-with-bogus-commits-without-consent",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Thom Holwerda",
+  "published": "2024-11-14T18:47:00.000+02:00",
+  "title": "Startup’s “AI” tool spams GitHub repositories with bogus commits, without consent",
+  "text": "Update: that was quick! GitHub\n[banned the “AI” company’s account](https://github.com/lattaai9). Only GitHub gets to spam AI on GitHub, thank you very much.\nMost of the time, products with “AI” features just elicit sighs, especially when the product category in question really doesn’t need to have anything to do with “AI” in any way, shape, or form. More often than not, though, such features are not only optional and easily ignorable, and we can always simply choose not to buy or use said products in the first place. I mean, over the last few days I’ve migrated my Pixel 8 Pro from stock Google Android to GrapheneOS as the final part of my platform transition away from big tech, and Google’s insistence on shoving “AI” into everything certainly helped in spurring this along.\nBut what are you supposed to do if an “AI” product forces itself upon you? What if you can’t run away from it? What if, one day, you open your GitHub repository and see a bunch of useless PRs from an “AI” bot who claims to help you fix issues, without you asking it to do so? Well, that’s what’s happening to a bunch of GitHub users who were unpleasantly surprised to see garbage, useless merge requests from a random startup testing out some “AI” tool that attempts to automatically ‘fix’ open issues on GitHub.\nThe proposed ‘fixes’ are accompanied by a disclaimer:\nDisclaimer: The commit was created by Latta AI and you should never copy paste this code before you check the correctness of generated code. Solution might not be complete, you should use this code as an inspiration only.\nThis issue was tried to solve for free by Latta AI –\n[https://latta.ai/ourmission]\nIf you no longer want Latta AI to attempt solving issues on your repository, you can block this account.\n[↫ Example of a public open issue with the “AI” spam]\nLet me remind you: this tool, called “Latta AI”, is doing all of this unprompted, without consent, and the commits generally seem bogus and useless, too, in that they don’t actually fix any of the issues. To make matters worse, your GitHub repository will then automatically appear as part of its marketing – again without any consent or permission from the owners of the GitHub projects in question.\nClicking through to the GitHub repositories listed on the front page will reveal a lot about how developers are responding: they’re not amused. Every link I clicked on had Latta AI’s commit and comment marked as spam, abuse, or just outright deleted. We’re talking public open issues here, so it’s not like developers aren’t looking for input and possible fixes from third parties – they just want that input and those possible fixes to come from real humans, not some jank code generator that’s making us destroy the planet even faster.\nThis is what the future of “AI” really looks like. It’s going to make spam even easier to make, even more pervasive, and even cheaper, and it’s going to infest everything. Nothing will be safe from these monkeys on typewriters, and considering what the spread of misinformation by human-powered troll farms can do, I don’t think we’re remotely ready for what “AI” is going to mean for our society. I can assure you lying about brown people eating cats and dogs will be remembered as quaint before this nonsense is over.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://latta.ai/ourmission",
+    "https://github.com/theresnotime/as-a-treat/pull/133",
+    "https://www.github.com/theresnotime/as-a-treat/pull/133",
+    "https://www.latta.ai/ourmission"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:26:23.877+02:00",
+  "updated": "2024-11-22T22:36:56.799+02:00"
+}

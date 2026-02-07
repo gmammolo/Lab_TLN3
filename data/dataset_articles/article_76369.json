@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "f074baf9afe0107ae1fa75816c77d3803c119876",
+    "url": "https://technology.inquirer.net/139858/banshee-stealer-malware-targets-business-data-of-macos-users",
+    "site_full": "technology.inquirer.net",
+    "site": "inquirer.net",
+    "site_section": "https://www.inquirer.net/",
+    "site_categories": [
+      "media",
+      "tech",
+      "top_news_ph",
+      "top_news"
+    ],
+    "section_title": "INQUIRER.net | Philippine news for Filipinos",
+    "title": "Banshee Stealer malware targets business data of macOS users",
+    "title_full": "Banshee Stealer malware targets business data of macOS users",
+    "published": "2025-01-10T09:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PH",
+    "main_image": "https://technology.inquirer.net/files/2025/01/banshee-stealer-featured-image.png",
+    "performance_score": 0,
+    "domain_rank": 2062,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 23,
+        "comments": 0,
+        "shares": 4
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f074baf9afe0107ae1fa75816c77d3803c119876",
+  "url": "https://technology.inquirer.net/139858/banshee-stealer-malware-targets-business-data-of-macos-users",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dale Arasa",
+  "published": "2025-01-10T09:55:00.000+02:00",
+  "title": "Banshee Stealer malware targets business data of macOS users",
+  "text": "Figure 1: Banshee login panel On January 9, 2025, Check Point Research (CSR) announced that it discovered a more sophisticated version of the Banshee Stealer malware.\nIt warned that businesses must be careful as hackers could use it to “compromise sensitive information and damage reputations.”\nREAD: AI hacking method steals passwords by listening to keyboards\nArticle continues after this advertisement It evades conventional detection methods, allowing it to inflict long-term damage before IT professionals can pinpoint the virus.\nThe Banshee Stealer’s increasing threat The cybersecurity research group says the public discovered the Banshee MacOS Stealer in mid-2024.\nUnderground forums advertised it as a “stealer-as-a-service,” which could target Apple computer users for $3,000.\nArticle continues after this advertisement In late September, Check Point Research identified a new version that “stole’ a string encryption algorithm from Apple’s official XProtect antivirus engine.\nArticle continues after this advertisement This code replaces the plain text strings in the original version, allowing the Banshee Stealer to evade antivirus engines.\nArticle continues after this advertisement Moreover, cybercriminals distributed this malware via phishing websites and malicious GitHub repositories disguised as popular software tools.\nThese included Google Chrome, Telegram, and TradingView, and the malware performed the following once it completes installation:\nArticle continues after this advertisement Steals system data from internet browsers like Chrome and cryptocurrency wallet extensions Exploits a two-factor authentication (2FA) extension to capture sensitive credentials Collects external IP addresses, macOS passwords, and software and hardware details Tricks users into sharing their macOS passwords Sends stolen information to outside servers via encrypted and encoded files In November 2024, its source code leaked on XSS underground forums. As a result, antivirus programs improved their Banshee Stealer detection.\nHowever, multiple campaigns continue to distribute the malware through phishing websites.\nIn response, businesses and users must bolster their cybersecurity with the latest tools and other proactive methods.\nYour subscription could not be saved. Please try again.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->biotechnology",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:30:17.052+02:00",
+  "updated": "2025-01-17T17:19:37.071+02:00"
+}

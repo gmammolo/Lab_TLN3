@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "30a800b40776624cca05ec297f68354f726cca27",
+    "url": "https://formidableforms.com/add-reviews-wordpress",
+    "site_full": "formidableforms.com",
+    "site": "formidableforms.com",
+    "site_section": "https://formidableforms.com/comments/feed",
+    "site_categories": [
+      "web_design_html",
+      "tech"
+    ],
+    "section_title": "\n\tComments for Formidable Forms\t",
+    "title": "Comment on How to Add Reviews to Your WordPress Website by Bri",
+    "title_full": "Comment on How to Add Reviews to Your WordPress Website by Bri",
+    "published": "2024-04-12T02:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://formidableforms.com/wp-content/uploads/2020/01/add-reviews-wordpress-website.png",
+    "performance_score": 0,
+    "domain_rank": 54612,
+    "domain_rank_updated": "2024-04-09T13:11:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "30a800b40776624cca05ec297f68354f726cca27",
+  "url": "https://formidableforms.com/add-reviews-wordpress",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bri",
+  "published": "2024-04-12T02:19:00.000+03:00",
+  "title": "Comment on How to Add Reviews to Your WordPress Website by Bri",
+  "text": "Looking for a way to add reviews to your website? Trying to make a review website? If you use WordPress, this guide is for you.\nApproximate read-time: 5.5 minutes\nIn this tutorial, we'll show you how to create a review page on your WordPress site. Whether you are trying to build a review website yourself or you are adding a reviews section to your website, a solid WordPress form plugin has all the flexibility you need to make it happen.\nSure, you can add reviews to your site with one of the many WordPress customer review plugins available. But since collecting and displaying reviews revolves around website forms, why not skip the extra plugin and just use a form plugin like Formidable?\nBefore showing you how powerful Formidable can be for customer reviews, let's look at the world of reviews under a microscope.\nThe power of customer reviews\nCustomer reviews have become a giant part of the online buyer's journey. One\nrecent report stated that 88% of customers say online reviews influence their purchasing decisions.\nThis means that business owners large and small can gain huge advantage against their competitors just by collecting positive customer reviews for social proof.\nReviews are essentially a kind of\nuser-submitted content. This kind of content is a powerful addition to any website - WordPress site or otherwise. Unless your WordPress theme allows customers to leave reviews by default, you'll need another solution.\nWhy not use a WP customer reviews plugin?\nAs mentioned above, a dedicated\nWordPress customer reviews plugin is an option. But before searching for one of those, take a look at your plugin directory. How many plugins do you have? Can you even remember what they all do?\nTurns out there are some risks involved with having\ntoo many plugins on your WordPress site:\n- Decreased Site Speed\n- Security Vulnerabilities\n- Reliability Issues & Site Crashes\n- Difficulty Managing Your Site\nCarefully considering the above is critical to success. It doesn't matter how well curated your customer reviews are if your website crashes due to a bloated plugin directory. One solid form plugin can replace several other plugins, going a long way towards solving the above issues.\nHarness the power of reviews: two methods\nBy now we must be in agreement: customer reviews are powerful. So how do you plan to use them to your advantage? There are two main methods:\n- Adding a reviews section to your website\n- Building a dedicated review website\nIf you are a small business owner, maybe all you want is to add reviews to your website. The good news: Formidable can help you do that.\nNow people are learning they can create a review website as a standalone. This kind of site curates reviews about specific products, locations, and experiences. Again, good news! Formidable can help you do that. Luckily, the overall approach is the same no matter which method you are developing.\nKeep reading to learn how Formidable can turn your website into a review curating machine.\nDisplaying reviews on your website\nWhether you want to build a review website to stand alone, or are interested in simply adding a reviews section to your website, there are a few basic steps involved:\n- Create a Form with Star Ratings\n- Build a Review Listing Page\n- Add a Widget to Display Reviews\nTo properly display and collect reviews on your site, you'll need the\npremium version of Formidable. This is needed to add a Star Rating field and access the Views feature.\nStep 1: Create a form with star ratings\nThe first thing you'll need to do is to create a new Review form. You will need to include the following three fields: Your Name (text field), Your Review (paragraph), and a Star Rating field. You may want to mark all these fields Required as well.\nBefore moving to the next step, try submitting a few sample reviews through your newly created form. To do this, click on the Form Entries tab and input your sample reviews. This can also be done anywhere you choose to display the form on your site.\nStep 2: Create a review listing page\nNext, you'll need to create a review listing page. This is a dedicated page where you can display customer or product reviews.\nIn your WordPress admin, go to Pages and click Add New to create your review listing page. After that, go to Formidable → Views section. Once there, select Add New and pick a Grid view.\nGive the new View a title for reference and select your review form from the Use Entries from Form drop-down.\nNext, either create a grid layout, or click start adding content to start adding your fields data. In this case, you would want to add the field id's for Your Name, Your Review, and another field to display the corresponding Star Rating for each review.\nTo display the star ratings properly, use this shortcode: [x html=1] and replace x with the Star Rating field ID. Now that you've done that, you can finally save your newly created View.\nAll that's left is to insert the View on the review listings page using the shortcode found on the Views menu.\nStep 3: Create a random review widget\nCreating a random review widget is actually easier than you might think. The process is very similar to the above except for a few key differences. To get started, create a new View, only this time, open the Advanced Settings and add 1 as the Limit.\nJust as before, add your field values into the content by adding the correct field ID's.\nClick on the Sort entries link, and set the Order to Random so that a different review is generated each time the widget is loaded. After that, you can save your View.\nThe last step is to copy the shortcode for your View, i.e. [display-frm-data id=x filter=limited] and then click Appearance in your WordPress menu. From there, go to the Widgets section and drag a Text widget into your sidebar. Insert your shortcode into the text widget and save.\nVoila! Now every time the page is loaded, a randomly chosen review will load as well.\nThere you have it - who knew adding reviews to your website could be so easy? With a form plugin like Formidable, there's no need for anything else.\nMore posts about Reviews and Testimonials in WordPress\nIf you aren't using Formidable yet, don't miss out! With all the\nother features that make this plugin shine, it's clear that Formidable Forms can help you build an amazing WordPress website no matter what your goals.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Arts, Culture and Entertainment"
+  ],
+  "external_links": [
+    "https://www.zendesk.com/resources/customer-service-and-lifetime-customer-value",
+    "https://zendesk.com/resources/customer-service-and-lifetime-customer-value"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T02:21:18.698+03:00",
+  "updated": "2024-04-12T02:21:18.698+03:00"
+}

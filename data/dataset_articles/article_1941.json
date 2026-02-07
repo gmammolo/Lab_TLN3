@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "c5914489e8ac5cb1b41bcb37d78afbf9f01a217b",
+    "url": "https://readwrite.com/terraform-labs-reaches-4-47-billion-sec-settlement",
+    "site_full": "readwrite.com",
+    "site": "readwrite.com",
+    "site_section": "https://readwrite.com/category/cryptocurrency/",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": null,
+    "title": "Terraform Labs reaches $4.47 billion SEC settlement",
+    "title_full": "Terraform Labs reaches $4.47 billion SEC settlement",
+    "published": "2024-06-13T22:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2441,
+    "domain_rank_updated": "2024-06-11T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c5914489e8ac5cb1b41bcb37d78afbf9f01a217b",
+  "url": "https://readwrite.com/terraform-labs-reaches-4-47-billion-sec-settlement",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Radek Zielinski",
+  "published": "2024-06-13T22:51:00.000+03:00",
+  "title": "Terraform Labs reaches $4.47 billion SEC settlement",
+  "text": "Terraform Labs, the company behind the collapsed TerraUSD (UST) and Terra (LUNA) tokens, has reached a $4.47 billion civil settlement with the U.S. Securities and Exchange Commission (SEC).\nAccording to a June 12 Reuters report , the settlement comes after a jury found Terraform Labs and its founder, Do Kwon, liable for defrauding cryptocurrency investors . This alleged fraud resulted in estimated losses of $40 billion during the tokens’ collapse in 2022.\nThe proposed final judgment, filed in Manhattan federal court, requires approval from U.S. District Judge Jed Rakoff. The settlement includes $4.05 billion in disgorgement plus interest for Terraform Labs and a $420 million civil fine.\nHowever, due to Terraform’s ongoing bankruptcy proceedings, much of the settlement is unlikely to be paid and will instead be treated as an unsecured claim in the Chapter 11 case.\nTerra’s Do Kwon sentenced Do Kwon, who agreed to a personal civil fine of $80 million, will be banned from participating in cryptocurrency transactions and must transfer $204.3 million to Terraform’s bankruptcy estate. The SEC commented in a court filing:\nEntry of this judgment would ensure the maximal return of funds to harmed investors and put Terraform out of business for good. […] Thus, this proposed judgment is fair, reasonable, and in the public interest.\nBoth Terraform Labs and Kwon have consented to the judgment, although their lawyers have not provided immediate comments on the matter. The SEC accused the company and its founder of misleading investors about the stability of TerraUSD.\nThe TerraUSD stablecoin was meant to maintain a constant $1 price, and its backers falsely claimed that Terraform’s blockchain was used in a popular Korean mobile payment app. The collapse of TerraUSD and Luna in May 2022 occurred when TerraUSD failed to maintain its peg to the dollar.\nKwon, who designed both tokens, has been detained in Montenegro since March 2023. United States and South Korean authorities seek his extradition to face criminal charges. Despite the allegations, Kwon continues to deny any wrongdoing.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Crime, Law and Justice"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://archive.is/jhnNt#selection-1473.30-1528.0",
+    "https://www.archive.is/jhnNt#selection-1473.30-1528.0"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jed rakoff",
+        "sentiment": "none"
+      },
+      {
+        "name": "kwon",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "sec",
+        "sentiment": "negative"
+      },
+      {
+        "name": "terraform labs",
+        "sentiment": "negative"
+      },
+      {
+        "name": "reuters",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s. securities and exchange commission",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "manhattan",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-14T01:10:10.313+03:00",
+  "updated": "2024-06-14T01:10:10.313+03:00"
+}

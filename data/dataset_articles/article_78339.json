@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "f64af999737c121995f05c4fb44e665424d6a4e8",
+    "url": "https://www.presse-citron.net/comment-jai-hacke-mcdonalds-cette-hackeuse-raconte-comment-elle-a-mis-mcdo-dans-la-sauce/",
+    "site_full": "www.presse-citron.net",
+    "site": "presse-citron.net",
+    "site_section": "http://feeds2.feedburner.com/pressecitron",
+    "site_categories": [
+      "table_tennis_ping_pong",
+      "tech",
+      "sports"
+    ],
+    "section_title": "Presse-citron",
+    "site_title": "Presse-citron - Connectez-vous à l&#039;innovation",
+    "title": "\"Comment j'ai hackÃ© McDonald's\" : cette hackeuse raconte comment elle a mis McDo dans la sauce",
+    "title_full": "\"Comment j'ai hackÃ© McDonald's\" : cette hackeuse raconte comment elle a mis McDo dans la sauce",
+    "published": "2025-08-21T11:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.presse-citron.net/app/uploads/2025/06/shutterstock_2469027415-1600x900.jpg",
+    "performance_score": 0,
+    "domain_rank": 18881,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f64af999737c121995f05c4fb44e665424d6a4e8",
+  "url": "https://www.presse-citron.net/comment-jai-hacke-mcdonalds-cette-hackeuse-raconte-comment-elle-a-mis-mcdo-dans-la-sauce/",
+  "ord_in_thread": 0,
+  "author": "Presse-citron",
+  "published": "2025-08-21T11:33:00.000+03:00",
+  "title": "\"Comment j'ai hackÃ© McDonald's\" : cette hackeuse raconte comment elle a mis McDo dans la sauce",
+  "text": "Tout commence par la promesse de nuggets gratuits. Bobdahacker, spÃ©cialisÃ©e dans la sÃ©curitÃ© informatique mais aussi consommatrice, dÃ©couvre fortuitement que le systÃ¨me de fidÃ©litÃ© de lâ€™application McDonaldâ€™s ne vÃ©rifie les points cumulÃ©s que cÃ´tÃ© client, et non serveur. En pratique, nâ€™importe quel utilisateur un tant soit peu averti peut donc manipuler les paramÃ¨tres de lâ€™application pour obtenir des rÃ©compenses sans dÃ©bourser le moindre centime.\nImmÃ©diatement, la hackeuse contacte un informaticien de McDonaldâ€™s. PremiÃ¨re dÃ©convenue : il se montre peu pressÃ© de corriger la faille. Il faudra insister, et Ã©voquer la possibilitÃ© de livraisons gratuites Ã lâ€™infini, pour quâ€™un correctif voie le jour quelques jours plus tard. Face Ã la lenteur de l’Ã©quipe informatique de McDonald’s, Bobdahacker dÃ©cide d’aller plus loin dans ses investigations.\nMenu Maxi Best of Big Failles Curieuse et mÃ©thodique, Bobdahacker examine les autres outils numÃ©riques de McDonaldâ€™s. Elle dÃ©couvre que la plateforme mondiale interne de marketing, censÃ©e Ãªtre ultra-sÃ©curisÃ©e, repose sur une protection dÃ©risoire : un mot de passe enregistrÃ© cÃ´tÃ© client , facilement contournable. Lors de la crÃ©ation dâ€™un nouveau compte, un simple changement dâ€™URL â€” de Â« login Â» Ã Â« register Â» â€” permet de sâ€™y inscrire comme si lâ€™on Ã©tait un membre lÃ©gitime du personnel. Pis, le mot de passe est envoyÃ© en clair par email, une pratique archaÃ¯que que les experts bannissent depuis plus de dix ans.\nSon enquÃªte ne sâ€™arrÃªte pas lÃ . ClÃ©s API laissÃ©es en accÃ¨s libre (ouvrant la voie Ã des campagnes de phishing sophistiquÃ©es), dysfonctionnement de la recherche interne exposant des informations sensibles sur des employÃ©s, mauvaise configuration OAuth permettant Ã de simples Ã©quipiers dâ€™accÃ©der Ã des donnÃ©es rÃ©servÃ©es Ã la directionâ€¦ Bobdahacker accumule les preuves dâ€™un systÃ¨me de sÃ©curitÃ© indigne d’une entreprise aussi puissante.\nPour tester la vulnÃ©rabilitÃ© la plus critique, elle fait appel Ã un ami employÃ© : grÃ¢ce Ã ses instructions, ce dernier accÃ¨de sans difficultÃ© Ã des informations professionnelles, voire personnelles, sur n’importe quel salariÃ©, des Ã©quipiers jusqu’au PDG.\nCette accumulation de failles pousse Bobdahacker Ã remonter ses dÃ©couverters Ã McDonald’s. ProblÃ¨me :Â McDonaldâ€™s ne met pas Ã disposition de fichier Â« security.txt Â» pour les chercheurs en sÃ©curitÃ©. Bobdahacker doit donc passer par le standard tÃ©lÃ©phonique et contacter, au hasard, des responsables sÃ©curitÃ© identifiÃ©s sur LinkedIn. Pire encore : aprÃ¨s avoir apportÃ© son aide Ã la hackeuse, lâ€™ami employÃ© est licenciÃ© pour Â« raisons de sÃ©curitÃ© Â» . Palapapapa !\nUne faille permettait dâ€™obtenir des nuggets gratuits sur lâ€™application McDonaldâ€™s En multipliant les tests, une hackeuse a dÃ©couvert une multitude de brÃ¨ches MalgrÃ© le signalement et la correction de ces failles, lâ€™amie employÃ©e de la hackeuse a Ã©tÃ© licenciÃ©e et l’entreprise a tardÃ© Ã rÃ©agir",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:16:02.326+03:00",
+  "updated": "2025-08-21T12:18:48.000+03:00"
+}

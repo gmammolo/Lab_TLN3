@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "eac7c66d8d4d32efc2391abecd9da8e45d28fae6",
+    "url": "https://www.caltech.edu/about/news/a-new-type-of-seismic-sensor-to-detect-moonquakes",
+    "site_full": "www.caltech.edu",
+    "site": "caltech.edu",
+    "site_section": "https://www.caltech.edu/about/news/rss",
+    "site_categories": [
+      "graduate_school",
+      "education"
+    ],
+    "section_title": "News from www.caltech.edu",
+    "title": "A New Type of Seismic Sensor to Detect Moonquakes",
+    "title_full": "A New Type of Seismic Sensor to Detect Moonquakes",
+    "published": "2024-04-12T01:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://caltech-prod.s3.amazonaws.com/main/images/Moon_Crater_NASA-WEB.width-600.jpg",
+    "performance_score": 0,
+    "domain_rank": 886,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eac7c66d8d4d32efc2391abecd9da8e45d28fae6",
+  "url": "https://www.caltech.edu/about/news/a-new-type-of-seismic-sensor-to-detect-moonquakes",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lori Dajose (ldajose@caltech.edu)",
+  "published": "2024-04-12T01:53:00.000+03:00",
+  "title": "A New Type of Seismic Sensor to Detect Moonquakes",
+  "text": "During the Apollo missions of the 1970s, several seismometers were flown to the Moon, where they collected data on lunar seismic trembling for eight years. The data showed some lunar quakes were as powerful as a magnitude 5. Unlike the Earth, the Moon is not tectonically active. Lunar quakes have different origins: Some are caused by day-to-night [thermal differences](/about/news/the-lunar-alarm-clock-new-study-characterizes-regular-moonquakes) as the surface varies in temperature, others that occur deeper may be caused by Earth's gravitational pull, and still others are caused by the Moon slowly cooling and contracting over time. Understanding how, when, and where these quakes occur is critical for planning missions to the Moon, especially if permanent structures like a lunar base are to be built on its surface. A new study demonstrates that an emerging new seismological technology called distributed acoustic sensing (DAS) would be able to [measure](https://scienceexchange.caltech.edu/topics/earthquakes/earthquakes-measured) lunar quakes with unprecedented precision. As NASA's upcoming Artemis missions plan to return to the Moon to, among other research aims, deploy new seismic sensors, the study makes a case for using DAS rather than conventional seismometers. A paper describing the research appears on April 10 in the journal Earth and Planetary Science Letters. For the past decade, Professor of Geophysics [Zhongwen Zhan](https://www.gps.caltech.edu/people/zhongwen-zhan?back_url=%2Fpeople%3Fcategory%3D17) (PhD '13) has been developing DAS, which involves sending lasers through a fiber optic cable and measuring how the laser light changes throughout the cable as it experiences shaking or tremors. In this way, the cable acts as a sequence of hundreds of [individual seismometers](/about/news), allowing researchers to measure quakes very precisely. A [recent study](/about/news/california-supervolcano-is-cooling-off-but-may-still-cause-quakes) showed that a 100-kilometer stretch of cable could function as the equivalent of 10,000 seismometers. With only a few individual seismometers far apart from each other on the Moon, the seismic signals of lunar quakes are quite fuzzy, or \"noisy,\" like listening to a radio full of static. This is due to a phenomenon called scattering, where seismic waves become less clear when traveling through the powdery upper layer of the Moon's surface. Having multiple sensors—indeed, having thousands, as a fiber optic cable could provide—would help clarify a noisy signal. In the new study, led by Qiushi Zhai, postdoctoral scholar research associate in geophysics, the researchers deployed a fiber optic cable equipped with DAS technology in Antarctica. The South Pole's freezing, dry environment, far away from human activities, is the closest analog on Earth to the Moon. The DAS sensors were sensitive enough to measure the small shaking caused by the ice cracking and moving, suggesting that they would be able to measure moonquakes. \"Another advantage of using DAS on the Moon is that a fiber optic cable is physically quite resilient to the harsh lunar environment: high radiation, extreme temperatures, and heavy dust,\" says Zhai. The next steps are to demonstrate that DAS can operate with the limited power resources available on the Moon and to conduct more modeling and analysis to understand how small and distant quakes can be and still be detectable. The paper is titled \" [Assessing the feasibility of Distributed Acoustic Sensing (DAS) for moonquake detection.](https://doi.org/10.1016/j.epsl.2024.118695)\" Zhai is the study's first author. In addition to Zhai and Zhan, co-authors are Research Professor of Geophysics [Allen Husker](https://www.gps.caltech.edu/people/allen-l-husker?back_url=%2Fpeople%3Fcategory%3D29), DAS Scientist Ettore Biondi, former Caltech postdoctoral scholar Jiuxun Yin, former Caltech postdoctoral scholar Francesco Civilini, and Luis Costa of JPL. Funding was provided by the National Science Foundation, the USGS, the Gordon and Betty Moore Foundation, and the Braun Trust. Caltech manages JPL for NASA. Distributed Acoustic Sensing: How Does It Work? To use a fiber optic cable as a dense array of seismic sensors, laser emitters are stationed at one end of the cable and shoot beams of light through the long, thin glass strands that make up the cable's core. The glass has tiny imperfections that reflect back a minuscule portion of the light to the source, where it is recorded. In this manner, each imperfection acts as a trackable waypoint along the fiber optic cable, which is typically buried just below ground level. Seismic waves moving through the ground cause the cable to wiggle slightly, which changes the travel time of light to and from these waypoints. Thus, the imperfections along the cable's length act like thousands of individual seismometers that allow seismologists to observe the motion of seismic waves. Utilizing telecommunication fiber optic cables throughout the state of California, for example, could be equivalent to blanketing it with millions of seismometers, enabling researchers to create detailed observations of crustal dynamics anywhere fiber optic cables are nearby. Subscribe Related Links [Caltech Science Exchange: How Are Earthquakes Measured?](https://scienceexchange.caltech.edu/topics/earthquakes/earthquakes-measured) [California Supervolcano is Cooling Off but May Still Cause Quakes](/about/news/california-supervolcano-is-cooling-off-but-may-still-cause-quakes) [Fiber Optic Cables Detect and Characterize Earthquakes](/about/news/fiber-optic-cables-detect-and-characterize-earthquakes) [Watson Lecture: Zhongwen Zhan (PhD '13) Discusses His Odyssey to the South Pole](/about/news/watson-lecture-zhongwen-zhan-south-pole-odyssey) [The Lunar Alarm Clock: New Study Characterizes Regular Moonquakes](/about/news/the-lunar-alarm-clock-new-study-characterizes-regular-moonquakes)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://doi.org/10.1016/j.epsl.2024.118695",
+    "https://www.doi.org/10.1016/j.epsl.2024.118695"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "moon",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nasa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "earth",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T03:23:28.004+03:00",
+  "updated": "2024-05-07T15:27:42.208+03:00"
+}

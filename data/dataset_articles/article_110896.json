@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "d942770d38544e718d11f0f086a5384183ebb910",
+    "url": "https://askubuntu.com/questions/1499864/ubuntu-connection-reset-by-peer",
+    "site_full": "askubuntu.com",
+    "site": "askubuntu.com",
+    "site_section": "http://askubuntu.com/feeds",
+    "site_categories": [
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Ask Ubuntu",
+    "title": "Ubuntu \"Connection reset by peer\"",
+    "title_full": "Ubuntu \"Connection reset by peer\"",
+    "published": "2024-03-22T08:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+    "performance_score": 0,
+    "domain_rank": 2750,
+    "domain_rank_updated": "2024-03-19T12:07:56.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d942770d38544e718d11f0f086a5384183ebb910",
+  "url": "https://askubuntu.com/questions/1499864/ubuntu-connection-reset-by-peer",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Noah Donald Noah Donald",
+  "published": "2024-03-22T08:47:00.000+02:00",
+  "title": "Ubuntu \"Connection reset by peer\"",
+  "text": "I have been trying to figure out this problem for days. I used to have a samba server and ssh server up and running in Ubuntu that I could connect to from my raspberry pi. I am unable to connect to either from any device now. I am led to believe that the problem is with ubuntu and not the individual services as I get the same \"Connection reset by peer\" error message for both. here is a the output from my attempts to connect via ssh\nOpenSSH_9.2p1 Debian-2+deb12u2, OpenSSL 3.0.11 19 Sep 2023 debug1: Reading configuration data /etc/ssh/ssh_config debug1: /etc/ssh/ssh_config line 19: include /etc/ssh/ssh_config.d/*.conf matched no files debug1: /etc/ssh/ssh_config line 21: Applying options for * debug2: resolve_canonicalize: hostname xxx.xxx.xxx.xxx is address debug3: expanded UserKnownHostsFile '~/.ssh/known_hosts' -> '/home/USER/.ssh/known_hosts' debug3: expanded UserKnownHostsFile '~/.ssh/known_hosts2' -> '/home/USER/.ssh/known_hosts2' debug3: ssh_connect_direct: entering debug1: Connecting to xxx.xxx.xxx.xxx [xxx.xxx.xxx.xxx] port 22. debug3: set_sock_tos: set socket 3 IP_TOS 0x10 debug1: Connection established. debug1: identity file /home/USER/.ssh/id_rsa type -1 debug1: identity file /home/USER/.ssh/id_rsa-cert type -1 debug1: identity file /home/USER/.ssh/id_ecdsa type -1 debug1: identity file /home/USER/.ssh/id_ecdsa-cert type -1 debug1: identity file /home/USER/.ssh/id_ecdsa_sk type -1 debug1: identity file /home/USER/.ssh/id_ecdsa_sk-cert type -1 debug1: identity file /home/USER/.ssh/id_ed25519 type -1 debug1: identity file /home/USER/.ssh/id_ed25519-cert type -1 debug1: identity file /home/USER/.ssh/id_ed25519_sk type -1 debug1: identity file /home/USER/.ssh/id_ed25519_sk-cert type -1 debug1: identity file /home/USER/.ssh/id_xmss type -1 debug1: identity file /home/USER/.ssh/id_xmss-cert type -1 debug1: identity file /home/USER/.ssh/id_dsa type -1 debug1: identity file /home/USER/.ssh/id_dsa-cert type -1 debug1: Local version string SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u2 kex_exchange_identification: read: Connection reset by peer Connection reset by xxx.xxx.xxx.xxx port 22\nhas anyone seen these error messages before and have any insight into how to resolve them? I have checked the /etc/ssh/ssh.allowed and deny files and ssh.deny was empty so I added my local IP for the pi for good measure. I have also tried reconfiguring ssh and un/reinstalling it both on Ubuntu and the pi to see if that works. ANy help is appreciated",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "ubuntu",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-03-22T10:41:48.330+02:00",
+  "updated": "2024-03-22T10:41:48.330+02:00"
+}

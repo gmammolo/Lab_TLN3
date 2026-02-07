@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "79d4eb64599d9c0e3dd989e83c64f0830fc21abf",
+    "url": "https://community.apollographql.com/t/federating-the-monolith-router-not-starting/7164",
+    "site_full": "community.apollographql.com",
+    "site": "apollographql.com",
+    "site_section": "https://community.apollographql.com/posts.rss",
+    "site_categories": [],
+    "section_title": "Apollo GraphQL - Latest posts",
+    "title": "Federating the Monolith - Router not starting",
+    "title_full": "Federating the Monolith - Router not starting",
+    "published": "2024-01-25T22:51:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png",
+    "performance_score": 0,
+    "domain_rank": 31783,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "79d4eb64599d9c0e3dd989e83c64f0830fc21abf",
+  "url": "https://community.apollographql.com/t/federating-the-monolith-router-not-starting/7164",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mshah",
+  "published": "2024-01-25T22:51:00.000+02:00",
+  "title": "Federating the Monolith - Router not starting",
+  "text": "Hi all,\nI am working on the course\nVoyage II: Federating the Monolith\nI have progressed along tot he point where we need to configure the router.\nI have configured for config.yaml to be as follows:\nheaders:\nall:\nrequest:\n- propagate:\nnamed: “Authorization”\ninclude_subgraph_errors:\nall: true # Propagate errors from all subgraphs\nwhen trying to start up the router using the command below:\nAPOLLO_KEY=<APOLLO_KEY> APOLLO_GRAPH_REF=<APOLLO_GRAPH_REF> ./router --config config.yaml\nI am getting the following error, please let me know how to address this. Upto this point my project wroks seamlessly. I went through the Autentication and Authorizarion project as well to ensure I did not miss any thing.\nI have redone all of the tutorial Federating the Monolith - Voyager II and totally not sure what is wrong. Any inputs will be much appreciated.\n./router --config config.yaml\nApollo Router v1.38.0 // (c) Apollo Graph, Inc. // Licensed as ELv2 (\nApollo FAQ on Licensing under Elastic License v2 (ELv2) - Apollo GraphQL Docs)\nThe Apollo Router requires a composed supergraph schema at startup.\nDO ONE:\n-\nPass a local schema file with the ‘–supergraph’ option:\n$ ./router --supergraph <file_path>\n-\nFetch a registered schema from GraphOS by setting\nthese environment variables:\n$ APOLLO_KEY=“…” APOLLO_GRAPH_REF=“…” ./router\nFor details, see the Apollo docs:\nSetting up managed federation - Apollo GraphQL Docs\nTESTING THINGS OUT?\n- Download an example supergraph schema with Apollo-hosted subgraphs:\n$ curl -L https://supergraph.demo.starstuff.dev/ > starstuff.graphql\n- Run the Apollo Router in development mode with the supergraph schema:\n$ ./router --dev --supergraph starstuff.graphql",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Education",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://go.apollo.dev/elv2",
+    "https://supergraph.demo.starstuff.dev/",
+    "https://www.go.apollo.dev/elv2",
+    "https://www.supergraph.demo.starstuff.dev/",
+    "https://supergraph.demo.starstuff.dev"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "apollo graph, inc.",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:33:08.153+02:00",
+  "updated": "2024-01-26T00:33:08.153+02:00"
+}

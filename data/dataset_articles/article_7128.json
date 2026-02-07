@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "71afc8657657f7baf658d31a835741465acf3d8b",
+    "url": "https://www.pz-news.de/baden-wuerttemberg_artikel,-Grosseinsatz-nach-Explosion-in-Albstadt-_arid,2313861.html",
+    "site_full": "www.pz-news.de",
+    "site": "pz-news.de",
+    "site_section": "https://www.pz-news.de/baden-wuerttemberg.html",
+    "site_categories": [
+      "media",
+      "vehicles",
+      "motorcycles",
+      "arts, culture and entertainment",
+      "sport",
+      "lifestyle and leisure"
+    ],
+    "section_title": "Baden-Württemberg - Pforzheimer-Zeitung",
+    "site_title": "PZ-news.de - Nachrichten aus Pforzheim und Enzkreis - Pforzheimer-Zeitung",
+    "title": "Großeinsatz nach Explosion in Albstadt",
+    "title_full": "Großeinsatz nach Explosion in Albstadt",
+    "published": "2026-01-08T07:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.pz-news.de/cms_media/module_img/10920/5460120_1_defaultxl_Ein_Grossaufgebot_an_Rettungskraeften_ist_im_Einsatz._Symbolbild_.jpeg",
+    "performance_score": 0,
+    "domain_rank": 61240,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "71afc8657657f7baf658d31a835741465acf3d8b",
+  "url": "https://www.pz-news.de/baden-wuerttemberg_artikel,-Grosseinsatz-nach-Explosion-in-Albstadt-_arid,2313861.html",
+  "ord_in_thread": 0,
+  "author": "DPA",
+  "published": "2026-01-08T07:22:00.000+02:00",
+  "title": "Großeinsatz nach Explosion in Albstadt",
+  "text": "Am frühen Morgen ist es zu einer Explosion in einem Wohnhaus in Albstadt (Zollernalbkreis) gekommen. Feuerwehr und Rettungsdienst sind im Ortsteil Tailfingen mit zahlreichen Kräften im Einsatz, wie die Polizei mitteilte. Weitere Einzelheiten zu möglichen Verletzten oder zur Ursache der Explosion lagen zunächst nicht vor. Die Lage werde weiter abgeklärt, hieß es von der Polizei.\n© dpa-infocom, dpa:260108-930-512610/1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Albstadt",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tailfingen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T07:52:59.678+02:00",
+  "updated": "2026-01-08T07:54:31.000+02:00"
+}

@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "0f09d239c5d514714dd73e9aa4d1fed015af66cd",
+    "url": "https://www.europapress.es/economia/transportes-00343/noticia-nuevos-retrasos-aeropuerto-palma-avisos-fuertes-lluvias-tormentas-20250828094007.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.mercadofinanciero.com/comunicados",
+    "site_categories": [
+      "media",
+      "top_news_es",
+      "top_news_pe",
+      "top_news"
+    ],
+    "section_title": "\r\n\tMercado Financiero - Comunicados | noticias e información de actualidad\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "Nuevos retrasos en el aeropuerto de Palma por los avisos de fuertes lluvias y tormentas",
+    "title_full": "Nuevos retrasos en el aeropuerto de Palma por los avisos de fuertes lluvias y tormentas",
+    "published": "2025-08-28T10:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20250828094007_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 2706,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0f09d239c5d514714dd73e9aa4d1fed015af66cd",
+  "url": "https://www.europapress.es/economia/transportes-00343/noticia-nuevos-retrasos-aeropuerto-palma-avisos-fuertes-lluvias-tormentas-20250828094007.html",
+  "ord_in_thread": 0,
+  "author": "europa press",
+  "published": "2025-08-28T10:40:00.000+03:00",
+  "title": "Nuevos retrasos en el aeropuerto de Palma por los avisos de fuertes lluvias y tormentas",
+  "text": "PALMA 28 Ago. (EUROPA PRESS) -\nLa jornada de este jueves, en la que se prevé la activación por parte de la Agencia Estatal de Meteorología (Aemet) de avisos naranja en Mallorca y Menorca por fuertes lluvias y tormentas arranca con algunos retrasos en el aeropuerto de Palma.\nSegún la información AENA consultada por Europa Press, Son Sant Joan comienza la jornada registrando cas1 20 vuelos retrasados entre salidas y llegadas.\nEl aeropuerto de Menorca, por su parte, registra cuatro vuelos cancelados entre salidas y llegadas, todos con Barcelona. Ibiza no registra incidencias destacables.\nLos retrasos de este jueves se suman a los de ayer, que fueron generalizados a partir del mediodía. Son Sant Joan llegó a acumular, pasadas las 16.30 horas, hasta 64 vuelos con retraso y dos cancelaciones.\nEl gestor de navegación Enaire ha señalado en redes sociales que este jueves sigue habiendo previsión de meteorología adversa en la Región Este, por lo que según avance la jornada pueden verse afectadas las operativas de Barcelona y Palma.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Social Issue",
+    "Weather"
+  ],
+  "topics": [
+    "Disaster and Accident->natural disaster",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Weather->weather warning"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Mallorca",
+        "sentiment": "none"
+      },
+      {
+        "name": "Menorca",
+        "sentiment": "none"
+      },
+      {
+        "name": "Región",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Agencia Estatal de Meteorología",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Europa Press",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "AENA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AENA",
+            "exchange": "BME"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_es",
+      "top_news_pe",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T10:41:41.669+03:00",
+  "updated": "2025-08-29T11:07:42.000+03:00"
+}

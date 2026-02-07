@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "2b449ba70c70be7a466ef5dbf710a361c3e08224",
+    "url": "https://www.mql5.com/en/forum/472318",
+    "site_full": "www.mql5.com",
+    "site": "mql5.com",
+    "site_section": "https://www.mql5.com/en/rss",
+    "site_categories": [
+      "stocks",
+      "finance"
+    ],
+    "section_title": "MQL5: MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader",
+    "title": "When I am trying to open My Purchases from Market menu in order to istall my EAs the MT5 freezes continously",
+    "title_full": "When I am trying to open My Purchases from Market menu in order to istall my EAs the MT5 freezes continously",
+    "published": "2024-08-30T18:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://www.mql5.com/en/forum/images/og/fb/472318",
+    "performance_score": 0,
+    "domain_rank": 10523,
+    "domain_rank_updated": "2024-08-27T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2b449ba70c70be7a466ef5dbf710a361c3e08224",
+  "url": "https://www.mql5.com/en/forum/472318",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Vdnik",
+  "published": "2024-08-30T18:40:00.000+03:00",
+  "title": "When I am trying to open My Purchases from Market menu in order to istall my EAs the MT5 freezes continously",
+  "text": "When I am trying to open My Purchases from Market menu in order to istall my EAs the MT5 freezes continously\nHi. I have this problem :\n- I had purchased a MT5 EA and had loaded this EA on several DEMO and 2 REAL accounts with Roboforex, FTMO and Fusion Markets\n- The EA was installed and running without problem and after that I purchased a 2nd MT5 EA\n- I loaded the 2nd EA on the FTMO account without problem on a spesific VPS server and the two Eas operate till now without problem.\n- BUT when I tried to install the 2nd EA from MARKET > My Purchases on the Roboforex account / MT5 terminal (after I have loged in) on\nanother VPS server, the MT5 freezes and I must to close the program and reopen it.\n- I tried this many times > nothing always the same\n- I tried to install the 2 EAs on other account a REAL Fusion Markets loaded on another VPS server, either with “their” MT5 termonal and also with the origin from MQL5 > nothing as the MT5 freezes from the beginning when I choose MARKET > My Purchases !\n- I unistaled the Roboforex MT5 terminal in order to load the origin from MQL5 and this was a huge mistake as now the MT5 freezes and I have not anymore the 1st EA that worked without problems\n- The 3 VPS servers are from the same company and in one of them the 2 Eas have been imstaled from the begininbg and operate well > so there is is not an ussue with the VPS of the otehrs accounts\n- The problem is not only with Roboforex MT5 terminal but also with the one of Fusion Markets and also with the origin terminal from MQL5 and in the same time everything is ok with FTMO account > so there is is not an issue with the Roboforex Broker\n- What is happening ? I do not now what else to do !\nThanks for your help.\n[#1](/en/forum/472318#comment_54446116)\nFirst of all - please check the Community tab fo Metatrader - because it is necessary to fill Community tab (with the confirmation in Metatrader journal abou sucessful login) to download/install Market tools.\n-----------",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "roboforex",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-30T19:42:27.037+03:00",
+  "updated": "2024-08-30T19:42:27.037+03:00"
+}

@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "ef9b96fb299ea8810f93913628df1230d494fa7f",
+    "url": "https://macaonews.org/news/city/macau-yellow-hot-weather",
+    "site_full": "macaonews.org",
+    "site": "macaonews.org",
+    "site_section": "https://www.macaonews.org",
+    "site_categories": [
+      "under_construction",
+      "non_standard_content"
+    ],
+    "section_title": "Macao News",
+    "site_title": "Macao News",
+    "title": "Macao issues yellow hot weather alert as temperatures soar",
+    "title_full": "Macao issues yellow hot weather alert as temperatures soar",
+    "published": "2025-07-03T07:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://macaonews.org/wp-content/uploads/2025/07/Macao.jpg",
+    "performance_score": 0,
+    "domain_rank": 139331,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ef9b96fb299ea8810f93913628df1230d494fa7f",
+  "url": "https://macaonews.org/news/city/macau-yellow-hot-weather",
+  "ord_in_thread": 0,
+  "author": "Staff Reporter",
+  "published": "2025-07-03T07:44:00.000+03:00",
+  "title": "Macao issues yellow hot weather alert as temperatures soar",
+  "text": "A yellow hot weather warning is currently in force in Macao, meaning that temperatures are expected to reach 33°C or above.\nAt 12:10 pm, readings in excess of 32°C were recorded at the Porto Exterior, Taipa Grande, Ka-Hó and Vila de Coloane measuring stations.\nThe Meteorological and Geophysical Bureau (known by its Portuguese initials SMG) is urging residents to take precautions against heatstroke, from staying hydrated and wearing light, loose clothing, to resting frequently in shaded places.\nHong Kong has also issued a “very hot weather” warning , with temperatures in Macao’s neighbouring SAR forecast to reach a sweltering 34°C today.\n[ See more: Europe swelters under its first major heatwave of the summer ]\nThe observatory there has additionally advised that an area of low pressure to the north of Luzon will develop into a tropical cyclone gradually in the next couple of days, and enter within 800 kilometres of the Pearl River delta.\nThe area of low pressure will linger over the vicinity of the northeastern part of the South China Sea and intensify, prompting possible typhoon warning signals tomorrow or Saturday.\nLocally, the SMG says showers are expected over the weekend, with the thunderstorms expected next Monday.\nTemperatures will ease slightly, with minimums of 26°C and expected maximum readings of 30°C or 31°C.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Health",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather forecast",
+    "Weather->weather warning",
+    "Health->health organisation",
+    "Health->government health care",
+    "Health->public health",
+    "Social Issue->social condition",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.smg.gov.mo/en",
+    "https://www.hko.gov.hk/en/index.html",
+    "https://smg.gov.mo/en",
+    "https://hko.gov.hk/en/index.html"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Macao",
+        "sentiment": "none"
+      },
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      },
+      {
+        "name": "South",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sea",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Geophysical Bureau",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-07-03T09:07:38.737+03:00",
+  "updated": "2025-07-03T06:16:44.000+00:00"
+}

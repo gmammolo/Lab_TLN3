@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "b9d3b52b2b55f109ad44d4e04176de5c60a35847",
+    "url": "https://community.bt.com/t5/EE-TV-YouView/Youview-Overriding-Live-TV/m-p/2420852",
+    "site_full": "community.bt.com",
+    "site": "bt.com",
+    "site_section": "https://community.bt.com/bt/rss/Community?interaction.style=group",
+    "site_categories": [
+      "television",
+      "entertainment"
+    ],
+    "section_title": "rss.livelink.threads-in-node",
+    "title": "Youview Overriding Live TV",
+    "title_full": "Youview Overriding Live TV",
+    "published": "2025-01-09T13:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2120,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b9d3b52b2b55f109ad44d4e04176de5c60a35847",
+  "url": "https://community.bt.com/t5/EE-TV-YouView/Youview-Overriding-Live-TV/m-p/2420852",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dcholme Aspiring Contributor",
+  "published": "2025-01-09T13:18:00.000+02:00",
+  "title": "Youview Overriding Live TV",
+  "text": "This has been driving me so if anyone can help it would be much appreciated!\nOur old view box stop working when its hard disk failed recently. It performed all the functions we need so I just bought another one from Amazon and installed it. Nothing complicated, I just took the old box out and re-plugged in the same cables into the same ports so effectively it was a straight swap.\nFor the most part, it is functioning fine but one element is causing problems. I have new Samsung Oled TV (worked perfectly with the faulty BT Box) on which I watch a lot of my live TV. If I need to change the channels, I use the microphone on the remote and simply say the channel number. This worked really well on the previous system but not with this new box.\nFor some reason, this now changes the input from live TV to the YV box and actually selects the correct channel on there. This didn't happen before and I have no idea why it has started it now.\nThe cabling is fairly straightforward. I do have a triax box which I used to use to send the signal all around the house. I don't need this anymore so could easily simplify the cabling if this fixed the issue.\nIt seems like the YV box takes over and tries to handle everything where I'd rather watch the TV through the Samsung TV directly.\nAny advice would be gratefully received.\nWell, there’s a mystery - the only way to use voice input on a YouView box is via Alexa, where you need both to have paired it, and to preface the commands with ‘Alexa’.\nSo it means that the Samsung must be decoding the speech - but why would it suddenly start sending it to the YouView box?\nDoes the YouView box have to be on for this to happen, or does it turn the box on?\nI tried your recipe with my LG TV and my Box Pro, but though I got some odd results - an unexpected switch to Freesat for a channel that Freeview could perfectly well serve - nothing went over to the Box Pro.\nI can find nothing on the web for this. So my only suggestion is to do a soft reset or Maintenance Mode 2 or 4 on the YouView box, see if that stops it jumping in.\nOtherwise, ask Samsung support if they have come across this.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Lifestyle and Leisure->house and home"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Samsung Oled TV",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T09:41:17.814+02:00",
+  "updated": "2025-01-10T09:41:17.814+02:00"
+}

@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "a559f0ef1704fe6836e28a782402f1031a7f9ecc",
+    "url": "https://www.thestar.com.my/news/nation/2025/04/24/clear-guidelines-efficient-registration-key-to-better-protection",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/news/latest",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Latest - News | The Star",
+    "site_title": "The Star | Malaysia News: National, Regional and World News",
+    "title": "'Clear guidelines, efficient registration key to better protection' | The Star",
+    "title_full": "'Clear guidelines, efficient registration key to better protection' | The Star",
+    "published": "2025-04-24T02:15:40.941+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+    "performance_score": 0,
+    "domain_rank": 2118,
+    "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a559f0ef1704fe6836e28a782402f1031a7f9ecc",
+  "url": "https://www.thestar.com.my/news/nation/2025/04/24/clear-guidelines-efficient-registration-key-to-better-protection",
+  "ord_in_thread": 0,
+  "author": "The Star Online",
+  "published": "2025-04-24T02:15:40.941+03:00",
+  "title": "'Clear guidelines, efficient registration key to better protection' | The Star",
+  "text": "PETALING JAYA: Clear guidelines and efficient registration processes are crucial to ensure all fire safety professionals can adhere to regulations under the amended Fire Services Act 1988, say interest groups.\nAcknowledging the amendments as a positive step towards improving the national fire safety ecosystem, these groups are calling for a transparent and marketdriven rollout to avoid potential monopolies.\nMalaysian Fire Protection Association president Tee Siew Chong said the amendments are a positive step in ensuring competency, credibility and quality assurance in the industry.\n“It establishes a structured and accountable fire safety ecosystem and ensures public safety by better regulating fire protection services,” Tee said.\nHowever, the one-year transition period for registration could prove to be challenging for existing service providers, he said.\n“We hope for a fair and practical rollout. Clear guidelines and smooth enforcement are needed.\n“Compliance costs and bureaucratic processes should be manageable, especially for smaller firms,” he said, urging adequate regulatory support and enforcement mechanisms.\nTee also urged continuous efforts towards improving fire safety in Malaysia.\n“We want a fire safety culture that prioritises prevention, preparedness and innovation,” he said.\nA seasoned industry player, who spoke on the condition of anonymity, called for clear and detailed guidelines on the registration process.\n“There must be sufficient service providers registered to avoid any monopoly.\n“The process must be transparent. Any qualified professionals should be allowed to register.\n“We support this move to enhance the fire safety ecosystem but there must be proper implementation. We don’t want this to end just on paper,” he said.\nReal Estate and Housing Developers’ Association Malaysia president Datuk Ho Hon Sang said a market-driven implementation must be carried out to avoid a monopoly.\nHe also acknowledged that the amendments help uphold quality standards.\nTo prevent a single product or company from monopolising the market, Ho said a sufficient number of fire safety-related professionals and service providers must be registered once the amendments come into effect.\n“There must also be measures to encourage more registrations by related companies and service providers,” he said.\nHo added that registration criteria must not be overly restrictive, which could then lead to a small number of registrations.\n“This could result in delays and a rush to meet market demand.\n“Overly specific requirements may also impede innovation, which is necessary to ensure that the industry remains competitive and futureproof,” Ho said, adding that the amendment’s impact on the housing industry would only be clearer a few months after its implementation.\nMalaysian Federation for Occupational Safety and Health chairman Dr Abu Hasan Samad said the amendments were relevant and timely given the rapid development of Malaysian industries and properties.\nHe said the amendments were similar to the Medical Act 1971, which governed doctors, as well as the Medical Device Act that regulates medical equipment.\n“The Fire and Rescue Department is moving in the right direction here by regulating these aspects, enhancing the impact of the country’s fire safety blanket,” he said.\nHe said the one-year grace period offered for service providers to register with the Fire and Rescue is also sufficient.\n“There should be no compromise when it comes to the safety and health of people,” he added.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Health->government health care",
+    "Health->health organisation",
+    "Health->public health",
+    "Social Issue->social condition",
+    "Social Issue->social services",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tee Siew Chong",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Malaysian Fire Protection Association",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": "right",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-04-24T02:15:40.941+03:00",
+  "updated": "2025-04-24T02:15:40.941+03:00"
+}

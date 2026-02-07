@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "d996bbfea4c8adda5c5e898980e8ab8dce9f6500",
+    "url": "https://forum.hackthebox.com/t/ad-enumeration-attacks-skills-assessment-part-ii-2/273395?page=8",
+    "site_full": "forum.hackthebox.com",
+    "site": "hackthebox.com",
+    "site_section": "https://forum.hackthebox.com/posts.rss",
+    "site_categories": [],
+    "section_title": "Hack The Box :: Forums - Latest posts",
+    "title": "AD Enumeration & Attacks - Skills Assessment Part II 2",
+    "title_full": "AD Enumeration & Attacks - Skills Assessment Part II 2",
+    "published": "2024-06-13T22:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://europe1.discourse-cdn.com/hackthebox/original/3X/3/1/312bf6b9bb22ecf70d40f2d3917631f8112bb7c6.png",
+    "performance_score": 0,
+    "domain_rank": 31335,
+    "domain_rank_updated": "2024-06-11T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d996bbfea4c8adda5c5e898980e8ab8dce9f6500",
+  "url": "https://forum.hackthebox.com/t/ad-enumeration-attacks-skills-assessment-part-ii-2/273395?page=8",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Wannahack",
+  "published": "2024-06-13T22:17:00.000+03:00",
+  "title": "AD Enumeration & Attacks - Skills Assessment Part II 2",
+  "text": "yep. I was able to evil-winrm with that hash and get the flag on the admin’s desktop. No I’n trying to get the users clear text password. I had the hash before, now I can’t seem to get it. I have a meterpreter shell as the MS01\\Administrator, I’ve loaded kiwi and dump secrets, hashdumps, etc. But I cannot get the dcsync to run. According to chatgpt with the privs I have I should be able to run it.\nnow that you can evil-winrm into MS01 with the admin user, you should be able to remove the restrictions on the admin account by manipulating the registry, then xfreerdp into MS01 with the admin account (you’ll see that you won’t be able to if you don’t do the registry step first), then drop your tools on MS01 (mainly Inveigh.exe - this is where I got mine from, since you said you could not find it: Releases · Kevin-Robertson/Inveigh · GitHub (selecte the one for windows 64)) and get the hash that way\nI just finished. I was eventually able to upload and run Inveigh, captured the users hash, and the rest was history. Thanks for ur help! much apprectiated!!\nHow did you RDP into SQL01 with \" /u:‘inlanefreight.local\\mssqlsvc’ /p:‘Sup3r…’ /cert:ignore\"? The port is not even open. I tried opening it, and manipulating several reg keys to let me rdp into it like you suggested, but when I was finally able (using the hash for mssqlsvc, not the password), mimikatz would not produce any results…\nDid you do anything while on the reverse shell to be able to rdp as inlanefreight.local\\mssqlsvc using the password?\nno, I rdp’d into ms01 with the mssqlsvc user; Then you should be able to do everything u need to do. hmu, if ur still having problems\nlol, You helped me. Naw, if I said sql01 I meant ms01. I had a meterpreter reverse shell, and a sql xp_cmdshell shell on sql01.\nI’ll try that out this weekend! For some reason I thought for sure you rdp’d into sql01! Thank you\nI had to xfreerdp into the linux attack box and then use remmina from there to rdp (could not do it with proxychains or with xfreerdp from the linux attack box), but it finally worked lol\nThank you for the help!\nyeah my bad. I meant to tell you that. It’s kind of like when you add the ssh -X for x11. I guess when you rdp into the parrot os it gives you the gui tools and all you need for getting into others with rdp.\nAll good! I am just glad to finally be done with this box lol\nCan someone give me a hint on the initial foothold? Ive tried CME to enum users via SMB. I have obtained a ton of users through Kerbrute but havent been able to bruteforce any of them. I feel like ive done everything but I have to be overlooking something. What am I missing here?\nTry listening\nIm guessing you mean responder…I tried that too. Got nothing but DNS requests. No hashes at all.\nSomething appears to be seriously broken about SQL01.\nWhile you can get a basic rev-shell easily enough, there seems to be some file size limitation of <2KB, meaning that you can’t upload any meterpreter shells to get a firmer hold on the system (sessions -u throws an “incompatible OS” error). I’ve tried the Juicy/RottenPotato]exploit to priv esc to SYSTEM, but it wasn’t working for me despite the fact that it very clearly seems to be the exploit we are supposed to use.\nI somehow ONCE got a meterpreter rev-shell open and was able to use the getsystem command to get an easy system shell, but I wasn’t able to successfully exfill the bloodhound results (apparently curl -o doesn’t work for ZIPs, which I only realized the next day).\nI have been working for days to try and get back to where I was, but I can’t get a meterpreter shell for the system access. Even trying to copy/paste the meterpreter shell into the basic rev-shell just hangs the system like it does for file transfers >=2KB.\nEither I’m missing something stupidly obvious, or something has rendered the lab nigh-unbeatable.\n(post deleted by author)\ntry printspoofer. it works for me",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "kevin-robertson",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ad enumeration & attacks",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-06-14T01:03:29.861+03:00",
+  "updated": "2024-06-14T01:03:29.861+03:00"
+}

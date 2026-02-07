@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "240d301826c9d337edd4ea320d0af55bfd11069c",
+    "url": "https://blockchain.news/news/github-performance-challenges-dns-incident-october-2024",
+    "site_full": "blockchain.news",
+    "site": "blockchain.news",
+    "site_section": "https://Blockchain.News/RSS",
+    "site_categories": [
+      "media",
+      "finance"
+    ],
+    "section_title": "Blockchain News",
+    "title": "GitHub Faces Performance Challenges Due to DNS Incident in October 2024",
+    "title_full": "GitHub Faces Performance Challenges Due to DNS Incident in October 2024",
+    "published": "2024-11-15T15:43:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 54924,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "240d301826c9d337edd4ea320d0af55bfd11069c",
+  "url": "https://blockchain.news/news/github-performance-challenges-dns-incident-october-2024",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "blockchain.news",
+  "published": "2024-11-15T15:43:00.000+02:00",
+  "title": "GitHub Faces Performance Challenges Due to DNS Incident in October 2024",
+  "text": "In October 2024, GitHub experienced a notable incident that led to degraded performance across its services, according to GitHub. The issue was traced back to a DNS infrastructure failure following a database migration at one of the company's sites.\nIncident Overview\nThe incident began on October 11 at 05:59 UTC and lasted for over 19 hours. The initial problem occurred when the site's DNS infrastructure failed to resolve lookups after a database migration. Efforts to recover the database resulted in cascading failures, further impacting DNS systems. Customers began experiencing issues around 17:31 UTC, with 4% of Copilot users facing degraded IDE code completions and 25% of Actions workflow users encountering delays exceeding five minutes. Additionally, all code search requests failed for approximately four hours.\nResponse and Resolution\nAttempts to mitigate the issue by redirecting the affected DNS site to an alternative location were initially unsuccessful, as this strategy impaired connectivity from healthy sites back to the degraded one. At 20:52 UTC, GitHub's team implemented a remediation plan, deploying temporary DNS resolution capabilities to the affected site. DNS resolution began to recover at 21:46 UTC and was fully operational by 22:16 UTC. Remaining issues with code search were resolved by 01:11 UTC on October 12.\nFuture Preventative Measures\nFollowing the incident, GitHub committed to strengthening its resiliency and automation processes to expedite the diagnosis and resolution of similar issues in the future. The company aims to improve infrastructure reliability to prevent such incidents from recurring.\nFor real-time updates on GitHub's service status, users are encouraged to visit the GitHub Status Page. Additionally, insights into ongoing projects and improvements can be found on the GitHub Engineering Blog.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.githubstatus.com/",
+    "https://github.blog/category/engineering/",
+    "https://github.blog/news-insights/company-news/github-availability-report-october-2024/",
+    "https://www.github.blog/news-insights/company-news/github-availability-report-october-2024/",
+    "https://github.blog/category/engineering",
+    "https://github.blog/news-insights/company-news/github-availability-report-october-2024",
+    "https://www.github.blog/category/engineering/",
+    "https://githubstatus.com/",
+    "https://www.githubstatus.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T16:57:57.630+02:00",
+  "updated": "2024-11-15T16:57:57.630+02:00"
+}

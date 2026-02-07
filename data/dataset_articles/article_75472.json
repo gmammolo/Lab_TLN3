@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "2c429bd4d9cdff911270fa1425064ddf879735e9",
+    "url": "https://www.techzine.eu/news/security/126478/too-much-data-shared-with-copilot-microsoft-pulls-the-brake",
+    "site_full": "www.techzine.eu",
+    "site": "techzine.eu",
+    "site_section": "https://www.techzine.eu/feed/",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Techzine Global",
+    "title": "Too much data shared with Copilot, Microsoft pulls the brake",
+    "title_full": "Too much data shared with Copilot, Microsoft pulls the brake",
+    "published": "2024-11-22T15:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_2520525777.jpg",
+    "performance_score": 0,
+    "domain_rank": 77165,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2c429bd4d9cdff911270fa1425064ddf879735e9",
+  "url": "https://www.techzine.eu/news/security/126478/too-much-data-shared-with-copilot-microsoft-pulls-the-brake",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Berry Zwets",
+  "published": "2024-11-22T15:16:00.000+02:00",
+  "title": "Too much data shared with Copilot, Microsoft pulls the brake",
+  "text": "A Microsoft 365 Copilot deployment blueprint should limit sharing sensitive business information with the AI assistant.\nThis week’s Microsoft Ignite conference focused on the challenge of internal oversharing. Indeed, sharing too much sensitive data poses significant security risks and can clash with corporate guidelines. In theory, this increases the likelihood of data breaches or misuse. Moreover, when sensitive information is shared with generative AI, there is a risk that it could end up outside the organization.\nMicrosoft’s new blueprint thus aims to counter oversharing by guiding the pilot, implementation, and operational phases of Copilot.\nThe three phases\nIn the pilot phase, companies follow steps to set up Microsoft 365 Copilot. The blueprint recommends identifying the most used and potentially at-risk SharePoint sites. Based on this analysis, which sites can or cannot be accessed by Copilot during the testing period can be determined. This process is carried out with a limited group of users so that any adjustments can be made easily.\nIn the implementation phase, Copilot is rolled out organization-wide. This phase focuses primarily on identifying oversharing risks and restricting access to sensitive information. This helps prevent inadvertent data sharing. Finally, the operational phase focuses on generating regular oversharing reports. These reports allow you to identify potential risks and take corrective action.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Corporate Governance and CSR"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:32:54.706+02:00",
+  "updated": "2024-11-22T15:32:54.706+02:00"
+}

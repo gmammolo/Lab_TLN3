@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "59a83eb51a0be697c2229008db82d30b94516a14",
+    "url": "https://www.techbout.com/cast-to-device-not-working-in-windows-1255",
+    "site_full": "www.techbout.com",
+    "site": "techbout.com",
+    "site_section": "https://techbout.com/feed",
+    "site_categories": [
+      "mac_support",
+      "tech",
+      "email"
+    ],
+    "section_title": "Techbout",
+    "title": "Fix: Cast to Device Not Working in Windows 11/10",
+    "title_full": "Fix: Cast to Device Not Working in Windows 11/10",
+    "published": "2025-01-10T11:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.techbout.com/wp-content/uploads/2020/06/cast-to-device-not-working-on-windows-computer.png",
+    "performance_score": 0,
+    "domain_rank": 98127,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "59a83eb51a0be697c2229008db82d30b94516a14",
+  "url": "https://www.techbout.com/cast-to-device-not-working-in-windows-1255",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sam Patwegar",
+  "published": "2025-01-10T11:29:00.000+02:00",
+  "title": "Fix: Cast to Device Not Working in Windows 11/10",
+  "text": "If the “Cast” feature in Google Chrome is not working on a Windows computer, it usually comes up with “Cast to Device not working” or “No Devices Found” error message.\nThe reason for “Cast to device” feature not working on a Windows computer could be due to outdated Chrome browser, Network discovery feature not being enabled and other reasons.\nCast to Device Not Working in Windows 11/10\nBefore going ahead with other troubleshooting steps, make sure that you are using the latest version of Google Chrome browser on your computer.\nAll that is required to update Google Chrome browser is to click on 3-dots icon > Help > About Google Chrome.\nOnce you click on “About Google Chrome”, you should find Google Chrome checking for updates and installing them on your computer (If available).\nIf you are still unable to Cast anything from your computer to TV, you should be able to fix the problem using the following troubleshooting steps.\n1. Enable Network Discovery\nThe casting device that is connected to your TV, won’t be able to find your computer, if the Network Discovery feature has not been enabled on your Windows computer.\n1. Type Control Panel in the Search bar and click on Control Panel Desktop App or Control Panel System in the search results.\n2. From the Control Panel screen, go to Network & Sharing Center and click on Change Advanced Sharing Settings link in the left-pane.\n3. On Advanced Sharing Settings screen, select Turn ON Network Discovery, Turn On File and printer sharing options and click on Save changes button.\nTurning on Network Discovery makes your computer visible to other devices on the Local network and allows your computer to see other devices on the network.\nAfter enabling Network discovery, check to see if Cast to Device feature is now working on your computer.\n2. Set Network Type to Private\nFollow the steps below to set the Network Type for the Wi-Fi on your computer to Private.\n1. Go to Settings > Network & Internet > click on Properties in the left-pane.\n2. On the next screen, set Network type to Private under “Network Profile section”.\nAfter this, check to see if Chromecast is now working on your computer.\n3. Start Media Sharing Service\n1. Right-click on the Start button and click on Run.\n2. In Run Command window, type services.msc and click on OK.\n3. On the services screen, right-click on Windows Media Player Network Sharing Service and click on Restart. If service is not running, click on the Start option.\nAfter this, try to Cast any video from your computer to TV.\n4. Allow Cast to Device Functionality Through Windows Firewall\nMake sure Cast to Device Functionality is not blocked by the Firewall Settings on your computer.\n1. Type Windows Defender in the Search bar and click on Windows Defender Firewall in Best match results.\n2. On Windows Defender Firewall settings screen, click on Allow an app or feature through Windows Defender Firewall option.\n3. On the next screen, click on Change Settings > make sure Cast to Device functionality enry is selected.\n4. Click on OK to save this change on your computer.\n5. Disable Bonjour Service\nThe Bonjour Service installed by iTunes on Windows computers is known to interfere with proper functioning of the Cast fetaure in Google Chrome.\n1. Open the Run Command on your computer, type services.msc and click on OK.\n2. On the Services screen, double-click on Bonjour Service.\n3. On the next screen, disable Bonjour Service by changing the Startup Type to Disabled.\n6. Check the Casting Device\nIf above methods did not help, it is most likely that the problem lies with the Casting Device that you are using to Cast Media from computer to TV.\nFor more information on this issue, you can refer to this guide: Fix: Google Chromecast Not Working Issue.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:45:27.638+02:00",
+  "updated": "2025-01-10T12:45:27.638+02:00"
+}

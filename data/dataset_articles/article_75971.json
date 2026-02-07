@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "ea0a02962798df9346ebc194c069802bd87f4674",
+    "url": "https://securityonline.info/unpatched-vulnerabilities-in-fancy-product-designer-plugin-put-20000-websites-at-risk",
+    "site_full": "securityonline.info",
+    "site": "securityonline.info",
+    "site_section": "https://www.securityonline.info",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Cybersecurity News • Cybersecurity Daily",
+    "title": "Unpatched Vulnerabilities in Fancy Product Designer Plugin Put 20,000+ Websites at Risk",
+    "title_full": "Unpatched Vulnerabilities in Fancy Product Designer Plugin Put 20,000+ Websites at Risk",
+    "published": "2025-01-10T03:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 105647,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ea0a02962798df9346ebc194c069802bd87f4674",
+  "url": "https://securityonline.info/unpatched-vulnerabilities-in-fancy-product-designer-plugin-put-20000-websites-at-risk",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "do son",
+  "published": "2025-01-10T03:35:00.000+02:00",
+  "title": "Unpatched Vulnerabilities in Fancy Product Designer Plugin Put 20,000+ Websites at Risk",
+  "text": "In a recent security advisory, Rafie Muhammad, a security researcher at Patchstack, has uncovered critical vulnerabilities in the Fancy Product Designer plugin, a popular premium plugin designed for product customization in WooCommerce. Developed by Radykal, this plugin has over 20,000 sales and is known for enabling users to design and personalize products with extensive freedom. However, the discovery of severe security flaws has placed thousands of WordPress websites at risk.\nThe Fancy Product Designer plugin is affected by two significant vulnerabilities:\nUnauthenticated Arbitrary File Upload (CVE-2024-51919) : This vulnerability, rated with a CVSS score of 9.0, allows unauthenticated users to upload arbitrary files, including malicious PHP files, to the server. The flaw resides in the save_remote_file and fpd_admin_copy_file functions. Due to inadequate input validation, attackers can exploit these functions to achieve Remote Code Execution (RCE). As Rafie Muhammad explains , “ Since there is no proper check on those two functions, if there are any codes that utilize those functions without additional file checks, then we can achieve arbitrary file upload .” Unauthenticated SQL Injection (CVE-2024-51818) : Rated with a CVSS score of 9.3, this vulnerability allows unauthenticated users to execute arbitrary SQL queries on the database. The root cause lies in the get_products_sql_attrs function, which fails to properly sanitize user input. Muhammad highlights, “ The strip_tags function itself is not enough to prevent SQL Injection in this case, since the function literally only strips HTML, XML, and PHP tags .” This issue can lead to significant data breaches or unauthorized database modifications. At the time of the report, these vulnerabilities remain unpatched in the latest plugin version, 6.4.3. Website administrators using the Fancy Product Designer plugin are strongly advised to:\nDisable the plugin immediately. Monitor the vendor’s website and official channels for updates regarding patches. Employ web application firewalls (WAFs) to detect and block exploitation attempts. Related Posts:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->identification technology",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://patchstack.com/articles/critical-vulnerabilities-found-in-fancy-product-designer-plugin/",
+    "https://www.patchstack.com/articles/critical-vulnerabilities-found-in-fancy-product-designer-plugin/",
+    "https://patchstack.com/articles/critical-vulnerabilities-found-in-fancy-product-designer-plugin"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Rafie Muhammad",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T04:35:42.383+02:00",
+  "updated": "2025-01-10T04:35:42.383+02:00"
+}

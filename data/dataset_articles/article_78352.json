@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "1576eaac974a7e32c8fce1df862e495169e3ba51",
+    "url": "https://www.asriran.com/fa/news/1087660/ناپدید-شدن-ssd-در-ویندوز-۱۱-مشکل-جدیدی-که-صدای-کاربران-را-درآورد",
+    "site_full": "www.asriran.com",
+    "site": "asriran.com",
+    "site_section": "https://mail.asriran.com/#asriran2",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "عصر ایران",
+    "site_title": null,
+    "title": "ناپدید شدن SSD در ویندوز ۱۱؛ مشکل جدیدی که صدای کاربران را درآورد",
+    "title_full": "ناپدید شدن SSD در ویندوز ۱۱؛ مشکل جدیدی که صدای کاربران را درآورد",
+    "published": "2025-08-21T11:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.asriran.com/files/fa/news/1404/5/30/2272333_479.jpg",
+    "performance_score": 0,
+    "domain_rank": 34565,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1576eaac974a7e32c8fce1df862e495169e3ba51",
+  "url": "https://www.asriran.com/fa/news/1087660/ناپدید-شدن-ssd-در-ویندوز-۱۱-مشکل-جدیدی-که-صدای-کاربران-را-درآورد",
+  "ord_in_thread": 0,
+  "author": "عصر ایران",
+  "published": "2025-08-21T11:59:00.000+03:00",
+  "title": "ناپدید شدن SSD در ویندوز ۱۱؛ مشکل جدیدی که صدای کاربران را درآورد",
+  "text": "باگهای ویندوز ۱۱ همیشه بحثبرانگیز بودهاند؛ اما اینبار گزارشی منتشر شده است که نشان میدهد برخی SSDها پس از نصب بهروزرسانی جدید، بهطور کامل از دید سیستمعامل ناپدید میشوند و حتی ریاستارت هم همیشه کمکی به بازگرداندن آنها نمیکند. باگ SSD ویندوز ۱۱ را اولینبار کاربری با نام Necoru_Cat در ایکس مطرح کرد. او ادعا کرد بهروزرسانی KB5063878 باعث میشود SSDها پس از انتقال بیش از ۵۰ گیگابایت داده، بهویژه درایوهایی با بیش از ۶۰ درصد فضای پر، دیگر در ویندوز شناسایی نشوند. برخی مواقع ریاستارت مشکل را رفع میکند، اما در برخی موارد هیچ نتیجهای ندارد. ابتدا مشکل SSD ویندوز ۱۱ به یک گزارش محدود بود و چندان جدی گرفته نشد، اما به مرور کاربران بیشتری تجربیات مشابه خود را به اشتراک گذاشتند و همین باعث شد ماجرا به سطحی برسد که حتی مایکروسافت و شرکتهای تولیدکنندهی SSD نیز واکنش نشان دهند. شرکت Phison در بیانیهای اعلام کرد که بهروزرسانیهای KB5063878 و KB5062660 میتوانند روی برخی کنترلرهای ذخیرهسازی تأثیر منفی بگذارند و افزود که برای شناسایی دقیق باگ و ارائهی راهکار درحال همکاری با شرکا هستند. کمی بعد مایکروسافت هم تأیید کرد که این مشکل را پیگیری میکند. با وجود تأیید باگ SSD در ویندوز ۱۱، هنوز علت دقیق آن مشخص نشده است. کارشناسان احتمال میدهند بهروزرسانیهای اخیر در این مورد نقش دارند، اما عوامل دیگر هم میتوانند دلیل بروز مشکل باشند. توصیهی موقت برای کاربران، حذف جدیدترین آپدیت و پرهیز از انتقال فایلهای حجیم روی SSD است، زیرا حتی دانلود بازی بزرگی مانند سایبرپانک ۲۰۷۷ میتواند باعث بروز این مشکل شود. منبع: زومیت",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "persian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Health"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social problem",
+    "Social Issue->social networking",
+    "Social Issue->discrimination",
+    "Health->medical condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:20:13.303+03:00",
+  "updated": "2025-08-21T12:26:07.000+03:00"
+}

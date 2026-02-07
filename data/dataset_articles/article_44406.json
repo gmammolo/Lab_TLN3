@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "4cdaf441786102bb922fd96f69cbad9af3f76046",
+    "url": "https://www.thestar.com.my/sport/football/2024/12/27/soccer-liverpool-comeback-to-beat-leicester-and-move-seven-points-clear",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/news/latest",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Latest - News | The Star",
+    "title": "Football: Soccer-Liverpool comeback to beat Leicester and move seven points clear | The Star",
+    "title_full": "Football: Soccer-Liverpool comeback to beat Leicester and move seven points clear | The Star",
+    "published": "2024-12-27T00:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/12/27/3088425.jpg",
+    "performance_score": 0,
+    "domain_rank": 2168,
+    "domain_rank_updated": "2024-12-23T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4cdaf441786102bb922fd96f69cbad9af3f76046",
+  "url": "https://www.thestar.com.my/sport/football/2024/12/27/soccer-liverpool-comeback-to-beat-leicester-and-move-seven-points-clear",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2024-12-27T00:11:00.000+02:00",
+  "title": "Football: Soccer-Liverpool comeback to beat Leicester and move seven points clear | The Star",
+  "text": "LIVERPOOL, England (Reuters) -Liverpool came back after conceding early to beat Leicester City 3-1 at Anfield on Thursday and open a seven-point lead at the top of the Premier League.\nStruggling Leicester took a shock sixth minute lead through Jordan Ayew but lived a charmed life until Cody Gakpo equalised on the stroke of halftime.\nLiverpool then put Leicester under siege straight from the break and took just four minutes into the second half to go ahead through Curtis Jones before Mohamed Salah made sure of the points with a superb 82nd-minute finish.\nThe victory extended their unbeaten league run to 13 games and advanced Liverpool to 42 points at the top of the standings.\nThey also have a game in hand over second-placed Chelsea, who are on 35, as well as third-placed Nottingham Forest on 34.\nOn a misty night in Liverpool, Leicester silenced the Anfield crowd with their early goal, as Stephy Mavididi’s run down the left culminated in a square cross into the penalty area that found Ayew, who used his strength to see off the challenge of Andy Robertson and then turn to slot home.\nDESERVED EQUALISER\nRobertson came close to atoning when his header hit the upright in the 25th minute and a curling left footed shot from Salah struck the crossbar in the 45th minute.\nSeconds later Gakpo cut in from the left and struck a superb curling effort beyond Leicester goalkeeper Jakub Stolarczyk for a deserved equaliser.\nJones’ goal came after Liverpool moved the ball around in tight spaces before Alexis Mac Allister’s square pass was steered in by the Englishman.\nThere was a lengthy VAR check before the goal was confirmed and a similarly long wait for a check when Gakpo found the net again in the 67th minute. That was eventually ruled offside.\nSalah’s strike was another classy finish as he marked his 100th home Premier League goal with a characteristic cut inside off the right flank, followed by an expertly placed finish across the face of the goal.\nLiverpool could have won by a larger margin such was their dominance.\nLeicester dropped into the relegation zone before kickoff after Wolverhampton Wanderers went above them earlier on Boxing Day after their 2-0 home win over Manchester United.\nLeicester remained on 14 points after a third successive league loss, two points above second from bottom Ipswich Town.\nLiverpool are away at West Ham United next on Sunday while Leicester host champions Manchester City the same day.\n(Writing by Mark Gleeson in Cape Town; Editing by Christian Radnedge)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Sport",
+    "Human Interest",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Sport->soccer",
+    "Sport->sport event",
+    "Sport->sports record",
+    "Human Interest->record and achievement",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mohamed Salah",
+        "sentiment": "none"
+      },
+      {
+        "name": "Curtis Jones",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mark Gleeson",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cody Gakpo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Premier League",
+        "sentiment": "none"
+      },
+      {
+        "name": "Liverpool",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-12-27T00:24:58.088+02:00",
+  "updated": "2024-12-27T01:57:47.175+02:00"
+}

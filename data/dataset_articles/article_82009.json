@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "393519fa4601810dba0c9701f4bfcc7a032d1ce3",
+    "url": "https://www.wired.com/story/worldcoin-sam-altman-orb",
+    "site_full": "www.wired.com",
+    "site": "wired.com",
+    "site_section": "https://news.co.za/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "News South Africa",
+    "title": "Sam Altman’s Eye-Scanning Orb Has a New Look—and Will Come Right to Your Door | WIRED",
+    "title_full": "Sam Altman’s Eye-Scanning Orb Has a New Look—and Will Come Right to Your Door | WIRED",
+    "published": "2024-10-18T00:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.wired.com/photos/671153e434db9b698e41762d/191:100/w_1280,c_limit/Worldcoin-Event-Coverage-Business-New-Orb-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 146,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "393519fa4601810dba0c9701f4bfcc7a032d1ce3",
+  "url": "https://www.wired.com/story/worldcoin-sam-altman-orb",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "bbc.co.uk/russian",
+  "published": "2024-10-18T00:30:00.000+03:00",
+  "title": "Sam Altman’s Eye-Scanning Orb Has a New Look—and Will Come Right to Your Door | WIRED",
+  "text": "Last year, a foundation called Tools for Humanity went on tour to [show off its eye-scanning Orb.](https://www.wired.com/story/sam-altman-orb-worldcoin-tools-for-humanity/) The metallic globe—an actual, physical orb—was one part of a process where citizens would someday use their biometric information to verify their humanity. The project, called Worldcoin, might have been written off as another techno-utopian project bound to fail had it not had one name attached to it: Sam Altman, the cofounder and CEO of [OpenAI](https://www.wired.com/tag/openai), one of the most dramatic tech companies of the modern era. An inkling of Worldcoin began in 2019 when Altman began exploring identity verification that could be used in universal basic income schemes. He teamed up with technologist Alex Blania to turn the idea into a reality. In a world of rapidly advancing AI, they theorized, it would be important for a human to prove they were not a bot. The answer they came up with relied on individuals using iris-scanning tech to generate private tokens that would verify their identities around the world. Worldcoin, then, is the ultimate attempt at tech solutionism: A human-grade AI world that Altman is building might also be technologically regulated by a tool that Altman has his hands in. Today, in an airy space in San Francisco’s Mission District, Altman and Blania presented their latest vision for Worldcoin, now rebranded to the World Network, or World for short. The event included keynote presentations, new hardware, promises of expanded services, and hands-on (eyes-on?) time with the new product, like an Apple event if the Apple designers had just returned from an ayahuasca retreat. (The Wi-Fi password for the event: IntelligenceAge.) A spokesperson for Tools for Humanity said all event attendees can have their iris scanned today, and 500 attendees will receive a new Orb when it ships in 2025. “We need more orbs, lots more orbs, probably on the order of a thousand more orbs than we have today,” Tools for Humanity chief device officer Rich Heley said during the keynote. This Orb has a new, pearly look. It’s running on Nvidia’s Jetson chipset and, according to Tools for Humanity, “provides nearly 5X the AI performance” for faster identity verification. None of this makes it less bizarre. In Latin America, starting next year, the Orb will be ordered on-demand like a pizza: Through a partnership with the app Rappi, citizens can have an Orb show up at their door to scan their irises and sign up for the World Network. The Orb then goes on its merry way. (Tools for Humanity designer Thomas Meyerhoffer said that the SD card that arrives at someone’s door has no prior data.) World says it’s opening two Orb-scanning spaces, in Buenos Aires and Mexico City. The Orb might also show up in your neighborhood corner store or coffee shop, where you’ll be able to order an iris scan with your latte. There are currently four locations in the US where you can “find your nearest Orb,” and 333 Orb sites globally. This Orb hardware is really just a vessel of sensors and semiconductors required to capture your eyeballs. Once that biometric data is captured, it goes into an app. This, very obviously, raises questions about data privacy and storage. Blania insists that when a user creates a World ID and has their iris scanned and stored in the World app, it’s encrypted and stored only on local devices. It’s this World app and World network that will power Altman and Blania’s vision for the identity verification future, and these software services got an upgrade today, too. Several of them. First, Altman and Blania say they have expanded the capabilities of the World ID service to support several hundred million credentials, a bump up from the approximately 7 million World ID holders who are already “Orb-verified,” a perhaps unsettling neologism. The company is launching a new feature called Deep Face (a play on “deepfake”) that it says will provide a new way to combat fraud. It will be compatible with virtual communication apps like FaceTime, WhatsApp, and Zoom. If someone shows up on a video call purporting to be you, and you’ve been identity-verified through World, the idea is that the app would flag that it’s not the real you. WIRED asked Blania how the company plans to provide its Deep Face service, which would require some type of facial recognition, while also adhering to its new data privacy principles. He described a scenario in which a person’s World ID is stored and running locally on their Mac computer, and that it’s used as a kind of app layer to run over a video chat when that person logs on and is using the device’s camera. But World still doesn’t have any official partnerships with Apple, Meta, or Zoom for this solution; it just said the World app will “support” these processes. During the event today, World also said its blockchain network—“the world’s first blockchain designed for humans”—is now live, which means the several million holders of World ID and World App users will be migrated to this new, underlying blockchain network. While the biometric-scanning Orb and the World network have their roots in crypto tokens, “crypto” wasn’t an oft-mentioned word during the event. Instead, Altman and Blania emphasized World’s blockchain service, digital asset management, and virtual communication tools. Blania claimed during the press briefing that, in the future, World hopes to build the “largest finance network” on the planet. In a separate interview with WIRED, Blania said that during regular Sunday meetings at Atlman’s house, the pair were inspired by the rise of PayPal. Similar to the way that Peter Thiel, Max Levchin, and others once pioneered digital payments and fundamentally changed online commerce—becoming billionaires themselves in the process—the World team saw themselves building out a similar network for tokens on a distributed network. The World app, for now, is free for everyone to use. It’s free to scan your eyeballs, too. Tools for Humanity itself is venture-backed, and the foundation, in its land grab for the modern identity verification market and your personal biometric data, is focused on scale, scale, scale. Eventually, it may make money through processing fees, Blania said. Most of Tools for Humanity’s expansion plans for now are in locations outside of the US, due to murky regulations around crypto stateside, the organization’s spokesperson told me. If you use the Orb and compatible app in the US, it will scan and store your iris but won’t generate a crypto token for you. Two and a half years ago, the Worldcoin project [came under scrutiny for allegedly deceptive and exploitative practices](https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/) in recruiting individuals to scan their irises. At the time, Blania attributed this haphazard behavior to the organization still being in its “startup” phase. In an interview with WIRED, Blania said the company is doing “like, a thousand things” to ensure a more rigorous consent process. This includes staffing an “operational team” in every market where World will be. He said there will be “explanations” in the World app for how the product works. “And again, there is no data stored in any central place or anything,” Blania said. In 2023, the service was also being investigated by governments in Germany, Brazil, India, South Korea, and Kenya over concerns about how it was storing and using biometric data. Kenya suspended Worldcoin enrollment entirely. South Korea fined the company. Worldcoin suspended its own service in India, Brazil, and France. Blania said he believes World will relaunch in Kenya “sometime soon.” When asked in the press briefing about the emphasis on Latin America as a market for expansion, such as through the partnership with Rappi for orbs-on-delivery, Blania disputed the idea that World was prioritizing Latin America over other locations. “It’s just that we have limited resources, and there’s a natural sequencing happening,” Blania said. “We are similarly focused on Asia and other places. Argentina has been a fast-growing market for us, for example, and we’re excited about that.” “But the project is literally called World,” he added. After the keynote, Altman ran into the press room to wave and apologize for not being able to stay, then slipped away like a head of state.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/",
+    "https://twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fworldcoin-sam-altman-orb%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dwired%26utm_social-type%3Dearned&text=&via=wired&quot;}",
+    "https://www.twitter.com/LaurenGoode&quot;}",
+    "https://www.twitter.com/LaurenGoode",
+    "https://www.facebook.com/dialog/feed?&display=popup&caption=&app_id=719405864858490&link=https%3A%2F%2Fwww.wired.com%2Fstory%2Fworldcoin-sam-altman-orb%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dwired%26utm_social-type%3Dearned",
+    "https://twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fworldcoin-sam-altman-orb%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dwired%26utm_social-type%3Dearned&text=&via=wired",
+    "https://www.facebook.com/dialog/feed?&display=popup&caption=&app_id=719405864858490&link=https%3A%2F%2Fwww.wired.com%2Fstory%2Fworldcoin-sam-altman-orb%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dwired%26utm_social-type%3Dearned&quot;}",
+    "https://facebook.com/dialog/feed?&display=popup&caption=&app_id=719405864858490&link=https%3A%2F%2Fwww.wired.com%2Fstory%2Fworldcoin-sam-altman-orb%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dwired%26utm_social-type%3Dearned&quot;}",
+    "https://technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/",
+    "https://www.facebook.com/dialog/feed",
+    "https://twitter.com/LaurenGoode&quot;}",
+    "https://facebook.com/dialog/feed?&display=popup&caption=&app_id=719405864858490&link=https%3A%2F%2Fwww.wired.com%2Fstory%2Fworldcoin-sam-altman-orb%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dwired%26utm_social-type%3Dearned",
+    "https://twitter.com/intent/tweet/",
+    "https://twitter.com/LaurenGoode",
+    "https://www.twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fworldcoin-sam-altman-orb%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dwired%26utm_social-type%3Dearned&text=&via=wired&quot;}",
+    "https://www.twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fworldcoin-sam-altman-orb%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dwired%26utm_social-type%3Dearned&text=&via=wired",
+    "https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:03:25.347+03:00",
+  "updated": "2024-11-14T10:54:27.840+02:00"
+}

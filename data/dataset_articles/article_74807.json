@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "3b1503df1b5185fcf10cc9b14195ae743b777849",
+    "url": "https://securityonline.info/volt-typhoon-chinese-state-sponsored-apt-targets-u-s-critical-infrastructure",
+    "site_full": "securityonline.info",
+    "site": "securityonline.info",
+    "site_section": "https://www.securityonline.info",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Cybersecurity News • Cybersecurity Daily",
+    "title": "Volt Typhoon: Chinese State-Sponsored APT Targets U.S. Critical Infrastructure",
+    "title_full": "Volt Typhoon: Chinese State-Sponsored APT Targets U.S. Critical Infrastructure",
+    "published": "2024-11-22T03:42:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 127458,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3b1503df1b5185fcf10cc9b14195ae743b777849",
+  "url": "https://securityonline.info/volt-typhoon-chinese-state-sponsored-apt-targets-u-s-critical-infrastructure",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "do son",
+  "published": "2024-11-22T03:42:00.000+02:00",
+  "title": "Volt Typhoon: Chinese State-Sponsored APT Targets U.S. Critical Infrastructure",
+  "text": "The Tenable Security Response Team has uncovered critical details about Volt Typhoon, a state-sponsored Advanced Persistent Threat (APT) group linked to the People\\u2019s Republic of China. The group has been actively targeting U.S. critical infrastructure sectors, including communications, energy, transportation, and water systems, with a focus on maintaining long-term access for potential future operations.\n\\nVolt Typhoon specializes in stealth and persistence, employing living-off-the-land (LOTL) tactics to blend in with legitimate system activity. As Tenable highlights : \\u201c Volt Typhoon uses native Windows tools like cmd.exe, netsh and PowerShell to execute commands and conduct lateral movement across compromised networks. By avoiding the use of external tools, the group minimizes their digital footprint, making detection through traditional signature-based antivirus systems more challenging. \\u201d\n\\nInstead of deploying malware, the group exploits legitimate tools to conduct reconnaissance, credential harvesting, and lateral movement. Their targets are carefully selected, and their operations are tailored to specific environments, especially Operational Technology (OT) systems.\n\\nVolt Typhoon gains entry by targeting vulnerabilities in publicly exposed systems, particularly firewalls, VPN appliances, and web servers. The group exploits unpatched systems and default or weak credentials, emphasizing the need for robust patch management. \\u201c Compromised small-office and home-office (SOHO) routers are often used as intermediary devices, making their traffic appear benign and bypassing geolocation-based firewall rules ,\\u201d Tenable explains.\n\\nKey vulnerabilities exploited by Volt Typhoon include:\n\\n \\n \\n \\n CVE \\n Description \\n CVSSv3 Score \\n VPR \\n \\n \\n \\n \\n CVE-2021-27860 \\n FatPipe WARP, IPVPN, MPVPN Unrestricted Upload of File with Dangerous Type \\n 8.8 \\n 7.4 \\n \\n \\n CVE-2021-40539 \\n Zoho ManageEngine ADSelfService Plus Authentication Bypass Vulnerability \\n 9.8 \\n 9 \\n \\n \\n CVE-2022-42475 \\n Fortinet FortiOS and FortiProxy Heap-Based Buffer Overflow Vulnerability \\n 9.8 \\n 8.9 \\n \\n \\n CVE-2023-27997 \\n Fortinet FortiOS and FortiProxy Heap-Based Buffer Overflow Vulnerability \\n 9.8 \\n 9 \\n \\n \\n CVE-2024-39717 \\n Versa Director File Upload Vulnerability \\n 7.2 \\n 8.4 \\n \\n \\n \\nVolt Typhoon\\u2019s operational strategy revolves around avoiding detection by using native tools and legitimate processes. This includes:\n\\n \\n Credential Dumping : Using tools like Mimikatz to extract credentials from memory. \\n Persistence Mechanisms : Leveraging Windows Task Scheduler \\u201cto establish scheduled tasks for regular access, ensuring long-term surveillance capabilities.\\u201d \\n \\nThe group also maintains a low profile by cleaning up logs or rotating them to erase evidence of their presence, further complicating detection efforts.\n\\nVolt Typhoon\\u2019s operations underscore the persistent and evolving threats posed by state-sponsored APT groups. Their use of stealthy techniques and focus on critical infrastructure highlights the importance of proactive cybersecurity measures.\n\\n Related Posts: \\n\\n \\n \\n \\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.tenable.com/cve/CVE-2023-27997",
+    "https://www.tenable.com/cve/CVE-2024-39717",
+    "https://www.tenable.com/cve/CVE-2022-42475",
+    "https://www.tenable.com/cve/CVE-2021-27860",
+    "https://www.tenable.com/cve/CVE-2021-40539",
+    "https://www.tenable.com/blog/volt-typhoon-u-s-critical-infrastructure-targeted-by-state-sponsored-actors",
+    "https://tenable.com/cve/CVE-2023-27997",
+    "https://tenable.com/cve/CVE-2022-42475",
+    "https://tenable.com/cve/CVE-2024-39717",
+    "https://tenable.com/cve/CVE-2021-40539",
+    "https://tenable.com/cve/CVE-2021-27860",
+    "https://tenable.com/blog/volt-typhoon-u-s-critical-infrastructure-targeted-by-state-sponsored-actors"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T05:04:40.239+02:00",
+  "updated": "2024-11-22T05:04:40.239+02:00"
+}

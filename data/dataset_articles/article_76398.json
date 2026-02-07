@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "662500a5cc2f7d636a359aeed5aa726d5e8fe17a",
+    "url": "https://www.zerodayinitiative.com/advisories/ZDI-25-011",
+    "site_full": "www.zerodayinitiative.com",
+    "site": "zerodayinitiative.com",
+    "site_section": "https://www.zerodayinitiative.com/advisories/published/",
+    "site_categories": [],
+    "section_title": "Published | Zero Day Initiative",
+    "title": "ZDI-25-011",
+    "title_full": "ZDI-25-011",
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://zerodayinitiative.com/images/logo-footer.svg",
+    "performance_score": 0,
+    "domain_rank": 25320,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "662500a5cc2f7d636a359aeed5aa726d5e8fe17a",
+  "url": "https://www.zerodayinitiative.com/advisories/ZDI-25-011",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-09T02:00:00.000+02:00",
+  "title": "ZDI-25-011",
+  "text": "This vulnerability allows remote attackers to bypass authentication on affected installations of SonicWALL NSv. Authentication is not required to exploit this vulnerability.\nThe specific flaw exists within the generation of cookies. The issue results from the use of a cryptographically weak pseudo-random number generator. An attacker can leverage this vulnerability to bypass authentication on the system.\nADDITIONAL DETAILS SonicWALL has issued an update to correct this vulnerability. More details can be found at:\nhttps://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0003\nDISCLOSURE TIMELINE 2024-11-05 - Vulnerability reported to vendor 2025-01-09 - Coordinated public release of advisory 2025-01-09 - Advisory Updated CREDIT Daan Keuper, Thijs Alkemade and Khaled Nassar of Computest Security",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0003",
+    "https://www.psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0003"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T00:33:31.024+02:00",
+  "updated": "2025-01-10T00:33:31.024+02:00"
+}

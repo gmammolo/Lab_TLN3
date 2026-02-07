@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "f22583ebef3069a5bd7d2c4fa6bef30f61c61f33",
+    "url": "https://www.healthcarebusinesstoday.com/mitigating-cybersecurity-risks-healthcare",
+    "site_full": "www.healthcarebusinesstoday.com",
+    "site": "healthcarebusinesstoday.com",
+    "site_section": "https://www.healthcarebusinesstoday.com",
+    "site_categories": [
+      "family_and_parenting",
+      "eldercare"
+    ],
+    "section_title": "Home - Healthcare Business Today",
+    "title": "Mitigating Cybersecurity Risks in the Healthcare Sector",
+    "title_full": "Mitigating Cybersecurity Risks in the Healthcare Sector",
+    "published": "2024-11-15T14:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 42680,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f22583ebef3069a5bd7d2c4fa6bef30f61c61f33",
+  "url": "https://www.healthcarebusinesstoday.com/mitigating-cybersecurity-risks-healthcare",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Editorial Team",
+  "published": "2024-11-15T14:24:00.000+02:00",
+  "title": "Mitigating Cybersecurity Risks in the Healthcare Sector",
+  "text": "The healthcare industry is no stranger to cybersecurity risk concerns. In the last few years, the world has witnessed several instances of cybersecurity threats and interferences, from cyberattacks on customer accounts containing prescription information, to ransomware attacks on patient records systems and health payment processing companies, and exploitation of vulnerabilities in DNA sequencing instruments. Since 2010, cyberattacks in healthcare have exposed 385 million patient records and cost an average of almost $11 million per event.\nThe most common types of cybersecurity threats include:\nRansomware and malware attacks, which potentially disable hospitals’ medical devices and critical infrastructure (including interrupting or halting procedures at threat to people’s lives and well-being), upend payment processing systems, and/or leak patients’ personal data; Cybersecurity breaches of hospital networks, core systems, and remote operation of devices (including telehealth), which also present potential physical threats (including loss of power); and Unpatched and out-of-date software in medical devices. Many medical devices require updates to embedded software in a timely manner. Patches and updates can be delayed or missed for a variety of reasons, and unpatched vulnerabilities can open a door for threat actors to gain unauthorized access to the device and the network it is connected to in order to steal patient data. RECENT HEALTHCARE CYBERATTACKS Three recent cyberattacks within the healthcare industry have resulted in massive fallout for doctors and patients, serving as a reminder that the healthcare industry is a prime target for cybercriminals. In February 2024, Change Healthcare, a subsidiary of UnitedHealth and the US’s largest processor of medical claims, suffered a ransomware attack that took its systems offline. Widely regarded as the most significant cybersecurity attack in the history of the American healthcare industry, the exposure purportedly leaked the personal data of up to a third of Americans and disrupted billions of dollars in patient payments. The attack also froze Change Healthcare’s pharmacy systems across the US, leading to delayed deliveries of prescription drugs nationwide. While testifying before Congress in early May 2024 about the data breach, UnitedHealth CEO Andrew Witty admitted to paying $22 million in ransom to the hackers. The Office of Civil Rights has launched an investigation into whether Change Healthcare and UnitedHealth violated HIPAA regulations.\nIn April 2024, Kaiser Permanente disclosed a data breach impacting approximately 13.4 million individuals. The breach reportedly resulted from the improper implementation of tracking codes on the company’s digital platforms, which inadvertently shared patient data with third-party advertisers. The compromised information included sensitive details such as patients’ names, IP addresses, and specific interactions with Kaiser’s online services. Subsequently, a class-action lawsuit was filed against Kaiser Permanente, alleging that the organization disclosed patients’ personal information to third parties without consent, violating state wiretapping and consumer-protection laws. As of now, no government investigation has been announced regarding this breach.\nOn May 9, 2024, Ascension, one of the largest healthcare systems in the US, revealed that a cyberattack had forced patient record systems to go offline. The attack disabled a variety of other electronic services as well, resulting in hospitals reverting to charting patient care on paper. On June 14, 2024, Ascension reported that it restored its electronic health records across the system. Multiple class-action lawsuits have been filed , alleging that Ascension’s negligence led to the compromise of personal identifying information and protected health information.\nThe Change Healthcare, Kaiser Permanente, and Ascension incidents highlight the importance of improving the healthcare industry’s defense posture in order to protect sensitive patient health information and prevent the disruption of hospital operations. As cybercriminals across the globe continue to target healthcare organizations, the healthcare industry should prioritize the development and implementation of tactical strategies to prepare for and mitigate damages arising from such attacks. Such strategies should include adherence to the latest government-enforced cybersecurity standards and increased collaboration with other entities operating in the space to address shared vulnerabilities.\nU.S. GUIDANCE FOR CYBERSECURITY RISK MINIMIZATION Healthcare providers and device manufacturers can take a variety of steps to better manage the cybersecurity risks present in the healthcare industry. The Department of Health and Human Services (HHS) has published voluntary healthcare-specific Cybersecurity Performance Goals (CPGs) to bolster critical healthcare infrastructure and protect against cyber threats. Moreover, in 2022, FDA published Draft Cybersecurity Guidance for Medical Devices , proposing guidelines for manufacturers to minimize cybersecurity risks. The intent of the FDA guidance is to encourage stakeholders to emphasize transparency and security throughout the development of devices. The FBI has also published recommendations targeted at unpatched and outdated medical devices that complement those set out by FDA. These materials set market standards for basic measures that can be taken to protect against cyber threats. The companies to which they apply would do well to review and consider the feasibility of these recommendations within their own environments. Some states like California and Oregon have passed laws establishing a baseline cybersecurity requirement for healthcare providers. As technology progresses, we expect cybersecurity laws, rules, regulations, and guidance to continue to evolve.\nRISK MANAGEMENT Companies are exploring novel solutions to mitigate risk , including by using innovative technology, such as blockchain and digital twins. Blockchain creates a secure and permanent transaction trail, so any time data is accessed or moved, that action can be traced. Blockchain also decentralizes the storage of data, reducing the cybersecurity risks associated with the management of a central system. Digital twins are virtual copies of medical devices, patients, or environments that can help predict reactions, developments, and other unknown factors in healthcare by mimicking both physical properties and operational algorithms. Digital twins help with efficient lifecycle management of medical devices and increase transparency during the development of cybersecurity programs.\nNonetheless, it is important to note that these novel solutions come with their own set of cybersecurity concerns. For example, digital twins require layering technology to obtain data and could increase entry points for cybersecurity breaches through the use of Internet of Things (IoT) sensors, which monitor factors such as bed availability, machine performance, and the temperature of volatile resources; edge computing, which decentralizes the data processing centers; and AI.\nConclusion The recent cyberattacks in the healthcare sector underscore the need for the industry to adopt proactive cybersecurity measures and implement robust safeguards. In addition to close adherence to government-enforced cybersecurity standards, continued coordination among industry stakeholders is likely needed to identify and address cybersecurity challenges and ensure that cybercriminals cannot continue to take advantage of vulnerabilities in this space. Navigating cybersecurity risks in these ways will foster greater transparency among all stakeholders involved and ultimately, increase patients’ trust and confidence in the healthcare sector.\nImage: ID 108494042 © Siriporn Kaenseeya | Dreamstime.com",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.healthcaredive.com/news/ascension-lawsuits-ransomware-attack-cybersecurity/716248/",
+    "https://www.dreamstime.com/doucefleur_info",
+    "https://www.dreamstime.com/hand-hacker-computer-keyboard-unlocked-icon-cyber-attack-unsecured-network-internet-security-hand-hacker-computer-image108494042",
+    "https://www.ic3.gov/Media/News/2022/220912.pdf",
+    "https://apnews.com/article/change-healthcare-cyberattack-federal-government-hhs-88ac99fc0c62e69dc60fc5c39682e859",
+    "https://www.washingtonpost.com/business/2024/05/01/united-health-hack-ceo-congress-change-healthcare/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE2ODY4ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE4MjUxMTk5LCJpYXQiOjE3MTY4Njg4MDAsImp0aSI6IjQzNjJmMjgzLTg5NDAtNDIwMy1iYWVjLTRiYjZlZjAxMzMyMyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDI0LzA1LzAxL3VuaXRlZC1oZWFsdGgtaGFjay1jZW8tY29uZ3Jlc3MtY2hhbmdlLWhlYWx0aGNhcmUvIn0.-wD8NWk64ck0YHdK_NArtg_0q2Vf-AtKboQipdn8isA",
+    "https://www.reuters.com/technology/cybersecurity/kaiser-notifies-millions-data-breach-2024-04-25/",
+    "https://www.classaction.org/news/data-breach-lawsuit-says-kaiser-permanente-disclosed-info-of-13.4-million-patients-to-microsoft-google-twitter",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-system-considerations-and-content-premarket-submissions",
+    "https://www.fastcompany.com/91128296/change-healthcare-ascension-ransomware-breach-update-stop-future-cyberattacks",
+    "https://www.healthcaredive.com/news/cybersecurity-hacking-healthcare-breaches/643821/",
+    "https://www.dreamstime.com/stock-photos",
+    "https://hphcyber.hhs.gov/documents/cybersecurity-performance-goals.pdf",
+    "https://www.healthcaredive.com/news/average-cost-healthcare-data-breach-11-million/688859/#:~:text=from%2520your%2520inbox.-,Average%2520cost%2520of%2520healthcare%2520data%2520breach%2520reaches%2520%252411M%252C%2520report,costs%2520increasing%252053%2525%2520since%25202020.",
+    "https://www.reuters.com/technology/cybersecurity/kaiser-notifies-millions-data-breach-2024-04-25",
+    "https://washingtonpost.com/business/2024/05/01/united-health-hack-ceo-congress-change-healthcare/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE2ODY4ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE4MjUxMTk5LCJpYXQiOjE3MTY4Njg4MDAsImp0aSI6IjQzNjJmMjgzLTg5NDAtNDIwMy1iYWVjLTRiYjZlZjAxMzMyMyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDI0LzA1LzAxL3VuaXRlZC1oZWFsdGgtaGFjay1jZW8tY29uZ3Jlc3MtY2hhbmdlLWhlYWx0aGNhcmUvIn0.-wD8NWk64ck0YHdK_NArtg_0q2Vf-AtKboQipdn8isA",
+    "https://dreamstime.com/doucefleur_info",
+    "https://www.healthcaredive.com/news/ascension-lawsuits-ransomware-attack-cybersecurity/716248",
+    "https://fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-system-considerations-and-content-premarket-submissions",
+    "https://reuters.com/technology/cybersecurity/kaiser-notifies-millions-data-breach-2024-04-25/",
+    "https://healthcaredive.com/news/ascension-lawsuits-ransomware-attack-cybersecurity/716248/",
+    "https://healthcaredive.com/news/average-cost-healthcare-data-breach-11-million/688859/#:~:text=from%2520your%2520inbox.-,Average%2520cost%2520of%2520healthcare%2520data%2520breach%2520reaches%2520%252411M%252C%2520report,costs%2520increasing%252053%2525%2520since%25202020.",
+    "https://www.apnews.com/article/change-healthcare-cyberattack-federal-government-hhs-88ac99fc0c62e69dc60fc5c39682e859",
+    "https://www.hphcyber.hhs.gov/documents/cybersecurity-performance-goals.pdf",
+    "https://dreamstime.com/hand-hacker-computer-keyboard-unlocked-icon-cyber-attack-unsecured-network-internet-security-hand-hacker-computer-image108494042",
+    "https://classaction.org/news/data-breach-lawsuit-says-kaiser-permanente-disclosed-info-of-13.4-million-patients-to-microsoft-google-twitter",
+    "https://fastcompany.com/91128296/change-healthcare-ascension-ransomware-breach-update-stop-future-cyberattacks",
+    "https://www.washingtonpost.com/business/2024/05/01/united-health-hack-ceo-congress-change-healthcare/",
+    "https://dreamstime.com/stock-photos",
+    "https://www.healthcaredive.com/news/cybersecurity-hacking-healthcare-breaches/643821",
+    "https://healthcaredive.com/news/cybersecurity-hacking-healthcare-breaches/643821/",
+    "https://ic3.gov/Media/News/2022/220912.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T16:46:20.125+02:00",
+  "updated": "2024-11-15T16:46:20.125+02:00"
+}

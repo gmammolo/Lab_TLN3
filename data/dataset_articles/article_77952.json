@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "9277dcd830582f1901934e16248389811ff09af9",
+    "url": "https://fudzilla.com/news/ai/61578-ceo-deepfakes-scam-millions-from-gullible-staff",
+    "site_full": "fudzilla.com",
+    "site": "fudzilla.com",
+    "site_section": "https://fudzilla.com",
+    "site_categories": [
+      "3d_graphics",
+      "tech"
+    ],
+    "section_title": "Fudzilla.com - Home",
+    "site_title": "Fudzilla.com - Home",
+    "title": "CEO deepfakes scam millions from gullible staff",
+    "title_full": "CEO deepfakes scam millions from gullible staff",
+    "published": "2025-08-21T10:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://fudzilla.com/media/k2/items/cache/cc99fb812cf81582030b552a32aa8c9c_XS.jpg",
+    "performance_score": 0,
+    "domain_rank": 21153,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9277dcd830582f1901934e16248389811ff09af9",
+  "url": "https://fudzilla.com/news/ai/61578-ceo-deepfakes-scam-millions-from-gullible-staff",
+  "ord_in_thread": 0,
+  "author": "Nick Farrell",
+  "published": "2025-08-21T10:08:00.000+03:00",
+  "title": "CEO deepfakes scam millions from gullible staff",
+  "text": "Cybercriminals are using AI-generated voice and video to impersonate corporate bigwigs and trick staff into wiring away millions in company funds or giving up confidential information.\nAccording to the Wall Street Journal deepfake scams might not be new, but the surge in cheap and convincing AI tools has turned them into a bigger threat than ever, say security experts.\nAdaptive Security chief executive and co-founder Brian Long said his OpenAI-backed outfit has tracked more than 105,000 deepfake attacks in the US last year.\n“A year ago, maybe one in 10 security executives I spoke to had seen one. Now it’s closer to five in 10,” Long said.\nFirms already caught out include Ferrari, cloud security outfit Wiz and ad agency WPP. At engineering firm Arup, a UK staffer sent $25 million (€23.1 million) to fraudsters after a fake video call with AI-generated company execs.\nThe usual script involves a finance manager or senior engineer getting a message from a very convincing fake CEO, claiming there’s an urgent merger or deal needing instant action. This is followed by a virtual meeting with a deepfaked executive giving instructions to wire funds, send internal data or click dodgy links.\nThese digital puppets mimic familiar voices and faces in real time, throwing in accents, speech patterns and other mannerisms.\nAccording to Darktrace director of security and AI strategy Margaret Cunningham, the technique works because “they simply target how humans operate.”\nShe said: “Familiarity, authority and urgency are powerful cognitive levers... once trust is established, even briefly, attackers can step into an insider role and request actions that feel legitimate.”\nGuardio head of research Nati Tal reckons the real numbers are even higher, with many firms keeping their mouths shut to avoid reputational damage.\n“Many companies and organisations will never disclose these attacks publicly,” Tal said.\nYouTube warned creators in March about a phoney video of CEO Neal Mohan announcing changes to monetisation policies. The fake video was privately circulated and contained links leading to phishing sites designed to nick credentials or install malware.\n“If creators have received these private videos from phishers, we encourage them to report the content,” a YouTube spokesperson told the Journal.\nOptiv vice president of global cyber advisory James Turgal said AI deepfake fraud cost more than $200 million in just the first quarter of this year. OpenAI boss Sam Altman reckoned a “fraud crisis” is brewing thanks to AI’s power to impersonate people.\nUS Treasury’s Financial Crimes Enforcement Network has seen a rise in deepfake scams aimed at banks, mortgage firms and casino operators. In an alert late last year, it warned that crooks are now “impersonating an executive or other trusted employee and then instructing victims to transfer large sums.”\nThe American Bankers Association claims to be keeping an eye on things, working with federal agencies to alert members.\nAccording to Group-IB chief executive Dmitry Volkov, top brass make perfect deepfake bait. With countless interviews, promo clips and public speaking gigs online, execs provide an endless stream of training data for scammers.\nGuardio’s Tal added: “A few minutes of clean audio or video is extremely valuable... AI models learn to copy someone’s voice pattern, tone and facial movements.”\nDetection is getting harder. Dave Tyson, partner at iCOUNTER, said deepfake scams are increasingly sophisticated, avoiding the usual telltale signs like dodgy links or glitchy behaviour.\n“A greater and greater proportion of scams are leaving out these giveaways,” Tyson said.\nA new wave of deepfake detection startups has popped up, with early funding rounds ranging from $5 million to more than $30 million (€27.7 million).\nYouMail chief executive Alex Quilici said tech isn’t enough. He reckons the best fix is low-tech: verify requests using other channels. He also encouraged execs to make it clear to their teams that it’s OK to double-check identity when something smells off.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->fraud",
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Brian Long",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "WPP",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "WPP",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:23:26.522+03:00",
+  "updated": "2025-08-21T10:27:09.000+03:00"
+}

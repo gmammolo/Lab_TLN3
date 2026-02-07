@@ -1,0 +1,121 @@
+{
+  "thread": {
+    "uuid": "e082d0dfbd4565f8f14e18bfc9d9ac1c257a89e2",
+    "url": "https://www.cybersecurity-insiders.com/cyber-attack-on-workday-and-qilin-ransomware-attack-on-inotiv/",
+    "site_full": "www.cybersecurity-insiders.com",
+    "site": "cybersecurity-insiders.com",
+    "site_section": "https://www.cybersecurity-insiders.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Agentless CASB speeds ransomware disaster recovery",
+    "site_title": "Top Cybersecurity News &amp; Data - Cybersecurity Insiders",
+    "title": "Cyber Attack on Workday and Qilin Ransomware attack on Inotiv",
+    "title_full": "Cyber Attack on Workday and Qilin Ransomware attack on Inotiv",
+    "published": "2025-08-21T08:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.cybersecurity-insiders.com/wp-content/uploads/News.jpeg",
+    "performance_score": 0,
+    "domain_rank": 53775,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e082d0dfbd4565f8f14e18bfc9d9ac1c257a89e2",
+  "url": "https://www.cybersecurity-insiders.com/cyber-attack-on-workday-and-qilin-ransomware-attack-on-inotiv/",
+  "ord_in_thread": 0,
+  "author": "Naveen Goud",
+  "published": "2025-08-21T08:51:00.000+03:00",
+  "title": "Cyber Attack on Workday and Qilin Ransomware attack on Inotiv",
+  "text": "Workday Hit by Cyber Attack Following Collaboration Between Scattered Spider and ShinyHunters\nWorkday , the U.S.-based company known for providing HR and financial management solutions, has fallen victim to a cyber attack suspected to involve ransomware. The breach is believed to be the result of a collaboration between two notorious hacking groups: ShinyHunters and Scattered Spider. The attack led to a significant data leak, exposing personal information about Workday employees, including names, email addresses, phone numbers, and home addresses. This data is now at risk of being used for further social engineering attacks.\nIn a report filed with the SEC, Workday explained that the hackers gained access to its network by successfully impersonating HR professionals and tricking an employee into providing sensitive login credentials. Once the hackers had these credentials, they were able to infiltrate the company’s systems.\nIt’s worth noting that ShinyHunters is the same group responsible for breaching Google’s Active Directory and analytics servers through Salesforce instances earlier this year. Google identified and neutralized the threat in July 2025.\nThe FBI has issued a warning that the ongoing collaboration between ShinyHunters and Scattered Spider could lead to more cyber attacks targeting large corporations in the near future.\nQilin Ransomware Targets Inotiv Pharmaceutical in Data Breach\nInotiv , a prominent U.S. pharmaceutical company, has reportedly been attacked by the Qilin Ransomware group. The attack, which occurred on August 8, 2025, led to a breach involving sensitive data from employees, customers, and business partners.\nAccording to sources familiar with the incident, Inotiv’s internal servers were compromised by Qilin, which managed to exfiltrate approximately 176GB of data—equating to around 162,000 files. The company’s incident response team was quick to take action, containing the malware and preventing further damage.\nQilin ransomware gang has since claimed responsibility for the attack and has threatened to release a portion of the stolen data as proof of its actions.\nIn recent weeks, cybercriminals have increasingly targeted telecom networks and healthcare-related businesses. These industries are particularly vulnerable due to the vast amounts of sensitive data they handle, making them prime targets for ransomware groups. The stolen information can cause significant panic and pressure companies to pay up to avoid further exposure.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.inotiv.com/",
+    "https://www.workday.com/",
+    "https://workday.com/",
+    "https://www.workday.com",
+    "https://www.inotiv.com",
+    "https://inotiv.com/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "SEC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:15:07.782+03:00",
+  "updated": "2025-08-21T11:18:37.000+03:00"
+}

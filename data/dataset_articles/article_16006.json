@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "af7865c864744acc9407bb71b6508aa5db5a1e1c",
+    "url": "https://datascience.uchicago.edu/news/ms-in-applied-data-science-team-wins-2nd-place-at-transit-hacks-2025",
+    "site_full": "datascience.uchicago.edu",
+    "site": "uchicago.edu",
+    "site_section": "https://datascience.uchicago.edu",
+    "site_categories": [],
+    "section_title": "DSI &#8211; Data Science Institute &#8211; University of Chicago",
+    "site_title": null,
+    "title": "MS in Applied Data Science Team Wins 2nd Place at Transit Hacks 2025 - DSI",
+    "title_full": "MS in Applied Data Science Team Wins 2nd Place at Transit Hacks 2025 - DSI",
+    "published": "2025-06-12T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 440,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "af7865c864744acc9407bb71b6508aa5db5a1e1c",
+  "url": "https://datascience.uchicago.edu/news/ms-in-applied-data-science-team-wins-2nd-place-at-transit-hacks-2025",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-12T03:00:00.000+03:00",
+  "title": "MS in Applied Data Science Team Wins 2nd Place at Transit Hacks 2025 - DSI",
+  "text": "MS in Applied Data Science Team Wins 2nd Place at Transit Hacks 2025\nWhen you’re standing in freezing Chicago weather with a broken arm, waiting for a bus that never seems to come, it’s more than an inconvenience. For Daniel Sa, a student in the University of Chicago’s MS in Applied Data Science program, that frustrating personal experience sparked an idea: use data science to help commuters better anticipate delays.\nAt Transit Hacks 2025, Daniel teamed up with classmates Jazil Kalim, Sakshi Bokil, and Karim Derbali to bring the idea to life. Together, they built a machine learning model that predicts CTA bus delays based on real-time weather conditions. The result? A second-place win and a project with real-world potential.\nHosted by UChicago Transit Enthusiasts & Explorers, Transit Hacks is an annual datathon that invites students to build innovative, tech-centered solutions focused on transportation in the Chicagoland area. From CTA and Metra to Divvy and university shuttle services, the competition encourages participants to apply data science, web development, or algorithmic tools to tackle real transit challenges.\nTURNING FRUSTRATION INTO INNOVATION\n“The idea came from something I’d tried in a previous hackathon that didn’t quite work out,” said Daniel. “This time, I wanted to see it through.”\nTheir goal: build a model that could detect potential slowdowns using features such as day of the week, hour of the day, and precipitation. The team trained a Random Forest classification model on weather conditions like temperature and snowfall, along with transit variables, to predict when delays were likely. The model achieved 93% recall (meaning it correctly identified 93% of actual delays) and a ROC AUC of 0.83 (a measure of the model’s overall ability to distinguish between delayed and on-time buses), strong results that suggest real potential for helping riders prepare in advance.\nThey even started developing a Streamlit app that would allow users to input live or forecasted weather conditions and receive predicted delays in return, though that component is still a work in progress.\nUSING LESSONS FROM THE MS-ADS PROGRAM TO OVERCOME REAL-WORLD CHALLENGES\nThe hackathon wasn’t without hurdles. “We expected to use a clean API,” Daniel shared, “but it was down. We had to find and pre-process our own historical bus reliability data, and we only had about two weeks’ worth to work with.”\nAnother challenge? Merging datasets with mismatched timestamp granularities. “The weather data was hourly, and the bus data came in five-minute chunks. Pandas just wasn’t cutting it, so we brute-forced a solution,” Daniel explained. (Pandas is a Python tool commonly used for organizing and analyzing data, but it can be slow when working with large or complex datasets.) “If we’d had more data, that approach would’ve taken way too long. But it worked in the short timeframe.”\nDaniel credits the machine learning coursework in the MS in Applied Data Science program with preparing him for these types of challenges. “It helped a lot,” he said. “We knew how to structure the model, evaluate performance, and iterate.”\nADVICE FOR FUTURE HACKATHON PARTICIPANTS\n“Just do it,” Daniel said. “You don’t regret doing one of these things, especially if your alternative is going to be rotting on your afternoon.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Education",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "topics": [
+    "Education->students",
+    "Education->vocational education",
+    "Education->college and university",
+    "Human Interest->record and achievement",
+    "Social Issue->social problem",
+    "Social Issue->demographics",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Karim Derbali",
+        "sentiment": "none"
+      },
+      {
+        "name": "Sakshi Bokil",
+        "sentiment": "none"
+      },
+      {
+        "name": "Daniel Sa",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Applied Data Science Team Wins 2nd Place",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "DSI",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "UChicago Transit Enthusiasts & Explorers",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "University of Chicago",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Metra",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "CTA",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-12T10:08:49.071+03:00",
+  "updated": "2025-06-12T07:13:19.000+00:00"
+}

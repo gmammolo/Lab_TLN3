@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "acd291240f32cdb1661fd88e9f1c91cdccd1a6b9",
+    "url": "https://app.fedia.io/m/random/p/1084823/Use-ext4-they-say-Data-will-be-safe-they-say",
+    "site_full": "app.fedia.io",
+    "site": "fedia.io",
+    "site_section": "https://app.fedia.io/sub",
+    "site_categories": [],
+    "section_title": "Log in - Fedia",
+    "title": "Use #ext4 - they say. Data will be safe, they say.... - Random stuff - Fedia",
+    "title_full": "Use #ext4 - they say. Data will be safe, they say.... - Random stuff - Fedia",
+    "published": "2024-11-22T12:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://app.fedia.io/mbin-og.png",
+    "performance_score": 0,
+    "domain_rank": 181012,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "acd291240f32cdb1661fd88e9f1c91cdccd1a6b9",
+  "url": "https://app.fedia.io/m/random/p/1084823/Use-ext4-they-say-Data-will-be-safe-they-say",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T12:55:00.000+02:00",
+  "title": "Use #ext4 - they say. Data will be safe, they say.... - Random stuff - Fedia",
+  "text": "[stefano],Use\n[#ext4]- they say. Data will be safe, they say.[425045.666415] EXT4-fs error (device dm-2): htree_dirblock_to_tree:987: inode\n[#9534852]: block 38282106: comm borg: bad entry in directory: rec_len is smaller than minimal - offset=0, inode=0, rec_len=0, name_len=0, size=4096\n[oxyhyxo],\n[@stefano]I've had a lot more luck with XFS and before that ReiserFS\n[stefano]OP ,\n[@oxyhyxo]I lost data with XFS. No data loss with ReiserFS, but I didn't manage many servers at that time.\n[sanity],\n[stefano]OP ,\n[@sanity][@oxyhyxo]I'm using it for non-critical stuff like backups. I've lost data with btrfs - the last time it's been after a normal reboot.\n[oxyhyxo],\n[@stefano][@sanity]I actually prefer XFS over BTRFS. I've had a few BTRFS boxes not survive reboots. XFS generally works (at least for me)\n[oxyhyxo],\n[@stefano]I got pretty lucky with XFS - I could generally get the boxes back online remotely but with EXT2/3/4 would get stuck is boot fsck purgatory and require an onsite visit.ZFS changed my life :freebsd_logo:\n[stefano]OP ,\n[@oxyhyxo]ZFS is great :runbsd: :freebsd:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T13:46:44.272+02:00",
+  "updated": "2024-11-22T13:46:44.272+02:00"
+}

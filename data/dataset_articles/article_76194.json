@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "1c6891a808fa5fe2765d242e2b356a9b61722204",
+    "url": "https://www.vpnranks.com/news/banshee-malware-resurfaces-xprotect-encryption-exploit-shocks",
+    "site_full": "www.vpnranks.com",
+    "site": "vpnranks.com",
+    "site_section": "https://www.vpnranks.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "VPNRanks: Expert VPN Reviews &amp; Exclusive VPNScore Scoring System",
+    "title": "Banshee Malware Resurfaces: XProtect Encryption Exploit Shocks",
+    "title_full": "Banshee Malware Resurfaces: XProtect Encryption Exploit Shocks",
+    "published": "2025-01-10T03:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 35763,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1c6891a808fa5fe2765d242e2b356a9b61722204",
+  "url": "https://www.vpnranks.com/news/banshee-malware-resurfaces-xprotect-encryption-exploit-shocks",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anosha Shariq",
+  "published": "2025-01-10T03:57:00.000+02:00",
+  "title": "Banshee Malware Resurfaces: XProtect Encryption Exploit Shocks",
+  "text": "San Francisco, January 9, 2025 –The notorious Banshee Stealer malware is back, armed with XProtect-inspired encryption, bypassing antivirus defenses and targeting macOS users worldwide.\nIn a startling revelation, cybersecurity researchers have uncovered a revamped version of the notorious Banshee Stealer malware , now employing encryption inspired by Apple’s XProtect antivirus.\nOnce thought dormant after a source code leak in 2024, this new variant is stealthier, targeting over 100 million macOS users globally through sophisticated phishing campaigns. Eli Smadja, Security Research Manager at Check Point Research stated:\nThis is a game-changer. The new encryption techniques allow it to bypass antivirus defenses with precision, posing a serious risk to macOS users.\nThe malware, originally operating under a malware-as-a-service (MaaS) model at a steep $3,000/month, was believed to be defunct after its source code leaked. However, recent campaigns show its resurgence, exploiting phishing websites and fake repositories masquerading as popular software like Google Chrome and Telegram.\nNotably, the updated malware has removed the Russian language check” safeguard, enabling it to cast a wider net of victims. It also integrates encryption algorithms inspired by Apple’s XProtect , enabling it to obfuscate malicious strings and bypass detection.\nThis malware doesn’t just exploit system vulnerabilities; it thrives on human errors through phishing and fake software updates.\nBanshee Stealer’s evolution underscores the urgent need for vigilance among users and organizations alike. Cybercriminals are leveraging advanced tools to breach systems, harvest browser data, cryptocurrency wallets, and sensitive files.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Eli Smadja",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T08:30:24.387+02:00",
+  "updated": "2025-01-10T08:30:24.387+02:00"
+}

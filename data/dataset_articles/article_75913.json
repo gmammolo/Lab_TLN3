@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "dc2d41a826b2eb1a1d1abba9392b4c123fa861cf",
+    "url": "https://www.mediapost.com/publications/article/402479/publishers-beware-general-invalid-traffic-jumped.html",
+    "site_full": "www.mediapost.com",
+    "site": "mediapost.com",
+    "site_section": "https://www.mediapost.com/news",
+    "site_categories": [
+      "marketing",
+      "business"
+    ],
+    "section_title": "Today's News",
+    "title": "Publishers, Beware: General Invalid Traffic Jumped By 86% In 2024 01/10/2025",
+    "title_full": "Publishers, Beware: General Invalid Traffic Jumped By 86% In 2024 01/10/2025",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://s3.amazonaws.com/static.mediapost.com/publications/images/mp-logo-fb.jpg",
+    "performance_score": 0,
+    "domain_rank": 3585,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dc2d41a826b2eb1a1d1abba9392b4c123fa861cf",
+  "url": "https://www.mediapost.com/publications/article/402479/publishers-beware-general-invalid-traffic-jumped.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "mediapost.com",
+  "published": "2025-01-10T02:00:00.000+02:00",
+  "title": "Publishers, Beware: General Invalid Traffic Jumped By 86% In 2024 01/10/2025",
+  "text": "by Ray Schultz , 2 hours ago The internet suffered an 86% surge in General Invalid Traffic (GIVT) in the second half of 2024, driven by AI scrapers and crawlers, according to a study from DoubleVerify’s Fraud Lab.\nGIVT -- defined as self-declared bots used for search engine indexing, stress testing, AI scraping and other such purposes -- is not inherently malicious, the study says.\nBut it can distort measurement, inflate impression count and cause discrepancies, it adds.\nAI scrapers were especially active during the election period, causing a GIVT spike.\nThe top crawlers and scrapings driving known-Bot GIVT impressions in December 2024 included Googlebot, MetaAI Crawler, GPT Bot, and AppleBot, Double Verify says.\nIn addition to the scrapers that were easily identified, there were “more evasive scrapers operated by individuals/organizations who intentionally disguised them as human visitors,” the study continues. “DV continuously identifies non-transparent scrapers and crawlers based on their behavior and digital telemetry.”\nadvertisement\nadvertisement\nThe study advises advertisers to optimize their campaign settings, understand platform limitations and address possible GIVT challenges with inclusion lists.\nWhy the latter? “Some media-buying partners may advocate for an inclusion-list-only approach or rely primarily on post-bid measurement methods like log file analysis,” the study notes. “These methods fail to proactively address GIVT, especially as new forms emerge in real time.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T03:45:56.997+02:00",
+  "updated": "2025-01-10T05:08:39.645+02:00"
+}

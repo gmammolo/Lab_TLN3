@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "e949350d2699a28822b3750622435cc394b87e73",
+    "url": "https://money.usnews.com/investing/news/articles/2025-02-27/openai-rolls-out-gpt-4-5-for-some-paying-users-to-expand-access-next-week",
+    "site_full": "money.usnews.com",
+    "site": "usnews.com",
+    "site_section": "https://money.usnews.com/investing/news",
+    "site_categories": [
+      "investing",
+      "credit_debt_and_loans",
+      "finance",
+      "mutual_funds",
+      "top_news_ca",
+      "top_news_ph",
+      "top_news_pk",
+      "top_news_us",
+      "top_news_qa",
+      "top_news"
+    ],
+    "section_title": "Breaking Investing, Business and Economic News | US News Money",
+    "site_title": null,
+    "title": "OpenAI Rolls Out GPT-4.5 for Some Paying Users, to Expand Access Next Week",
+    "title_full": "OpenAI Rolls Out GPT-4.5 for Some Paying Users, to Expand Access Next Week",
+    "published": "2025-02-28T00:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.usnews.com/dims4/USNEWS/3d86d3e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F97%2F418cd0944f486ab1eeaa2bf25679d8%2Ftag%3Areuters.com%2C2025%3Anewsml_LYNXNPEL1Q0Y6%3A12025-02-27T222056Z_1_LYNXNPEL1Q0Y6_RTROPTP_3_TECH-AI.JPG",
+    "performance_score": 0,
+    "domain_rank": 300,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e949350d2699a28822b3750622435cc394b87e73",
+  "url": "https://money.usnews.com/investing/news/articles/2025-02-27/openai-rolls-out-gpt-4-5-for-some-paying-users-to-expand-access-next-week",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Reuters",
+  "published": "2025-02-28T00:20:00.000+02:00",
+  "title": "OpenAI Rolls Out GPT-4.5 for Some Paying Users, to Expand Access Next Week",
+  "text": "Reuters\nThe ChatGPT logo, a keyboard, and robot hands are seen in this illustration taken January 27, 2025. REUTERS/Dado Ruvic/Illustration\n(Reuters) - ChatGPT developer OpenAI said on Thursday it has released a research preview of its latest GPT-4.5 model for its Pro users and developers worldwide, with plans to expand access in the coming weeks.\nGPT-4.5 comes with improved ability to recognize patterns, generate creative insights without reasoning and shows greater emotional intelligence, the company said.\nMicrosoft-backed OpenAI said it would begin rolling out GPT-4.5 to ChatGPT Plus and Team users next week, and then to Enterprise and Edu users the following week.\nCEO Sam Altman called it \"a giant, expensive model,\" saying the company ran out of GPU capacity to roll out to user tiers at the same time.\n\"We will add tens of thousands of GPUs next week ... this isn't how we want to operate, but it's hard to perfectly predict growth surges that lead to GPU shortages,\" he said in a post on X.\nOpenAI said the model also has a lower rate of \"hallucinations\", a common issue in which large language models generate false information. At 37.1%, GPT-4.5's hallucination rate compares with the 61.8% shown by GPT-4o and 44% shown by its o1 reasoning model.\nGPT-4.5 supports file and image uploads and can also work on writing and coding projects, but does not currently support other advanced features such as voice and video.\n(Reporting by Deborah Sophia in Bengaluru; Editing by Shounak Dasgupta)\nCopyright 2025 Thomson Reuters .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->products and services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sam Altman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      },
+      {
+        "name": "Reuters",
+        "sentiment": "none"
+      },
+      {
+        "name": "GPU",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:43:39.047+02:00",
+  "updated": "2025-02-28T00:43:39.047+02:00"
+}

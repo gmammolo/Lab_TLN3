@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "8016e94528fb4c5ff1c306755102f1e2447bef1d",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-08-21/doc-infmtmrf6003412.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://tech.sina.com.cn/",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪科技_新浪网",
+    "site_title": null,
+    "title": "特斯拉Robotaxi服务Bug频频出现，系统性问题究竟是谁的锅？|特斯拉|无人驾驶_新浪科技_新浪网",
+    "title_full": "特斯拉Robotaxi服务Bug频频出现，系统性问题究竟是谁的锅？|特斯拉|无人驾驶_新浪科技_新浪网",
+    "published": "2025-08-21T08:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8016e94528fb4c5ff1c306755102f1e2447bef1d",
+  "url": "https://finance.sina.com.cn/tech/roll/2025-08-21/doc-infmtmrf6003412.shtml",
+  "ord_in_thread": 0,
+  "author": "电子产品世界",
+  "published": "2025-08-21T08:07:00.000+03:00",
+  "title": "特斯拉Robotaxi服务Bug频频出现，系统性问题究竟是谁的锅？|特斯拉|无人驾驶_新浪科技_新浪网",
+  "text": "在自动驾驶技术的快速推进中， 特斯拉 Robotaxi 的一次“死循环”事件引发广泛关注：一辆正在运营中的 Robotaxi 在停车场中不断打转，即便远程支持人员尝试介入，车辆依旧无法脱困，最终陷入了“无限循环”。这一幕迅速在社交平台传播，成为FSD（Full Self-Driving，全自动驾驶）系统稳定性与安全性的新争议焦点。\n但真正令人警觉的，不只是这辆车转个不停的滑稽画面，而是这一事件所揭示出的系统性问题：路径规划逻辑闭环、远程干预失效、传感器体系单一，以及网络化控制机制的脆弱。这不仅是一次技术Bug，更是一次全链路能力的警示。\n不是孤例，而是系统性反复\n自2024年6月 特斯拉 在奥斯汀上线 Robotaxi 服务以来，关于FSD表现不佳的反馈就层出不穷：误闯车道、急刹车、目标识别失败等案例频频出现。早在Robotaxi上线首周，美国NHTSA（国家公路交通安全管理局）便已表示担忧，媒体甚至将其形容为“自动驾驶史上最仓促的商用试验”。\n此次事件暴露出FSD在封闭或复杂场景中的路径规划算法容易陷入逻辑死锁，缺乏动态高精度感知能力，而 特斯拉 长期坚持的“纯视觉”路线 —— 拒绝使用激光雷达或毫米波雷达 —— 进一步限制了其边界场景的适应能力。\n远程干预失灵，可靠性堪忧\n理论上，当Robotaxi出现判断失误时，特斯拉远程支持人员应能介入干预。但在本次事件中，多次远程尝试均无效，车辆依旧按照其错误路径打转，说明远程操控机制存在严重可靠性问题。\n更值得注意的是，特斯拉并未公开其远程干预机制的技术细节与可靠性数据，这使得其在公众与监管层面面临极大质疑。如果连一个简单的停车场场景都无法有效接管，那么其在复杂城市环境中的部署安全性就更值得怀疑。\n视觉优先路线面临现实挑战\n特斯拉坚持端到端的纯视觉路径，强调通过摄像头+神经网络即可实现人类级别的驾驶感知与决策。但这次事件证明，在光照不足、场景模糊、结构重复的停车场中，单一视觉系统容易陷入误判。\n这也加剧了系统对输入图像质量的依赖，而缺乏冗余机制与多传感器融合手段，在应对复杂边界条件时风险倍增。目前，已有自动驾驶厂商明确转向多模态传感方案，这一分野很可能成为未来行业安全能力的分水岭。\n自动驾驶的安全，不只是算法问题\nRobotaxi系统并非孤立的AI模块，而是车端、云端与远程控制端之间高度耦合的网络化系统。一旦任一环节失效，整车安全即无法保障。\n例如：\n远程控制系统的指令优先级设置是否合理？\n网络通信链路是否具备足够容错能力？\n系统在陷入算法循环后是否仍允许人工介入？\n这些看似技术细节的问题，实则构成了自动驾驶能否在真实世界可靠运行的基石。\n从网络安全视角来看，此类系统也可能因控制权限错配、信号延迟或通信中断而形成“系统自闭”风险：即便不是被攻击者操纵，也会因设计缺陷导致安全功能形同虚设。这起Robotaxi“无限循环”事件，看似是一场算法的低级失误，实则暴露了当前自动驾驶在路径规划、远程操控、感知融合与系统韧性上的深层缺陷。\n我们不能简单将其归因于“AI还不够聪明”，而应认识到，自动驾驶是一项系统工程，必须将控制逻辑、传感系统、网络通信、安全防护、人工干预等多环节纳入整体设计。真正的无人化，不只是把人“请出车外”，更是要确保系统在每一个极端场景下都能“稳住局面”。这不仅关乎技术进步，更关乎公众信任与城市安全。\n对于整个行业而言，技术创新固然关键，但构建具备充分冗余、可控性及安全韧性的系统架构更为重要。随着Robotaxi从试验阶段逐渐迈向实际道路运营，其安全性能必将接受来自监管、市场和公众的多维度检验。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T08:12:14.998+03:00",
+  "updated": "2025-08-22T09:04:46.000+03:00"
+}

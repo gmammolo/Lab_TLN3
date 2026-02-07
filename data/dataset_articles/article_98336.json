@@ -1,0 +1,131 @@
+{
+  "thread": {
+    "uuid": "a62632a4d9c3b1bb2a5cc0fbada449d5a7bd0c07",
+    "url": "https://heraldodemexico.com.mx/opinion/2025/11/27/bueno-malo-feo-748201.html",
+    "site_full": "heraldodemexico.com.mx",
+    "site": "heraldodemexico.com.mx",
+    "site_section": "https://heraldodemexico.com.mx/noticias",
+    "site_categories": [
+      "travel",
+      "mexico_and_central_america",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news"
+    ],
+    "section_title": "El Heraldo de México - El Heraldo de México",
+    "site_title": "El Heraldo de México | Consulta las últimas noticias de México, entretenimiento, deportes, política y finanzas en TV, radio y edición impresa",
+    "title": "Bueno, malo y feo",
+    "title_full": "Bueno, malo y feo",
+    "published": "2025-11-27T08:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "https://heraldodemexico.com.mx/u/fotografias/m/2024/5/20/f1280x720-943965_1075640_5050.png",
+    "performance_score": 0,
+    "domain_rank": 30815,
+    "domain_rank_updated": "2025-11-23T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a62632a4d9c3b1bb2a5cc0fbada449d5a7bd0c07",
+  "url": "https://heraldodemexico.com.mx/opinion/2025/11/27/bueno-malo-feo-748201.html",
+  "ord_in_thread": 0,
+  "author": "Heraldo de México",
+  "published": "2025-11-27T08:12:00.000+02:00",
+  "title": "Bueno, malo y feo",
+  "text": "EL BUENO\nEl marroquí Couhaib Driouech anotó un doblete en el triunfo del PSV Eindhoven sobre el Liverpool, en la quinta jornada de la UEFA Champions League. Los de la Eredivisie van a media tabla de la primera fase de grupos de la competición.\nEL MALO\nAdmitió haberse reunido con el crimen organizado el alcalde de Celaya, Guanajuato, Juan Miguel Ramírez Sánchez. Dice que ocurrió previo a su toma del cargo, ya electo, que le pidieron dinero y cargos en el municipio, a lo que se rehusó.\nEL FEO\nCuauhtémoc Blanco fue acusado por la diputada del PT, Martha Aracely Cruz, de violencia sexual, luego de que le enviara un beso a la distancia tras llamarlo violentador. La acusación será la primera en llegar al Comité de Ética en San Lázaro.\nEEZ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Sport"
+  ],
+  "topics": [
+    "Sport->soccer",
+    "Sport->sport event"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Juan Miguel Ramírez Sánchez",
+        "sentiment": "none"
+      },
+      {
+        "name": "Martha Aracely Cruz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cuauhtémoc Blanco",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Comité de Ética",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "PT",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_pe",
+      "top_news_mx",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-27T08:26:51.771+02:00",
+  "updated": "2025-11-27T08:30:17.000+02:00"
+}

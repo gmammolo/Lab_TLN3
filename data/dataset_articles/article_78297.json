@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "717087a33660cab31af24afc09d519cd89da1894",
+    "url": "https://habr.com/ru/news/939212/",
+    "site_full": "habr.com",
+    "site": "habr.com",
+    "site_section": "https://habr.com/ru/news",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "IT-новости: главные новости технологий &#x2F; Хабр",
+    "site_title": "Publications &#x2F; My feed &#x2F; Habr",
+    "title": "Хакеры похищают логины Microsoft c использованием легитимных перенаправлений ADFS",
+    "title_full": "Хакеры похищают логины Microsoft c использованием легитимных перенаправлений ADFS",
+    "published": "2025-08-21T08:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://habrastorage.org/getpro/habr/upload_files/b70/a03/68e/b70a0368e9ed61b8acb2f8c10b7611dd.JPG",
+    "performance_score": 0,
+    "domain_rank": 1737,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "717087a33660cab31af24afc09d519cd89da1894",
+  "url": "https://habr.com/ru/news/939212/",
+  "ord_in_thread": 0,
+  "author": "maybe_elf",
+  "published": "2025-08-21T08:08:00.000+03:00",
+  "title": "Хакеры похищают логины Microsoft c использованием легитимных перенаправлений ADFS",
+  "text": "Хакеры используют новый метод, сочетающий легитимные ссылки office.com со службами Active Directory (ADFS) для перенаправления пользователей на фишинговую страницу, которая похищает учётные данные Microsoft 365.\nЭтот метод позволяет обходить традиционную систему обнаружения на основе URL-адресов и многофакторную аутентификацию, используя доверенный домен в инфраструктуре Microsoft для первоначального перенаправления.\nИсследователи компании Push Security проанализировали недавнюю кампанию, нацеленную на нескольких клиентов и перенаправлявшую сотрудников с легитимной ссылки outlook.office.com на фишинговый сайт. Хотя эта страница не имела каких-либо особых элементов, препятствующих её обнаружению, метод доставки использовал доверенную инфраструктуру для обхода активации агентов безопасности.\nPush Security установила, что фишинговая атака началась с того, что жертва нажала на вредоносную рекламную ссылку в результатах поиска Google по запросу Office 265.\nПользователь перенаправлялся в Microsoft Office, а затем на другой домен, bluegraintours[.]com, который, в свою очередь, уводил его на фишинговую страницу, предназначенную для сбора учётных данных. На первый взгляд, переход на вредоносную страницу производился путём перенаправления с домена Microsoft office.com без использования фишингового письма.\nПри расследовании инцидентов исследователи Push Security обнаружили, что «злоумышленник создал пользовательский клиент Microsoft с настроенными службами ADFS».\nADFS — это решение Microsoft для единого входа (SSO), которое позволяет пользователям получать доступ к нескольким приложениям как внутри, так и за пределами корпоративной сети, используя единый набор учётных данных.\nХотя служба по-прежнему доступна в Windows Server 2025 и официальных планов по прекращению её работы нет, Microsoft рекомендует клиентам перейти на Azure Active Directory (Azure AD) для управления удостоверениями и доступом (IAM).\nУправляя клиентом Microsoft, злоумышленник смог использовать ADFS для получения запросов на авторизацию от домена bluegraintours, выступавшего в роли IAM-провайдера, что позволило провести аутентификацию на фишинговой странице. Поскольку сайт bluegraintours не виден жертве во время цепочки перенаправлений, злоумышленник заполнил его поддельными записями в блоге и достаточной информацией, чтобы автоматические сканеры могли считать его легитимным.\nДальнейший анализ атаки показал, что злоумышленник применил условные ограничения загрузки, которые предоставляют доступ к фишинговой странице только допустимыми посетителям. Если же пользователь не соответствовал условиям, то он автоматически перенаправлялся на легитимный сайт office.com.\nЖак Лу, соучредитель и директор по продуктам Push Security, сообщил BleepingComputer, что эти кампании, по всей видимости, не нацелены на конкретную отрасль и могут быть результатом экспериментов злоумышленника с новыми методами атак.\n«Судя по нашим наблюдениям, эта группа экспериментирует с новыми методами, чтобы заставить пользователей переходить по высоконадёжным ссылкам на довольно стандартные фишинговые страницы — в том же духе, в каком это делали такие группы, как Shiny Hunters и Scattered Spider», — отметил Жак Лу.\nMicrosoft ADFS уже использовали в фишинговых кампаниях, но злоумышленники подделывали страницу входа в ADFS целевой организации для кражи учётных данных.\nДля защиты от подобных атак Push Security рекомендует комплекс мер, включающий мониторинг перенаправлений ADFS на вредоносные сайты.\nПоскольку расследуемая атака началась с вредоносной рекламы, исследователи также рекомендуют компаниям проверять её параметры в перенаправлениях Google на office.com, чтобы выявить вредоносные домены.\nВ июле Microsoft сообщила корпоративным клиентам по всему миру, что решения SharePoint Enterprise Server 2016, SharePoint Server 2019 и SharePoint Subscription Edition оказались под атакой хакеров. Они используют критические уязвимости нулевого дня, CVE-2025-53770 и CVE-2025-53771 (атака под названием ToolShell). Тогда разработчики из Microsoft оперативно выпустили патчи для части ПО и порекомендовали системным администраторам их развернуть в производственных средах.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->demographics",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://pushsecurity.com/blog/phishing-with-active-directory-federation-services/",
+    "https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/",
+    "https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects",
+    "https://pushsecurity.com/blog/phishing-with-active-directory-federation-services",
+    "https://www.pushsecurity.com/blog/phishing-with-active-directory-federation-services/",
+    "https://bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:06:20.025+03:00",
+  "updated": "2025-08-21T12:11:26.000+03:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "37389dea909dd53aeedad6f0901782fc839e5ee0",
+    "url": "https://www.datanami.com/this-just-in/snorkel-ai-unveils-snorkel-custom-to-accelerate-enterprise-ai-deployment-with-customized-data-tuning",
+    "site_full": "www.datanami.com",
+    "site": "datanami.com",
+    "site_section": "https://datanami.com",
+    "site_categories": [
+      "tech",
+      "databases"
+    ],
+    "section_title": "Datanami: Big Data, Big Analytics, Big Insights",
+    "title": "Snorkel AI Unveils Snorkel Custom to Accelerate Enterprise AI Deployment with Customized Data Tuning",
+    "title_full": "Snorkel AI Unveils Snorkel Custom to Accelerate Enterprise AI Deployment with Customized Data Tuning",
+    "published": "2024-04-12T00:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.datanami.com/wp-content/uploads/2024/04/snorkel-ai-300x202.png",
+    "performance_score": 0,
+    "domain_rank": 26231,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "37389dea909dd53aeedad6f0901782fc839e5ee0",
+  "url": "https://www.datanami.com/this-just-in/snorkel-ai-unveils-snorkel-custom-to-accelerate-enterprise-ai-deployment-with-customized-data-tuning",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-04-12T00:25:00.000+03:00",
+  "title": "Snorkel AI Unveils Snorkel Custom to Accelerate Enterprise AI Deployment with Customized Data Tuning",
+  "text": "[](https://www.bigmarker.com/inetpresent/The-Power-of-DataOps-Bring-Automation-to-Life?show_live_page=true#) Snorkel AI Unveils Snorkel Custom to Accelerate Enterprise AI Deployment with Customized Data Tuning LAS VEGAS, April 11, 2024 — [Snorkel AI](https://snorkel.ai/) today announced Snorkel Custom, a new services and platform offering that helps enterprises use their data to adapt Large Language Models (LLMs) and quickly deliver production quality AI. [Enterprises are realizing that LLMs generally do not work “off the shelf” for custom use cases, but instead must be evaluated and tuned on accurately labeled and curated data to achieve production quality. Snorkel Custom combines Snorkel’s pioneering AI data development platform, Snorkel Flow, with hands-on support from Snorkel’s machine learning experts to programmatically develop data and evaluate, tune, and serve LLMs for enterprises’ custom AI use cases.](https://www.datanami.com/wp-content/uploads/2024/04/snorkel-ai.png) “Production quality AI is entirely dependent on the data used to tune and align models. To cross the chasm from flashy AI demo to production ROI, enterprises must master curating, labeling and developing data for their specific use cases and settings,” said Alex Ratner, CEO and co-founder of Snorkel AI. “For over a decade, the Snorkel team has been pioneering approaches for AI data development. Snorkel Custom gives enterprises direct access to our experience developing LLMs for Fortune 100 partners, and to Snorkel Flow, our platform for programmatic AI data development. It is a unique offering in that we are accelerating delivery of production quality AI that is custom-tuned for customers’ use cases and data, while also sharing the knowledge and platform that creates a path to full self-sufficiency and ownership.” Snorkel Custom enables enterprises to adapt any LLM for their unique use cases, and to make it easier for customers to use any model, Snorkel is committed to providing a broad library of native integrations with best-of-breed LLMs. As part of this initiative, Snorkel also announced today that it has added native integration for Google Cloud’s Gemini models. Accelerating Production Quality Generative AI The recent explosion of Generative AI interest has created enterprise urgency to deliver production-ready AI applications. However, achieving acceptable performance on custom use cases generally requires tuning LLMs on an enterprise’s unique data. Done manually, this data development work can be time-consuming, expensive, error prone and in some cases, violate data regulations. Snorkel Flow is a modern alternative to manual AI data development that makes key data operations like data labeling, data sampling, data filtering and data slicing, programmatic – just like software development. Snorkel Custom combines Snorkel Flow with a structured engagement process, which includes: - Evaluation and benchmark workshops conducted collaboratively to create a custom benchmark for each use case, combining Snorkel’s experience in LLM evaluation and data operations with customers’ requirements and domain knowledge–leading to more insightful evaluations of LLM performance. - Snorkel led data & LLM development to support end-to-end delivery of LLMs that are fine-tuned and aligned to meet production level performance as measured against the custom benchmark. - Model cost optimization and serving to optionally distill LLMs into specialized “small language models” (SLMs) that improve enterprise task-specific accuracy while also dramatically reducing cost. - Implementation of Snorkel Flow as the foundation for programmatic AI data development, supporting ongoing adaptation, maintenance, and auditability of the developed LLMs; and optional enablement for teams wanting to move to a full self-serve model. Using Snorkel Custom, Wayfair Deploys Thousands of Product Tags in Months Vs. Years To ensure that relevant products appear in customer searches Wayfair relies on over 10,000 product tags across more than 30 million products. Wayfair’s traditional tagging process burdened suppliers with providing extensive product details and machine learning models powered by manually annotated data. Needing a new approach, Wayfair turned to Snorkel. Together, Wayfair and Snorkel’s team implemented Snorkel Flow to fit Wayfair’s specific needs with a programmatic data development approach. Now the machine learning team can build AI services 10x faster and quickly respond to new trends with programmatic data operations. Improved model precision enables Wayfair to surface relevant products for customers, which has translated to improved cart performance and higher conversion rates. “Snorkel is not just a vendor but a partner on our AI journey,” said Margaret Pierson, Director, Machine Learning, Wayfair. “With Snorkel, we can build significantly higher performing AI services in days as opposed to months, and we can update models programmatically as part of a full model lifecycle with Snorkel Flow at its core. When new trends emerge, we can immediately refresh our catalog to reflect items that we already have that match the new style. That is a true value unlock from a business point of view.” To learn more, join Wayfair, Google Cloud and Snorkel at Google Cloud Next ’24 in Las Vegas, at the shared session: [How Wayfair is transforming customer experiences with data-centric AI](https://cloud.withgoogle.com/next/session-library). Snorkel Custom is now available. Pricing is based on use case; to learn more, contact our sales team at [[email protected]](/cdn-cgi/l/email-protection#55263439302615263b3a273e30397b343c). About Snorkel AI [Snorkel AI](https://snorkel.ai/) has been pioneering programmatic AI data development since 2015, when its founders launched the Snorkel research project out of the Stanford AI Lab. Working in partnership with teams from Apple, Google, and other industry and government sponsors, the team quickly delivered results that accelerated AI application development by 10-100x or more. This transformative approach served as the design point for Snorkel Flow, an enterprise AI data development platform. The team has published more than 100 peer reviewed research papers and is used in production by Fortune 500 companies including BNY Mellon, Wayfair, Chubb, as well as across the federal government. Snorkel AI operates out of San Francisco, New York and London. Source: Snorkel AI",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [
+    "https://www.bigmarker.com/inetpresent/The-Power-of-DataOps-Bring-Automation-to-Life?show_live_page=true#)",
+    "https://snorkel.ai/)",
+    "https://cloud.withgoogle.com/next/session-library).",
+    "https://bigmarker.com/inetpresent/The-Power-of-DataOps-Bring-Automation-to-Life?show_live_page=true#)",
+    "https://www.snorkel.ai/)",
+    "https://www.cloud.withgoogle.com/next/session-library).",
+    "https://www.bigmarker.com/inetpresent/The-Power-of-DataOps-Bring-Automation-to-Life"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "snorkel custom",
+        "sentiment": "none"
+      },
+      {
+        "name": "snorkel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "las vegas",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T00:51:19.161+03:00",
+  "updated": "2024-04-12T00:51:19.161+03:00"
+}

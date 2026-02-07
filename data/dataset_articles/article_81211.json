@@ -1,0 +1,121 @@
+{
+  "thread": {
+    "uuid": "6f4ad824546124913b3b11d993801a361dba1283",
+    "url": "https://packagist.org/packages/benjaminhaeberli/php-skeleton",
+    "site_full": "packagist.org",
+    "site": "packagist.org",
+    "site_section": "https://packagist.org/feeds/packages.rss",
+    "site_categories": [
+      "unix",
+      "tech"
+    ],
+    "section_title": "Newly Submitted Packages",
+    "title": "benjaminhaeberli/php-skeleton",
+    "title_full": "benjaminhaeberli/php-skeleton",
+    "published": "2024-04-12T00:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 1752,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6f4ad824546124913b3b11d993801a361dba1283",
+  "url": "https://packagist.org/packages/benjaminhaeberli/php-skeleton",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jordi Boggiano",
+  "published": "2024-04-12T00:19:00.000+03:00",
+  "title": "benjaminhaeberli/php-skeleton",
+  "text": "✨ A modern PHP skeleton that includes CI/CD, PHPStan, Pest & more.\nMaintainers\nDetails\ngithub.com/benjaminhaeberli/php-skeleton\nFund package maintenance!\n<a href=\"https://github.com/benjaminhaeberli\">\nbenjaminhaeberli\n</a>\n[Installs](/packages/benjaminhaeberli/php-skeleton/stats):\n4 [Dependents](/packages/benjaminhaeberli/php-skeleton/dependents?order_by=downloads):\n0\n[Suggesters](/packages/benjaminhaeberli/php-skeleton/suggesters):\n0\n[Security](/packages/benjaminhaeberli/php-skeleton/advisories):\n0\nStars:\n0\nWatchers:\n1\nForks:\n0\nOpen Issues:\n0\nRequires\n- php: ^8.3.0\nRequires (Dev)\n[laravel/pint](/packages/laravel/pint): ^1.15.1 [nunomaduro/phpinsights](/packages/nunomaduro/phpinsights): ^2.11 [pestphp/pest](/packages/pestphp/pest): ^2.34.7 [pestphp/pest-plugin-type-coverage](/packages/pestphp/pest-plugin-type-coverage): ^2.8.1 [phpstan/phpstan](/packages/phpstan/phpstan): ^1.10.66 [rector/rector](/packages/rector/rector): ^1.0.4 [spatie/ray](/packages/spatie/ray): ^1.41.1 [symfony/var-dumper](/packages/symfony/var-dumper): ^6.4.0|^7.0.6\nREADME\nGetting started 🔎\nRequirements\n- PHP\n8.3+\nInstallation\nYou can\ncreate a new repository on GitHub or download the ZIP of the latest release.\nYou can also install it using\ncomposer :\ncomposer create-project benjaminhaeberli/php-skeleton --prefer-source YourApp\nThen, install\ncomposer packages :\ncomposer install\nCommands ⌨️\nMore details in\n[composer.json]\nCommon\n🧹 Keep a modern codebase with\nPint ( see default config)\ncomposer pint\n⚗️ Run static analysis using\nPHPStan\ncomposer phpstan\n✅ Run unit tests using\nPEST\ncomposer pest\n🚀 Run the entire test suite\ncomposer test\n🧰 Validate\ncomposer.json and update dependencies\ncomposer core:update\n📈 Expose\ncode coverage using https://pestphp.com/docs/test-coverage (require XDEBUG in\ncoverage mode)\ncomposer pest:coverage\nCode quality & refactoring\n💎 Measure the code quality with\nPHPInsights (see config\\insights.php)\ncomposer phpinsights\n✅ Run refactors using\nRector\ncomposer rector\nPHP skeleton is maintained by\nBenjamin Haeberli under the MIT license.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://github.com/benjaminhaeberli/php-skeleton/archive/refs/heads/main.zip",
+    "https://opensource.org/licenses/MIT",
+    "https://github.com/new?template_name=php-skeleton&template_owner=benjaminhaeberli",
+    "https://phpinsights.com/",
+    "https://laravel.com/docs/11.x/pint",
+    "https://getrector.com/documentation",
+    "https://pestphp.com/docs/writing-tests",
+    "https://github.com/benjaminhaeberli/php-skeleton/watchers",
+    "https://twitter.com/1benjam1",
+    "https://github.com/benjaminhaeberli/php-skeleton/issues",
+    "https://getcomposer.org",
+    "https://github.com/benjaminhaeberli/php-skeleton/stargazers",
+    "https://php.net/releases/",
+    "https://github.com/benjaminhaeberli/php-skeleton",
+    "https://github.com/benjaminhaeberli",
+    "https://phpstan.org/user-guide/command-line-usage",
+    "https://github.com/laravel/pint/blob/main/resources/presets/laravel.php",
+    "https://pestphp.com/docs/test-coverage",
+    "https://github.com/benjaminhaeberli/php-skeleton/forks",
+    "https://www.getcomposer.org",
+    "https://www.github.com/benjaminhaeberli/php-skeleton/forks",
+    "https://www.pestphp.com/docs/test-coverage",
+    "https://www.getrector.com/documentation",
+    "https://www.github.com/benjaminhaeberli/php-skeleton",
+    "https://github.com/new",
+    "https://www.github.com/benjaminhaeberli/php-skeleton/issues",
+    "https://www.phpstan.org/user-guide/command-line-usage",
+    "https://www.twitter.com/1benjam1",
+    "https://php.net/releases",
+    "https://www.github.com/new?template_name=php-skeleton&template_owner=benjaminhaeberli",
+    "https://phpinsights.com",
+    "https://www.github.com/laravel/pint/blob/main/resources/presets/laravel.php",
+    "https://www.github.com/benjaminhaeberli/php-skeleton/watchers",
+    "https://www.laravel.com/docs/11.x/pint",
+    "https://www.github.com/benjaminhaeberli",
+    "https://www.github.com/benjaminhaeberli/php-skeleton/stargazers",
+    "https://www.github.com/benjaminhaeberli/php-skeleton/archive/refs/heads/main.zip",
+    "https://www.opensource.org/licenses/MIT",
+    "https://www.pestphp.com/docs/writing-tests",
+    "https://www.phpinsights.com/",
+    "https://www.php.net/releases/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "php",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T02:29:40.777+03:00",
+  "updated": "2024-04-12T02:29:40.777+03:00"
+}

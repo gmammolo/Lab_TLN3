@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "8307629922da4135d95e0240e38bde41ea6f48d9",
+    "url": "https://www.bankinfosecurity.com/criminals-remotely-ghost-tap-nfc-for-card-cash-out-attacks-a-26860",
+    "site_full": "www.bankinfosecurity.com",
+    "site": "bankinfosecurity.com",
+    "site_section": "https://www.threatfabric.com/news",
+    "site_categories": [
+      "media",
+      "hacking",
+      "tech"
+    ],
+    "section_title": "News — ThreatFabric",
+    "title": "Criminals 'Ghost Tap' NFC for Payment Cash-Out Attacks",
+    "title_full": "Criminals 'Ghost Tap' NFC for Payment Cash-Out Attacks",
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/criminals-remotely-ghost-tap-nfc-for-card-cash-out-attacks-showcase_image-4-a-26860.jpg",
+    "performance_score": 0,
+    "domain_rank": 15731,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8307629922da4135d95e0240e38bde41ea6f48d9",
+  "url": "https://www.bankinfosecurity.com/criminals-remotely-ghost-tap-nfc-for-card-cash-out-attacks-a-26860",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@BnkInfoSecurity",
+  "published": "2025-01-09T02:00:00.000+02:00",
+  "title": "Criminals 'Ghost Tap' NFC for Payment Cash-Out Attacks",
+  "text": "Criminals 'Ghost Tap' NFC for Payment Cash-Out Attacks\nTactic Uses Stolen Cards Added to Apple Pay and Google Pay Digital WalletsAn academic project turned criminal tool lets criminals remotely cash-out stolen payment cards with the assistance of an on-site money mule, warn researchers.\nSee Also: [2024 Fraud Insights Report](https://www.bankinfosecurity.com/whitepapers/2024-fraud-insights-report-w-14146?rf=RAM_SeeAlso)\nHackers who trade in stolen payment card data have long sought ways to minimize their physical footprint, recruiting teenagers and unemployed or desperate individuals to do the risky work of using stolen cards in the real world.\nAn active scam in criminal forums allows hackers to transmit in real time stolen card data onto the smartphone of a money mule, keeping themselves well removed from the site of the actual transaction.\nAt the center of the scam is [NFCGate](https://dl.acm.org/doi/abs/10.1145/2766498.2774984), an application developed in 2015 by students at the Technical University of Darmstadt, Germany. The tool \"was originally designed for research purposes but has been weaponized by threat actors,\" [wrote](https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay) Dutch anti-fraud firm ThreatFabric in a Wednesday blog post.\nThe insight behind NFCGate was that designers of smartphone wallet apps assumed that by requiring customers to be in close physical proximity to a payment reader, they could head off certain types of fraud. Smartphone wallets communicate with terminals through near field communication, or NFC, a radio communication protocol that requires an NFC-enabled card, fob or smartphone to be no more than 1.5 inches away from a reader.\nNFCGate's creators did not find a way to subvert the NFC distance requirement or otherwise hack the protocol. Rather, they realized that the smartphone itself could act as a relay for stolen payment card data, in what's known as a relay attack. Ever faster cell phone networks coupled with a lack of response lag detection in ATM and point-of-sale terminals make these attacks possible. \"The actual devices with cards are physically located far away from the place where transaction is performed (the device is not connected to a POS terminal or ATM),\" ThreatFabric wrote.\nThe firm, which dubbed the tactic \"Ghost Tap,\" spotted it being used by street criminals. The scheme involves running Android phones that have a modified version of NFCGate software installed, which is available for sale on criminal forums. \"I can send my apple pay/google pay card from my phone to your phone for NFC operation,\" reads one such advertisement.\n\"The prerequisites for the tactic to be executed are simple: a mobile device having NFC with a stolen card linked to the mobile payment system - could be iOS or Android device; two devices with NFCGate installed; and a server that is setup to relay the traffic,\" ThreatFabric said.\nCzech Republic Cash-Out Attacks\nSecurity firm Eset in August [detailed](https://www.welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash/) an earlier version of this type of attack using what it dubbed NGate Android malware relays, based on NFCGate. \"During our investigation, we identified six different NGate apps specifically targeting clients of three banks in Czechia between November 2023 and March 2024,\" Eset said. The focus of these attacks was to cash out ATMs.\n\"Attackers were able to clone NFC data from victims' physical payment cards using NGate and relay this data to an attacker device that was then able to emulate the original card and withdraw money from an ATM,\" Eset said. That specific campaign appears to have been on hold since March 20, when police [arrested](https://www.policie.cz/clanek/pozor-podvodnici-vymysleli-novy-system.aspx ) \"a suspiciously masked man withdrawing money from an ATM in Prague for a long time,\" who is suspected of perpetrating the attacks. Police described him as being a 22-year-old foreigner and said he was carrying $6,500 in cash when detained.\nEset said the tactics could be used not just for ATM cash-out attacks. Committing fraud at the purchase point is one potential use case, which involves using the tactic to relay stolen card data to a POS terminal. Scaling this attack might be challenging, as contactless payments typically have limits. While this varies by country or card issuer, the U.S. often sees a contactless per-transaction limit of $100 to $250.\nEnter Money Mules\nSince the Czechia cash-out attacks, criminals appear to have hit upon new advances. ThreatFabric said a tactic it has seen being used involves adding stolen payment card to a digital wallet on either an iPhone or Android device. An attacker also has a separate Android device running the NFCGate software - to serve as an NFC relay - as well as a dedicated relay server.\nAttackers employ multiple money mules in different geographies to execute multiple cash-out attacks in a short timeframe - before the attack gets detected and blocked. These money mules each carry an attacker-provided Android phone that runs the NFCGate software and is programmed to communicate with the attacker-controlled relay server. Whenever a mule presents their phone to an ATM or POS terminal, the software records and transmits the request to the attacker's relay server, which sends it to the attacker-controlled reader relay. The attacker opens their wallet app, selects the stolen card to use and then presents it to their Android relay device, which records and transmits the response to the relay server and back to the mule's phone, which replays it to the ATM or POS terminal.\nOne prerequisite for the attack is attackers being able to add the stolen card data to their digital wallet. This registration process typically involves a card issuer sending the card user a one-time code. ThreatFabric said attackers likely intercept this OTP by first infecting an Android-using victim's device with mobile malware designed to automatically intercept the OTP, or else via a phishing attack.\nThe latter have become [very sophisticated](https://securelist.com/2fa-phishing/112805/ ), including so-called OTP bots that are able to telephone a target, pretend to be their financial institution and request that they enter the numeric OTP they've just received, using their keypad, which gets immediately relayed to an attacker via a phishing administration panel or Telegram bot. Once the attacker has the OTP, they can add the card to a digital wallet they control and then run Ghost Tap schemes.\nBanks offering cardless access to ATMs via NFC continue to grow. In the U.S., these include Bank of America, Capital One, JPMorgan Chase, U.S. Bank and Wells Fargo.\nATM terminals and POS devices \"should detect latency during the transaction and detect the actual device interacting with the reader,\" while mobile payment services should be redesigned for \"detecting suspicious inconsistency of the device location and payment location,\" ThreatFabric said. Otherwise, \"these attacks might become even more popular amongst cybercriminals.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->financial service",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.policie.cz/clanek/pozor-podvodnici-vymysleli-novy-system.aspx ",
+    "https://dl.acm.org/doi/abs/10.1145/2766498.2774984",
+    "https://www.welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash/",
+    "https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay",
+    "https://securelist.com/2fa-phishing/112805/ ",
+    "https://policie.cz/clanek/pozor-podvodnici-vymysleli-novy-system.aspx ",
+    "https://www.dl.acm.org/doi/abs/10.1145/2766498.2774984",
+    "https://www.securelist.com/2fa-phishing/112805/ ",
+    "https://threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay",
+    "https://welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash/",
+    "https://www.welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:07:16.519+02:00",
+  "updated": "2025-01-10T01:07:16.519+02:00"
+}

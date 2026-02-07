@@ -1,0 +1,150 @@
+{
+  "thread": {
+    "uuid": "d6ec467fdd9b482593290d9d16a367ea5f303cc8",
+    "url": "https://www.ilgiornale.it/news/parchi-chiusi-e-temporale-oggi-citt-allerta-arancione-2527806.html",
+    "site_full": "www.ilgiornale.it",
+    "site": "ilgiornale.it",
+    "site_section": "http://www.ilgiornale.it/feed.xml",
+    "site_categories": [
+      "media",
+      "tech",
+      "top_news_it",
+      "top_news"
+    ],
+    "section_title": "Il Giornale",
+    "site_title": "il Giornale - Ultime notizie su attualit&#xE0;, politica ed economia",
+    "title": "Parchi chiusi e temporale. Oggi in città allerta arancione",
+    "title_full": "Parchi chiusi e temporale. Oggi in città allerta arancione",
+    "published": "2025-08-28T06:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/07/07/1751872901-azfgvoysifxskvvq0ci3-fotogramma.jpeg?_=1751872901",
+    "performance_score": 0,
+    "domain_rank": 7699,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d6ec467fdd9b482593290d9d16a367ea5f303cc8",
+  "url": "https://www.ilgiornale.it/news/parchi-chiusi-e-temporale-oggi-citt-allerta-arancione-2527806.html",
+  "ord_in_thread": 0,
+  "author": "redazione@ilgiornale-web.it (Redazione)",
+  "published": "2025-08-28T06:00:00.000+03:00",
+  "title": "Parchi chiusi e temporale. Oggi in città allerta arancione",
+  "text": "Parchi chiusi e temporale a Milano. Anzi peggio, l'allerta meteo arancione (moderata) per rischio idrogeologico e gialla (ordinaria) per rischio idrico e temporali diramato già a partire dalla mezzanotte di oggi dal Centro Monitoraggio Rischi Naturali della Regione Lombardia, è la conseguenza dell'avvicinarsi all'Italia dell'Uragano Erin. Le previsioni meteo annunciano piogge importanti iniziate già questa notte, ma che potrebbero proseguire fino a domani. Interesseranno prima i bacini del Seveso e del Lambro e poi la città. Andrà anche peggio su Laghi e Prealpi Varesine, nelle aree di Valchiavenna, Lario e Prealpi Occidentali dove è previsto addirittura un allerta rosso. I fenomeni si intensificheranno nella mattinata di oggi con temporali di forte intensità e raffiche di vento che potrebbero raggiungere anche i 50 Km/h e continuare anche nel pomeriggio. A partire da questa notte sono state già attivate le procedure per gli interventi coordinati del personale della Protezione Civile, di MM, di Amsa e della Polizia Locale a Ponte Lambro. Le paratoie per proteggere il quartiere dal rischio di allagamento per il rigurgito della fognatura saranno posizionate nella prima mattinata di oggi. Vista la particolarità dell'evento i previsori meteo non escludono che i fenomeni possano aumentare di intensità nel corso della giornata, e pertanto potrebbero essere assunti ulteriori provvedimenti relativamente alle aree verdi. Il Comune ha deciso quindi di chiudere i parchi.\nLe forti piogge che dalla notte cadranno a nord di Milano potranno portare a \"significativi innalzamenti e rischio esondazioni\" di Lambro e Seveso, spiega il Comune, \"per cui si raccomanda attenzione nelle zone a rischio di questi fiumi\".\nnetiquette.\nQuile norme di comportamento per esteso.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Environment"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena",
+    "Environment->environmental pollution",
+    "Environment->parks",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://it.wikipedia.org/wiki/Netiquette",
+    "https://www.it.wikipedia.org/wiki/Netiquette"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Milano",
+        "sentiment": "none"
+      },
+      {
+        "name": "Prealpi Varesine",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ponte Lambro",
+        "sentiment": "none"
+      },
+      {
+        "name": "Seveso",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Centro Monitoraggio Rischi Naturali della Regione Lombardia",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Protezione Civile",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Polizia Locale",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Amsa",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_it",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T09:51:37.428+03:00",
+  "updated": "2025-08-29T10:07:03.000+03:00"
+}

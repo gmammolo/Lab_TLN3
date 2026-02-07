@@ -1,0 +1,148 @@
+{
+  "thread": {
+    "uuid": "0942ec8a11167f11b76ac8ca2d103e1a0e5f536f",
+    "url": "https://sp.yna.co.kr/view/ASP20251106001000883",
+    "site_full": "sp.yna.co.kr",
+    "site": "yna.co.kr",
+    "site_section": "https://sp.yna.co.kr/news",
+    "site_categories": [
+      "uncategorized",
+      "top_news_kr",
+      "top_news"
+    ],
+    "section_title": "Últimas noticias | Agencia de Noticias Yonhap",
+    "site_title": "연합뉴스",
+    "title": "El Gobierno propone reducir al menos al 50 por ciento las emisiones de gases de efecto invernadero para 2035",
+    "title_full": "El Gobierno propone reducir al menos al 50 por ciento las emisiones de gases de efecto invernadero para 2035",
+    "published": "2025-11-06T02:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "KR",
+    "main_image": "https://img3.yna.co.kr/photo/yna/YH/2025/10/02/PYH2025100212250001300_P4.jpg",
+    "performance_score": 0,
+    "domain_rank": 6031,
+    "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0942ec8a11167f11b76ac8ca2d103e1a0e5f536f",
+  "url": "https://sp.yna.co.kr/view/ASP20251106001000883",
+  "ord_in_thread": 0,
+  "author": "Hana Lee",
+  "published": "2025-11-06T02:46:00.000+02:00",
+  "title": "El Gobierno propone reducir al menos al 50 por ciento las emisiones de gases de efecto invernadero para 2035",
+  "text": "El Gobierno propone reducir al menos al 50 por ciento las emisiones de gases de efecto invernadero para 2035\nÚltimas noticias06/11/2025 09:46\nSeúl, 6 de noviembre (Yonhap) -- El Gobierno surcoreano ha desvelado, este jueves, su propuesta de reducir las emisiones de gases de efecto invernadero en al menos el 50 por ciento, para 2035, frente al nivel de 2018.\nEn una audiencia pública, el Gobierno desveló dos propuestas para las Contribuciones Determinadas a Nivel Nacional (CDN) para 2035, una de las cuales será presentada ante la ONU.\nSegún el Ministerio de Clima, Energía y Medio Ambiente, la primera opción requeriría reducir las emisiones de gases de efecto invernadero entre un mínimo del 50 por ciento y un máximo del 60 por ciento, mientras que la segunda opción insta a un objetivo un poco más ambicioso, de reducir las emisiones entre un mínimo del 53 por ciento y un máximo del 60 por ciento para el año objetivo.\nEl Gobierno establecerá una meta final de CDN en una reunión del Gabinete, la próxima semana, y presentará su nueva meta ante la ONU, a la semana siguiente.\nhana@yna.co.kr\n(FIN)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Environment"
+  ],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->climate change",
+    "Environment->energy saving"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Gobierno",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Contribuciones Determinadas a Nivel Nacional",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Ministerio de Clima",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Gabinete",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "ONU",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "CDN",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "CDN",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_kr",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-06T10:25:46.917+02:00",
+  "updated": "2025-11-07T11:08:50.000+02:00"
+}

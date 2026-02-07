@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "e361bcb731b88ed8fde226712ebdafd5fd17086b",
+    "url": "https://www.news.de/technik/858875368/liferay-portal-und-dxp-gefaehrdet-it-sicherheitshinweis-vom-bsi-und-bug-report-bekannte-schwachstellen-und-sicherheitsluecken/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "Liferay Portal und DXP gefährdet: IT-Sicherheitshinweis für neue Schwachstelle",
+    "title_full": "Liferay Portal und DXP gefährdet: IT-Sicherheitshinweis für neue Schwachstelle",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771880/images/79/8e/b276697f4c46ddf2c8d2ab7e49ee/nopic/no_pic/1200/675/1/1/33/4/956/537/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771880_1200x675_3d2f2ffc2cf8625cb3f9a9eb1d340d0e.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e361bcb731b88ed8fde226712ebdafd5fd17086b",
+  "url": "https://www.news.de/technik/858875368/liferay-portal-und-dxp-gefaehrdet-it-sicherheitshinweis-vom-bsi-und-bug-report-bekannte-schwachstellen-und-sicherheitsluecken/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "Liferay Portal und DXP gefährdet: IT-Sicherheitshinweis für neue Schwachstelle",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 19.08.2025 einen Sicherheitshinweis für Liferay Portal und DXP veröffentlicht. Die Meldung führt mehrere Schwachstellen auf, die einen Angriff ermöglichen. Betroffen von der Sicherheitslücke sind die Betriebssysteme Linux und UNIX sowie die Produkte Liferay Portal und Liferay DXP.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: Liferay Security CVE-2025-43745 (Stand: 19.08.2025). Weitere nützliche Quellen werden weiter unten in diesem Artikel aufgeführt.\nMehrere Schwachstellen für Liferay Portal und DXP gemeldet - Risiko: mittel\nRisikostufe: 3 (mittel)\nCVSS Base Score: 6,5\nCVSS Temporal Score: 5,7\nRemoteangriff: Ja\nZur Bewertung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Der Temporal Score berücksichtigt darüber hinaus zeitliche Veränderungen hinsichtlich der Gefahrenlage. Der Schweregrad der aktuellen Schwachstelle wird nach dem CVSS mit einem Base Score von 6,5 als \"mittel\" eingestuft.\nLiferay Portal und DXP Bug: Auswirkungen bei Ausnutzung der gemeldeten Schwachstellen\nLiferay Portal ist eine Open-Source-Webplattform für Unternehmen, die ein Framework für die Erstellung und Verwaltung von webbasierten Anwendungen und Inhalten bietet.Liferay DXP (Digital Experience Platform) ist eine erweiterte und kommerziell unterstützte Version von Liferay Portal, die zusätzliche Funktionen und Dienste bietet.\nEin entfernter anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Liferay Portal und Liferay DXP ausnutzen, um Cross-Site-Scripting- und Phishing-Angriffe zu starten und vertrauliche Informationen offenzulegen.\nDie Verwundbarkeit wird mit den eindeutigen CVE-Seriennummern (Common Vulnerabilities and Exposures) CVE-2025-43737, CVE-2025-43738, CVE-2025-43739, CVE-2025-43740, CVE-2025-43743, CVE-2025-43744 und CVE-2025-43745 gehandelt.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssysteme\nLinux, UNIX\nProdukte\nLiferay Liferay Portal (cpe:/a:liferay:liferay_portal)\nLiferay Liferay DXP <2025.Q2.9 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP 2025.Q2.9 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP <2025.Q1.16 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP 2025.Q1.16 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP <2025.Q2.0 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP 2025.Q2.0 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP <2025.Q1.7 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP 2025.Q1.7 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP <2025.Q1.6 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP 2025.Q1.6 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP <2025.Q2.6 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP 2025.Q2.6 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP <2025.Q2.8 (cpe:/a:liferay:dxp)\nLiferay Liferay DXP 2025.Q2.8 (cpe:/a:liferay:dxp)\nAllgemeine Empfehlungen zum Umgang mit IT-Schwachstellen\n- Anwender der betroffenen Systeme sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten neue Sicherheitsupdates verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten die genannten Quellen regelmäßig daraufhin prüfen, ob ein neues Sicherheitsupdate zur Verfügung steht.\nHersteller-Informationen zu Updates, Patches und Workarounds\nAn dieser Stelle befinden sich weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nLiferay Security CVE-2025-43745 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43745\nLiferay Security CVE-2025-43744 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43744\nLiferay Security CVE-2025-43743 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43743\nLiferay Security CVE-2025-43740 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43740\nLiferay Security CVE-2025-43739 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43739\nLiferay Security CVE-2025-43738 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43738\nLiferay Security CVE-2025-43737 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43737\nVersionshistorie dieses Sicherheitshinweises\nDies ist die initiale Fassung des vorliegenden IT-Sicherheitshinweises für Liferay Portal und DXP. Sollten Updates bekanntgegeben werden, wird dieser Text aktualisiert. Änderungen oder Ergänzungen können Sie in dieser Versionshistorie nachlesen.\n19.08.2025 - Initiale Fassung\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific standards",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/News.de",
+    "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43745",
+    "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43744",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43740",
+    "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43743",
+    "https://twitter.com/news_de",
+    "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43738",
+    "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43739",
+    "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43737",
+    "https://pin.it/11NQyAf",
+    "https://www.liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43737",
+    "https://facebook.com/News.de",
+    "https://www.liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43739",
+    "https://www.liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43738",
+    "https://www.twitter.com/news_de",
+    "https://www.liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43744",
+    "https://www.liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43745",
+    "https://www.liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43743",
+    "https://www.liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2025-43740",
+    "https://www.pin.it/11NQyAf",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:33.629+03:00",
+  "updated": "2025-08-22T14:09:43.000+03:00"
+}

@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "1f9d5b5671ef7ca29915153b52ad9d514b1a1cfa",
+    "url": "https://www.geopop.it/lfbi-mette-in-guardia-contro-luso-degli-sms-nellautenticazione-a-due-fattori",
+    "site_full": "www.geopop.it",
+    "site": "geopop.it",
+    "site_section": "https://geopop.it",
+    "site_categories": [],
+    "section_title": "Geopop",
+    "title": "L'FBI mette in guardia contro l'uso degli SMS nell'autenticazione a due fattori",
+    "title_full": "L'FBI mette in guardia contro l'uso degli SMS nell'autenticazione a due fattori",
+    "published": "2025-01-10T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2025/01/iStock-2155872627.jpg",
+    "performance_score": 0,
+    "domain_rank": 199222,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1f9d5b5671ef7ca29915153b52ad9d514b1a1cfa",
+  "url": "https://www.geopop.it/lfbi-mette-in-guardia-contro-luso-degli-sms-nellautenticazione-a-due-fattori",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Giuseppe Servidio",
+  "published": "2025-01-10T07:00:00.000+02:00",
+  "title": "L'FBI mette in guardia contro l'uso degli SMS nell'autenticazione a due fattori",
+  "text": "Negli ultimi anni, l’autenticazione a due fattori o 2FA è diventata uno strumento essenziale per proteggere i propri account online, aggiungendo un livello di sicurezza aggiuntivo rispetto alla semplice combinazione di username e password. Tuttavia, non tutti i metodi di 2FA sono ugualmente sicuri, e l’[FBI](https://www.geopop.it/fbi-e-cia-cosa-fanno-e-in-cosa-differiscono-le-2-maggiori-agenzie-di-intelligence-degli-usa/) (Federal Bureau of Investigation) ha recentemente emesso un avvertimento significativo: smettere di utilizzare gli [SMS](https://www.geopop.it/il-primo-sms-della-storia-diceva-merry-christmas-e-fu-inviato-nel-1992-da-un-computer/) come mezzo di verifica, in quanto giudicati poco sicuri. Questa raccomandazione arriva dopo una delle più gravi violazioni di sicurezza nella storia degli Stati Uniti, attribuita al gruppo Salt Typhoon, presunto “braccio operativo” del governo cinese, che ha dimostrato quanto siano vulnerabili le reti di telecomunicazione e ha sollevato preoccupazioni globali sulla sicurezza dei dati. Anche la CISA (Cybersecurity and Infrastructure Security Agency), sconsiglia l'uso degli SMS come strumento di verifica, giudicandolo come «non resistente al phishing». Molto meglio optare per soluzioni più sicure, come app di autenticazione, chiavi di sicurezza FIDO o sistemi di passkey, pensati per resistere anche agli attacchi più sofisticati.\nIl problema degli SMS secondo l'FBI e la minaccia degli attacchi phishing\nL’autenticazione a due fattori tramite SMS prevede l’invio di un codice temporaneo via messaggio di testo al numero di telefono dell’utente. Questo metodo, pur essendo indubbiamente molto pratico, presenta vulnerabilità significative. I messaggi di testo non sono crittografati, il che significa che possono essere intercettati da attori malintenzionati con accesso alle reti di telecomunicazione.\nSecondo Yashin Manraj, esperto di sicurezza informatica, il rischio principale non risiede solo nell’intercettazione dei codici, ma anche nella facilità con cui gli utenti cadono vittime di attacchi di [phishing](https://www.geopop.it/la-truffa-delle-email-cose-il-phishing-e-come-evitarlo/). Al sito NewsNation ha infatti [dichiarato](https://www.newsnationnow.com/business/tech/fbi-warns-against-using-two-factor-text-authentication/):\nIn termini di SMS, la preoccupazione più grande non è l'autenticazione a due fattori, ma il fatto che le persone cliccano su molti link. Credo che il 60-70% degli hack attivi e riusciti sia dovuto al fatto che le persone sono state in grado di inviare link di phishing che fondamentalmente sono in grado di dirottare le informazioni dell'utente, le informazioni bancarie o l'accesso a infrastrutture più critiche.\nAlternative più sicure alla 2FA via SMS\nPer migliorare la sicurezza, il CISA consiglia di adottare alternative più robuste alla 2FA via SMS. Le app di autenticazione, come Google Authenticator o Microsoft Authenticator, generano codici temporanei direttamente sul dispositivo dell’utente, rendendoli inaccessibili a chiunque non abbia accesso fisico al dispositivo. Un’altra opzione affidabile è rappresentata dall’autenticazione basata su FIDO (Fast IDentity Online), che utilizza chiavi di sicurezza fisiche o tecnologie biometriche per verificare l’identità dell’utente.\nUn altro sistema sicuro è rappresentato dalle sempre più diffuse passkey, che eliminano del tutto la necessità di password “tradizionali”, che basano il loro funzionamento su standard di crittografia avanzati e l'uso dei dati biometrici salvati sul dispositivo, rendendo praticamente impossibile l’accesso non autorizzato agli account, anche in caso di phishing.\nBuone pratiche per proteggere i vostri account\nOltre a scegliere metodi di autenticazione sicuri, il CISA suggerisce alcune fondamentali buone pratiche per proteggere dispositivi e dati personali.\n- Mantenete aggiornati i vostri smartphone e computer con gli ultimi aggiornamenti di sicurezza disponibili.\n- Abilitate la protezione tramite PIN per le SIM e utilizzate password complesse.\n- Usate un gestore di password per creare e memorizzare credenziali uniche e complesse per ogni account, evitando l’uso di combinazioni prevedibili o riutilizzate.\n[non perderti questo articolo ](https://www.geopop.it/e-vero-che-cambiare-spesso-le-password-aumenta-la-sicurezza-informatica-no-secondo-gli-esperti/)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science",
+    "Human Interest->record and achievement",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.newsnationnow.com/business/tech/fbi-warns-against-using-two-factor-text-authentication/",
+    "https://www.newsnationnow.com/business/tech/fbi-warns-against-using-two-factor-text-authentication",
+    "https://newsnationnow.com/business/tech/fbi-warns-against-using-two-factor-text-authentication/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T11:15:24.006+02:00",
+  "updated": "2025-01-10T11:15:24.006+02:00"
+}

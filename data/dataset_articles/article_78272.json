@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "e01903c97362a4f3e09d03535d11664a6aea2b73",
+    "url": "https://ljktx.dbw.cn/system/2025/08/21/059472940.shtml",
+    "site_full": "ljktx.dbw.cn",
+    "site": "dbw.cn",
+    "site_section": "https://ljktx.dbw.cn",
+    "site_categories": [],
+    "section_title": "龙江看天下-东北网",
+    "site_title": null,
+    "title": "数据\"中毒\"会让AI\"自己学坏\"-龙江看天下-东北网",
+    "title_full": "数据\"中毒\"会让AI\"自己学坏\"-龙江看天下-东北网",
+    "published": "2025-08-21T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25002,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e01903c97362a4f3e09d03535d11664a6aea2b73",
+  "url": "https://ljktx.dbw.cn/system/2025/08/21/059472940.shtml",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-21T03:00:00.000+03:00",
+  "title": "数据\"中毒\"会让AI\"自己学坏\"-龙江看天下-东北网",
+  "text": "在一个繁忙的火车站，监控摄像头正全方位追踪站台的情况，乘客流量、轨道占用、卫生状况……所有信息实时传输给中央人工智能(AI)系统。这个系统的任务是帮助调度列车，让它们安全准点进站。然而，一旦有人恶意干扰，比如用一束红色激光模拟列车尾灯，那么摄像头可能会误以为轨道上已有列车。久而久之，AI学会了把这种假象当作真实信号，并不断发出“轨道占用”的错误提示。最终，不仅列车调度被打乱，甚至还可能酿成安全事故。\n澳大利亚《对话》杂志日前报道称，这是数据“中毒”的一个非常典型的例子。AI系统在学习过程中，如果输入了错误或误导性数据，可能会逐渐形成错误认知，作出偏离预期的判断。与传统的黑客入侵不同，数据“中毒”不会直接破坏系统，而是让AI“自己学坏”。随着AI在交通、医疗、媒体等领域的普及，这一问题正引起越来越多的关注。\nAI“中毒”的现实风险\n在火车站的例子中，假设一个技术娴熟的攻击者既想扰乱公共交通，又想收集情报，他连续30天用红色激光欺骗摄像头。如果未被发现，这类攻击会逐渐腐蚀系统，为后门植入、数据窃取甚至间谍行为埋下隐患。虽然物理基础设施中的数据投毒较为罕见，但线上系统，尤其是依赖社交媒体和网页内容训练的大语言模型中，它已是重大隐患。\n一个著名的数据“投毒”案例发生在2016年，微软推出的聊天机器人Tay上线数小时后，就被恶意用户灌输不当言论，迅速模仿并发布到X(当时的Twitter)平台上，不到24小时就被迫下线并道歉。\n据英国《新科学家》杂志报道，2024年，互联网出现了一个标志性事件，即AI爬虫的流量首次超过人类用户，其中OpenAI的ChatGPT-User占据了全球6%的网页访问量，它本质上是ChatGPT的“上网代理”，在用户需要实时信息时替他们访问网站。而Anthropic的ClaudeBot更是长期大规模抓取网页内容，占到13%的流量。\n互联网上的大量内容正被AI模型不断采集、吸收，用于持续训练。一旦有人故意投放有毒数据，比如篡改的版权材料、伪造的新闻信息，这些大规模采集的爬虫就可能把它们带进模型，造成版权侵权、虚假信息扩散，甚至在关键领域引发安全风险。\n版权之争中的“投毒”反击\n随着AI爬虫的大规模抓取，许多创作者担心作品被未经许可使用。为了保护版权，创作者采取了法律和技术手段。如《纽约时报》起诉OpenAI，称其新闻报道被模型学习再利用，侵犯了版权。\n面对旷日持久的版权拉锯战，一些创作者转向技术“自卫”。美国芝加哥大学团队研发了两款工具。名为Glaze的工具可在艺术作品中加入微小的像素级干扰，让AI模型误以为一幅水彩画是油画。另一款工具Nightshade更为激进，它能在看似正常的猫的图片中植入隐蔽特征，从而让模型学到“猫=狗”这样的错误对应。通过这种方式，艺术家们让自己的作品在训练数据中成为“毒药”，保护了原创风格不被复制。\n这种反击方式一度在创作者群体中风靡。Nightshade发布不到一年，下载量便超过一千万次。与此同时，基础设施公司Cloudflare也推出了“AI迷宫”，通过制造海量无意义的虚假网页，将AI爬虫困在假数据的循环中，消耗其算力和时间。可以说，数据投毒在某些领域已经从一种反击手段，演变为版权与利益之争中的防御武器。\n去中心化成为AI的防护盾\n这种局面让人警觉。创作者的数据“投毒”是为了保护原创，但一旦同样的技术被用于大规模制造虚假信息，其后果可能比版权争议严重得多。\n面对这种隐蔽的威胁，研究者正在探索新的防御手段。在美国佛罗里达国际大学的Solid实验室，研究人员正着力用去中心化技术来防御数据投毒攻击。其中一种方法叫联邦学习。与传统的集中式训练不同，联邦学习允许模型在分布式设备或机构本地学习，只汇总参数而非原始数据。这种方式降低了单点中毒的风险，因为某一个设备的“坏数据”不会立刻污染整个模型。\n然而，如果在数据汇总环节遭遇攻击，损害依然可能发生。为此，另一种工具——区块链正被引入AI防御体系。区块链的时间戳和不可篡改特性，使得模型更新过程可被追溯。一旦发现异常数据，可追根溯源，定位投毒源头。同时，多个区块链网络还能互相“通报”，当一个系统识别出可疑模式时，可立刻警示其他系统。\n任何依赖现实世界数据的AI系统都可能被操纵。利用联邦学习和区块链等防御工具，研究人员和开发者正在打造更具韧性、可追溯的AI系统，在遭遇欺骗时能发出警报，提醒系统管理员及时介入，降低潜在风险。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:57:31.638+03:00",
+  "updated": "2025-08-21T11:59:17.000+03:00"
+}

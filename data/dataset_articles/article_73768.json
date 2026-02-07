@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "7438ef644844466c9a2360b8c250914f21a9ae95",
+    "url": "https://cybersecuritynews.com/new-glove-stealer-bypass-app-bound-encryption",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://www.cybersecuritynews.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "New Glove Stealer Bypass App-Bound Encryption To Steal Data From Browsers",
+    "title_full": "New Glove Stealer Bypass App-Bound Encryption To Steal Data From Browsers",
+    "published": "2024-11-14T19:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 56980,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7438ef644844466c9a2360b8c250914f21a9ae95",
+  "url": "https://cybersecuritynews.com/new-glove-stealer-bypass-app-bound-encryption",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-14T19:55:00.000+02:00",
+  "title": "New Glove Stealer Bypass App-Bound Encryption To Steal Data From Browsers",
+  "text": "Stealers are designed to be stealthy primarily to avoid detection by AV tools and to remain hidden from the user.\nCombination of multiple sophisticated tactics makes the stealers highly adaptable and continuously challenging for cybersecurity defenses. Not only that even threat actors also preferes stealers most due to their sophistications.\nA new information-stealing malware, dubbed Glove Stealer, has been discovered in recent phishing campaigns.\nThis sophisticated malware employs social engineering tactics like ClickFix and FakeCaptcha to trick users into infecting their own devices.\nExample ClickFix HTML page being distributed in phishing email attachments (Source – Gen Digital) Researchers at GenDigital discovered the campaign that typically begins with a phishing email containing an HTML attachment.\nWhen opened, this attachment displays a fake error message, prompting users to copy and execute a malicious script. This script, often disguised as a solution to a non-existent problem, ultimately downloads and installs the Glove Stealer malware .\nFree Ultimate Continuous Security Monitoring Guide - Download Here (PDF)\nGlove Stealer Glove Stealer, written in .NET , is designed to exfiltrate sensitive data from various sources:\nWeb browsers (Chrome, Firefox, Edge, Brave, and others) 280 browser extensions Over 80 locally installed applications The malware targets cryptocurrency wallets, 2FA authenticators, password managers, email clients, and other sensitive applications.\nOne of Glove Stealer’s most notable features is its ability to bypass App-Bound Encryption, a security measure introduced by Google in Chrome 127. The malware achieves this by using an IElevator service, a method recently disclosed by Alexander Hagenah in October 2024.\nBesides this, for data exfiltration process it do the following things:-\nTerminates browser processes to access data Parses and stores stolen information in dedicated text files Collects device fingerprint data Compresses and encrypts the stolen data using 3DES encryption Sends the encrypted package to a command and control (C&C) server Base64 encoded Glove Stealer present on a C&C server (Source – Gen Digital) While the Glove Stealer employs a supporting module named “zagent.exe” to evade the App-Bound encryption, and this module:-\nIs downloaded and executed in Chrome’s Program Files directory Retrieves the App-Bound encryption key from Chrome’s local state file Stores the decoded key in a separate file for Glove Stealer to access The use of this module requires local admin privileges which highlights the sophisticated approach of the malware.\nGlove Stealer represents a significant threat to user privacy and security. Its ability to bypass App-Bound encryption and target a wide range of sensitive data sources makes it a formidable adversary.\nUsers should remain vigilant against phishing attempts and avoid executing unknown scripts or following suspicious instructions, even if they appear to offer solutions to perceived problems.\nIoCs IoCs (Source – Gen Digital) Analyze Unlimited Phishing & Malware with ANY.RUN For Free - 14 Days Free Trial .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3HP8SKKPmADJWOh3drXN9r4PykcXzVqydcKz7WwfWxjePda4x_hgdLLlD6w50u6ORt7CrlTA497JrZXPcHxkUiVdkyq-JVBgfwXgz0Pd3CgxYPhSTJHVMvLtspVAqTirbQxtKJf3ErKCh1Ip9wnEllGyfK4zC_zczVJMUo7JE0GZ8lNW3Nx2iieFtFaQ/s16000/Base64%20encoded%20Glove%20Stealer%20present%20on%20a%20C&C%20server%20(Source%20-%20Gen%20Digital).webp",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxHuzMEmemiO7fS9KyUqJwiHTd5JafVxquWvfrk6JUqutyGfGwrZB__WNtavxaqYQn1bvGkQJ-W2llcke7cVZy9Bj_wYGTm-0Zd1EvyAWk46J9dVyEaEeXqwglqnqSrLTyDEgVait2hoSLbT3fB8oemuJsCTqm8mdp0id_d6bHS9-tQIm5h7vfgoDIyQ4/s16000/IoCs%20(Source%20-%20Gen%20Digital).webp",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfMUkHsP3XWeZvNdQ3HUATnLcxord04Bx93UaZZqKIIjQ_Ia0sIxyHzzZ_63Thi5iUZ1RdpfNpysn4eZgVJTBFyV-P-o8EQ2bHmHzjYu7ZBt1L-RS957zocqugEqoRwnCilxJBFP21z4UooP1BEO44H1Imk6BkCRCBJWIACFt_NmjZNtWfo-zcwSFX2a8/s16000/Example%20ClickFix%20HTML%20page%20being%20distributed%20in%20phishing%20email%20attachments%20(Source%20-%20Gen%20Digital).webp",
+    "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+    "https://www.gendigital.com/blog/news/innovation/glove-stealer",
+    "https://gendigital.com/blog/news/innovation/glove-stealer",
+    "https://www.underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+    "https://underdefense.com/ultimate-continuous-security-monitoring-guide/",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3HP8SKKPmADJWOh3drXN9r4PykcXzVqydcKz7WwfWxjePda4x_hgdLLlD6w50u6ORt7CrlTA497JrZXPcHxkUiVdkyq-JVBgfwXgz0Pd3CgxYPhSTJHVMvLtspVAqTirbQxtKJf3ErKCh1Ip9wnEllGyfK4zC_zczVJMUo7JE0GZ8lNW3Nx2iieFtFaQ/s16000/Base64%20encoded%20Glove%20Stealer%20present%20on%20a%20C&C%20server%20(Source%20-%20Gen%20Digital).webp",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfMUkHsP3XWeZvNdQ3HUATnLcxord04Bx93UaZZqKIIjQ_Ia0sIxyHzzZ_63Thi5iUZ1RdpfNpysn4eZgVJTBFyV-P-o8EQ2bHmHzjYu7ZBt1L-RS957zocqugEqoRwnCilxJBFP21z4UooP1BEO44H1Imk6BkCRCBJWIACFt_NmjZNtWfo-zcwSFX2a8/s16000/Example%20ClickFix%20HTML%20page%20being%20distributed%20in%20phishing%20email%20attachments%20(Source%20-%20Gen%20Digital).webp",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxHuzMEmemiO7fS9KyUqJwiHTd5JafVxquWvfrk6JUqutyGfGwrZB__WNtavxaqYQn1bvGkQJ-W2llcke7cVZy9Bj_wYGTm-0Zd1EvyAWk46J9dVyEaEeXqwglqnqSrLTyDEgVait2hoSLbT3fB8oemuJsCTqm8mdp0id_d6bHS9-tQIm5h7vfgoDIyQ4/s16000/IoCs%20(Source%20-%20Gen%20Digital).webp",
+    "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+    "https://app.any.run/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T04:32:35.891+02:00",
+  "updated": "2024-11-15T04:32:35.891+02:00"
+}

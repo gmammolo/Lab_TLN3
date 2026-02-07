@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "427405c26d84de53cf082a965eaa45c2eda67be0",
+    "url": "https://siliconangle.com/2025/01/09/ivanti-discloses-critical-vpn-vulnerability-actively-targeted-hackers",
+    "site_full": "siliconangle.com",
+    "site": "siliconangle.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "search_engine",
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Ivanti discloses critical VPN vulnerability being actively targeted by hackers - SiliconANGLE",
+    "title_full": "Ivanti discloses critical VPN vulnerability being actively targeted by hackers - SiliconANGLE",
+    "published": "2025-01-10T01:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/01/ivanti.png",
+    "performance_score": 0,
+    "domain_rank": 6303,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "427405c26d84de53cf082a965eaa45c2eda67be0",
+  "url": "https://siliconangle.com/2025/01/09/ivanti-discloses-critical-vpn-vulnerability-actively-targeted-hackers",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Maria Deutscher",
+  "published": "2025-01-10T01:46:00.000+02:00",
+  "title": "Ivanti discloses critical VPN vulnerability being actively targeted by hackers - SiliconANGLE",
+  "text": "Hackers are actively targeting deployments of some Ivanti Inc. software products using a newly discovered security vulnerability.\nThe company disclosed the exploit, which is tracked as CVE-2025-0282, on Wednesday.\nIvanti is a major provider of infrastructure management and cybersecurity software with more than 40,000 customers. According to the company, those customers include several U.S. government agencies. CVE-2025-0283 affects three Ivanti products: Secure Connect, Neurons for ZTA Gateways and Policy Secure.\nSecure Connect is a virtual private network, or VPN, tool for enterprise. It enables workers to remotely log into their company’s systems via an encrypted connection. Ivanti says that Connect Secure is one of the most widely-used products in its category.\nNeurons for ZTA, the second tool affected by the vulnerability, is likewise designed to let workers securely log into business applications. It can be used together with Secure Connect. The third affected product, Policy Secure, enables administrators to centrally manage workers’ access to the corporate network.\nHackers began exploiting the vulnerability in mid-December, Google LLC’s Mandiant cybersecurity unit detailed in a blog post . Its researchers analyzed several of the Secure Connect appliances that the hackers had breached. On one of the appliances, they discovered a malware strand associated with a China-linked hacking group tracked as UNC5337.\n“Mandiant suspects with medium confidence that UNC5337 is part of UNC5221,” the Google unit’s researchers wrote. “UNC5221 is a suspected China-nexus espionage actor that exploited vulnerabilities CVE-2023-46805 and CVE-2024-21887, which impacted Ivanti Connect Secure VPN and Ivanti Policy Security appliances as early as December 2023.”\nThe new vulnerability detailed this week has received a severity score of 9 out of the maximum possible 10. It bypasses the affected Ivanti products’ authentication mechanism, which means hackers don’t have to obtain login credentials to gain access. This makes it significantly easier to launch cyberattacks.\nAccording to Ivanti, CVE-2025-0282 is a so-called stack overflow vulnerability. Such exploits enable hackers to write more data to a section of a system’s memory than it’s meant to hold. This causes the data to overflow to adjacent memory sections, overwriting their contents with malicious code.\nMandiant’s researchers determined that cyberattacks targeting CVE-2025-0282 generally unfold in phases.\nFirst, hackers log into a vulnerable Ivanti Connect appliance and disable the underlying Linux server’s SELinux feature. This is a component of the Linux kernel that prevents programs from accessing sensitive operating system features and data. After disabling SELinux, the malware blocks a second Linux component that sends data about system activity to administrators.\nAfter the initial phase of the cyberattack, the hackers install malicious code on the targeted appliance. They then delete the system logs created as part of the process and turn SELinux back on.\nIvanti has released a patch for Connect Secure to fix CVE-2025-0282 and CVE-2025-0283, a second vulnerability disclosed in conjunction. Few technical details are available about the latter flaw. The company plans to patch Neurons for ZTA Gateways and Policy Secure on Jan. 21.\nThe discovery of the vulnerabilities comes less than a year after researchers uncovered a different set of zero-day exploits in Connect Secure and Policy Secure. It’s estimated that hackers used those flaws to breach more than 2,000 customer deployments.\nImage: Ivanti",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->law",
+    "Crime, Law and Justice->corporate crime",
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day/",
+    "https://www.ivanti.com/products/ivanti-neurons-healing",
+    "https://techcrunch.com/2024/02/01/cisa-federal-agencies-disconnect-ivanti-vpn/",
+    "https://www.techcrunch.com/2024/02/01/cisa-federal-agencies-disconnect-ivanti-vpn/",
+    "https://techcrunch.com/2024/02/01/cisa-federal-agencies-disconnect-ivanti-vpn",
+    "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day",
+    "https://www.cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day/",
+    "https://ivanti.com/products/ivanti-neurons-healing"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Ivanti Inc.",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ZTA",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T02:52:39.289+02:00",
+  "updated": "2025-01-10T02:52:39.289+02:00"
+}

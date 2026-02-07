@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "eff6d8b1c219d4cdf5a6fd5b0edf4a4d0734f98b",
+    "url": "https://stackoverflow.com/questions/59988006/system-io-fileloadexception-during-loading-net-assembly-error-0x8007007",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/feeds",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Stack Overflow",
+    "title": "System.IO.FileLoadException during loading .NET assembly: error 0x8007007a",
+    "title_full": "System.IO.FileLoadException during loading .NET assembly: error 0x8007007a",
+    "published": "2024-01-26T00:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eff6d8b1c219d4cdf5a6fd5b0edf4a4d0734f98b",
+  "url": "https://stackoverflow.com/questions/59988006/system-io-fileloadexception-during-loading-net-assembly-error-0x8007007",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dutchdukes Dutchdukes",
+  "published": "2024-01-26T00:20:00.000+02:00",
+  "title": "System.IO.FileLoadException during loading .NET assembly: error 0x8007007a",
+  "text": "We are having an issue related to starting a few in house developed .NET applications on Windows 10 Version 1607 machines. Sometimes starting an application doesn't succeed. This is because loading a dependent .NET assembly fails. The error message is:\nSystem.IO.FileLoadException: Could not load file or assembly '[assemblyname], Version=[version], Culture=neutral, PublicKeyToken=[publickeytoken]' or one of its dependencies. The data area passed to a system call is too small. (Exception from HRESULT: 0x8007007A)\nThe issue happens about 10% of the application startups in different .NET applications. It happens with 32-bit as well as 64-bit applications. During all the startups also many other applications start that start up OK. I wonder why we get the\n0x8007007a error? Maybe it is collateral due to a heap corruption that happened before?\nYou can see related logging from FUSLOGVW below. The filepaths and assembly names are anonymised. The assembly that is attempted to be loaded has quite a long name (59 characters without the .dll postfix). As a test, we changed the name of the assembly to a shorter name. Unfortunately the issue remained. Adding a probing path in the exe.config also did not fix the issue.\nFurthermore, there seems to be code of an older version of the Microsoft Assembly Resolver available at Github:\nhttps://github.com/fixdpt/shared-source-cli-2.0. I suspect there is something wrong in the ConstructCodeBaseList in adlmgr.cpp. But I can't figure out what triggers the issue.\n*** Assembly Binder Log Entry (2020/01/30 @ 13:48) *** The operation failed. Bind result: hr = 0x8007007a. The data area passed to a system call is too small. Assembly manager loaded from: C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll Running under executable C:\\Program Files (x86)\\XXX\\XXX\\XX.X.X.X\\XXX\\XXXXXXXXXXXXXX\\ApplicationWeWantToStart.exe --- A detailed error log follows. === Pre-bind state information === LOG: DisplayName = AnAssem.blyWi.th.AVeryLon.gNameAA.AAAAAAAA.AAAAAAAAAAA.AAAA, Version=13.0.0.0, Culture=neutral, PublicKeyToken=XXXXXXXXXXXXXXXX (Fully-specified) LOG: Appbase = file:///C:/Program Files (x86)/XXX/XXX/XX.X.X.X/XXX/XXXXXXXXXXXXXX/ LOG: Initial PrivatePath = NULL LOG: Dynamic Base = NULL LOG: Cache Base = NULL LOG: AppName = ApplicationWeWantToStart.exe Calling assembly : ApplicationWeWantToStart, Version=13.0.0.0, Culture=neutral, PublicKeyToken=XXXXXXXXXXXXXXXX. === LOG: This bind starts in default load context. LOG: Using application configuration file: C:\\Program Files (x86)\\XXX\\XXX\\XX.X.X.X\\XXX\\XXXXXXXXXXXXXX\\ApplicationWeWantToStart.exe.Config LOG: Using host configuration file: LOG: Using machine configuration file from C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\config\\machine.config. LOG: Post-policy reference: AnAssem.blyWi.th.AVeryLon.gNameAA.AAAAAAAA.AAAAAAAAAAA.AAAA, Version=13.0.0.0, Culture=neutral, PublicKeyToken=XXXXXXXXXXXXXXXX LOG: GAC Lookup was unsuccessful. ERR: Error occurred constructing the probing codebase list. ERR: Unrecoverable error occurred during pre-download check (hr = 0x8007007a).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Human Interest",
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://github.com/fixdpt/shared-source-cli-2.0",
+    "https://www.github.com/fixdpt/shared-source-cli-2.0"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:24:09.439+02:00",
+  "updated": "2024-01-26T00:24:09.439+02:00"
+}

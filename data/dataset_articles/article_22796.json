@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "e8c53c1a899879c892fba33853620205b73f21dd",
+    "url": "https://www.techtimes.com/articles/306404/20240705/vikranth-etikyala-pioneering-sustainable-cloud-storage-and-asynchronous-systems.htm",
+    "site_full": "www.techtimes.com",
+    "site": "techtimes.com",
+    "site_section": "https://www.techtimes.com/techbuzz",
+    "site_categories": [
+      "media",
+      "tech"
+    ],
+    "section_title": "Tech Buzz News | Tech Times",
+    "title": "Vikranth Etikyala: Pioneering Sustainable Cloud Storage and Asynchronous Systems | Tech Times",
+    "title_full": "Vikranth Etikyala: Pioneering Sustainable Cloud Storage and Asynchronous Systems | Tech Times",
+    "published": "2024-07-05T12:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://1734811051.rsc.cdn77.org/data/images/full/449206/vikranth-etikyala.jpg",
+    "performance_score": 0,
+    "domain_rank": 3104,
+    "domain_rank_updated": "2024-07-02T13:08:10.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e8c53c1a899879c892fba33853620205b73f21dd",
+  "url": "https://www.techtimes.com/articles/306404/20240705/vikranth-etikyala-pioneering-sustainable-cloud-storage-and-asynchronous-systems.htm",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Carl Williams",
+  "published": "2024-07-05T12:48:00.000+03:00",
+  "title": "Vikranth Etikyala: Pioneering Sustainable Cloud Storage and Asynchronous Systems | Tech Times",
+  "text": "As global temperatures reach unprecedented levels, the urgency for innovative, environmentally friendly technologies intensifies. Leading this charge is Vikranth Etikyala, a Senior Staff Software Engineer at SoFi, who is at the helm of developing SoFi Bank using advanced cloud technologies. Etikyala's significant contributions to the tech industry began during his time at Amazon's Simple Storage Service (S3), where he was instrumental in scaling the service to handle millions of transactions per second and petabytes of data. His work has been crucial in enhancing the efficiency and scalability of cloud storage solutions. With a Master's degree in Computer Science from Northeastern University, Etikyala is a champion of sustainable data storage and an expert in asynchronous systems. This expertise is vital for managing 'cold data'—infrequently accessed data that doesn't require the fastest, most expensive storage media. Etikyala advocates for using tape storage for cold data due to its low energy consumption and reduced CO2 emissions, making it a green alternative in today's data-driven world. Etikyala's advocacy includes the practical implementation of asynchronous systems that efficiently migrate cold data to tape storage. These systems handle data transfers and storage management without disrupting critical operations, enhancing overall system performance and sustainability. According to Vikranth, modern tape storage systems drastically reduce CO2 emissions, consuming 87% less energy compared to hard drives. This is significant for our planet, as data centers, the core of our digital age, house the rapidly growing volume of data-expanding at a rate of up to 45% annually. These centers are projected to consume up to 13% of global electricity by 2030, with data storage alone accounting for 20% of this energy. The shift to tape storage not only supports ecological sustainability but also offers economic advantages by lowering operational costs. Moreover, companies are now required to report their carbon footprint in three categories: direct emissions from owned resources, indirect emissions from purchased electricity, and other indirect emissions, which include those from cloud storage services. Tape storage can significantly impact a company's environmental credentials under these scopes. Etikyala's leadership and expertise have made him a sought-after speaker at prestigious conferences such as the Future of Memory and Storage and O'Reilly SuperStream. On Environment Day, Vikranth Etikyala's story is a compelling testament to the power of technology and visionary leadership in combating climate change. His innovative approach to cloud storage, particularly his emphasis on the synergy between asynchronous systems and tape storage, positions him as a crucial player in the industry's move toward sustainability.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Environment"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "vikranth etikyala",
+        "sentiment": "negative"
+      },
+      {
+        "name": "etikyala",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "asynchronous systems | tech times",
+        "sentiment": "negative"
+      },
+      {
+        "name": "sofi",
+        "sentiment": "none"
+      },
+      {
+        "name": "sofi bank",
+        "sentiment": "none"
+      },
+      {
+        "name": "amazon",
+        "sentiment": "none"
+      },
+      {
+        "name": "northeastern university",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "etikyala",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-07-05T15:27:39.815+03:00",
+  "updated": "2024-07-05T15:27:39.815+03:00"
+}

@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "59a6dddb41ba733bfb5a1f694935c18c42e424af",
+    "url": "https://www.coindesk.com/fr/tech/2024/04/11/ethereums-next-upgrade-pectra-could-include-relief-for-institutional-stakers-wallet-ux-improvements",
+    "site_full": "www.coindesk.com",
+    "site": "coindesk.com",
+    "site_section": "https://www.coindesk.com/fr",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "CoinDesk : Bitcoin, Ethereum, Actualités Crypto et Données de Prix",
+    "title": "La prochaine mise à niveau d'Ethereum, « Pectra », pourrait inclure un soulagement pour les acteurs institutionnels et des améliorations de l'UX du portefeuille",
+    "title_full": "La prochaine mise à niveau d'Ethereum, « Pectra », pourrait inclure un soulagement pour les acteurs institutionnels et des améliorations de l'UX du portefeuille",
+    "published": "2024-04-12T02:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.coindesk.com/resizer/TU20pmobjj89gohH3bRKqgQZM14=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3GNZ7NM5KNGQTBDG4RO3JQ7XQU.jpg",
+    "performance_score": 0,
+    "domain_rank": 1140,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "59a6dddb41ba733bfb5a1f694935c18c42e424af",
+  "url": "https://www.coindesk.com/fr/tech/2024/04/11/ethereums-next-upgrade-pectra-could-include-relief-for-institutional-stakers-wallet-ux-improvements",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Margaux Nijkerk",
+  "published": "2024-04-12T02:07:00.000+03:00",
+  "title": "La prochaine mise à niveau d'Ethereum, « Pectra », pourrait inclure un soulagement pour les acteurs institutionnels et des améliorations de l'UX du portefeuille",
+  "text": "Share on Facebook\nShare on LinkedIn\nShare on X\nLes développeurs Ethereum , fraîchement sortis de la mise à niveau réussie de Dencun , qui a permis un changement majeur pour rendre les transactions moins chères sur les blockchains de couche 2, avancent dans la planification des prochaines améliorations de la blockchain.\nLe contenu de la prochaine mise à niveau, \"Pectra\", est loin NEAR finalisé, mais les développeurs ont déjà déclaré que leur objectif avec la mise à niveau serait de la livrer tout en travaillant simultanément sur la prochaine mise à niveau de la chaîne.\n\"L'idée avec Pectra est d'essayer de trouver un tas de petites victoires que nous pouvons obtenir relativement rapidement pendant que nous prototypons les choses plus importantes\", a déclaré Tim Beiko, responsable du support du protocole à la Fondation Ethereum , à CoinDesk dans une interview sur le podcast The Protocol.\nLes participants à l'appel Etheruem All Core Developers de jeudi – une réunion bihebdomadaire des principaux développeurs de la blockchain – ont signalé que Pectra est susceptible d'inclure la proposition d'amélioration Ethereum (EIP) 3074 , un ensemble proposé de modifications de code pour améliorer l'expérience utilisateur (UX) de Portefeuilles Ethereum . Plus précisément, la proposition permettra aux utilisateurs de regrouper les transactions et de les signer toutes en même temps.\nUn ONE des principaux changements susceptibles de se produire à Pectra sera une augmentation de la limite de mise pour les validateurs, de 32 ETH à 2 048 ETH , soit une multiplication par 64. Cette proposition, connue sous le nom d'EIP 7251, permettrait aux grands fournisseurs de jalonnement, comme Coinbase ou Lido, de consolider leurs validateurs exploitant la blockchain Ethereum – tout en leur permettant d'éviter de créer constamment de nouveaux validateurs chaque fois qu'ils ont 32 ETH supplémentaires à miser.\nSelon Dune Analytics, plus d'un million de validateurs exploitent actuellement le réseau Ethereum , ce qui suscite des inquiétudes quant à une latence excessive. Les développeurs ont cherché des moyens de ralentir la vitesse à laquelle les nouveaux validateurs entrent dans le système, ce qui pourrait l'enliser. L'EIP 2751 est présenté comme un moyen d'alléger la charge opérationnelle des grands acteurs, de consolider le nombre de validateurs sur la blockchain et de permettre aux fournisseurs de jalonnement de déployer moins de ressources pour le jalonnement et la validation.\nLe nom « Pectra » est un portemanteau de deux mises à niveau simultanées sur les différentes couches de la blockchain. La couche d'exécution, où les règles du protocole sont appliquées, subira la mise à niveau « Prague », et la couche de consensus, qui garantit la validation des blocs, passera par la mise à niveau « Electra ».\nLes développeurs Ethereum sont connus pour Brangelina -ing leurs mises à niveau, comme la ONE où les mises à niveau simultanées de Deneb et Cancun étaient appelées « Dencun » (et « Shapella » avant cela.) La convention de dénomination Ethereum suit les différentes villes que Devcon a eu lieu pour la couche d'exécution, et pour la couche de consensus, il suit un ordre alphabétique des noms d'étoiles .\nD'autres EIP à considérer incluent le déclenchement des retraits des validateurs des contrats intelligents, l'ajout d'un changement de code connu sous le nom de précompilation BLS et la suppression de la fenêtre de dépôt. Il s’agit de changements relativement mineurs apportés au réseau sur lesquels les développeurs doivent travailler.\nLa mise à niveau après Pectra inclura les « arbres verkle » tant attendus – un nouveau type de système de données conçu pour aider les nœuds Ethereum à stocker de grandes quantités de données.\nBeiko a déclaré que les développeurs auraient pour objectif de sortir Pectra fin 2024, peut-être début 2025. « Ce sera une mise à niveau relativement petite. La raison en est que cela nous permet de travailler sur deux forks en parallèle. Nous travaillons sur les arbres Verkle et cette transition », a déclaré Beiko. « Nous y travaillons mais cela va prendre plus d'un an. En attendant, nous disposons de bande passante pour travailler sur d’autres petites victoires.\nSur le même sujet : Ethereum finalise la mise à niveau « Dencun », dans le cadre d'une démarche historique visant à réduire les frais de données\nÉdité par Sam Kessler and Bradley Keoun.\nDisclosure\nVeuillez noter que notre politique de confidentialité , conditions d'utilisation , cookies , et ne pas vendre mes informations personnelles a été mise à jour.\nCoinDesk est un primé média qui couvre l'industrie de la cryptomonnaie. Ses journalistes respectent un ensemble strict de politiques éditoriales . En novembre 2023, CoinDesk a été acquis par le groupe Bullish, propriétaire de Bullish , une bourse d'actifs numériques réglementée. Le groupe Bullish est majoritairement détenu par Block.one ; les deux sociétés ont des intérêts dans diverses entreprises de blockchain et d'actifs numériques ainsi que des avoirs importants en actifs numériques, y compris le bitcoin. CoinDesk opère en tant que filiale indépendante avec un comité éditorial pour protéger l'indépendance journalistique. Les employés de CoinDesk, y compris les journalistes, peuvent recevoir des options dans le groupe Bullish dans le cadre de leur rémunération.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [
+    "https://eips.ethereum.org/EIPS/eip-3074",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.coindesk.com%2Ffr%2Ftech%2F2024%2F04%2F11%2Fethereums-next-upgrade-pectra-could-include-relief-for-institutional-stakers-wallet-ux-improvements%2F&title=La+prochaine+mise+%C3%A0+niveau+d%27Ethereum%2C+%C2%AB+Pectra+%C2%BB%2C+pourrait+inclure+un+soulagement+pour+les+acteurs+institutionnels+et+des+am%C3%A9liorations+de+l%27UX+du+portefeuille&summary=L%27objectif+des+d%C3%A9veloppeurs+avec+Pectra+est+d%27apporter+quelques+modifications+mineur",
+    "https://github.com/ethereum/pm/issues/997",
+    "https://b1.com/portfolio/",
+    "https://translate.google.com/",
+    "https://archive.devcon.org/archive/playlists/devcon-4/",
+    "https://dune.com/hildobby/eth2-staking",
+    "https://bullish.com",
+    "https://twitter.com/intent/tweet?text=La+prochaine+mise+%C3%A0+niveau+d%27Ethereum%2C+%C2%AB+Pectra+%C2%BB%2C+pourrait+inclure+un+soulagement+pour+les+acteurs+institutionnels+et+des+am%C3%A9liorations+de+l%27UX+du+portefeuille+https%3A%2F%2Fwww.coindesk.com%2Ffr%2Ftech%2F2024%2F04%2F11%2Fethereums-next-upgrade-pectra-could-include-relief-for-institutional-stakers-wallet-ux-improvements%2F+via+%40coindesk+&utm_content=editorial&utm_medium=social&utm_term=organic&utm_source=twitter&utm_campaign=co",
+    "https://ethereum-magicians.org/t/e-star-name-for-consensus-layer-upgrade-after-deneb/13248",
+    "https://bullish.com/news-insights/news/bullish-acquires-coindesk-from-digital-currency-group/",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.coindesk.com%2Ffr%2Ftech%2F2024%2F04%2F11%2Fethereums-next-upgrade-pectra-could-include-relief-for-institutional-stakers-wallet-ux-improvements%2F&utm_content=editorial&utm_medium=social&utm_term=organic&utm_source=facebook",
+    "https://en.wiktionary.org/wiki/Brangelina",
+    "https://notes.ethereum.org/@ethpandaops/pectra-devnet-0",
+    "https://b1.com",
+    "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.coindesk.com%2Ffr%2Ftech%2F2024%2F04%2F11%2Fethereums-next-upgrade-pectra-could-include-relief-for-institutional-stakers-wallet-ux-improvements%2F&title=La+prochaine+mise+%C3%A0+niveau+d%27Ethereum%2C+%C2%AB+Pectra+%C2%BB%2C+pourrait+inclure+un+soulagement+pour+les+acteurs+institutionnels+et+des+am%C3%A9liorations+de+l%27UX+du+portefeuille&summary=L%27objectif+des+d%C3%A9veloppeurs+avec+Pectra+est+d%27apporter+quelques+modifications+mineur",
+    "https://www.github.com/ethereum/pm/issues/997",
+    "https://www.ethereum-magicians.org/t/e-star-name-for-consensus-layer-upgrade-after-deneb/13248",
+    "https://www.b1.com",
+    "https://www.linkedin.com/shareArticle",
+    "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.coindesk.com%2Ffr%2Ftech%2F2024%2F04%2F11%2Fethereums-next-upgrade-pectra-could-include-relief-for-institutional-stakers-wallet-ux-improvements%2F&utm_content=editorial&utm_medium=social&utm_term=organic&utm_source=facebook",
+    "https://www.archive.devcon.org/archive/playlists/devcon-4/",
+    "https://archive.devcon.org/archive/playlists/devcon-4",
+    "https://www.notes.ethereum.org/@ethpandaops/pectra-devnet-0",
+    "https://www.bullish.com/news-insights/news/bullish-acquires-coindesk-from-digital-currency-group/",
+    "https://twitter.com/intent/tweet",
+    "https://www.bullish.com",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://translate.google.com",
+    "https://www.twitter.com/intent/tweet?text=La+prochaine+mise+%C3%A0+niveau+d%27Ethereum%2C+%C2%AB+Pectra+%C2%BB%2C+pourrait+inclure+un+soulagement+pour+les+acteurs+institutionnels+et+des+am%C3%A9liorations+de+l%27UX+du+portefeuille+https%3A%2F%2Fwww.coindesk.com%2Ffr%2Ftech%2F2024%2F04%2F11%2Fethereums-next-upgrade-pectra-could-include-relief-for-institutional-stakers-wallet-ux-improvements%2F+via+%40coindesk+&utm_content=editorial&utm_medium=social&utm_term=organic&utm_source=twitter&utm_campaign=co",
+    "https://www.dune.com/hildobby/eth2-staking",
+    "https://www.eips.ethereum.org/EIPS/eip-3074",
+    "https://www.en.wiktionary.org/wiki/Brangelina",
+    "https://www.translate.google.com/",
+    "https://www.b1.com/portfolio/",
+    "https://b1.com/portfolio",
+    "https://bullish.com/news-insights/news/bullish-acquires-coindesk-from-digital-currency-group"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T02:36:09.711+03:00",
+  "updated": "2024-04-12T02:36:09.711+03:00"
+}

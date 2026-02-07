@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "733a30ad34d26cac49eb0404ec8c0a42ef381309",
+    "url": "https://community.retool.com/t/bug-when-filter-based-on-single-select/50535",
+    "site_full": "community.retool.com",
+    "site": "retool.com",
+    "site_section": "https://community.retool.com/top.rss?period=weekly",
+    "site_categories": [],
+    "section_title": "Retool Forum - Top topics",
+    "title": "Bug when filter based on single select",
+    "title_full": "Bug when filter based on single select",
+    "published": "2024-11-14T06:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://community.retool.com/uploads/default/original/2X/c/c5fed2d1748061b868b15a59c46de3c762082b52.png",
+    "performance_score": 0,
+    "domain_rank": 27924,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "733a30ad34d26cac49eb0404ec8c0a42ef381309",
+  "url": "https://community.retool.com/t/bug-when-filter-based-on-single-select/50535",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "jonnilundy",
+  "published": "2024-11-14T06:34:00.000+02:00",
+  "title": "Bug when filter based on single select",
+  "text": "I'm trying to filter a table client side based on a single-select component. The values work if I paste them in but when they are set by the component they don't work.\nThat's an interesting one! The first thing that comes to mind is how you're setting the filter.\nMy first thought is maybe a potential issue with a string/boolean mismatch or something similar going on there.\nCan you filter other columns not boolean?\nHey there @jonnilundy,\nI was able to replicate this. This is happening because when you use the tag type column, it automatically transforms your booleans to strings. As righly intuited by @Derek_Watts, this creates a mismatch between your select component booleans and your column strings.\nA solution is the following:\nAssuming you're using the table's default filter.\nOtherwise you can also update your select component's options so that they are strings. That should make it work.\n@MiguelOrtiz that worked! Thank you!\nThis is what I used in order to gracefully handle the \"clear\" as well:\n{{ !self.value ? \"\" : self.value.toString() }}",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T19:00:08.257+02:00",
+  "updated": "2024-11-15T19:00:08.257+02:00"
+}

@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "c008f400dcd1be48c860ac8fe113401cca13d390",
+    "url": "https://nybreaking.com/experts-warn-that-dna-sequencers-are-vulnerable-to-bootkit-attacks",
+    "site_full": "nybreaking.com",
+    "site": "nybreaking.com",
+    "site_section": "https://www.nybreaking.com",
+    "site_categories": [],
+    "section_title": "NY Breaking News - The New York Breaking News",
+    "title": "Experts warn that DNA sequencers are vulnerable to bootkit attacks",
+    "title_full": "Experts warn that DNA sequencers are vulnerable to bootkit attacks",
+    "published": "2025-01-09T21:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 79781,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c008f400dcd1be48c860ac8fe113401cca13d390",
+  "url": "https://nybreaking.com/experts-warn-that-dna-sequencers-are-vulnerable-to-bootkit-attacks",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "James",
+  "published": "2025-01-09T21:03:00.000+02:00",
+  "title": "Experts warn that DNA sequencers are vulnerable to bootkit attacks",
+  "text": "Eclypsium researchers find vulnerability in the way iSeq 100 starts up The bug allows threat actors to establish persistence, block the device, or tamper with the results A patch is now available, so update now A popular DNA sequencer has been found with a vulnerability that could allow threat actors to establish persistence on the device, destroy its hardware or even tamper with the results, experts claim.\nEclypsium researchers analyzed the BIOS firmware in iSeq 100, a DNA sequencer built by US biotechnology company Illumina, a benchtop sequencing system designed for small-scale genomic and targeted sequencing applications. It is used to read and analyze DNA, help researchers understand genetic information, study diseases, develop treatments, or investigate how organisms are related.\nEclypsium said the device boots an older version of the BIOS firmware, which even ran in Compatibility Support Mode (CSM), to support older devices. It did not boot with standard protections, including Secure Boot technology.\nManipulating outcomes All this left iSeq 100 vulnerable to nine different bugs, some of which were discovered in 2017, and with different severity scores. Threat actors could launch LogoFAIL, Specter 2 and Microarchitectural Data Sampling (MDS) attacks on these devices, it was claimed.\nTo make matters worse, Eclypsium said it only analyzed this specific model and it’s possible that other models also suffer from the same drawbacks, especially since the motherboards in these devices are built by a third party.\n“If the data is manipulated through an implant/backdoor in these devices, a threat actor could manipulate a wide range of outcomes, including mimicking the presence or absence of hereditary conditions, manipulating medical treatments or new vaccines, mimicking DNA -research of ancestors, etc.” Eclypsium said.\nSince the discovery, Eclypsium notified the iSeq 100 manufacturer, who responded with a patch. There was no word on how many devices are vulnerable, or how quickly the patch will be applied to all of them.\nSign up for the Ny Breaking newsletter and get all the best news, opinions, features and guidance your business needs to succeed!\n“Our initial assessment indicates that these issues do not pose a high risk,” an Illumina representative said BleepingComputer .\nVia BleepingComputer\nYou might also like it",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific research",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks/",
+    "https://www.bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks",
+    "https://bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Illumina",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T00:25:14.559+02:00",
+  "updated": "2025-01-10T00:25:14.559+02:00"
+}

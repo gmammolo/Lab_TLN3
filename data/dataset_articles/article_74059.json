@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "bf7d964195506be46aad34d66c95eadab21a61c9",
+    "url": "https://www.corrierenazionale.it/2024/11/15/sicurezza-informatica-che-cosa-e-un-ransomware-e-come-difendersi",
+    "site_full": "www.corrierenazionale.it",
+    "site": "corrierenazionale.it",
+    "site_section": "https://www.corrierenazionale.it",
+    "site_categories": [
+      "education"
+    ],
+    "section_title": "Corriere Nazionale - News Quotidiane",
+    "title": "Sicurezza informatica: che cosa è un ransomware e come difendersi",
+    "title_full": "Sicurezza informatica: che cosa è un ransomware e come difendersi",
+    "published": "2024-11-15T06:02:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 151869,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bf7d964195506be46aad34d66c95eadab21a61c9",
+  "url": "https://www.corrierenazionale.it/2024/11/15/sicurezza-informatica-che-cosa-e-un-ransomware-e-come-difendersi",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "CorNaz",
+  "published": "2024-11-15T06:02:00.000+02:00",
+  "title": "Sicurezza informatica: che cosa è un ransomware e come difendersi",
+  "text": "Il ransomware, uno dei malware più insidiosi, continua a crescere in modo allarmante. Questo virus può colpire chiunque, ma cos’è esattamente e come possiamo difenderci?\nLa sicurezza informatica negli ultimi anni è diventata un campo sempre più importante a causa dei crescenti attacchi digitali, soprattutto con l’arrivo dell’AI. Uno dei malware più pericolosi e diffusi al giorno d’oggi è il ransomware. Il termine “ransomware” deriva dalla combinazione delle parole inglesi “ransom” (riscatto) e “software”. Questo nome descrive esattamente la sua funzione, ovvero un malware che tiene in ostaggio, bloccando tramite la criptografia, i dati delle vittime in cambio di un riscatto.\nIl ransomware è particolarmente pericoloso per le organizzazioni e le aziende, che spesso sono più propense a pagare il riscatto per evitare la perdita di dati cruciali per le loro operazioni. Negli ultimi anni, la diffusione di questo tipo di malware è in costante aumento. Nel 2021, ad esempio, è stato registrato un significativo incremento del 93% rispetto al 2020, secondo un rapporto di Sophos, confermando la sua crescente minaccia nel panorama informatico attuale.\nMa è un errore comune pensare che il ransomware sia di un solo tipo. Infatti, esistono innumerevoli varianti di ransomware, alcune più pericolose di altre. Ecco spiegati nei dettagli i principali tipi:\n1. Locker ransomware: Questo tipo di ransomware mira ai sistemi informatici bloccando completamente l’accesso dell’utente al sistema operativo, impedendo di conseguenza l’accesso ai file e alle applicazioni cruciali.\n2. Crypto ransomware: Questo malware si concentra sulla cifratura dei file dell’utente, inclusi documenti, immagini e altri dati importanti, lasciando il sistema operativo accessibile per permette di effettuare il pagamento del riscatto.\n3. Cripto-worm: Una delle tipologie di ransomware più pericolose per le aziende, si diffonde attraverso reti e dispositivi connessi, criptando i file su vasta scala.\n4. Doxware (detto anche Leakware): L’hacker dietro l’attacco blocca i dati e minaccia di pubblicare informazioni sensibili dell’utente online se il riscatto non viene pagato, aumentando la pressione sulle vittime.\nModalità di infezione e prevenzione\nI ransomware possono colpire persone e aziende in diversi modi. Il metodo più comune è tramite email contenenti allegati infetti, che vengono aperti inconsapevolmente, causando l’infezione del computer. Altri metodi includono il download di file da siti web compromessi e l’exploit di vulnerabilità in software aziendali o di uso quotidiano. È quindi essenziale sapere come difendersi da questa minaccia. Tra le strategie più diffuse ed efficaci c’è il backup preventivo dei dati sensibili. Eseguire backup frequenti e conservarli in un luogo sicuro è cruciale per neutralizzare questa minaccia. Se un hacker minaccia un’azienda tenendo in ostaggio file sensibili, i backup renderanno inutile il ricatto, poiché i dati potranno essere ripristinati senza pagare il riscatto. Ma il backup preventivo, se pur molto efficace, non è l’unico modo per difendersi da questa minaccia. Avere un buon software anti malware può giocare un ruolo fondalmentale nella prevenzione contro i ransomware. Esistono numerosi software anti malware sul web, ma uno dei più utilizzate è Malwarebytes.\nMalwarebytes grazie alla sua funzionalità di protezione in tempo reale, consente di proteggere il tuo PC da qualsiasi tipo di ransomware, bloccandolo prima che possa causare danni. Inoltre offre un servizio di scansione approfondita, che ti consente di riconoscere tutti i malware nascosti su un PC, compreso i ransomware.\nIn conclusione, il ransomware rappresenta una delle minacce informatiche più pericolose e diffuse ai giorni nostri, e la sua diffusione non mostra segni di diminuzione. Affrontare questa minaccia richiede non solo consapevolezza e preparazione, ma anche l’adozione di misure specifiche per proteggere i dati sensibili dalle sempre più sofisticate strategie di attacco informatico.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Sophos",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T12:15:50.788+02:00",
+  "updated": "2024-11-15T12:15:50.788+02:00"
+}

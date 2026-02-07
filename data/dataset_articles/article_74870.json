@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "20d5bc4af160a52fd68014f7b793c95f3fe0c7c1",
+    "url": "https://www.spokesman.com/stories/2024/nov/21/chinas-hacking-reached-deep-into-us-telecoms",
+    "site_full": "www.spokesman.com",
+    "site": "spokesman.com",
+    "site_section": "https://spokesman.com/news",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "\n    News | The Spokesman-Review\n",
+    "title": "China's hacking reached deep into U.S. telecoms",
+    "title_full": "China's hacking reached deep into U.S. telecoms",
+    "published": "2024-11-22T01:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://thumb.spokesman.com/X8LEL3lHM9CqVCi1c2DPd7aL5I4=/1200x630/smart/media.spokesman.com/photos/2024/11/21/67400572a7c59.hires.jpg",
+    "performance_score": 0,
+    "domain_rank": 4039,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "20d5bc4af160a52fd68014f7b793c95f3fe0c7c1",
+  "url": "https://www.spokesman.com/stories/2024/nov/21/chinas-hacking-reached-deep-into-us-telecoms",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "David E. Sanger and Julian E. Barnes",
+  "published": "2024-11-22T01:31:00.000+02:00",
+  "title": "China's hacking reached deep into U.S. telecoms",
+  "text": "China’s hacking reached deep into U.S. telecoms WASHINGTON – China’s recent breach of the innermost workings of the U.S. telecommunications system reached far deeper than the Biden administration has described, the chair of the Senate Intelligence Committee said Thursday, with hackers able to listen in on telephone conversations and read text messages. “The barn door is still wide open, or mostly open,” the Democratic chair, Sen. Mark Warner of Virginia, a former telecommunications executive, said in an interview Thursday. Warner said he had been stunned by the scope and depth of the breach, which was engineered over the past year by a group linked to Chinese intelligence that has been named Salt Typhoon by Microsoft, whose cybersecurity team discovered the hack in the summer. Government officials have been struggling to understand what China obtained and how it might have been able to monitor conversations held by a number of well-connected Americans, including President-elect Donald Trump and Vice President-elect JD Vance. At first, the FBI and other investigators believed that China’s hackers used stolen passwords to focus mostly on the system that taps telephone conversations and texts under court orders. It is administered by a number of the nation’s telecommunications firms, including the three largest – Verizon, AT&T and T-Mobile. But in recent days, investigators have discovered how deeply China’s hackers had moved throughout the country by exploiting aging equipment and seams in the networks connecting disparate systems. U.S. officials said that since the hack was exposed, the Chinese intruders had seemingly disappeared, suspending their intrusion so their full activity could not be discovered. But Warner said it would be wrong to conclude that the Chinese had been ousted from the nation’s telecommunications system, or that investigators even understood how deeply they were embedded. “We’ve not found everywhere they are,” Warner said. The committee has received briefings on the hack from the government, and Warner has had conversations with telecommunications executives. China has been the source of hacking concerns for two decades. At first the biggest worry was the theft of intellectual property, such as chip designs and plans for military equipment. Those included the F-35, America’s most advanced fighter jet, whose blueprints China stole from American military contractors. Then, during the Bush and Obama administrations, China’s focus turned to understanding American government officials, including the theft of the security clearance files of more than 22 million Americans. Russia carved a different path. Late in Trump’s first term, it placed code into products turned out by a company called SolarWinds, which provided software to the federal government and America’s largest companies. Hackers backed by Moscow also got into the network of a major gas and fuel distributor, Colonial Pipeline, disrupting the supply of gasoline in the first year of the Biden administration. But the Chinese activity in the past year has taken these intrusions to a new level, Warner said on Thursday. “This is far and away the most serious telecom hack in our history,” he said. “This makes Colonial Pipeline and SolarWinds look like small potatoes.” He said that only in the past week had it become clear that “every major provider has been broken into.” The hackers were not able to listen to conversations on encrypted applications, like those carried over WhatsApp or Signal. Nor could they read encrypted messages, such as those sent from one iPhone to another over Apple’s iMessage system. But they could read regular text messages between an iPhone and an Android phone, for example, or listen to phone calls over the ordinary telephone networks, much as the government can if it has a legal order. The Chinese went after the conversations of national security officials, politicians and some of their staff, investigators have concluded. There may have been several Chinese groups at work, said a senior official involved in the investigation, who noted that one of them might have focused on Trump and Vance. “It wasn’t like the equivalent of a tap on your phone for a constant, 24/7 time,” Warner said. Instead, he said, they could listen to specific targets for specific periods. Investigators believe that, so far, the Chinese hackers lack the ability to go back into the records they gained access to and listen to past calls. But they could gather metadata about previous calls – the phone numbers called, the length of the calls and perhaps the rough location of the cellphones involved. Even if they did not listen to many calls, the metadata and geolocation data the Chinese have gathered of important American officials are alarming. Warner said it was important to let investigators continue their work to discover the extent of the penetration and learn more. But he said it was crucial that the public understand that the intrusion was not confined to Washington but was far broader and exposed critical vulnerabilities. “We have to let the American people know this,” Warner said. “Folks need to know.” Similar hacks in Australia and Britain led officials there to put minimum standards in place, and Warner said he hoped the exposure of the Chinese hack would prompt stronger standards in the United States. This article originally appeared in The New York Times .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nytimes.com/2024/11/21/us/politics/china-hacking-telecommunications.html",
+    "https://nytimes.com/2024/11/21/us/politics/china-hacking-telecommunications.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Donald Trump",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mark Warner",
+        "sentiment": "none"
+      },
+      {
+        "name": "JD Vance",
+        "sentiment": "none"
+      },
+      {
+        "name": "Biden",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Senate Intelligence Committee",
+        "sentiment": "none"
+      },
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      },
+      {
+        "name": "FBI",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "20d5bc4af160a52fd68014f7b793c95f3fe0c7c1",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T06:33:51.251+02:00",
+  "updated": "2024-11-22T08:43:44.959+02:00"
+}

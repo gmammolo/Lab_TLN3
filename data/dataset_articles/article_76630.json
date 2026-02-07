@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "e73c703dd020b048ddb9706c2870e9cbde22ff57",
+    "url": "https://itc.ua/en/news/elon-musk-human-data-for-ai-training-is-exhausted-we-need-synthetic-ones-that-the-technology-will-create-itself",
+    "site_full": "itc.ua",
+    "site": "itc.ua",
+    "site_section": "https://www.itc.ua",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Последние новости в сфере технологий, науки и кино на ITC.ua",
+    "title": "Elon Musk: «Human data for AI training is - exhausted. We need synthetic ones that the technology will create itself»",
+    "title_full": "Elon Musk: «Human data for AI training is - exhausted. We need synthetic ones that the technology will create itself»",
+    "published": "2025-01-10T11:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "UA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25378,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e73c703dd020b048ddb9706c2870e9cbde22ff57",
+  "url": "https://itc.ua/en/news/elon-musk-human-data-for-ai-training-is-exhausted-we-need-synthetic-ones-that-the-technology-will-create-itself",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Катерина Даньшина",
+  "published": "2025-01-10T11:04:00.000+02:00",
+  "title": "Elon Musk: «Human data for AI training is - exhausted. We need synthetic ones that the technology will create itself»",
+  "text": "Elon Musk confirmed the thoughts of some other experts about the lack of real data for training artificial intelligence — and the deficit formed last year.\n“We have actually exhausted the total amount of human knowledge for AI training,” Musk said during a conversation with Stagwell’s Mark Penn (via TechCrunch ). “This primarily happened last year.”\nMusk essentially reiterated the theses of other researchers. Previously, former OpenAI research scientist Ilya Sutskever noted that the AI sector had reached “peak data” and predicted that the lack of information for training would force a change in the way models are developed, which is used today.\n“The only way to supplement real-world data is with synthetic data, which AI will create itself,” Musk said. “With it, technology will evaluate itself and undergo a self-learning process.”\nIn fact, other tech giants such as Microsoft, Meta, OpenAI, and Anthropic are already using synthetic data to train their flagship models. According to Gartner, in 2024, 60% of the data used for AI and analytics projects was generated artificially.\nAmong other advantages of using synthetic data is significant cost savings. For instance, AI startup Writer says its model, trained on artificially generated data, cost just $700,000 (a similar-sized model from OpenAI, for example, cost about $4.6 million ).\nMeanwhile, some studies predict that using synthetic data may lead to a model collapse , when it becomes less creative and more biased in results.\nIt should be noted that Elon Musk owns an artificial intelligence startup xAI, which, at the time of launch, promoted itself as a company aiming to “understand the true nature of the Universe.” As of November 2024, the valuation of xAI was $50 billion . Currently, the only widely available development of the startup is a chatbot Grok, which trained on Twitter posts. It is integrated into the social network, and as of yesterday, it is available in a separate iOS app (currently only in the USA).\nIt should also be reminded that Musk has repeatedly called for caution with artificial intelligence and even signed an open letter demanding a halt to the development of technology for six months. He also continues to actively criticize OpenAI , which he accuses of focusing on making money and deviating from the original goal of developing artificial intelligence for the benefit of humanity (in fact, earnings at Sam Altman’s company are not so great yet ).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/",
+    "https://x.com/xai/status/1877536836924424445",
+    "https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/?guccounter=1",
+    "https://www.cnbc.com/2024/10/09/ai-startup-writer-launches-new-model-to-compete-with-openai.html",
+    "https://cnbc.com/2024/10/09/ai-startup-writer-launches-new-model-to-compete-with-openai.html",
+    "https://www.techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/",
+    "https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/",
+    "https://www.techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/?guccounter=1",
+    "https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data",
+    "https://www.x.com/xai/status/1877536836924424445"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ilya Sutskever",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mark Penn",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:44:13.654+02:00",
+  "updated": "2025-01-10T12:44:13.654+02:00"
+}

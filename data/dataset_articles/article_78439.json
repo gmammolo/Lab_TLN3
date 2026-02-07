@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "e2e7e2fb3c3f2dc65cc16a050bae73ba0ec56727",
+    "url": "https://www.techzine.eu/news/infrastructure/133971/microsoft-investigates-issues-with-ssds-after-windows-11-update/",
+    "site_full": "www.techzine.eu",
+    "site": "techzine.eu",
+    "site_section": "https://feedle.world/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "feedle |",
+    "site_title": "Techzine Global - Your single source of truth",
+    "title": "Microsoft investigates issues with SSDs after Windows 11 update",
+    "title_full": "Microsoft investigates issues with SSDs after Windows 11 update",
+    "published": "2025-08-21T12:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.techzine.eu/wp-content/uploads/2024/08/shutterstock_2012713658.jpg",
+    "performance_score": 0,
+    "domain_rank": 62134,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e2e7e2fb3c3f2dc65cc16a050bae73ba0ec56727",
+  "url": "https://www.techzine.eu/news/infrastructure/133971/microsoft-investigates-issues-with-ssds-after-windows-11-update/",
+  "ord_in_thread": 0,
+  "author": "@techzine.eu",
+  "published": "2025-08-21T12:02:00.000+03:00",
+  "title": "Microsoft investigates issues with SSDs after Windows 11 update",
+  "text": "Microsoft has confirmed that it is investigating reports of data corruption and SSD failure after installing the cumulative update KB5063878 for Windows 11 version 24H2.\nThe update, which has been available since August 12, may cause drives to disappear or partitions to become unusable under certain circumstances. Users report that SSDs sometimes appear as RAW or are simply no longer recognized by the operating system.\nThe problems seem to occur mainly during heavy writing activities, such as writing dozens of gigabytes of data in a short period of time. In practice, this often happened after downloading and installing large game updates. The risk increases when an SSD is already mostly full, making the error more visible. Various symptoms have been reported, including Explorer freezing, unreadable SMART values, and error messages during input/output operations.\nPhison, a supplier of widely used SSD controllers, acknowledges that there may be a link between the recent updates and the malfunctions. The company is working with Microsoft and other partners to identify the cause. Users suspect that a memory leak in the buffer that Windows uses for storage operations may be playing a role. This prevents the drive cache from being emptied properly. Microsoft has confirmed that it is actively working with hardware partners to find a solution.\nAvoid heavy data transfers\nUntil then, users are advised to refrain from heavy data transfers. They should also ensure that they have up-to-date backups available. Those who have not yet installed the update may consider postponing it for the time being. However, there is no guarantee that future releases will be free of this problem. A practical precaution is to avoid writing or unpacking large files in one go, but to split the operations into smaller batches.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business reporting and performance",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "MSFT",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:35:16.117+03:00",
+  "updated": "2025-08-21T12:39:52.000+03:00"
+}

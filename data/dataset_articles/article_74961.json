@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "b3573261b44098449b774d8046f14406dccb55e3",
+    "url": "https://vulners.com/cvelist/CVELIST:CVE-2024-10034",
+    "site_full": "vulners.com",
+    "site": "vulners.com",
+    "site_section": "https://vulners.com/rss.xml",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Vulners.com RSS Feed",
+    "title": "CVE-2024-10034 Gallery Blocks with Lightbox. Image Gallery, (HTML5 video , YouTube, Vimeo) Video Gallery and Lightbox for native gallery <= 3.2.4.2 - Authenticated (Editor+) Stored Cross-Site Scripting",
+    "title_full": "CVE-2024-10034 Gallery Blocks with Lightbox. Image Gallery, (HTML5 video , YouTube, Vimeo) Video Gallery and Lightbox for native gallery <= 3.2.4.2 - Authenticated (Editor+) Stored Cross-Site Scripting",
+    "published": "2024-11-22T07:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://vulners.com/static/img/cvelist.png",
+    "performance_score": 0,
+    "domain_rank": 153429,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b3573261b44098449b774d8046f14406dccb55e3",
+  "url": "https://vulners.com/cvelist/CVELIST:CVE-2024-10034",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Wordfence",
+  "published": "2024-11-22T07:33:00.000+02:00",
+  "title": "CVE-2024-10034 Gallery Blocks with Lightbox. Image Gallery, (HTML5 video , YouTube, Vimeo) Video Gallery and Lightbox for native gallery <= 3.2.4.2 - Authenticated (Editor+) Stored Cross-Site Scripting",
+  "text": "CVSS3\nAttack Vector\nNETWORK\nAttack Complexity\nLOW\nPrivileges Required\nHIGH\nUser Interaction\nNONE\nScope\nCHANGED\nConfidentiality Impact\nLOW\nIntegrity Impact\nLOW\nAvailability Impact\nNONE\nCVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:L/I:L/A:N\nThe Gallery Blocks with Lightbox. Image Gallery, (HTML5 video , YouTube, Vimeo) Video Gallery and Lightbox for native gallery plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the gallery link text parameter in all versions up to, and including, 3.2.4.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Editor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n[\n{\n\"vendor\": \"gallerycreator\",\n\"product\": \"Gallery Blocks with Lightbox. Image Gallery, (HTML5 video , YouTube, Vimeo) Video Gallery and Lightbox for native gallery\",\n\"versions\": [\n{\n\"version\": \"*\",\n\"status\": \"affected\",\n\"lessThanOrEqual\": \"3.2.4.2\",\n\"versionType\": \"semver\"\n}\n],\n\"defaultStatus\": \"unaffected\"\n}\n]",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T08:33:42.074+02:00",
+  "updated": "2024-11-22T08:33:42.074+02:00"
+}

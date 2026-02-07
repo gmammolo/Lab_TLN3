@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "55b0245d31ecbcff583458196f20d5c3ba31b791",
+    "url": "https://www.scmagazine.com/news/google-shuts-down-government-disinformation-campaigns-on-its-platforms",
+    "site_full": "www.scmagazine.com",
+    "site": "scmagazine.com",
+    "site_section": "https://scmagazine.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cybersecurity News, Awards, Webinars, eSummits, Research | SC Media",
+    "title": "Google shuts down government disinformation campaigns on its platforms | SC Media",
+    "title_full": "Google shuts down government disinformation campaigns on its platforms | SC Media",
+    "published": "2024-06-06T20:24:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://files.scmagazine.com/wp-content/uploads/2024/06/050624_youtube.jpg",
+    "performance_score": 0,
+    "domain_rank": 7215,
+    "domain_rank_updated": "2024-06-04T13:08:15.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "55b0245d31ecbcff583458196f20d5c3ba31b791",
+  "url": "https://www.scmagazine.com/news/google-shuts-down-government-disinformation-campaigns-on-its-platforms",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Shaun Nichols",
+  "published": "2024-06-06T20:24:00.000+03:00",
+  "title": "Google shuts down government disinformation campaigns on its platforms | SC Media",
+  "text": "Researchers with Google say they uncovered and shut down a number of government disinformation campaigns.\nThe team at the Google Threat Analysis Group (TAG) reported shutting down multiple accounts across its services that were targeting both their domestic and foreign governments seeking to influence public opinion.\nThe report, which covers the Q2 period, detailed account takedowns it made around disinformation and fraud campaigns. It also acts as something of a \"canary\" report which allows the TAG team to indirectly hint at larger efforts by oppressive governments to manipulate their populations via social media.\nAmong the most prolific violators was Indonesia, which logged two instances in which a total of 39 accounts were shut down for posting misinformation on behalf of the country’s ruling party.\nAccording to monitoring site Freedom House, Indonesia has had a fairly spotty record when it comes to internet freedom. The country scored a 46 on its Freedom of the Net rankings. For comparison, the U.S. scored 76.\nThe single largest takedown of accounts went to China, where YouTube administrators managed to wipe out 1,320 accounts, and Blogger took down 1,177 blogs related to what it called a public influence campaign regarding diplomatic relations between China and the U.S.\nAlso making the TAG report was Pakistan, where a total of 59 YouTube accounts had to be pulled down for posting content that targeted politicians in that country with disinformation content.\nRussia, not to be outdone, also managed to win itself a massive takedown. Google said it removed a whopping 378 YouTube accounts in the quarter linked to disinformation.\n“The campaign was linked to a Russian consulting firm and was sharing content in Russian that was supportive of Russia and critical of Ukraine and the West,” said Google Tag, also noting a second Russian campaign in which a further 11 YouTube accounts were taken offline for posting misinformation related to Ukraine.\nNot every one of the disinformation campaigns was performed on behalf of the government, the TAG report noted that Google also busted up a disinformation campaign based out of India and the Philippines. In that case, bogus news was being pushed out in English and Norwegian in hopes of making a quick buck off of advertising.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://freedomhouse.org/countries/freedom-net/scores",
+    "https://blog.google/threat-analysis-group/tag-bulletin-q2-2024/",
+    "https://www.blog.google/threat-analysis-group/tag-bulletin-q2-2024/",
+    "https://blog.google/threat-analysis-group/tag-bulletin-q2-2024",
+    "https://www.freedomhouse.org/countries/freedom-net/scores"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "sc media researchers",
+        "sentiment": "negative"
+      },
+      {
+        "name": "google",
+        "sentiment": "negative"
+      },
+      {
+        "name": "google threat analysis group",
+        "sentiment": "none"
+      },
+      {
+        "name": "freedom house",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "china",
+        "sentiment": "none"
+      },
+      {
+        "name": "indonesia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-07T01:09:33.787+03:00",
+  "updated": "2024-06-07T01:09:33.787+03:00"
+}

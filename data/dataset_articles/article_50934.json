@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "378b813128d18515e1bca93cdd6cde5bb20572b1",
+    "url": "https://gbatemp.net/threads/switch-refuses-to-boot-load-payloads.655691",
+    "site_full": "gbatemp.net",
+    "site": "gbatemp.net",
+    "site_section": "https://gbatemp.net/forums/-/index.rss",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "GBAtemp.net - The Independent Video Game Community",
+    "title": "Switch refuses to boot / load payloads",
+    "title_full": "Switch refuses to boot / load payloads",
+    "published": "2024-08-30T09:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 13434,
+    "domain_rank_updated": "2024-08-27T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "378b813128d18515e1bca93cdd6cde5bb20572b1",
+  "url": "https://gbatemp.net/threads/switch-refuses-to-boot-load-payloads.655691",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "tofuwabofu (invalid@example.com)",
+  "published": "2024-08-30T09:15:00.000+03:00",
+  "title": "Switch refuses to boot / load payloads",
+  "text": "[tofuwabofu](/members/tofuwabofu.705051/)\nNew Member\nOP\nNewbie\n- Joined\n- May 11, 2024\n- Messages\n- 2\n- Trophies\n- 0\n- Age\n- 30\n- XP\n-\n[19](/xp/currency/xp.1/?user_id=705051)\n- Country\nHey everyone,\nI know that there are already lots of threads for this kind of issue, so sorry in advance if it feels a bit tiresome.\nI have had a switch with atmosphere for years now and so far never really had any major issues with it.\nYesterday, I was stupid and distracted enough to update the switch firmware to 18.0 without updating atmosphere. The switch tried to reboot,\ngot stuck in a loop where atmosphere refused to work. I eventually turned it off and took out the sd card, but it seems that might have been too late.\nNow, the SD card was corrupted / my pc couldn't read it - so I just formatted the whole thing and did a fresh atmosphere + hekate setup.\nWhen inserting the new SD in my switch and sending hekate (latest version) as a payload via tegrarcmgui - as I have done 100s of times before - the screen of my switch remained black.\nThis has now happened for various cables, usb ports and payloads. tegrarcmgui recognizes that the switch is in rcm mode, it successfully sends the payload as well. Here is a tegra log as an example:\nI have since then recharged the switch, waited a bit, turned it off and on again, tried to tweak the heakte .ini file, all to no results.\nThe switch itself is an old, unpatched one and the whole jig-trick also worked for me so far.\nAny ideas and help would be absolutely greta as I am slowly running out of ideas - thank you!\nI know that there are already lots of threads for this kind of issue, so sorry in advance if it feels a bit tiresome.\nI have had a switch with atmosphere for years now and so far never really had any major issues with it.\nYesterday, I was stupid and distracted enough to update the switch firmware to 18.0 without updating atmosphere. The switch tried to reboot,\ngot stuck in a loop where atmosphere refused to work. I eventually turned it off and took out the sd card, but it seems that might have been too late.\nNow, the SD card was corrupted / my pc couldn't read it - so I just formatted the whole thing and did a fresh atmosphere + hekate setup.\nWhen inserting the new SD in my switch and sending hekate (latest version) as a payload via tegrarcmgui - as I have done 100s of times before - the screen of my switch remained black.\nThis has now happened for various cables, usb ports and payloads. tegrarcmgui recognizes that the switch is in rcm mode, it successfully sends the payload as well. Here is a tegra log as an example:\nRCM Device detected\nInvoking TegraRcmSmash.exe with args : \"[...]\\Downloads\\hekate_ctcaer_6.1.1_Nyx_1.6.1\\hekate_ctcaer_6.1.1.bin\"\nTegraRcmSmash (32bit) 1.2.1-3 by rajkosto\nOpened USB device path \\\\?\\usb#vid_0955&pid_7321#6&16164b29&0&1#{aa0dbd45-3117-f331-5c49-76bf65225042}\nRCM Device with id 008105130000001887283E6401101062 initialized successfully!\nUploading payload (mezzo size: 92, user size: 109304, total size: 175520, total padded size: 176128)...\nSmashing the stack!\nSmashed the stack with a 0x7000 byte SETUP request!\nPayload successfully injected\nI have since then recharged the switch, waited a bit, turned it off and on again, tried to tweak the heakte .ini file, all to no results.\nThe switch itself is an old, unpatched one and the whole jig-trick also worked for me so far.\nAny ideas and help would be absolutely greta as I am slowly running out of ideas - thank you!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-30T09:21:05.603+03:00",
+  "updated": "2024-08-30T09:21:05.603+03:00"
+}

@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "de1c7270bdb2718b6a71d1320460f852298cbd26",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks",
+    "site_full": "www.bleepingcomputer.com",
+    "site": "bleepingcomputer.com",
+    "site_section": "https://www.bleepingcomputer.com/news/hardware",
+    "site_categories": [
+      "windows",
+      "hacking",
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "News in the Hardware category",
+    "title": "CISA warns of more Palo Alto Networks bugs exploited in attacks",
+    "title_full": "CISA warns of more Palo Alto Networks bugs exploited in attacks",
+    "published": "2024-11-15T00:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.bleepstatic.com/content/hl-images/2024/10/09/Palo-Alto-Networks.jpg",
+    "performance_score": 0,
+    "domain_rank": 1406,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "de1c7270bdb2718b6a71d1320460f852298cbd26",
+  "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sergiu Gatlan",
+  "published": "2024-11-15T00:01:00.000+02:00",
+  "title": "CISA warns of more Palo Alto Networks bugs exploited in attacks",
+  "text": "CISA warned today that two more critical security vulnerabilities in Palo Alto Networks' Expedition migration tool are now actively exploited in the wild.\nAttackers can use the two unauthenticated command injection ( CVE-2024-9463 ) and SQL injection ( CVE-2024-9465 ) vulnerabilities to hack into unpatched systems running the company's Expedition migration tool, which helps migrate configurations from Checkpoint, Cisco, and other supported vendors.\nWhile CVE-2024-9463 allows attackers to run arbitrary OS commands as root, exposing usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls, the second flaw can be exploited to access Expedition database contents (including password hashes, usernames, device configurations, and device API keys) and create or read arbitrary files on vulnerable systems.\nPalo Alto Networks is shipping security updates addressing these issues in Expedition 1.2.96 and later. The company advises admins who can't immediately update the software to restrict Expedition network access to authorized users, hosts, or networks.\n\"Multiple vulnerabilities in Palo Alto Networks Expedition allow an attacker to read Expedition database contents and arbitrary files, as well as write arbitrary files to temporary storage locations on the Expedition system,\" Palo Alto Networks added in a security advisory published in early October that still needs to be updated to warn customers that attackers are exploiting these vulnerabilities in the wild.\n\"Combined, these include information such as usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.\"\n\"All Expedition usernames, passwords, and API keys should be rotated after upgrading to the fixed version of Expedition. All firewall usernames, passwords, and API keys processed by Expedition should be rotated after updating,\" it added, saying that these security flaws do not affect its firewall, Panorama, Prisma Access, and Cloud NGFW products.\nFederal agencies ordered to patch within three weeks On Thursday, CISA added the two vulnerabilities to its Known Exploited Vulnerabilities Catalog , ordering federal agencies to patch Palo Alto Networks Expedition servers on their networks within three weeks, by December 5, as required by the binding operational directive ( BOD 22-01 ).\nOne week ago, the cybersecurity agency warned of another Expedition security flaw —a critical missing authentication vulnerability ( CVE-2024-5910 ) patched in July that can let threat actors reset application admin credentials—actively abused in attacks.\nEven though CISA has yet to provide more information on these ongoing attacks, proof-of-concept exploit code released by Horizon3.ai vulnerability researcher Zach Hanley last month can help chain CVE-2024-5910 with another command injection vulnerability ( CVE-2024-9464 ) patched in October to gain \"unauthenticated\" arbitrary command execution on vulnerable and Internet-exposed Expedition servers.\nCVE-2024-9464 can be chained with other Expedition flaws (also addressed last month) to take over firewall admin accounts and hijack unpatched PAN-OS firewalls.\nRelated Articles: CISA warns of critical Palo Alto Networks bug exploited in attacks\nOver 2,000 Palo Alto firewalls hacked using recently patched bugs\nPalo Alto Networks patches two firewall zero-days used in attacks\nPalo Alto Networks warns of potential PAN-OS RCE vulnerability\nPalo Alto Networks warns of firewall hijack bugs with public exploit",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "War, Conflict and Unrest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://nvd.nist.gov/vuln/detail/CVE-2024-9465",
+    "https://nvd.nist.gov/vuln/detail/CVE-2024-9464",
+    "https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://nvd.nist.gov/vuln/detail/CVE-2024-9463",
+    "https://security.paloaltonetworks.com/CVE-2024-5910",
+    "https://security.paloaltonetworks.com/PAN-SA-2024-0010",
+    "https://cyber.dhs.gov/bod/22-01/",
+    "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=Palo+Alto+Networks+Expedition&field_date_added_wrapper=all&field_cve=&sort_by=field_date_added&items_per_page=20&url=",
+    "https://github.com/horizon3ai/CVE-2024-9464",
+    "https://cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://www.github.com/horizon3ai/CVE-2024-9464",
+    "https://cyber.dhs.gov/bod/22-01",
+    "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+    "https://cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=Palo+Alto+Networks+Expedition&field_date_added_wrapper=all&field_cve=&sort_by=field_date_added&items_per_page=20&url=",
+    "https://www.security.paloaltonetworks.com/CVE-2024-5910",
+    "https://www.security.paloaltonetworks.com/PAN-SA-2024-0010",
+    "https://www.nvd.nist.gov/vuln/detail/CVE-2024-9464",
+    "https://www.nvd.nist.gov/vuln/detail/CVE-2024-9465",
+    "https://www.nvd.nist.gov/vuln/detail/CVE-2024-9463",
+    "https://www.cyber.dhs.gov/bod/22-01/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "CISA",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Cisco",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Networks",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T01:28:39.837+02:00",
+  "updated": "2024-11-22T04:32:03.939+02:00"
+}

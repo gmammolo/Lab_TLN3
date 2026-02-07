@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "d5b49f5a500983f00c94579be18bf06b954d33cb",
+    "url": "https://www.digitaltrends.com/computing/analysis-suggests-openai-flagship-model-only-performs-like-the-mini-version",
+    "site_full": "www.digitaltrends.com",
+    "site": "digitaltrends.com",
+    "site_section": "https://www.digitaltrends.com/topic/news",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Tech News | Digital Trends",
+    "title": "ChatGPT’s latest model may be a regression in performance | Digital Trends",
+    "title_full": "ChatGPT’s latest model may be a regression in performance | Digital Trends",
+    "published": "2024-11-21T21:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.digitaltrends.com/wp-content/uploads/2024/08/pexels-theshantanukr-16474955.jpg?resize=1200%2C630&amp;p=1",
+    "performance_score": 0,
+    "domain_rank": 745,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d5b49f5a500983f00c94579be18bf06b954d33cb",
+  "url": "https://www.digitaltrends.com/computing/analysis-suggests-openai-flagship-model-only-performs-like-the-mini-version",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Andrew Tarantola",
+  "published": "2024-11-21T21:24:00.000+02:00",
+  "title": "ChatGPT’s latest model may be a regression in performance | Digital Trends",
+  "text": "According to a new report from Artificial Analysis , OpenAI’s flagship large language model for ChatGPT , GPT-4o, has significantly regressed in recent weeks, putting the state-of-the-art model’s performance on par with the far smaller, and notably less capable, GPT-4o-mini model. This analysis comes less than 24 hours after the company announced an upgrade for the GPT-4o model . “The model’s creative writing ability has leveled up–more natural, engaging, and tailored writing to improve relevance & readability,” OpenAI wrote on X. “It’s also better at working with uploaded files, providing deeper insights & more thorough responses.” Whether those claims continue to hold up is now being cast in doubt.\nRecommended Videos “We have completed running our independent evals on OpenAI’s GPT-4o release yesterday and are consistently measuring materially lower eval scores than the August release of GPT-4o,” the Artificial Analysis announced via an X post on Thursday, noting that the model’s Artificial Analysis Quality Index decreased from 77 to 71 (and is now equal to that of GPT-4o mini).\nWhat’s more, GPT-4o’s performance on the GPQA Diamond benchmark decreased from 51% to 39% while its MATH benchmarks decreased from 78% to 69%.\nRelated ChatGPT’s new Pro subscription will cost you $200 per month ChatGPT explores ads as it works toward 1 billion users There’s a new way to use ChatGPT on your iPhone. Here’s how it works Simultaneously, the researchers discovered more than a doubling in the speed increase of the model’s responses, accelerating from around 80 output tokens per second to roughly 180 tokens/s. “We have generally observed significantly faster speeds on launch day for OpenAI models (likely due to OpenAI provisioning capacity ahead of adoption), but previously have not seen a 2x speed difference,” the researchers wrote.\nWait – is the new GPT-4o a smaller and less intelligent model?\nWe have completed running our independent evals on OpenAI’s GPT-4o release yesterday and are consistently measuring materially lower eval scores than the August release of GPT-4o.\nGPT-4o (Nov) vs GPT-4o (Aug):\n➤… pic.twitter.com/gjY2pBFuUv\n&mdash; Artificial Analysis (@ArtificialAnlys) November 21, 2024\n“Based on this data, we conclude that it is likely that OpenAI’s Nov 20th GPT-4o model is a smaller model than the August release,” they continued. “Given that OpenAI has not cut prices for the Nov 20th version, we recommend that developers do not shift workloads away from the August version without careful testing.”\nGPT-4o was first released in May 2024 to surpass the existing GPT-3.5 and GPT-4 models. GPT-4o offers state-of-the-art benchmark results in voice, multilingual, and vision tasks, according to OpenAI, making it ideal for advanced applications like real-time translation and conversational AI.\nEditors’ Recommendations ChatGPT unveils Sora with up to 20-second AI video generation Researchers call ChatGPT Search answers ‘confidently wrong’ OpenAI’s Sora was leaked in protest over allegations of ‘art washing’ ChatGPT prototypes its next strike against Google Search: browsers ChatGPT just improved its creative writing chops",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/OpenAI/status/1859296125947347164",
+    "https://x.com/ArtificialAnlys/status/1859614633654616310",
+    "https://artificialanalysis.ai/",
+    "https://stacksocial.com/sales/microsoft-office-professional-plus-2019-for-windows-3?aid=a-74m2oayh&utm_source=digitaltrends.com&utm_medium=referral&utm_campaign=microsoft-office-professional-plus-2019-for-windows-3_050224&utm_term=scsf-596109&utm_content=a0xRn0000014vFVIAY&scsonar=1",
+    "https://twitter.com/ArtificialAnlys/status/1859614633654616310?ref_src=twsrc%5Etfw",
+    "https://capi.connatix.com/tr/si?token=65fece0c-941b-4d77-b455-b6d23b01b35b&cid=2a2352ef-fe98-483c-8897-aef587823f13",
+    "https://t.co/gjY2pBFuUv",
+    "https://artificialanalysis.ai",
+    "https://www.x.com/ArtificialAnlys/status/1859614633654616310",
+    "https://www.t.co/gjY2pBFuUv",
+    "https://capi.connatix.com/tr/si",
+    "https://www.twitter.com/ArtificialAnlys/status/1859614633654616310?ref_src=twsrc%5Etfw",
+    "https://twitter.com/ArtificialAnlys/status/1859614633654616310",
+    "https://www.x.com/OpenAI/status/1859296125947347164",
+    "https://stacksocial.com/sales/microsoft-office-professional-plus-2019-for-windows-3",
+    "https://www.capi.connatix.com/tr/si?token=65fece0c-941b-4d77-b455-b6d23b01b35b&cid=2a2352ef-fe98-483c-8897-aef587823f13",
+    "https://www.artificialanalysis.ai/",
+    "https://www.stacksocial.com/sales/microsoft-office-professional-plus-2019-for-windows-3?aid=a-74m2oayh&utm_source=digitaltrends.com&utm_medium=referral&utm_campaign=microsoft-office-professional-plus-2019-for-windows-3_050224&utm_term=scsf-596109&utm_content=a0xRn0000014vFVIAY&scsonar=1"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "d5b49f5a500983f00c94579be18bf06b954d33cb",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T01:27:27.683+02:00",
+  "updated": "2024-12-12T13:31:26.297+02:00"
+}

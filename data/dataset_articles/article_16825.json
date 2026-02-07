@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "293d50cd57bb5edf34da10a2265be6b51db08cc3",
+    "url": "http://news.10jqka.com.cn/20250612/c668848808.shtml",
+    "site_full": "news.10jqka.com.cn",
+    "site": "10jqka.com.cn",
+    "site_section": "http://news.10jqka.com.cn/fssgsxw_list/",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "stocks"
+    ],
+    "section_title": "非上市公司新闻_财经_同花顺财经",
+    "site_title": null,
+    "title": "夸克推出高考志愿大模型",
+    "title_full": "夸克推出高考志愿大模型",
+    "published": "2025-06-12T11:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 7186,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "293d50cd57bb5edf34da10a2265be6b51db08cc3",
+  "url": "http://news.10jqka.com.cn/20250612/c668848808.shtml",
+  "ord_in_thread": 0,
+  "author": "经济参考网",
+  "published": "2025-06-12T11:15:00.000+03:00",
+  "title": "夸克推出高考志愿大模型",
+  "text": "6月12日，夸克发布为高考志愿填报场景开发的高考志愿大模型，并同步上线“高考深度搜索”“志愿报告”“智能选志愿”三大核心功能。产品依托于自研高考志愿大模型和专业的高考知识库，实现了从复杂问题询问到志愿报告输出的整个辅助决策流程。\n　　其中，“志愿报告”是可以生成完整报告的智能Agent，目前已开放试用。考生完善12个信息点，如院校偏好、专业兴趣、升学与职业规划等，便可建立个人信息档案。点击“领取报告”后，Agent会通过“任务规划—执行—检查—反思”的链式推理流程，为考生输出一份包括填报策略、志愿表、院校专业推荐说明等内容的完整报告。\n　　另一项核心功能是“高考深度搜索”。它专为处理个性化、开放式提问设计，能够理解复杂问题和拆解用户需求，并给出专业、可执行的建议。此外，“智能选志愿”功能是考生使用最频繁的功能。在输入省份、科目、成绩和排名后，系统会自动推荐三种方案，考生还可以进一步明确自己的个性化需求，进行筛选。在融入AI能力后，可以直接呈现目标院校/专业的特色优势，方便考生快速了解。\n　　据悉，为了确保高考志愿大模型依赖的数据准确、实时、权威，夸克构建了一套结构严谨的“高考知识库”。知识库覆盖全国2900多所高校、近1600个本科专业。\n　　夸克高考产品经理郏海峰介绍，夸克今年将算力投入扩大了100倍，并继续坚持免费提供服务，以确保产品能够满足海量用户的需求。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Education",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Education->college and university",
+    "Education->educational testing and examinations",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-12T11:28:58.509+03:00",
+  "updated": "2025-06-12T08:35:07.000+00:00"
+}

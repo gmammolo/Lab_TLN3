@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "863bfa2bec4fc553f235c6a5bb6c7e122b7980f0",
+    "url": "https://tiinside.com.br/09/01/2025/nova-versao-de-malware-ressurge-usando-codigo-do-antivirus-da-apple",
+    "site_full": "tiinside.com.br",
+    "site": "tiinside.com.br",
+    "site_section": "https://www.tiinside.com.br",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Home | TI INSIDE Online",
+    "title": "Nova versão de malware ressurge usando código do antivírus da Apple",
+    "title_full": "Nova versão de malware ressurge usando código do antivírus da Apple",
+    "published": "2025-01-09T22:58:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 74326,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "863bfa2bec4fc553f235c6a5bb6c7e122b7980f0",
+  "url": "https://tiinside.com.br/09/01/2025/nova-versao-de-malware-ressurge-usando-codigo-do-antivirus-da-apple",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Redação",
+  "published": "2025-01-09T22:58:00.000+02:00",
+  "title": "Nova versão de malware ressurge usando código do antivírus da Apple",
+  "text": "A Check Point Research descobriu uma nova versão e ainda mais oculta do Banshee Stealer para macOS, inicialmente relatada no final de 2024. Uma das inovações observadas na versão mais recente deste malware de roubo de informações ( infostealer ) foi a introdução de criptografia de sequência de caracteres ( strings ), retirada do XProtect da Apple. Isso provavelmente fez com que os sistemas de detecção de antivírus ignorassem o malware, tornando-o uma ameaça mais potente para os usuários.\nEmbora o código-fonte do Banshee Stealer tenha vazado em novembro de 2024 e sua operação tenha sido oficialmente encerrada, os pesquisadores da CPR identificaram campanhas ativas distribuindo o malware por meio de sites de phishing. Para agravar a ameaça, uma nova versão do Banshee foi detectada, com capacidade de roubar dados sensíveis e informações de carteiras de criptomoedas de usuários de macOS.\nCom o aumento da popularidade dos dispositivos macOS, que hoje contam com um número de usuários de macOS ultrapassando 100 milhões , eles estão se tornando alvos prioritários para cibercriminosos. O aumento de ameaças sofisticadas como o Banshee macOS Stealer destaca a importância de atenção redobrada e medidas proativas de segurança cibernética.\nEssa descoberta destaca o perigo contínuo de malwares cujo código foi vazado, que continuam alimentando ataques cibernéticos mesmo após o encerramento oficial de suas operações. À medida que cresce o uso de carteiras de criptomoedas em dispositivos macOS, torna-se ainda mais crucial que os usuários adotem medidas proativas de cibersegurança. Embora o XProtect forneça uma defesa valiosa, a sofisticação crescente dos malwares exige maior vigilância e camadas adicionais de segurança para proteger contra ameaças emergentes.\nO malware Banshee Stealer tem como alvo uma ampla gama de dados pessoais, expondo dados críticos e incluindo credenciais de carteiras de criptomoedas. As carteiras populares em dispositivos macOS, como Trust Wallet, MetaMask e Coinbase Wallet, estão entre os principais alvos. De acordo com um relatório da Dune Analytics , a Trust Wallet conta com cerca de 170 milhões de usuários em todo o mundo, com aproximadamente 2,5 milhões de novos usuários a cada mês.\nAlém do perigo da ciberameaça, há o impacto para as empresas, as quais devem reconhecer os riscos mais amplos representados pelo malware moderno, incluindo violações de dados dispendiosas que comprometem informações confidenciais e prejudicam reputações, ataques direcionados a carteiras de criptomoedas que ameaçam ativos digitais e interrupções operacionais causadas por malware oculto que evita a detecção e causa danos a longo prazo antes de ser identificado.\nComo o Banshee Stealer opera\nA funcionalidade do Banshee Stealer revela uma sofisticação por trás dos malwares modernos. Uma vez instalado, este malware:\n– Rouba dados do sistema: Alvo de navegadores como Chrome, Brave, Edge e Vivaldi, além de extensões de navegador para carteiras de criptomoedas. Explora uma extensão de autenticação em dois fatores (2FA) para capturar credenciais sensíveis. Também coleta detalhes de software e hardware, endereços IP externos e senhas do macOS.\n– Engana os usuários: Utiliza pop-ups convincentes que se parecem com prompts legítimos do sistema para enganar os usuários e induzi-los a inserir suas senhas do macOS.\n– Evita detecção: Emprega técnicas contra análises para escapar de ferramentas de depuração e mecanismos de antivírus.\n– Exfiltra dados: Envia as informações roubadas para servidores de comando e controle por meio de arquivos criptografados e codificados.\nOs pesquisadores da Check Point Software verificaram ainda que uma das mudanças significativas na versão mais recente do Banshee Stealer foi a remoção da verificação de idioma russo. Antes, o malware encerrava suas operações ao detectar configurações de idioma russo.\nEssa alteração indica uma mudança notável na estratégia de direcionamento, sugerindo que o malware agora está sendo utilizado por novos agentes de ameaça que não têm preocupação em atingir usuários russos. Diferentemente dos operadores originais, que evitavam deliberadamente alvos na Rússia, esses novos grupos parecem não ter restrições geográficas ou políticas, ampliando ainda mais o alcance potencial do malware e intensificando sua ameaça global.\n\"O macOS está exposto a ataques assim como qualquer outro sistema operacional. Historicamente, era considerado mais seguro que o Windows, mas essa percepção está mudando gradualmente. Campanhas modernas de malware, que visam tanto usuários de macOS quanto de Windows, estão se tornando mais sofisticadas. Cibercriminosos dependem fortemente de técnicas de engenharia social, como phishing e atualizações de software falsas, para enganar os usuários e induzi-los a baixar softwares maliciosos. Esses ataques não se limitam a um único sistema operacional, pois eles exploram vulnerabilidades humanas comuns, e não as falhas específicas de plataforma\", explica Eli Smadja, gerente do Grupo de Pesquisa em Segurança da CPR.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Health"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.spyhunter.com/shm/macos-stats/#:~:text=66%25-,Global%20Mac%20user%20base%20and%20market%20share,seamlessly%20with%20other%20Apple%20products.",
+    "https://dune.com/ax1research/trust-wallet-revenue?utm_source=chatgpt.com",
+    "https://dune.com/ax1research/trust-wallet-revenue",
+    "https://spyhunter.com/shm/macos-stats/#:~:text=66%25-,Global%20Mac%20user%20base%20and%20market%20share,seamlessly%20with%20other%20Apple%20products.",
+    "https://www.dune.com/ax1research/trust-wallet-revenue?utm_source=chatgpt.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:59:42.438+02:00",
+  "updated": "2025-01-10T01:59:42.438+02:00"
+}

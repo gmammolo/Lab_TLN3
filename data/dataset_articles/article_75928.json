@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "8228121ffcdfb0d1d6d7e442a15fa216b240092d",
+    "url": "https://answers.ea.com/t5/Discusion-General/Problema-de-rendimiento-EA-FC-25/m-p/14384540",
+    "site_full": "answers.ea.com",
+    "site": "ea.com",
+    "site_section": "http://answers.ea.com//ea/rss/Community?interaction.style=forum",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "New product topics in Answer HQ",
+    "title": "Problema de rendimiento EA FC 25 - Answer HQ",
+    "title_full": "Problema de rendimiento EA FC 25 - Answer HQ",
+    "published": "2025-01-10T03:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://help.ea.com/ahq-assets/images/open-graph/AHQ-card.png",
+    "performance_score": 0,
+    "domain_rank": 783,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8228121ffcdfb0d1d6d7e442a15fa216b240092d",
+  "url": "https://answers.ea.com/t5/Discusion-General/Problema-de-rendimiento-EA-FC-25/m-p/14384540",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "zapapa2",
+  "published": "2025-01-10T03:26:00.000+02:00",
+  "title": "Problema de rendimiento EA FC 25 - Answer HQ",
+  "text": "Hola.\nCompré hace poco el juego para PC a través de la tienda EA, sin embargo estoy teniendo un rendimiento pésimo. En el modo \"temporadas\", que es el que me gusta jugar, tengo un lag muy molesto que lo hace injugable. Mencionar que juego hace tiempo al FC 24 y nunca he tenido ningún problema.\nMi equipo es:\n -i5 10400F\n -32GB RAM\n -NVIDIA RTX 3060\n -Win10\nAdjunto un vídeo grabado para esta consulta, noten cómo el juego parece tener mas lag cuanto mas movimiento tenga el balón.\nVídeo: https://www.youtube.com/watch?v=TvOIHnjwTAM\nHe probado distintas configuraciones del juego y del panel de NVIDIA, pero el problema persiste, el lag se mantiene en los partidos online cuando el balón se mueve. Insisto en que con la versión anterior nunca tuve ningún problema similar. ¿Hay alguna configuración que no haya tenido en cuenta?, ¿a alguien de ustedes le ocurre lo mismo?, ¿se les ocurre algo que pueda hacer?\n¡Muchísimas gracias por su tiempo y tengan un buen día!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Social Issue->communities",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.youtube.com/watch?v=TvOIHnjwTAM",
+    "http://youtube.com/watch?v=TvOIHnjwTAM",
+    "http://www.youtube.com/watch"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "EA",
+        "sentiment": "negative"
+      },
+      {
+        "name": "NVIDIA",
+        "sentiment": "none"
+      },
+      {
+        "name": "FC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T04:02:36.710+02:00",
+  "updated": "2025-01-10T04:02:36.710+02:00"
+}

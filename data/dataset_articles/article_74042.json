@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "42a8e42bd5a066fe4f4a94d44747ab5a12bd9d32",
+    "url": "https://thecyberexpress.com/high-severity-vulnerability-in-cisco-ece",
+    "site_full": "thecyberexpress.com",
+    "site": "thecyberexpress.com",
+    "site_section": "https://thecyberexpress.com",
+    "site_categories": [],
+    "section_title": "The Cyber Express #1 Trusted Cybersecurity News Site",
+    "title": "Cisco ECE Vulnerability Could Trigger DoS, CERT-In Alerts",
+    "title_full": "Cisco ECE Vulnerability Could Trigger DoS, CERT-In Alerts",
+    "published": "2024-11-15T10:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://thecyberexpress.com/wp-content/uploads/Vulnerability-CVE-2023-46359.webp",
+    "performance_score": 0,
+    "domain_rank": 76710,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "42a8e42bd5a066fe4f4a94d44747ab5a12bd9d32",
+  "url": "https://thecyberexpress.com/high-severity-vulnerability-in-cisco-ece",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@TheCyberExpress",
+  "published": "2024-11-15T10:45:00.000+02:00",
+  "title": "Cisco ECE Vulnerability Could Trigger DoS, CERT-In Alerts",
+  "text": "The Computer Emergency Response Team of India (CERT-In) has issued a high-severity alert regarding a newly identified vulnerability in Cisco’s Enterprise Chat and Email (ECE) platform. Tagged as CERT-In Vulnerability Note CIVN-2024-0339, this vulnerability could allow an unauthenticated, remote attacker to cause a Denial of Service (DoS) attack on affected [Cisco systems](https://thecyberexpress.com/vulnerability-in-adaptive-security-appliance/). This notice primarily targets IT administrators and individuals responsible for securing and maintaining Cisco ECE systems. Who is Affected? This vulnerability primarily impacts IT administrators and individuals tasked with maintaining or securing [Cisco Enterprise Chat and Email systems](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ece-dos-Oqb9uFEv). For those responsible for Cisco ECE, it’s essential to check if EAAS is active. To verify, log into the System Console, navigate to Partitions > Partition > Services > Unified CCE > EAAS > Instances, and confirm if an EAAS instance is running. Systems running EAAS are vulnerable to this [security](https://thecyberexpress.com/) risk. Overview of the Vulnerability The issue stems from insufficient validation of Media Routing Peripheral Interface Manager (MR PIM) traffic. An unauthenticated attacker, operating remotely, could exploit this [vulnerability](https://thecyberexpress.com/firewall-daily/vulnerabilities/) by sending specifically crafted MR PIM traffic to the affected system. This results in a failure of the MR PIM connection between Cisco ECE and the Cisco Unified Contact Centre Enterprise (CCE), which in turn disrupts EAAS functions. The [vulnerability](https://thecyberexpress.com/command-injection-vulnerability-in-cisco-urwb/) can lead to a Denial of Service (DoS) condition, effectively disabling the EAAS feature and preventing customers from initiating chat, callback, or delayed callback sessions. While regular operation can be restored by restarting the EAAS process manually, this interruption poses significant service disruption [risks](https://thecyberexpress.com/what-are-risks-in-cybersecurity/) for organizations relying on real-time customer service solutions through Cisco ECE. Cisco’s Response and Solutions - Advisory and Fix Cisco has responded with an advisory (ID: cisco-sa-ece-dos-Oqb9uFEv) detailing the vulnerability, which includes a recommendation to upgrade affected software to a fixed release. The vulnerability is assigned CVE-2024-20484 with a CVSS base score of 7.5, emphasizing the high impact of this flaw. - Affected Products Only Cisco ECE systems configured to use EAAS are affected. Customers can verify EAAS configurations through the System Console as noted earlier. - No Available Workarounds Currently, there are no temporary solutions or workarounds to mitigate this vulnerability. The only effective measure is upgrading to the appropriate fixed software version as released by Cisco. - Fixed Releases [Cisco](https://thecyberexpress.com/cisco-un-convention-against-cybercrime/)has issued updates that address the vulnerability. Here is a breakdown of the recommended upgrades:Cisco ECE Release First Fixed Release Earlier than 12.5 Migrate to a fixed release 12.5 12.5(1) ES9 12.6 12.6(1) ES9 ET3 It is recommended for customers to update to these versions to ensure security against this vulnerability. Next Steps for Cisco Users - For Contracted Customers Customers with an active Cisco service contract can access these updates through the usual software update channels. Those entitled to service contracts may access security patches and support without additional fees, but they must abide by the Cisco software license terms. - For Non-Contracted Customers If you purchased Cisco products directly or through an authorized reseller but do not have a service contract, you can still obtain updates by contacting Cisco Technical Assistance Center (TAC). Be sure to provide the product serial number and a reference to this advisory to verify your eligibility for a free upgrade. - Licensing and Installation When downloading these updates, ensure that your device’s configurations are compatible with the new releases. For those uncertain, Cisco recommends reaching out to their support team or the TAC. All updates should be acquired through authorized channels to avoid issues with licensing or support. Key Security Recommendations - Prioritize Immediate Updates IT administrators should prioritize upgrading affected Cisco ECE systems to the versions specified. Given the high severity rating, this vulnerability represents a substantial risk to uninterrupted service. - Verify EAAS Configuration Confirm that EAAS is active on your Cisco ECE system. If you are not using EAAS, your system may not be affected, but it’s recommended to still monitor for updates and further advisories. - Monitor for Further Security Notices Cisco regularly releases[updates](https://thecyberexpress.com/antidot-android-banking-trojan/)and advisories for various security vulnerabilities. IT teams should routinely check Cisco’s security advisories for new information that may impact their systems and infrastructures. - Manually Restart EAAS if Affected by DoS In cases where a system is impacted by this vulnerability, users will need to restart the EAAS process manually. This can be done via the System Console by selecting Shared Resources > Services > Unified CCE > EAAS, then clicking “Start.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ece-dos-Oqb9uFEv).",
+    "https://www.sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ece-dos-Oqb9uFEv)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Cisco ECE",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T11:59:34.786+02:00",
+  "updated": "2024-11-15T11:59:34.786+02:00"
+}

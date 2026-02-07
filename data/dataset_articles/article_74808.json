@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "69a4ead22113846f8a0851f9531f77dd4d31d8f2",
+    "url": "https://securityonline.info/sync-scheduler-malware-unveiling-a-sophisticated-espionage-attack",
+    "site_full": "securityonline.info",
+    "site": "securityonline.info",
+    "site_section": "https://www.securityonline.info",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Cybersecurity News • Cybersecurity Daily",
+    "title": "Sync-Scheduler Malware: Unveiling a Sophisticated Espionage Attack",
+    "title_full": "Sync-Scheduler Malware: Unveiling a Sophisticated Espionage Attack",
+    "published": "2024-11-22T03:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 127458,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "69a4ead22113846f8a0851f9531f77dd4d31d8f2",
+  "url": "https://securityonline.info/sync-scheduler-malware-unveiling-a-sophisticated-espionage-attack",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "do son",
+  "published": "2024-11-22T03:28:00.000+02:00",
+  "title": "Sync-Scheduler Malware: Unveiling a Sophisticated Espionage Attack",
+  "text": "In a detailed report, the BlackBerry Research and Intelligence Team has revealed a highly targeted cyber espionage campaign against the Pakistan Navy, executed by a sophisticated and likely state-sponsored threat actor. The campaign leveraged typosquatted domains, malicious email extensions, and a stealthy information-stealing malware dubbed Sync-Scheduler.\n\\nThe operation began with a PDF lure, masquerading as an internal Pakistan Navy IT memo for configuring secure email communication with Axigen Thunderbird. Embedded within the document was a malicious URL designed to mimic legitimate Pakistan Navy domains, exploiting typosquatting to trick users. The fake URL\\u2014hxxps://paknavy[.]rf[.]gd\\u2014closely resembled the official domain but led to a server hosting a malicious Thunderbird extension.\n\\nThe malicious extension, once installed, posed as a legitimate tool titled \\u201cMail Files Downloader.\\u201d BlackBerry\\u2019s analysis revealed : \\u201c The extension then displays a login form designed specifically for \\u201c@paknavy.gov.pk\\u201d email addresses, misleading the victim into believing that upon entering their credentials they will be able to access and download their emails .\\u201d\n\\n Pakistan Navy initial lure document | Image: BlackBerry\n\\nAt the heart of the operation was Sync-Scheduler , a sophisticated information-stealing malware designed to exfiltrate sensitive documents. Authored in C++ with advanced anti-analysis features, Sync-Scheduler targets specific file types, such as .docx , .pdf , and .xlsx , organizing them for exfiltration. The malware also employs robust evasion techniques, including:\n\\n \\n Dynamic Decryption: Data is decrypted only during runtime to avoid detection. \\n Persistence Mechanisms: Scheduled tasks masquerading as legitimate processes like OneDrive and WindowsUpdate \\n \\nBlackBerry researchers noted that Sync-Scheduler\\u2019s core functionality\\u2014exfiltration of documents\\u2014remained consistent with earlier versions identified in campaigns dating back to mid-2023.\n\\nWhile attribution remains inconclusive, BlackBerry identified overlaps in tactics with two prominent groups:\n\\n \\n SideWinder: Known for targeting Pakistani government entities with similar phishing and credential harvesting techniques. \\n APT Bitter: A South Asian group suspected of espionage campaigns against Pakistan and other regional targets. \\n \\nBlackBerry cautioned: \\u201cDespite these overlaps and indications for both groups, at the time of writing this we do not feel there is a strong enough body of evidence to warrant a positive attribution to either of these groups, and will therefore consider this campaign as being perpetuated by an unknown group or nexus.\\u201d\n\\nThis targeted attack on the Pakistan Navy demonstrates the persistent risks posed by state-sponsored cyber espionage campaigns. By leveraging sophisticated tools like Sync-Scheduler and deceptive techniques like typosquatting, the adversaries showcased a high degree of skill and planning.\n\\n Related Posts: \\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blogs.blackberry.com/en/2024/11/suspected-nation-state-adversary-targets-pakistan-navy-in-cyber-espionage-campaign",
+    "https://www.blogs.blackberry.com/en/2024/11/suspected-nation-state-adversary-targets-pakistan-navy-in-cyber-espionage-campaign"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "BlackBerry Research and Intelligence Team",
+        "sentiment": "none"
+      },
+      {
+        "name": "Pakistan Navy",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T05:04:41.106+02:00",
+  "updated": "2024-11-22T05:04:41.106+02:00"
+}

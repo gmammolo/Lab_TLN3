@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "c4faefff8a80bfcabaa34752374539fc4a3967c9",
+    "url": "https://www.oschina.net/news/392052",
+    "site_full": "www.oschina.net",
+    "site": "oschina.net",
+    "site_section": "https://www.oschina.net/news/rss",
+    "site_categories": [
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "OSCHINA 社区最新新闻",
+    "site_title": "OSCHINA - 中文开源技术交流社区",
+    "title": "Groq 与英伟达达成非独家推理技术授权协议 - OSCHINA - 中文开源技术交流社区",
+    "title_full": "Groq 与英伟达达成非独家推理技术授权协议 - OSCHINA - 中文开源技术交流社区",
+    "published": "2025-12-24T18:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 17495,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c4faefff8a80bfcabaa34752374539fc4a3967c9",
+  "url": "https://www.oschina.net/news/392052",
+  "ord_in_thread": 0,
+  "author": "年度开源项目评选中，看看都有啥",
+  "published": "2025-12-24T18:00:00.000+02:00",
+  "title": "Groq 与英伟达达成非独家推理技术授权协议 - OSCHINA - 中文开源技术交流社区",
+  "text": "推广 | AI 算力1折起，加速 AI 应用落地 Groq 宣布 已与英伟达就其推理技术达成非独家授权协议。该协议体现了双方共同致力于拓展高性能、低成本推理技术的应用范围。\n根据协议条款， Groq创始人Jonathan Ross、总裁Sunny Madra及团队成员将加入英伟达，共同推进授权技术的升级与规模化应用 。\nGroq将继续作为独立公司运营，由Simon Edwards出任首席执行官。GroqCloud服务将保持正常运行，不受影响。\n此前有报道称，英伟达将以大约200亿美元收购人工智能芯片初创公司Groq，这将是英伟达迄今为止规模最大的一笔收购。但英伟达很快表示，并没有收购Groq，只是达成了技术许可，使用Groq的推理技术而已。\n公开资料显示，成立于2016年的Groq由谷歌TPU核心开发者Jonathan Ross创立，公司自研的LPU推理芯片是本次合作的核心价值所在。区别于英伟达通用型GPU，LPU专为AI推理场景深度优化，凭借确定性架构、片上SRAM内存设计等核心技术，实现了超低延迟、超高能效与极速推理速度。\n在主流大语言模型运行中，LPU推理速度可达英伟达H100 GPU的5至18倍，首token响应时间仅0.2秒，还能有效降低算力成本，解决传统GPU在推理环节的“内存墙”与高延迟问题。\n对英伟达而言，通过“非独占技术许可+ 核心人才吸纳”的方式，可快速补全其AI推理短板、巩固全栈优势，同时降低收购风险，更好地应对来自谷歌TPU、微软Azure Maia的竞争。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://click.aliyun.com/m/1000408998/",
+    "https://www.click.aliyun.com/m/1000408998/",
+    "https://click.aliyun.com/m/1000408998"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T08:43:16.251+02:00",
+  "updated": "2025-12-25T08:46:56.000+02:00"
+}

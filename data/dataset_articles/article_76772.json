@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "a1791da106e1da053e7fda10f99926b1e7c9083c",
+    "url": "https://informationsecuritybuzz.com/six-new-windows-vulnerabilities-found-including-first-rust-based-kernel-flaw/",
+    "site_full": "informationsecuritybuzz.com",
+    "site": "informationsecuritybuzz.com",
+    "site_section": "https://informationsecuritybuzz.com/feed",
+    "site_categories": [],
+    "section_title": "Information Security Buzz",
+    "site_title": "Information Security Buzz",
+    "title": "Six New Windows Vulnerabilities Found, Including First Rust-Based Kernel Flaw",
+    "title_full": "Six New Windows Vulnerabilities Found, Including First Rust-Based Kernel Flaw",
+    "published": "2025-08-14T08:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://informationsecuritybuzz.com/wp-content/uploads/Six-New-Windows-Vulnerabilities.jpg",
+    "performance_score": 0,
+    "domain_rank": 108866,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a1791da106e1da053e7fda10f99926b1e7c9083c",
+  "url": "https://informationsecuritybuzz.com/six-new-windows-vulnerabilities-found-including-first-rust-based-kernel-flaw/",
+  "ord_in_thread": 0,
+  "author": "Kirsten Doyle",
+  "published": "2025-08-14T08:45:00.000+03:00",
+  "title": "Six New Windows Vulnerabilities Found, Including First Rust-Based Kernel Flaw",
+  "text": "Six new vulnerabilities have been found in Microsoft Windows. One is critical. All are serious.\nCheck Point Research discovered the flaws and disclosed them privately to Microsoft. Patches were released on 12 August as part of Patch Tuesday.\nThe risks are varied: system crashes, arbitrary code execution, and information leaks. For attackers, the attack surface is wide. For defenders, the response must be immediate.\nOne flaw is notable beyond its severity. It may be the first publicly disclosed vulnerability in a Rust-based component of the Windows kernel. Rust was introduced to improve memory safety, a longstanding challenge in operating systems.\nBut here, the flaw was not a traditional memory bug. Rust detected an underlying condition, and instead of handling it quietly, the system responded with a complete crash.\nA kernel-level crash leaves no room for recovery. The machine stops. Unsaved work is lost. For a single device, this is inconvenient. For an enterprise with thousands of endpoints, it can mean hours of interruption, loss of productivity, and a scramble to restore operations. The promise of safer code does not remove the need for relentless testing and rapid remediation.\nTwo other vulnerabilities deserve close attention. Both are memory corruption flaws that allow arbitrary code execution. One carries a critical severity rating. Exploitation is straightforward: an attacker delivers a specially crafted file, the user opens it, and the malicious payload executes. From there, the attacker gains the ability to run any code, deploy remote access tools, exfiltrate data, or install persistence mechanisms that survive reboots.\nThe remaining vulnerabilities focus on information disclosure. While these often require local access, one case is different. CVE-2025-47984 allows a memory leak over the network. Sensitive information could be exposed without an attacker ever touching the physical device. This type of flaw can serve as a stepping stone, revealing tokens, credentials, or other artifacts that enable deeper intrusions.\nThe implications are broader than the six CVEs. Even in mature, widely deployed platforms, weaknesses continue to emerge. New programming languages reduce certain classes of errors but cannot eliminate them entirely. Complexity remains the enemy.\nThe defensive measures are familiar yet vital. Apply the August updates without delay. Monitor networks for suspicious activity. Reduce the window of exposure before these vulnerabilities are weaponized.\nCheck Point customers already have protections in place. Our solutions detect and block attempts to exploit these flaws, maintaining coverage even before official patches are deployed.\nSecurity is not a fixed state. It is a cycle, discover, patch, adapt. Each vulnerability closed today is another challenge deferred to tomorrow. That cycle will not end. But it can be managed. And for defenders, that management is the difference between resilience and compromise.\nInformation Security Buzz News Editor\nKirsten Doyle has been in the technology journalism and editing space for nearly 24 years, during which time she has developed a great love for all aspects of technology, as well as words themselves. Her experience spans B2B tech, with a lot of focus on cybersecurity, cloud, enterprise, digital transformation, and data centre. Her specialties are in news, thought leadership, features, white papers, and PR writing, and she is an experienced editor for both print and online publications.\nThe opinions expressed in this post belong to the individual contributors and do not necessarily reflect the views of Information Security Buzz.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Health"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Health->health care approach",
+    "Health->medical condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blog.checkpoint.com/research/microsoft-vulnerabilities-exposed-by-check-point-research/",
+    "https://www.blog.checkpoint.com/research/microsoft-vulnerabilities-exposed-by-check-point-research/",
+    "https://blog.checkpoint.com/research/microsoft-vulnerabilities-exposed-by-check-point-research"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "MSFT",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:02:54.474+03:00",
+  "updated": "2025-08-14T09:14:35.000+03:00"
+}

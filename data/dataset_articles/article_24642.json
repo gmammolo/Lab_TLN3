@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "c27de670cf789d2933c1e09c0a558b1f0eaa6e15",
+    "url": "https://hackaday.com/2024/10/03/a-lightweight-balloon-tracker-for-high-altitude-missions",
+    "site_full": "hackaday.com",
+    "site": "hackaday.com",
+    "site_section": "http://feeds.feedburner.com/hackaday/LgoM?format=xml",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Hackaday",
+    "title": "A Lightweight Balloon Tracker For High Altitude Missions",
+    "title_full": "A Lightweight Balloon Tracker For High Altitude Missions",
+    "published": "2024-10-04T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://hackaday.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-210638-e1727694418516.png",
+    "performance_score": 0,
+    "domain_rank": 2636,
+    "domain_rank_updated": "2024-10-01T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c27de670cf789d2933c1e09c0a558b1f0eaa6e15",
+  "url": "https://hackaday.com/2024/10/03/a-lightweight-balloon-tracker-for-high-altitude-missions",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lewin Day",
+  "published": "2024-10-04T03:00:00.000+03:00",
+  "title": "A Lightweight Balloon Tracker For High Altitude Missions",
+  "text": "It’s pretty easy to take a balloon, fill it up with helium, and send it up in to the upper atmosphere. It’s much harder to keep track of it and recover it when it falls back to Earth. If you’re trying to do that, you might find some value in the Tiny4FSK project from the New England Weather Balloon Society.\nTiny4FSK is intended to be a very small solution for high-altitude tracking. As you might have guessed from the name, it communicates via 4FSK—four frequency shift keying. Basically, it communicates data via four separate tones. Based around the SAMD21G18A microcontroller, it’s designed to run on a single AA battery, which should last for anywhere from 10-17 hours. It communicates via a Si4063 transmitter set up to communicate on 433.2 MHz, using the Horus Binary v2 system . As for data, it’s hooked up with a GPS module and a BME280 environmental sensor for location. The balloon can figure out where it is, and tell you the temperature, pressure, and humidity up there, too.\nIf you’re looking for a lightweight balloon tracker, this one might be very much up your alley. We’ve featured other projects in this vein, too. Meanwhile, if you’re developing something new in the high-altitude ballooning space, you could keep it to yourself. Or, alternatively, you could tell us via the tipsline and we’ll tell everybody else. Your call!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK",
+    "https://github.com/projecthorus/horusdemodlib/wiki/2---Modem-Details#horus-binary-v1-mode-4-fsk",
+    "https://www.github.com/New-England-Weather-Balloon-Society/Tiny4FSK",
+    "https://www.github.com/projecthorus/horusdemodlib/wiki/2---Modem-Details#horus-binary-v1-mode-4-fsk"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-04T06:17:14.528+03:00",
+  "updated": "2024-10-04T07:01:09.500+03:00"
+}

@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "144dcb7de2f49375a766e9037443cba3bd683143",
+    "url": "https://www.infosecurity-magazine.com/news/palo-alto-confirms-new-0day",
+    "site_full": "www.infosecurity-magazine.com",
+    "site": "infosecurity-magazine.com",
+    "site_section": "https://infosecurity-magazine.com/",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "\r\n\tInfosecurity Magazine - Information Security & IT Security News and Resources\r\n",
+    "title": "Palo Alto Networks Confirms New Zero-Day Being Exploited by Threat Act - Infosecurity Magazine",
+    "title_full": "Palo Alto Networks Confirms New Zero-Day Being Exploited by Threat Act - Infosecurity Magazine",
+    "published": "2024-11-15T17:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.infosecurity-magazine.com/webpage/og/d37c4392-ddcc-4a63-a5b7-83ddc87c5161.jpg",
+    "performance_score": 0,
+    "domain_rank": 5450,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "144dcb7de2f49375a766e9037443cba3bd683143",
+  "url": "https://www.infosecurity-magazine.com/news/palo-alto-confirms-new-0day",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kevin Poireault",
+  "published": "2024-11-15T17:30:00.000+02:00",
+  "title": "Palo Alto Networks Confirms New Zero-Day Being Exploited by Threat Act - Infosecurity Magazine",
+  "text": "An unauthenticated remote code execution (RCE) vulnerability against Palo Alto Networks’ internet-exposed firewall management interfaces is actively being exploited, according to the cybersecurity provider.\nOn November 8, Palo Alto published a security advisory to warn of a zero-day vulnerability affecting some of its PAN-OS firewall management interfaces.\nThe flaw is an unauthenticated RCE vulnerability affecting internet-exposed new-generation firewall (NGFW) internet management interfaces.\nCVSS Score of 9.3 Although the vulnerability has not yet been allocated a CVE, Palo Alto assessed it as critical, with a CVSS of 9.3.\nHowever, the vulnerability only affects public-facing NGFW management interfaces. The manufacturer believes neither Prisma Access nor Cloud NGFW are affected.\n“If the management interface access is restricted to IPs, the risk of exploitation is greatly limited, as any potential attack would first require privileged access to those IPs. CVSS for this scenario is 7.5 High,” added the company.\nWhile Palo Alto did not initially mention any threat activity related to this new vulnerability, the firm updated its advisory on November 14 to confirm it has now observed in-the-wild exploitation.\nRead more about Palo Alto zero-days: Palo Alto Networks Warns About Critical Zero-Day in PAN-OS\nPalo Alto Working on a Patch Palo Alto informed customers that it is actively developing patches and threat prevention signatures, which are expected to be released soon.\n“We strongly recommend customers to ensure access to your management interface is configured correctly in accordance with our recommended best practice deployment guidelines,” Palo Alto added in its advisory .\nThis comes only days after the US Cybersecurity and Infrastructure Security Agency (CISA) added another vulnerability affecting a Palo Alto product – this time Palo Alto Expedition (CVE-2024-5910) – to its Known Exploited Vulnerability (KEV) catalog.\nFortinet, another firewall provider, has also experienced the disclosure of several zero-day vulnerabilities being actively exploited in the past month.\nPhoto credit: Michael Vi/Tada Images/Shutterstock",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fpalo-alto-confirms-new-0day%2f",
+    "https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fpalo-alto-confirms-new-0day%2f",
+    "https://security.paloaltonetworks.com/PAN-SA-2024-0015",
+    "https://x.com/intent/tweet",
+    "https://www.security.paloaltonetworks.com/PAN-SA-2024-0015",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://www.x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fpalo-alto-confirms-new-0day%2f",
+    "https://cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+    "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fpalo-alto-confirms-new-0day%2f"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:42:57.872+02:00",
+  "updated": "2024-11-22T20:01:53.668+02:00"
+}

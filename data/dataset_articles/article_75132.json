@@ -1,0 +1,66 @@
+{
+  "thread": {
+    "uuid": "753f637df8874ab0ffa840cc72c2cbf0f7a37cb6",
+    "url": "https://community.fly.io/t/another-console-bug-vm-memory-isnt-getting-picked-up/22744",
+    "site_full": "community.fly.io",
+    "site": "fly.io",
+    "site_section": "https://community.fly.io/latest.rss",
+    "site_categories": [],
+    "section_title": "Fly.io - Latest topics",
+    "title": "Another console bug: vm memory isn't getting picked up",
+    "title_full": "Another console bug: vm memory isn't getting picked up",
+    "published": "2024-11-21T22:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/fly1/original/3X/6/e/6e8955d00cb218e186ebbe3a6ab06fefdce15290.svg",
+    "performance_score": 0,
+    "domain_rank": 37579,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "753f637df8874ab0ffa840cc72c2cbf0f7a37cb6",
+  "url": "https://community.fly.io/t/another-console-bug-vm-memory-isnt-getting-picked-up/22744",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brad",
+  "published": "2024-11-21T22:06:00.000+02:00",
+  "title": "Another console bug: vm memory isn't getting picked up",
+  "text": "Running into another fly console bug related to memory.\nfly console\nWhen I run fly console, I get the following error:\nterminalwire/server [main] → fly console WARN Ephemeral machine memory will be raised from 0 MB to 512 MB to be compatible with 2 shared CPUs. Created an ephemeral machine 683d493b7365d8 to run the console. Connecting to fdaa:a:5321:a7b:182:f642:9dc:2... complete ⚠️ [DEPRECATION] Defining the `template` method on a Phlex component will not be supported in Phlex 2.0. Please rename `Superview::Components::TableComponent#template` to `Superview::Components::TableComponent#view_template` instead. ⚠️ [DEPRECATION] Defining the `template` method on a Phlex component will not be supported in Phlex 2.0. Please rename `Superview::Helpers::Turbo::MetaTags#template` to `Superview::Helpers::Turbo::MetaTags#view_template` instead. Loading production environment (Rails 8.1.0.alpha) server(prod)>\nFortunately the console works, but it’s odd that I see WARN Ephemeral machine memory will be raised from 0 MB to 512 MB to be compatible with 2 shared CPUs. when I have 2gb defined in my fly.toml file:\nWARN Ephemeral machine memory will be raised from 0 MB to 512 MB to be compatible with 2 shared CPUs.\n2gb\nfly.toml\n# fly.toml app configuration file generated for terminalwire on 2024-10-02T10:22:34-07:00 # # See https://fly.io/docs/reference/configuration/ for information about how to use this file. # app = 'terminalwire' primary_region = 'sjc' console_command = '/rails/bin/rails console' [build] [env] CANONICAL_HOST = \"terminalwire.com\" [[mounts]] source = 'data' destination = '/data' [http_service] internal_port = 3000 force_https = true auto_stop_machines = 'stop' auto_start_machines = true min_machines_running = 2 processes = ['app'] [checks] [checks.status] port = 3000 type = 'http' interval = '10s' timeout = '2s' grace_period = '5s' method = 'GET' path = '/up' protocol = 'http' tls_skip_verify = false [checks.status.headers] X-Forwarded-Proto = 'https' [[vm]] memory = '2gb' cpu_kind = 'shared' cpus = 2 processes = ['console', 'app'] [[statics]] guest_path = '/rails/public' url_prefix = '/' [deploy] release_command = \"./bin/rails db:prepare\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T01:02:53.033+02:00",
+  "updated": "2024-11-22T01:02:53.033+02:00"
+}

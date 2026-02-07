@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "75e4ebf51ecaa60a43eda17387a654d7a0536b4b",
+    "url": "https://www.amny.com/news/nyc-transit-phone-technology-delays",
+    "site_full": "www.amny.com",
+    "site": "amny.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": null,
+    "title": "Sensing delays: NYC Transit uses every-day phone technology to look for track defects",
+    "title_full": "Sensing delays: NYC Transit uses every-day phone technology to look for track defects",
+    "published": "2025-02-27T23:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.amny.com/wp-content/uploads/2024/07/IMG_3122.jpg?w=900&p=q",
+    "performance_score": 0,
+    "domain_rank": 4808,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "75e4ebf51ecaa60a43eda17387a654d7a0536b4b",
+  "url": "https://www.amny.com/news/nyc-transit-phone-technology-delays",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Barbara Russo-Lennon",
+  "published": "2025-02-27T23:30:00.000+02:00",
+  "title": "Sensing delays: NYC Transit uses every-day phone technology to look for track defects",
+  "text": "NYC trains may soon be faster and more efficient with the help of some innovative technology.\nFrom September 2024 to January 2025, the MTA partnered with Google Public Sector on a pilot program using Google Pixel smartphones designed to detect defects and problems more quickly — a move that could potentially avoid significant train delays for NYC Transit’s more than 4 million daily riders.\nIn what sounds like something straight out of a spy movie, the phones were placed under the carriages of four A train subway cars. The phones were placed inside plastic casings and mostly out of view of commuters, allowing subway staff to pick up quirky sounds, such as rattles or bangs, that could potentially point to a malfunction.\nThe pilot was an experiment conducted by the MTA and Google to determine whether everyday technology could be used as another resource to help keep tracks working and trains running.\nHaving some tech help could prove useful for inspection staff, who are charged with walking 665 miles of subway tracks to spot potential issues.\nBut listening, as well as walking, was at the center of the four-month experiment. During the run, staff listened to countless hours of subway noise to pluck out what could be the sound of a defect. With years on the job, recognizing the sound of a loose joint, bolt, or similar issue comes fairly easily.\nThe sound and vibration data is sent in real time to cloud-based systems, where artificial intelligence and machine learning algorithms generate predictive insights. Track inspectors serve as “humans in the loop,” inspecting locations highlighted by the system and confirming whether there is an issue, providing feedback to continuously train the model.\nIncorporating artificial intelligence According to an article in Wired , which first reported on the pilot, NYC Transit and Google called the experimental technology “TrackInspect.” It suggests that collected audio, vibration and location data, used to train artificial intelligence prediction models, can be a resource to complement boots-on-the-ground inspections.\n“As more agencies adopt generative AI, Google Public Sector is excited to partner with innovative government leaders, like the leadership team at the Metropolitan Transportation Authority,” Google Public Sector Vice President, Go-to-Market, Brent Mitchell, said. “The TrackInspect pilot program identified 92% of the defect locations found by track inspectors, illustrating that enhanced data analysis can help expedite problem identification and resolution to improve railway reliability.”\nThe experiment’s results were impressive. According to MTA officials, it identified 92% of defect locations that were later pinpointed by staff.\nIf fully implemented, the technology could benefit passengers by helping to prevent train delays caused by defects or similar issues.\n“By being able to detect early defects in the rails, it saves not just money but also time – for both crew members and riders,” NYC Transit president Demetrius Crichlow said. “This innovative program – which is the first of its kind – uses AI technology to not only make the ride smoother for customers but also make track inspector’s jobs safer by equipping them with more advanced tools.”\nDelays are all-too-familiar scenarios for subway straphangers. Some slowdowns are worse than others, such as the epic delay on multiple subway lines in Brooklyn on Dec. 11, 2024 from a power failure that left thousands of passengers stranded for hours .\nBut in addition to potentially shortening delays, the new technology would also be an extra resource for workers as “a way we could minimize the amount of work that’s done to identify those defects, and point inspectors in the right direction, so they can spend time fixing instead of identifying, and go directly there and do the work,” Crichlow, explained in the article.\nDigital upgrades planned for NYC Transit Whether or not the MTA plans to make the pilot program a full-time resource is still unknown.\nBut, the agency is planning for other tech updates for train signaling that will be paid for by congestion pricing revenue.\nThe MTA has said it plans to use “ Communications-Based Train Control ,” a form of wireless technology that keeps trains in constant contact with a centralized system that controls their movements.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://new.mta.info/project/cbtc-signal-upgrades",
+    "https://www.wired.com/story/the-new-york-city-subway-is-using-google-pixels-to-sense-track-defects/",
+    "https://wired.com/story/the-new-york-city-subway-is-using-google-pixels-to-sense-track-defects/",
+    "https://www.new.mta.info/project/cbtc-signal-upgrades",
+    "https://www.wired.com/story/the-new-york-city-subway-is-using-google-pixels-to-sense-track-defects"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      },
+      {
+        "name": "MTA",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "75e4ebf51ecaa60a43eda17387a654d7a0536b4b",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:03:39.792+02:00",
+  "updated": "2025-02-28T02:05:32.101+02:00"
+}

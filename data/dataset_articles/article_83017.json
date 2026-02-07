@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "560052636b9c5d9a5ab4aed512c74b4b4c5f8fec",
+    "url": "https://www.deeperblue.com/mbari-introduces-new-mola-auv-to-make-ocean-exploration-more-accessible",
+    "site_full": "www.deeperblue.com",
+    "site": "deeperblue.com",
+    "site_section": "https://www.deeperblue.com",
+    "site_categories": [
+      "scuba_diving",
+      "sports"
+    ],
+    "section_title": "FreeDiving, Scuba, Ocean &amp; Diving Travel | DeeperBlue.com",
+    "site_title": null,
+    "title": "MBARI Introduces New MOLA AUV to Make Ocean Exploration More Accessible",
+    "title_full": "MBARI Introduces New MOLA AUV to Make Ocean Exploration More Accessible",
+    "published": "2025-02-27T20:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 79685,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "560052636b9c5d9a5ab4aed512c74b4b4c5f8fec",
+  "url": "https://www.deeperblue.com/mbari-introduces-new-mola-auv-to-make-ocean-exploration-more-accessible",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "John Liang",
+  "published": "2025-02-27T20:00:00.000+02:00",
+  "title": "MBARI Introduces New MOLA AUV to Make Ocean Exploration More Accessible",
+  "text": "The Monterey Bay Aquarium Research Institute has developed a portable autonomous robot primed to study marine environments.\nThe multimodality, observing, low-cost, agile autonomous underwater vehicle (MOLA AUV) features advanced sensors to survey marine ecosystems. MBARI engineers hope the broader marine science community will benefit from the MOLA AUV’s open-source design specifications and software algorithms.\nMBARI envisions a fleet of nimble robots gathering data to help guide decision-making about the ocean and its resources.\nAccording to Principal Engineer Giancarlo Troni , who leads MBARI’s Control, Modeling and Perception of Autonomous Systems Laboratory , known as the CoMPAS Lab :\n“The ocean is critical for all life on earth. We urgently need to understand our changing ocean, but there are many barriers to ocean exploration. MBARI has been developing a versatile and portable robot that is capable of taking high-resolution measurements of seafloor terrain over large areas. We hope this tool expands access to and monitoring of ocean life and ecosystems.”\nCoMPAS Lab scientists and engineers spent 18 months developing the MOLA AUV . Measuring 45 centimeters (18 inches) wide and 72 centimeters (28 inches) long and weighing 30 kilograms (66 pounds) , the robot is the latest of MBARI’s work to create smaller, more nimble platforms for ocean research.\nWhile robust platforms like the Dorado-class AUVs remain invaluable to MBARI’s work, their large size requires substantial resources for deployment. Similar to MBARI’s long-range autonomous underwater vehicle (LRAUV), the MOLA AUV can be deployed with a limited crew, either from a small boat or even from shore.\nAt the core of the MOLA AUV is a commercially available Boxfish submersible , built to the CoMPAS Lab’s specifications and enhanced with custom instruments and sensors developed by MBARI engineers. The MOLA AUV is equipped with a 4K camera to record high-resolution video of marine life and habitats. Sonar systems use acoustics to ensure the vehicle can consistently “see” 30 meters (100 feet) ahead and work in tandem with stereo cameras that take detailed imagery of the ocean floor.\nLeveraging methods developed by the CoMPAS Lab, the vehicle’s six degrees of freedom enable it to move and rotate in any direction efficiently. This agility and portability set the MOLA AUV apart from other underwater vehicles and allow it to leverage software algorithms developed at MBARI to create three-dimensional photo reconstructions of seafloor environments.\nThe CoMPAS Lab plans to deploy the MOLA AUV for seafloor mapping missions . Previous mapping methods used sonar mounted on ships, but the distance between the ocean surface and the seafloor resulted in low-resolution data.\nThe MOLA AUV can travel closer to the seafloor and visualize the terrain below in much greater detail, especially in rough terrain — imagine the difference between a picture taken a mile away and an up-close shot. The higher-resolution images will enable the team to create a searchable map of the ocean floor.\nSoftware Engineer Kevin Barnard said:\n“GPS doesn’t work underwater, which makes mapping more difficult in the ocean than on land. To overcome this challenge, we’re developing sensors and software that allow us to navigate through many locations and see how they all fit together. We can then use that data to return to specific sites and track changes over time.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->marine science",
+    "Science and Technology->scientific research",
+    "Environment->ecosystem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.mbari.org/team/compas-lab-control-modeling-and-perception-of-autonomous-systems-laboratory/",
+    "https://www.mbari.org/team/compas-lab-control-modeling-and-perception-of-autonomous-systems-laboratory",
+    "https://mbari.org/team/compas-lab-control-modeling-and-perception-of-autonomous-systems-laboratory/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Giancarlo Troni",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Monterey Bay Aquarium Research Institute",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Perception of Autonomous Systems Laboratory",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:39:14.917+02:00",
+  "updated": "2025-02-28T00:39:14.917+02:00"
+}

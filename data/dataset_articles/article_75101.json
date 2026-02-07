@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "91eaef6ea39c8076e5fd4b69a200aae26b69294f",
+    "url": "https://www.heise.de/en/news/Security-risk-D-Link-advises-to-dispose-of-some-router-models-10097846.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/en",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "heise online – IT news, guides and background information | heise online",
+    "title": "Security risk: D-Link advises to dispose of some router models | heise online",
+    "title_full": "Security risk: D-Link advises to dispose of some router models | heise online",
+    "published": "2024-11-22T10:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/3/3/4/0/3/Netzwerk-d0fe5badb84ea8f9.jpg",
+    "performance_score": 0,
+    "domain_rank": 922,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 6
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "91eaef6ea39c8076e5fd4b69a200aae26b69294f",
+  "url": "https://www.heise.de/en/news/Security-risk-D-Link-advises-to-dispose-of-some-router-models-10097846.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dennis Schirrmacher",
+  "published": "2024-11-22T10:26:00.000+02:00",
+  "title": "Security risk: D-Link advises to dispose of some router models | heise online",
+  "text": "A malicious code gap has compromised certain D-Link routers. As support for these models has expired, they will no longer receive security patches. The manufacturer advises users to dispose of them and purchase a new device.\nAnzeige Dispose of VPN routers This is the result of a recent article from D-Link . The following models in all hardware revisions are affected:\nDSR-150, DSR 150N DSR-250, DSR-250N DSR-500N DSR-1000N There is no further information about the vulnerability so far; a CVE number is also not yet known. Attacks should be possible remotely and without authentication. Accordingly, the hurdles for attacks do not appear to be very high. So far, there have been no reports of ongoing attacks. However, owners of such devices should not hesitate too long before replacing them.\nApparently, D-Link has not yet revised the product website of the affected model DSR-250N and the device is still listed there as being under support. Unfortunately, neither the product description nor the 5-page data sheet of the successor model DSR250v2, which D-Link now recommends as a replacement, states how long updates will be available for the model. The EoL policy merely states: \"We normally give customers 3 months' notice\".\nCriminals and state attackers use EoL devices like this to build botnets , which they then use as a basis for their further activities. The router then becomes either a gateway for ransomware, a DDoS catapult or, as a residential proxy or operational relay box, an intermediate station with a trusted IP address. This is an acute danger for society as a whole.\nAnzeige It is therefore to be hoped that the Cyber Resilience Act (CRA) will finally make a difference in this respect. It obliges manufacturers to take more responsibility and also brings manufacturer liability. The CRA has just been passed and will come into force across the EU on December 11:\n( des )\nDon't miss any news – follow us on Facebook , LinkedIn or Mastodon .\nThis article was originally published in German . It was translated with technical assistance and editorially reviewed before publication.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10415",
+    "https://www.dlink.com/en/products/dsr-250v2-unified-services-vpn-router",
+    "https://www.linkedin.com/company/104691972",
+    "https://www.dlink.com/en/-/media/business_products/dsr/dsr-250v2/datasheet/dsr-series-datasheet-en-eu.pdf",
+    "https://www.dlink.com/en/end-of-life-policy",
+    "https://eur-lex.europa.eu/eli/reg/2024/2847/oj",
+    "https://www.facebook.com/heiseonlineEnglish",
+    "https://dlink.com/en/-/media/business_products/dsr/dsr-250v2/datasheet/dsr-series-datasheet-en-eu.pdf",
+    "https://www.eur-lex.europa.eu/eli/reg/2024/2847/oj",
+    "https://www.supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10415",
+    "https://facebook.com/heiseonlineEnglish",
+    "https://supportannouncement.us.dlink.com/security/publication.aspx",
+    "https://dlink.com/en/end-of-life-policy",
+    "https://dlink.com/en/products/dsr-250v2-unified-services-vpn-router",
+    "https://linkedin.com/company/104691972"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:08:45.838+02:00",
+  "updated": "2024-11-22T11:08:45.838+02:00"
+}

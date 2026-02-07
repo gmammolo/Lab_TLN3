@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "ce7c67fe7305b678a5cc06444bd3eb29b49e83c4",
+    "url": "https://www.newsbytesapp.com/news/science/robot-dog-uses-foot-mounted-vacuums-to-clean-cigarette-butts/story",
+    "site_full": "www.newsbytesapp.com",
+    "site": "newsbytesapp.com",
+    "site_section": "https://www.newsbytesapp.com:443/rss.xml",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "NewsBytes",
+    "title": "This robot dog is tackling the world's second-worst litter problem",
+    "title_full": "This robot dog is tackling the world's second-worst litter problem",
+    "published": "2024-07-19T05:37:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://i.cdn.newsbytesapp.com/images/l66820240719094418.jpeg",
+    "performance_score": 0,
+    "domain_rank": 29086,
+    "domain_rank_updated": "2024-07-16T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ce7c67fe7305b678a5cc06444bd3eb29b49e83c4",
+  "url": "https://www.newsbytesapp.com/news/science/robot-dog-uses-foot-mounted-vacuums-to-clean-cigarette-butts/story",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Akash Pandey",
+  "published": "2024-07-19T05:37:00.000+03:00",
+  "title": "This robot dog is tackling the world's second-worst litter problem",
+  "text": "This robot dog is tackling the world's second-worst litter problem\nAkash Pandey\nA quadrupedal robot named VERO, developed by the Dynamic Legged Systems unit at the Italian Institute of Technology (IIT) in Genoa, is tackling cigarette littering. The robot dog, designed in Claudio Semini's lab at IIT, uses foot-mounted vacuums to pick up cigarette butts. This innovative approach addresses the issue of cigarette butt litter, which is the second most common type of litter on Earth.\nA novel approach to an environmental problem?\nCigarette butts are a significant environmental issue, with over four trillion of the estimated six trillion smoked each year discarded on the ground. These butts release more than 700 toxic chemicals into the environment, damaging ecosystems and contributing to general unsightliness. The ideal solution would be to prevent improper disposal of these butts, which would require a significant shift in human behavior.\nUnique design and functionality\nVERO, short for Vacuum-cleaner Equipped Robot, is based on an AlienGo from Unitree and features a commercial vacuum mounted on its back. The vacuum hoses lead down to each foot, ending in a custom 3D-printed nozzle designed to maximize suction near the ground without impeding the robot's movement. The robot's unique contribution lies in its ability to autonomously locate items on the ground and plan how to interact with them using its feet.\nAutonomous operation and success rate\nOnce an operator designates an area for VERO to clean, the robot operates independently. It calculates an exploration path to cover the entire area and uses onboard cameras and a neural network to detect cigarette butts. Initial testing showed that VERO could successfully collect just under 90% of cigarette butts in a variety of environments. Despite not being particularly fast, the robot's persistence and energy efficiency make it a valuable asset in the fight against litter.\nPotential for versatile applications\nThe researchers behind VERO believe this is the first time a legged robot has used its legs concurrently for locomotion and another task.\nThis distinguishes VERO from other\nrobots that temporarily repurpose their feet as manipulators.\nThe team suggests that this technology could have numerous other applications, like spraying weeds in crop fields, inspecting infrastructure cracks, and placing rivets or nails during construction.\nThe robot's four feet could potentially host four different tools, with slight modifications to the software.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "Science and Technology",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "akash pandey",
+        "sentiment": "negative"
+      },
+      {
+        "name": "claudio semini",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "italian institute of technology",
+        "sentiment": "none"
+      },
+      {
+        "name": "vero",
+        "sentiment": "none"
+      },
+      {
+        "name": "iit",
+        "sentiment": "none"
+      },
+      {
+        "name": "dynamic legged systems",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "genoa",
+        "sentiment": "none"
+      },
+      {
+        "name": "unitree",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-07-19T08:24:41.861+03:00",
+  "updated": "2024-07-19T08:24:41.861+03:00"
+}

@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "da0910e903a25fa3bb882a638ff11f7ee7b8c746",
+    "url": "https://www.newsday.com/news/weather/heat-advisory-thunderstorms-kq0mawvv",
+    "site_full": "www.newsday.com",
+    "site": "newsday.com",
+    "site_section": "https://www.newsday.com/api/rss/recent",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Most recent stories - Newsday",
+    "title": "Long Island weather forecast, heat advisory extended; thunderstorms could bring excessive rain",
+    "title_full": "Long Island weather forecast, heat advisory extended; thunderstorms could bring excessive rain",
+    "published": "2024-08-02T13:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.projects.newsday.com/logos/nd-fb-share-logo-600x315.jpg",
+    "performance_score": 0,
+    "domain_rank": 1884,
+    "domain_rank_updated": "2024-07-30T13:07:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "da0910e903a25fa3bb882a638ff11f7ee7b8c746",
+  "url": "https://www.newsday.com/news/weather/heat-advisory-thunderstorms-kq0mawvv",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "John Valenti",
+  "published": "2024-08-02T13:10:00.000+03:00",
+  "title": "Long Island weather forecast, heat advisory extended; thunderstorms could bring excessive rain",
+  "text": "The combination of heat and humidity will make it feel like it's in the upper 90s, maybe even in the low 100s, the National Weather Service said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "national weather service",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "long island",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-08-02T17:33:49.288+03:00",
+  "updated": "2024-08-02T23:41:39.784+03:00"
+}

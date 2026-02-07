@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "cfe7333efd1fd108216523b78bd5c64d4c9585bb",
+    "url": "https://www.theregister.com/2024/11/15/microsoft_exchange_buggy_patch",
+    "site_full": "www.theregister.com",
+    "site": "theregister.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Microsoft Exchange update fixes security flaws, breaks other stuff",
+    "title_full": "Microsoft Exchange update fixes security flaws, breaks other stuff",
+    "published": "2024-11-15T14:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://regmedia.co.uk/2018/06/20/shutterstock_email_attack.jpg",
+    "performance_score": 0,
+    "domain_rank": 694,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cfe7333efd1fd108216523b78bd5c64d4c9585bb",
+  "url": "https://www.theregister.com/2024/11/15/microsoft_exchange_buggy_patch",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Richard Speed",
+  "published": "2024-11-15T14:29:00.000+02:00",
+  "title": "Microsoft Exchange update fixes security flaws, breaks other stuff",
+  "text": "Microsoft is pausing the rollout of an Exchange security update after it became clear that the patch could break transport rules for some customers.\nThe November 2024 Security Updates deal with various vulnerabilities in Microsoft's email server. While Exchange Online is already protected, customers using Exchange in a hybrid mode or fully on-premises must install the patches.\nThat is, unless the patches are abruptly pulled. On November 14, Microsoft admitted that customers with their own transport or data loss protection (DLP) rules found that the transport rules were \"stopping periodically\" after the update was installed. The company then \"temporarily paused the rollout\" of the update.\nSome affected users have reported that, in a worst case scenario, email may stop flowing altogether. Obviously implementation varies widely from org to org, and only a subset of users are affected. Microsoft has noted that \"Customers who might not use Transport or DLP rules and did not run into the issue with rules, can continue using the November SU update.\"\nThe Register contacted Microsoft for more detail on the failure modes and we will update this article should the company respond.\"\nThe mail must flow DLP focuses on securing critical information in Exchange Server, with DLP policies being simple packages containing a collection of transport rules. Transport rules, also known as mail flow rules, are similar to those used in Outlook, governing actions on mail as it arrives in a user's mailbox. The main difference is that the rules are applied to messages in transit before they are delivered to the user.\nTransport rules are helpful for enterprises since they can enforce compliance and deal with mail exceptions before a user lays eyes on the message. They can inspect attachments, add prefixes to message subjects, insert disclaimers into message bodies, and perform other functions. Assuming, of course, the rules are actually working.\nMicrosoft Power Pages misconfigurations exposing sensitive data Microsoft finally releases a direct-download Windows 11 on Arm ISO Microsoft 365 Copilot goes monthly for a 5% premium and annual commitment Microsoft slips Task Manager and processor count fixes into Patch Tuesday Social media forums, such as Reddit , were abuzz with complaints about transport rules failing to function after the security update was installed. Some users reported a temporary restoration of functionality after restarting the service, but the issue recurred. Microsoft's advice to affected users is to uninstall the update and await a re-release.\nMicrosoft deserves credit for quickly pulling the faulty update, though it clearly needs to reevaluate its testing practices – Exchange's transport rules function is key for many organizations, and breaking such a critical function with a mandatory security update reflects poorly on the Windows giant's quality control.\nMicrosoft has urged organizations to protect Exchange Servers from cyberattacks by keeping them updated with the latest security updates. Exchange's problematic security was a factor in delaying the next version until 2025. ®\nGet our Tech Resources",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125",
+    "https://www.reddit.com/r/exchangeserver/comments/1graot8/mail_not_flowing_all_of_the_sudden/",
+    "https://www.reddit.com/r/exchangeserver/",
+    "https://reddit.com/r/exchangeserver/comments/1graot8/mail_not_flowing_all_of_the_sudden/",
+    "https://www.reddit.com/r/exchangeserver",
+    "https://reddit.com/r/exchangeserver/",
+    "https://www.reddit.com/r/exchangeserver/comments/1graot8/mail_not_flowing_all_of_the_sudden",
+    "https://www.techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T15:12:45.454+02:00",
+  "updated": "2024-11-22T23:18:55.269+02:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "58e4490ede0918ab77863d1a2817707b8f17a5c1",
+    "url": "https://forbes.ua/ru/news/deepseek-vidklala-zapusk-novoi-shi-modeli-cherez-problemi-z-chipami-huawei-ft-14082025-31967",
+    "site_full": "forbes.ua",
+    "site": "forbes.ua",
+    "site_section": "https://forbes.ua/ru",
+    "site_categories": [],
+    "section_title": "Forbes.ua | Бизнес, миллиардеры, новости, финансы, инвестиции, компании",
+    "site_title": "Forbes.ua | Бізнес, мільярдери, новини, фінанси, інвестиції, компанії",
+    "title": "DeepSeek отложила выпуск новой модели ИИ из-за проблем с обучением на чипах Huawei - Forbes.ua",
+    "title_full": "DeepSeek отложила выпуск новой модели ИИ из-за проблем с обучением на чипах Huawei - Forbes.ua",
+    "published": "2025-08-14T10:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "UA",
+    "main_image": "https://forbes.ua/static/storage/thumbs/1200x630/d/8b/01f29aad-9c3a676c33c239ba54f4d110c60938bd.jpg?v=5967_2",
+    "performance_score": 0,
+    "domain_rank": 13840,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "58e4490ede0918ab77863d1a2817707b8f17a5c1",
+  "url": "https://forbes.ua/ru/news/deepseek-vidklala-zapusk-novoi-shi-modeli-cherez-problemi-z-chipami-huawei-ft-14082025-31967",
+  "ord_in_thread": 0,
+  "author": "Юрий Тарасовский",
+  "published": "2025-08-14T10:14:00.000+03:00",
+  "title": "DeepSeek отложила выпуск новой модели ИИ из-за проблем с обучением на чипах Huawei - Forbes.ua",
+  "text": "Китайская компания DeepSeek перенесла релиз модели R2 после неудачной попытки научить ее на чипах Huawei Ascend. Это демонстрирует ограниченность возможностей Китая в попытках найти альтернативу американским технологиям, пишет FT.\nПокупайте годовую подписку на шесть журналов Forbes Ukraine по цене четырех. Если вы цените качество, глубину и силу реального опыта, эта подписка именно для вас.\nПодробности\n- После выпуска модели R1 в январе власти Китая поощряли DeepSeek использовать Huawei Ascend вместо Nvidia. Однако во время тренировки R2 на чипах Huawei возникли стабильные технические проблемы, из-за которых компания перешла на Nvidia для обучения и оставила Ascend только для инференса (работы готовой модели). Это стало главной причиной задержки запуска с мая и дало фору конкурентам, отметило издание.\n- Инженеры Huawei работали непосредственно в офисе DeepSeek, но даже с их помощью провести успешную тренировку модели на Ascend не удалось. Дополнительной причиной задержки стала продолжительная маркировка данных для обновленной версии.\n- Эксперты отмечают, что китайские чипы уступают Nvidia по стабильности, скорости соединения и качеству программного обеспечения.\n- В то же время, по словам исследователей, Huawei переживает «болезнь роста» и со временем может адаптироваться к полноценной тренировке больших моделей.\n- Борьба за экосистему ИИ в Китае обостряется, и преимущество может определить качество и удобство инструментов для разработчиков, отмечают эксперты.\nКонтекст\nВ конце июля администрация Трампа остановила введение новых ограничений на экспорт технологий в Китай.\nЗадержка DeepSeek происходит на фоне давления Пекина на национальные компании, чтобы те обосновывали закупки Nvidia H20 и переходили на Huawei и Cambricon.\nNvidia недавно договорилась возобновить продажу H20 в Китае, согласившись передавать часть доходов правительству США.\nВы нашли ошибку или неточность?\nОставьте отзыв для редакции. Мы учтем ваши замечания как можно скорее.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Politics->regulation of industry",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092",
+    "https://ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:58:31.986+03:00",
+  "updated": "2025-08-14T12:05:55.000+03:00"
+}

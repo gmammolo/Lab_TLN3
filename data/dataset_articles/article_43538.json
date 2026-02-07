@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "866f29397853d29c8fe7a30bf21ff215d6e44529",
+    "url": "https://9to5google.com/2024/09/19/google-calendar-birthdays",
+    "site_full": "9to5google.com",
+    "site": "9to5google.com",
+    "site_section": "https://www.9to5google.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "9to5Google - Google news, Pixel, Android, Home, Chrome OS, more",
+    "title": "Google Calendar for Android will let you manually add birthdays",
+    "title_full": "Google Calendar for Android will let you manually add birthdays",
+    "published": "2024-09-19T18:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3288,
+    "domain_rank_updated": "2024-09-17T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "866f29397853d29c8fe7a30bf21ff215d6e44529",
+  "url": "https://9to5google.com/2024/09/19/google-calendar-birthdays",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Abner Li",
+  "published": "2024-09-19T18:06:00.000+03:00",
+  "title": "Google Calendar for Android will let you manually add birthdays",
+  "text": "At the moment, birthdays that appear in Google Calendar are based on Google Contacts information, but manual creation is now coming.\nThe Android app is now adding the ability to directly “create and modify birthday events in Google Calendar.”\nThe event page will feature a new “Birthday” chip at the top that joins Event, Tasks, and Out of office (for Workspace accounts). You get fields for “Add name” and “Add birth date” with the ability to customize notifications and set the color.\nThe event itself will feature a cover graphic and be added to your “Birthdays” calendar.\nThere are several things to note for those using the Google Calendar API:\n“Birthday events do not support all event properties. If you’re using the Calendar API, we recommend reviewing your code so you don’t apply any non-supported properties.” “For developers, newly created birthday events will be available in the Calendar API with the eventType “birthday.” Both Events.list and Events.watch will support the “birthday” event type filter and return “birthday” events by default. Only a subset of the event properties will be supported for birthday events. To learn more, see our developer guide about working with the birthday event type. “ Birthday creation is rolling out over the coming weeks to Google Calendar on Android for all users: Available to all Google Workspace customers, Workspace Individual Subscribers, and users with personal Google accounts.\nThis is also beginning to roll out to the web, and will come to Google Calendar for iOS in the future.\nMore on Google Calendar: Google Calendar coming to Chrome’s New Tab Page for Workspace users How the Gemini Google Calendar Extension works Google Calendar prepares support for hiding specific holidays on Android Calendar for Android just made it way easier to scroll through months",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-09-20T00:22:19.466+03:00",
+  "updated": "2024-09-20T07:55:22.172+03:00"
+}

@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "5aaa55a86f44ef522946f221cc7338224cf2dc09",
+    "url": "https://www.csoonline.com/article/4027333/genai-als-security-gamechanger.html",
+    "site_full": "www.csoonline.com",
+    "site": "csoonline.com",
+    "site_section": "https://www.csoonline.com/feed/",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "GenAI als Security-Gamechanger? | CSO Online",
+    "site_title": "CSO Online | Security at the speed of business",
+    "title": "GenAI als Security-Gamechanger? | CSO Online",
+    "title_full": "GenAI als Security-Gamechanger? | CSO Online",
+    "published": "2025-07-31T05:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.csoonline.com/wp-content/uploads/2025/07/4027333-0-64888000-1753934523-shutterstock_2252763175.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 2787,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5aaa55a86f44ef522946f221cc7338224cf2dc09",
+  "url": "https://www.csoonline.com/article/4027333/genai-als-security-gamechanger.html",
+  "ord_in_thread": 0,
+  "author": "Thomas Boele",
+  "published": "2025-07-31T05:00:00.000+03:00",
+  "title": "GenAI als Security-Gamechanger? | CSO Online",
+  "text": "Generative AI (GenAI) soll Daten und Infrastruktur vor ausgeklügelten Cyberbedrohungen schützen - soweit die Theorie. Doch wie sieht die Realität aus?\nFür CISOs bietet generative KI nicht nur eine bloße Arbeitserleichterung, sondern zahlreiche neue Möglichkeiten für die Cybersicherheit. SomYuZu – shutterstock.com\nDurch den Einsatz von GenAI ergeben sich für CISOs neue Chancen, da bewährte Verteidigungsmethoden immer mehr an ihre Grenzen stoßen. Doch auch Cyberkriminelle haben längst die Möglichkeiten erkannt, damit ihre Angriffe zu verstärken. Dies hat bereits jetzt zu einem dynamischen KI-Wettrüsten in der digitalen Welt geführt.\nHacker nutzen Varianten beliebter KI-Plattformen zur Entwicklung spezieller bösartiger Adaptionen, wie OnionGPT, WormGPT , GhostGPT, FraudGPT und HackerGPT. Diese Hacker-LLMs (Large Language Models) umgehen ethisch basierte Sicherheitsvorkehrungen, um überzeugende Phishing-E-Mails zu generieren – sogar dann, wenn man die Sprache der angepeilten Zielgruppe nicht spricht. Zudem werden sie benutzt, um Malware zu erstellen und ausgeklügelte Social-Engineering -Skripte zu entwickeln.\nKI-gestütztes Social Engineering, einschließlich Deepfake-Technologie, ermöglicht es Angreifern wiederum, authentisches Textmaterial zu erstellen, automatisierte Chats zu führen und sich in Echtzeit-Audio- und Videokonferenzen als andere Personen auszugeben.\nDaten vergiften Eine neue Bedrohung ist das LLM Data Poisoning , bei dem Hacker Trainingsdatensätze oder Echtzeitinformationen manipulieren, um Hintertüren oder betrügerischen Code einzubauen. Einmal auf diese Weise vergiftet, können KI-Modelle schädliche Inhalte replizieren, was schwerwiegende Auswirkungen auf die Sicherheit hat.\nDas in Moskau ansässige Desinformationsnetzwerk Pravda ist ein Beispiel für diese Angriffsmethode. Es produziert Millionen von Propaganda-Artikeln, welche die Antworten von KI-Chatbots beeinflussen sollen. Mit diesem ausgeklügelten Angriff wurden führende westliche KI-Systeme erfolgreich infiziert, woraufhin sie in etwa 33 Prozent der Fälle falsche Nachrichten wiedergaben.\nKI als Cyberschutzschild Wollen CISOs diese ausgeklügelten, KI-gestützten Angriffe abwehren, dann erweist sich die KI selbst als das wertvollste Verteidigungsinstrument. Durch die Analyse von Inhalten erkennen KI-Systeme Verhaltensmuster, Anomalien oder sprachliche Hinweise sehr schnell und ermöglichen so ein kontinuierliches Lernen sowie die Anpassung an neue Bedrohungen.\nDie Wirksamkeit von KI bei der Abwehr von Bedrohungen verändert die Cybersicherheit daher zunehmend. Aktuelle Bewertungen zeigen bemerkenswerte Leistungsunterschiede zwischen KI-gestützten und herkömmlichen Sicherheitslösungen. Führende KI-gesteuerte Plattformen erreichen hohe Abwehr-Raten:\n99 Prozent bei der Malware-Erkennung 99 Prozent bei Phishing-Versuchen 98 Prozent bei Einbruchsversuchen Diese Zahlen stehen in starkem Gegensatz zu konventionellen Produkten, die herkömmliche Methoden verwenden. Einige von ihnen erreichen Blockier-Raten von nur 67 Prozent bei Malware, 56 Prozent bei Phishing und 43 Prozent bei Einbruchsversuchen.\nKI als Secuirty-Co-Pilot Über die Erkennung von Bedrohungen hinaus rationalisiert KI die Abläufe in der Cybersicherheit erheblich. Administratoren sehen sich mit einer zunehmenden Komplexität von Sicherheitsrichtlinien, ständigen CVE -Warnungen und der Notwendigkeit einer einheitlichen Sicherheit in hybriden IT-Umgebungen konfrontiert. Diese umfassen lokale, Cloud-, Remote- und mobile Anwendungsfälle.\nKI-gesteuerte Co-Piloten ermöglichen es ihnen aber, Richtlinien effizienter zu erstellen, zu verwalten und Fehler zu beheben. Diese intelligenten Assistenten können neue Schwachstellen schnell identifizieren und präzise Abhilfemaßnahmen für die Bereiche Netzwerk, Cloud, Endpunkt, Browser, mobile Geräte und E-Mail-Sicherheit empfehlen.\nJüngste Bewertungen zeigen, dass solche Co-Piloten eine hohe Leistung zeigen, indem sie klare, umsetzbare Anleitungen für Abhilfemaßnahmen liefern. Diese Fähigkeit reduziert den Zeitaufwand von Administratoren bei der Durchführung von Aufgaben und verbessert gleichzeitig die Benutzerfreundlichkeit des Systems. Das macht es den CISOs einfacher, als Schnittstelle zwischen Technik und Vorstand zu agieren und gibt ihnen Argumente, um die Vorteile einer Investition in GenAI überzeugend darzustellen.\nAutomatisierte Sicherheitsanalyse In praktischen Anwendungen zeichnet sich KI durch die Analyse, Automatisierung und aktive Implementierung von Sicherheitsrichtlinien aus. Leistungsstarke Lösungen automatisieren sowohl den Analyse- als auch den Implementierungsprozess vollständig. Damit heben sie sich deutlich von herkömmlichen Tools ab, die sich mit der Ermittlung der korrekten Regelplatzierung lange aufhalten oder denen es an Funktionen, um Richtlinien direkt zu ändern, schlicht fehlt.\nBei der Bewertung und Behebung von Schwachstellen liefert fortschrittliche KI somit vollständige und relevante Antworten, die den Status der Verteidigung genau überprüfen und Empfehlungen geben.\nSchatten-KI als Herausforderung Die breite Einführung von KI-Diensten in Unternehmensnetzwerken birgt dabei sowohl Chancen als auch Risiken. Für CISOs sind belastbare Zahlen wichtig, um allen Beteiligten die Sachlage deutlich darlegen zu können. Während die Einführung von KI zu Produktivitätssteigerungen führt, wirft sie auch kritische Sicherheitsfragen auf. Eine Analyse zeigt, dass eine von 80 Aufforderungen (1,25 Prozent), die von Unternehmensgeräten an generative KI-Dienste gesendet werden, ein hohes Risiko für den Verlust sensibler Daten birgt, wobei weitere 7,5 Prozent potenziell sensible Informationen enthalten.\nHinzu kommt ein altes CISO-Thema in neuem Gewand: Schatten-KI -Anwendungen, also unautorisierte KI-Tools, die von Mitarbeitern verwendet werden. Sie führen zu Sicherheitslücken, Compliance-Problemen und inkonsistenter Datenverwaltung. Dieses Phänomen spiegelt die Schatten-IT-Herausforderung früherer technologischer Umwälzungen wider, bei denen der Fortschritt die organisatorische Governance überholte und neue Angriffsvektoren schaffte.\nEthische Überlegungen und Auswirkungen auf die Gesellschaft Die schnelle Integration von KI in die Cybersicherheit wirft auch ethische und gesellschaftliche Bedenken auf. Dazu gehören:\nVoreingenommenheit und Fairness: KI-Algorithmen, die mit voreingenommenen Daten trainiert wurden, können zu diskriminierenden Ergebnissen führen. Zum Beispiel indem sie legitime Aktivitäten fälschlicherweise als bösartig einstufen. Dies wirft Bedenken hinsichtlich Fairness und möglicher Diskriminierung auf. Transparenz und Erklärbarkeit: Viele KI-Algorithmen, insbesondere Deep-Learning-Modelle, arbeiten als Black Boxes, was ihre interne Logik undurchsichtig macht und das Vertrauen in KI-Tools untergräbt. Datenschutz gegen Sicherheit: Die Datenverarbeitungsfähigkeiten der KI werfen Bedenken hinsichtlich einer übermäßigen Überwachung und der Verletzung der Privatsphäre auf, wobei ein Gleichgewicht zwischen dem Schutz des Systems und der Wahrung der Rechte des Einzelnen auf Privatsphäre gefunden werden muss. Rechenschaftspflicht und Entscheidungsfindung: Die Bestimmung der Verantwortung, wenn KI-Systeme autonom Entscheidungen treffen, kann komplex sein und sich auf Cyber-Sicherheitsexperten, Entwickler und Unternehmen auswirken. Verdrängung von Arbeitsplätzen: Die Automatisierung der routinemäßigen Erkennung von Bedrohungen durch KI kann zu einer Verdrängung von Arbeitsplätzen in der Cyber-Sicherheitsbranche führen, was Umschulungen und Neuqualifizierungen erfordert. Verantwortungsvolle CISOs haben also immer ein Auge darauf, dass die KI-Entwicklung und -Einführung sich auch mit ethischen Dilemmata befasst. Zu den Strategien gehören klare ethische Rahmenbedingungen, verschiedene Interessengruppen, verschiedene Trainingsdaten, menschliche Aufsicht und transparente Entscheidungsfindung.\nDie regulatorische Landschaft in der Cybersicherheit Die fragmentierte und sich schnell entwickelnde globale Regulierungslandschaft für KI in der Cyber-Sicherheit erfordert Governance-Rahmenwerke, um ihre sichere und ethische Nutzung zu gewährleisten. Risiko-Rahmenwerke sind dabei ein wichtiger Trend in der KI-Regulierung. Sie klassifizieren KI-Systeme auf der Grundlage ihrer potenziellen Auswirkungen und sehen stets verhältnismäßige Regulierungsmaßnahmen vor.\nEin Beispiel: Das KI-Gesetz der Europäischen Union, das im Jahr 2025 vollständig umgesetzt werden soll, ist ein auf dem jeweiligen Risiko basierendes Regulierungsmodell. Die Nichteinhaltung kann zu erheblichen Geldstrafen führen.\nVerbesserte Forschung und Entwicklung KI bringt die Cyber-Sicherheitsforschung erheblich voran, indem sie die Erkennungsmechanismen verbessert und komplexe Systeme leichter zugänglich macht. Diese verbessert die Suche nach fortgeschrittenen, persistenten Bedrohungen (Advanced Persistent Threats, APTs) durch Mustererkennung im großen Maßstab, effiziente Extraktion von Taktiken, Techniken und Verfahren (TTPs) sowie fortschrittliche Korrelations- und Zuordnungsfunktionen.\nKI als Ergänzung der menschlichen Fähigkeiten Künstliche Intelligenz wird zu einem Grundpfeiler moderner Cybersicherheit. Vom theoretischen Konzept zum praktischen Werkzeug verbessert KI die Verteidigung, Erkennung und operative Effizienz in der gesamten digitalen Landschaft. LLMs ermöglichen es, große Datenmengen zu analysieren und in umsetzbare Erkenntnisse zu überführen – sofern die Daten strukturiert und im Kontext verfügbar sind, wodurch eine symbiotische Beziehung zu menschlichen Sicherheitsexperten entsteht. KI ergänzt die menschlichen Fähigkeiten und schafft den Experten den nötigen Freiraum für strategisches Denken, während KI sich effizient mit alltäglichen Bedrohungen, die sich in riesigen Datenmengen verstecken, auseinandersetzt.\nCISOs müssen jedoch die KI-Fähigkeiten im praktischen Sicherheitsbetrieb, jenseits oberflächlicher Behauptungen, bewerten. Nur so lässt sich ein belastbares Ergebnis über die Leistungsfähigkeit der jeweiligen Lösung erzielen.\nDer unterschiedliche Grad an KI-Konformität und -Funktionalität bei den verschiedenen Anbietern unterstreicht zudem, wie wichtig es ist, intelligente und nahtlos integrierte Lösungen durchdacht auszuwählen, die in komplexen Sicherheitsumgebungen einen spürbaren Mehrwert bieten sollen. Es bringt nichts, zur nächstbesten KI-Lösung zu greifen, um schlicht auf den Gen-AI-Zug in der Cyberabwehr aufspringen zu können.\nSchafft es der CISO, alle Beteiligten von den Vorteilen einer handfesten und planvollen Investition in KI-gestützte Cybersicherheit zu überzeugen, dann kann die KI ihr Versprechen einlösen, für eine Zukunft, in der digitale Interaktionen sicherer, widerstandsfähiger und vertrauenswürdiger sind zu sorgen. (jm/jd)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific innovation"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://de.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures",
+    "https://ssl-idgbusiness.met.vgwort.de/na/82d052684d5c4e7990f72ba76a35b297",
+    "https://www.ssl-idgbusiness.met.vgwort.de/na/82d052684d5c4e7990f72ba76a35b297",
+    "https://www.de.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Hacker",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T08:09:10.355+03:00",
+  "updated": "2025-07-31T08:11:58.000+03:00"
+}

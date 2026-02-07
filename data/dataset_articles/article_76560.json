@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "9ddc4a10028524d48c23a94d4afb7bf4870bd23b",
+    "url": "https://thecyberexpress.com/hexalocker-v2-reveals-new-features",
+    "site_full": "thecyberexpress.com",
+    "site": "thecyberexpress.com",
+    "site_section": "https://thecyberexpress.com/feed/",
+    "site_categories": [],
+    "section_title": "The Cyber Express",
+    "title": "Ransomware Gets Smarter: HexaLocker V2 Introduces Powerful New Mechanisms",
+    "title_full": "Ransomware Gets Smarter: HexaLocker V2 Introduces Powerful New Mechanisms",
+    "published": "2025-01-10T11:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://thecyberexpress.com/wp-content/uploads/HexaLocker-V2.jpg",
+    "performance_score": 0,
+    "domain_rank": 84358,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9ddc4a10028524d48c23a94d4afb7bf4870bd23b",
+  "url": "https://thecyberexpress.com/hexalocker-v2-reveals-new-features",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ashish Khaitan",
+  "published": "2025-01-10T11:29:00.000+02:00",
+  "title": "Ransomware Gets Smarter: HexaLocker V2 Introduces Powerful New Mechanisms",
+  "text": "HexaLocker V2 has arrived on the market. This new version of the notorious HexaLocker ransomware has brought with it a series of improvements, including a new persistence mechanism, enhanced encryption algorithms, and an open-source stealer known as Skuld. These changes reflect the ongoing sophistication of cybercriminal groups and their ability to circumvent traditional cybersecurity defenses.\nHexaLocker first emerged in mid-2024, quickly capturing the attention of security experts due to its aggressive tactics and effective encryption methods. Initially, it operated using the popular encryption standard TOXID for communication and a straightforward file-encrypting approach. However, by the end of 2024, a new version, HexaLocker V2, began to surface. This updated version incorporates a host of advanced features designed to enhance the ransomware’s effectiveness and persistence.\nThe Return of HexaLocker: From Version 1 to Version 2\nAccording to Cyble Research and Intelligence Labs (CRIL), a major change in HexaLocker V2 is its use of Skuld Stealer, a tool that plays a critical role in the ransomware’s operation. Unlike the previous version, which focused solely on file encryption, HexaLocker V2 introduces a double-extortion strategy. This method involves stealing sensitive data before encryption, thus increasing the pressure on victims to pay the ransom.\nOne of the standout features of HexaLocker V2 is its integration with Skuld Stealer. Skuld is an open-source tool used to harvest sensitive information from compromised systems, including credentials, browsing history, and crypto wallet details. Before encrypting files, HexaLocker V2 downloads and runs the Skuld stealer from a remote server, specifically from “hxxps://hexalocker.xyz/SGDYSRE67T43TVD6E5RD[.]exe”. The stealer targets data from both Chromium and Gecko-based browsers, including popular ones like Google Chrome, Mozilla Firefox, and Opera.\nOnce Skuld has gathered the data, it compresses the stolen information into a ZIP archive and transmits it to the attacker’s server. This exfiltration step adds a layer of pressure on victims, as the stolen data could be used for further extortion or sold on dark web forums.\nThis approach highlights the growing trend of cybercriminals utilizing both encryption and data theft in tandem, making it harder for victims to recover from attacks. The integration of Skuld Stealer with HexaLocker V2 demonstrates a deliberate strategy to maximize the return on each attack.\nPersistence Mechanisms and Obfuscation\nHexaLocker V2’s persistence mechanisms are another key improvement over its predecessor. Upon execution, the ransomware copies itself into the “%appdata%MyApp” directory and ensures it runs after system reboots by creating an entry in the Windows registry under HKCUSoftwareMicrosoftWindowsCurrentVersionRun.\nThis persistence method guarantees that HexaLocker V2 can continue its operation even after a victim restarts their machine, making it much harder to remove.\nAdditionally, the malware uses advanced obfuscation techniques to hide its strings and communication channels. Unlike the earlier version, where strings were static and easily identifiable, HexaLocker V2 dynamically generates critical strings during runtime. This process is supported by the use of AES-GCM encryption, which ensures that file paths, folder names, and URLs associated with the https://cyble.com/knowledge-hub/what-is-ransomware/ are obfuscated, making detection more difficult.\nEnhanced Encryption and Exfiltration Process\nHexaLocker V2’s encryption process also undergoes significant improvements. The ransomware employs a combination of several encryption algorithms to secure victims’ files. For string encryption, it uses AES-GCM, while for key derivation, it relies on Argon2. The files themselves are encrypted using ChaCha20, a high-speed stream cipher. After the encryption process is completed, the ransomware appends the “.HexaLockerV2” extension to the encrypted files, rendering them inaccessible without the decryption key.\nBefore encrypting the files, HexaLocker V2 performs a comprehensive scan of the victim’s machine, searching for files with specific extensions. This scan includes common file types such as text documents, images, videos, audio files, and more. Once the relevant files are identified, they are bundled into a ZIP archive and sent to the attacker’s remote server via the URL “hxxps://hexalocker.xyz/receive.php”.\nThis exfiltration process ensures that even if a victim is able to recover their encrypted files, their stolen data remains in the hands of the attackers. The combination of Skuld Stealer, data exfiltration, and encryption makes HexaLocker V2 a particularly dangerous threat.\nThe Evolution of Ransomware Tactics: Double Extortion\nHexaLocker V2 adopts a classic double extortion strategy, which has become a hallmark of modern ransomware attacks. This method involves two distinct stages of extortion: first, the attackers exfiltrate sensitive data from the victim’s machine, and second, they encrypt the victim’s files. By combining these tactics, attackers increase the likelihood that victims will pay the ransom, fearing both the loss of critical data and the potential for public exposure of sensitive information.\nAdditionally, HexaLocker V2 replaces the communication protocol used in the previous version. Instead of the original TOXID communication method, HexaLocker V2 introduces a unique hash system. This new system allows victims to communicate directly with the attackers via a dedicated web chat interface, further streamlining the ransom negotiation process.\nConclusion\nThe return of HexaLocker V2, with its integration of Skuld Stealer and advanced encryption, highlights the growing threat of ransomware. To defend against these attacks, strong cybersecurity practices such as regular backups, software updates, and phishing training are essential. Proactive measures like endpoint protection and network segmentation can also reduce risk. As ransomware continues to grow in sophistication, leveraging advanced threat intelligence platforms like Cyble helps organizations protect themselves from cyber threats such as HexaLocker V2.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Cyble Research and Intelligence Labs",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "9ddc4a10028524d48c23a94d4afb7bf4870bd23b",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:14:12.618+02:00",
+  "updated": "2025-01-10T12:14:12.618+02:00"
+}

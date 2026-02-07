@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "f2d481ea946588130d6df349cfb677a33606ec7a",
+    "url": "https://forum.winehq.org/viewtopic.php?p=145494",
+    "site_full": "forum.winehq.org",
+    "site": "winehq.org",
+    "site_section": "https://forum.winehq.org/feed.php",
+    "site_categories": [],
+    "section_title": "WineHQ Forums",
+    "title": "Linux • Dictionary crashes on accented characters",
+    "title_full": "Linux • Dictionary crashes on accented characters",
+    "published": "2024-11-22T03:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3952,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f2d481ea946588130d6df349cfb677a33606ec7a",
+  "url": "https://forum.winehq.org/viewtopic.php?p=145494",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "LMLM",
+  "published": "2024-11-22T03:33:00.000+02:00",
+  "title": "Linux • Dictionary crashes on accented characters",
+  "text": "The dictionary searches for words as I type. When I find the word I want, I can press Enter and read the definitions, examples etc.\nI posted a video here:\nhttps://gofile.io/d/PVUCIJ\nThe application crashes and exits completely. It looks like it never exits on the video because it's edited. The video shows a series of separate attempts.\nThe problem happens when the word has an accented character. In the example, it crashes on \"mocó,\" \"café,\" \"gráfico\" and \"mínimo.\" It doesn't seem to crash on words with no accented characters. I tried a lot, never happened. Only on words with accented characters.\nWhen I was using Wine 5.12, I remember I had problems with all available newer versions on Debian Stretch. I don't remember what the problem was. I just remember I had to keep on 5.12.\nNow I am using Winehq Stable 9 on Ubuntu.\nI tried running Wine + the dictionary from the command line, but there is no useful output. There is only this:\nCode: [Select all](#)\n$ wine /home/user/progs/aurelio/AeXXI.exe\n0080:fixme:wineusb:add_usb_device Interface 1 has 2 alternate settings; using the first one.\n0080:fixme:wineusb:add_usb_device Interface 2 has 2 alternate settings; using the first one.\n007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005\n007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005\n007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005\n007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\n007c:fixme:wineusb:query_id Unhandled ID query type 0x5.\nIs there some way to troubleshoot and fix this?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T05:55:08.477+02:00",
+  "updated": "2024-11-22T05:55:08.477+02:00"
+}

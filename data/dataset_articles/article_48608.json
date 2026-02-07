@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "5482b6cc34d20b50e3694ea72a9278fb6af6b9cf",
+    "url": "https://www.nouvelles-du-monde.com/sante-tech-depart-possible-dune-entreprise-limerick-emplois-menaces",
+    "site_full": "www.nouvelles-du-monde.com",
+    "site": "nouvelles-du-monde.com",
+    "site_section": "https://www.nouvelles-du-monde.com",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "legal_issues"
+    ],
+    "section_title": "Nouvelles Du Monde - www.nouvelles-du-monde.com",
+    "site_title": "Nouvelles Du Monde - www.nouvelles-du-monde.com",
+    "title": "Santé Tech : Départ possible d'une entreprise limerick, emplois menacés",
+    "title_full": "Santé Tech : Départ possible d'une entreprise limerick, emplois menacés",
+    "published": "2025-03-27T22:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.limerickleader.ie/resizer/1200/700/true/2025_03_27/Carelon_logo-1743090210536.jpg--breaking__carelon_global_solutions_story.jpg?1743090210903",
+    "performance_score": 0,
+    "domain_rank": 131048,
+    "domain_rank_updated": "2025-03-24T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5482b6cc34d20b50e3694ea72a9278fb6af6b9cf",
+  "url": "https://www.nouvelles-du-monde.com/sante-tech-depart-possible-dune-entreprise-limerick-emplois-menaces",
+  "ord_in_thread": 0,
+  "author": "Nouvelles",
+  "published": "2025-03-27T22:44:00.000+02:00",
+  "title": "Santé Tech : Départ possible d'une entreprise limerick, emplois menacés",
+  "text": "Une entreprise employant plus de 300 personnes à Plassey est concernée.\nDes craintes pèsent sur des centaines d’emplois à Limerick alors qu’une entreprise de technologie de la santé envisage de se retirer d’Irlande après seulement quatre ans.\nElevance Health , la société mère de Carelon global Solutions, qui emploierait plus de 300 personnes dans la ville, a confirmé la nouvelle dans une déclaration.\nUn porte-parole de l’entreprise a déclaré : « Dans le cadre de notre examen continu des opérations commerciales et compte tenu de l’évolution du paysage des soins de santé,Elevance Health envisage de cesser les activités de Carelon Global Solutions Ireland Limited. »\nle porte-parole a ajouté : « Nous comprenons que cette nouvelle est difficile pour les associés, dont les réalisations, le dévouement et le service continus sont pleinement appréciés, et nous nous engageons à les soutenir tout au long de ce processus. »\nLa société américaine existe pour relever les défis des soins de santé.\nLe center de recherche et développement de Carelon en Irlande est situé dans le parc technologique national de Plassey.\nGrâce au développement de solutions d’intelligence artificielle et d’analyze de données, le personnel y développe des logiciels pour permettre aux gens de vivre plus longtemps et en meilleure santé.ils contribuent également à identifier les gains d’efficacité dans la prestation des soins de santé.\nL’année dernière seulement, l’entreprise a annoncé la création de 100 nouveaux emplois à Limerick, ce qui, selon elle, porterait son effectif local à 310 personnes.\nCela faisait suite à la victoire de l’entreprise au prix de l’entreprise de l’année de la Chambre de commerce de Limerick, ainsi qu’au titre de meilleur employeur.\nElle a été lancée à Limerick en novembre 2021.\nBien qu’un grand nombre d’emplois soient basés à Limerick, la majorité sont des télétravailleurs.\nOptimisation de la mise en page des publicités et autres éléments sur les pages d’articles\nCet article explore des techniques pour optimiser l’affichage des publicités et d’autres éléments sur les pages d’articles, améliorant ainsi l’expérience utilisateur et potentiellement les revenus publicitaires.\nDéplacement stratégique des publicités Une fonction clé est le déplacement dynamique des publicités au sein du contenu de l’article. Cette fonction prend en compte la hauteur et la longueur du texte de chaque paragraphe pour déterminer les emplacements appropriés pour insérer les publicités.\nLa fonction moveAd prend trois arguments :\nadSelector : Un sélecteur CSS identifiant l’élément publicitaire à déplacer.\nadName : Un nom descriptif pour l’élément publicitaire.\ntargetContentParagraph : le numéro du paragraphe de contenu après lequel l’annonce doit être insérée.\nLa fonction effectue les opérations suivantes :\nCompte les paragraphes avec du contenu significatif : Elle itère sur tous les paragraphes de l’article, en vérifiant leur hauteur et la longueur de leur texte.Les paragraphes qui répondent à certains critères de taille minimale sont considérés comme contenant du contenu significatif. Détermine l’index du paragraphe cible : Elle calcule l’index du paragraphe après lequel l’annonce doit être insérée, en fonction du paramètre targetContentParagraph . Déplace l’annonce (si possible) : Si le nombre de paragraphes avec du contenu significatif est supérieur à targetContentParagraph , l’annonce est détachée de sa position actuelle et ajoutée après le paragraphe cible. Gère les cas où le déplacement n’est pas possible : Si le nombre de paragraphes avec du contenu significatif est inférieur ou égal à targetContentParagraph , l’annonce est supprimée. Vérifie et retire les annonces imbriquées dans des divs : La fonction moveAdOutOfDivs est appelée pour s’assurer que l’annonce n’est pas accidentellement imbriquée dans un élément div . Des fonctions similaires, comme moveAd bk , existent potentiellement pour des implémentations alternatives ou des versions antérieures de la logique.\nAmélioration du style des articles connexes la fonction styleRelatedArticle vise à améliorer l’apparence des articles connexes affichés sur la page. Elle effectue les actions suivantes :\nRécupère le lien de l’article connexe : Elle extrait l’URL de l’article connexe à partir d’un élément . Applique le lien à un élément parent : Elle définit l’attribut href d’un élément parent pour qu’il pointe vers l’URL de l’article connexe.\nAjoute un logo : Elle ajoute un logo à l’élément de l’article connexe, en utilisant l’URL du logo du site web.\nAugmente la résolution de l’image (si possible) : Elle tente d’augmenter la résolution de l’image de l’article connexe en remplaçant une partie de l’URL de l’image.\nOrchestration du déplacement des publicités La fonction moveAds est le point d’entrée principal pour le déplacement des publicités.Elle effectue les opérations suivantes :\nremplace les balises\npar des balises\n: Elle remplace toutes les balises de saut de ligne\npar des balises de paragraphe\n,ce qui permet de s’assurer que le contenu de l’article est correctement structuré en paragraphes. Appelle la fonction moveAd pour chaque emplacement publicitaire : Elle appelle la fonction moveAd pour chaque emplacement publicitaire prédéfini, en spécifiant le sélecteur CSS de l’annonce, son nom et le numéro du paragraphe cible. Ajoute des bordures et des étiquettes pour le débogage (si activé) : Si le mode débogage est activé, elle ajoute des bordures en pointillés et des étiquettes aux éléments publicitaires Teads. Correction des problèmes audio sur ordinateur La fonction fixDesktopAudio corrige un problème potentiel avec la lecture audio sur les ordinateurs de bureau. Si un fichier MP3 est intégré à l’aide d’un lecteur Flash (identifié par la classe vcflowplayer ), la fonction remplace le lecteur Flash par un élément HTML5 standard.\nGestion des articles sponsorisés et autres types d’articles Le code inclut une logique pour gérer différents types d’articles, tels que les articles sponsorisés, les articles de type “story telling”, les sondages et les quiz.\nArticles sponsorisés : Si l’article contient le mot-clé “sponsor” dans ses balises meta, toutes les publicités intégrées à l’article (y compris les publicités Outbrain, Teads et Seedtag) sont déplacées à la fin de l’article ou supprimées.\n* Articles de type “story telling” : Si l’article est un article de type “story telling” (identifié par la classe vc story telling ),les publicités Outbrain sont déplacées avant le lien “story telling”.\nInitialisation La fonction $(function(){ ... }); est exécutée lorsque le document est prêt. Elle contient la logique principale pour déplacer les publicités en fonction du type d’article. Elle appelle également la fonction fixDesktopAudio pour corriger les problèmes audio potentiels.La situation économique actuelle suscite des inquiétudes croissantes quant à l’avenir de certaines entreprises en Irlande. Une entreprise technologique spécialisée dans le secteur de la santé envisage de quitter le pays, soulevant des questions sur les défis auxquels sont confrontées les entreprises irlandaises.Plusieurs facteurs contribuent à cette situation. Les coûts opérationnels, la réglementation et l’accès aux talents sont des éléments cruciaux pour les entreprises. Des changements dans ces domaines peuvent avoir un impact significatif sur leur viabilité.\nLimerick, une ville irlandaise, est particulièrement concernée par cette situation. La perte potentielle d’emplois et d’investissements pourrait avoir des conséquences importantes pour la communauté locale.\nLes entreprises technologiques jouent un rôle essentiel dans l’économie irlandaise. Leur départ pourrait signaler des problèmes plus profonds et nécessiter une attention particulière de la part des décideurs politiques.Il est impératif d’analyser les raisons qui poussent les entreprises à envisager de quitter l’Irlande. des mesures proactives pourraient être nécessaires pour maintenir un environnement favorable aux entreprises et préserver les emplois.\nLes défis auxquels sont confrontées les entreprises irlandaises nécessitent une approche globale. La collaboration entre les secteurs public et privé est essentielle pour trouver des solutions durables.\nLa situation actuelle met en évidence la nécessité d’une vigilance constante et d’une adaptation aux changements économiques. L’avenir des entreprises irlandaises dépendra de la capacité du pays à relever ces défis.\nFAQ sur les problèmes des entreprises irlandaises Q : Quelle entreprise est susceptible de quitter l’Irlande ?\nR : Carelon Global Solutions Ireland Limited, une entreprise de technologie de la santé, filiale d’Elevance Health.\nQ : Où se trouve Carelon Global Solutions Ireland Limited ?\nR : limerick, Irlande, avec un center de recherche et développement situé dans le parc technologique national de Plassey.\nQ : Combien d’emplois sont menacés ?\nR : Plusieurs centaines d’emplois sont menacés à Limerick. L’entreprise employait environ 310 personnes.\nQ : Pourquoi l’entreprise envisage-t-elle de partir ?\nR : L’entreprise évoque un “examen continu des opérations commerciales et compte tenu de l’évolution du paysage des soins de santé.”\nQ : Quand l’entreprise a-t-elle été lancée à Limerick ?\nR : novembre 2021.\nTableau récapitulatif : Carelon global Solutions et son départ potentiel | Aspect | Détail |\n| | – |\n| Entreprise concernée | Carelon Global Solutions Ireland Limited (Elevance Health) |\n| Secteur | Technologie de la santé |\n| Lieu principal | Limerick, Irlande |\n| Nombre d’emplois | Environ 310 |\n| Raison du départ | Examen des opérations et évolution du paysage des soins de santé |\n| Implantation à Limerick | Depuis novembre 2021 |\n| Impact | Incertitude pour des centaines d’emplois et impact sur l’économie locale |",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Labor"
+  ],
+  "topics": [
+    "Economy, Business and Finance->corporate news and profiles",
+    "Economy, Business and Finance->human resources",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social services",
+    "Social Issue->social condition",
+    "Labor->employment",
+    "Labor->labour relations",
+    "Labor->employer"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.britannica.com/place/Ireland",
+    "https://www.youtube.com/embed/pwclflXBAdU",
+    "https://literarydevices.net/limerick/",
+    "https://www.insure.com/companies/elevance-health-insurance.html",
+    "https://youtube.com/embed/pwclflXBAdU",
+    "https://www.literarydevices.net/limerick/",
+    "https://insure.com/companies/elevance-health-insurance.html",
+    "https://britannica.com/place/Ireland",
+    "https://literarydevices.net/limerick"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": []
+  },
+  "rating": null,
+  "crawled": "2025-03-28T04:08:51.760+03:00",
+  "updated": "2025-03-28T04:08:51.760+03:00"
+}

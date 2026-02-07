@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "9fcb05ee29e626a33a26cc3113c59705b321e0bb",
+    "url": "https://community.netgear.com/t5/Nighthawk-Wi-Fi-6-AX-Mesh/MR80-crashes-resets-several-times-a-day/m-p/2405684",
+    "site_full": "community.netgear.com",
+    "site": "netgear.com",
+    "site_section": "https://community.netgear.com:443/ejquo23388/rss/Category?category.id=English&interaction.style=forum&feeds.replies=true",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "All board posts in English",
+    "title": "MR80 crashes/resets several times a day",
+    "title_full": "MR80 crashes/resets several times a day",
+    "published": "2024-11-22T07:05:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://community.netgear.com/html/assets/img11.jpg",
+    "performance_score": 0,
+    "domain_rank": 3091,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9fcb05ee29e626a33a26cc3113c59705b321e0bb",
+  "url": "https://community.netgear.com/t5/Nighthawk-Wi-Fi-6-AX-Mesh/MR80-crashes-resets-several-times-a-day/m-p/2405684",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "jwersan",
+  "published": "2024-11-22T07:05:00.000+02:00",
+  "title": "MR80 crashes/resets several times a day",
+  "text": "I've had the MR80 and its two MS80s for over a year, maybe two at least.\nI also have two MS60s hanging off of it, all are working as expected, I.E. connectivity.\nSince I initially set it up, I've had issues with it sporadically dropping connectivity. Everything would drop connection to the internet, usually requiring a power reset.\nThis was before I set up the MS60s so I don't believe they are the cause.\nRecently it has started to crash/reset a few times a day, but it doesn't seem to be a complete crash which is curious.\nI'll be \"Surfing\" and suddenly I'll have no internet connectivity on my PC. Yet, the satellites still seem to have access to the internet, in that streaming seems to be unaffected while it is resetting itself. I know that it may be running off of buffered data, but the time it takes to fully reset should exhaust the buffer in my opinion.\nI am hardwired from my PC to the MR80 so this is not a WIFI issue.\nWhen I lose connectivity, the MR80 has a blinking white light, and the ping I do to verify connectivity works to the MR80 but can't ping the IP address 1.1.1.1\nAfter the blinking white light, I will lose connectivity to the MR80, and it now has a solid amber light.\nAfter a bit, I get a blue light and then I can ping out to the internet.\nLogs are useless as it seems they get reset when this happens.\nI have it on a UPS and it is not reporting any power losses...\nAs you can see I'm using the latest firmware and I don't feel I have too many devices connected to cause this to reset like this.\nAny help greatly appreciated.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T07:29:03.800+02:00",
+  "updated": "2024-11-22T09:20:57.669+02:00"
+}

@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "ebc8e7f21f417285433592e0d60123692eab10f4",
+    "url": "https://www.biometricupdate.com/202410/mastercard-highlights-the-growing-case-for-biometric-authentication-and-payment-passkeys",
+    "site_full": "www.biometricupdate.com",
+    "site": "biometricupdate.com",
+    "site_section": "https://www.biometricupdate.com/biometric-news/law-enforcement",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Law Enforcement | Biometric Update",
+    "title": "Mastercard highlights the growing case for biometric authentication and payment passkeys",
+    "title_full": "Mastercard highlights the growing case for biometric authentication and payment passkeys",
+    "published": "2024-10-18T01:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/17105421/Mastercard-securing-payments-with-biometrics.jpg",
+    "performance_score": 0,
+    "domain_rank": 12248,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ebc8e7f21f417285433592e0d60123692eab10f4",
+  "url": "https://www.biometricupdate.com/202410/mastercard-highlights-the-growing-case-for-biometric-authentication-and-payment-passkeys",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Abigail Opiah",
+  "published": "2024-10-18T01:13:00.000+03:00",
+  "title": "Mastercard highlights the growing case for biometric authentication and payment passkeys",
+  "text": "At the Authenticate conference, Mastercard executives Jonathan Grossar, VP, product management, and Fred Tyler, VP, emerging digital products for North America, delivered a presentation on the future of digital payments, emphasizing the case against passwords and the rise of biometric authentication. As online fraud continues to challenge the e-commerce sector, they outline Mastercard's multi-layered security strategy, which includes the adoption of payment passkeys to improve both security and user experience.Grossar, from Mastercard’s global authentication product team, introduced the concept of the payment passkey, highlighting its role in addressing issues related to online security and friction in e-commerce transactions. Tyler, from the North American product team, provided context on the evolution of card-present fraud prevention techniques, such as contactless payments and EMV chips, and emphasized the need to extend similar levels of security to the digital realm.\"Even though e-commerce has been around for over 20 years, there continues to be a lack of trust with ecommerce transactions,\" Tyler states. He pointed out that existing methods like one-time passwords, though convenient, are vulnerable to phishing and SIM swapping attacks. This is where biometric authentication comes into play, offering a secure alternative by leveraging devices’ built-in fingerprint and facial recognition capabilities.The Mastercard team also underscored the importance of multi-layered security in payments, stressing that payment passkeys are bound to both the user’s device and their payment credentials. The binding ensures a higher level of security for online transactions. The presentation highlights pilots launched in India and the Middle East, showcasing how consumers can use biometric authentication to confirm payments seamlessly with passkeys, either through stored card details or manually entered credentials.A key component of their discussion focused on enhancing the user experience while ensuring security compliance. Mastercard’s solution integrates FIDO and W3C standards in a bid to make biometric authentication more user-friendly. Grossar mentioned ongoing discussions to further improve the security landscape with tokenization, dynamic linking, and network tokenization to replace traditional plastic card numbers, making transactions more secure and fraudsters' efforts less effective.With pilots already in place, the Mastercard team emphasizes the potential for widespread adoption of payment passkeys, particularly as they work toward a consistent user experience. They also outline the Secure Payment Confirmation (SPC) standard, which will further improve transaction security by linking payment details and providing a browser-based authentication experience.Elsewhere, Mastercard has introduced a new Identity Attribute Verification service designed to enhance online interactions. The service aligns with the latest industry standards set by EMVCo, aiming to provide more secure and seamless identity verification for digital transactions.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jonathan Grossar",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Fred Tyler",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Mastercard",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "North",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:30:33.126+03:00",
+  "updated": "2024-10-18T01:30:33.126+03:00"
+}

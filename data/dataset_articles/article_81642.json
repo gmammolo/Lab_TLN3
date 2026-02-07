@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "7eeccf4b83207aa9bca3094bfd1a77d37f3959d9",
+    "url": "https://www.newswise.com/articles/smart-nanoprobe-illuminates-prostate-cancer-cells",
+    "site_full": "www.newswise.com",
+    "site": "newswise.com",
+    "site_section": "https://www.newswise.com",
+    "site_categories": [
+      "media",
+      "senor_health",
+      "health"
+    ],
+    "section_title": "Newswise | Leading Source of Research News",
+    "title": "Smart nanoprobe illuminates prostate cancer cells",
+    "title_full": "Smart nanoprobe illuminates prostate cancer cells",
+    "published": "2024-04-11T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.newswise.com/legacy/image.php?image=/images/uploads/2024/04/11/6618247be02e4_nanoSABERschematic600x400.jpg&width=600&height=600",
+    "performance_score": 0,
+    "domain_rank": 4123,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7eeccf4b83207aa9bca3094bfd1a77d37f3959d9",
+  "url": "https://www.newswise.com/articles/smart-nanoprobe-illuminates-prostate-cancer-cells",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "National Institute of Biomedical Imaging and Bioengineering",
+  "published": "2024-04-11T03:00:00.000+03:00",
+  "title": "Smart nanoprobe illuminates prostate cancer cells",
+  "text": "Newswise — Biomedical imaging modalities such as magnetic resonance imaging (MRI) have revolutionized the ability to detect and track the progress of many cancer types. However, the difficulty of obtaining detailed images of cancer cells buried deep within normal tissues has slowed the usefulness of imaging technology for improved, personalized cancer care. An approach biomedical engineers are pursuing to overcome this limitation involves building nanoprobes that are designed to travel throughout the body, accumulate in cancer cells, and send a signal that illuminates the tumor. NIBIB-supported researchers at Johns Hopkins University have developed a smart nanoprobe designed to infiltrate prostate tumors and send back a signal using an optical imaging technique known as Raman spectroscopy. The new probe, reported in Advanced Science , has the potential to determine tumor aggressiveness and could also enable sequential monitoring of tumors during therapy to quickly determine if a treatment strategy is working. “We are excited about the potential for improving diagnosis and treatment of many common cancers,” explained the project leaders Jeff Bulte, Ph.D., and Ishan Barman, Ph.D. “We are combining self-assembling nanoprobes with Raman spectroscopy to achieve precise, single-cell resolution images required for eventual practical use in the clinic.” The engineering team constructed a nanoprobe that is sensitive to its local microenvironment: it is activated only after it encounters legumain, a tumor-associated enzyme that is produced by aggressive prostate cancer cells. Once it encounters the nanoprobe, legumain splits it into pieces that can self-assemble to create an optically active nanoparticle. These nanoparticles emit specific wavelengths of light that can be detected with Raman spectroscopy to visualize the tumor. Postdoctoral fellows Swati Tanwar, Ph.D., and Behnaz Ghaemi, Ph.D., spearheaded the design and synthesis of the nanoprobe, called nanoSABER (for Self-Assembling Bioorthogonal Enzyme Recognition)—an apt name that reflects the surgical precision of the smart molecule. “We have chosen Raman reporters that are specifically active in the 'cell silent' region of the near-infrared spectrum to avoid interference with the signal from normal tissue,” explained Barman. “This selective activity is crucial for our imaging technique, as it allows for precise detection by Raman spectroscopy without reacting with or being obscured by the surrounding biological material.” The researchers used two prostate cancer cell lines exhibiting varying levels of legumain expression—one high and one low—alongside a non-cancerous prostate epithelial cell line, which produces a negligible amount of the enzyme. NanoSABER was tested in laboratory cell cultures and in an experimental mouse model. In both settings, the prostate cells expressing legumain activated the nanoprobe and emitted a signal with an intensity that corresponded to the amount of legumain produced by the cancer cells. The non-legumain cell type did not activate the nanoprobe, demonstrating that the nanoSABER system performed as designed, emitting a signal that correctly indicated the presence and amount of the cancer-associated enzyme. “The work by this group is a significant step towards better care for men afflicted with prostate cancer,” explained Tatjana Atanasijevic, Ph.D., a program director in the Division of Applied Science & Technology at NIBIB. “It is an excellent example of the type of innovative technologies NIBIB supports that have the potential to dramatically impact health care.” The team believes they have engineered a molecular system with the potential to not only identify tumors using optical imaging but to also rapidly assess tumor aggressiveness—potentially without the need for painful biopsies that are the current standard of care. In addition, as profiles of enzyme secretion by different types of cancers are discovered, additional nanoSABER probes can be synthesized that will allow a level of precise diagnosis of tumor types and characteristics that is not currently possible, including sequential imaging of tumors to determine whether therapies are working in real time. This work was supported by grants from NIBIB (R01EB030376, P41EB015871, and P41EB024495), the National Cancer Institute (NCI; R01CA238025), and the National Institute of General Medical Sciences (NIGMS; R35GM149272 and DP2GM128198). This science highlight describes a basic research finding. Basic research increases our understanding of human behavior and biology, which is foundational to advancing new and better ways to prevent, diagnose, and treat disease. Science is an unpredictable and incremental process—each research advance builds on past discoveries, often in unexpected ways. Most clinical advances would not be possible without the knowledge of fundamental basic research. Study reference: A Smart Intracellular Self-Assembling Bioorthogonal Raman Active Nanoprobe for Targeted Tumor Imaging. Tanwar S, Ghaemi B, Raj P, Singh A, Wu L, Yuan Y, Arifin DR, McMahon MT, Bulte JWM, Barman I. Adv Sci (Weinh). 2023 Dec;10(34): e2304164. doi: 10.1002/advs.202304164. About the graphics: Both graphics used in this highlight were adapted from figures in the publication in Advanced Science and are licensed under the Creative Commons Attribution 4.0 International License . MEDIA CONTACT [Register for reporter access to contact details](/users/register) CITATIONS R01EB030376; P41EB015871; P41EB024495; R01CA238025; R35GM149272; DP2GM128198; Advanced Science",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health"
+  ],
+  "external_links": [
+    "https://pubmed.ncbi.nlm.nih.gov/37715297/),",
+    "https://pubmed.ncbi.nlm.nih.gov/37715297/)",
+    "https://creativecommons.org/licenses/by/4.0/).",
+    "https://www.pubmed.ncbi.nlm.nih.gov/37715297/),",
+    "https://www.creativecommons.org/licenses/by/4.0/).",
+    "https://www.pubmed.ncbi.nlm.nih.gov/37715297/)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "raman",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "johns hopkins university",
+        "sentiment": "none"
+      },
+      {
+        "name": "nibib",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T00:13:00.156+03:00",
+  "updated": "2024-04-12T18:42:11.513+03:00"
+}

@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "99bb984ce7d3c840c150b1d41261104a98b26079",
+    "url": "https://www.neowin.net/news/chinese-hackers-exploit-linux-with-new-wolfsbane-malware",
+    "site_full": "www.neowin.net",
+    "site": "neowin.net",
+    "site_section": "https://www.neowin.net/editorials",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "Tech News, Reviews & Betas | Neowin",
+    "title": "Chinese hackers exploit Linux with new WolfsBane malware",
+    "title_full": "Chinese hackers exploit Linux with new WolfsBane malware",
+    "published": "2024-11-22T14:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.neowin.com/news/images/uploaded/2024/11/1732277714_1683133488_342061477_3414175005565990_6746893404219909355_n_[mconverter.eu]_story.jpg",
+    "performance_score": 0,
+    "domain_rank": 3637,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "99bb984ce7d3c840c150b1d41261104a98b26079",
+  "url": "https://www.neowin.net/news/chinese-hackers-exploit-linux-with-new-wolfsbane-malware",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@_rhamat",
+  "published": "2024-11-22T14:22:00.000+02:00",
+  "title": "Chinese hackers exploit Linux with new WolfsBane malware",
+  "text": "ESET researchers have recently discovered a new Linux backdoor, named WolfsBane, that is being used by the China-aligned Gelsemium APT group. This is the first known instance of Gelsemium using Linux malware. The backdoor is designed to steal sensitive data, including system information, user credentials, and specific files and directories.\nWolfsBane is a Linux version of Gelsevirine, a Windows backdoor that Gelsemium has been using since 2014. The backdoor is distributed with a dropper posing as a genuine command scheduling tool. Once executed, the dropper installs the WolfsBane launcher and backdoor on the target system. The launcher is disguised as a KDE desktop component, while the backdoor is hidden as a system service.\nThe WolfsBane backdoor communicates with a command and control (C&C) server via a custom network protocol. The backdoor can run commands, download files, and upload them to the C&C server. The backdoor can also hide its existence on the system by changing the system's configuration files.\nIn addition to WolfsBane, ESET researchers identified another Linux backdoor, called FireWood, which is linked to the Project Wood malware. In the past, Gelsemium employed the Windows backdoor, Project Wood. FireWood is the Linux version of Project Wood, and it is also designed to steal sensitive information.\nResearchers believe the shift to Linux malware is due to [improvements in Windows endpoint security](https://www.neowin.net/news/microsoft-is-adding-some-improved-security-features-to-windows-365/). As a result, threat actors are exploring new attack avenues, increasingly focusing on exploiting flaws in internet-facing systems, most of which run on Linux.\nThe discovery of WolfsBane and FireWood serves as a reminder that Linux systems are vulnerable to attacks. Organizations must understand the danger that Linux malware poses and adopt the necessary safety measures to protect their systems. This include using strong passwords, updating software, and exercising caution while downloading and running particular files.\nSource: [WeLiveSecurity](https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/",
+    "https://welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/",
+    "https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T14:36:15.770+02:00",
+  "updated": "2024-11-22T14:36:15.770+02:00"
+}

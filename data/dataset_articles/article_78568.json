@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "c1502812e4367ecf34a3fa2f2bbca6518fd40e3b",
+    "url": "https://www.news.de/technik/858878230/lexmark-universal-print-driver-gefaehrdet-bsi-meldung-zur-it-sicherheit-windows-betroffen-schwachstelle-ermoeglicht-offenlegung-von-informationen/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "IT-Sicherheit: Windows gefährdet - Neue Sicherheitslücke bei Lexmark Universal Print Driver",
+    "title_full": "IT-Sicherheit: Windows gefährdet - Neue Sicherheitslücke bei Lexmark Universal Print Driver",
+    "published": "2025-08-21T12:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771868/images/43/fb/ca15d1721a3bc174a2f42a9d1884/nopic/no_pic/1200/675/1/1/-/4/1024/576/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771868_1200x675_4869d814f961f78e00269f4ac44386e5.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c1502812e4367ecf34a3fa2f2bbca6518fd40e3b",
+  "url": "https://www.news.de/technik/858878230/lexmark-universal-print-driver-gefaehrdet-bsi-meldung-zur-it-sicherheit-windows-betroffen-schwachstelle-ermoeglicht-offenlegung-von-informationen/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:36:00.000+03:00",
+  "title": "IT-Sicherheit: Windows gefährdet - Neue Sicherheitslücke bei Lexmark Universal Print Driver",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 20.08.2025 einen Sicherheitshinweis für Lexmark Universal Print Driver herausgegeben. Betroffen von der Sicherheitslücke sind das Betriebssystem Windows sowie das Produkt Lexmark Universal Print Driver.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: EUVD-2025-25175 Universal Print Driver,Printer Software G2 (Stand: 20.08.2025). Weitere nützliche Quellen werden weiter unten in diesem Artikel aufgeführt.\nSicherheitshinweis für Lexmark Universal Print Driver - Risiko: mittel\nRisikostufe: 2 (mittel)\nCVSS Base Score: 5,9\nCVSS Temporal Score: 5,2\nRemoteangriff: Nein\nZur Bewertung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Kriterien miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Der Temporal Score berücksichtigt darüber hinaus zeitliche Veränderungen hinsichtlich der Gefahrenlage. Das Risiko der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 5,9 als \"mittel\" eingestuft.\nLexmark Universal Print Driver Bug: Schwachstelle ermöglicht Offenlegung von Informationen\nDer Universaldruckertreiber von Lexmark ermöglicht die Nutzung mehrerer Druckermodelle mit nur einem Druckertreiber.\nEin lokaler Angreifer kann eine Schwachstelle in Lexmark Universal Print Driver ausnutzen, um Informationen offenzulegen.\nKlassifiziert wurde die Schwachstelle mithilfe des CVE-Bezeichnungssystems (Common Vulnerabilities and Exposures) durch die individuelle Seriennummer CVE-2025-4044.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssystem\nWindows\nProdukte\nLexmark Universal Print Driver ≥ 3.0.6.0 (cpe:/a:lexmark:universal_print_driver)\nAllgemeine Maßnahmen zum Umgang mit IT-Schwachstellen\n- Anwender der betroffenen Anwendungen sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten Sicherheitspatches verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten die genannten Quellen regelmäßig daraufhin prüfen, ob ein neues Sicherheitsupdate zur Verfügung steht.\nHersteller-Informationen zu Updates, Patches und Workarounds\nAn dieser Stelle befinden sich weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nEUVD-2025-25175 Universal Print Driver,Printer Software G2 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://euvd.enisa.europa.eu/enisa/EUVD-2025-25175\nLexmark Security Advisories vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://www.lexmark.com/en_us/solutions/security/lexmark-security-advisories.html\nVersionshistorie dieses Sicherheitshinweises\nDies ist die initiale Fassung des vorliegenden IT-Sicherheitshinweises für Lexmark Universal Print Driver. Bei Bekanntgabe von Updates wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.\n20.08.2025 - Initiale Fassung\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/News.de",
+    "https://euvd.enisa.europa.eu/enisa/EUVD-2025-25175",
+    "https://www.lexmark.com/en_us/solutions/security/lexmark-security-advisories.html",
+    "https://twitter.com/news_de",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://pin.it/11NQyAf",
+    "https://facebook.com/News.de",
+    "https://www.pin.it/11NQyAf",
+    "https://www.euvd.enisa.europa.eu/enisa/EUVD-2025-25175",
+    "https://www.twitter.com/news_de",
+    "https://lexmark.com/en_us/solutions/security/lexmark-security-advisories.html",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:31.973+03:00",
+  "updated": "2025-08-21T13:14:44.000+03:00"
+}

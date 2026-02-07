@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "e957b6648892ce1e3ce26217e89e2e41d29ef657",
+    "url": "https://www.eepw.com.cn/article/202508/473098.htm",
+    "site_full": "www.eepw.com.cn",
+    "site": "eepw.com.cn",
+    "site_section": "https://www.eepw.com.cn/news",
+    "site_categories": [],
+    "section_title": "新闻中心_电子产品世界",
+    "site_title": "EEPW 电子产品世界-权威的电子设计应用网站",
+    "title": "苹果新款 MacBook Pro 据报道推迟，M5 转向 LMC 封装，展望 CoWoS 未来",
+    "title_full": "苹果新款 MacBook Pro 据报道推迟，M5 转向 LMC 封装，展望 CoWoS 未来",
+    "published": "2025-08-14T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 36352,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e957b6648892ce1e3ce26217e89e2e41d29ef657",
+  "url": "https://www.eepw.com.cn/article/202508/473098.htm",
+  "ord_in_thread": 0,
+  "author": "作者： 时间：",
+  "published": "2025-08-14T03:00:00.000+03:00",
+  "title": "苹果新款 MacBook Pro 据报道推迟，M5 转向 LMC 封装，展望 CoWoS 未来",
+  "text": "苹果新款 MacBook Pro 据报道推迟，M5 转向 LMC 封装，展望 CoWoS 未来\n根据 TechNews 的报道，引用了 TechPowerUp 和 Wccftech 的信息，苹果下一代 M5 芯片——计划于 2026 年用于新款 MacBook Pro 机型——据报道在封装技术上将迎来重大升级，将独家采用由台湾永恒材料供应的 LMC（液体模塑化合物），为未来可能采用台积电的 CoWoS（晶圆上芯片再上基板）技术奠定基础。\n来自 TechPowerUp 的报道，援引一位知名分析师的言论称，Eternal 公司据报将为 A20 iPhone 芯片提供 MUF（底部填充成型）技术，并为高端 M5 Mac 处理器提供 LMC（晶圆级芯片封装）技术。报道称，根据行业消息人士透露，台积电已完成材料认证，CoWoS 技术的验证工作正在进行中。值得注意的是，据报 Eternal 公司击败了日本的 Namics 和 Nagase 公司，赢得了供应合同，这标志着苹果公司采购策略的转变，报道指出。\n据报道，苹果公司原计划秋季推出 M5 MacBook Pro，但现在预计将在 2026 年推出。TechNews 指出，延迟可能与封装技术的转变有关。\nLMC 封装技术可能为未来 CoWoS 技术的采用奠定基础\n如 Wccftech 所注意到的，Eternal Materials 公司的 LMC 技术是专门为满足台积电 CoWoS 封装的严格要求而开发的，这些标准同样适用于高性能计算芯片和人工智能加速器。报道补充说，CoWoS 技术能够在单个封装内堆叠或并排排列多个芯片，从而提高带宽和计算密度。\n虽然明年的 M5 Mac 不会立即采用完整的 CoWoS 技术，但 Wccftech 指出，采用兼容材料对于未来的型号仍然至关重要。报告暗示苹果可能正在为即将推出的 M6 或 M7 系列芯片铺路，这些芯片可能会完全实现 CoWoS 甚至 CoPoS（芯片上封装再上基板）技术。\n如果苹果未来采用 CoWoS 技术，将允许公司开发更先进的处理器，以应对日益复杂的任务，从 AI 模型训练到高端 3D 渲染，同时显著提高内存吞吐量，正如 Wccftech 所强调的那样。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->biotechnology",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->products and services",
+    "Social Issue->social networking",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:28:16.750+03:00",
+  "updated": "2025-08-14T10:31:04.000+03:00"
+}

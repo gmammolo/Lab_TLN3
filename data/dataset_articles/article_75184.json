@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "d3a9c734019800685911e01e77b45167da10b007",
+    "url": "https://www.lemondeinformatique.fr/actualites/lire-incident-crowdstrike-microsoft-degaine-quick-machine-recovery-pour-windows-11-95326.html",
+    "site_full": "www.lemondeinformatique.fr",
+    "site": "lemondeinformatique.fr",
+    "site_section": "http://www.lemondeinformatique.fr/flux-rss/architecture-logicielle/rss.xml",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Actualités logiciel",
+    "title": "Incident Crowdstrike : Microsoft dégaine Quick Machine Recovery pour Windows 11 - Le Monde Informatique",
+    "title_full": "Incident Crowdstrike : Microsoft dégaine Quick Machine Recovery pour Windows 11 - Le Monde Informatique",
+    "published": "2024-11-22T11:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://images.itnewsinfo.com/lmi/articles/grande/000000099852.png",
+    "performance_score": 0,
+    "domain_rank": 20766,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d3a9c734019800685911e01e77b45167da10b007",
+  "url": "https://www.lemondeinformatique.fr/actualites/lire-incident-crowdstrike-microsoft-degaine-quick-machine-recovery-pour-windows-11-95326.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jacques Cheminat",
+  "published": "2024-11-22T11:54:00.000+02:00",
+  "title": "Incident Crowdstrike : Microsoft dégaine Quick Machine Recovery pour Windows 11 - Le Monde Informatique",
+  "text": "Le traumatisme est encore vivace chez Microsoft après la panne généralisée de plusieurs millions de terminaux Windows le 20 juillet dernier . Une mise à jour défectueuse de Falcon Crowdstrike avait affecté des compagnies aériennes, des hôpitaux et des entreprises dans le monde entier. Les victimes ne pouvaient que constater des démarrages en boucle ou des écran bleu de la mort (BSoD). Pour ne plus revivre ce cauchemar, Microsoft a développé une fonction nommée Quick Machine Recovery ne nécessitant pas un accès direct pour résoudre les problèmes de démarrage de Windows.\n« Cette fonction proposera aux administrateurs informatiques d'exécuter des correctifs ciblés à partir de Windows Update sur les PC, même lorsque les machines ne peuvent pas démarrer, sans avoir besoin d'un accès physique au PC », a déclaré dans un blog David Weston, vice-président de l'entreprise pour la sécurité des entreprises et des systèmes d'exploitation. Il ajoute, « cette récupération à distance donnera la possibilité aux salariés de résoudre des problèmes plus rapidement que par le passé ». Le fournisseur indique qu'il déploiera la fonction Quick Machine Recovery auprès de la communauté du programme Windows 11 Insider au début de l'année 2025.\nL’accès au noyau Windows restreint La firme de Redmond travaille par ailleurs avec des éditeurs de solutions de sécurité ( avec une réunion en août dernier ) dans le cadre de l'initiative Microsoft Virus (MVI) afin d'ajouter des fonctionnalités et des outils à Windows supplémentaires. L’objectif est que les logiciels de sécurité fonctionnent en dehors du noyau Windows afin de ne pas revivre les incidents de type Crowdstrike. Habituellement, ces logiciels utilisent des pilotes du noyau pour accéder aux couches basses de l’OS afin de détecter les comportements inhabituels, de surveiller le trafic réseau et de mettre fin aux processus malveillants. Toutefois, cet accès au niveau du noyau augmente le risque qu'un pilote ou une mise à jour défectueux fasse planter un appareil qui ne démarre plus correctement.\nDavid Wetson souligne que « les produits de sécurité, comme les solutions antivirus, fonctionneront en mode utilisateur comme une simple application. Ce changement aidera les développeurs de ces produits à fournir un haut niveau de sécurité, une récupération plus facile et il y aura moins d’impact sur Windows en cas de crash ou d’une erreur ». Une beta privée sera mise à la disposition de l’écosystème en juillet 2025, assure le dirigeant.\nUne erreur dans l'article? Proposez-nous une correction\nArticle rédigé par Jacques Cheminat Rédacteur en chef LMI",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blogs.windows.com/windowsexperience/2024/11/19/windows-security-and-resiliency-protecting-your-business/",
+    "https://blogs.windows.com/windowsexperience/2024/11/19/windows-security-and-resiliency-protecting-your-business",
+    "https://www.blogs.windows.com/windowsexperience/2024/11/19/windows-security-and-resiliency-protecting-your-business/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T12:16:01.183+02:00",
+  "updated": "2024-11-22T12:16:01.183+02:00"
+}

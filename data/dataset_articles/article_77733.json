@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "83827cde678de9bdbad3696c7b9d351c62536dd7",
+    "url": "https://vuldb.com/?id.320893",
+    "site_full": "vuldb.com",
+    "site": "vuldb.com",
+    "site_section": "https://vuldb.com/?rss.recent",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "VulDB Recent Entries",
+    "site_title": "Vulnerability Database",
+    "title": "CVE-2025-9287 | browserify cipher-base up to 1.0.4 input validation (GHSA-cpq7-6gpm-g9rc)",
+    "title_full": "CVE-2025-9287 | browserify cipher-base up to 1.0.4 input validation (GHSA-cpq7-6gpm-g9rc)",
+    "published": "2025-08-21T08:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 186376,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "83827cde678de9bdbad3696c7b9d351c62536dd7",
+  "url": "https://vuldb.com/?id.320893",
+  "ord_in_thread": 0,
+  "author": "vuldb.com",
+  "published": "2025-08-21T08:15:00.000+03:00",
+  "title": "CVE-2025-9287 | browserify cipher-base up to 1.0.4 input validation (GHSA-cpq7-6gpm-g9rc)",
+  "text": "CVSS Meta Temp Score | Current Exploit Price (≈) | CTI Interest Score |\n---|---|---|\n5.4 | $0-$5k | 0.00+ |\nSummary\nA vulnerability classified as problematic has been found in browserify cipher-base up to 1.0.4. Affected by this issue is some unknown functionality. This manipulation causes input validation.\nThis vulnerability appears as CVE-2025-9287. The attack may be initiated remotely. There is no available exploit.\nIt is recommended to upgrade the affected component.\nDetails\nA vulnerability was found in browserify cipher-base up to 1.0.4. It has been declared as problematic. Affected by this vulnerability is some unknown processing. The manipulation with an unknown input leads to a input validation vulnerability. The CWE definition for the vulnerability is CWE-20. The product receives input or data, but it does\nnot validate or incorrectly validates that the input has the\nproperties that are required to process the data safely and\ncorrectly. As an impact it is known to affect confidentiality, integrity, and availability. The summary by CVE is:\nImproper Input Validation vulnerability in cipher-base allows Input Data Manipulation.This issue affects cipher-base: through 1.0.4.\nThe weakness was presented by ChALkeR as GHSA-cpq7-6gpm-g9rc. The advisory is shared at github.com. This vulnerability is known as CVE-2025-9287 since 08/20/2025. The exploitation appears to be difficult. The attack can be launched remotely. The exploitation doesn't need any form of authentication. Neither technical details nor an exploit are publicly available.\nUpgrading to version 1.0.5 eliminates this vulnerability. Applying a patch is able to eliminate this problem. The bugfix is ready for download at github.com. The best possible mitigation is suggested to be upgrading to the latest version.\nProduct\nVendor\nName\nVersion\nCPE 2.3\nCPE 2.2\nCVSSv4\nVulDB Vector:🔒\nVulDB Reliability:\n🔍\nCNA CVSS-B Score:\n🔒\nCNA CVSS-BT Score:\n🔒\nCNA Vector:\n🔒\nCVSSv3\nVulDB Meta Base Score: 5.6VulDB Meta Temp Score: 5.4\nVulDB Base Score:\n5.6\nVulDB Temp Score:\n5.4\nVulDB Vector:\n🔒\nVulDB Reliability:\n🔍\nCVSSv2\nAV | AC | Au | C | I | A |\n---|---|---|---|---|---|\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\nVector | Complexity | Authentication | Confidentiality | Integrity | Availability |\n---|---|---|---|---|---|\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nVulDB Base Score:\n🔒\nVulDB Temp Score:\n🔒\nVulDB Reliability:\n🔍\nExploiting\nClass: Input validationCWE:\nCWE-20\nCAPEC:\n🔒\nATT&CK:\n🔒\nPhysical: No\nLocal: No\nRemote: Yes\nAvailability:\n🔒\nStatus: Not defined\nPrice Prediction:\n🔍\nCurrent Price Estimation:\n🔒\n0-Day | Unlock | Unlock | Unlock | Unlock |\n---|---|---|---|---|\nToday | Unlock | Unlock | Unlock | Unlock |\nThreat Intelligence\nInterest:🔍\nActive Actors:\n🔍\nActive APT Groups:\n🔍\nCountermeasures\nRecommended: UpgradeStatus:\n🔍\n0-Day Time:\n🔒\nUpgrade: cipher-base 1.0.5\nPatch:\ngithub.com\nTimeline\n08/20/2025CVE reserved\n08/21/2025\nAdvisory disclosed\n08/21/2025\nVulDB entry created\n08/21/2025\nVulDB entry last update\nSources\nAdvisory:GHSA-cpq7-6gpm-g9rc\nResearcher: ChALkeR\nStatus: Confirmed\nCVE:\nCVE-2025-9287(\n🔒)\nGCVE (CVE):\nGCVE-0-2025-9287\nGCVE (VulDB):\nGCVE-100-320893\nEntry\nCreated: 08/21/2025 07:15 AMChanges:\n08/21/2025 07:15 AM (68)\nComplete:\n🔍\nCache ID: 212:9AD:113\nDiscussion\nNo comments yet. Languages: en.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.first.org/cvss/v3.1/specification-document#Base-Metrics",
+    "https://www.first.org/cvss/v3.1/specification-document#Temporal-Metrics",
+    "https://first.org/cvss/v3.1/specification-document#Temporal-Metrics",
+    "https://first.org/cvss/v3.1/specification-document#Base-Metrics"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T08:59:28.807+03:00",
+  "updated": "2025-08-21T09:02:11.000+03:00"
+}

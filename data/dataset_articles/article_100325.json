@@ -1,0 +1,138 @@
+{
+  "thread": {
+    "uuid": "e2cefc6c2c6f774b79b97f55fd91865a00cc8546",
+    "url": "https://www.bankinfosecurity.com/breach-roundup-cia-hacking-tool-leaker-sentenced-to-40-years-a-24249",
+    "site_full": "www.bankinfosecurity.com",
+    "site": "bankinfosecurity.com",
+    "site_section": "http://www.govinfosecurity.com/media-kit",
+    "site_categories": [
+      "media",
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Media Kit",
+    "title": "Breach Roundup: CIA Hacking Tool Leaker Gets 40 Years",
+    "title_full": "Breach Roundup: CIA Hacking Tool Leaker Gets 40 Years",
+    "published": "2024-02-01T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/breach-roundup-cia-hacking-tool-leaker-sentenced-to-40-years-showcase_image-8-a-24249.jpg",
+    "performance_score": 0,
+    "domain_rank": 12682,
+    "domain_rank_updated": "2024-01-30T12:05:46.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e2cefc6c2c6f774b79b97f55fd91865a00cc8546",
+  "url": "https://www.bankinfosecurity.com/breach-roundup-cia-hacking-tool-leaker-sentenced-to-40-years-a-24249",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@BnkInfoSecurity",
+  "published": "2024-02-01T02:00:00.000+02:00",
+  "title": "Breach Roundup: CIA Hacking Tool Leaker Gets 40 Years",
+  "text": "[Cybercrime](https://www.bankinfosecurity.com/cybercrime-c-416) , [Fraud Management & Cybercrime](https://www.bankinfosecurity.com/fraud-management-cybercrime-c-409) , [Governance & Risk Management](https://www.bankinfosecurity.com/governance-risk-management-c-93) Breach Roundup: CIA Hacking Tool Leaker Gets 40 YearsAlso: Cloudflare Was Hacked With Stolen Okta Token Every week, Information Security Media Group rounds up cybersecurity incidents and breaches around the world. This week, former CIA programmer gets 40-year sentence, zero trust prevents widespread damage, possible ransomware attack in Georgia, alleged hacker detained in Ukraine, USB-spread malware in Italy, LockBit attack on non-bank home mortgage lender, and Ukrainian critical infrastructure disrupted. See Also: [User Entity & Behavior Analytics 101: Strategies to Detect Unusual Security Behaviors](https://www.bankinfosecurity.com/webinars/user-entity-behavior-analytics-101-strategies-to-detect-unusual-w-5390?rf=RAM_SeeAlso) Former CIA Hacker Sentenced to 40 Years A former CIA programmer who spilled the agency's top-secret hacking toolbox online received on Thursday a sentence of 40 years in prison. Joshua Schulte's sentencing encompasses a 2022 [guilty verdict](/ex-cia-employee-convicted-in-theft-covert-hacking-info-a-19561) handed down for causing the largest data breach in CIA history in 2017, as well as a separate trial last year for possession of child sexual abuse materials that also resulted in a jury verdict of guilty. A 2020 trial on the leaking charges that ended with a hung jury also produced convictions of contempt of court and making material false statements. Schulte, 35, developed penetration tools for the espionage service and sent WikiLeaks a trove of techniques used for snooping on iPhones, Cisco networking devices, Skype and smart TVs (see: [7 Facts: 'Vault 7' CIA Hacking Tool Dump by WikiLeaks](/7-facts-vault-7-cia-hacking-tool-dump-by-wikileaks-a-9766)). \"Joshua Schulte betrayed his country by committing some of the most brazen, heinous crimes of espionage in American history,\" [said](https://www.justice.gov/usao-sdny/pr/former-cia-officer-joshua-adam-schulte-sentenced-40-years-prison-espionage-and-child) U.S. Attorney Damian Williams of the Southern District of New York. \"And all the while, Schulte collected thousands upon thousands of videos and images of children being subjected to sickening abuse for his own personal gratification.\" Hacker Used Stolen Okta Tokens in Cloudflare Attack A probable nation-state hacker used an access token and three service account credentials stolen from Okta in September to access a self-hosted Atlassian server used by internet infrastructure provider Cloudflare, Cloudflare disclosed Thursday. The company said it \"failed to rotate\" the credentials after Okta [disclosed](https://sec.okta.com/harfiles) the attack in October. Cloudflare said no customer data or systems were affected by the penetration, a fact it attributed to its embrace of zero trust architecture. Zero trust is \"like bulkheads in a ship where a compromise in one system is limited from compromising the whole organization,\" company executives [wrote](https://blog.cloudflare.com/thanksgiving-2023-security-incident) in a blog post. Cloudflare called the attacker - whom it didn't name - \"sophisticated\" and said they had a \"thoughtful and methodical manner\" and likely hailed from a nation-state operation. According to the company's timeline, from Nov. 14 to Nov. 17 the hacker conducted reconnaissance and accessed the internal wiki, which is based on Atlassian Confluence, and the bug database, which is based on Atlassian Jira. \"On November 20 and 21, we saw additional access indicating they may have come back to test access to ensure they had connectivity,\" Cloudflare said. On Nov. 22, the hacker used a Jira automation and customization tool called ScriptRunner to establish persistent access. The attacker \"tried, unsuccessfully, to access a console server that had access to the data center that Cloudflare had not yet put into production in São Paulo, Brazil.\" Cyber defenders terminated the attacker's access on Nov. 24, the company said. Cybersecurity Attack on Georgia's Fulton County Causes Outages Georgia's Fulton County is grappling with a cybersecurity attack that disrupted phone lines, the court system and the tax system over the weekend. Among the affected county employees is District Attorney Fani Willis, who leads an election interference criminal case against former President Donald Trump and alleged co-conspirators. \"At this time, we are not aware of any transfer of sensitive information about citizens or employees, but we will continue to look carefully at this issue,\" county Board of Commissioners Chairman Robb Pitts said during a Monday press conference. The Atlanta Journal-Constitution [reported](https://www.ajc.com/news/many-fulton-systems-still-down-experts-suggest-money-motive/AKUGPBQCS5CBDJPSYQHA4VPG5M/) Thursday that cyber experts believe the attack was a ransomware attack and was likely not politically motivated. The county is recovering from the attack although many public services and internal county operations are still inoperative, the newspaper said. Ukraine Detains Alleged Russian 'Cyber Army' Hacker The Ukrainian domestic security service agency [said](https://t.me/SBUkr/10967) on Telegram that it has arrested a suspected member of Russian intelligence-backed hacker group Cyber Army of Russia. Authorities said the individual, identified as a tech specialist from Kharkiv, had conducted DDoS attacks on government websites. The suspect allegedly joined the group through a hacker channel on Telegram. Authorities said the man fed target information for missile attacks, including one that struck a hospital. If convicted, he could face a maximum sentence of 12 years in prison. USB-Based Malware Campaign Targeted Italian Organizations A financially motivated threat group tracked by Mandiant as UNC4990 is using USB devices to infect Italian organizations - and using third-party websites such as GitHub, Vimeo and the forum section of news site Ars Technica to host malicious payloads. The threat intelligence company [said](https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware) the hackers behind the threat actors have been active since at least 2020 and favor targets in the health, transportation, construction and logistics sectors. The legitimate services used by hackers to host payloads weren't hacked. \"Nor did any of these organizations have anything misconfigured to allow for this abuse,\" Mandiant said. In the case of Vimeo, hackers inserted an encoded payload into the description of a video about spacy progressive rock band [Pink Floyd](https://www.youtube.com/watch?v=53N99Nim6WE). The video is no longer available. An infection starts with a victim clicking a malicious LNK shortcut file on a USB device, which leads to the execution of a coded PowerShell script that loads a downloader Mandiant dubbed Emptyspace, also known as [BrokerLoader](https://fortgale.com/blog/featured/nebula-broker-offensive-operations-italy/) and [Vetta Loader](https://yoroi.company/wp-content/uploads/2023/12/202311-Vetta-Loader_Def-min.pdf). The downloader communicates with the executable payload hidden on a third-party website. Threat actors use a backdoor Mandiant calls Quietboard that's capable of arbitrary command execution, clipboard content manipulation for crypto currency theft, removable drive infection, screenshotting, system information gathering, and communication with the C2 server. Planet Home Lending Notifies Customers of Ransomware Attack Planet Home Lending said it had been hacked by Russian-speaking extortion gang LockBit and notified nearly 200,000 customers of a November data breach incident. The non-bank lender [attributed](https://apps.web.maine.gov/online/aeviewer/ME/40/5f9aa393-9c7a-49e0-855f-5e36adfb9e6c.shtml) the breach to a vulnerability in NetScaler devices known as Citrix Bleed (see: [ Amid Citrix Bleed Exploits, NetScaler Warns: Kill Sessions](/amidst-citrix-bleed-exploits-netscaler-warns-kill-sessions-a-23653)). Compromised personal identifiable information includes names, addresses, Social Security numbers, loan numbers and financial account details. The company said it had not paid a ransom demand and does not plan to pay any ransom to the threat actor. Ukrainian Critical Infrastructure Targeted Several state-owned Ukrainian critical infrastructure operators reported service disruption last week stemming from a cyberattack on their cloud-based information systems maintained by [Parkovy](https://www.facebook.com/ParkovyiDC/posts/pfbid02UbSXANaQkZGqD32G3bA5bNerPiAq6E7CyRxBPGCDFCwbkaHS3zeFj8uunrrY6nfSl) data center facility in Kyiv. At least five Ukrainian organizations confirmed the service disruption, including state-owned energy company [Naftogaz](https://t.me/NaftogazUA/1836); national postal service provider [Ukrposhta](https://www.facebook.com/igor.smelyansky/posts/pfbid06MTAwgYgHKqCDrsexZNJJQcTumLSRA7JcQE5GLDRYKAjxfprXwoftzemndBhqmRVl); state railway [Ukrzaliznytsia](https://t.me/kyiv_city_express/516), [DSBT](https://www.facebook.com/DSBT.UA/posts/pfbid027jPiFaUSaVnQ7aWyAziQwaRYQELNENLC45BV7AEGhnpZ3zadDCxfufep4zxnbabel), the agency responsible for transport safety; and the state [television channel](https://detector.media/infospace/article/222165/2024-01-25-u-roboti-chastyny-saytiv-mpiu-stavsya-zbiy-cherez-kiberataku/) established for residents of the occupied areas of Ukraine. Parkovy restored data access last Friday but anticipated 48 hours for complete recovery from available backups. Other Coverage From Last Week [Here's How the FBI Stopped a Major Chinese Hacking Campaign](https://www.bankinfosecurity.com/heres-how-fbi-stopped-major-chinese-hacking-campaign-a-24234) [Florida Teen Faces Federal Charges in $800,000 Crypto Theft](https://www.bankinfosecurity.com/florida-teen-faces-federal-charges-in-8 -crypto-theft-a-24229) [White House Seeks Ideas on Boosting AI Privacy](https://www.bankinfosecurity.com/white-house-seeks-ideas-on-boosting-ai-privacy-a-24226) [Water Sector Leaders Urge Congress to Fund Cyber Mandates](https://www.bankinfosecurity.com/water-sector-leaders-urge-congress-to-fund-cyber-mandates-a-24237) [Ivanti Discloses Additional Zero-Day That Is Being Exploited](https://www.bankinfosecurity.com/ivanti-discloses-additional-zero-day-that-being-exploited-a-24236) [Ransomware Attack Hits Schneider Electric Sustainability Unit](https://www.bankinfosecurity.com/ransomware-attack-hits-schneider-electric-sustainability-unit-a-24221) With reporting from Information Security Media Group's Mihir Bagwe in Mumbai, India and David Perera in Washington, D.C.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "War, Conflict and Unrest"
+  ],
+  "external_links": [
+    "https://detector.media/infospace/article/222165/2024-01-25-u-roboti-chastyny-saytiv-mpiu-stavsya-zbiy-cherez-kiberataku/)",
+    "https://www.facebook.com/igor.smelyansky/posts/pfbid06MTAwgYgHKqCDrsexZNJJQcTumLSRA7JcQE5GLDRYKAjxfprXwoftzemndBhqmRVl);",
+    "https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware)",
+    "https://www.justice.gov/usao-sdny/pr/former-cia-officer-joshua-adam-schulte-sentenced-40-years-prison-espionage-and-child)",
+    "https://www.ajc.com/news/many-fulton-systems-still-down-experts-suggest-money-motive/AKUGPBQCS5CBDJPSYQHA4VPG5M/)",
+    "http://www.youtube.com/watch?v=53N99Nim6WE)",
+    "https://sec.okta.com/harfiles)",
+    "https://www.facebook.com/DSBT.UA/posts/pfbid027jPiFaUSaVnQ7aWyAziQwaRYQELNENLC45BV7AEGhnpZ3zadDCxfufep4zxnbabel),",
+    "https://fortgale.com/blog/featured/nebula-broker-offensive-operations-italy/)",
+    "https://t.me/SBUkr/10967)",
+    "https://t.me/NaftogazUA/1836);",
+    "https://yoroi.company/wp-content/uploads/2023/12/202311-Vetta-Loader_Def-min.pdf).",
+    "https://apps.web.maine.gov/online/aeviewer/ME/40/5f9aa393-9c7a-49e0-855f-5e36adfb9e6c.shtml)",
+    "https://www.facebook.com/ParkovyiDC/posts/pfbid02UbSXANaQkZGqD32G3bA5bNerPiAq6E7CyRxBPGCDFCwbkaHS3zeFj8uunrrY6nfSl)",
+    "https://t.me/kyiv_city_express/516),",
+    "https://blog.cloudflare.com/thanksgiving-2023-security-incident)",
+    "https://www.yoroi.company/wp-content/uploads/2023/12/202311-Vetta-Loader_Def-min.pdf).",
+    "https://mandiant.com/resources/blog/unc4990-evolution-usb-malware)",
+    "https://ajc.com/news/many-fulton-systems-still-down-experts-suggest-money-motive/AKUGPBQCS5CBDJPSYQHA4VPG5M/)",
+    "https://www.sec.okta.com/harfiles)",
+    "http://youtube.com/watch?v=53N99Nim6WE)",
+    "https://www.detector.media/infospace/article/222165/2024-01-25-u-roboti-chastyny-saytiv-mpiu-stavsya-zbiy-cherez-kiberataku/)",
+    "https://www.apps.web.maine.gov/online/aeviewer/ME/40/5f9aa393-9c7a-49e0-855f-5e36adfb9e6c.shtml)",
+    "https://facebook.com/ParkovyiDC/posts/pfbid02UbSXANaQkZGqD32G3bA5bNerPiAq6E7CyRxBPGCDFCwbkaHS3zeFj8uunrrY6nfSl)",
+    "https://justice.gov/usao-sdny/pr/former-cia-officer-joshua-adam-schulte-sentenced-40-years-prison-espionage-and-child)",
+    "https://facebook.com/DSBT.UA/posts/pfbid027jPiFaUSaVnQ7aWyAziQwaRYQELNENLC45BV7AEGhnpZ3zadDCxfufep4zxnbabel),",
+    "http://www.youtube.com/watch",
+    "https://facebook.com/igor.smelyansky/posts/pfbid06MTAwgYgHKqCDrsexZNJJQcTumLSRA7JcQE5GLDRYKAjxfprXwoftzemndBhqmRVl);",
+    "https://www.t.me/kyiv_city_express/516),",
+    "https://www.t.me/NaftogazUA/1836);",
+    "https://www.t.me/SBUkr/10967)",
+    "https://www.blog.cloudflare.com/thanksgiving-2023-security-incident)",
+    "https://www.fortgale.com/blog/featured/nebula-broker-offensive-operations-italy/)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "joshua schulte",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cia",
+        "sentiment": "negative"
+      },
+      {
+        "name": "information security media group",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ukraine",
+        "sentiment": "none"
+      },
+      {
+        "name": "italy",
+        "sentiment": "none"
+      },
+      {
+        "name": "georgia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-02-02T02:03:56.635+02:00",
+  "updated": "2024-02-23T10:32:09.976+02:00"
+}

@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "3de114d9e30b1403070beac5557d4a6caec8cacd",
+    "url": "https://www.thestar.com.my/sport/football/2024/08/30/soccer-spurs039-solanke-and-richarlison-to-miss-newcastle-game",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/sport/football",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "Football - Sport | The Star",
+    "title": "Football: Soccer-Spurs' Solanke and Richarlison to miss Newcastle game | The Star",
+    "title_full": "Football: Soccer-Spurs' Solanke and Richarlison to miss Newcastle game | The Star",
+    "published": "2024-08-30T17:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/08/30/2887932.jpg",
+    "performance_score": 0,
+    "domain_rank": 2231,
+    "domain_rank_updated": "2024-08-27T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3de114d9e30b1403070beac5557d4a6caec8cacd",
+  "url": "https://www.thestar.com.my/sport/football/2024/08/30/soccer-spurs039-solanke-and-richarlison-to-miss-newcastle-game",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2024-08-30T17:23:00.000+03:00",
+  "title": "Football: Soccer-Spurs' Solanke and Richarlison to miss Newcastle game | The Star",
+  "text": "FILE PHOTO: Soccer Football - Premier League - Aston Villa v AFC Bournemouth - Villa Park, Birmingham, Britain - April 21, 2024 AFC Bournemouth's Dominic Solanke looks dejected after the match REUTERS/Molly Darlington/File photo\n(Reuters) - Tottenham Hotspur will be without their new signing Dominic Solanke and forward Richarlison for Sunday's Premier League game at Newcastle United, manager Ange Postecoglou said on Friday.\nSolanke, 26, joined Spurs from Bournemouth on Aug. 10 for an undisclosed fee, reported by British media to be around 65 million pounds ($85.40 million).\nHe picked up an ankle injury in their season-opening draw at promoted Leicester City and missed last week's 4-0 win over Everton.\nPostecoglou said the striker was close to making his return but would not be rushed back against Newcastle. Richarlison is also out after suffering a muscle injury.\n\"Dom Solanke is close but I think we'll err on the side of caution with the international break,\" Postecoglou told reporters. \"Richy pulled up sore. I think there's a muscle injury there and we're getting more information but he is out.\"\nMidfielder Rodrigo Bentancur is available again after missing the Everton game due to concussion protocols, the manager added.\nSpurs have had a busy transfer window, with Solanke the most high-profile of several arrivals. The club have also said goodbye to a host of players including Emerson Royal, Ivan Perisic, Eric Dier and Tanguy Ndombele.\nPostecoglou confirmed that defender Sergio Reguilon and midfielder Giovani Lo Celso were seeking to leave ahead of Friday's transfer deadline, with Argentine Lo Celso linked in media reports with a move to Spanish side Real Betis.\n\"Both players are exploring options and I don't get too involved in that,\" the 59-year-old said.\n\"It's between them, their representatives and the club. I don't know what activity there is, but they're exploring options.\"\n($1 = 0.7611 pounds)\n(Reporting by Suramya Kaushik in Bengaluru)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = ' Already a subscriber? Log in . Celebrate Merdeka with 50% Off!\nT&C applies. Monthly Plan RM13.90/month\nRM6.95 only\nSubscribe Billed as RM6.95 for the 1st month then RM13.90 thereafters.\nAnnual Plan RM12.33/month\nRM6.17/month\nSubscribe Billed as RM78 for the 1st year then RM148 thereafters.\n1 month Free Trial\nFor new subscribers only\nSubscribe",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Sport",
+    "Human Interest",
+    "Lifestyle and Leisure"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "dominic solanke",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "richarlison",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "dom solanke",
+        "sentiment": "none"
+      },
+      {
+        "name": "ange postecoglou",
+        "sentiment": "none"
+      },
+      {
+        "name": "richy",
+        "sentiment": "none"
+      },
+      {
+        "name": "rodrigo bentancur",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "newcastle united",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "tottenham hotspur",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "spurs",
+        "sentiment": "none"
+      },
+      {
+        "name": "everton",
+        "sentiment": "none"
+      },
+      {
+        "name": "premier league",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "leicester city",
+        "sentiment": "none"
+      },
+      {
+        "name": "bournemouth",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-30T18:08:00.417+03:00",
+  "updated": "2024-08-30T18:26:32.503+03:00"
+}

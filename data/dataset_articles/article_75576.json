@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "47dc37cc60e76e3b8bd27a2e7a5edbb486b21c19",
+    "url": "https://cryptonews.net/news/altcoins/30115748",
+    "site_full": "cryptonews.net",
+    "site": "cryptonews.net",
+    "site_section": "https://cryptonews.net/rss.xml",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "World news about cryptocurrency and blockchain technology from different sources",
+    "title": "Sui Network Suffers Network Outage - Is it Still the Solana Killer?",
+    "title_full": "Sui Network Suffers Network Outage - Is it Still the Solana Killer?",
+    "published": "2024-11-21T23:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cnews24.ru/uploads/3bd/3bd673e3f4891076a7b94e3762d22b47e93d3625.jpg",
+    "performance_score": 0,
+    "domain_rank": 55532,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "47dc37cc60e76e3b8bd27a2e7a5edbb486b21c19",
+  "url": "https://cryptonews.net/news/altcoins/30115748",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-21T23:15:00.000+02:00",
+  "title": "Sui Network Suffers Network Outage - Is it Still the Solana Killer?",
+  "text": "According to data from the Sui Network explorer, SuiVision, no blocks were produced after 9:15 a.m. UTC, marking a serious disruption.\nIndustry reactions\nObservers quickly weighed in on the downtime, with some noting Sui’s aspirations to rival Solana, the fourth-largest cryptocurrency by market capitalization.\n“SUI blockchain is down. And they claimed to be a Solana Killer,” crypto YouTuber Ajay Kashyap commented on X.\nImpact on SUI token and exchanges\nThe outage also affected SUI, the blockchain’s native cryptocurrency, which dropped nearly 11%, trading at approximately $3.40.\nDespite the decline, SUI remained up 75% over the past 30 days, according to CoinGecko data.\nSome exchanges responded to the disruption, with South Korean platform Upbit temporarily suspending SUI deposits and withdrawals, citing network issues.\nSui Foundation addresses the issue\nRoughly two hours after the block production halt, the Sui Foundation acknowledged the problem on X, stating, “We’ve identified the issue, and a fix will be deployed shortly.”\nPossible cause: A DOS bug\nWeb3 security firm ExVul suggested a denial-of-service (DOS) bug might have caused the outage.\n“After our analysis, it was found that the Sui Network node occurred DOS due to integer overflow,” ExVul wrote in an X post.\nMoving forward\nThe outage has raised questions about the reliability of Sui as it aims to compete with established networks like Solana.\nObservers will be watching closely as the blockchain works to resolve the issue and restore confidence in its system.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Business and Market Analysis"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ajay Kashyap",
+        "sentiment": "none"
+      },
+      {
+        "name": "Solana",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Sui Network Suffers Network Outage",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Sui Foundation",
+        "sentiment": "none"
+      },
+      {
+        "name": "UTC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T01:45:29.594+02:00",
+  "updated": "2024-11-22T01:45:29.594+02:00"
+}

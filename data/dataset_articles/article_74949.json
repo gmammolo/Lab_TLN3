@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "fa07fb4cd1b0c8a1ede20ef9340b3e3e13772605",
+    "url": "https://www.eweek.com/news/google-strategy-shift-performance-challenges",
+    "site_full": "www.eweek.com",
+    "site": "eweek.com",
+    "site_section": "http://o1.qnsr.com/cgi/r?WT.qs_dlk=VHaVaArIZ3AAABcsNIQAAAAK;;;n=203;c=1459370;s=8986;x=7936;f=201411241658150;u=j;z=TIMESTAMP;k=http://www.eweek.com/rss.xml",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "eWEEK",
+    "title": "Google Shifts AI Strategy Amid Gemini Performance Challenges",
+    "title_full": "Google Shifts AI Strategy Amid Gemini Performance Challenges",
+    "published": "2024-11-22T07:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.eweek.com/uploads/2024/11/ew_20241121-google-gemini-shift-strategy-amid-performance-challenges.png",
+    "performance_score": 0,
+    "domain_rank": 3652,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fa07fb4cd1b0c8a1ede20ef9340b3e3e13772605",
+  "url": "https://www.eweek.com/news/google-strategy-shift-performance-challenges",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Madeline Clarke",
+  "published": "2024-11-22T07:30:00.000+02:00",
+  "title": "Google Shifts AI Strategy Amid Gemini Performance Challenges",
+  "text": "Google is rethinking its artificial intelligence strategy amid recent reports that its conversational artificial intelligence tool, Gemini, is failing to achieve performance gains. The large language model’s slowed progress has contributed to debates regarding the future trajectory of generative AI and its decelerating pace of improvement.\nThe Information reports that Google’s AI development is experiencing lagging improvement rates compared to the previous model versions. Past models exhibited faster rates with more training data and computing power. However, the current AI model is improving at a slower pace, even when using more processing data and specialized AI chips.\nTo account for the slowdown in AI model advancements, Google researchers have altered their strategy efforts toward new methods of boosting AI technology performance while maintaining a focus on multimodal AI innovations, AI reasoning models, and synthetic data training capabilities.\nAI Performance: Misery Loves Company Google is not the only company experiencing slower advancements in its model development. Its AI performance challenges follow similar trends recently experienced by several leading AI developers.\nOpenAI’s evaluations for its newest model, Orion, have only found moderate coding improvements and minimal new enhancements compared to previous models. Anthropic has also been experiencing development delays with its AI model Claude 3.5 Opus. As the competing companies face difficulties developing their latest models, each has worked to alter its AI strategies. Anthropic has pushed back Opus’ release, and OpenAI researchers have been inventing new techniques to make up for slowed advances.\nA spokesperson for Google explained that the company is rethinking its model training approaches and investing in data, applying AI-generated synthetic data, video, and audio in its model training . However, despite the dedication of more computing resources and training data, the new model has yet to progress at a rate that meets expectations.\nRethinking AI Scaling Laws As companies hit stumbling blocks in their attempts to develop more advanced AI models, industry analysts fear what these bottlenecks could indicate for the future of generative AI technology .\nThese recent AI development experiences are challenging the overarching understanding of AI model improvement, also known as scaling laws. The belief was that new models would show similar improvement rates if the developers utilized more specialized AI chips and processed more data.\nAs the concept of scaling laws is tested, the speed and performance of new AI model deployments may diminish until new methods of enhancing them are discovered. Meanwhile, the slowed momentum of generative AI progress among tech giants could benefit smaller AI companies. As Google, OpenAI, and other big-name players work to overcome their model challenges, smaller developers may have time to catch up in terms of their own AI quality.\nSee how Google’s Gemini and OpenAI’s ChatGPT compare in our head-to-head review.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T08:23:55.792+02:00",
+  "updated": "2024-11-22T09:59:59.552+02:00"
+}

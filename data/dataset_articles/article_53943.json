@@ -1,0 +1,179 @@
+{
+  "thread": {
+    "uuid": "db394fb02873f96d604ad53f6a254d617359bc89",
+    "url": "https://www.nw.de/sport/sport_nachrichten/24181742_Ohne-Mueller-Vancouver-trifft-in-der-MLS-spaet-zum-Ausgleich.html",
+    "site_full": "www.nw.de",
+    "site": "nw.de",
+    "site_section": "https://mobil.nw.de/nachrichten/zwischen_weser_und_rhein/24157453_pipi-schweiss-und-sonnencreme-wie-die-freibaeder-in-owl-das-wasser-sauber-halten.html",
+    "site_categories": [
+      "media",
+      "television",
+      "entertainment",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "Aktuelle Nachrichten aus OWL | nw.de",
+    "site_title": "Aktuelle Nachrichten aus OWL | nw.de",
+    "title": "Ohne Müller: Vancouver trifft in der MLS spät zum Ausgleich",
+    "title_full": "Ohne Müller: Vancouver trifft in der MLS spät zum Ausgleich",
+    "published": "2025-09-25T07:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.nw.de/_em_daten/203074994/_/1xNW1QbnBDWFZKbkpSQXQ3OWptY1VwcWMvbk90aFlnY3dNeXo5KzBWMG1aLzlSOFB5eUJKZDR3bjZod253WGhDcHpDUUlNbTd3STVzdjN1bFpYRmZucUVsTDBIVkFSdWhMS2o5ZDVFWCtkRFJQZDQyS2p6S0pOYjJZWTlQQmhRMWk/250925-0645-urn-newsml-dpa-com-20090101-250925-935-852948.jpg",
+    "performance_score": 0,
+    "domain_rank": 34694,
+    "domain_rank_updated": "2025-09-22T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "db394fb02873f96d604ad53f6a254d617359bc89",
+  "url": "https://www.nw.de/sport/sport_nachrichten/24181742_Ohne-Mueller-Vancouver-trifft-in-der-MLS-spaet-zum-Ausgleich.html",
+  "ord_in_thread": 0,
+  "author": "Neue Westfälische",
+  "published": "2025-09-25T07:43:00.000+03:00",
+  "title": "Ohne Müller: Vancouver trifft in der MLS spät zum Ausgleich",
+  "text": "Ohne Ex-Weltmeister Thomas Müller ist die Siegesserie der Vancouver Whitecaps in der Major League Soccer gestoppt worden. Gegen die Portland Timbers kamen die Kanadier nach zuletzt drei Erfolgen hintereinander zu einem 1:1 (0:1). Für die Playoffs sind sie allerdings schon seit einiger Zeit qualifiziert. Müller fehlte nach seinen Adduktorenproblemen erneut und verfolgte die Partie von der Tribüne aus. Der frühere Bayern-Star kehrte zwar ins Training zurück, machte aber noch nicht alle Übungen mit. Ob Müller beim nächsten MLS-Spiel am Samstag (Ortszeit) bei den Seattle Sounders wieder auflaufen wird, ist noch offen. Der 36-Jährige überzeugte bei seinen bisherigen drei Auftritten für die Whitecaps mit fünf Treffern. Kamal Miller traf für Portland in der 39. Minute. Brian White glich für Vancouver kurz vor Schluss zum 1:1 aus (88.). Messi brilliert Superstar Lionel Messi hat mit zwei Toren (74./86.) und einer Vorlage den Playoff-Platz von Inter Miami gesichert. Durch das 4:0 (1:0) beim New York City FC kann das Team des argentinischen Weltmeisters in der Eastern Conference mit 55 Punkten nicht mehr von einem der Ränge für die K.-o.-Runde verdrängt werden. Für Messi waren es die Treffer 23 und 24. Der 38-Jährige liegt damit auf Rang eins in der MLS-Torjägerliste. Luis Suárez sorgte per verwandeltem Foulelfmeter für das zwischenzeitliche 3:0 (83.).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Sport",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "topics": [
+    "Sport->sport event",
+    "Sport->soccer",
+    "Sport->sports record",
+    "Lifestyle and Leisure->club and association",
+    "Lifestyle and Leisure->exercise and fitness",
+    "Lifestyle and Leisure->game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Thomas Müller",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Kamal Miller",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lionel Messi",
+        "sentiment": "none"
+      },
+      {
+        "name": "Brian White",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Vancouver",
+        "sentiment": "none"
+      },
+      {
+        "name": "Portland",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Vancouver Whitecaps",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Eastern Conference",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Seattle Sounders",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "New York City FC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Inter Miami",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-25T07:52:46.096+03:00",
+  "updated": "2025-09-25T07:58:36.000+03:00"
+}

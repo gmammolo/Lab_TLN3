@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "53ffb246cbba29e5543b914aa0ed8c5aeaa41e68",
+    "url": "https://www.world-today-news.com/western-digital-begins-to-ship-32-tb-hdds",
+    "site_full": "www.world-today-news.com",
+    "site": "world-today-news.com",
+    "site_section": "https://www.world-today-news.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Home - World Today News",
+    "title": "Western Digital begins to ship 32 TB HDDs",
+    "title_full": "Western Digital begins to ship 32 TB HDDs",
+    "published": "2024-10-17T22:56:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AD",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 26067,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "53ffb246cbba29e5543b914aa0ed8c5aeaa41e68",
+  "url": "https://www.world-today-news.com/western-digital-begins-to-ship-32-tb-hdds",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "world today news",
+  "published": "2024-10-17T22:56:00.000+03:00",
+  "title": "Western Digital begins to ship 32 TB HDDs",
+  "text": "Western Digital Launches Industry’s Most Dense HDDs, Reducing Cost per Terabyte\nWestern Digital is set to revolutionize the hard drive landscape with its latest offering, the 32 TB Ultrastar DC HC690 , which employs shingled magnetic recording (SMR) technology. This release not only cements Western Digital’s position as a leader in the HDD market but also promises to significantly lower the cost per terabyte for customers seeking high-capacity storage solutions. The new drives will help meet the growing demands of data-driven markets, especially among hyperscalers and cloud service providers.\nExpanding Capacity with Advanced Technology This week, Western Digital commenced shipping the Ultrastar DC HC690, marking its densest hard drive to date. The drive leverages SMR technology , which enables overlapping data tracks for enhanced storage density. Alongside the HC690, the company has also released two additional 26 TB models—the conventional magnetic recording (CMR) Ultrastar DC HC590 and a 26 TB WD Gold drive utilizing Serial Advanced Technology Attachment (SATA) interface.\nAll three drives utilize an additional 11th platter, a method that remains a cornerstone of Western Digital’s strategy to enhance areal density and overall capacity. \"WD is increasing the capacity of its drives by adding platters, which is a proven technology,\" noted John Chen, an analyst with TrendFocus.\nA Competitive Landscape The HDD market continues to witness rapid advancements, with competitors like Seagate also unveiling high-capacity solutions. Earlier this year, Seagate rolled out its 32 TB HAMR-based drives, which are currently undergoing qualification tests. Western Digital’s HC690 serves as a drop-in replacement for less dense SMR drives, offering a robust option for various customer requirements.\nAccording to Ed Burns, an analyst at IDC, while SMR drives come with their own complexities—particularly concerning random reads—they are gaining popularity in hyperscale environments where workloads can be optimized without affecting service-level agreements. \"You get 32 TB of SMR capacity, but the bill of materials for that drive is 26 TB,\" he said.\nDiverse Options for Different Needs For users requiring CMR drives, the Ultrastar DC HC590 features impressive data transfer rates of 288 MBps. Both the HC690 and HC590 utilize enhanced technologies that maintain high areal density, a critical factor for performance in data-intensive situations.\nInterestingly, the SATA-interface WD Gold HDD still plays an important role in the industry. Although SATA may seem outdated compared to modern interfaces like SAS and PCIe, it remains relevant, particularly for cloud companies that prioritize cost-effectiveness. \"It’s purely a cost thing for them, and they don’t need the extra features,\" Chen explained.\nIn addition, SAS HDDs largely serve on-premises markets and OEM vendors, with major companies like Dell, NetApp, and HPE leveraging these options. “A vast majority of the hyperscale markets are taking SATA; it’s a little bit lower cost and it meets their needs,” Burns observed.\nIntegration into Existing Systems All newly released drives are currently being qualified for integration into Western Digital’s Ultrastar Data60 and Data102 JBOD hybrid storage systems. With the capability to provide up to 3.26 petabytes of raw capacity, these systems are designed to meet enterprise demands for high-performance storage solutions.\nLooking Ahead Western Digital’s new line of HDDs symbolizes a significant step forward in hard drive technology, particularly as the industry continues to evolve to accommodate larger datasets and more complex computing needs. As businesses increasingly shift towards data-driven models, Western Digital’s innovative approaches to HDD technology are poised to resonate well within the technology sector and beyond.\nReaders are encouraged to share their thoughts on this development and how they foresee these enhancements influencing their storage strategies. What do you think about the future of HDD technology? Share your insights in the comments below!\nFor more updates on storage technology, be sure to check out our related articles on Shorty-News, and visit TechCrunch, The Verge, or Wired for broader tech industry news.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:59:34.802+03:00",
+  "updated": "2024-10-18T01:59:34.802+03:00"
+}

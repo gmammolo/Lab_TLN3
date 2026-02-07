@@ -1,0 +1,142 @@
+{
+  "thread": {
+    "uuid": "9fbfcdf3541642d894d172a363229e9979a1bf09",
+    "url": "https://www.stern.de/news/bericht--ki-versteht-keine-bayerischen-dialekte---viele-fehler-bei-transkription-35990156.html",
+    "site_full": "www.stern.de",
+    "site": "stern.de",
+    "site_section": "https://www.stern.de",
+    "site_categories": [
+      "photography",
+      "hobbies_and_interests",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Nachrichten, Hintergründe &amp; Reportagen | STERN.de",
+    "site_title": "Nachrichten, Hintergründe &amp; Reportagen | STERN.de",
+    "title": "Bericht: KI versteht keine bayerischen Dialekte - Viele Fehler bei Transkription",
+    "title_full": "Bericht: KI versteht keine bayerischen Dialekte - Viele Fehler bei Transkription",
+    "published": "2025-08-21T12:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://image.stern.de/35990158/t/EI/v1/w1440/r1.7778/-/21--kuenstliche-intelligenz---8396263b680e013b.jpg",
+    "performance_score": 0,
+    "domain_rank": 2110,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9fbfcdf3541642d894d172a363229e9979a1bf09",
+  "url": "https://www.stern.de/news/bericht--ki-versteht-keine-bayerischen-dialekte---viele-fehler-bei-transkription-35990156.html",
+  "ord_in_thread": 0,
+  "author": "STERN.de",
+  "published": "2025-08-21T12:45:00.000+03:00",
+  "title": "Bericht: KI versteht keine bayerischen Dialekte - Viele Fehler bei Transkription",
+  "text": "Künstliche Intelligenz (KI) versteht einem Bericht zufolge keine bayerischen Dialekte. Spracherkennungssysteme haben Probleme, Dialekte auf Hochdeutsch zu transkribieren, wie der Bayerische Rundfunk (BR) am Donnerstag berichtete. Grundlage für diese Erkenntnis war demnach ein Projekt des BR und der Ludwig-Maximilians-Universität München (LMU). Das Forscherteam fütterte drei verschiedene Spracherkennungssoftwares mit Daten einer Radiosendung des BR, die in bayerischen Dialekten gehalten ist.\nGetestet wurden drei Dialektgruppen. Dazu gehörte zum einen Fränkisch mit Unterfränkisch, Mittelfränkisch und Oberfränkisch. Die zweite Gruppe war Bairisch mit Oberbairisch, Niederbairisch und Oberpfälzisch. Abgerundet wurde der Test mit Schwäbisch. Diese wurden mit Audioaufnahmen auf Hochdeutsch verglichen.\nIm Ergebnis machten die Spracherkennungssoftwares bei den Radioaufnahmen in den Dialekten deutlich mehr Fehler als bei der Transkription von Audios auf Hochdeutsch. Häufig ging dabei laut der Studie der Sinn des im Dialekt gesprochenen Satzes verloren. Das Zentrum für Informations- und Sprachverarbeitung der LMU prüfe derzeit, ob die Systeme mit den Daten der BR-Sendung \"Betthupferl\" nachtrainiert werden können.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Education->online and remote learning",
+    "Education->students",
+    "Education->teachers"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Ludwig-Maximilians-Universität München",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Bayerische Rundfunk",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "LMU",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "BR",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "BR",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:09:14.611+03:00",
+  "updated": "2025-08-22T14:07:03.000+03:00"
+}

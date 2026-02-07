@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "1cd2174db19d083d56b62e705c9f892947c7629d",
+    "url": "https://www.anaconda.com/press/ai-model-governance-report",
+    "site_full": "www.anaconda.com",
+    "site": "anaconda.com",
+    "site_section": "https://anaconda.com/newsroom",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Newsroom | Anaconda",
+    "site_title": "Advance AI with Open Source | Anaconda",
+    "title": "Anaconda Report Reveals Need for Stronger Governance is Slowing AI Adoption | Anaconda",
+    "title_full": "Anaconda Report Reveals Need for Stronger Governance is Slowing AI Adoption | Anaconda",
+    "published": "2025-08-12T16:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.anaconda.com/wp-content/uploads/2025/07/blog-category-news.webp",
+    "performance_score": 0,
+    "domain_rank": 5285,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1cd2174db19d083d56b62e705c9f892947c7629d",
+  "url": "https://www.anaconda.com/press/ai-model-governance-report",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-12T16:52:00.000+03:00",
+  "title": "Anaconda Report Reveals Need for Stronger Governance is Slowing AI Adoption | Anaconda",
+  "text": "AI Model Governance Gap Report finds fragmented tooling, security vulnerabilities, and misaligned governance priorities are impacting AI adoption\nAUSTIN, TX (August 12, 2025) — Anaconda Inc., the leader in advancing AI with open source, today released its Bridging the AI Model Governance Gap report, highlighting how existing governance approaches are slowing AI adoption and introducing substantial risks. Based on a survey of more than 300 AI, IT, DevOps, and data governance professionals, the report found that organizations recognize the importance of AI governance, but often lack the processes to effectively implement it, exposing themselves to compliance, ethical, and operational challenges.\nToday’s AI systems depend on rapidly changing combinations of open-source code, cloud infrastructure, and third-party models. This complexity and the fast pace of AI adoption is introducing new governance challenges. Anaconda’s 2024 State of Enterprise Open-Source AI report found that model and data governance are closely connected, with 57% of respondents noting regulatory and privacy concerns, and 45% identifying challenges in accessing high-quality training data. Forrester research also reinforces this trend, predicting that spending on AI governance software will quadruple to $15.8 billion by 2030, reflecting the growing urgency to secure and monitor AI supply chains without stifling innovation.\n“Organizations are grappling with foundational AI governance challenges against a backdrop of accelerated investment and rising expectations,” said Greg Jennings, VP of Engineering at Anaconda. “By centralizing package management and defining clear policies for how code is sourced, reviewed, and approved, organizations can strengthen governance without slowing AI adoption. These steps help create a more predictable, well-managed development environment, where innovation and oversight work in tandem.”\nThe report found that organizations recognize the importance of AI supply chain risks but struggle with the integrated processes to manage them effectively. The impact of this “governance gap” is significant, with organizations citing security, data privacy, and lack of transparency, alongside fears of bias and lack of accountability, as the biggest concerns in AI model governance. Other key findings from the survey include:\n- The open source security paradox: While 82% of organizations validate Python packages for security, nearly 40% still frequently encounter vulnerabilities.\n- Security-related deployment delays: Two-thirds of respondents experience deployment delays due to security concerns, and more than 40% of teams spend a quarter of their AI development time troubleshooting dependency conflicts or security issues.\n- Blind spots in post-deployment monitoring: Post-deployment monitoring is inconsistent, with 30% of teams lacking any formal drift detection, and only 62% of tracking models using comprehensive documentation.\n- Fragmented toolchains undermine governance: Only 26% of organizations have a highly unified AI development toolchain, leading to inconsistent security controls, duplicate efforts, and significant visibility gaps.\n- The governance lag in ‘vibe coding’: As generative AI becomes common in software development, only 34% of organizations have formal policies for AI-assisted coding. Most are either adapting outdated frameworks (25%) or developing new ones (21%),with just 4% banning AI coding tools entirely.\nThese findings underscore the need for more robust and scalable governance practices. When it comes to improving governance models, organizations cited the need for better-integrated tools combining development and security workflows (29%), better visibility into model components (23%) and team training (19%). The report also highlights how unified platforms and well-defined processes enable governance without compromising the speed of AI adoption.\nClosing the AI governance gap requires a strategic approach that combines people, processes, and technology, empowering teams with the tools and best practices that ensure secure, compliant, and well-monitored AI.\nTo learn more and view all of the insights from the study, download the Bridging the AI Model Governance Gap report here.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research",
+    "Science and Technology->social sciences",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->social condition",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.forrester.com/blogs/ai-governance-software-spend-will-see-30-cagr-from-2024-to-2030/",
+    "https://forrester.com/blogs/ai-governance-software-spend-will-see-30-cagr-from-2024-to-2030/",
+    "https://www.forrester.com/blogs/ai-governance-software-spend-will-see-30-cagr-from-2024-to-2030"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Anaconda Inc.",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "newsroom",
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:00:15.783+03:00",
+  "updated": "2025-08-21T12:04:20.000+03:00"
+}

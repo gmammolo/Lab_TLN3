@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "9f40d07205fe0fa2cb6305c006e9d9a247749e88",
+    "url": "https://newatlas.com/robotics/limx-tron-1-biped-robot",
+    "site_full": "newatlas.com",
+    "site": "newatlas.com",
+    "site_section": "http://www.gizmag.com/xml/",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "New Atlas - New Technology &amp; Science News",
+    "title": "Watch: \"World's first multi-modal biped robot\" could soon be yours",
+    "title_full": "Watch: \"World's first multi-modal biped robot\" could soon be yours",
+    "published": "2024-10-17T21:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.newatlas.com/dims4/default/29bcbd6/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F53%2F35%2F5122c8c2442ba149c4b1f7373d37%2Flimx-dynamics-multi-modal-biped-robot-tron-1.jpeg&na.image_optimisation=0",
+    "performance_score": 0,
+    "domain_rank": 1558,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9f40d07205fe0fa2cb6305c006e9d9a247749e88",
+  "url": "https://newatlas.com/robotics/limx-tron-1-biped-robot",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ben Coxworth",
+  "published": "2024-10-17T21:30:00.000+03:00",
+  "title": "Watch: \"World's first multi-modal biped robot\" could soon be yours",
+  "text": "Watch: \"World's first multi-modal biped robot\" could soon be yours [View gallery - 5 images](#gallery:1) How would you like to have your own AT-ST walker from Star Wars: Return of the Jedi? Well, the just-announced Tron 1 biped robot is the next-best thing. It's just a wee bit smaller than a walker, plus you can't ride inside of it. Manufactured by Chinese robotics company LimX Dynamics – which also makes [quadruped](https://newatlas.com/robotics/limx-dynamics-w1-wheeled-legs-quadruped-robot/) and [humanoid](https://newatlas.com/robotics/limx-dynamics-cl-1-humanoid-robot-climbs-stairs/) robots – the Tron 1 is the commercial version of the firm's one-off P1 Biped. Earlier this year, we saw the P1 [traversing rough woodland terrain and being beaten with a branch](https://newatlas.com/robotics/limx-biped-p1-abuse/). The Tron 1 can likewise take a beating, as it's designed primarily for use by engineers as a testbed platform for humanoid robot motion control and embodied intelligence research. Sorry, but it is not made for fighting the Rebel Alliance. With its various research applications in mind, the robot comes with three interchangeable foot-ends for different types of locomotion. One foot-end, the simple Point-Foot, takes the form of a rounded rubberized nub. It offers the nimblest performance, and was utilized by the P1 for its walk in the woods. There's also a more foot-like Sole, for better imitating a human walking gait. Finally, there's a Wheeled foot-end. It allows the robot to zip across flat terrain on motorized wheels, yet still climb over obstacles by locking those wheels and using them as feet. The Tron 1's automatic hardware recognition system detects which foot-end is currently installed, and switches to the corresponding onboard motion-control software accordingly. Users operate the robot in real time via an included wireless remote, or use the Python programming language for autonomous operation. As far as basic specs go, the aluminum/plastic-bodied Tron 1 stands 854 mm tall (33.6 in), weighs less than 20 kg (44 lb), sports a 12th-generation Intel Core i3 processor, and should be good for over two hours of runtime per 1.5-hour charge of its lithium battery. Expansion ports allow for the addition of peripherals such as cameras, radar/lidar units, and robotic arms. Should you want a Tron 1 of your own, limited-time introductory pricing starts at US$15,000. You can see the robot in multi-modal action, in the video below. Source: [LimX Dynamics](https://www.limxdynamics.com/en/tron1) [View gallery - 5 images](#gallery:1)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.limxdynamics.com/en/tron1",
+    "https://limxdynamics.com/en/tron1"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:25:21.765+03:00",
+  "updated": "2024-10-18T04:15:31.176+03:00"
+}

@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "033d4f0e6fc725c90be5077c8021ad66eb77de9e",
+    "url": "https://forum.posit.co/t/in-memory-inflate-method-fails-even-though-writing-same-data-to-disk-and-unzipping-is-successful/194907",
+    "site_full": "forum.posit.co",
+    "site": "posit.co",
+    "site_section": "https://forum.posit.co/posts.rss",
+    "site_categories": [],
+    "section_title": "Posit Community - Latest posts",
+    "title": "In memory inflate method fails even though writing same data to disk and unzipping is successful",
+    "title_full": "In memory inflate method fails even though writing same data to disk and unzipping is successful",
+    "published": "2024-11-15T14:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://forum.posit.co/uploads/default/original/3X/6/5/654b5c729979def37b03638d5f101ca9eede49b2.jpeg",
+    "performance_score": 0,
+    "domain_rank": 6678,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "033d4f0e6fc725c90be5077c8021ad66eb77de9e",
+  "url": "https://forum.posit.co/t/in-memory-inflate-method-fails-even-though-writing-same-data-to-disk-and-unzipping-is-successful/194907",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@scott-uses-git Scott",
+  "published": "2024-11-15T14:54:00.000+02:00",
+  "title": "In memory inflate method fails even though writing same data to disk and unzipping is successful",
+  "text": "Hey folks,\nI have some compressed data in zip format downloaded from a database as blobs (using varchar in SQL). Each blob is a zip archive containing a single file named \"data.bin\"\nI am downloading this data in large batches (~100K), but each blob is relatively small (~100 bytes compressed, ~1000 bytes uncompressed).\nI am trying to decompress the data in memory, since writing/unzipping/reading all files to/from disk is quite slow and inefficient.\nHowever, I am not able to find any method in R that can accomplish this, despite the data being easy to unzip once written to disk.\nHere is some code showing the problem; the first part runs successfully, whereas the second part does not work for any of the shown methods.\nz is a raw vector of bytes containing one entry of compressed data\nz\n# Write to disk, unzip, read from disk (works) t <- tempfile(fileext = \".zip\") writeBin(z, t) zip::unzip(zipfile = t, \"data.bin\", exdir = dirname(t)) d <- file.path(dirname(t), \"data.bin\") x <- read_file_raw(d) # Unzip in memory (Does not work) zip::inflate(z) memDecompress(z, \"gzip\") memDecompress(z, \"bzip2\") zlib::decompress(z)\nI was using Claude AI to try to debug this, I ended up with a function that dumps some useful info about the zip file header.\nanalyze_zip_structure <- function(bytes) { # Helper function to convert bytes to unsigned integer (little endian) bytes_to_int <- function(bytes) { sum(as.integer(bytes) * 256^(0:(length(bytes)-1))) } # Print first 50 bytes in decimal for analysis cat(\"First 50 bytes (as integers):\\n\") cat(as.integer(bytes[1:min(50, length(bytes))]), \"\\n\\n\") # Verify ZIP signature if (!identical(bytes[1:4], as.raw(c(0x50, 0x4B, 0x03, 0x04)))) { stop(\"Not a valid ZIP file signature\") } # Parse key ZIP header fields cat(\"ZIP Local File Header Analysis:\\n\") cat(\"--------------------------------\\n\") cat(\"Signature (as integers):\", as.integer(bytes[1:4]), \"\\n\") cat(\"Version needed:\", bytes_to_int(bytes[5:6]), \"\\n\") cat(\"Flags (as integers):\", as.integer(bytes[7:8]), \"\\n\") cat(\"Compression method:\", bytes_to_int(bytes[9:10]), \"\\n\") cat(\"Last mod time (as integers):\", as.integer(bytes[11:12]), \"\\n\") cat(\"Last mod date (as integers):\", as.integer(bytes[13:14]), \"\\n\") cat(\"CRC-32 (as integers):\", as.integer(bytes[15:18]), \"\\n\") cat(\"Compressed size:\", bytes_to_int(bytes[19:22]), \"\\n\") cat(\"Uncompressed size:\", bytes_to_int(bytes[23:26]), \"\\n\") cat(\"Filename length:\", bytes_to_int(bytes[27:28]), \"\\n\") cat(\"Extra field length:\", bytes_to_int(bytes[29:30]), \"\\n\") # Get filename filename_length <- bytes_to_int(bytes[27:28]) if (filename_length > 0) { filename <- rawToChar(bytes[31:(30 + filename_length)]) cat(\"Filename:\", filename, \"\\n\") } # Calculate where compressed data should start header_end <- 30 + filename_length + bytes_to_int(bytes[29:30]) cat(\"\\nHeader ends at byte:\", header_end, \"\\n\") cat(\"Total file size:\", length(bytes), \"\\n\") return(header_end + 1) # Return start position of compressed data } analyze_zip_structure(z)\nFirst 50 bytes (as integers): 80 75 3 4 20 0 0 8 8 0 36 183 104 89 131 32 64 7 99 0 0 0 86 4 0 0 8 0 0 0 100 97 116 97 46 98 105 110 237 145 235 10 128 32 12 133 191 65 143 217 ZIP Local File Header Analysis: -------------------------------- Signature (as integers): 80 75 3 4 Version needed: 20 Flags (as integers): 0 8 Compression method: 8 Last mod time (as integers): 36 183 Last mod date (as integers): 104 89 CRC-32 (as integers): 131 32 64 7 Compressed size: 99 Uncompressed size: 1110 Filename length: 8 Extra field length: 0 Filename: data.bin Header ends at byte: 38 Total file size: 213\nHere's what I think is going on (I could be wrong).\nThere is a difference in the zip format depending on whether data is zipped on disk vs in memory Zipping on disk add a header and tail to the data, whereas zipping in memory does not.\nThe data I am getting from database into memory includes the header and tail (i.e. it was zipped on disk)\nSo in the code below, I need to figure out how to unzip z2 in memory\nz2\nx <- charToRaw(\"this is a test string\") # Zip in memory z1 <- zip::deflate(x)$output # Unzip in memory zip::inflate(z1)$output %>% rawToChar() # Write to disk and zip writeBin(x, \"test.bin\") zip::zip(\"test.zip\", \"test.bin\") # Read zip binary data into memory - how to unzip z2 in memory??? z2 <- readBin(\"test.zip\", \"raw\", n = 1e6)\nI would greatly appreciate any help figuring this out, I've searched all over the internet and have not found a solution to this.\nThanks, Scott",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T16:17:53.378+02:00",
+  "updated": "2024-11-15T16:17:53.378+02:00"
+}

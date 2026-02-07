@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "990ae4a3efd98b725251cc55df185dbc739042f1",
+    "url": "https://www.storagereview.com/news/meta-unveils-next-gen-meta-training-and-inference-accelerator-mtia",
+    "site_full": "www.storagereview.com",
+    "site": "storagereview.com",
+    "site_section": "https://www.storagereview.com/rss.xml",
+    "site_categories": [
+      "3d_graphics",
+      "tech"
+    ],
+    "section_title": "StorageReview.com - Storage Reviews",
+    "title": "Meta Unveils Next-Gen Meta Training and Inference Accelerator (MTIA) - StorageReview.com",
+    "title_full": "Meta Unveils Next-Gen Meta Training and Inference Accelerator (MTIA) - StorageReview.com",
+    "published": "2024-04-11T22:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.storagereview.com/wp-content/uploads/2024/04/StorageReview-META-MTIA.jpg",
+    "performance_score": 0,
+    "domain_rank": 21789,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "990ae4a3efd98b725251cc55df185dbc739042f1",
+  "url": "https://www.storagereview.com/news/meta-unveils-next-gen-meta-training-and-inference-accelerator-mtia",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lyle Smith",
+  "published": "2024-04-11T22:07:00.000+03:00",
+  "title": "Meta Unveils Next-Gen Meta Training and Inference Accelerator (MTIA) - StorageReview.com",
+  "text": "Meta has announced advancements in its AI infrastructure by unveiling the next-generation Meta Training and Inference Accelerator (MTIA). This development marks a significant leap in Meta’s efforts to enhance AI-based products, services, and research, responding to the escalating demands for more sophisticated AI models.\nMeta has announced advancements in its AI infrastructure by unveiling the next-generation Meta Training and Inference Accelerator (MTIA). This development marks a significant leap in Meta’s efforts to enhance AI-based products, services, and research, responding to the escalating demands for more sophisticated AI models.\nFollowing the introduction of its first-generation accelerator, the MTIA project is refining the compute efficiency essential for Meta’s distinctive AI workloads. This includes the deep learning recommendation models integral to elevating user experiences across Meta’s platforms.\nNext Gen Vs. First Gen MTIA The first-generation MTIA has undergone significant technological advancements to its next-gen counterpart to meet the growing demands of AI workloads. Initially built with TSMC’s 7nm process, the first-gen MTIA had a frequency of 800MHz, supporting 1.12 billion gates and delivering up to 102.4 teraflops per second (TFLOPS/s) for INT8 operations. It was equipped with 128MB of on-chip memory and 64GB of off-chip LPDDR5 memory, with a TDP of 25 watts. This setup was optimized for a balance between performance and power efficiency, with a total memory bandwidth capacity that included 400GB/s per processing element (PE) for local memory and 800GB/s for on-chip memory.\nThe next-gen MTIA has shifted to TSMC’s more advanced 5nm process, enabling the accelerator to operate at a higher frequency of 1.35GHz. This upgrade doubles the gate count to 2.35 billion and increases the FLOPS to 103 million, indicating a substantial boost in the chip’s processing capabilities. The next-gen MTIA introduces a threefold increase in local PE storage and doubles the on-chip SRAM to 256MB while expanding off-chip LPDDR5 memory to 128GB. This increase is matched with enhanced memory bandwidth, reaching up to 1TB/s per PE for local memory and 2.7TB/s for on-chip memory, ensuring higher data throughput and efficiency.\nIn addition, the TDP is now 90 watts to accommodate the higher performance levels. The host connection has also been upgraded to 8x PCIe Gen5, doubling the bandwidth to 32GB/s, which supports faster data transfers between the accelerator and the host system. These notable improvements provide a stronger foundation for developing and deploying AI-driven applications and services.\nNext Gen MTIA Features At its core, the MTIA features sophisticated 8×8 grid PEs that significantly boost dense and sparse compute performances. This enhancement is attributed to architectural advancements and a substantial increase in local PE storage, on-chip SRAM, and bandwidth. Moreover, the accelerator’s improved network-on-chip (NoC) architecture facilitates speedy coordination between PEs, ensuring low-latency data processing essential for complex AI tasks.\nMeta’s approach extends beyond silicon innovation. The next-gen MTIA is supported by a robust rack-based system capable of housing up to 72 accelerators, offering considerable scaling potential for Meta’s ambitious AI projects. The system’s design allows for higher operation frequencies and efficiency, easily accommodating diverse model complexities.\nSoftware integration also plays a pivotal role in the MTIA’s ecosystem, with Meta leveraging its work on PyTorch to ensure seamless compatibility and developer productivity. The inclusion of advanced programming and execution frameworks, like Triton-MTIA, facilitates the efficient translation of AI models into high-performance computing instructions, streamlining the development process.\nInitial Performance Results of Next-gen MTIA Meta says preliminary performance metrics indicate a significant improvement over the first generation, demonstrating its capability to process simple and complex ranking and recommendation algorithms efficiently. This chip manages algorithms that vary significantly in size and computational demand, outperforming standard commercial GPUs thanks to Meta’s integrated technology approach. The company is focused on enhancing energy efficiency as it deploys these chips across its systems.\nInitial testing has shown that the next-generation MTIA chip triples the performance of its predecessor across key models. With an upgraded system that includes double the devices and a high-powered dual-socket CPU, Meta has achieved a six-fold increase in model processing throughput and a 50% improvement in energy efficiency over its first-generation MTIA setup. These improvements result from extensive optimizations in computing components and server architecture. Optimizing models has become quicker as the developer ecosystem matures, with ample room for further efficiency gains.\nNow active in data centers, the MTIA chip is enhancing Meta’s AI workload processing, proving to be a strategic complement to commercial GPUs. With several initiatives underway to extend MTIA’s functionalities, this release marks another big move toward the company’s commitment to advancing AI technology and its applications.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "storagereview.com meta",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mtia",
+        "sentiment": "negative"
+      },
+      {
+        "name": "meta",
+        "sentiment": "none"
+      },
+      {
+        "name": "meta training",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "meta",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T02:41:16.955+03:00",
+  "updated": "2024-04-12T02:41:16.955+03:00"
+}

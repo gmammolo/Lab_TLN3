@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "29bb9dd1c810520233ef737bf28330aaa79b1ccb",
+    "url": "https://cybersecuritynews.com/new-loader-malware-dubbed-quirkyloader/",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://cybersecuritynews.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "site_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "New Loader Malware Dubbed 'QuirkyLoader' Delivering Infostealers and RATs",
+    "title_full": "New Loader Malware Dubbed 'QuirkyLoader' Delivering Infostealers and RATs",
+    "published": "2025-08-21T08:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvXrVu89l2AOoYtInrmBRBJJ32tYoBvgylMnYWlaIxtCjvhYlQG6DZ4JGO6fTijDMsix31W2vd38jaCzc8n_2B8dHWoTfIgMSNs9S-Lego3lf72EL6YwB62VpAs1x1PR5KxjFME1EPeHWSSkU7DolxxODL71dAx3LK0AYbcVICLAGKJuTO4JIem3Yu-4/s16000/New%20Loader%20Malware%20Dubbed%20%27QuirkyLoader%27%20Delivering%20Infostealers%20and%20RATs.webp",
+    "performance_score": 0,
+    "domain_rank": 35499,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "29bb9dd1c810520233ef737bf28330aaa79b1ccb",
+  "url": "https://cybersecuritynews.com/new-loader-malware-dubbed-quirkyloader/",
+  "ord_in_thread": 0,
+  "author": "Tushar Subhra Dutta",
+  "published": "2025-08-21T08:26:00.000+03:00",
+  "title": "New Loader Malware Dubbed 'QuirkyLoader' Delivering Infostealers and RATs",
+  "text": "A sophisticated new malware loader called QuirkyLoader has emerged as a significant cybersecurity threat, actively distributing well-known infostealers and remote access trojans (RATs) since November 2024.\nThe malware has demonstrated remarkable versatility in delivering multiple payload families, including Agent Tesla, AsyncRAT, FormBook, MassLogger, Remcos, Rhadamanthys , and Snake Keylogger, making it a formidable multi-purpose tool for cybercriminals seeking to deploy diverse attack scenarios across different victim environments.\nQuirkyLoader initiates its multi-stage infection through carefully crafted spam emails containing malicious archive attachments.\nThese archives cleverly bundle three critical components: a legitimate executable file, an encrypted malicious payload disguised as a DLL, and a malicious DLL loader module.\nThe threat actors demonstrate operational sophistication by employing both legitimate email service providers and self-hosted email servers to distribute their campaigns, ensuring infrastructure diversity and resilience against takedown efforts.\nSample email (Source – IBM) IBM analysts identified QuirkyLoader’s distinctive attack methodology, which leverages advanced DLL side-loading techniques to execute malicious code while maintaining a veneer of legitimacy.\nWhen victims launch the seemingly benign executable file, it automatically loads the malicious DLL, which subsequently decrypts and injects the final payload into target processes through sophisticated process hollowing techniques, ensuring stealthy execution.\nAdvanced Evasion Through AOT Compilation QuirkyLoader’s most notable technical innovation lies in its consistent use of Ahead-of-Time (AOT) compilation for its DLL loader modules.\nInfection chain (Source – IBM) The malware authors write these components in C# .NET but compile them using advanced AOT techniques, which first convert the C# code into Microsoft Intermediate Language (MSIL) before compiling directly into native machine code.\nThis sophisticated approach bypasses traditional .NET runtime dependencies and makes the resulting binary closely resemble programs written in C or C++, significantly complicating detection efforts and analysis procedures.\nThe malware employs the uncommon Speck-128 cipher with Counter (CTR) mode for payload decryption, utilizing complex Add-Rotate-XOR (ARX) operations to generate secure keystreams.\nQuirkyLoader performs process hollowing on legitimate Windows processes , including AddInProcess32.exe, InstallUtil.exe, and aspnet_wp.exe, ensuring stealthy payload execution while evading process-based detection mechanisms.\nRecent campaigns in July 2025 specifically targeted Nusoft Taiwan employees and Mexican individuals.\nBoost your SOC and help your team protect your business with free top-notch threat intelligence: Request TI Lookup Premium Trial .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://intelligence.any.run/plans/",
+    "https://www.intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "DLL",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "29bb9dd1c810520233ef737bf28330aaa79b1ccb",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T08:30:58.297+03:00",
+  "updated": "2025-08-21T08:33:53.000+03:00"
+}

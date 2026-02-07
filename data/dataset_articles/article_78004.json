@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "fe9683398dc3bfa9ed2e139cced81c15f66637f5",
+    "url": "https://news.itsfoss.com/freevpn-fiasco/",
+    "site_full": "news.itsfoss.com",
+    "site": "itsfoss.com",
+    "site_section": "https://news.itsfoss.com/latest/rss",
+    "site_categories": [],
+    "section_title": "It&apos;s FOSS News",
+    "site_title": null,
+    "title": "Google Verified FreeVPN Caught Red-handed Spying on its Users",
+    "title_full": "Google Verified FreeVPN Caught Red-handed Spying on its Users",
+    "published": "2025-08-21T06:20:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://news.itsfoss.com/content/images/2025/08/google-chrome-freevpn-one-extension-threat.png",
+    "performance_score": 0,
+    "domain_rank": 8976,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fe9683398dc3bfa9ed2e139cced81c15f66637f5",
+  "url": "https://news.itsfoss.com/freevpn-fiasco/",
+  "ord_in_thread": 0,
+  "author": "Sourav Rudra",
+  "published": "2025-08-21T06:20:00.000+03:00",
+  "title": "Google Verified FreeVPN Caught Red-handed Spying on its Users",
+  "text": "Google Verified FreeVPN Caught Red-handed Spying on its Users\nIf it is free, you are the product. Unless it is free and open source.\nIf it is free, you are the product. Unless it is free and open source.\nUsing a proven and secure VPN service is paramount in these dystopian times. With governments ramping up surveillance, corporations harvesting every click you make, and cybercriminals lurking around every digital corner, your online privacy is at risk.\nBeyond choosing a reputable VPN provider, you need to harden your entire digital footprint. This means locking down your browser with privacy-focused extensions, disabling unnecessary permissions, and regularly auditing what extensions have access to your data.\nUnfortunately, even when you think you're doing everything right, things can shift wildly.\nA worrying case has just surfaced where the FreeVPN.One extension for Google Chrome has been caught red-handed spying on its users. This service has over 100,000 installs and Google's \"verified\" badge.\nWriting for Koi Security, Lotan Sery, Security Researcher at Stealth and former IDF Cyber Security Researcher, has accused FreeVPN.One of secretly capturing screenshots of every webpage users visit.\nThe extension is said to have turned malicious in April 2025 when the developer added spyware functionality to capture screenshots silently. At first the changes were subtle, hidden behind new permissions most users overlooked.\nCome July, this malicious extension went all in, starting to screenshot every website a user visited, tracking a user's location, device information, and sending all of it back to their servers without consent.\nThe Koi Security team reached out to the developer to clarify the intentions behind these features. The developer claimed it was \"Background Scanning\" and promised future opt-ins, but the evidence so far does not support these claims. Communication soon went silent, leaving Koi unable to verify any of the assurances.\nIf you were to visit the website for FreeVPN.One (the keyword ranks well on Google, btw), you will quickly understand that all the information there is just filler content, the blogs (linked under the \"Locations\" section) are utter garbage, and their Contact Support button is literally an email address.\nAlso, a quick look at FreeVPN.One’s Terms of Service and features list makes it even clearer what’s really going on.\n*End of Rant*\nSuggested Read 📖\nStay updated with relevant Linux news, discover new open source apps, follow distro releases and read opinions",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.freevpn.one/?ref=news.itsfoss.com",
+    "https://www.koi.security/blog/spyvpn-the-vpn-that-secretly-captures-your-screen?ref=news.itsfoss.com",
+    "https://www.freevpn.one/terms.html?ref=news.itsfoss.com",
+    "https://en.wikipedia.org/wiki/Israel_Defense_Forces?ref=news.itsfoss.com",
+    "https://www.linkedin.com/company/stealthstartupcareers/?ref=news.itsfoss.com",
+    "https://www.linkedin.com/in/lotan-sery-a7090619b/?ref=news.itsfoss.com",
+    "https://www.freevpn.one/terms.html",
+    "https://www.koi.security/blog/spyvpn-the-vpn-that-secretly-captures-your-screen",
+    "https://www.freevpn.one/",
+    "https://koi.security/blog/spyvpn-the-vpn-that-secretly-captures-your-screen?ref=news.itsfoss.com",
+    "https://freevpn.one/terms.html?ref=news.itsfoss.com",
+    "https://freevpn.one/?ref=news.itsfoss.com",
+    "https://en.wikipedia.org/wiki/Israel_Defense_Forces",
+    "https://www.linkedin.com/company/stealthstartupcareers/",
+    "https://linkedin.com/in/lotan-sery-a7090619b/?ref=news.itsfoss.com",
+    "https://www.en.wikipedia.org/wiki/Israel_Defense_Forces?ref=news.itsfoss.com",
+    "https://www.linkedin.com/in/lotan-sery-a7090619b/",
+    "https://linkedin.com/company/stealthstartupcareers/?ref=news.itsfoss.com"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Koi Security",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Google",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:37:49.130+03:00",
+  "updated": "2025-08-21T10:41:52.000+03:00"
+}

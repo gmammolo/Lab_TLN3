@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "a63f5fb30f64705262a8be61f2bfe410c616a870",
+    "url": "https://forum.winehq.org/viewtopic.php?t=39372",
+    "site_full": "forum.winehq.org",
+    "site": "winehq.org",
+    "site_section": "https://forum.winehq.org/feed.php",
+    "site_categories": [],
+    "section_title": "WineHQ Forums",
+    "title": "Linux • Can't Install Logos Bible Software",
+    "title_full": "Linux • Can't Install Logos Bible Software",
+    "published": "2024-08-30T01:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3999,
+    "domain_rank_updated": "2024-08-27T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a63f5fb30f64705262a8be61f2bfe410c616a870",
+  "url": "https://forum.winehq.org/viewtopic.php?t=39372",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "TheBuilder",
+  "published": "2024-08-30T01:14:00.000+03:00",
+  "title": "Linux • Can't Install Logos Bible Software",
+  "text": "So far I have tried four different methods for installing Logos. The first two methods are for installing Logos 10; the second two are for Logos 9. I would prefer it if Logos 10 would work, but either one would work. All four methods have been tried three times on my laptop without a virtual machine. First I tried them all on Linux mint with KDE plasma. Second, I tried them all on Fedora. Third, I tried them all again on Linux Mint 22 with Cinnamon 6.2.7. This is the setup I am currently using.\nMethod 1: Installing Logos 10 with Wine.\nSince the Logos website wont give me a download for the installer exe, I downloaded it on my windows machine and sent the exe to my linux computer. I am using Wine 9.0~repack-4build3. I have tried right clicking the launcher and opening with wine. This makes the installer popup with a progress bar for downloading setup files that never makes progress. Then the progress bar goes away and I get the error \"Logos Bible Study requires Windows to be fully updated. Please install system updates.\" According to this forum post, someone else had the same issue:\nviewtopic.php?t=37310\nIt looks like they were able to resolve the issue by using winetricks to set the Windows version to windows 10. They also said to set the renderer to gdi with winetricks. I have done both of these, and still I get the exact same error. I am launching the exe from the winetricks gui. I have tried every combination of renderer, windows 10, windows 11, and 64 bit and 32 bit versions of winetricks. Nothing makes any difference, and I always get the same error.\nMethod 2: Using this GitHub Installer:\nhttps://github.com/ferion11/LogosLinuxInstaller\nI have followed the instructions provided on the github post to the letter. I have installed all dependencies that it listed. I have tried installing it from the command line and via gui. Every time I run this program I get the following error:\n\"Your system is missing xmllint. Please install your distro's xmllint package(s).\nThe following packages are usually necessary: winbind cabextract libjpeg8.\"\nI have therefore run the commands: \"sudo apt install xmllint\" \"sudo apt install winbind\" \"sudo apt install cabextract\" and \"sudo apt install libjpeg8\". Some of these seem to install things, but none of them fix the issue. I always get the same error.\nMethod 3: Installing Logos 9 via PlayOnLinux\nThe application allows me to search for LogosBibleSoftware and install version 9 of the software on my computer. With this method on Linux Mint, while installing the software, I get stick on the installing microsoft fonts screen. I have left it on the screen for multiple hours, but it just is stuck. On Fedora, I am also able to install it with this method. However, when I launch the application it blinks on for a half a second and then crashes with no errors being reported. Therefore, I updated .Net, thinking that this could be the cause; however, that did not fix the issue on Fedora.\nMethod 4: Installing Logos 9 via wine\nLogos has legacy versions of their software to download here:\nhttps://wiki.logos.com/Logos_Downloads_Archive#Current_Supported_Stable_version_of_Logos_.2f_Verbum_.3a\nHowever, when I try to run the program using Wine, using Bottles, using Winetricks (set to all of the combinations mentioned in Method 1), I always get the error:\n\"The Microsoft .NET Framework version 4.7.2 is not installed on this computer. Please run LogosSetup.exe to install the .Net framework.\"\nTherefore, I installed .Net 4.7.2 onto my computer and tried all the above methods again, but they still do not work.\nSo, if anyone has an idea to get any combination of wine version + linux version + logos version that can possibly work to get Logos onto my computer, that would be greatly appreciated. Apparently others have been able to install it, to it is at least possible.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Education"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/ferion11/LogosLinuxInstaller",
+    "https://wiki.logos.com/Logos_Downloads_Archive#Current_Supported_Stable_version_of_Logos_.2f_Verbum_.3a",
+    "https://www.github.com/ferion11/LogosLinuxInstaller",
+    "https://www.wiki.logos.com/Logos_Downloads_Archive#Current_Supported_Stable_version_of_Logos_.2f_Verbum_.3a"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "logos",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-30T04:16:42.311+03:00",
+  "updated": "2024-08-30T04:16:42.311+03:00"
+}

@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "87dc445718f88177d3a5dca2fd5885a1910148ad",
+    "url": "https://mtz.china.com/touzi/2025/1225/209759.html",
+    "site_full": "mtz.china.com",
+    "site": "china.com",
+    "site_section": "https://mtz.china.com/touzi",
+    "site_categories": [],
+    "section_title": "资讯 - 中华网科技",
+    "site_title": null,
+    "title": "Dell Pro 14 Plus实测：一款非常优秀的商务笔记本_中华网",
+    "title_full": "Dell Pro 14 Plus实测：一款非常优秀的商务笔记本_中华网",
+    "published": "2025-12-25T08:21:45.700+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6910,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "87dc445718f88177d3a5dca2fd5885a1910148ad",
+  "url": "https://mtz.china.com/touzi/2025/1225/209759.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-12-25T08:21:45.700+02:00",
+  "title": "Dell Pro 14 Plus实测：一款非常优秀的商务笔记本_中华网",
+  "text": "无论是在生活还是工作中，智能化浪潮正以前所未有的力量重塑着我们的工作与生活，AI PC作为这一变革中的核心载体，正逐渐成为提升效率、激发创造力的关键工具。\n最近，戴尔推出了搭载AMD 锐龙™ AI PRO 300系列处理器的Dell Pro 14 Plus笔记本，这款定位商务领域的AI PC，凭借其出色的性能、优秀的设计、可定制化以及强大的功能等，诠释了商务与智能技术的完美融合，为商务精英和内容创作者赋能，成为新一代生产力标杆。\n接下来，我们就来全面评测一下这款Dell Pro 14 Plus笔记本，看看它是否能满足我们日常工作和生活中的各种需求。\n01、处理器\n我们评测的这款Dell Pro 14 Plus笔记本，搭载了AMD 锐龙™ AI 7 PRO 350 处理器，其采用了先进的TSMC 4nm工艺打造，拥有8核心16线程，缓存高达24MB，最高加速时钟频率最高可达5.0 GHz。同时，它还内置了XDNA 2架构的NPU，能够提供强大的AI算力，以及RDNA 3.5架构的Radeon 860M集显，具备入门独显级的图形性能。\n02、单烤功耗\n我们来看看这款处理器在Dell Pro 14 Plus笔记本上的功耗表现，使用AIDA64的FPU模式，连续运行15分钟，CPU封装功率25W，核心温度 66.2°C。AMD 锐龙™ AI 7 PRO 350 处理器的默认热设计功耗 28W，可配置15-54W范围可调，所以在Dell Pro 14 Plus笔记本上的功耗表现，依然有很大的发挥空间，当然，较低的功耗在带来稳定、低温的同时，也能带来更长的续航时间，这让Dell Pro 14 Plus笔记本能够满足更多场景的应用。\n继续来看看这款处理器的性能跑分情况。在各项基准测试之前，我们已经将BIOS驱动更新，系统为Windows 11家庭中文版24H2，并将系统电源设置为最佳性能，连接电源。值得一提的是，这款笔记本还预装了Dell Optimizer智能调优软件，在电源和电池的设置选项里，你可以通过调整PC的风扇速度和散热管理，来满足当前应用的需求。\n03、基准测试\nCINEBENCH\nCINEBENCH R20的测试中，多线程得分4900 pts，单线程得分762 pts;R23的测试中，多线程得分12581 pts，单线程得分1964 pts。对比在相同功耗下的其它型号处理器，AMD 锐龙™ AI 7 PRO 350 处理器有着更高的能效比，更加适合商务办公的多样化需求。\n7-Zip基准测试\n在压缩解压缩软件7-Zip的基准测试中，总体评分达到76.320 GIPS，也意味着日常即使在面对较大文件的压缩、解压缩工作中，AMD 锐龙™ AI 7 PRO 350 处理器是可以轻松应对的。\nV-Ray\nV-Ray CPU渲染测试中，获得14156 Vsamples的成绩，说明搭载了AMD 锐龙™ AI 7 PRO 350 处理器的Dell Pro 14 Plus笔记本可以应对各类3D和图形生成类渲染，同时还有Radeon 860M集显的加持，可以做到流畅高效。此外，借助搭载的32GB LPDDR5x 7500高频大内存，可以让我们在处理一些PS、CAD画图时，获得便携与性能的平衡。\n03、图形性能\n众所周知，在集显性能方面，RDNA 3.5架构的Radeon 860M简直高太多了。Radeon 860M直接继承了Radeon 760M提供8个内核(CU = 512着色器)，时钟频率高达3 GHz。不仅在各项跑分中表现出色，也可以流畅运行主流的网络游戏，甚至是3A游戏。\n来看看其在3DMark的各项测试成绩，Time Spy是测试在DX12 API下的图形渲染能力。结果可见，显卡得分2623，CPU得分8624，综合得分2928。\nFire Strike测试是反映显卡在DX11下的渲染能力，结果可见，显卡得分6789，总分6226。\nNight Raid是专为低功耗设备设计的轻量级基准测试，其成绩能够反应其在低负载游戏、日常办公、多媒体娱乐等方面的性能。结果可见，显卡分数30437，综合得分25704，像是csgo这样的游戏，可以很流畅的运行。\n04、内存\nDell Pro 14 Plus笔记本还搭载了32GB LPDDR5x 7500 MT/s 双通道(主板集成)内存，这种高频内存能够为处理器提供快速的数据传输速度，进一步提升系统的整体性能。在AIDA64的内存测试中，读取速度63215MB/s，写入速度94181MB/s。无论是在加载大型文件、运行复杂的软件程序还是进行多任务处理时，32GB的大内存都能够保证系统的流畅运行，减少等待时间。\n05、硬盘存储\n存储方面，这款笔记本采用了512GB固态硬盘，在实际测试中，该固态硬盘的顺序读取速度可达5200MB/s ，顺序写入速度可达4071MB/s。当然，如果用户对存储容量有更高的需求，还可以选择更大容量的固态硬盘。\n06、AI性能\n借助AMD 锐龙™ AI 7 PRO 350 处理器内置的50 TOPS高AI算力NPU，Dell Pro 14 Plus笔记本在AI性能方面表现突出。它可以顺利支持Windows 11 AI PC功能，虽然Copilot个人版云服务暂未对中国内地开放，但Recall回顾、Click to Do、Live Caption带翻译功能的实时字幕等强大的Windows 11 AI PC本地AI功能(海外称之为Copilot+PC)在这款笔记本上均能够正式启用。\nRecall回顾功能可以在后台无感知地记录用户日常的网页和文件浏览历史，并以时间轴的形式保存在本地。当用户需要查找之前浏览过的内容时，只需打开回顾功能，通过搜索或拖动时间轴，就可以快速找到相关信息，并且保存的内容可以选中复制，大大提高了信息检索的效率。\n为了保障用户的隐私安全，每次点击回顾功能，都会先开启Windows Hello、指纹或PIN码验证，在确保是本人使用时，才能顺利使用。同时，在首次开启该功能时，会强制用户开启BitLocker加密保护，防止未经授权的本机访问，确保本地隐私数据不会被恶意篡改和读取。\nClick to Do单击以执行功能目前支持对PDF、网页中文字和图片的智能抓取，甚至还可以和Recall回顾联动使用。用户可以随时抓取自己想要的文字、图片信息生成新的内容，极大地增强了办公效率。例如，在处理一份PDF文档时，用户可以通过Click to Do功能快速提取文档中的关键信息，并进行整理和编辑，节省了大量手动复制粘贴的时间。\nLive Caption带翻译功能的实时字幕则为商务会议和学习提供了便利。用户可以在设置中对字幕样式进行强调设置，也可以选择包括麦克风音频、屏蔽不雅内容等选项，从而在商务会议中看到精准干净的外国语实时翻译。这对于需要经常参加国际会议或学习外语的用户来说，是一个非常实用的功能。\n07、续航时间\nDell Pro 14 Plus笔记本内置了3 芯 55 Whr电池，并支持快速充电功能，配备了65W USB Type - C接口适配器。在续航测试中，使用PCMark 10的现代办公模式进行连续运行，屏幕亮度50%，系统电源为最佳能效，最终获得13小时的续航，这样的续航表现是非常可圈可点的，能够满足用户在日常移动办公中的需求，即使在外出一整天且无法及时充电的情况下，也不用担心电量不足的问题。\n而在充电方面，65W USB Type - C接口适配器能够为笔记本快速充电，当用户在短时间内需要使用笔记本，但电量不足时，快速充电功能可以为用户节省时间，提供便利。\n外观设计\nDell Pro 14 Plus笔记本在外观上看凸显了商务气息，其采用了更加耐用的铝制设计，整体外观简约大方，线条流畅，给人一种高端大气的感觉。机身厚度约为19.5毫米，重量约1.56千克，外出携带无负担。此外，这款笔记本通过了严格的MIL - STD军规测试，无论是面对高温、低温、潮湿等恶劣的环境条件，还是在受到震动、冲击等外力作用时，Dell Pro 14 Plus笔记本都能够稳定运行，为用户提供可靠的保障。\n180°平铺模式，方便与其他同事分享屏幕，包括在很多狭小的空间里，可以有更大的开合自由度。\n键盘的打字手感也很不错，长键程、大键距设计，大大减少了快速打字时的误触，而且按键的反馈清晰。此外，还有可调背光的设计，在光线不好的环境下，依然可以很清晰的被识别。\n大尺寸触控板，在出差时无需借助鼠标，也能轻松高效的操作，不仅手感顺滑，左右微动按键的反馈也很清晰，一旦习惯，几乎不再依赖鼠标。\n接口方面，Dell Pro 14 Plus笔记本是戴尔首款采用模块化USB - C端口设计的商用PC，这种设计使得接口的抗扭曲性最多提升4倍，抗冲击性最多提升33倍，不仅更加坚固耐用，而且更易于维修。\n具体接口布局上，这款笔记本提供了2个USB Type - C雷电技术4.0端口， 2个USB 3.2 Type-A端口。视频输出方面，配备了1个HDMI 2.1端口，支持4K/60Hz视频输出，方便用户连接投影仪、电视等外部显示设备进行演示或观看视频。\n此外，在机身右侧，还提供了1个RJ45 (1 Gbps) 千兆以太网端口， 3.5mm耳机插孔。值得一提的是，这款笔记本还可选nano - SIM卡插槽或智能卡读卡器插槽，为一些对数据安全有较高要求的企业用户提供了更便捷的身份验证方式。\n屏幕方面，Dell Pro 14 Plus笔记本配备了一块14英寸窄边框设计的屏幕，屏幕比例为16:10，分辨率为2560 x 1600，90Hz屏幕刷新率。值得一提的是，这款笔记本配备了1080p FHD RGB + 红外HDR摄像头，支持物理开关，为用户的隐私安全提供了保障，当用户不需要使用摄像头时，可以通过物理开关将其关闭，防止隐私泄露。\n色域方面，我们使用校色仪检测可见，98.9%sRGB色域覆盖，色准△E值也在标准之内，对于办公和设计而言，这样的表现足够。\n写在最后\n通过以上我们对Dell Pro 14 Plus笔记本评测，可以看到它在多个方面都有着出色的表现。包括在外观上的军工级耐用品质，能够适应各种复杂的使用环境;其次，屏幕素质良好，窄边框、高分辨率、90Hz刷新率屏提供了清晰、舒适的视觉体验。\n通过以上我们对Dell Pro 14 Plus笔记本评测，可以看到它在多个方面都有着出色的表现。包括在外观上的军工级耐用品质，能够适应各种复杂的使用环境;其次，屏幕素质良好，窄边框、高分辨率、90Hz刷新率屏提供了清晰、舒适的视觉体验。\n性能方面，搭载AMD 锐龙™ AI 7 PRO 350 处理器以及强大的高频率内存，使其在日常办公、多任务处理以及智能化应用等方面都表现得游刃有余;丰富且耐用的接口配置满足了用户连接各种外部设备的需求;续航能力也能够满足日常移动办公的需要。\n总的来说，Dell Pro 14 Plus是一款非常优秀的笔记本，尤其是对于那些对笔记本的性能、便携性、可靠性以及功能有较高要求的商务人士和企业用户来说，它无疑是一个非常不错的选择。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T08:21:45.700+02:00",
+  "updated": "2025-12-25T08:24:51.000+02:00"
+}

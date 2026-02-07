@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "412d195589bf076c596bc7a13296b8d0172718e4",
+    "url": "https://www.ettoday.net/news/20250403/2936780.htm",
+    "site_full": "www.ettoday.net",
+    "site": "ettoday.net",
+    "site_section": "https://ettoday.net/news/20231215/2643678.htm?from=rss",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "以色列國防長稱「戰爭還會持續數個月」　白宮盼盡快結束 | ETtoday國際新聞 | ETtoday新聞雲",
+    "site_title": "ETtoday新聞雲 | Today is my day",
+    "title": "平價AI革命！　台廠強攻「小而美AI」革命",
+    "title_full": "平價AI革命！　台廠強攻「小而美AI」革命",
+    "published": "2025-04-03T01:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cdn2.ettoday.net/images/8156/e8156569.jpg",
+    "performance_score": 0,
+    "domain_rank": 8637,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "412d195589bf076c596bc7a13296b8d0172718e4",
+  "url": "https://www.ettoday.net/news/20250403/2936780.htm",
+  "ord_in_thread": 0,
+  "author": "ETtoday新聞雲",
+  "published": "2025-04-03T01:22:00.000+03:00",
+  "title": "平價AI革命！　台廠強攻「小而美AI」革命",
+  "text": "▲類似DeepSeek的平價AI模型相繼問世，有望加速生成式邊緣AI應用蓬勃發展，進而帶動工業電腦新商機。（圖／鏡週刊提供，下同）\n圖、文／鏡週刊\n一場由中國新創DeepSeek掀起的「平價AI革命」，年初以來不但吸引特斯拉創辦人馬斯克推出Grok 3迎戰，連台灣科技巨擘鴻海也推出FoxBrain行動認同，本刊調查，隨著AI算力成本大減，讓向來擅長客製化的台灣工業電腦（IPC）廠商大為振奮，摩拳擦掌搶攻高達千億美元的邊緣運算商機，龍頭廠研華除在自家產線導入AI應用，旗下的研揚、融程電也陸續插旗。此外，振樺電也與宏碁策略結盟強化零售應用，就連專攻影像擷取卡的聰泰也來湊熱鬧。\n距離台灣9千公里遠的德國紐倫堡，原本是平靜的歐洲工業重鎮，今年的「嵌入式電子與工業電腦應用展」（Embedded World）卻格外熱鬧，因為台灣派出高達148家業者參展，規模居全球海外參展國之首，成了這場科技盛會的焦點。\n本刊調查，這次展會，因距離中國發布DeepSeek-R1模型僅短短數週，這款推理能力不亞於ChatGPT的低成本AI大語言模型（LLM），正在改寫AI市場規則，讓擅長打造工業電腦（簡稱：IPC）的台灣業者，紛紛看好生成式AI將加速在邊緣運算開發各種應用，頻頻在會場大秀肌肉。\n「不得不說，DeepSeek（簡稱：DS）崛起後，生成式邊緣AI語言模型越來越平（親）民。」資策會MIC資深產業分析師朱師右向本刊分析，DS是一種蒸餾技術（Knowledge Distillation）的應用，可使模型在保持高性能的同時，減少對高階AI晶片的依賴，｢相當適合資源有限的終端設備運行，這也是台灣IPC業者如此振奮的原因所在。」他推測。\n朱師右進一步指出，所謂邊緣AI的核心概念，就是將AI運算能力從雲端資料中心移轉至終端設備，使AI能夠直接在場域內進行資料處理與決策，無需依賴雲端運算，大幅降低訓練成本與延遲時間，這也讓工業電腦業者迎來全新的市場機會。\n資策會MIC產業分析師楊智傑則補充，AI的發展，依賴數據、算力與算法三大要素。過去，產業界習慣圍繞「算力」布局，但這是高額的硬體軍備賽；然而，DeepSeek和其他中小型模型的出現，讓業界開始重新思考：「AI的表現是否僅能仰賴強大算力？」若能透過精細的演算法改良，將數據梳理與過濾優化，同樣可以實現優秀的AI應用，這種「低算力、高效能」的思維，正在顛覆傳統AI產業思維。\n「過去，大語言模型（LLM）的回收期長、成本高，難以大規模應用，現在，DS的蒸餾技術可以將模型拆解為更小的單元，讓業者更能靈活部署，進而拉低整體成本，也就是所謂的小語言模型（SLM）。」研華邊緣伺服器事業副總鮑志偉向本刊表示，在邊緣裝置上導入GPT等大語言模型，因精準度的挑戰須回到雲端不斷訓練；然而，DS與Grok3這類開源模型，在壓縮模型的同時還能保持精確度，還能免費開放程式碼還能讓開發者微調後直接運用。\n鮑志偉進一步舉例：「這就像打造賽車，假設某家車廠開發出馬力超強的引擎，讓後進者難以望其項背，但後進者改變策略，採用稍微弱一點的引擎，卻透過更優化的導流設計提升穩定性，仍然有機會追上、甚至脫穎而出。「這種高性價比（CP值）模式，將吸引更多非一線雲端大廠投入，使邊緣AI應用更加百花齊放。」他說。\n「我認為，小語言模型（SLM）將會遍地開花，開源（open source）也將成為AI新普世價值，更不再是尖牙股等雲端巨頭的專利。」他大膽預言。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->manufacturing and engineering",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T01:27:21.658+03:00",
+  "updated": "2025-04-03T01:27:21.658+03:00"
+}

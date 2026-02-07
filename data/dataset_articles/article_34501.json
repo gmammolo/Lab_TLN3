@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "8bb273c4feafa22c4d8d13616d5a57168360a7f5",
+    "url": "https://www.labmanager.com/new-pfas-testing-method-created-33101",
+    "site_full": "www.labmanager.com",
+    "site": "labmanager.com",
+    "site_section": "http://www.labmanager.com/environmental",
+    "site_categories": [
+      "science",
+      "chemistry"
+    ],
+    "section_title": "Environmental Content List | Lab Manager",
+    "title": "New PFAS Testing Method Created",
+    "title_full": "New PFAS Testing Method Created",
+    "published": "2024-11-07T20:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.labmanager.com/assets/image/52546/pfas-crosshairs-m.jpg",
+    "performance_score": 0,
+    "domain_rank": 37672,
+    "domain_rank_updated": "2024-11-04T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8bb273c4feafa22c4d8d13616d5a57168360a7f5",
+  "url": "https://www.labmanager.com/new-pfas-testing-method-created-33101",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "University of Massachusetts Amherst",
+  "published": "2024-11-07T20:57:00.000+02:00",
+  "title": "New PFAS Testing Method Created",
+  "text": "University of Massachusetts Amherst researchers have discovered a new way to detect per- and polyfluoroalkyl substances (PFAS) in water. This marks an important step forward in creating testing devices that are simpler, more cost-effective, faster and generally more accessible than existing methods.\nPFAS, the so-called forever chemicals, have been recognized as a concerning pollutant.\nThese chemicals persist in the environment because they resist breaking down and pose significant health threats. Exposure to these chemicals is linked to various cancers (including kidney, testicular, breast, ovarian, prostate, thyroid and childhood leukemia), liver and heart damage, and developmental damage to infants and children.\nEarlier this year, the Environmental Protection Agency (EPA) announced the first-ever national safety standard for PFAS in drinking water at 4 ppt. \"PPT -- that means parts per trillion. That means in a trillion molecules in water, only 4 molecules are PFAS. And then we need to be able to detect even those few,\" explains Chang Liu, associate professor of biomedical engineering at UMass Amherst and corresponding author of the paper published in the journal Science Advances that describes their new method.\nThe gold standard for testing PFAS is currently liquid chromatography combined with mass spectrometry. However, this method requires million-dollar equipment and complicated extraction steps. And, it is not portable. \"In addition, the stubborn persistence of PFAS residues can diminish the sensitivity of these instruments over time,\"says Xiaojun Wei, first author of the paper and research assistant professor at UMass Amherst.\n[Their study](http://dx.doi.org/10.1126/sciadv.adp8134) demonstrates that a small, inexpensive device is feasible for identifying various PFAS families and detecting PFAS at levels as low as 400 ppt. While this proof-of-concept stage invention does not reach the same level of sensitivity or the breadth of PFAS types that can be detected compared to mass spectrometry, the researchers see high potential for its impact.\n\"We're bringing the cost of the instrument from the scale of a million dollars to a few thousand,\" says Liu. \"We need better technology for detecting PFAS -- more accessible, more affordable and easier to use. And more testing that's on site. That's the motivation.\"\nThe researchers also see an application to use this method as a first-screening tool to identify the water that poses the greatest risks to human health.\nTheir testing device works by adding a molecule called cyclodextrin to a small device that is typically used for sequencing DNA, called a nanopore. The \"host-guest\" interaction between cyclodextrin and PFAS has been well documented, but Liu explains that no one had ever combined it with a nanopore for detection. \"Now we're using one of these molecules called HP-gamma-Cyclodextrin as an adapter in an alpha-Hemolysin nanopore,\" he says, effectively creating a PFAS detector.\nLiu hopes that their research will help raise awareness to the hazards of PFAS and eventually lead to a commercialized portable PFAS detector for water monitoring in the field.\n-Note: This news release was originally published by [the University of Massachusetts Amherst](https://www.umass.edu/news/article/new-pfas-testing-method-created-umass-amherst). As it has been republished, it may deviate from our style guide.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://dx.doi.org/10.1126/sciadv.adp8134)",
+    "https://www.umass.edu/news/article/new-pfas-testing-method-created-umass-amherst).",
+    "http://www.dx.doi.org/10.1126/sciadv.adp8134)",
+    "https://umass.edu/news/article/new-pfas-testing-method-created-umass-amherst)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Chang Liu",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Environmental Protection Agency",
+        "sentiment": "none"
+      },
+      {
+        "name": "EPA",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-08T01:49:15.975+02:00",
+  "updated": "2024-11-22T11:29:41.118+02:00"
+}

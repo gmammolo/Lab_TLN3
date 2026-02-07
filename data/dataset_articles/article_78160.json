@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "38423dd540e4a97de80b65c26915d1e6d8a77384",
+    "url": "https://www.lebigdata.fr/windows-attention-a-cette-mise-a-jour-elle-peut-causer-un-gros-bug-sur-votre-pc",
+    "site_full": "www.lebigdata.fr",
+    "site": "lebigdata.fr",
+    "site_section": "https://www.lebigdata.fr/rss",
+    "site_categories": [
+      "data_centers",
+      "tech"
+    ],
+    "section_title": "LEBIGDATA.FR",
+    "site_title": "LEBIGDATA.FR - I.A, Cloud &amp; Cybersécurité",
+    "title": "Windows : attention à cette mise à jour ! Elle peut causer un gros bug sur votre PC",
+    "title_full": "Windows : attention à cette mise à jour ! Elle peut causer un gros bug sur votre PC",
+    "published": "2025-08-21T11:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.lebigdata.fr/wp-content/uploads/2025/08/Windows-attention-cette-mise-a-jour-.png",
+    "performance_score": 0,
+    "domain_rank": 54441,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "38423dd540e4a97de80b65c26915d1e6d8a77384",
+  "url": "https://www.lebigdata.fr/windows-attention-a-cette-mise-a-jour-elle-peut-causer-un-gros-bug-sur-votre-pc",
+  "ord_in_thread": 0,
+  "author": "Miharintsoa R.",
+  "published": "2025-08-21T11:00:00.000+03:00",
+  "title": "Windows : attention à cette mise à jour ! Elle peut causer un gros bug sur votre PC",
+  "text": "Les récentes mises à jour de Windows ont introduit des bugs, tels que le blocage de la réinitialisation ou la corruption de SSD. Des correctifs sont déjà disponibles pour rétablir la stabilité.\nDébut août 2025, Microsoft a déployé son habituel Patch Tuesday. Une série de mises à jour de sécurité pour renforcer la protection des systèmes Windows. Cette opération mensuelle a permis de corriger plus de 100 vulnérabilités dans le code de Windows, dont une faille zero-day activement exploitée et treize brèches classées critiques.\nMise à jour Windows bloque la réinitialisation\nLe correctif a rapidement entraîné des effets secondaires inattendus. Plusieurs rapports font état de dysfonctionnements affectant les fonctions de réinitialisation et de récupération de Windows.\nLes mises à jour KB5063875 et KB5063709, déployées pour Windows 10 et certaines versions de Windows 11, en sont à l’origine.\nCes correctifs interféraient avec le processus de réinitialisation du système, accessible via les paramètres. Lorsqu’un utilisateur lançait l’opération, celle-ci s’interrompait, laissant l’ordinateur dans un état instable.\nDes défaillances apparaissent également avec l’outil de résolution de problèmes de Windows Update, censé diagnostiquer et corriger les erreurs de mise à jour. Enfin, la fonction d’effacement à distance via RemoteWipe CSP ne fonctionnait plus sur certains PC.\nKB5063878 et les risques pour les SSD\nUn autre bug est apparu après une mise à jour spécifique de Windows 11 version 24H2. La référence KB5063878, en suivi de la mise à jour facultative KB5062660 de juillet, a été associée à des cas de corruption et de panne de données sur des SSD.\nMicrosoft a reconnu le problème dans une déclaration à Windows Latest : « Nous sommes au courant de ces rapports et enquêtons avec nos partenaires », en citant notamment le fabricant Phison. Le dysfonctionnement ne touchait pas tous les systèmes, mais survenait dans des conditions précises.\nLes premiers signalements sont venus d’utilisateurs au Japon. L’Explorateur de fichiers pouvait se figer ou planter. Les outils de monitoring SMART (Self-Monitoring, Analysis and Reporting Technology) devenaient illisibles. Des erreurs d’entrée/sortie (I/O) apparaissaient.\nDans les cas extrêmes, le disque disparaissait non seulement de Windows, mais aussi du BIOS. Une écriture prolongée sur un SSD rempli à plus de 60 % déclenche la panne. Microsoft soupçonnait alors une modification dans la pile de stockage de Windows 11.\nL’entreprise poursuivait ses investigations avec les fabricants de SSD, en analysant les interactions entre le noyau Windows, les contrôleurs et les opérations d’écriture. Aucun lien définitif n’a été établi avec la KB5063878, mais les coïncidences temporelles renforçaient les soupçons.\nCorrectifs déployés\nMicrosoft a confirmé ces anomalies des mises à jour KB5063875 et KB5063709 dans un avis en ligne. « Après l’installation de la mise à jour de sécurité Windows d’août 2025 (KB5063875), les tentatives de réinitialisation ou de récupération de l’appareil peuvent échouer. »\nMoins d’une semaine après les premiers signalements, Microsoft a publié une mise à jour hors cycle (OOB) : KB5066189. Destinée en priorité aux systèmes touchés, elle restaure les fonctions défaillantes.\n« Il est recommandé d’installer cette mise à jour hors cycle plutôt que la KB5063875. Après l’installation, redémarrez votre ordinateur. » Le déploiement a démarré immédiatement, avec une diffusion progressive via Windows Update.\n- Partager l'article :",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social problem",
+    "Social Issue->social networking",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:36:58.784+03:00",
+  "updated": "2025-08-21T11:43:24.000+03:00"
+}

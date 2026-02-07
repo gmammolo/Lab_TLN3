@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "301a20b1fb96e3723e07dbe9c32f324596158d54",
+    "url": "https://www.epochtimes.com/b5/25/8/14/n14573390.htm",
+    "site_full": "www.epochtimes.com",
+    "site": "epochtimes.com",
+    "site_section": "https://feed.epochtimes.com/b5/nimpart.htm/feed",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "全球要聞 | 大紀元",
+    "site_title": "大紀元 | 大紀元新聞網",
+    "title": "消息：華為芯片不力 DeepSeek新模型推遲發布",
+    "title_full": "消息：華為芯片不力 DeepSeek新模型推遲發布",
+    "published": "2025-08-14T10:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://i.epochtimes.com/assets/uploads/2025/02/id14446206-747913-700x359.jpg",
+    "performance_score": 0,
+    "domain_rank": 9833,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "301a20b1fb96e3723e07dbe9c32f324596158d54",
+  "url": "https://www.epochtimes.com/b5/25/8/14/n14573390.htm",
+  "ord_in_thread": 0,
+  "author": "djy",
+  "published": "2025-08-14T10:40:00.000+03:00",
+  "title": "消息：華為芯片不力 DeepSeek新模型推遲發布",
+  "text": "【大紀元2025年08月14日訊】（大紀元記者王君宜綜合報導）最新消息指出，中國人工智能新創公司DeepSeek（深度求索）因在使用華為芯片進行訓練時遭遇技術故障，被迫推遲最新R2模型的發布。此事凸顯北京在推進本土化AI發展方面仍面臨嚴峻挑戰。\n據《金融時報》引述三位知情人士透露，DeepSeek在今年1月推出R1模型後，應監管部門「鼓勵」，改用華為昇騰（Ascend）處理器取代美國英偉達（Nvidia，輝達）系統。\n但在R2訓練過程中，昇騰芯片反覆出現穩定性與性能問題，最終DeepSeek只能採取「訓練用英偉達、推理用華為」的折衷方案，原定5月的發布被迫延後，錯失市場時機。\n訓練是指通過大量數據讓模型學習並優化參數的過程；推理則是利用已完成訓練的模型生成結果或預測，例如聊天機器人的回覆。\n報導稱，華為曾派遣工程師團隊駐紮DeepSeek辦公室協助開發，但仍未能在昇騰芯片上完成一次成功的完整訓練。DeepSeek仍在與華為合作，嘗試讓R2模型在推理階段完全適配昇騰芯片。\n知情人士表示，DeepSeek創辦人梁文峰對R2研發進度不滿，並推動加大資源投入，以打造能保持領先優勢的先進模型。\n英偉達H20在華發展情勢\n英偉達近日與美國政府達成協議，同意將其H20芯片在華銷售收入的15%上繳美方，以換取出口許可。該公司強調，若完全退出中國市場及開發者社群，將削弱美國的全球經濟競爭力與科技影響力。\n然而，中共網信辦上月末約談英偉達，要求解釋H20芯片是否存在可遠端追蹤或關閉的「後門」安全風險，並提交相關證明材料。\n英偉達於8月6日發表聲明，明確否認旗下GPU芯片含有後門功能、遙控關機開關或間諜軟件。\n路透社報導指出，中共當局雖未正式全面禁止H20銷售，但已明令要求騰訊、字節跳動、百度等主要網絡企業在使用H20時需提交「合理說明」，尤其涉及政府或敏感用途時。\n報導指出，儘管中國市場仍對H20有需求，持續的政治與監管壓力可能促使企業減少採購量。\n責任編輯：李琳#",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biotechnology",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blogs.nvidia.com/blog/no-backdoors-no-kill-switches-no-spyware/",
+    "https://blogs.nvidia.com/blog/no-backdoors-no-kill-switches-no-spyware",
+    "https://www.blogs.nvidia.com/blog/no-backdoors-no-kill-switches-no-spyware/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:28:36.786+03:00",
+  "updated": "2025-08-15T12:05:00.000+03:00"
+}

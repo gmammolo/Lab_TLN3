@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "91a1a9314581ce1101ac09e520ccfaf74348d0c4",
+    "url": "https://nybreaking.com/another-top-wordpress-plugin-that-contains-critical-security-flaws",
+    "site_full": "nybreaking.com",
+    "site": "nybreaking.com",
+    "site_section": "https://www.nybreaking.com",
+    "site_categories": [],
+    "section_title": "NY Breaking News - The New York Breaking News",
+    "title": "Another top WordPress plugin that contains critical security flaws",
+    "title_full": "Another top WordPress plugin that contains critical security flaws",
+    "published": "2025-01-09T22:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 79781,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "91a1a9314581ce1101ac09e520ccfaf74348d0c4",
+  "url": "https://nybreaking.com/another-top-wordpress-plugin-that-contains-critical-security-flaws",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "James",
+  "published": "2025-01-09T22:27:00.000+02:00",
+  "title": "Another top WordPress plugin that contains critical security flaws",
+  "text": "Patchstack researchers discover two new flaws in Fancy Product Designer The WordPress plugin built by Radykal has over 20,000 active users The flaws allowed remote code execution, arbitrary file uploads, and more A popular WordPress plugin has been found to contain two critical vulnerabilities that allow threat actors to upload files, tamper with databases, and essentially take over compromised websites.\nTo make matters worse, the vulnerabilities remained in the code for more than six months, despite the developers being informed of them and actively working on new versions in the meantime.\nCybersecurity researchers at Patchstack claim to have discovered two vulnerabilities in late March 2024 in Fancy Product Designer, a premium website builder plugin developed by Radykal that allows users to create and customize products such as t-shirts, mugs or posters customize with different design tools and options for e-commerce stores. It has over 20,000 sales.\nSilence from the sellers The vulnerabilities are tracked as CVE-2024-51919 (severity score 9.0) and CVE-2024-51818. The former is an unverified arbitrary file upload vulnerability, while the latter is an unverified SQL injection flaw. Because the first allows remote code execution (RCE), this can lead to full website takeover in some scenarios.\nPatchstack claims to have notified the vendor of the issues in late March, but never heard back from the company. In the meantime, Radykal worked on new versions of the plugin and released twenty of them. The last one was pushed two months ago (6.4.3) and still contains the critical security flaws.\nTo warn users about the risks and draw attention to the problem, Patchstack added the bugs to its database and published an in-depth blog, with enough technical information to build an exploit and target websites using Fancy Product Designer.\nTo prevent this from happening, web administrators should create a whitelist of allowed file extensions, thus preventing threat actors from uploading whatever they want. Patchstack added that users should also clean up user input for a query to defend against SQL injection attacks.\nSign up for the Ny Breaking newsletter and get all the best news, opinions, features and guidance your business needs to succeed!\nVia BleepingComputer\nYou might also like it",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/",
+    "https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin",
+    "https://bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:10:40.885+02:00",
+  "updated": "2025-01-10T01:10:40.885+02:00"
+}

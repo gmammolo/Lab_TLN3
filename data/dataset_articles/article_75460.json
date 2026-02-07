@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "0f420e65aa00d5e2d4e63e85bff0e9f5fb211ae5",
+    "url": "https://www.heise.de/en/news/Attacks-on-Citrix-security-vulnerability-observed-10104955.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/en",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "heise online – IT news, guides and background information | heise online",
+    "title": "Attacks on Citrix security vulnerability observed | heise online",
+    "title_full": "Attacks on Citrix security vulnerability observed | heise online",
+    "published": "2024-11-22T14:51:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/3/5/4/5/7/2024-09-30-Bing_Image_Creator-Server_Angriffe-1-cbc21d13218c839e.jpg",
+    "performance_score": 0,
+    "domain_rank": 922,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0f420e65aa00d5e2d4e63e85bff0e9f5fb211ae5",
+  "url": "https://www.heise.de/en/news/Attacks-on-Citrix-security-vulnerability-observed-10104955.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dirk Knop",
+  "published": "2024-11-22T14:51:00.000+02:00",
+  "title": "Attacks on Citrix security vulnerability observed | heise online",
+  "text": "The vulnerabilities in Citrix Session Recording, for which the manufacturer provided software updates last week, are being attacked in the wild. IT managers should therefore install the available updates as quickly as possible.\nAnzeige The Internet Storm Center of the SANS Institute has now observed attempts to attack the vulnerability on its honeypots. Johannes Ullrich writes that he discovered exploit attempts on Monday of this week.\nVirtual Apps and Desktops: Secure remote access Ullrich explains that Citrix Virtual Apps and Desktops is designed to provide secure remote access to desktop applications. It is often used for remote work; he has also seen setups in call centers that use it to isolate the workstation from the desktop. However, these remote desktops all run on the same server. The IT security researcher goes on to explain that an extension of rights not only affects the specific desktop, but also the server and all associated sessions.\nCitrix is adding a function for recording and saving sessions, which admins can view if required. This feature uses a .Net function that has deserialization vulnerabilities. The gap was investigated by the IT security experts at Watchtowr and a proof-of-concept exploit was published on Github.\nAttackers have now apparently picked it up and used it to attack vulnerable instances. According to Ullrich, the exploit does not require prior authentication. However, the URL used in the exploit to download a script returned an HTTP 404 error (not found), making further analysis of the attack impossible.\nTo avoid the risk of falling victim to such attacks in the wild, the updates should be applied immediately.\nAnzeige Read also Citrix plugs security leaks in Netscaler ADC and Gateway and more",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://isc.sans.edu/diary/31446",
+    "https://www.isc.sans.edu/diary/31446"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:28:14.251+02:00",
+  "updated": "2024-11-22T15:28:14.251+02:00"
+}

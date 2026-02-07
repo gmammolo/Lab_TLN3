@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "20b650dd13019cd668352a8833fa7ce484c16ac7",
+    "url": "https://dirigentesdigital.com/opinion/bluesnarfing-bluetooth-brecha-seguridad",
+    "site_full": "dirigentesdigital.com",
+    "site": "dirigentesdigital.com",
+    "site_section": "https://www.dirigentesdigital.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Dirigentes Digital - Noticias de Economia, Directivos y Empresas",
+    "title": "Bluesnarfing: ¿cómo una conexión bluetooth puede convertirse en una brecha de seguridad?",
+    "title_full": "Bluesnarfing: ¿cómo una conexión bluetooth puede convertirse en una brecha de seguridad?",
+    "published": "2024-11-14T12:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 156701,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "20b650dd13019cd668352a8833fa7ce484c16ac7",
+  "url": "https://dirigentesdigital.com/opinion/bluesnarfing-bluetooth-brecha-seguridad",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Isabel Garrido",
+  "published": "2024-11-14T12:22:00.000+02:00",
+  "title": "Bluesnarfing: ¿cómo una conexión bluetooth puede convertirse en una brecha de seguridad?",
+  "text": "El crecimiento de los dispositivos con bluetooth ha transformado nuestra relación con la tecnología, impulsando el uso de auriculares inalámbricos, relojes inteligentes y electrodomésticos conectados mediante domótica , entendida como la automatización de los dispositivos de una vivienda o edificación. Esta tendencia ha motivado a los ciberdelincuentes a desarrollar nuevas técnicas de ataque para vulnerar conexiones inalámbricas y obtener información confidencial, como contraseñas o datos financieros.\nEn este contexto, el Banco de España ha alertado sobre el aumento del “ bluesnarfing “, una técnica que explota vulnerabilidades de la conexión bluetooth para infiltrarse en los dispositivos sin que el usuario identifique el robo de información. Esta práctica cada vez más habitual, subraya la necesidad de aumentar la concienciación y vigilancia de los diferentes dispositivos electrónicos en un ecosistema cada vez más interconectado.\nLa conexión inalámbrica como vector sigiloso de ciberataques De acuerdo con el último informe ‘Threat Landscape Report’ de S21Sec, líder en ciberseguridad en Europa y parte del grupo Thales, los ataques que explotan vulnerabilidades de día cero, o Zero Day, han aumentado en los últimos meses. Estas brechas de seguridad, desconocidas tanto para los usuarios como para los fabricantes, son aprovechadas por los atacantes para explotar fallos antes de que puedan ser detectados y corregidos. La creciente interacción digital entre dispositivos ha permitido a los ciberdelincuentes explotar las vulnerabilidades en las conexiones bluetooth a menos de quince metros de distancia.\nEsta amenaza de transmisión de corto alcance se caracteriza por su discreción al no requerir interacción del usuario, por lo que los atacantes solo deben realizar una búsqueda para identificar dispositivos con bajo nivel de protección y acceder a ellos sin ser detectados. En condiciones normales, una transferencia entre dos dispositivos requiere autorizar la conexión mediante una clave en un proceso conocido como emparejamiento. Sin embargo, los ciberdelincuentes eluden este paso utilizando programas específicamente diseñados para evitar esta autenticación. Una vez han accedido al dispositivo de la víctima, los cibercriminales copian en cuestión de segundos los datos almacenados para suplantar la identidad o realizar compras online , entre otras actuaciones fraudulentas.\nEs importante señalar que, para que este tipo de amenaza se materialice, el usuario debe tener activada la conexión bluetooth en su dispositivo. Además, los modelos más recientes y aquellos con sistemas operativos actualizados suelen presentar un menor grado de vulnerabilidad frente a estos ataques.\n¿Cómo podemos proteger nuestros dispositivos ante el bluesnarfing ? Para contrarrestar esta amenaza se requiere la implementación de medidas básicas de higiene cibernética que protejan los dispositivos móviles con conexión bluetooth . Una de las principales recomendaciones es desactivar la conexión cuando no esté en uso. También se aconseja mantener el dispositivo en modo oculto para dificultar su detección por terceros, además de asegurarse de contar siempre con las últimas actualizaciones de seguridad , lo que permite corregir posibles vulnerabilidades en el sistema operativo.\nEs recomendable revisar con frecuencia los permisos de acceso de cada dispositivo y limitar las conexiones a aquellas aplicaciones imprescindibles y para reforzar el nivel de protección. Para una mayor seguridad, resulta también fundamental gestionar correctamente las credenciales, protegiendo el acceso a las cuentas en línea mediante contraseñas robustas y únicas para cada cuenta, evitando compartirlas con otros usuarios y realizando una actualización periódica de las mismas. Por último, si recibes una solicitud de conexión inesperada o de un dispositivo desconocido, es fundamental rechazarla de inmediato para evitar posibles fugas de información.\nPor ello, es necesario invertir en capacidades de monitorización, en donde se implementen soluciones que contrarresten este tipo de amenazas. Todo ello deberá complementarse con la promoción de un entorno de ciberseguridad fortalecido desde el que se conciencie a los usuarios de los peligros cibernéticos, dotándolos de herramientas desde edades tempranas para proteger sus dispositivos frente a las técnicas de ingeniería social o la explotación de vulnerabilidades llevadas a cabo por organizaciones de cibercriminales, entre otras herramientas de protección.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bde.es/wbe/es/",
+    "https://www.bde.es/wbe/es",
+    "https://bde.es/wbe/es/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Banco de España",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T04:06:21.095+02:00",
+  "updated": "2024-11-15T04:06:21.095+02:00"
+}

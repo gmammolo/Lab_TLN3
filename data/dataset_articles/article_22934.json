@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "f3cbdb15c93528f606fc7624de095b10362f93f3",
+    "url": "https://forum.mikrotik.com/viewtopic.php?t=209044",
+    "site_full": "forum.mikrotik.com",
+    "site": "mikrotik.com",
+    "site_section": "http://forum.mikrotik.com/feed.php",
+    "site_categories": [
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "MikroTik",
+    "title": "General • Problem with l2tp over LTE",
+    "title_full": "General • Problem with l2tp over LTE",
+    "published": "2024-07-05T05:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ID",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6467,
+    "domain_rank_updated": "2024-07-02T13:08:10.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f3cbdb15c93528f606fc7624de095b10362f93f3",
+  "url": "https://forum.mikrotik.com/viewtopic.php?t=209044",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Fri Jul",
+  "published": "2024-07-05T05:00:00.000+03:00",
+  "title": "General • Problem with l2tp over LTE",
+  "text": "Hi,\nI am trying to figure it out but I cannot understand what I am doing wrong. l2tp over IPsec VPN connects when over ISP but not when failover on LTE.\nTopology:\nSite A:\nhAP ax2 (RouterOS v7) => dual-WAN failover, ISP and LTE with different distance. When ISP is down it failovers to LTE.\n- ISP side => dhcp-client\n- LTE side => wap AC LTE6(RouterOS v6). Connect with a /30 subnet with hAP ax2.\n- Has 2x l2tp-clients, one for each CCR on Site B\n- There is a single UTP cable that goes to a switch where both hAP ax + ISP + LTE are connected, so they are separated with vlans.\nSite B:\n2x CCR1016 (RouterOS v6) =>\n- 2 different ISPs\n- Each CCR connects to 1 ISP and have assigned a public static IP from separate /29 subnet.\n- Each CCR act as l2tp server\nProblem Descritpion:\nWhen Site A has internet over ISP, both l2tp-clients connect without problem. But, when I unplug ISP so that it failovers to LTE, one l2tp-client works, the other doesn't connect.\nOn CCR side of the failing l2tp-client I get\nl2tp,info \"first L2TP UDP packet received from XX.XX.XX.XX\"\nl2tp,error \"L2TP connection rejected no IPsec encryption while it was required\"\nProvided that I can not share full export, only specific partial, could you please help me with an idea how to troubleshoot this.\nI can only assume that this has to do with MTU problem.\nGenerally I haven't noticed other problem, clients have internet connectivity without problem on both cases on Site A.\nLet me know what info you would need to provide.\nThank you.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Environment"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "utp",
+        "sentiment": "none"
+      },
+      {
+        "name": "ccr",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-07-05T16:57:28.125+03:00",
+  "updated": "2024-07-05T16:57:28.125+03:00"
+}

@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "dd1144f16ce9e6fb5a6dda0f1e815f767741f031",
+    "url": "https://www.fudzilla.com/news/60120-microsoft-scrambles-to-fix-copilot-s-privacy-blunder",
+    "site_full": "www.fudzilla.com",
+    "site": "fudzilla.com",
+    "site_section": "https://www.fudzilla.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Fudzilla.com - Home",
+    "title": "Microsoft scrambles to fix Copilot's privacy blunder",
+    "title_full": "Microsoft scrambles to fix Copilot's privacy blunder",
+    "published": "2024-11-22T10:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.fudzilla.com/media/k2/items/cache/da19bcfc5bcb89efd6ef759fc39c19fe_XS.jpg",
+    "performance_score": 0,
+    "domain_rank": 20601,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dd1144f16ce9e6fb5a6dda0f1e815f767741f031",
+  "url": "https://www.fudzilla.com/news/60120-microsoft-scrambles-to-fix-copilot-s-privacy-blunder",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nick Farrell",
+  "published": "2024-11-22T10:32:00.000+02:00",
+  "title": "Microsoft scrambles to fix Copilot's privacy blunder",
+  "text": "The software king of the world is now working to rectify the situation by deploying new tools and guidelines to address these privacy concerns.\nIn a blueprint for Microsoft's 365 productivity software suite, the company stated that these updates are designed \"to identify and mitigate oversharing and ongoing governance concerns.\"\nCopilot's functionality, which allows it to create detailed presentations and generate lists of a company's most profitable products, operates by browsing and indexing all internal information, similar to web crawlers used by search engines.\nSome IT departments have set up lax permissions for accessing internal documents, often selecting \"allow all\" for the company's HR software rather than specifying particular users.\nThis oversight did not pose significant problems until Copilot provided a tool for the average employee to identify and retrieve sensitive documents.\nSome customers discovered that Copilot could let employees access executive inboxes or sensitive HR documents.\nA Microsoft employee familiar with customer complaints said, \"Now when Joe Blow logs into an account and launches Copilot, they can see everything, including the CEO's emails.\"\nThe issue has prompted Microsoft to take immediate action to strengthen privacy measures and prevent such oversights from occurring in the future.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:44:20.359+02:00",
+  "updated": "2024-11-22T11:44:20.359+02:00"
+}

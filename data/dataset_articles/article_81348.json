@@ -1,0 +1,147 @@
+{
+  "thread": {
+    "uuid": "eef5fb347345821bcd1ef114291f981f76ae112e",
+    "url": "https://www.pymnts.com/artificial-intelligence-2/2024/why-it-seems-like-every-ai-company-is-making-their-own-chip",
+    "site_full": "www.pymnts.com",
+    "site": "pymnts.com",
+    "site_section": "https://www.biztoc.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "BizToc",
+    "title": "Why It Seems Like Every AI Company is Making Their Own Chip",
+    "title_full": "Why It Seems Like Every AI Company is Making Their Own Chip",
+    "published": "2024-04-12T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.pymnts.com/wp-content/uploads/2023/12/Meta-AI.jpg",
+    "performance_score": 0,
+    "domain_rank": 3075,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eef5fb347345821bcd1ef114291f981f76ae112e",
+  "url": "https://www.pymnts.com/artificial-intelligence-2/2024/why-it-seems-like-every-ai-company-is-making-their-own-chip",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "PYMNTS",
+  "published": "2024-04-12T03:00:00.000+03:00",
+  "title": "Why It Seems Like Every AI Company is Making Their Own Chip",
+  "text": "Big Tech firms are racing to develop custom chips that supercharge the efficiency and cut costs of artificial intelligence (AI). Meta has launched its latest generation of custom computer chips to enhance its AI capabilities and minimize dependency on external suppliers like Nvidia . This announcement follows Intel’s reveal of an improved AI “accelerator” and comes as competitors such as Google also move toward in-house AI chip development. Experts said AI chips could boost commercial applications. “From the business point of view, it lowers the bar for training per-customer, per-task models and moves away from just consuming APIs from providers of large language models for specialized and high-security use cases,” Amrit Jassal , the co-founder and chief technology officer of Egnyte , which makes AI-powered software for businesses, told PYMNTS. Custom chips may reduce AI costs for businesses. The current price of integrating generative AI into a business can vary significantly , from a few hundred dollars a month to several hundred thousand dollars for a custom solution based on a fine-tuned open-source model, according to software development firm Itrex . Last year, Nvidia’s CEO Jensen Huang said that custom AI chips could reduce the expenses associated with generative AI. Competition is intensifying in the AI chip market as companies vie for a share of this rapidly expanding industry. On Tuesday (April 9), Intel introduced its new AI chip, the Gaudi 3 , amid a competitive rush by chipmakers to develop semiconductors capable of training and deploying large AI models, such as those that power OpenAI’s ChatGPT. Intel said the Gaudi 3 chip offers more than double the power efficiency and can process AI models one-and-a-half times faster than Nvidia’s H100 GPU. It is available in various configurations, including a set of eight Gaudi 3 chips on a single motherboard or as a standalone card that can be integrated into existing systems. The chip was tested on models such as Meta’s open-source Llama. Intel highlighted that the Gaudi 3 is adept at training or deploying models, including Stable Diffusion for image generation and OpenAI’s Whisper for speech recognition. Meta unveiled the latest version of its custom chips designed specifically for artificial intelligence tasks in a Wednesday (April 10) blog post . The new chip iteration shows significant performance enhancements over its predecessor. According to the tech giant, it supports Meta’s algorithms for ranking and recommending ads on platforms like Facebook and Instagram. “For users, I expect the change to appear in better personalization, reduced latency of responses, and in improved local processing in products such as Meta glasses,” Jassal said. PC manufacturers are also starting to use AI-specific chips for their products. According to a Bloomberg report on Thursday (April 11), Apple is close to starting production on its M4 computer processors, which will feature AI processing capabilities. The company plans to equip every Mac model with these new processors. The primary benefit of AI-specific chips is financial, Rodolfo Rosini , CEO of Vaire , a company using reversible computing to create low-energy silicon chips, told PYMNTS. He said that it costs $500 in materials for Nvidia to make chips, which they sell for $30,000, and even then, there is a massive line to get an allocation. “Beyond a certain scale, it makes sense for vendors to make their own chips,” he said. “On top of it, they can be tailored to their specific workloads and algorithms.” Meta is in the unique position that most of their products are free, so in order to roll out powerful tools like large language models to their userbase, they need to drive down the cost of AI, Rosini said. “This is why the other AI tools today are asking $25/month or so to operate,” he added. “Having their own infrastructure could allow Meta to deploy this for free.” Custom AI chips provide significant benefits, such as enhanced privacy and proprietary data control, allowing companies to steer their own AI futures, Michal Oglodek , the chief technology officer and co-founder of the generative AI company Ivy.ai , told PYMNTS. “With the field becoming increasingly crowded, expect a surge of contenders as AI solutions and providers proliferate rapidly,” he added. “While slow and steady typically wins the race, results from Nvidia and soon Intel show that there is little time to lose. The frontrunners are tackling the AI frenzy from all sides.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [
+    "https://www.reuters.com/technology/meta-debuts-new-generation-ai-chip-2024-04-10/",
+    "https://itrexgroup.com/",
+    "https://www.linkedin.com/in/jenhsunhuang/",
+    "https://vaire.co/",
+    "http://ivy.ai",
+    "https://www.intel.com/content/www/us/en/homepage.html",
+    "https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/",
+    "https://www.intc.com/news-events/press-releases/detail/1689/intel-unleashes-enterprise-ai-with-gaudi-3-ai-open-systems",
+    "https://uk.linkedin.com/in/rodol",
+    "https://www.bloomberg.com/news/articles/2024-04-11/apple-aapl-readies-m4-chip-mac-line-including-new-macbook-air-and-mac-pro",
+    "https://www.linkedin.com/in/amritjassal",
+    "https://openai.com/research/whisper",
+    "https://www.cnbc.com/2023/08/08/nvidia-reveals-new-ai-chip-says-cost-of-running-large-language-models-will-drop-significantly-.html",
+    "https://itrexgroup.com/blog/calculating-the-cost-of-generative-ai/",
+    "https://stability.ai/",
+    "https://www.linkedin.com/in/michaloglodek/",
+    "https://www.egnyte.com/",
+    "https://www.nvidia.com/en-us/",
+    "https://itrexgroup.com",
+    "https://www.uk.linkedin.com/in/rodol",
+    "https://linkedin.com/in/jenhsunhuang/",
+    "https://cnbc.com/2023/08/08/nvidia-reveals-new-ai-chip-says-cost-of-running-large-language-models-will-drop-significantly-.html",
+    "https://www.ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/",
+    "https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA",
+    "https://www.stability.ai/",
+    "https://www.nvidia.com/en-us",
+    "https://linkedin.com/in/michaloglodek/",
+    "https://www.openai.com/research/whisper",
+    "https://egnyte.com/",
+    "https://itrexgroup.com/blog/calculating-the-cost-of-generative-ai",
+    "https://www.linkedin.com/in/michaloglodek",
+    "https://www.itrexgroup.com/blog/calculating-the-cost-of-generative-ai/",
+    "https://www.egnyte.com",
+    "http://www.ivy.ai",
+    "https://stability.ai",
+    "https://www.itrexgroup.com/",
+    "https://www.vaire.co/",
+    "https://linkedin.com/in/amritjassal",
+    "https://nvidia.com/en-us/",
+    "https://reuters.com/technology/meta-debuts-new-generation-ai-chip-2024-04-10/",
+    "https://intel.com/content/www/us/en/homepage.html",
+    "https://vaire.co",
+    "https://bloomberg.com/news/articles/2024-04-11/apple-aapl-readies-m4-chip-mac-line-including-new-macbook-air-and-mac-pro",
+    "https://www.linkedin.com/in/jenhsunhuang",
+    "https://www.reuters.com/technology/meta-debuts-new-generation-ai-chip-2024-04-10",
+    "https://intc.com/news-events/press-releases/detail/1689/intel-unleashes-enterprise-ai-with-gaudi-3-ai-open-systems"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "amrit jassal",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "nvidia",
+        "sentiment": "none"
+      },
+      {
+        "name": "google",
+        "sentiment": "none"
+      },
+      {
+        "name": "egnyte",
+        "sentiment": "none"
+      },
+      {
+        "name": "pymnts",
+        "sentiment": "none"
+      },
+      {
+        "name": "intel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T03:11:43.578+03:00",
+  "updated": "2024-04-12T06:01:25.715+03:00"
+}

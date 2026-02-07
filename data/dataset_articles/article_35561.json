@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "67626da2722b84e266d83581b5a0dc93a4bc1a46",
+    "url": "https://www.healthcareitnews.com/news/anz/nz-awards-first-contract-2m-shared-digital-health-record-project",
+    "site_full": "www.healthcareitnews.com",
+    "site": "healthcareitnews.com",
+    "site_section": "https://news.google.com/search?q=for%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "Healthcare IT News",
+    "title": "NZ awards first contract for $2M shared digital health record project | Healthcare IT News",
+    "title_full": "NZ awards first contract for $2M shared digital health record project | Healthcare IT News",
+    "published": "2025-04-24T01:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.healthcareitnews.com/sites/hitn/files/web_xl-GettyImages-588504481_3.JPG",
+    "performance_score": 0,
+    "domain_rank": 6749,
+    "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 2
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "67626da2722b84e266d83581b5a0dc93a4bc1a46",
+  "url": "https://www.healthcareitnews.com/news/anz/nz-awards-first-contract-2m-shared-digital-health-record-project",
+  "ord_in_thread": 0,
+  "author": "Adam Ang",
+  "published": "2025-04-24T01:29:00.000+03:00",
+  "title": "NZ awards first contract for $2M shared digital health record project | Healthcare IT News",
+  "text": "Te Whatu Ora Health New Zealand has awarded a contract to enable interoperability of the upcoming Shared Digital Health Record system.\nThe organisation seeks to consolidate clinicians' access to patient information nationwide.\nIn an update to Healthcare IT News , the organisation's acting chief information and technology officer Darren Douglass said local IT service and consultancy Middleware New Zealand will provide FHIR expertise, architecture, development, testing, and project management capability for the NZ$4 million ($2 million) project.\nTe Whatu Ora is now in talks with health and healthcare organisations to contribute to and integrate with the SDHR.\nThere will be more procurements to support this, Douglass said, subject to future funding.\nWHY IT MATTERS\nNew Zealand has adopted FHIR, along with SNOMED-CT and International Patient Summary, as the primary standard for electronic health information exchange. Te Whatu Ora takes a FHIR-first policy, requiring its adoption in health data exchange solutions, including APIs and messaging services.\nThe standard, developed by HL7, currently enables the health sector's access to the National Health Index and Health Practitioner Index . It is also adopted for the national digital health program Hira, which features the My Health Record platform and the Digital Services Hub for developers.\nTHE LARGER CONTEXT\nThe SDHR will initially connect nationally available clinical data and data from existing shared digital health records into a \"consistent view.\" At present, access to existing shared health records, including Health One, Your Health Summary, and TestSafe, is fragmented and inconsistent, while clinicians have yet to have access to patients' health records across the country. Providers participating in the project have the option to leave and return at any time.\nOne of the first uses of the SDHR, Douglass previously shared, is supporting the 24/7 GP telehealth service , for which a contract to implement has yet to be awarded. \"The procurement process for this service is still progressing, and we will update the primary care sector with next steps and timeframes once they are confirmed,\" said Martin Hefford, director of Te Whatu Ora Living Well. \"The service is still on track to be launched later this year,\" he added.\nThe SDHR will also have future applications in urgent care facilities and emergency departments.\n, ,",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Health->health care approach",
+    "Health->health organisation",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->healthcare industry"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Darren Douglass",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "67626da2722b84e266d83581b5a0dc93a4bc1a46",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-04-24T01:34:02.802+03:00",
+  "updated": "2025-04-24T01:34:02.802+03:00"
+}

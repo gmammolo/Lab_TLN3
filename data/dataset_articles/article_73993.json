@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "1e3bbdb150a3c5e05b33fa7910f6c472694dab06",
+    "url": "https://www.macobserver.com/news/dont-leave-your-iphone-unattended-for-3-days-if-you-forget-your-passcode-easily",
+    "site_full": "www.macobserver.com",
+    "site": "macobserver.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "mac_support",
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Don’t Leave Your iPhone Unattended for 3+ Days If You Forget Your Passcode Easily",
+    "title_full": "Don’t Leave Your iPhone Unattended for 3+ Days If You Forget Your Passcode Easily",
+    "published": "2024-11-15T08:37:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.macobserver.com/wp-content/uploads/2023/05/iPhonePasscodeChangedItselfMay2023Featured.jpg",
+    "performance_score": 0,
+    "domain_rank": 10312,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1e3bbdb150a3c5e05b33fa7910f6c472694dab06",
+  "url": "https://www.macobserver.com/news/dont-leave-your-iphone-unattended-for-3-days-if-you-forget-your-passcode-easily",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Devesh Beri",
+  "published": "2024-11-15T08:37:00.000+02:00",
+  "title": "Don’t Leave Your iPhone Unattended for 3+ Days If You Forget Your Passcode Easily",
+  "text": "Apple’s latest iOS update introduces a new security feature that automatically reboots iPhones after 72 hours of inactivity.\nTechCrunch has confirmed that iOS 18 includes a new “inactivity reboot” feature. This feature forces iPhones to restart if they remain unlocked for 72 hours. Jiska Classen, a researcher at the Hasso Plattner Institute, demonstrated this functionality in a video, showing an iPhone rebooting itself after being left untouched for three days.\nSee the latest iOS inactivity reboot in action!\niOS 18 comes with improved anti-theft measures. Three days w/o unlock, the iPhone will reboot, preventing thieves from getting your data. (1/4) pic.twitter.com/H24Tfo1cSr\n— Jiska (@naehrdine) November 13, 2024 When an iPhone reboots, it enters a “Before First Unlock” (BFU) state, where the user’s data is fully encrypted and nearly impossible to access without the passcode. This makes it a lot harder for anyone without permission—like the police and theives—to get into the device.\nThis feature boosts security but could be tricky for those who forget their passcodes. Or for those who have multiple devices with each having a different passcode. After a reboot, you’ll need to enter your passcode to unlock your device since Face ID or Touch ID won’t work until then.\nThe new feature has law enforcement and forensic experts worried—it automatically reboots iPhones into a more secure, tougher-to-access mode, making it harder for them to get into seized devices.\nIn short, it might be a hassle for some and add a bit of complexity to investigations, but it gives much better protection against unauthorized access. Your data is safer than ever, at least if it is offline.\nMore here.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubWFjcnVtb3JzLmNvbS8&guce_referrer_sig=AQAAADO2w5lDBWF1Tyk5fFrZ-xF3NSiTKQprQkPMryYE-loP7kj2jFyUjeuSsISQVJ79JCwUNO41Wx7k-OG2e0B_9-gWXvHi9UyOHkA05YWMf1H4SCnJBInOrZvMHzhbTh_H6CgIBcNLVBBkkhrAWmJbo_ns7UoPUTReDWdohusmo5jD",
+    "https://www.techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubWFjcnVtb3JzLmNvbS8&guce_referrer_sig=AQAAADO2w5lDBWF1Tyk5fFrZ-xF3NSiTKQprQkPMryYE-loP7kj2jFyUjeuSsISQVJ79JCwUNO41Wx7k-OG2e0B_9-gWXvHi9UyOHkA05YWMf1H4SCnJBInOrZvMHzhbTh_H6CgIBcNLVBBkkhrAWmJbo_ns7UoPUTReDWdohusmo5jD",
+    "https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jiska Classen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Hasso Plattner Institute",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T11:11:47.921+02:00",
+  "updated": "2024-11-15T12:21:45.778+02:00"
+}

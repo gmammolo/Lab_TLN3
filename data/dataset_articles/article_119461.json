@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "945a9a4530bcc7e2f9b0a37331aaa31f64317511",
+    "url": "https://www.foxweather.com/watch/fmc-e1aa49elgexoi1ts",
+    "site_full": "www.foxweather.com",
+    "site": "foxweather.com",
+    "site_section": "https://www.foxweather.com/local-weather/missouri/forest-city",
+    "site_categories": [],
+    "section_title": "Forest City, MO Weather Forecast | Local Weather Updates for Missouri by FOX Weather",
+    "site_title": "Breaking Weather News | FOX Weather Home of America&#x27;s Weather Team",
+    "title": "Rounds of storms bring flood threat across Dallas, Texas Hill Country | Latest Weather Clips | FOX Weather",
+    "title_full": "Rounds of storms bring flood threat across Dallas, Texas Hill Country | Latest Weather Clips | FOX Weather",
+    "published": "2025-11-20T12:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.foxweather.com/static-media.fox.com/fmc/prod/weather/43622822959/992/558/bc0o09pzhhu5hnog.jpg?ve=1&amp;tl=1",
+    "performance_score": 0,
+    "domain_rank": 10153,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "945a9a4530bcc7e2f9b0a37331aaa31f64317511",
+  "url": "https://www.foxweather.com/watch/fmc-e1aa49elgexoi1ts",
+  "ord_in_thread": 0,
+  "author": "@foxweather",
+  "published": "2025-11-20T12:31:00.000+02:00",
+  "title": "Rounds of storms bring flood threat across Dallas, Texas Hill Country | Latest Weather Clips | FOX Weather",
+  "text": "Flash flood warnings were issued over the Dallas-Fort Worth Metroplex Thursday morning. Kerr County and other parts of Texas Hill County dealt with 3 inches of rain that fell in the span of a few hours overnight. Southeastern Texas remains under a Level 3 out of 4 flash flood threat through Thursday. A Level 2 out of 4 flash flood threat has been issued for northern Arkansas, eastern Oklahoma and southern Missouri.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather warning",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Hill County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Forest City"
+      ],
+      "state": [
+        "Missouri"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T12:37:21.948+02:00",
+  "updated": "2025-11-20T12:43:37.000+02:00"
+}

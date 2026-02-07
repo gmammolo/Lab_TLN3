@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "702d6938d905c78b06c22b8fac0d7c7f7aa65a7c",
+    "url": "https://www.ktbs.com/news/business/raw-vo-33-000-boeing-workers-went-on-strike-overnight-4aet/video_55668c1f-ff50-558d-8a80-743825132118.html",
+    "site_full": "www.ktbs.com",
+    "site": "ktbs.com",
+    "site_section": "https://www.ktbs.com/search/?f=rss&amp",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "www.ktbs.com - RSS Results",
+    "title": "RAW: (VO) 33,000 BOEING WORKERS WENT ON STRIKE OVERNIGHT (4aET) | Business | ktbs.com",
+    "title_full": "RAW: (VO) 33,000 BOEING WORKERS WENT ON STRIKE OVERNIGHT (4aET) | Business | ktbs.com",
+    "published": "2024-09-13T10:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/5/56/55668c1f-ff50-558d-8a80-743825132118/66e3e903b8c8c.image.jpg?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 26388,
+    "domain_rank_updated": "2024-09-03T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "702d6938d905c78b06c22b8fac0d7c7f7aa65a7c",
+  "url": "https://www.ktbs.com/news/business/raw-vo-33-000-boeing-workers-went-on-strike-overnight-4aet/video_55668c1f-ff50-558d-8a80-743825132118.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-09-13T10:16:00.000+03:00",
+  "title": "RAW: (VO) 33,000 BOEING WORKERS WENT ON STRIKE OVERNIGHT (4aET) | Business | ktbs.com",
+  "text": "70th Anniversary Hunger Action Month Ways To Save With SWEPCO KTBS 3 St. Jude Dream Home 2024 Vote Behind The Badge One Class At A Time Paws To Care\nWire RAW: (VO) 33,000 BOEING WORKERS WENT ON STRIKE OVERNIGHT (4aET) Sep 13, 2024 1 hr ago Comments Facebook Twitter WhatsApp SMS Email Print Copy article link Save VO for PY-03FR: 33,000 BOEING WORKERS WENT ON STRIKE OVERNIGHT (4aET)\nFacebook Twitter WhatsApp SMS Email Print Copy article link Save Load comments Trending Now Texas Governor warns residents to heed evacuation orders Glo Fest Returns to Downtown Shreveport DPSO: Man steals Shreveport public works truck, arrested after chase into DeSoto Fibrebond begins construction on new manufacturing facility SPD, LSP join to target speeders Local Events News & Weather Email Updates Success! An email has been sent to with a link to confirm list signup.\nError! There was an error processing your request.\nLocal Breaking News Local breaking news delivered as it happens.\n7:00 am Headlines News headlines delivered at 7:00 am Monday - Friday.\n12:00 pm Headlines News headlines delivered at Noon Monday - Friday.\n4:00 pm Headlines News headlines delivered at 4:00 pm Monday - Friday.\nDaily Forecast Weather forecast delivered at 9:00 am daily.\nContests Keep up with all of our contests.\nYou must select at least one email list. Please enter a valid email address. Sign up Manage your lists View Full Screen Stocks Market Data by TradingView var bFoundOrigin = true; var sOriginID = null; var sOriginURL = scrubURL('https://www.ktbs.com/tncms/search/mlt/?origin=55668c1f-ff50-558d-8a80-743825132118&app=editorial&inline=infinity&type=article%2Ccollection%2Cvideo%2Cyoutube'); // original url scrubbed for preview var sFirstID = null; var bFirstRun = true; var bShowAd = true; var bInfiniStop = false; var sInfinityType = 'summary_siderail'; var displayedRegions = { 0: false, 1: false, 3: false, 5: false, 8: false }; function populateInfinitySet(sURL) { sURL = scrubURL(sURL); // Until the origin paramter for cms.search.mlt functions, we have to start/stop the looping on our own // This will require not displaying any assets until we hit oAsset. // Then we loop through and display until we've been through everything up to our origin $.ajax(sURL).then(function(oResponse, sStatus, oXHR) { var sNextUrl = null; var counter = 0; var rPositions = [1,3,5,8]; var displayRegion = function(rNum) { var iRegions = { 1: 'first', 3: 'third', 5: 'fifth', 8: 'eighth' }; if (displayedRegions[rNum]) { return ''; } if (typeof displayedRegions[rNum] !== 'undefined') { displayedRegions[rNum] = true; } var id = rNum > 0 ? '#infinity-asset-after-' + iRegions[rNum] : '#infinity-asset-top'; var content = $(id).html().trim(); var row = ' ' + content + ' '; if ($(content).html() == \"\") { row = ''; } return row; }; if (typeof oResponse.next_url == 'undefined') { // URL supplied is no good. Revert to original URL sNextUrl = sOriginURL; } else { sNextUrl = scrubURL(oResponse.next_url); } // Manage response if (typeof oResponse.assets != 'undefined' && oResponse.assets.length > 0) { // Remove old more data $(\"#infinite-more\").remove(); // Build infinity set $.each(oResponse.assets, function(index) { if (index == 1 && sOriginID == null) { sOriginID = oResponse.assets[0].id; } // Display assets once origin is found if (bFoundOrigin == true) { if (this.id == sOriginID) { bInfiniStop = true; sNextUrl = null; $(\"#infinite-more\").remove(); } else if (bInfiniStop == false && this.id != '55668c1f-ff50-558d-8a80-743825132118') { // Display asset var sHTML = ''; if (this.content) { if (sInfinityType == 'summary_sticky_siderail') { if (counter == 0) { sHTML += displayRegion(counter); } counter++; sHTML += ' ' + this.content + '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Labor",
+    "Politics"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://wa.me/?text=https://www.ktbs.com/news/business/raw-vo-33-000-boeing-workers-went-on-strike-overnight-4aet/video_55668c1f-ff50-558d-8a80-743825132118.html",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ktbs.com%2Fnews%2Fbusiness%2Fraw-vo-33-000-boeing-workers-went-on-strike-overnight-4aet%2Fvideo_55668c1f-ff50-558d-8a80-743825132118.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+    "https://www.tradingview.com",
+    "https://twitter.com/intent/tweet?&text=RAW%3A%20%28VO%29%2033%2C000%20BOEING%20WORKERS%20WENT%20ON%20STRIKE%20OVERNIGHT%20%284aET%29&via=ktbs&url=https%3A%2F%2Fwww.ktbs.com%2Fnews%2Fbusiness%2Fraw-vo-33-000-boeing-workers-went-on-strike-overnight-4aet%2Fvideo_55668c1f-ff50-558d-8a80-743825132118.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+    "https://tradingview.com",
+    "https://www.twitter.com/intent/tweet?&text=RAW%3A%20%28VO%29%2033%2C000%20BOEING%20WORKERS%20WENT%20ON%20STRIKE%20OVERNIGHT%20%284aET%29&via=ktbs&url=https%3A%2F%2Fwww.ktbs.com%2Fnews%2Fbusiness%2Fraw-vo-33-000-boeing-workers-went-on-strike-overnight-4aet%2Fvideo_55668c1f-ff50-558d-8a80-743825132118.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+    "https://wa.me/",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://wa.me/?text=https://ktbs.com/news/business/raw-vo-33-000-boeing-workers-went-on-strike-overnight-4aet/video_55668c1f-ff50-558d-8a80-743825132118.html",
+    "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ktbs.com%2Fnews%2Fbusiness%2Fraw-vo-33-000-boeing-workers-went-on-strike-overnight-4aet%2Fvideo_55668c1f-ff50-558d-8a80-743825132118.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+    "https://twitter.com/intent/tweet"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-09-13T11:42:02.626+03:00",
+  "updated": "2024-09-13T11:42:02.626+03:00"
+}

@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "fbf3e3c9f526b2b1e32593aa7c4ef47eaabbceac",
+    "url": "https://video.sina.com.cn/p/finance/2025-08-14/detail-infkxuai3835874.d.html",
+    "site_full": "video.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://sina.com.cn/",
+    "site_categories": [
+      "media",
+      "non_standard_content",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪网",
+    "site_title": null,
+    "title": "\"AI教父\"辛顿呼吁为AI植入\"母性本能\"防人类灭绝 但\"AI教母\"李飞飞不同意",
+    "title_full": "\"AI教父\"辛顿呼吁为AI植入\"母性本能\"防人类灭绝 但\"AI教母\"李飞飞不同意",
+    "published": "2025-08-14T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fbf3e3c9f526b2b1e32593aa7c4ef47eaabbceac",
+  "url": "https://video.sina.com.cn/p/finance/2025-08-14/detail-infkxuai3835874.d.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-14T03:00:00.000+03:00",
+  "title": "\"AI教父\"辛顿呼吁为AI植入\"母性本能\"防人类灭绝 但\"AI教母\"李飞飞不同意",
+  "text": "“AI教父”辛顿呼吁为AI植入“母性本能”防人类灭绝 但“AI教母”李飞飞不同意\n开灯\n按住此条可拖动\n相关视频\n猜你喜欢\n<#et paging source> <#list source.list as list> <#if (list.text != \"...\")>\n${list.text}\n<#else>\n...\n#if> #list> #et>\n热门视频\n正在加载...请稍等~\n<#et hotVideoTpl data>\n<#list data.data as dataList> <#if (dataList_index < 3 && dataList.video.video_id)>\n${++dataList_index}.\n${dataList.numFormate}\n${dataList.overTitle}\n<#else>\n${++dataList_index}.\n${dataList.numFormate}\n${dataList.shortTitle}\n#if> #list>\n#et>\n分享到：\n分享视频地址：\n本页面地址：\n复制\n播放器swf地址：\n复制\n视频信息\n0\n发布时间：\n2025-08-14 15:40:54\n来源：\n新浪财经综合\n频道：\n新浪视频\n/\n视频新闻\n标签：\n更多信息\n评论列表，正在加载中...\n新浪视频官方交流群：298929939\n关注官方微博：\n@视频小助手\n24小时电话客服：400 110 2288\nCopyright © 1996-2025 SINA Corporation. All Rights Reserved\n新浪公司 版权所有",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Social Issue->ethics",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:47:54.874+03:00",
+  "updated": "2025-08-15T11:06:43.000+03:00"
+}

@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "60cdc25442f8e928cbe0d2c1616d6ef8cbb32490",
+    "url": "https://www.escapistmagazine.com/how-to-fix-the-out-of-video-memory-error-in-stalker-2",
+    "site_full": "www.escapistmagazine.com",
+    "site": "escapistmagazine.com",
+    "site_section": "https://www.escapistmagazine.com",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "The Escapist",
+    "title": "How To Fix the ‘Out of Video Memory’ Error in Stalker 2",
+    "title_full": "How To Fix the ‘Out of Video Memory’ Error in Stalker 2",
+    "published": "2024-11-21T15:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5965,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "60cdc25442f8e928cbe0d2c1616d6ef8cbb32490",
+  "url": "https://www.escapistmagazine.com/how-to-fix-the-out-of-video-memory-error-in-stalker-2",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jackson Hayes",
+  "published": "2024-11-21T15:01:00.000+02:00",
+  "title": "How To Fix the ‘Out of Video Memory’ Error in Stalker 2",
+  "text": "Stalker 2: Heart of Chornobyl has been in development hell for what feels like forever. So, with the game finally out, players are disappointed to learn that there’s a major error getting in their way. Here’s how to fix the “Out of Video Memory” error in Stalker 2 .\nHow To Tackle the “Out of Video Memory” Error in Stalker 2 Stalker 2 has its fair share of glitches; check out The Escapist’s review for more information on that. But most of the problems occur after getting into the game, not before, with the exception of one thing. PC players have come across an error that stops them from booting up the game, and it reads, “Out of video memory trying to allocate a rendering recourse. Make sure your video card has the minimum required memory, try lowering the resolution and/or closing other applications that are running. Exiting…”\nIf you don’t have a computer science degree, that probably sounds like nonsense. After all, you’ve probably had very little issue playing other games and never seen an error like this before. Thankfully, the Stalker 2 community has your back, coming up with a solution that appears to be foolproof.\nThe information comes via user BreezyF1 on r/stalker and makes it clear that the “Out of Video Memory” error in Stalker 2 stems from your computer, not your copy of the game. “I have a fix. It’s your CPU. 90% of the issue is caused by the 13/14th gen Intel chips,” they explained. “Your motherboard is causing this problem, which is super annoying. Download the Intel Utility app, then put the cores at like 53. Mine was standard at 57. Intel has already acknowledged this problem but still hasn’t fixed it.”\nRelated: How To Get Out of the Anomalous Field in Stalker 2\nSeveral people have tried this solution and revealed that it works. Now, some are frustrated that they’re having to essentially downgrade their PC to run the game, but it’s really not Stalker 2 ‘s fault. You can take it up with Intel, but your complaints are likely to fall through the cracks, as this is a problem the company has been aware of for quite some time.\nWith that being the case, it’s better to focus on what you can control: your journey in Stalker 2 . If you’re in need of any help, here’s what you should do with broken weapons in the game .\nAnd that’s how to fix the “Out of Video Memory” error in Stalker 2 .\nStalker 2: Heart of Chornobyl is available now on Xbox and PC.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.stalker2.com/",
+    "https://www.reddit.com/r/stalker/comments/1gvunnn/anyone_getting_this_error_out_of_video_memory/",
+    "https://stalker2.com/",
+    "https://reddit.com/r/stalker/comments/1gvunnn/anyone_getting_this_error_out_of_video_memory/",
+    "https://www.reddit.com/r/stalker/comments/1gvunnn/anyone_getting_this_error_out_of_video_memory",
+    "https://www.stalker2.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T02:47:03.557+02:00",
+  "updated": "2024-11-22T02:47:03.557+02:00"
+}

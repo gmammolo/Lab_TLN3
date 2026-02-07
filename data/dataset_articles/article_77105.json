@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "9d5b05001be5278801885cb3f7554b07b9caff61",
+    "url": "https://www.macwelt.de/article/2872324/iphone-16e-hat-probleme-mit-europaischem-roaming-das-ist-der-grund-dieser-trick-hilft.html",
+    "site_full": "www.macwelt.de",
+    "site": "macwelt.de",
+    "site_section": "https://www.macwelt.de/feed",
+    "site_categories": [
+      "mac_support",
+      "tech"
+    ],
+    "section_title": "Macwelt",
+    "site_title": "Macwelt – News, Tipps und Tests von Apple-Experten",
+    "title": "iPhone 16e hat Probleme mit europäischem Roaming - das ist der Grund, dieser Trick hilft",
+    "title_full": "iPhone 16e hat Probleme mit europäischem Roaming - das ist der Grund, dieser Trick hilft",
+    "published": "2025-08-14T10:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.macwelt.de/wp-content/uploads/2025/08/Apple-iPhone-16e-REVIEW-back-angled.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 48222,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9d5b05001be5278801885cb3f7554b07b9caff61",
+  "url": "https://www.macwelt.de/article/2872324/iphone-16e-hat-probleme-mit-europaischem-roaming-das-ist-der-grund-dieser-trick-hilft.html",
+  "ord_in_thread": 0,
+  "author": "Halyna Kubiv",
+  "published": "2025-08-14T10:00:00.000+03:00",
+  "title": "iPhone 16e hat Probleme mit europäischem Roaming - das ist der Grund, dieser Trick hilft",
+  "text": "Im Sommer begeben sich auch viele iPhone-Nutzer an den Strand, in die Berge oder einfach auf eine Städtereise ins Ausland. Für das iPhone 16e ist das häufig der erste Ausflug über die Grenze, wurde das Smartphone doch erst Mitte Februar 2025 vorgestellt und ab Ende Februar verkauft.\nDementsprechend kommt das neue iPhone in Berührung mit anderen Situationen und Netzwerkanbietern. Mit den Letzteren gibt es offenbar verstärkt Probleme. Mehrere Nutzer berichten in Foren über ein konsistentes Phänomen: Bei der Überschreitung der kroatischen Grenze verschwindet auf dem iPhone 16e die Möglichkeit, mobile Daten abzurufen, obwohl mit dem Gerät, mit dem Vertrag und offensichtlich auch mit dem Netz alles in Ordnung ist.\nDas Datenproblem klingt bei mehreren Betroffenen ähnlich: Kaum ist die kroatische Grenze überschritten, verschwindet der Mobilfunk sporadisch. Die mobilen Daten sind aktiviert, auch das Datenroaming ist eingeschaltet. Doch die Verbindung ins Netz per Handy funktioniert mal einen Tag, an dem anderen dann nicht.\nAuffällig viele der Nutzerinnen und Nutzer, die Probleme mit Roaming auf dem iPhone 16e haben, haben Verträge mit dem österreichischen Anbieter „Magenta“. Wir haben die Pressestelle des Telekommunikationsunternehmens kontaktiert und nach einer Erklärung gefragt. Tatsächlich scheint das Problem bei „Magenta“ bekannt zu sein.\nDer Grund für die Mobilfunkabbrüche des iPhone 16e in Kroatien ist ein ausstehendes Software-Update im Core-Netz des lokalen Anbieters „Hrvatski Telekom“. Ohne dieses Update hat das iPhone 16e Schwierigkeiten beim Aufbau einer Datenverbindung. Laut Presseteam von „Magenta“ ist das Software-Update bei „Hrvatski Telekom“ erst im Oktober geplant; bis dahin gibt es eine Abhilfe: Man muss die automatische Auswahl des Netzes im Roaming abstellen und das Partnernetz manuell auswählen, bis Oktober also andere Anbieter als „Hrvatski Telekom“.\nSo finden Sie die Einstellung zur automatischen Netzauswahl:\n- Öffnen Sie die App „Einstellungen“ und gehen Sie zum Bereich „Mobilfunk“.\n- Wenn Sie mehrere (e)SIMs verwenden, tippen Sie auf die SIM-Karte, die Sie auch für das Datenroaming nutzen.\n- Im zweiten Abschnitt findet sich die Einstellung „Netzauswahl“. Tippen Sie diese an.\n- Im nachfolgenden Fenster deaktivieren Sie den Regler „Automatisch“. Das iPhone wird sich fortan in das Netzwerk einwählen, das Sie für das Gerät auswählen.\nAktuell bester Preis: iPhone 16e",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->consumer goods"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:24:41.873+03:00",
+  "updated": "2025-08-14T10:37:33.000+03:00"
+}

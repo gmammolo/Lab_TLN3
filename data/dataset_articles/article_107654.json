@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "b99f3320bde651964870b2261021879ee97f2129",
+    "url": "https://ura.news/news/1052993844",
+    "site_full": "ura.news",
+    "site": "ura.news",
+    "site_section": "https://m.ura.news",
+    "site_categories": [
+      "media",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "section_title": "URA.RU: Главные новости России и мира сегодня, новости Урала",
+    "site_title": "РИА URA.RU: Главные новости Урала, России и мира сегодня",
+    "title": "ПВО России отразила атаку 17 украинских дронов",
+    "title_full": "ПВО России отразила атаку 17 украинских дронов",
+    "published": "2025-09-11T07:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://s.ura.news/images/news/figures/87/270/66e767c3-55cd-4f60-9d5d-cef8901c0900/v4cutt/L-1200.1.9.jpg",
+    "performance_score": 0,
+    "domain_rank": 13429,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b99f3320bde651964870b2261021879ee97f2129",
+  "url": "https://ura.news/news/1052993844",
+  "ord_in_thread": 0,
+  "author": "{{ metaService.twitterCreator(",
+  "published": "2025-09-11T07:13:00.000+03:00",
+  "title": "ПВО России отразила атаку 17 украинских дронов",
+  "text": "ПВО России отразила атаку 17 украинских дронов\nСрочная новость\nВ течение минувшей ночи средствами противовоздушной обороны были уничтожены 17 украинских беспилотных летательных аппаратов. Об этом сообщает Минобороны.\nСохрани номер URA.RU - сообщи новость первым!\nБудьте в числе первых, кто узнает все самые важные новости России и мира! Присоединяйтесь к подписчикам канала URA.RU в главном мессенджере России - MAX. Подписаться на URA.RU.\nКаждый день — только самое важное. Читайте дайджест главных событий России и мира от URA.RU, чтобы оставаться в курсе.\nПодпишись!\nКомментарии ({{items[0].comments_count}})\nПоказать еще комментарии\nоставить\nсвой комментарий\n{{inside_publication.title}}\n{{inside_publication.description}}\nКомментарии ({{item.comments_count}})\nПоказать еще комментарии\nоставить свой\nкомментарий\nЗагрузка...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "positive",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Politics"
+  ],
+  "topics": [
+    "War, Conflict and Unrest->armed conflict",
+    "Politics->international relations",
+    "Politics->political crisis",
+    "Politics->defence"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://max.ru/ura_ru",
+    "https://www.max.ru/ura_ru"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-11T07:44:36.386+03:00",
+  "updated": "2025-09-12T08:06:05.000+03:00"
+}

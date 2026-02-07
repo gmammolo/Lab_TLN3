@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "18e74b6e2abcfbd57dfe125a05e3ff23935973d0",
+    "url": "https://community.letsencrypt.org/t/help-im-close-to-killing-myself/223197",
+    "site_full": "community.letsencrypt.org",
+    "site": "letsencrypt.org",
+    "site_section": "https://community.letsencrypt.org/posts.rss",
+    "site_categories": [],
+    "section_title": "Let&#39;s Encrypt Community Support - Latest posts",
+    "title": "Help I'm close to killing myself🤬",
+    "title_full": "Help I'm close to killing myself🤬",
+    "published": "2024-08-08T23:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://global.discourse-cdn.com/letsencrypt/original/3X/4/c/4c5760509a18adfc3bc657ba8bd49b301faaa66b.png",
+    "performance_score": 0,
+    "domain_rank": 588,
+    "domain_rank_updated": "2024-08-06T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "18e74b6e2abcfbd57dfe125a05e3ff23935973d0",
+  "url": "https://community.letsencrypt.org/t/help-im-close-to-killing-myself/223197",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@rg305 Rudy Gomez",
+  "published": "2024-08-08T23:43:00.000+03:00",
+  "title": "Help I'm close to killing myself🤬",
+  "text": "Please fill out the fields below so we can help you better. Note: you must provide your domain name to get help. Domain names for issued certificates are all made public in Certificate Transparency logs (e.g. crt.sh | example.com), so withholding your domain name here does not increase secrecy, but only makes it harder for us to provide help.\nMy domain is:minatepret.com\nI ran this command: sudo certbot certonly --dns-cloudflare --dns-cloudflare-credentials=C:/Users/ahmet/OneDrive/Belgeler/CERT/credentials.ini --dns-google-propagation-seconds 120 --email --agree-tos --non-interactive --expand --domains minatepret.com,www.minatepret.com\nIt produced this output: ı dont remember but not working\nMy web server is (include version):Apache2.4\nThe operating system my web server runs on is (include version):Windows11\nMy hosting provider, if applicable, is: Self host\nI can login to a root shell on my machine (yes or no, or I don't know): yes\nI'm using a control panel to manage my site (no, or provide the name and version of the control panel): no\nThe version of my client is (e.g. output of certbot --version or certbot-auto --version if you're using Certbot):certbot 1.21.0\ncertbot --version\ncertbot-auto --version\nAnd command give a ai. I am really new this place so I don't know. I'm trying to solve it with ai.\nSomething doesn't seem right.\nYeah, leader, I'm so confused because of that stupid ai.\nAlso, why do you need a globally signed cert for FQDNs that resolve to RFC-1918 IPs and NXD:\nName: minatepret.com\nAddress: 192.168.1.194\nwww.minatepret.com: Non-existent domain\nIt might be simpler to create your own self-signed cert and just trust that [locally].\nit's like a hobby for some fun purposes just to see the https, but other than that I'm unfamiliar with many terms\nSounds like you are in the testing phase.\nPlease use the test/staging environment for all testing.\nYou shouldn't be using certbot.\nOn Windows you should use certify the web, win-acme, posh-acme, or some other Windows specific client.\nokey ı try\nTry:\n[very simple to use]\nUntil you have HTTP access to your system, you will have to use DNS authentication.\nFYI, there is no google seen in that part [only cloudflare]:\nminatepret.com nameserver = magali.ns.cloudflare.com\nminatepret.com nameserver = kianchau.ns.cloudflare.com\nyes i use cloudflare\nAre you going to use Cloudflare CDN?\n[to access your site(s) over the Internet]\nyes i use\nThen I would recommend that you use their certs.\nIs it made directly from the dash",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Health"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-08-09T00:13:30.169+03:00",
+  "updated": "2024-08-09T00:13:30.169+03:00"
+}

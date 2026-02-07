@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "8e373cb42dea7d8c2b9ad3438669239d61ee4ff8",
+    "url": "https://www.sport.de/news/ne15411463/golf-pga-saisonstart-auf-hawaii-wegen-duerre-abgesagt/",
+    "site_full": "www.sport.de",
+    "site": "sport.de",
+    "site_section": "https://sport.de/alle-sportarten",
+    "site_categories": [
+      "sports"
+    ],
+    "section_title": "Sport Allgemein - Alle Sportarten",
+    "site_title": "Sportnachrichten: News, Ergebnisse, Liveticker, Tabellen | sport.de",
+    "title": "Golf: PGA-Saisonstart auf Hawaii wegen Dürre abgesagt",
+    "title_full": "Golf: PGA-Saisonstart auf Hawaii wegen Dürre abgesagt",
+    "published": "2025-10-23T08:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://s.hs-data.com/picmon/23/6Nm3_c26XhT_l.jpg",
+    "performance_score": 0,
+    "domain_rank": 8168,
+    "domain_rank_updated": "2025-10-20T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8e373cb42dea7d8c2b9ad3438669239d61ee4ff8",
+  "url": "https://www.sport.de/news/ne15411463/golf-pga-saisonstart-auf-hawaii-wegen-duerre-abgesagt/",
+  "ord_in_thread": 0,
+  "author": "sport.de",
+  "published": "2025-10-23T08:51:00.000+03:00",
+  "title": "Golf: PGA-Saisonstart auf Hawaii wegen Dürre abgesagt",
+  "text": "Die anhaltende Dürre auf der Hawaii-Insel Maui wirbelt den Turnierplan der US-Golftour PGA durcheinander.\nDas für Januar geplante Auftaktturnier der neuen Saison musste abgesagt werden, da der Platz in Kapalua wegen der Wasserknappheit nicht mehr bespielbar ist.\nAus \"logistischen Gründen\" verzichtete die PGA auf die Verlegung an einen anderen Ort. Die Saison startet dennoch auf Hawaii - allerdings eine Woche später (15. bis 18. Januar) mit dem Turnier in Honolulu auf der Insel O'ahu.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Sport",
+    "Weather"
+  ],
+  "topics": [
+    "Sport->sport event",
+    "Sport->golf",
+    "Weather->weather phenomena"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Maui",
+        "sentiment": "none"
+      },
+      {
+        "name": "Honolulu",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kapalua",
+        "sentiment": "none"
+      },
+      {
+        "name": "Hawaii",
+        "sentiment": "none"
+      },
+      {
+        "name": "O'ahu",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "PGA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-23T09:12:45.535+03:00",
+  "updated": "2025-10-23T09:16:40.000+03:00"
+}

@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "34f06aba4a488aafbf9a89a13a9c92e1ee3cca48",
+    "url": "https://archive.li/MXPa9",
+    "site_full": "archive.li",
+    "site": "archive.li",
+    "site_section": "https://archive.li/rss",
+    "site_categories": [
+      "tech",
+      "business"
+    ],
+    "section_title": "archive.li",
+    "title": "Hacker OPSEC",
+    "title_full": "Hacker OPSEC",
+    "published": "2024-11-22T07:36:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://archive.li/MXPa9/aa33a605c4e7394476674866dfdd97cba21b16db/scr.png",
+    "performance_score": 0,
+    "domain_rank": 19396,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "34f06aba4a488aafbf9a89a13a9c92e1ee3cca48",
+  "url": "https://archive.li/MXPa9",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T07:36:00.000+02:00",
+  "title": "Hacker OPSEC",
+  "text": "Jihadist Fan Club CryptoCrap\nThink of Mujahideen Secrets as a branded promotional tool, sort of\nlike if Manchester United released a branded fan chat app.\nAlthough there has been a lot of FUD written about the encrypted messaging systems\ndeveloped and promoted by jihadis groups, very little has focused on the how\nthey are actually used. I wrote\nsome notes about this earlierbut wanted to expand on the subject in more depth.Web Warriors: Security Practices on Jihadi Web Forums\nThere are a number of internet web forums that are used by supporters of the various\njihadi groups fighting in the middle east. These sites are primarily cheerleading\nand “in grouping” social networks, rather than opertational message boards.\nAn important point to understand about these online forums is that they are about\ngroup dynamics. They provide a mechanism for people to feel like they are part\nof the struggle with a graded scale of committment. They dont actually need\nto worry about getting their hands dirty or risking their lives (technically, they might be risking their lives and freedom).\nThe sites all attempt to educate their users on security best practices, for example\nthe Islamic State (nee ISIS) web forum heavily\npromotes the use of TAILS, AQAPadvocates for Tor usage in a 9 page guide. Despite this, few users actually bother with security precautions. Indeed, many continue to use Facebook and Skype as theirprimary communications channelswith fellow online jihadists.The encryption tools are branded software for self identifying\njihadis to\nfeel like they belong. Indeed, other than themedia outletswho emphasise the use of the tools (branding and messaging), the actual jihadis have a hard time using the tools. Actual web jihadiscomplain of usability problemsthat prevent them from using the tools.The media outlets for the different groups: IS, Nusra, AQ, all make sure that\ntheir followers know about their own branded encrypted messenger. Indeed, this\nis the primary clue to how these apps are actually used. They are branding tools\nthat promote in-group sentiment. “I’m using the AQ encrypted messenger, so I am\nbasically AQ”. These tools deliberately identify the user as a jihadi associate,\nnot by accident or due to bad security practice, but rather as a deliberate part\nof their value proposition. “Use our encrypted messaging app and you will securely\nlet the world know that you are with us!”\nAll of the major apps are simply branded wrappers around industry standard\nlibraries, ciphers, and protocols. There is nothing particularly Islamic or\nJihadist about them except the branding. That is because the branding is actually the point.\nThese are just\nsocial signals. Using AQAP’s messaging tool is the rough equivalent of wearing a sports jersey. It signals to others that there is group identity. (Of course, given the outlaw nature of these groups it seems like an extremely poor life decision)These apps are not designed for actual clandestine operational use. They are for\nmaking a social statement. Signaling membership in a peer group. Despite this\nsimple purpose for using the apps, there is still remarkably low uptake amongst\nthe online jihadist set who still primarily rely on Facebook and Skype for comms.\nSo if almost no one is using the encryption apps, and those that do are using them\nto signal membership in a broader organisation, what are the real jihadis using\noperationally? Facebook.\nJihadi Operational Covert Communications:\nThere was a Facebook account\n“sniper outside the law”that was posting clear text, but coded, messages believed to be related to jihadi operations in Tunisia. The account has been taken down and the guy running itwas arrested.Here are some examples of what he was posting (\ntaken from here):Jihadi Encryption Is Overrated\nThe key take away is that the encrypted messaging apps from ISIS or AQAP are as\noperationaly relevant as an encrypted messaging app from Man U or Liverpool. It\nmight be exciting for some hardcore fans who want to show their support, but the\nreal players don’t touch the stuff.\nReal jihadis use\nsecure codesandcouriers, not some Android toy My First Crypto Chat.Must Read:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T07:39:16.283+02:00",
+  "updated": "2024-11-22T07:39:16.283+02:00"
+}

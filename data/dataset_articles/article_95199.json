@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "573248f4942b7ba7a95199dd829dffb40029d355",
+    "url": "https://www.thestar.com.my/sport/football/2024/09/06/soccer-ronaldo-scores-900th-career-goal",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/sport/football",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "Football - Sport | The Star",
+    "title": "Football: Soccer-Ronaldo scores 900th career goal | The Star",
+    "title_full": "Football: Soccer-Ronaldo scores 900th career goal | The Star",
+    "published": "2024-09-05T23:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/09/06/2898421.jpg",
+    "performance_score": 0,
+    "domain_rank": 2239,
+    "domain_rank_updated": "2024-09-03T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "573248f4942b7ba7a95199dd829dffb40029d355",
+  "url": "https://www.thestar.com.my/sport/football/2024/09/06/soccer-ronaldo-scores-900th-career-goal",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2024-09-05T23:45:00.000+03:00",
+  "title": "Football: Soccer-Ronaldo scores 900th career goal | The Star",
+  "text": "(Reuters) - Cristiano Ronaldo scored his 900th career goal in Portugal's home Nations League game against Croatia on Thursday.\nRonaldo put his side 2-0 up at the Estadio da Luz in the 34th minute when he got on the end of a Nuno Mendes cross with a tap-in volley from close range, before falling to the ground looking emotional at reaching another milestone.\nThe 39-year-old has now netted 131 international goals, 450 for Real Madrid, 145 for Manchester United, 101 for Juventus and 68 for his current club Al Nassr as well as five for his first club Sporting Lisbon.\nArgentina's Lionel Messi, second in the all-time scorer's list, has bagged 859 career goals.\n(Reporting by Trevor Stynes, editing by Ed Osmond)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Sport"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "cristiano ronaldo",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "al nassr",
+        "sentiment": "none"
+      },
+      {
+        "name": "trevor stynes",
+        "sentiment": "none"
+      },
+      {
+        "name": "ed osmond",
+        "sentiment": "none"
+      },
+      {
+        "name": "lionel messi",
+        "sentiment": "none"
+      },
+      {
+        "name": "nuno mendes",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "manchester united",
+        "sentiment": "none"
+      },
+      {
+        "name": "real madrid",
+        "sentiment": "none"
+      },
+      {
+        "name": "estadio da luz",
+        "sentiment": "none"
+      },
+      {
+        "name": "juventus",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-09-06T00:44:41.357+03:00",
+  "updated": "2024-09-06T01:10:13.163+03:00"
+}

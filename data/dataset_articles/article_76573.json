@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "50e3f7d52a4d49bc42084086d60ddce2d2eecaa2",
+    "url": "https://www.tweaktown.com/news/102528/dune-awakening-only-runs-at-60fps-on-an-rtx-5090-with-dlss-turned-off/index.html",
+    "site_full": "www.tweaktown.com",
+    "site": "tweaktown.com",
+    "site_section": "https://tweaktown.com/index2.html",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TweakTown: Latest Worldwide Tech News & Game Reviews (Page 2)",
+    "title": "Dune: Awakening only runs at 60FPS on an RTX 5090 with DLSS turned off",
+    "title_full": "Dune: Awakening only runs at 60FPS on an RTX 5090 with DLSS turned off",
+    "published": "2025-01-10T10:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static.tweaktown.com/news/1/0/102528_6515_dune-awakening-only-runs-at-60fps-on-an-rtx-5090-without-dlss-4_full.jpg",
+    "performance_score": 0,
+    "domain_rank": 6555,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "50e3f7d52a4d49bc42084086d60ddce2d2eecaa2",
+  "url": "https://www.tweaktown.com/news/102528/dune-awakening-only-runs-at-60fps-on-an-rtx-5090-with-dlss-turned-off/index.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@JakConnorTT",
+  "published": "2025-01-10T10:31:00.000+02:00",
+  "title": "Dune: Awakening only runs at 60FPS on an RTX 5090 with DLSS turned off",
+  "text": "NVIDIA's keynote at CES 2025 introduced the world to the what is now considered to be the most powerful graphics card in the world, the GeForce RTX 5090.\nDuring the presentation NVIDIA CEO Jensen Huang detailed the massive performance increase of the RTX 5090 versus its predecessor, and how AI is responsible for big performance jumps in games. The technology Huang was referring to is DLSS, and with the new RTX 50 series cards buyers will get DLSS 4, which is set to offer massive performance increases in compatible games. NVIDIA has begun releasing performance comparisons between games running without DLSS 4, and then with DLSS 4 turned on.\nOne of those titles is the upcoming Dune: Awakening, which NVIDIA showcases running at approximately 60FPS on the RTX 5090 without DLSS 4 turned on. The next section of the video shows Dune: Awakening achieving a staggering 240FPS, with it pushing above 300+FPS in some scenes thanks to DLSS 4 and Multi Frame Generation.\nWhile the insane jump in frame rate is certainly impressive, it simultaneously highlights either the poor optimization of the current level of development for Dune: Awakening, as the title can only achieve just above 60FPS on the RTX 5090, or the underwhelming performance of the RTX 5090 running games natively.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Social Issue->demographics",
+    "Social Issue->social networking",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jensen Huang",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "NVIDIA",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:17:59.624+02:00",
+  "updated": "2025-01-10T12:17:59.624+02:00"
+}

@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "855b9ce7872896c962c0341b97baca45d41b487e",
+    "url": "https://www.larena.it/news/italia/ritrovata-la-19enne-scomparsa-a-roma-sta-bene-1.12913216",
+    "site_full": "www.larena.it",
+    "site": "larena.it",
+    "site_section": "https://www.larena.it/",
+    "site_categories": [
+      "media",
+      "top_news_it",
+      "top_news",
+      "arts, culture and entertainment",
+      "economy, business and finance",
+      "crime, law and justice",
+      "disaster and accident",
+      "politics",
+      "sport"
+    ],
+    "section_title": "News e Notizie di Verona | L'Arena - Il Giornale di Verona",
+    "site_title": "News e Notizie di Verona | L'Arena - Il Giornale di Verona",
+    "title": "Ritrovata la 19enne scomparsa a Roma, 'sta bene' | L'Arena",
+    "title_full": "Ritrovata la 19enne scomparsa a Roma, 'sta bene' | L'Arena",
+    "published": "2026-01-29T19:58:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://gfx.larena.it/image/contentid/policy:1.12913217:1769709622/image.jpg?f=16x9&amp;h=450&amp;w=800&amp;$p$f$h$w=7061f55",
+    "performance_score": 0,
+    "domain_rank": 52356,
+    "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "855b9ce7872896c962c0341b97baca45d41b487e",
+  "url": "https://www.larena.it/news/italia/ritrovata-la-19enne-scomparsa-a-roma-sta-bene-1.12913216",
+  "ord_in_thread": 0,
+  "author": "Società Athesis S.p.A.",
+  "published": "2026-01-29T19:58:00.000+02:00",
+  "title": "Ritrovata la 19enne scomparsa a Roma, 'sta bene' | L'Arena",
+  "text": "ROMA, 29 GEN - E' stata ritrovata Azzurra Ferretti, la ragazza di 19 anni scomparsa da lunedì a Roma. La giovane è stata rintracciata in zona Tiburtina. Secondo quanto si apprende, sta bene. Le ricerche sono scattate dopo la denuncia presentata dal padre ai carabinieri della stazione Tor Vergata..",
+  "summary": null,
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Human Interest"
+  ],
+  "topics": [
+    "Crime, Law and Justice->court",
+    "Crime, Law and Justice->kidnapping",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Azzurra Ferretti",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Roma",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "carabinieri",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_it",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-29T20:34:08.296+02:00",
+  "updated": "2026-01-30T21:06:14.000+02:00"
+}

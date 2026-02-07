@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "8152ed6bdcbcec342462e507e0e0b4b314192c13",
+    "url": "https://candid.technology/esnkrs-nike-data-leak",
+    "site_full": "candid.technology",
+    "site": "candid.technology",
+    "site_section": "https://candid.technology/feed",
+    "site_categories": [
+      "entertainment"
+    ],
+    "section_title": "Candid.Technology",
+    "title": "Massive data breach alleged at ESnkrs expose Nike's CRM database",
+    "title_full": "Massive data breach alleged at ESnkrs expose Nike's CRM database",
+    "published": "2025-01-10T11:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://candid.technology/wp-content/uploads/2021/12/Nike-by-Aman-Jakhar-5.jpg",
+    "performance_score": 0,
+    "domain_rank": 120046,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8152ed6bdcbcec342462e507e0e0b4b314192c13",
+  "url": "https://candid.technology/esnkrs-nike-data-leak",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kumar Hemant",
+  "published": "2025-01-10T11:38:00.000+02:00",
+  "title": "Massive data breach alleged at ESnkrs expose Nike's CRM database",
+  "text": "A notorious threat actor known as ‘Sorb’ claims to have obtained and is selling a CRM database allegedly linked to Nike’s use of ESnkrs platform. This platform has been compromised, exposing sensitive information from over 42 million log entries (totalling 11.9 GB) spanning four years, from 2020 to 2024.\nThe ESnkrs platform is a raffle bot that simultaneously automates registration forms and submits entries to multiple raffles. Due to their speed and efficiency at repetitive data entry tasks, these tools allow users to submit significantly more entries than manual submission.\nCompanies use raffle bots to manage online raffles of limited-edition products like sneakers.\nAutomating form-filling and submission verification gives users employing these tools a substantial statistical advantage over those entering manually, making traditional single-entry participation increasingly challenging in the current landscape.\nThe leaked dataset can include a wide range of sensitive user information:\n- Discord IDs: Potentially linking users to their online profiles and activities.\n- Email addresses: Enabling phishing and spam campaigns.\n- Physical and IP addresses: Creating opportunities for doxxing or geographically targeted attacks.\n- Proxy usage details: Indicating attempts by users to bypass restrictions, which could interest malicious actors.\nThis breach poses significant privacy and security risks for affected users if verified. Personal data such as email addresses and physical locations could make them vulnerable to phishing, identity theft, and targeted harassment.\nThe presence of proxy details could also expose users’ attempts to circumvent regional restrictions, potentially leading to further scrutiny or exploitation.\nIn other news, Kia Russia faced a massive data leak where hackers stole over 700,000 leads and approximately 120,000 user records. This year, some high-profile government agencies also faced data leaks. For instance, the Brazilian Finance Ministry was hit by a data breach exposing financial information.\nIn India, too, the child welfare agency of Madhya Pradesh was hit by a ransomware attack by Funksec. The threat actors claim to have infiltrated 2 GB of sensitive data from the agency’s system.\nIn the News: VLC previews AI-generated subtitles at CES 2025",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news",
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->corporate crime",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Nike",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:21:31.991+02:00",
+  "updated": "2025-01-10T12:21:31.991+02:00"
+}

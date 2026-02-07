@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "1bccf61cc9a8cf53d22da5af375a3fa3e46fc11a",
+    "url": "https://www.aroged.com/2024/01/05/amd-introduced-xa-versal-ai-edge-and-ryzen-embedded-v2000a-chips-to-expand-ai-functions-in-cars/",
+    "site_full": "www.aroged.com",
+    "site": "aroged.com",
+    "site_section": "https://www.aroged.com/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Aroged",
+    "title": "AMD introduced XA Versal AI Edge and Ryzen Embedded V2000A chips to expand AI functions in cars",
+    "title_full": "AMD introduced XA Versal AI Edge and Ryzen Embedded V2000A chips to expand AI functions in cars",
+    "published": "2024-01-06T01:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.aroged.com/wp-content/uploads/2024/01/AMD-introduced-XA-Versal-AI-Edge-and-Ryzen-Embedded-V2000A.jpg",
+    "performance_score": 0,
+    "domain_rank": 99930,
+    "domain_rank_updated": "2024-01-02T12:06:57.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1bccf61cc9a8cf53d22da5af375a3fa3e46fc11a",
+  "url": "https://www.aroged.com/2024/01/05/amd-introduced-xa-versal-ai-edge-and-ryzen-embedded-v2000a-chips-to-expand-ai-functions-in-cars/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Hazel Vasquez",
+  "published": "2024-01-06T01:04:00.000+02:00",
+  "title": "AMD introduced XA Versal AI Edge and Ryzen Embedded V2000A chips to expand AI functions in cars",
+  "text": "AMD has introduced products designed to expand the AI capabilities of cars. The first is the XA Versal AI Edge series of single-chip platforms, which are equipped with AI engines and an array of vector processors. Their main purpose is to improve the safety and efficiency of LiDAR sensors, radars, cameras and other AI-based sensors. A series of Ryzen Embedded V2000A processors was also presented to expand the capabilities of car multimedia systems.\nA notable feature of the AMD XA Versal AI Edge SoC series and Ryzen Embedded V2000A processors is that they are the first 7nm chips certified for use in the automotive industry.\nIn general, XA Versal AI Edge and Ryzen Embedded V2000A are designed to improve the driver and passenger experience of using various vehicle systems, allowing them to implement support for various AI functions.\nXA Versal AI Edge is an adaptive platform that supports artificial intelligence and is designed to control various car sensors. XA Versal AI Edge is responsible for improving the accuracy and responsiveness of automotive LiDAR sensors, radars and cameras, which is critical for AI systems to make fast and accurate decisions.\nOne of the advantages of the XA Versal AI Edge platform is its scalability. For example, the flagship SoC XAVE2602 uses 152 AI engines with 820 thousand logical cells, as well as 984 digital signal processors (DSP). AMD claims up to 89 TOPS (trillion operations per second) performance in INT8 calculations for this chip. The company will also be able to offer XA Versal AI Edge platforms with performance ratings from 5 to 171 TOPS, designed for different segments and tasks.\nThe XA Versal AI Edge is based on an APU with a pair of Arm Cortex-A72 cores, as well as a dual-core Arm Cortex-R5F RPT module. The power consumption of XA Versal AI Edge chips ranges from 6-9 W (XAVE2002 platform) to an impressive 75 W (XAVE2802 platform).\nThe Ryzen Embedded V2000A series of processors is designed to expand the AI capabilities of car multimedia systems for both the driver and passengers. These processors can be used to control digital vehicle interiors, from the infotainment console to passenger displays.\nThese processors, manufactured using the 7nm process technology, use cores based on the Zen 2 architecture. The new chips replace the quad-core and eight-thread Ryzen Embedded V1000 APU based on the first generation Zen architecture. The Ryzen Embedded V2000A offers up to six Zen 2 cores with support for up to 12 virtual threads and features integrated Radeon Vega 7 graphics with seven execution units. According to AMD, the new processors are up to 88% more powerful than their predecessors.\nRyzen Embedded V2000A chips support up to four 4K displays, dual Gigabit network interfaces, and are certified to AEC-Q100 standards with stringent quality and reliability requirements. The company promises 10 years of support for these processors.\nA number of AMD partners, including Tesla, Ecarx, Luxoft, BlackBerry/QNX, Xylon, Cognata and others, have already become interested in the new XA Versal AI Edge and Ryzen Embedded V2000A platforms. According to AMD, the first XAVE1752 SoC as part of the XA Versal AI Edge series will be available in early 2024. The remaining chips in the series will be released before the end of this year. The company also notes that it has prepared an AXVEK 280 test kit for potential customers to evaluate the capabilities of the new SoCs.\nIf you notice an error, select it with the mouse and press CTRL+ENTER.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Arts, Culture and Entertainment",
+    "Sport"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "amd",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-06T01:18:52.990+02:00",
+  "updated": "2024-01-06T01:18:52.990+02:00"
+}

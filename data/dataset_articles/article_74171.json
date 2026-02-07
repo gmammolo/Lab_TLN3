@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "7aed8931277f9ca58881a9dc40f62fe13970b4b6",
+    "url": "https://www.diyaudio.com/community/threads/pitfalls-of-ab-testing.419961",
+    "site_full": "www.diyaudio.com",
+    "site": "diyaudio.com",
+    "site_section": "https://www.diyaudio.com/forums/external.php?type=RSS2",
+    "site_categories": [
+      "sci_fi_and_fantasy",
+      "hobbies_and_interests"
+    ],
+    "section_title": "diyAudio",
+    "title": "Pitfalls of AB testing",
+    "title_full": "Pitfalls of AB testing",
+    "published": "2024-11-15T12:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 41503,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7aed8931277f9ca58881a9dc40f62fe13970b4b6",
+  "url": "https://www.diyaudio.com/community/threads/pitfalls-of-ab-testing.419961",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "OnAudio (invalid@example.com)",
+  "published": "2024-11-15T12:14:00.000+02:00",
+  "title": "Pitfalls of AB testing",
+  "text": "The pitfalls of AB testing are centered around how our brain works. During the normal day to day operation of the brain it has to map stimuli to a labeled branch of knowledge that means it collapses similar branches to one branch. If it has already heard a sound and then hears a distorted version of that sound it will map the distorted sound to the cleaner sound. That means when AB testing amplifiers that are different, the difference may only be heard the first time. On the second run the amplifiers will sound similar on the same sound track. Does that mean AB testing is impossible and unnecessary? As can be seen in these results here, these amplifiers are different in performance but the brain will correct up to 15% error so that they sound similar, the more correction applied the more pleasant as the brain is replaying the recorded familiar sound rather than the live amplifier sound.\namplifiers have many dimensions, the most important being semiconductor, capacitor and other components quality. if these are held constant we then go into fashion aspects, music type, speakers etc. It looks like 15% IMD isn't so bad. There are many dimensions to amplifier acceptability including soft clipping and dynamic behavior. Just pick what you like. Those that got blown away by the symef and were comparing it to their Bryston amplifier or McIntosh amplifier weren't far off. In an AB test telling apart a McIntosh MC303 from a symef type s might be quite a task.\n...\nProper AB testing should rely on short-term memory and near-instantaneous switching in listening comparisons as stated in this ITU document:\nWith near-instantaneous switching mapping does not occur and differences can be heard if they are audible.\n[https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1116-3-201502-I!!PDF-E.pdf](https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1116-3-201502-I!!PDF-E.pdf)With near-instantaneous switching mapping does not occur and differences can be heard if they are audible.\nI would start at the very beginning. A key test for audio is the connection of channel-separated power supplies, \"double mono\". The 'differences gradually become smaller or inaudible', there is no such thing here.\nI also recommend taking a short break from listening, because differences then become contrastively clearer: the whole organism hears, and it is an swing system that has to swing in and - at least somewhat - out.\nAnd as always: do it first, test statements, then answer. I have enough A-B. Works great. Switching while listening: the smaller the differences, the more difficult it is to perceive them.\nSoon I will post a video here in which I let you hear transistors of one type but of different batches, A-B tests;-)))\nAside: Almost all of the amplifiers \"measured\" above are not audio amplifiers - strictly. They are many stage complementary transistors pp amplifiers, many of them also half-wave unsymmetric. They do not produce a single clean tone. If you compare them with each other, you are comparing the same with the same.\nAnd: THD is not a statement regarding sound.\nI also recommend taking a short break from listening, because differences then become contrastively clearer: the whole organism hears, and it is an swing system that has to swing in and - at least somewhat - out.\nAnd as always: do it first, test statements, then answer. I have enough A-B. Works great. Switching while listening: the smaller the differences, the more difficult it is to perceive them.\nSoon I will post a video here in which I let you hear transistors of one type but of different batches, A-B tests;-)))\nAside: Almost all of the amplifiers \"measured\" above are not audio amplifiers - strictly. They are many stage complementary transistors pp amplifiers, many of them also half-wave unsymmetric. They do not produce a single clean tone. If you compare them with each other, you are comparing the same with the same.\nAnd: THD is not a statement regarding sound.\nYet skilled listeners can hear very small differences (so small they can't describe how they are different).\nSometimes these small differences are in overlooked uncontrolled variables. Which makes the test meaningless.\nSometimes these small differences are in overlooked uncontrolled variables. Which makes the test meaningless.\nHigher IMD values of 1% to 20% are heavily coveted as these are more meaty and fun as opposed to fast accurate and lean. Its just like using compression in mastering to add meat to the bass. This is more to do with what the brain does with stimulus it receives.\nThis one dimension of data suggests that the brains quantization of sound needs more exploration\nTo better judge amplifiers more dimensions are needed, here av added the beloved 2diffet amplifier\nTo better judge amplifiers more dimensions are needed, here av added the beloved 2diffet amplifier\n[https://www.pcbway.com/project/shareproject/2DIFFET_MOSFET_220Watt_Amplifier_bea36047.html](https://www.pcbway.com/project/shareproject/2DIFFET_MOSFET_220Watt_Amplifier_bea36047.html)The Rane MA6 gen 1 had an output impedance of 1-2 ohms while the omega relatives of the DC300 had an output impedance of 40 ohms\nI have a question.\nI never see distortion curves which are flat vs wattage until clipping.\nWhat am I missing here?\nI never see distortion curves which are flat vs wattage until clipping.\nWhat am I missing here?\nDitto, the other is that the distortion figure usually doesn't swing up and down so erratically vs wattage.\n-\n[Home](https://www.diyaudio.com) -\n[Member Areas](/community/forums/-/list#member-areas.78) -\n[The Lounge](/community/forums/the-lounge.39/) - Pitfalls of AB testing",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1116-3-201502-I!!PDF-E.pdf",
+    "https://itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1116-3-201502-I!!PDF-E.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T13:25:40.661+02:00",
+  "updated": "2024-11-24T10:16:53.791+02:00"
+}

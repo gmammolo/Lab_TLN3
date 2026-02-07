@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "3f87fea4a8c0d34919c7d8b418f2cea27c8dbfc2",
+    "url": "https://cryptonews.net/news/altcoins/30115723",
+    "site_full": "cryptonews.net",
+    "site": "cryptonews.net",
+    "site_section": "https://cryptonews.net/rss.xml",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "World news about cryptocurrency and blockchain technology from different sources",
+    "title": "Sui Network Experiences Two-Hour Outage, Halting Block Production",
+    "title_full": "Sui Network Experiences Two-Hour Outage, Halting Block Production",
+    "published": "2024-11-21T23:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cnews24.ru/uploads/4ae/4aed649411cc8e3f73368f46fa57f7c01ef9cf94.png",
+    "performance_score": 0,
+    "domain_rank": 55532,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3f87fea4a8c0d34919c7d8b418f2cea27c8dbfc2",
+  "url": "https://cryptonews.net/news/altcoins/30115723",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-21T23:14:00.000+02:00",
+  "title": "Sui Network Experiences Two-Hour Outage, Halting Block Production",
+  "text": "- Sui Network outage halts block production for 2 hours; fix restores operations swiftly.\n- SUI token price dips 7.29% during outage, rebounds as network resumes.\n- South Korean exchange Upbit halts SUI transactions to prevent potential losses during network downtime.\nThe Sui Network, a decentralized layer-1 blockchain, was down temporarily on November 21st with block production being suspended for more than two hours. According to Sui Vision, the blockchain explorer, the last transaction block was produced at 9:15 a.m. UTC. The network could not execute transactions which affected its functioning and in turn affected the crypto market.\nSui Network Confirms Outage and Identifies Fix\nThe Sui Foundation acknowledged the outage on its official X account, informing users that the blockchain had stopped processing transactions. The foundation sought to reassure the community that the problem had been noticed and that a solution was in the works. They released a statement expressing gratitude to users for their patience and promising to provide more information as the issue was being solved.\nService Announcement: The Sui network is currently experiencing an outage and not processing transactions. We’ve identified the issue and a fix will be deployed shortly. We appreciate your patience and will continue to provide updates.\n— Sui (@SuiNetwork) November 21, 2024\nThe outage was later attributed to a bug in the transaction scheduling logic, which caused validator nodes to crash. The Sui Foundation announced that the issue had been resolved, and operations resumed after approximately two hours. Validators, described as instrumental in the swift recovery, restored the network’s functionality.\nImpact on SUI Token and Exchange Activities\nThis disruption impacted the token, SUI, the native token of the Sui blockchain. According to information on CoinGecko, SUI declined in value by almost 11% during the halt of its services, with its price reaching $3.40. Over 24 hours, SUI registered a decline of 7.29% despite maintaining a 75% increase in value over the past month. Following the resolution, the token’s price rebounded slightly to $3.60.\nIn response to the outage, South Korean cryptocurrency exchange Upbit temporarily suspended deposits and withdrawals of SUI tokens. The exchange also noted that the transactions made after the announcement could lead to the loss of the funds that cannot be reclaimed. This precautionary measure sought to bring out the implications of the network’s interruption.\nCommunity Reactions and Comparisons to Solana\nThe incident prompted discussions within the cryptocurrency community. A few individuals on X compared Sui to Solana, another blockchain that faced multiple outages in the past. Many criticized Sui’s outage, saying that it was similar to Solana’s problems, highlighting Sui’s ambition to compete against Solana in the blockchain space.\nSui’s representatives tried to address these comparisons, stressing the immediate elimination of the problem and that this incidents are rare. As cited by Tim Kravchunovsky, the CEO of Sui-based Chirp Network, this was the first major Downtime for Sui that prior downtimes were experienced only during the testnet. He remain optimistic of the network’s capacity to respond to such issues effectively.\nWeb3 security firms suggested that the outage was caused by a denial-of-service (DOS) bug related to integer overflow. ExVul, a security company, published findings that pinpointed the bug’s location in the Sui Network’s codebase and proposed a patch to prevent similar issues. The Sui team has not yet confirmed these findings but acknowledged that the issue originated in the transaction scheduling logic.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T01:45:30.273+02:00",
+  "updated": "2024-11-22T01:45:30.273+02:00"
+}

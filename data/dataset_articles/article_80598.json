@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "065bd7724acbabd41d7a2b8e9b2ab71aedc5bd59",
+    "url": "https://www.newswise.com/articles/inhaleable-sensors-for-early-lung-cancer-detection",
+    "site_full": "www.newswise.com",
+    "site": "newswise.com",
+    "site_section": "http://feeds.feedburner.com/NewswiseLatestNews",
+    "site_categories": [
+      "media",
+      "senor_health",
+      "health"
+    ],
+    "section_title": "Newswise: Latest News",
+    "title": "Inhalable sensors could enable early lung cancer detection",
+    "title_full": "Inhalable sensors could enable early lung cancer detection",
+    "published": "2024-01-05T22:05:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.newswise.com/legacy/image.php?image=/images/uploads/2024/01/05/65986d0313b0f_Low-ResMITLung-Cancer-Diagnostics-01-PRESS.jpg&width=600&height=600",
+    "performance_score": 0,
+    "domain_rank": 4140,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "065bd7724acbabd41d7a2b8e9b2ab71aedc5bd59",
+  "url": "https://www.newswise.com/articles/inhaleable-sensors-for-early-lung-cancer-detection",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Massachusetts Institute of Technology (MIT)",
+  "published": "2024-01-05T22:05:00.000+02:00",
+  "title": "Inhalable sensors could enable early lung cancer detection",
+  "text": "Newswise — CAMBRIDGE, MA -- Using a new technology developed at MIT, diagnosing lung cancer could become as easy as inhaling nanoparticle sensors and then taking a urine test that reveals whether a tumor is present.\nThe new diagnostic is based on nanosensors that can be delivered by an inhaler or a nebulizer. If the sensors encounter cancer-linked proteins in the lungs, they produce a signal that accumulates in the urine, where it can be detected with a simple paper test strip.\nThis approach could potentially replace or supplement the current gold standard for diagnosing lung cancer, low-dose computed tomography (CT). It could have an especially significant impact in low- and middle-income countries that don’t have widespread availability of CT scanners, the researchers say.\n“Around the world, cancer is going to become more and more prevalent in low- and middle-income countries. The epidemiology of lung cancer globally is that it’s driven by pollution and smoking, so we know that those are settings where accessibility to this kind of technology could have a big impact,” says Sangeeta Bhatia, the John and Dorothy Wilson Professor of Health Sciences and Technology and of Electrical Engineering and Computer Science at MIT, and a member of MIT’s Koch Institute for Integrative Cancer Research and the Institute for Medical Engineering and Science.\nBhatia is the senior author of the paper, which appears today in Science Advances. Qian Zhong, an MIT research scientist, and Edward Tan, a former MIT postdoc, are the lead authors of the study.\nInhalable particles\nTo help diagnose lung cancer as early as possible, the U.S. Preventive Services Task Force recommends that heavy smokers over the age of 50 undergo annual CT scans. However, not everyone in this target group receives these scans, and the high false-positive rate of the scans can lead to unnecessary, invasive tests.\nBhatia has spent the last decade developing nanosensors for use in diagnosing cancer and other diseases, and in this study, she and her colleagues explored the possibility of using them as a more accessible alternative to CT screening for lung cancer.\nThese sensors consist of polymer nanoparticles coated with a reporter, such as a DNA barcode, that is cleaved from the particle when the sensor encounters enzymes called proteases, which are often overactive in tumors. Those reporters eventually accumulate in the urine and are excreted from the body.\nPrevious versions of the sensors, which targeted other cancer sites such as the liver and ovaries, were designed to be given intravenously. For lung cancer diagnosis, the researchers wanted to create a version that could be inhaled, which could make it easier to deploy in lower resource settings.\n“When we developed this technology, our goal was to provide a method that can detect cancer with high specificity and sensitivity, and also lower the threshold for accessibility, so that hopefully we can improve the resource disparity and inequity in early detection of lung cancer,” Zhong says.\nTo achieve that, the researchers created two formulations of their particles: a solution that can be aerosolized and delivered with a nebulizer, and a dry powder that can be delivered using an inhaler.\nOnce the particles reach the lungs, they are absorbed into the tissue, where they encounter any proteases that may be present. Human cells can express hundreds of different proteases, and some of them are overactive in tumors, where they help cancer cells to escape their original locations by cutting through proteins of the extracellular matrix. These cancerous proteases cleave DNA barcodes from the sensors, allowing the barcodes to circulate in the bloodstream until they are excreted in the urine.\nIn the earlier versions of this technology, the researchers used mass spectrometry to analyze the urine sample and detect DNA barcodes. However, mass spectrometry requires equipment that might not be available in low-resource areas, so for this version, the researchers created a lateral flow assay, which allows the barcodes to be detected using a paper test strip.\nThe researchers designed the strip to detect up to four different DNA barcodes, each of which indicates the presence of a different protease. No pre-treatment or processing of the urine sample is required, and the results can be read about 20 minutes after the sample is obtained.\n“We were really pushing this assay to be point-of-care available in a low-resource setting, so the idea was to not do any sample processing, not do any amplification, just to be able to put the sample right on the paper and read it out in 20 minutes,” Bhatia says.\nAccurate diagnosis\nThe researchers tested their diagnostic system in mice that are genetically engineered to develop lung tumors similar to those seen in humans. The sensors were administered 7.5 weeks after the tumors started to form, a time point that would likely correlate with stage 1 or 2 cancer in humans.\nIn their first set of experiments in the mice, the researchers measured the levels of 20 different sensors designed to detect different proteases. Using a machine learning algorithm to analyze those results, the researchers identified a combination of just four sensors that was predicted to give accurate diagnostic results. They then tested that combination in the mouse model and found that it could accurately detect early-stage lung tumors.\nFor use in humans, it’s possible that more sensors might be needed to make an accurate diagnosis, but that could be achieved by using multiple paper strips, each of which detects four different DNA barcodes, the researchers say.\nThe researchers now plan to analyze human biopsy samples to see if the sensor panels they are using would also work to detect human cancers. In the longer term, they hope to perform clinical trials in human patients. A company called Sunbird Bio has already run phase 1 trials on a similar sensor developed by Bhatia’s lab, for use in diagnosing liver cancer and a form of hepatitis known as nonalcoholic steatohepatitis (NASH).\nIn parts of the world where there is limited access to CT scanning, this technology could offer a dramatic improvement in lung cancer screening, especially since the results can be obtained during a single visit.\n“The idea would be you come in and then you get an answer about whether you need a follow-up test or not, and we could get patients who have early lesions into the system so that they could get curative surgery or lifesaving medicines,” Bhatia says.\n###\nThe research was funded by the Johnson & Johnson Lung Cancer Initiative, the Howard Hughes Medical Institute, the Koch Institute Support (core) Grant from the National Cancer Institute, and the National Institute of Environmental Health Sciences.\nMEDIA CONTACT\n[Register for reporter access to contact details](/users/register)\nCITATIONS\nScience Advances",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sangeeta",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "mit",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "cambridge",
+        "sentiment": "none"
+      },
+      {
+        "name": "ma",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-06T00:10:07.782+02:00",
+  "updated": "2024-01-06T00:10:07.782+02:00"
+}

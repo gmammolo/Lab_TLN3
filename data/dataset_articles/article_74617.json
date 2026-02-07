@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "8eaaa30cec9bdf546a00b260550af16c6179eea4",
+    "url": "https://www.secureworld.io/industry-news/chinese-hackers-compromised-usa-telecommunications-networks",
+    "site_full": "www.secureworld.io",
+    "site": "secureworld.io",
+    "site_section": "https://www.secureworld.io/industry-news/rss.xml",
+    "site_categories": [],
+    "section_title": "SecureWorld News",
+    "title": "U.S. Confirms Chinese Hackers Compromised Telecommunications Networks",
+    "title_full": "U.S. Confirms Chinese Hackers Compromised Telecommunications Networks",
+    "published": "2024-11-15T15:42:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.secureworld.io/hubfs/Blog%20Images/China_Chinese_hacker_shutterstock_1339292228.jpg",
+    "performance_score": 0,
+    "domain_rank": 100806,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8eaaa30cec9bdf546a00b260550af16c6179eea4",
+  "url": "https://www.secureworld.io/industry-news/chinese-hackers-compromised-usa-telecommunications-networks",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "drewt@secureworldexpo.com (Drew Todd)",
+  "published": "2024-11-15T15:42:00.000+02:00",
+  "title": "U.S. Confirms Chinese Hackers Compromised Telecommunications Networks",
+  "text": "In a joint statement from the Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA), United States officials have disclosed the details of a broad cyber espionage campaign by Chinese state-sponsored actors targeting U.S. telecommunications infrastructure.\nThe China-backed hackers, identified as the Salt Typhoon group, have reportedly accessed customer call data, law enforcement records, and private communications of U.S. officials and politically active individuals through prolonged breaches in multiple telecom companies.\nAccording to the FBI and CISA, Salt Typhoon infiltrated major U.S. broadband providers, including AT&T, Verizon, and Lumen Technologies. The breach granted these hackers access to sensitive communications and call records, focusing mainly on government officials and politically involved individuals. \"We have identified that PRC-affiliated actors have compromised networks at multiple telecommunications companies to enable the theft of customer call records data,\" CISA and the FBI explained in the joint release.\nThe compromised data also included information acquired by U.S. law enforcement under court orders, which the hackers potentially used to gain insight into U.S. counterintelligence targets. The agencies added that \"PRC-affiliated actors… [stole] certain information that was subject to U.S. law enforcement requests pursuant to court orders.\" These activities underscore China's ongoing efforts to access and manipulate U.S. government and private-sector communications systems.\nAccording to officials, Salt Typhoon maintained access for \"months or longer,\" allowing the group to monitor extensive network traffic and intercept private communications at scale. The espionage campaign comes amid growing concerns over Chinese cyber activities targeting critical infrastructure globally. U.S. officials believe that Salt Typhoon's main objectives are to gather intelligence on government-related communications and to track PRC surveillance efforts within the U.S.\nThe same group has also reportedly launched related attacks on Canadian federal institutions. Canadian authorities revealed that China-backed hackers conducted network scans across Canadian government departments, political parties, and critical infrastructure, illustrating the campaign's broad geopolitical scope.\nThe FBI and CISA are working with telecommunications providers to bolster cyber defenses and protect the sector from further breaches. A CISA spokesperson urged affected organizations to report suspected incidents and contact CISA or local FBI offices for assistance. Both agencies coordinate efforts under the recently established Cyber Unified Coordination Group (Cyber UCG) to share insights and strengthen U.S. defenses.\nThis recent disclosure underscores the continuing cybersecurity threat China poses to U.S. critical infrastructure. Salt Typhoon joins a series of PRC-linked groups, including Volt Typhoon and Flax Typhoon, that have targeted the U.S. with cyber campaigns. As the FBI and CISA continue their investigation, further details are expected. Still, the case already emphasizes the need for vigilant monitoring and a resilient cybersecurity strategy across sectors supporting sensitive communications and national security.\nFollow SecureWorld News for more stories related to cybersecurity.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cisa.gov/news-events/news/joint-statement-fbi-and-cisa-peoples-republic-china-prc-targeting-commercial-telecommunications",
+    "https://www.cyber.gc.ca/en/news-events/statement-peoples-republic-china-reconnaissance-canadian-systems",
+    "https://cyber.gc.ca/en/news-events/statement-peoples-republic-china-reconnaissance-canadian-systems",
+    "https://cisa.gov/news-events/news/joint-statement-fbi-and-cisa-peoples-republic-china-prc-targeting-commercial-telecommunications"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Federal Bureau of Investigation",
+        "sentiment": "none"
+      },
+      {
+        "name": "FBI",
+        "sentiment": "none"
+      },
+      {
+        "name": "Verizon",
+        "sentiment": "none"
+      },
+      {
+        "name": "AT&T",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:36:18.909+02:00",
+  "updated": "2024-11-15T18:36:18.909+02:00"
+}

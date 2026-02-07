@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "ebfd01b424f0da5e6260df06fa2137ade50a5c72",
+    "url": "https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-ataca-cuentas-facebook-puede-vaciartela-segundos-1424821",
+    "site_full": "computerhoy.20minutos.es",
+    "site": "20minutos.es",
+    "site_section": "https://computerhoy.20minutos.es/listas/tecnologia",
+    "site_categories": [
+      "top_news_ar",
+      "top_news_ve",
+      "top_news_pe",
+      "top_news_co",
+      "top_news_mx",
+      "top_news_cl",
+      "top_news_es",
+      "top_news"
+    ],
+    "section_title": "Tecnología, Gadgets, Informática, Hardware y Software | Computer Hoy",
+    "title": "Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos",
+    "title_full": "Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos",
+    "published": "2024-11-22T09:17:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/malware-facebook-4264960.jpg?tf=1200x675",
+    "performance_score": 0,
+    "domain_rank": 2452,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ebfd01b424f0da5e6260df06fa2137ade50a5c72",
+  "url": "https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-ataca-cuentas-facebook-puede-vaciartela-segundos-1424821",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Carolina González Valenzuela",
+  "published": "2024-11-22T09:17:00.000+02:00",
+  "title": "Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos",
+  "text": "Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos\nSu objetivo principal parece ser comprometer cuentas de Facebook Business y Facebook Ads Manager para luego utilizarlas en campañas publicitarias maliciosas.\nGetty Images / Computer Hoy\nSi tienes [Facebook](https://computerhoy.20minutos.es/apps/facebook-red-social-zuckerberg-creo-ha-enfrentado-varios-escandalos-1398365) y lo usas muy a menudo, esto te interesa. Un [malware](https://computerhoy.20minutos.es/ciberseguridad/malware-como-afecta-ciberseguridad-consejos-protegerte-1400747) con nombre Python NodeStealer ha evolucionado y parece que esta nueva versión es aún más peligrosa que la anterior. Investigadores de Netskope Threat Labs han descubierto que esta no solo ataca cuentas de Facebook Business, sino que ahora también se enfoca en Facebook Ads Manager.\nAdemás, a todo su arsenal ha añadido la capacidad de robar información de tarjetas de crédito. Esto lo consigue accediendo a la base de datos \"Web Data\" de los navegadores, donde hay información muy privada como datos de autocompletado y métodos de pago guardados.\n\"Con estas nuevas características, ahora pueden recopilar la información completa de la tarjeta de crédito de la víctima, incluyendo el nombre del titular, la fecha de vencimiento y el número de la tarjeta\", explicaron los investigadores de Netskope.\nTambién comentar que una de las novedades más preocupantes de esta versión es el uso del Windows Restart Manager. Esta herramienta, diseñada en un principio para facilitar las actualizaciones de software, está siendo explotada por los ciberdelincuentes para desbloquear archivos de base de datos que normalmente estarían protegidos.\nLos expertos creen que detrás de Python NodeStealer hay un grupo de ciberdelincuentes con base en Vietnam\nEn cuanto al proceso, primero el malware copia los archivos de la base de datos del navegador a una carpeta temporal. Luego, utiliza el Windows Restart Manager para acceder a estos archivos normalmente bloqueados. Finalmente, toda la información robada se envía a los atacantes a través de un bot de [Telegram](https://computerhoy.20minutos.es/aplicaciones/telegram-como-funciona-diferencias-whatsapp-telegram-web-mejores-grupos-1162113).\nPero cuidado, porque toda esta problemática generada por Python NodeStealer va más allá del robo de datos bancarios. Al atacar cuentas de Facebook Ads Manager, pueden lanzar campañas publicitarias engañosas a gran escala, y alcanzar, si se lo proponen, a millones de usuarios.\nLos expertos en ciberseguridad recomiendan a los usuarios de Facebook, especialmente a aquellos con cuentas de negocios o de gestión de anuncios, que pongan más medidas de seguridad. Esto incluye utilizar autenticación de dos factores, mantener actualizados sus sistemas y software, y estar muy atentos ante cualquier actividad rara en sus cuentas.\nConoce [cómo trabajamos](/como-trabajamos) en ComputerHoy.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T10:26:21.509+02:00",
+  "updated": "2024-11-22T10:26:21.509+02:00"
+}

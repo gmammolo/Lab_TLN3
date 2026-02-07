@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "6f11c39106171195a7ea32d6e69bd4fc605e7e33",
+    "url": "https://universal-blue.discourse.group/t/0-273492-initramfs-unpacking-failed-invalid-magic-at-start-of-compressed-archive/6204",
+    "site_full": "universal-blue.discourse.group",
+    "site": "discourse.group",
+    "site_section": "https://universal-blue.discourse.group/hot.rss",
+    "site_categories": [],
+    "section_title": "Welcome to Universal Blue! :wave:",
+    "title": "[ 0.273492] Initramfs unpacking failed: invalid magic at start of compressed archive",
+    "title_full": "[ 0.273492] Initramfs unpacking failed: invalid magic at start of compressed archive",
+    "published": "2025-01-10T02:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/free1/uploads/univeral_blue/original/2X/e/e39f7d1952979cf23b0f8d634e025fb38da50026.png",
+    "performance_score": 0,
+    "domain_rank": 10688,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6f11c39106171195a7ea32d6e69bd4fc605e7e33",
+  "url": "https://universal-blue.discourse.group/t/0-273492-initramfs-unpacking-failed-invalid-magic-at-start-of-compressed-archive/6204",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Fabricio Jardim",
+  "published": "2025-01-10T02:31:00.000+02:00",
+  "title": "[ 0.273492] Initramfs unpacking failed: invalid magic at start of compressed archive",
+  "text": "Something went wrong trying to boot 41.20250105 at aurora:stable:\n[ 0.273492] Initramfs unpacking failed: invalid magic at start of compressed archive.\nWent back and booted from previous image: 41.20241229.\nHow can I fix this? Perhaps delete the failed boot entry and repeat the whole update process.\nThanks\nCan you paste the output of rpm-ostree status? Do you happen to have a local override for Initramfs there?\nrpm-ostree status",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T08:30:43.050+02:00",
+  "updated": "2025-01-10T08:30:43.050+02:00"
+}

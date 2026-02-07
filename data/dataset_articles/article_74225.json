@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "7ccdb5452c3f82c5c0bf6c5d4628d6925eb638e6",
+    "url": "https://www.digitalinformationworld.com/2024/11/new-information-stealing-malware.html",
+    "site_full": "www.digitalinformationworld.com",
+    "site": "digitalinformationworld.com",
+    "site_section": "https://www.blogger.com/feeds/5050352549609773373/posts/default",
+    "site_categories": [
+      "marketing",
+      "business"
+    ],
+    "section_title": "Digital Information World",
+    "title": "New Information Stealing Malware Bypasses Google Chrome’s App-Bound Encryption",
+    "title_full": "New Information Stealing Malware Bypasses Google Chrome’s App-Bound Encryption",
+    "published": "2024-11-15T11:03:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 13165,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7ccdb5452c3f82c5c0bf6c5d4628d6925eb638e6",
+  "url": "https://www.digitalinformationworld.com/2024/11/new-information-stealing-malware.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dr. Hura Anwar",
+  "published": "2024-11-15T11:03:00.000+02:00",
+  "title": "New Information Stealing Malware Bypasses Google Chrome’s App-Bound Encryption",
+  "text": "Security experts are alerting users about a new information-stealing malware called Glove Stealer that can bypass Chrome’s App Bound encryption.\nThreat actors’ goal is to steal cookies on the browser. It behaves simply and does not feature a lot of obfuscation which means it’s still in its early stage.\nThe threat actors make use of social engineering similar to those seen inside the ClickFix infection chain. This is where users are tricked into downloading malware through fake error windows inside HTML files linked to phishing attacks.\nIt performs actions via extraction and exfiltration of cookies inside Chrome, Brave, Opera, and Edge browsers. It can even carry out the theft of crypto wallets through browser extensions or 2FA session tokens seen on Authenticator apps. The same is the case for passwords found on other password managers and systems.\nThe initiative makes use of the most basic forms of cookie-stealing activities that were seen in July. This is done via Chrome’s own Windows service for decryption and retrieval of App-based encrypted keys.\nIt all seems impressive in print but experts did agree that it’s just too early in its developmental stage to cause serious destruction. Most info stealers used this technique ages ago for cookie stealing.\nToday, we’ve got several information-stealing malware operations that bypass the latest security feature for customers to steal and decrypt cookies on Google Chrome. The end message from experts is that it’s yet to reach the level that causes a major security dent in the great number of info theft malware campaigns today.\nAttacks have been on the rise since the start of July when Google first rolled out encryption based on apps that targeted potential victims through vulnerable drivers, malvertising, and zero-day vulnerabilities.\nImage: DIW-AIgen\nRead next: Google Might Let Users Hide Their Real Email Address From Android Apps",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqScNuqB0-4HtqBnMkXsVPKNvTdo__NPauA4kvU8oRbhHnEhzUcv__rIUK0vgRCBntA6xBRsx1QYLPuWuwDxHdiFFwqzJwig6LXCOUUGK_C6Y_FcA8m8vjS2tFxI_OFSN0rPuJ6sy1gEptl7NaIljqmhIHK1IWLtjSJR2yHnT1jro-BPyyvREl5-JtqBVu/s16000/sec-loc.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqScNuqB0-4HtqBnMkXsVPKNvTdo__NPauA4kvU8oRbhHnEhzUcv__rIUK0vgRCBntA6xBRsx1QYLPuWuwDxHdiFFwqzJwig6LXCOUUGK_C6Y_FcA8m8vjS2tFxI_OFSN0rPuJ6sy1gEptl7NaIljqmhIHK1IWLtjSJR2yHnT1jro-BPyyvREl5-JtqBVu/s1024/sec-loc.jpeg",
+    "https://www.gendigital.com/blog/news/innovation/glove-stealer",
+    "https://gendigital.com/blog/news/innovation/glove-stealer",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqScNuqB0-4HtqBnMkXsVPKNvTdo__NPauA4kvU8oRbhHnEhzUcv__rIUK0vgRCBntA6xBRsx1QYLPuWuwDxHdiFFwqzJwig6LXCOUUGK_C6Y_FcA8m8vjS2tFxI_OFSN0rPuJ6sy1gEptl7NaIljqmhIHK1IWLtjSJR2yHnT1jro-BPyyvREl5-JtqBVu/s1024/sec-loc.jpeg",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqScNuqB0-4HtqBnMkXsVPKNvTdo__NPauA4kvU8oRbhHnEhzUcv__rIUK0vgRCBntA6xBRsx1QYLPuWuwDxHdiFFwqzJwig6LXCOUUGK_C6Y_FcA8m8vjS2tFxI_OFSN0rPuJ6sy1gEptl7NaIljqmhIHK1IWLtjSJR2yHnT1jro-BPyyvREl5-JtqBVu/s16000/sec-loc.jpeg"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T14:05:05.470+02:00",
+  "updated": "2024-11-15T14:05:05.470+02:00"
+}

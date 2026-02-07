@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "3d37be2ac0ae0b6468475a377d69a62fbcb0d8dc",
+    "url": "https://www.wdio.com/front-page/top-stories/barn-a-total-loss-in-carlton-county-fire",
+    "site_full": "www.wdio.com",
+    "site": "wdio.com",
+    "site_section": "https://www.wdio.com/rss",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "WDIO.com",
+    "site_title": null,
+    "title": "Barn, 20 chickens lost in Carlton County fire",
+    "title_full": "Barn, 20 chickens lost in Carlton County fire",
+    "published": "2025-03-06T00:37:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.wdio.com/wp-content/uploads/2022/08/Fire-flames-firefighterShadow.jpg",
+    "performance_score": 0,
+    "domain_rank": 38718,
+    "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3d37be2ac0ae0b6468475a377d69a62fbcb0d8dc",
+  "url": "https://www.wdio.com/front-page/top-stories/barn-a-total-loss-in-carlton-county-fire",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alex Sapp",
+  "published": "2025-03-06T00:37:00.000+02:00",
+  "title": "Barn, 20 chickens lost in Carlton County fire",
+  "text": "Barn, 20 chickens lost in Carlton County fire\nAuthorities responded to a 911 call of black smoke coming from a barn on Krogh road in Red Clover Township, about 25 minutes west of Cloquet around noon on March 5.\nOn scene, responders from the Cromwell Wright Fire Department discovered the barn fully engulfed in flames. They then requested assistance from multiple other fire departments.\nFirefighters were on scene for around two hours, but the barn is considered to be a total loss. Twenty chickens were inside the fire, and Sheriff’s office reports that all died in the fire. No other injuries were reported. The likely cause of the fire is said to be a space heater inside the barn.\nThe fire was investigated by the Carlton County Sheriff’s Office. Agencies assisting the Cromwell Wright FD include Carlton, Wrenshall, Esko, Mahtowa, and Kettle River Fire Departments. Lake Country Power and The Carlton County Highway Department were also involved in the response.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Environment",
+    "Human Interest"
+  ],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Environment->nature",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Red Clover Township",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Carlton County Highway Department",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Cromwell Wright Fire Department",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-06T00:48:00.652+02:00",
+  "updated": "2025-03-06T00:48:00.652+02:00"
+}

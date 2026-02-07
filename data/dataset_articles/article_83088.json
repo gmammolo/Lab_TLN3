@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "215397ca2b10dc90c2b8bda583046373313ebfb5",
+    "url": "https://www.tecmundo.com.br/software/403047-wan-21-alibaba-disponibiliza-modelo-de-ia-que-gera-videos-gratuitamente.htm",
+    "site_full": "www.tecmundo.com.br",
+    "site": "tecmundo.com.br",
+    "site_section": "https://www.tecmundo.com.br/blackfriday",
+    "site_categories": [
+      "television",
+      "entertainment"
+    ],
+    "section_title": "Notícias da Black Friday - TecMundo",
+    "site_title": null,
+    "title": "Wan 2.1: Alibaba disponibiliza modelo de IA que gera vídeos gratuitamente",
+    "title_full": "Wan 2.1: Alibaba disponibiliza modelo de IA que gera vídeos gratuitamente",
+    "published": "2025-02-27T21:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://tm.ibxk.com.br/2025/02/27/27163305237166.jpg?ims=1200xorig",
+    "performance_score": 0,
+    "domain_rank": 9995,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "215397ca2b10dc90c2b8bda583046373313ebfb5",
+  "url": "https://www.tecmundo.com.br/software/403047-wan-21-alibaba-disponibiliza-modelo-de-ia-que-gera-videos-gratuitamente.htm",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "André Luiz Dias Gonçalves",
+  "published": "2025-02-27T21:30:00.000+02:00",
+  "title": "Wan 2.1: Alibaba disponibiliza modelo de IA que gera vídeos gratuitamente",
+  "text": "O concorrido mercado de inteligência artificial generativa acaba de ganhar mais uma opção com a liberação do modelo de criação de fotos e vídeos Wan 2.1 do Alibaba para todos, como anunciou a gigante chinesa na quarta-feira (26). A ferramenta que gera imagens a partir de descrições textuais foi apresentada no mês passado.\nCom o lançamento, a corporação à qual pertence o AliExpress liberou gratuitamente quatro versões do seu modelo de IA de última geração, que possuem diferentes capacidades de criação de conteúdos visuais. São eles: T2V-1.3B, T2V-14B, I2V-14B-480P e I2V-14B-720P.\nEsses modelos estão disponíveis no serviço na nuvem Alibaba Cloud’s Model Scope e na plataforma de repositório de IA Hugging Face, em código aberto. Pesquisadores, acadêmicos e empresas de todo o mundo são o foco da oferta, podendo utilizar a tecnologia em suas próprias soluções.\nDe acordo com o grupo sediado na China, o Wan 2.1 é capaz de gerar vídeos mais realistas, com movimentos naturais que seguem as leis da física e uma maior qualidade nos pixels, se destacando também por executar as instruções do usuário com precisão. Além disso, ele pode criar conteúdos a partir de outras imagens estáticas.\nComo usar a IA geradora de vídeos do Alibaba?\nUsuários interessados em conferir o poder de criação da nova IA chinesa que gera vídeos podem testar a ferramenta na página do Wan 2.1 no repositório Hugging Face, sem a necessidade de baixar arquivos. No campo “Prompt”, você deve inserir as instruções, informando todos os detalhes que deseja para o conteúdo.\nEm seguida, selecione a resolução preferida, na opção “Resolution”, e clique em “Generate Video”. Agora, basta aguardar a criação do vídeo, que aparecerá à direita da tela, sendo necessário entrar em uma fila de espera para carregar o prompt, ou seja, a tarefa pode demorar algum tempo para ser concluída.\nAlém do gerador de vídeos por IA, o Alibaba deve lançar, em breve, um modelo de raciocínio igualmente de código aberto, denominado QwQ-Max, adicionando mais uma opção para os entusiastas da tecnologia.\nGostou do conteúdo? Compartilhe esta e outras notícias do TecMundo com os seus amigos nas redes sociais.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Lifestyle and Leisure->trend"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://huggingface.co/spaces/Wan-AI/Wan2.1",
+    "https://www.huggingface.co/spaces/Wan-AI/Wan2.1"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:47:38.865+02:00",
+  "updated": "2025-02-28T00:47:38.865+02:00"
+}

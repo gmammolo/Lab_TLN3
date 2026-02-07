@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "03193c5109d92831005fbcafa704c633a02249bc",
+    "url": "https://g1.globo.com/tecnologia/noticia/2024/11/15/pane-geral-em-tv-boxes-piratas-como-e-a-solucao-que-promete-combater-caixinhas-irregulares.ghtml",
+    "site_full": "g1.globo.com",
+    "site": "globo.com",
+    "site_section": "http://g1.globo.com/Rss2/0,,AS0-9658,00.xml",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "g1",
+    "title": "'Pane geral' em TV boxes piratas: como é a solução que promete combater caixinhas irregulares | Tecnologia | G1",
+    "title_full": "'Pane geral' em TV boxes piratas: como é a solução que promete combater caixinhas irregulares | Tecnologia | G1",
+    "published": "2024-11-15T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://s2-g1.glbimg.com/vQhvOa7sN_pCAaQ-qbfeNoeQZg0=/1280x0/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+    "performance_score": 0,
+    "domain_rank": 724,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "03193c5109d92831005fbcafa704c633a02249bc",
+  "url": "https://g1.globo.com/tecnologia/noticia/2024/11/15/pane-geral-em-tv-boxes-piratas-como-e-a-solucao-que-promete-combater-caixinhas-irregulares.ghtml",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "globo.com",
+  "published": "2024-11-15T07:00:00.000+02:00",
+  "title": "'Pane geral' em TV boxes piratas: como é a solução que promete combater caixinhas irregulares | Tecnologia | G1",
+  "text": "1 de 1 TV boxes apreendidas em outubro de 2020, em operação conjunta de Polícia Civil, Polícia Federal e Receita Federal — Foto: Divulgação TV boxes apreendidas em outubro de 2020, em operação conjunta de Polícia Civil, Polícia Federal e Receita Federal — Foto: Divulgação\nAs TV boxes irregulares, que prometem acesso indevido a canais e serviços de streaming, podem ter uma \"pane geral\". É o que propõe um dos vencedores do concurso criado para receber soluções para combater essas caixinhas, também conhecidas como IPTVs piratas.\nNo fim de setembro, o desenvolvedor de sistemas Daniel Lima e outros cinco colegas que trabalham na área da tecnologia da informação ganharam o concurso Hackathon TV Box , organizado pela Agência Nacional de Telecomunicações ( Anatel ).\nO grupo apresentou uma proposta que inutiliza as caixinhas por meio de uma atualização forçada . A Anatel disse que está conversando com os participantes do concurso, mas não confirmou se vai implementar as ideias.\nHoje, a agência costuma pedir para as operadoras bloquearem servidores usados pelas caixinhas irregulares. Mas é como enxugar gelo: os endereços dos servidores na internet são atualizados, o que faz as caixinhas voltarem a funcionar.\nPor isso, a ideia do grupo de Daniel foi ir além do que a Anatel já faz para limitar o uso de aparelhos sem autorização .\n👉 FUNCIONA ASSIM: a pedido da Anatel, a operadora que receber a tentativa de uma TV box de abrir um servidor pirata pode direcionar o acesso para outro endereço, em que há um arquivo de atualização que é baixado automaticamente e pode impedir o funcionamento da caixinha.\n\"Conseguimos adicionar um código que a inutiliza totalmente\", disse Daniel. \"Nossa solução utiliza recursos avançados de rede para possibilitar que o software da caixinha seja alterado, e o usuário seja impossibilitado de acessar conteúdo protegido\".\nO método é possível porque são as operadoras (ou ISPs, sigla em inglês para \"provedor de serviços de internet\") que administram a comunicação de rede.\n\"Como a Anatel controla os ISPs, ela consegue obrigá-los a implementar os recursos avançados de rede que tornam possível à caixinha receber um pacote alterado\", explicou Daniel.\n\"No momento em que a Anatel implementar a solução, vai ser uma pane geral na maioria das caixinhas irregulares que estão em uso\", disse Daniel.\nPara evitar a inutilização de TV boxes regulares, é necessário definir padrões que afetem somente as caixinhas piratas , como as informações que o próprio aparelho envia sobre si na comunicação com a internet e os endereços que ele busca acessar.\nO que falta para o plano sair do papel?\nO concurso teve a participação de profissionais e estudantes de áreas como cibersegurança, rede e desenvolvimento. Além do grupo de Daniel, outras duas equipes foram premiadas pela Anatel.\nAgora, com as propostas apresentadas, fica a cargo da própria Anatel implementar as soluções (ou parte delas). Isso porque trata-se de uma solução de larga escala, que exige a participação de órgãos públicos, disse Daniel.\n\"Para o combate à pirataria, é necessária uma parceria entre todos. É um assunto extremamente complexo, que gera bastante prejuízo financeiro para provedores de internet e provedores de conteúdo\".\nA Anatel informou ao g1 que \"tem considerado todos os conceitos e ideais que foram apresentados como melhoria nos processos internos e externos\" e que tem feito reuniões com os participantes do hackathon para adaptar as propostas às metodologias já usadas pela agência (veja a nota abaixo) .\nO g1 questionou se as soluções vencedoras serão implementadas e quando isso aconteceria, mas não houve resposta da agência.\nSomente em 2023, a Anatel ordenou a derrubada de cerca de 3.900 servidores usados por TV boxes irregulares. Mas a mudança constante dos endereços desses servidores faz o trabalho se tornar permanente para a agência.\nUm dos alvos da Anatel são os aplicativos usados em transmissões piratas de futebol . Em uma das operações, o órgão bloqueou serviços ilegais durante a última rodada de Brasileirão de 2023.\nQuais são os riscos das caixinhas irregulares?\nAlém de distribuírem conteúdo pirata, as caixinhas irregulares podem trazer prejuízo para usuários. De acordo com a Anatel, os aparelhos não têm assistência técnica e não garantem segurança de dados, o que pode torná-los alvo de ciberataques.\nA agência analisou as caixinhas e identificou que algumas podem incluir arquivos maliciosos que assumem o controle do aparelho e capturam dados de usuários, como informações financeiras e arquivos armazenados em outros dispositivos na mesma rede.\nLeia a íntegra do comunicado da Anatel:\n\"A Anatel está realizando reuniões com os participantes do Hackathon além dos premiados, pois todas as equipes apresentaram soluções que foram vistas como oportunidade de melhoria no processo realizado pela Agência. O objetivo das discussões tem sido adaptar as soluções apresentadas as metodologias já utilizadas pela Agência.\nBoa parte das propostas estão alinhadas com o que a Anatel já realiza. Desta forma, a Agência tem considerado todos os conceitos e ideias que foram apresentados como melhoria nos processos internos e externos da Agência, que permitirão otimizar a segurança da infraestrutura de telecomunicações e dos usuários.\nO processo já está em andamento, pois é contínuo, com a Anatel trabalhando junto com os participantes.\"\nRelembre abaixo quando a Anatel começou a notificar prestadoras de telefonia para liberarem o acesso ao X:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://s2-g1.glbimg.com/u_ujBg8IkRxdQeq-8vzvZa4BnNQ=/0x0:1280x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+    "https://s2-g1.glbimg.com/fN_Nl3rY8yzp4vRLskNe5SRfAFQ=/0x0:1280x720/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+    "https://s2-g1.glbimg.com/B-cCn8pPCxx2lFVN5icjSQLVRQ8=/0x0:1280x720/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+    "https://s2-g1.glbimg.com/ih1KzlitETcOeZVe0Gv78pxhAME=/0x0:1280x720/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+    "https://www.s2-g1.glbimg.com/fN_Nl3rY8yzp4vRLskNe5SRfAFQ=/0x0:1280x720/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+    "https://www.s2-g1.glbimg.com/u_ujBg8IkRxdQeq-8vzvZa4BnNQ=/0x0:1280x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+    "https://www.s2-g1.glbimg.com/B-cCn8pPCxx2lFVN5icjSQLVRQ8=/0x0:1280x720/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+    "https://www.s2-g1.glbimg.com/ih1KzlitETcOeZVe0Gv78pxhAME=/0x0:1280x720/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T07:15:29.935+02:00",
+  "updated": "2024-11-22T16:24:37.905+02:00"
+}

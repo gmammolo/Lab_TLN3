@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "de3f1d0456635672100e1ebd7a5a5ac690f2989f",
+    "url": "https://readwrite.com/fbi-shuts-down-chinese-hackers-volt-botnet/",
+    "site_full": "readwrite.com",
+    "site": "readwrite.com",
+    "site_section": "https://www.iotgadgets.com/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "ReadWrite",
+    "title": "FBI shuts down Chinese hacker group Volt Typhoon's Botnet",
+    "title_full": "FBI shuts down Chinese hacker group Volt Typhoon's Botnet - ReadWrite",
+    "published": "2024-02-01T23:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://readwrite.com/wp-content/uploads/2024/02/david-trinks-Vvh_9ooeEZ0-unsplash-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 2512,
+    "domain_rank_updated": "2024-01-30T12:05:46.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "de3f1d0456635672100e1ebd7a5a5ac690f2989f",
+  "url": "https://readwrite.com/fbi-shuts-down-chinese-hackers-volt-botnet/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Brian-Damien Morgan",
+  "published": "2024-02-01T23:34:00.000+02:00",
+  "title": "FBI shuts down Chinese hacker group Volt Typhoon's Botnet",
+  "text": "The FBI has suppressed an attack by Chinese hackers Volt Typhoon group. The concentrated attack focused on routers in an attempt to cripple Cisco and Netgear devices in small businesses and homes. The court-authorized operation prevented reinfection of the routers and removed the malware that was deployed by the hackers. ”The United States will continue to dismantle malicious cyber operations – including those sponsored by foreign governments – that undermine the security of the American people,” said Attorney General Merrick B. Garland in a [statement](https://www.justice.gov/usao-sdtx/pr/us-government-disrupts-botnet-peoples-republic-china-used-conceal-hacking-critical). FBI’s Houston Field Office and Cyber Division, the U.S. Attorney’s Office for the Southern District of Texas and the National Security Cyber Section of the Justice Department’s National Security Division were responsible for the successful co-ordination and delivery of the operation. FBI Director Christopher Wray said “Volt Typhoon malware enabled China to hide as they targeted our communications, energy, transportation, and water sectors. Their pre-positioning constitutes a potential real-world threat to our physical safety that the FBI is not going to tolerate.” ”We are going to continue to work with our partners to hit the PRC hard and early whenever we see them threaten Americans.” he concluded. Disrupting the botnet The Hackers targeted a vulnerability in old routers that were near the “end of their life” according to the U.S. Department of Justice. The malware, known as “KV Botnet” had its ties severed by the co-ordinated response from the FBI. Deputy Attorney General Lisa O. Monaco said that “in wiping out the KV Botnet from hundreds of routers nationwide, the Department of Justice is using all its tools to disrupt national security threats – in real-time.” The operation did not alter or compromise the devices, nor was any data collected by the response to the Chinese hacker group. The FBI has contacted the service providers of the Cisco and Netgear devices to inform them of the suppressed corruption of the devices. In other cybersecurity infrastructure news earlier this month, the [Biden Administration announced](https://readwrite.com/biden-administration-to-introduce-cybersecurity-requirements-for-hospitals/) more robust measures for U.S. hospitals. The new requirements are set to fortify digital defenses in healthcare facilities. The current administration has been dedicated to finding solutions to cybercrime and building bulwarks against invasive online criminals. Last year the White House laid [the foundations](https://readwrite.com/the-biden-administration-is-taking-steps-to-protect-your-smart-devices-from-hackers/) of a national cybersecurity certification and labeling program. Featured image: FBI",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "War, Conflict and Unrest",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [
+    "https://www.justice.gov/usao-sdtx/pr/us-government-disrupts-botnet-peoples-republic-china-used-conceal-hacking-critical).",
+    "https://justice.gov/usao-sdtx/pr/us-government-disrupts-botnet-peoples-republic-china-used-conceal-hacking-critical)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "christopher wray",
+        "sentiment": "none"
+      },
+      {
+        "name": "merrick b. garland",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "volt typhoon",
+        "sentiment": "negative"
+      },
+      {
+        "name": "fbi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cisco",
+        "sentiment": "none"
+      },
+      {
+        "name": "netgear",
+        "sentiment": "none"
+      },
+      {
+        "name": "houston field office and cyber division",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s. attorney’s office for the southern district of texas",
+        "sentiment": "none"
+      },
+      {
+        "name": "national security cyber section of the justice department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "united states",
+        "sentiment": "none"
+      },
+      {
+        "name": "china",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-02-02T00:02:04.755+02:00",
+  "updated": "2024-02-02T00:02:04.755+02:00"
+}

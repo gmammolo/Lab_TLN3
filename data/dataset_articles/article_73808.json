@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "ee370104f5346df7906d87db048de255976ee678",
+    "url": "https://nybreaking.com/this-cunning-new-malware-goes-after-macos-users-with-a-slew-of-tricks",
+    "site_full": "nybreaking.com",
+    "site": "nybreaking.com",
+    "site_section": "https://www.nybreaking.com",
+    "site_categories": [],
+    "section_title": "NY Breaking News - The New York Breaking News",
+    "title": "This cunning new malware goes after macOS users with a slew of tricks",
+    "title_full": "This cunning new malware goes after macOS users with a slew of tricks",
+    "published": "2024-11-14T22:02:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 154198,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ee370104f5346df7906d87db048de255976ee678",
+  "url": "https://nybreaking.com/this-cunning-new-malware-goes-after-macos-users-with-a-slew-of-tricks",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "James",
+  "published": "2024-11-14T22:02:00.000+02:00",
+  "title": "This cunning new malware goes after macOS users with a slew of tricks",
+  "text": "Security researchers from Group-IB discover a unique new piece of malware It exploits extended attributes for macOS files to implement the payload The malware was most likely built by North Korean state-sponsored actors Cybersecurity researchers have encountered yet another malware variant for macOS that was likely built by North Korea’s infamous Lazarus group.\nGroup-IB’s report concerns the discovery of RustyAttr, a brand new piece of macOS malware built using the Tauri framework. T\nThe malware was not flagged on VirusTotal and was at some point signed with a legitimate Apple developer ID. The ID has now been withdrawn.\nExtensive attributes Days before, Jamf researchers found something similar: a seemingly benign app on VirusTotal, built with Flutter, that served as a backdoor for macOS victims.\nIn both cases, the malware used new obfuscation methods but was not yet fully operational, leading researchers to believe they were just experiments while crooks looked for new ways to hide the infection.\nRustyAttr was found to be abusing extended attributes for macOS, the researchers claim.\nExtended attributes (xattrs) are a feature that allows files and folders to store additional metadata beyond standard attributes such as name, size, and permissions. They are used for a variety of things, from storing security-related information to tagging files with specific metadata and enabling compatibility with other file systems. In this case, the EA name was “test” and contained a shell script.\nSign up for the Ny Breaking newsletter and get all the best news, opinions, features and guidance your business needs to succeed!\nWhen the malware runs, it loads a website with a piece of JavaScript. This JavaScript, called preload.js, pulls content from “test”, which appears to be a location. This location is then sent to the ‘run_command’ function, where the shell script executes it.\nWhile the process is in progress, the victim is tricked with a decoy PDF file or a fake error message that appears in the foreground.\nRustyAttr was most likely built by Lazarus, the researchers said, although since no casualties have been reported, they cannot be absolutely certain. However, they believe the malware is built to test new delivery and obfuscation methods on macOS devices.\nVia BleepingComputer\nYou might also like it",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/",
+    "https://bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/",
+    "https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T05:12:31.572+02:00",
+  "updated": "2024-11-15T05:12:31.572+02:00"
+}

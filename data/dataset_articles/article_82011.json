@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "cfa3a07e8cc567e238fc21644dfe98b9a15a6e97",
+    "url": "https://www.digitaltrends.com/computing/new-windows-feature-turns-smartphones-into-webcams",
+    "site_full": "www.digitaltrends.com",
+    "site": "digitaltrends.com",
+    "site_section": "https://www.digitaltrends.com/",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Digital Trends | Tech Product Reviews, How To, Best Ofs, deals and Advice",
+    "title": "Windows 11 to let you use your phone as a webcam | Digital Trends",
+    "title_full": "Windows 11 to let you use your phone as a webcam | Digital Trends",
+    "published": "2024-10-17T21:21:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.digitaltrends.com/wp-content/uploads/2023/09/8A300E3A-BE2D-4A25-9490-38962C20FCA4.jpeg?resize=1200%2C630&amp;p=1",
+    "performance_score": 0,
+    "domain_rank": 733,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cfa3a07e8cc567e238fc21644dfe98b9a15a6e97",
+  "url": "https://www.digitaltrends.com/computing/new-windows-feature-turns-smartphones-into-webcams",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Willow Roberts",
+  "published": "2024-10-17T21:21:00.000+03:00",
+  "title": "Windows 11 to let you use your phone as a webcam | Digital Trends",
+  "text": "The Windows 11 update 24H2 includes a new feature called Connected Camera that lets you turn your smartphone into a webcam. The folks at PCWorld have tested the feature out, and it looks pretty easy to use, though you do need to have an Android phone to use it.\nUsing your phone as a webcam — either for your desktop or your laptop — isn’t new, but native support for it has been patchy. At first, people had to use third-party apps to do the job. Then Apple users got Continuity Camera , and a few years later Android 14 users got a similar feature, too.\nRecommended Videos Now Windows has joined the club (late as always), giving us even more ways to ditch the grainy old laptop webcam for the fancy cameras we carry in our pockets. To try the feature out, you need a PC with Bluetooth running Windows 11 24H2 and a phone running Android 8.0 or later.\nStart by connecting your phone to the PC either using Phone Link or the Manage mobile devices controls. Both devices will need to be on the same Wi-Fi network, and you’ll need to agree to certain permissions, so your PC has access to your phone camera.\nOnce your phone appears under the My devices menu on the Manage mobile devices page, you’ll see a toggle option called Use as a connected camera . Toggle it on and your phone should appear as a webcam device in any video call app like Zoom, Google Meet, and Microsoft Teams.\nYou can use either your front-facing or rear camera to capture the footage, and the camera feed will automatically switch between vertical and landscape mode depending on how you hold your phone. If your PC supports Windows Studio Effects, they’ll still work even when you’re using your phone camera.\nAs expected for a new Windows feature, however, not everything works quite as it should. PCWorld noted that using the feature on a laptop resulted in a 720p resolution feed, even though the native webcam captured at 1080p. I’m sure Microsoft has added it to the list of Windows 11 24H2 issues it needs to fix.\nEditors’ Recommendations Another annoying bug is spoiling the fun in Windows 11 24H2 Microsoft is forced to halt the Windows 11 24H2 update on some PCs Windows 11 24H2 may crash your PC if you have a certain SSD Passkeys in Windows 11 are about to get safer and easier to use Windows 11 can now use AI to respond to your text messages",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://stacksocial.com/sales/microsoft-office-professional-plus-2019-for-windows-3?aid=a-74m2oayh&utm_source=digitaltrends.com&utm_medium=referral&utm_campaign=microsoft-office-professional-plus-2019-for-windows-3_050224&utm_term=scsf-596109&utm_content=a0xRn0000014vFVIAY&scsonar=1",
+    "https://capi.connatix.com/tr/si?token=65fece0c-941b-4d77-b455-b6d23b01b35b&cid=2a2352ef-fe98-483c-8897-aef587823f13",
+    "https://www.pcworld.com/article/2476605/use-your-phone-as-your-webcam-in-this-killer-new-windows-feature.html",
+    "https://www.capi.connatix.com/tr/si?token=65fece0c-941b-4d77-b455-b6d23b01b35b&cid=2a2352ef-fe98-483c-8897-aef587823f13",
+    "https://www.stacksocial.com/sales/microsoft-office-professional-plus-2019-for-windows-3?aid=a-74m2oayh&utm_source=digitaltrends.com&utm_medium=referral&utm_campaign=microsoft-office-professional-plus-2019-for-windows-3_050224&utm_term=scsf-596109&utm_content=a0xRn0000014vFVIAY&scsonar=1",
+    "https://pcworld.com/article/2476605/use-your-phone-as-your-webcam-in-this-killer-new-windows-feature.html",
+    "https://capi.connatix.com/tr/si",
+    "https://stacksocial.com/sales/microsoft-office-professional-plus-2019-for-windows-3"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "cfa3a07e8cc567e238fc21644dfe98b9a15a6e97",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:03:31.100+03:00",
+  "updated": "2024-11-12T16:57:11.042+02:00"
+}

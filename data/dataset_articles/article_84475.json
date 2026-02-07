@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "a104662b735c090906d3b8e9aa18a8de8b9ebba1",
+    "url": "https://www.thestar.com.my/tech/tech-news/2025/04/03/onlyfans-founder-crypto-foundation-submit-late-stage-bid-to-buy-tiktok",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/news/latest",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Latest - News | The Star",
+    "site_title": "The Star | Malaysia News: National, Regional and World News",
+    "title": "OnlyFans founder, crypto foundation submit late-stage bid to buy TikTok | The Star",
+    "title_full": "OnlyFans founder, crypto foundation submit late-stage bid to buy TikTok | The Star",
+    "published": "2025-04-03T02:35:03.633+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2025/04/03/3245981.jpg",
+    "performance_score": 0,
+    "domain_rank": 2069,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a104662b735c090906d3b8e9aa18a8de8b9ebba1",
+  "url": "https://www.thestar.com.my/tech/tech-news/2025/04/03/onlyfans-founder-crypto-foundation-submit-late-stage-bid-to-buy-tiktok",
+  "ord_in_thread": 0,
+  "author": "Anna Tong",
+  "published": "2025-04-03T02:35:03.633+03:00",
+  "title": "OnlyFans founder, crypto foundation submit late-stage bid to buy TikTok | The Star",
+  "text": "A startup run by Tim Stokely, founder of adult content social media site OnlyFans, has partnered with a cryptocurrency foundation to submit a late-stage plan to acquire short video app TikTok from Chinese owner ByteDance, the two said on Wednesday.\nThe intent to bid was sent this week to the White House by Zoop, billionaire Stokely's new company, and the Hbar Foundation, which manages the Hedera cryptocurrency network's treasury.\nWhile OnlyFans is known mainly for pornography, Zoop is mainstream and family-friendly, and gives back the majority of its revenue to those who post on the site, rewarding them for driving up user engagement.\n\"Our bid for TikTok isn't just about changing ownership, it's about creating a new paradigm where both creators and their communities benefit directly from the value they generate,\" Zoop co-founder RJ Phillips told Reuters.\nThe partners have been working with a consortium of investors, Phillips said. He declined to provide details on the bid or the investors backing it.\nOn Wednesday, Amazon also put in a last-minute offer to buy TikTok, the New York Times reported.\nU.S. President Donald Trump is expected on Wednesday to consider a proposal for TikTok to decide the fate of the app used by 170 million Americans. ByteDance faces an April 5 deadline to either sell TikTok or face a U.S. ban on national security grounds under a U.S. law that took effect on January 19.\nThe law, passed last year with broad bipartisan support, reflects concern in Washington that TikTok's ownership makes it beholden to the Chinese government and that Beijing could use the app to conduct influence operations against the United States.\nTikTok advocates argue that the ban unlawfully threatens to restrict Americans from accessing foreign media in violation of the First Amendment of the U.S. Constitution, which guarantees freedom of speech.\nTrump postponed enforcement of the law until April 5 after taking office in January to give himself time to shepherd a deal. He has said he could extend the deadline further if needed.\nThe talks on TikTok have coalesced around a planfor the biggest non-Chinese investors in ByteDance to raise their stakes and acquire the app's U.S. operations, Reuters has reported.\nTrump said last month his administration was in touch withfour different groupsabout a prospective TikTok deal, without identifying them.\nIn the closely watched sale of TikTok, the White House is playing the role of an investment bank, with U.S. Vice President JD Vance running the auction.\n(Reporting from Anna Tong in San Francisco; Editing by Kenneth Li and Richard Chang)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->mergers and acquisitions",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:35:03.633+03:00",
+  "updated": "2025-04-03T02:35:03.633+03:00"
+}

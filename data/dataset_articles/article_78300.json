@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "aede29f763231a599ec918e48596d4d646180cfc",
+    "url": "https://habr.com/ru/news/939254/",
+    "site_full": "habr.com",
+    "site": "habr.com",
+    "site_section": "https://habr.com/ru/news",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "IT-новости: главные новости технологий &#x2F; Хабр",
+    "site_title": "Publications &#x2F; My feed &#x2F; Habr",
+    "title": "Чаты пользователей с Grok утекли в сеть - речь идет о 370 тысячах диалогов",
+    "title_full": "Чаты пользователей с Grok утекли в сеть - речь идет о 370 тысячах диалогов",
+    "published": "2025-08-21T10:47:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://habrastorage.org/getpro/habr/upload_files/903/f6e/2b4/903f6e2b4816110913fc02c7dc5b6656.jpg",
+    "performance_score": 0,
+    "domain_rank": 1737,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aede29f763231a599ec918e48596d4d646180cfc",
+  "url": "https://habr.com/ru/news/939254/",
+  "ord_in_thread": 0,
+  "author": "Андрей Пешков",
+  "published": "2025-08-21T10:47:00.000+03:00",
+  "title": "Чаты пользователей с Grok утекли в сеть - речь идет о 370 тысячах диалогов",
+  "text": "Forbes пишет, что переписки с чат-ботом Grok, которыми пользователи делились друг с другом, попали в индекс поисковых систем. Например, в Google можно найти более 370 тысяч диалогов на разные темы: от простых задач написания твитов до попыток взлома криптокошелька. Журналисты Frobes сообщают, что в некоторых переписках можно найти персональную информацию: имена и фамилии, а в одном изученном случае — даже пароль от аккаунта. Также доступны файлы, которые пользователь загружал в ходе диалога — фото, документы и таблицы.\nДоступны только беседы, которыми пользователи делились друг с другом, сгенерировав ссылку с помощью функции \"поделиться\". Ранее похожий случай произошел с пользователями ChatGPT, однако там нужно было включать специальную опцию, разрешавшую поисковым системам проиндексировать чат — и даже при таком подходе некоторые пользователи не обращали внимание на то, что их данные попадут в сеть. В случае Grok подобной функции нет — похоже, автоматически индексируются все чаты, которыми пользователи делятся друг с другом.\nНапомню, что OpenAI в итоге отключили функцию индексирования чатов даже с согласия пользователей, признав эксперимент неудачным. В компании xAI пока никак не комментировали ситуацию и то, планируют ли они предпринимать какие-то действия.\nВ Forbes отмечают, что некоторые из изученных ими переписок нарушают правила использования Grok. Например, чат-бот использовался для написания вредоносного программного обеспечения, а в одном из диалогов даже подготовил детальный план покушения на Илона Маска, которому принадлежит компания-разработчик Grok.\nP.S. Поддержать меня можно подпиской на канал \"сбежавшая нейросеть\", где я рассказываю про ИИ с творческой стороны.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences",
+    "Social Issue->discrimination",
+    "Social Issue->social networking",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://t.me/ai_exee",
+    "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+    "https://forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+    "https://www.t.me/ai_exee",
+    "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:06:25.142+03:00",
+  "updated": "2025-08-21T12:12:38.000+03:00"
+}

@@ -1,0 +1,121 @@
+{
+  "thread": {
+    "uuid": "81a0894c879534f38936e45ad25d9ea5e2f76fa6",
+    "url": "https://siliconangle.com/2025/02/27/ibm-completes-6-4b-hashicorp-acquisition-following-regulatory-approvals",
+    "site_full": "siliconangle.com",
+    "site": "siliconangle.com",
+    "site_section": "https://www.siliconangle.com",
+    "site_categories": [
+      "search_engine",
+      "tech"
+    ],
+    "section_title": "SiliconANGLE",
+    "site_title": null,
+    "title": "IBM completes $6.4B HashiCorp acquisition following regulatory approvals - SiliconANGLE",
+    "title_full": "IBM completes $6.4B HashiCorp acquisition following regulatory approvals - SiliconANGLE",
+    "published": "2025-02-27T22:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/02/IBM.png",
+    "performance_score": 0,
+    "domain_rank": 6181,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "81a0894c879534f38936e45ad25d9ea5e2f76fa6",
+  "url": "https://siliconangle.com/2025/02/27/ibm-completes-6-4b-hashicorp-acquisition-following-regulatory-approvals",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Maria Deutscher",
+  "published": "2025-02-27T22:22:00.000+02:00",
+  "title": "IBM completes $6.4B HashiCorp acquisition following regulatory approvals - SiliconANGLE",
+  "text": "IBM Corp. today closed its acquisition of infrastructure automation provider HashiCorp Inc. for $6.4 billion.\nThe companies originally expected to finalize the deal by the end of 2024. The delay likely relates to the scrutiny that the transaction drew from antitrust regulators. Last year, both the U.S. Federal Trade Commission and the U.K.’s Competition and Markets Authority launched reviews into the acquisition.\nThe CMA gave IBM the go-ahead to buy HashiCorp on Tuesday. According to TechCrunch , the FTC had quietly signed off on the transaction shortly before the CMA.\nHashiCorp provides free software tools for managing information technology infrastructure. Companies use the tools to provision cloud instances, secure network connections and perform related tasks. The software suite is used by hundreds of thousands of organizations, more than 5,000 of which pay for commercial editions that offer more features.\nIn a blog post , HashiCorp Chief Technology Officer Armon Dadgar said the company sees opportunities to more closely integrate its tools with IBM’s product portfolio.\nThe effort will place particular emphasis on Terraform and Ansible. Those are two automation tools developed by HashiCorp and IBM, respectively, that reduce the amount of work involved in configuring IT infrastructure. Terraform is particularly well-suited for provisioning cloud resources and other hardware resources, while Ansible can be used to set up the software that runs atop those resources.\n“Integrating Terraform for provisioning with Ansible for configuration management will enable an end-to-end approach to infrastructure automation as code,” Dadgar wrote.\nAnother focus of the product integration effort is HashiCorp’s Vault tool. It provides an encrypted environment for storing secrets, pieces of data such as passwords that play an important role in companies’ cybersecurity efforts. The software can regularly rotate, or replace, secrets to lower the risk of cyberattacks.\nHashiCorp sees opportunities to integrate Vault with Ansible as well as two other IBM products: OpenShift and Guardium. The former offering is a Kubernetes distribution for powering container applications, while the latter tool helps companies secure their business data.\nHashiCorp is also planning an integration between Terraform and Cloudability. The latter tool, which IBM obtained through an earlier acquisition , helps companies track their cloud spending. The technical data that Terraform holds about the cloud environments could make it easier for users to identify cost-cutting opportunities.\nIBM and HashiCorp have already started the process of integrating their products. On Wednesday, HashiCorp certified its HCP Terraform Operator for Kubernetes to run on OpenShift. HCP Terraform Operator allows developers to manage Terraform through Kubernetes’ application programming interface.\n“By joining forces, we gain access to their global scale and increased R&D resources,” Dadgar wrote in today’s blog post. “This allows us to reach more customers and continue to invest in solving infrastructure and security challenges.”\nWhen IBM first announced plans to buy HashiCorp last April, it said the acquisition would become accretive to its adjusted earnings before interest, taxes, depreciation and amortization within a year of closing. The company expects the deal to boost its free cash flow from the second year onward. HashiCorp generated an adjusted operating income of $11 million last quarter on $173.4 million in revenue.\nImage: HashiCorp",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->mergers and acquisitions",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.hashicorp.com/en/blog/hcp-terraform-operator-is-now-certified-on-red-hat-openshift",
+    "https://ir.hashicorp.com/news-releases/news-release-details/hashicorp-announces-third-quarter-fiscal-year-2025-financial",
+    "https://techcrunch.com/2025/02/27/ibm-closes-6-4b-hashicorp-acquisition/",
+    "https://www.hashicorp.com/en/blog/hashicorp-officially-joins-the-ibm-family",
+    "https://www.ir.hashicorp.com/news-releases/news-release-details/hashicorp-announces-third-quarter-fiscal-year-2025-financial",
+    "https://hashicorp.com/en/blog/hashicorp-officially-joins-the-ibm-family",
+    "https://techcrunch.com/2025/02/27/ibm-closes-6-4b-hashicorp-acquisition",
+    "https://hashicorp.com/en/blog/hcp-terraform-operator-is-now-certified-on-red-hat-openshift",
+    "https://www.techcrunch.com/2025/02/27/ibm-closes-6-4b-hashicorp-acquisition/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Armon Dadgar",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "IBM Corp.",
+        "sentiment": "negative"
+      },
+      {
+        "name": "HashiCorp Inc.",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Markets Authority",
+        "sentiment": "none"
+      },
+      {
+        "name": "FTC",
+        "sentiment": "none"
+      },
+      {
+        "name": "CMA",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "U.K.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:19:09.897+02:00",
+  "updated": "2025-02-28T00:19:09.897+02:00"
+}

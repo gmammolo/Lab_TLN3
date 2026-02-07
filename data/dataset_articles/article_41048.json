@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "765d1b03991be9ef86af99e568125cd688519917",
+    "url": "https://www.researchsquare.com/article/rs-4025416/v1",
+    "site_full": "www.researchsquare.com",
+    "site": "researchsquare.com",
+    "site_section": "https://researchsquare.com/rss.xml",
+    "site_categories": [],
+    "section_title": "Preprints",
+    "title": "Non-destructive wood identification using X-ray µCT scanning: which resolution do we need?",
+    "title_full": "Non-destructive wood identification using X-ray µCT scanning: which resolution do we need?",
+    "published": "2024-03-14T22:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5831,
+    "domain_rank_updated": "2024-03-12T12:10:46.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "765d1b03991be9ef86af99e568125cd688519917",
+  "url": "https://www.researchsquare.com/article/rs-4025416/v1",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jan Van den Bulcke",
+  "published": "2024-03-14T22:06:00.000+02:00",
+  "title": "Non-destructive wood identification using X-ray µCT scanning: which resolution do we need?",
+  "text": "Background\nTaxonomic identification of wood specimens provides vital information for a wide variety of academic (e.g. paleoecology, cultural heritage studies) and commercial (e.g. wood trade) purposes. It is generally accomplished through the observation of key anatomical features. Classic methodologies mostly require destructive sub-sampling, which is not always acceptable. X-ray computed micro-tomography (µCT) is a promising non-destructive alternative since it allows a detailed non-invasive visualization of the internal wood structure. There is, however, no standardized approach that determines the required resolution for proper wood identification using X-ray µCT. Here we compared X-ray µCT scans of 17 African wood species at four resolutions (1µm, 3µm, 8µm and 15µm). The species were selected from the Xylarium of the Royal Museum for Central Africa, Belgium, and represent a wide variety of wood-anatomical features.\nResults\nFor each resolution, we determined which standardized anatomical features can be distinguished or measured, using the anatomical descriptions and microscopic photographs on the Inside Wood Online Database as a reference. We show that small-scale features (e.g. pits and fibres) can be best distinguished at high resolution (especially 1µm voxel size). In contrast, large-scale features (e.g. vessel porosity or arrangement) can be best observed at low resolution due to a larger field of view. Intermediate resolutions are optimal (especially 3 µm voxel size), allowing recognition of most small- and large-scale features. While the potential for wood identification is thus highest at 3µm, the scans at 1µm and 8µm were successful in more than half of the studied cases, and even the 15µm resolution showed a high potential for 40% of the samples.\nConclusions\nThe results show the potential of X-ray µCT for non-destructive wood identification. Each of the four studied resolutions proved to contain information on the anatomical features and has the potential to lead to an identification. The dataset of 17 scanned species is made available online and serves as the first step towards a reference database of scanned wood species, facilitating and encouraging more systematic use of X-ray µCT for the identification of wood species.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "belgium",
+        "sentiment": "none"
+      },
+      {
+        "name": "royal museum",
+        "sentiment": "none"
+      },
+      {
+        "name": "central africa",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-03-15T00:07:31.157+02:00",
+  "updated": "2024-03-15T00:07:31.157+02:00"
+}

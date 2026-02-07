@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "2fa59bedc21d4d8bd23fce86a946a770c68bfc46",
+    "url": "https://www.heise.de/en/news/From-China-Cyber-attack-on-US-provider-worst-in-US-history-10097698.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/en",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "heise online – IT news, guides and background information | heise online",
+    "title": "From China: Cyber attack on US provider \"worst in US history\" | heise online",
+    "title_full": "From China: Cyber attack on US provider \"worst in US history\" | heise online",
+    "published": "2024-11-22T10:48:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/3/3/3/2/4/shutterstock_1609031137-95299b701382128e.jpg",
+    "performance_score": 0,
+    "domain_rank": 922,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2fa59bedc21d4d8bd23fce86a946a770c68bfc46",
+  "url": "https://www.heise.de/en/news/From-China-Cyber-attack-on-US-provider-worst-in-US-history-10097698.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Martin Holland",
+  "published": "2024-11-22T10:48:00.000+02:00",
+  "title": "From China: Cyber attack on US provider \"worst in US history\" | heise online",
+  "text": "The cyberattack from China on the networks of several major US network operators discovered more than a month ago is \"the largest telecommunications hack in US history – by far\". This is what Mark Warner (Democrat), the chairman of the Senate committee responsible for intelligence, has now told the Washington Post. The attack attributed to a group called \"Salt Typhoon\", \"GhostEmperor\" or \"FamousSparrow\" makes the cyberattacks on Colonial Pipeline or SolarWinds look like child's play in comparison, the US senator added. He also explained that the attackers were still in the system.\nAnzeige Expulsion not so easy The fact that attackers suspected of being in the service of the Chinese government succeeded in compromising the networks of AT&T, Verizon, T-Mobile and other providers became known at the beginning of October . The attack appears to be about information gathering, and even then it was clear that it could be a potentially catastrophic security breach. According to Warner , some of the intrusions took place more than a year ago. In order to kick the unknowns off the networks, \"literally thousands and thousands of devices would have to be replaced,\" especially outdated switches and routers, the senator added.\nAccording to the report, the unknown attackers were able to access and eavesdrop on phone calls in real time. They targeted the phones of the next US President Donald Trump and his Vice President J.D. Vance, among others, as well as those of employees of the current US Vice President Kamala Harris and the US State Department. However, there was probably no direct link to the US presidential election. So far, fewer than 150 people have been identified and informed as victims by the US Federal Bureau of Investigation, but they have contacted \"millions\" and the number could still \"increase dramatically\", says Warner.\nDuring their attack, they also managed to gain access to the systems used by US law enforcement agencies for surveillance, the newspaper writes. This would have allowed them to find out who the US authorities are interested in. So far, however, there is no evidence that they have gained access to the recorded phone calls themselves. They were only able to eavesdrop on other conversations. They were also able to access other, more general Internet data. According to an entry in the Fraunhofer FKIE Malpedia database, a rootkit for Windows kernels called Demodex was used for the attack.\n( mho )\nDon't miss any news – follow us on Facebook , LinkedIn or Mastodon .\nThis article was originally published in German . It was translated with technical assistance and editorially reviewed before publication.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/company/104691972",
+    "https://www.washingtonpost.com/national-security/2024/11/21/salt-typhoon-china-hack-telecom/",
+    "https://www.facebook.com/heiseonlineEnglish",
+    "https://washingtonpost.com/national-security/2024/11/21/salt-typhoon-china-hack-telecom/",
+    "https://www.washingtonpost.com/national-security/2024/11/21/salt-typhoon-china-hack-telecom",
+    "https://facebook.com/heiseonlineEnglish",
+    "https://linkedin.com/company/104691972"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mark Warner",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Washington Post",
+        "sentiment": "none"
+      },
+      {
+        "name": "Verizon",
+        "sentiment": "none"
+      },
+      {
+        "name": "Senate",
+        "sentiment": "none"
+      },
+      {
+        "name": "AT&T",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:08:50.725+02:00",
+  "updated": "2024-11-22T11:08:50.725+02:00"
+}

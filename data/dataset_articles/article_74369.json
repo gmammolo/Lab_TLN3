@@ -1,0 +1,135 @@
+{
+  "thread": {
+    "uuid": "41c565bcc4390a544b2daa88d4122c9c6defb46e",
+    "url": "https://www.forbes.com/councils/forbestechcouncil/2024/11/15/why-85-of-your-ai-models-may-fail",
+    "site_full": "www.forbes.com",
+    "site": "forbes.com",
+    "site_section": "http://www.forbes.com/europe_news/index.xml",
+    "site_categories": [
+      "media",
+      "top_news_id",
+      "top_news_gb",
+      "top_news_au",
+      "top_news_dk",
+      "top_news_ma",
+      "top_news_pk",
+      "top_news_ie",
+      "top_news_ph",
+      "top_news_fi",
+      "top_news_nz",
+      "top_news_th",
+      "top_news_hk",
+      "top_news_il",
+      "top_news_ca",
+      "top_news_pt",
+      "top_news_kw",
+      "top_news_be",
+      "top_news_qa",
+      "top_news_nl",
+      "top_news_sk",
+      "top_news_ae",
+      "top_news_ch",
+      "top_news_cz",
+      "top_news_my",
+      "top_news_se",
+      "top_news_eg",
+      "top_news_iq",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_us",
+      "top_news_rs",
+      "top_news_in"
+    ],
+    "section_title": "Latest from Forbes",
+    "title": "Why 85% Of Your AI Models May Fail",
+    "title_full": "Why 85% Of Your AI Models May Fail",
+    "published": "2024-11-15T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://imageio.forbes.com/specials-images/imageserve/5f9346f88af9aa080790d708/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "performance_score": 0,
+    "domain_rank": 67,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "41c565bcc4390a544b2daa88d4122c9c6defb46e",
+  "url": "https://www.forbes.com/councils/forbestechcouncil/2024/11/15/why-85-of-your-ai-models-may-fail",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jameel Francis",
+  "published": "2024-11-15T02:00:00.000+02:00",
+  "title": "Why 85% Of Your AI Models May Fail",
+  "text": "Jameel Francis is the CEO of Kore Technologies , a data automation software firm that helps organizations drive growth and profitability.\nArtificial intelligence (AI) has captured the attention of the world. It promises to transform healthcare, spur economic growth and supercharge innovation. However, the full promise and capabilities of AI are in their infancy stage. Over time, AI could revolutionize all major industries and capital markets in a similar fashion to how the Industrial Revolution propelled urbanization, capitalism, innovation and corporate structures starting in the 1760s.\nFor supply chain organizations—particularly those in distribution, manufacturing, logistics and MRO industries—AI is expected to help expand the circular economy, enhance product delivery, improve profit margins and reduce market risks.\nYet as mighty as AI is predicted to become, achieving the expected benefits will be impossible without data quality. According to Gartner (via VentureBeat ), 85% of all AI models/projects fail because of poor data quality or little to no relevant data.\nAI Models Fail With Flawed Data Inputs Data quality refers to data conditions based on factors such as accuracy, consistency, completeness, timeliness, relevance, uniqueness and integrity.\nWhat Time Is Netflix’s Live Jake Paul Vs. Mike Tyson Fight On Friday? Trump’s Cabinet: Here Are His Picks For Key Roles—RFK Jr, Doug Burgum, Matt Gaetz And More NYT ‘Strands’ Today: Hints, Spangram And Answers For Friday, November 15th If data quality elements are not maintained when training AI models, organizations will not realize the full potential of AI. As Troy Demmer, co-founder of Gecko Robotics, explained in his testimony before the U.S. House of Representatives Committee on Homeland Security in 2024: \"AI applications are only as good as the data they are trained on. Trustworthy AI requires trustworthy data inputs.\" According to Demmer, even the most sophisticated AI models relying on flawed data will restrict America’s ability to adequately manage and sustain its critical infrastructure.\nPoor data quality not only negatively impacts national security but also organizations’ bottom line. For instance, according to a 2021 Gartner report , poor data quality costs organizations an average of $12.9 million per year. Specifically for supply chain organizations, increased operational costs tied to flawed data can be reflected in excess inventory, delivery delays, stockouts or added fuel costs.\nSome common AI model failures involving inadequate data include:\n• Overfitting: When AI models follow too closely to the algorithm and do not account for untrained data.\n• Edge-case neglection: A scenario that occurs infrequently and is neglected by AI models, leading to inferior performance and critical mistakes.\n• Correlation dependency: When an AI model makes incorrect assumptions due to superficial correlation, leading to unreliable outcomes.\n• Data bias: When AI models are trained on incomplete data and produce results that put a certain group at a disadvantage.\n• Underfitting: When AI algorithms are not robust enough to effectively get trained on the provided data.\n• Data drift: An AI model’s inability to adjust to changes in data over time.\nBuilding A Robust Foundation For AI Models Data Integration The proliferation of digital transformation has brought previously unconnected systems online, dramatically increasing global data production. For instance, according to Statista , worldwide data creation is projected to grow to more than 180 zettabytes by the end of 2025. With so much data available, possessing quality data starts with having a complete picture of the information generated by your organization.\nData growth in recent years is even more profound for supply chain organizations, which are typically slower to adopt modern technologies. Connecting supply chain operators’ disparate data sources, such as ERP, TMS and WMS databases, is made possible by data integration methods. Data integration aggregates various information sources, systems and formats before cleaning and transforming the data into a unified view.\nThere are several methods of data integration including:\n• Middleware-based integration: Bridges real-time data from diverse technologies, databases and tools.\n• Extract, transform and load (ETL): Combines large volumes of data from various data sources, in near real time, and stages the data into a single storage environment for analytics.\n• Extract, load and transform (ELT): Data is not transformed on entry to a storage environment but rather stored in its original format to enable faster loading times.\n• Point-to-point (P2P) integration: Leverages custom code to directly connect two disparate systems.\n• Cloud-based integration: Enables near real-time data exchange between cloud-based applications and on-premise systems or among multiple cloud-based applications.\nThe data integration method you select depends on factors such as your hosting environment, business and technical requirements, and budget. Nevertheless, the ability to integrate different data sources allows your organization to have the quality dataset required to develop and leverage AI models and tools.\nData Quality Management (DQM) In addition to leveraging a data integration method, your organization must take a comprehensive approach to ensure AI models use data of the highest quality. This is where data quality management (DQM) comes into play. According to the SAS Institute , DQM helps by aggregating organizational culture, policies, technology and data to produce results that are accurate and useful.\nThe first step in implementing DQM in your team is establishing data governance covering responsibilities, standards and roles. Your firm’s data governance should regard the type of data and regions where information is stored or processed. For example, U.S. health-related data should account for Health Insurance Portability and Accountability Act (HIPAA) guidelines, whereas organizations in Europe should consider General Data Protection Regulation (GDPR) rules.\nSecondly, your team must create a culture that prioritizes producing quality data. This starts with your organization’s leadership and extends to data analysts managing data systems. If quality data is not viewed as mission-critical in your organization, issues such as incomplete and outdated data will become the norm. Finally, your organization should adopt technology that assists with data cleansing, validation, quality monitoring and issue resolution.\nConclusion Having quality data is a requirement to develop accurate AI models and tools. As such, your organization must ensure that the data selected to train AI models is accurate, complete and up to date. There are two main ways to lay the foundation for ensuring high data quality: 1) implementing data integration methods, and 2) creating a holistic DQM program. Enabling and maintaining data quality may seem trivial when your organization wants to quickly go to market with AI; however, skipping over this step will be costly—85% of your AI models may fail.\nForbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sas.com/en_us/insights/articles/data-management/data-quality-management-what-you-need-to-know.html#/",
+    "https://www.koretech.com/",
+    "https://docs.house.gov/meetings/HM/HM00/20240522/117189/HHRG-118-HM00-Wstate-DemmerT-20240522.pdf",
+    "https://capi.elements.video/tr/si?token=",
+    "https://www.statista.com/statistics/871513/worldwide-data-created/",
+    "https://cds.elements.video/a/preload-resources-ovp.json",
+    "https://venturebeat.com/ai/why-most-ai-implementations-fail-and-what-enterprises-can-do-to-beat-the-odds/",
+    "https://www.gartner.com/smarterwithgartner/how-to-improve-your-data-quality",
+    "https://www.docs.house.gov/meetings/HM/HM00/20240522/117189/HHRG-118-HM00-Wstate-DemmerT-20240522.pdf",
+    "https://statista.com/statistics/871513/worldwide-data-created/",
+    "https://sas.com/en_us/insights/articles/data-management/data-quality-management-what-you-need-to-know.html#/",
+    "https://www.sas.com/en_us/insights/articles/data-management/data-quality-management-what-you-need-to-know.html#",
+    "https://www.koretech.com",
+    "https://www.statista.com/statistics/871513/worldwide-data-created",
+    "https://www.venturebeat.com/ai/why-most-ai-implementations-fail-and-what-enterprises-can-do-to-beat-the-odds/",
+    "https://www.capi.elements.video/tr/si?token=",
+    "https://www.cds.elements.video/a/preload-resources-ovp.json",
+    "https://venturebeat.com/ai/why-most-ai-implementations-fail-and-what-enterprises-can-do-to-beat-the-odds",
+    "https://capi.elements.video/tr/si",
+    "https://gartner.com/smarterwithgartner/how-to-improve-your-data-quality",
+    "https://koretech.com/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jameel Francis",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Kore Technologies",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T15:59:35.610+02:00",
+  "updated": "2024-11-15T15:59:35.610+02:00"
+}

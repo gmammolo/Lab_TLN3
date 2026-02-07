@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "5d1ccb05da29af99cac9b9f0805115341ecc7cfd",
+    "url": "https://www.medianama.com/2024/11/223-whatsapps-voice-message-transcript-feature-triggers-data-storage-concerns",
+    "site_full": "www.medianama.com",
+    "site": "medianama.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "WhatsApp’s Voice Message Transcript Feature Triggers Data Storage Concerns",
+    "title_full": "WhatsApp’s Voice Message Transcript Feature Triggers Data Storage Concerns",
+    "published": "2024-11-22T09:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.medianama.com/wp-content/uploads/2024/09/whatsapp-2105015_1280.jpg",
+    "performance_score": 0,
+    "domain_rank": 28831,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5d1ccb05da29af99cac9b9f0805115341ecc7cfd",
+  "url": "https://www.medianama.com/2024/11/223-whatsapps-voice-message-transcript-feature-triggers-data-storage-concerns",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sharveya Parasnis",
+  "published": "2024-11-22T09:04:00.000+02:00",
+  "title": "WhatsApp’s Voice Message Transcript Feature Triggers Data Storage Concerns",
+  "text": "\\nWhatsApp will be rolling out a new feature for generating transcripts of voice messages, revealed the company on November 21. This is an opt-in feature that users will have to manually enable in their settings. Once enabled, the feature will automatically generate a written transcript of the voice message, visible only to the recipient. The transcripts are generated on the recipient\\u2019s device and are protected by end-to-end encryption just like the voice messages.\n\\nWhatsApp users can toggle voice message transcripts through the Chats section of the settings menu and select their preferred language for the transcripts. Users can then tap and hold a voice message and select Transcribe. However, WhatsApp warned that the users might encounter errors if their transcript language doesn\\u2019t match the voice message language if words are unclear due to background noise, or if the feature doesn\\u2019t support the language used in the voice message. The system may also produce inaccurate transcriptions.\n\\nThe Android version currently supports only a few languages like English, Portuguese, Spanish, and Russian, but WhatsApp has promised to expand the number of languages. iOS 16+ version supports English, Spanish, French, German, Italian, Japanese, Korean, Portuguese, Russian, Turkish, Chinese, and Arabic. iOS 17+ supports 8 additional languages.\n\\n How Do Transcripts Figure Into WhatsApp\\u2019s Privacy Policy? \\nThese transcripts don\\u2019t find any mention in WhatsApp\\u2019s updated Privacy Policy , which allows the messaging app to share data with other Meta companies. These transcripts, alongside all other messages, are end-to-end encrypted, which means that even WhatsApp cannot see them.\n\\nHowever, the policy does state that they may have to collect additional data if users want to use their features, at which point they would inform the user. An example of this is location data collection when users opt to use the app\\u2019s location-sharing feature. Whether WhatsApp would collect any additional data in order to generate the transcripts is unknown.\n\\nIt is also unknown where WhatsApp would store the transcripts. The platform states that it stores messages on users\\u2019 phones and not its own servers. However, it stores media on WhatsApp servers for 30 days. Hence the question arises: are transcripts \\u2018media\\u2019 or \\u2018messages\\u2019?\n\\nThe Competition Commission of India (CCI) recently imposed \\xa0a Rs 213.14 crore penalty on Meta, over WhatsApp\\u2019s updated privacy policy that mandated data sharing with other Meta companies.\n\\n Also Read:\n\\n\\n\n\\n\n\\n\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Health"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blog.whatsapp.com/introducing-voice-message-transcripts",
+    "https://faq.whatsapp.com/241617298315321/?cms_platform=android&helpref=platform_switcher",
+    "https://www.whatsapp.com/legal/privacy-policy",
+    "https://whatsapp.com/legal/privacy-policy",
+    "https://www.faq.whatsapp.com/241617298315321/?cms_platform=android&helpref=platform_switcher",
+    "https://www.blog.whatsapp.com/introducing-voice-message-transcripts",
+    "https://faq.whatsapp.com/241617298315321/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T14:45:24.724+02:00",
+  "updated": "2024-11-22T17:36:44.861+02:00"
+}

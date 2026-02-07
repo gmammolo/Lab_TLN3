@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "0a7473a0bf3ec895af588f3ec9bdd69822131458",
+    "url": "https://snob.ru/news/tysiachi-dialogov-polzovatelei-s-chat-botom-grok-popali-v-internet/",
+    "site_full": "snob.ru",
+    "site": "snob.ru",
+    "site_section": "https://www.snob.ru",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Сноб — проект о людях и явлениях, о трендах и изменениях в мире",
+    "site_title": "Сноб — проект о людях и явлениях, о трендах и изменениях в мире",
+    "title": "Тысячи диалогов пользователей с чат-ботом Grok попали в интернет",
+    "title_full": "Тысячи диалогов пользователей с чат-ботом Grok попали в интернет",
+    "published": "2025-08-21T09:03:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://0d314c86-f76b-45cc-874e-45816116a667.selcdn.net/5a485c92-8725-4c3e-a837-611ecb13a026.jpg",
+    "performance_score": 0,
+    "domain_rank": 12153,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0a7473a0bf3ec895af588f3ec9bdd69822131458",
+  "url": "https://snob.ru/news/tysiachi-dialogov-polzovatelei-s-chat-botom-grok-popali-v-internet/",
+  "ord_in_thread": 0,
+  "author": "Александра Копылова",
+  "published": "2025-08-21T09:03:00.000+03:00",
+  "title": "Тысячи диалогов пользователей с чат-ботом Grok попали в интернет",
+  "text": "Тысячи диалогов пользователей с чат-ботом Grok попали в интернет\nКомпания Илона Маска xAI,\nразработавшая чат-бот Grok, случайно слила в интернет стенограммы более 370\nтысяч диалогов пользователей с нейросетью. Разговоры были опубликованы «во\nмногих случаях без разрешения» людей, пишет Forbes.\nПо данным издания, утечка произошла из-за уязвимости кнопки «Поделиться» в чат-боте. Она создаёт уникальный URL-адрес, который позволяет делиться диалогом, но также делает его доступным для поисковых систем.\nВ Сеть попали самые разные диалоги: кто-то просил бот написать твит или решить простую бизнес-задачу, а кто-то хотел взломать чужой криптокошелёк или разработать план убийства Илона Маска. Одной из жертв «слива» оказался журналист Эндрю Клиффорд, который использовал Grok для создания заголовков и текстов для сайта Sentinel Current.\nТакже чат-бот просили разработать план создания оружия, несмотря на то, что xAI запрещает это. Нейросеть предоставляла информацию о том, как изготовить наркотики, вредоносную программу или бомбу. Компания Маска пока никак не комментировала утечку данных.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+    "https://forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+    "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:37:38.750+03:00",
+  "updated": "2025-08-21T10:40:40.000+03:00"
+}

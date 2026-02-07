@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "8963684393eedf191bc8bd7540f08b4b60b196d9",
+    "url": "https://www.zerodayinitiative.com/advisories/ZDI-25-019",
+    "site_full": "www.zerodayinitiative.com",
+    "site": "zerodayinitiative.com",
+    "site_section": "https://www.zerodayinitiative.com/advisories/published/",
+    "site_categories": [],
+    "section_title": "Published | Zero Day Initiative",
+    "title": "ZDI-25-019",
+    "title_full": "ZDI-25-019",
+    "published": "2025-01-09T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://zerodayinitiative.com/images/logo-footer.svg",
+    "performance_score": 0,
+    "domain_rank": 25320,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8963684393eedf191bc8bd7540f08b4b60b196d9",
+  "url": "https://www.zerodayinitiative.com/advisories/ZDI-25-019",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-09T02:00:00.000+02:00",
+  "title": "ZDI-25-019",
+  "text": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. Interaction with the libFontValidation library is required to exploit this vulnerability but attack vectors may vary depending on the implementation.\nThe specific flaw exists within the parsing of loca tables. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer. An attacker can leverage this in conjunction with other vulnerabilities to execute code in the context of the current process.\nADDITIONAL DETAILS Apple has issued an update to correct this vulnerability. More details can be found at:\nhttps://support.apple.com/121839\nDISCLOSURE TIMELINE 2024-09-10 - Vulnerability reported to vendor 2025-01-09 - Coordinated public release of advisory 2025-01-09 - Advisory Updated CREDIT Hossein Lotfi (@hosselot) of Trend Micro Zero Day Initiative",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://support.apple.com/121839",
+    "https://www.support.apple.com/121839"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T00:33:30.789+02:00",
+  "updated": "2025-01-10T00:33:30.789+02:00"
+}

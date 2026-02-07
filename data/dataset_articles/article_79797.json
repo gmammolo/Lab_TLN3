@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "727dff070296e34dc1c0cf405b319ea434eeb692",
+    "url": "https://lobste.rs/s/2be0kw/escape_from_zurg_exercise_logic",
+    "site_full": "lobste.rs",
+    "site": "lobste.rs",
+    "site_section": "https://lobste.rs/newest",
+    "site_categories": [
+      "society"
+    ],
+    "section_title": "Newest Stories | Lobsters",
+    "title": "Escape from Zurg: An Exercise in Logic Programming | Lobsters",
+    "title_full": "Escape from Zurg: An Exercise in Logic Programming | Lobsters",
+    "published": "2024-01-05T19:50:00.000+02:00",
+    "replies_count": 2,
+    "participants_count": 2,
+    "site_type": "news",
+    "country": "RS",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 43172,
+    "domain_rank_updated": "2024-01-02T12:06:53.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "727dff070296e34dc1c0cf405b319ea434eeb692",
+  "url": "https://lobste.rs/s/2be0kw/escape_from_zurg_exercise_logic",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "hwayne",
+  "published": "2024-01-05T19:50:00.000+02:00",
+  "title": "Escape from Zurg: An Exercise in Logic Programming | Lobsters",
+  "text": "The author argues that Haskell is more suitable than Prolog for solving search problems, and gives an example of the Bridge problem in both.\nThe Haskell explicitly constructs the state space and the searching strategy, while in Prolog it’s implicit in the logic. I find that makes it harder to understand the Prolog, though that could be my own inexperience with it. OTOH I think he unfairly biases it a little for Haskell by using descriptive terms in it and only single letter identifiers in the Prolog.\nIMO both aren’t as clear as the Picat solution. I wrote this version a couple months ago:\nimport planner. import ordset. pick_max_two(Set, Members) ?=> member(X, Set), member(Y, Set), Members = new_ordset([X, Y]). final({Left, Right, right}) => Left = []. action(S0, S1, Action, ActionCost) ?=> S0 = {Left, Right, left}, pick_max_two(Left, Movers), Action = {right, Movers}, ActionCost = max(Movers), S1 = {subtract(Left, Movers), union(Right, Movers), right}. action(S0, S1, Action, ActionCost) ?=> S0 = {Left, Right, right}, pick_max_two(Right, Movers), Action = {left, Movers}, ActionCost = max(Movers), S1 = {union(Left, Movers), subtract(Right, Movers), left}. main => Start = {[5, 10, 20, 25], [], left}, println(Start), best_plan(Start, Plan, Cost), foreach(Action in Plan) writeln(Action) end, nl, printf(\"Time taken: %d minutes \", Cost).\nUnlike Haskell you don’t need to write your own search strategy (it comes with a builtin planner module), and unlike the Prolog the actions and cost calculations are pretty clear.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "http://picat-lang.org/",
+    "https://www.metalevel.at/zurg/",
+    "https://www.metalevel.at/zurg",
+    "http://picat-lang.org",
+    "http://www.picat-lang.org/",
+    "https://metalevel.at/zurg/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "haskell",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "zurg",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "prolog",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-06T00:26:37.822+02:00",
+  "updated": "2024-01-06T00:26:37.822+02:00"
+}

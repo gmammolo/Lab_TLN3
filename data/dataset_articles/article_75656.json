@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "e5cebd08404dfa0a5356ccdb9a0e4cf1e58f05e5",
+    "url": "https://www.perthnow.com.au/technology/fitness-apps-sucking-up-21-different-types-of-user-data-study-finds-c-17347911",
+    "site_full": "www.perthnow.com.au",
+    "site": "perthnow.com.au",
+    "site_section": "https://www.perthnow.com.au/feed",
+    "site_categories": [
+      "media",
+      "cricket",
+      "sports",
+      "top_news_au",
+      "top_news"
+    ],
+    "section_title": "PerthNow",
+    "title": "Fitness apps sucking up 21 different types of user data, study finds",
+    "title_full": "Fitness apps sucking up 21 different types of user data, study finds",
+    "published": "2025-01-10T02:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://images.perthnow.com.au/publication/C-17347911/19f53c7afeb3af6ef8aeebe1138e572f35b063e8-16x9-x243y0w1563h879.jpg?imwidth=1200",
+    "performance_score": 0,
+    "domain_rank": 7403,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e5cebd08404dfa0a5356ccdb9a0e4cf1e58f05e5",
+  "url": "https://www.perthnow.com.au/technology/fitness-apps-sucking-up-21-different-types-of-user-data-study-finds-c-17347911",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Blair Jackson NewsWire",
+  "published": "2025-01-10T02:20:00.000+02:00",
+  "title": "Fitness apps sucking up 21 different types of user data, study finds",
+  "text": "New research shows you can’t outrun the 21st century’s insatiable appetite for user data.\nAnalysis by Dutch internet security firm Surfshark has found 80 per cent of fitness apps share user data with third parties.\nThose third parties are typically data brokers (who sell information about you) and advertisers.\nSurfshark found two of the most popular exercise and personal training apps collect the most data – Strava and Fitbit.\nWhile the 15 apps analysed collect an average of 12 different types of data, Strava and Fitbit are siphoning 21 types.\nMeal, meditation and workout app Centr collects only three data types. User ID, product interaction and crash data are being collected, but only crash data is actively tracked.\nSurfshark is a virtual private network (VPN) provider.\nChief security officer Tomas Stamulis says consumers get what they pay for.\n“Our research shows that free apps share significantly more data with third parties compared to paid apps, highlighting the importance of evaluating privacy implications,” he said.\n“A responsible approach to data protection might encourage users to opt for paid versions of apps, look for alternative apps, or consider whether the app can function without granting permissions that may not be truly necessary.”\nIf consumers cannot opt out of sharing specific data, Mr Stamulis said the intent behind the app’s data collection should be questioned.\nMost applications which measure running or bike riding track precise location, which Runna and Strava do.\nThe research found three apps collect information categorised under the broad umbrella of “sensitive”.\nSensitive information can be ethnic background, sexual orientation, pregnancy, religious beliefs, trade union membership and genetic information, among others.\nNike Training Club – which is free – collects sensitive information, the researchers say.\nThe user agreement for Nike’s mobile apps and wearable technology makes no mention of sensitive data.\n“From time to time, Nike may link to or partner with third-party websites, social media platforms, mobile apps, and other products and services,” the user agreement says.\n“You should carefully review any third party’s sites and terms of use and privacy policy. Nike is not responsible for the content, policies, or activities of third parties and you interact with third parties at your own risk,” the agreement states.\nAustralian data on fitness app use is scant. A 2021 Australian survey reported 24 per cent of people used fitness trackers and 23 per cent used smart watches.\nThe Royal Australian Air Force’s professional development site issued a general warning about wearable tech being hacked in 2022.\nThe Australian Institute of Sport warns athletes to carefully choose what data points are being authorised for collection.\n“Whatever settings you input, you may also want to consider there are times and places when you want additional privacy. In these situations, you could remove the device or turn it off,” the institute cautions.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Economy, Business and Finance->consumer goods",
+    "Economy, Business and Finance->business reporting and performance"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tomas Stamulis",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:52:10.224+02:00",
+  "updated": "2025-01-10T12:52:10.224+02:00"
+}

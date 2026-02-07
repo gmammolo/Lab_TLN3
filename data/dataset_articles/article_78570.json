@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "f1ff767375311e5c542b8cd44e054f1fdf1000db",
+    "url": "https://www.news.de/technik/858878227/commvault-backup-und-recovery-gefaehrdet-it-sicherheitswarnung-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-20-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "Commvault Backup & Recovery: IT-Sicherheitslücke mit hohem Risiko! Warnung erhält Update",
+    "title_full": "Commvault Backup & Recovery: IT-Sicherheitslücke mit hohem Risiko! Warnung erhält Update",
+    "published": "2025-08-21T12:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771880/images/79/8e/b276697f4c46ddf2c8d2ab7e49ee/nopic/no_pic/1200/675/1/1/33/4/956/537/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771880_1200x675_3d2f2ffc2cf8625cb3f9a9eb1d340d0e.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f1ff767375311e5c542b8cd44e054f1fdf1000db",
+  "url": "https://www.news.de/technik/858878227/commvault-backup-und-recovery-gefaehrdet-it-sicherheitswarnung-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-20-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:36:00.000+03:00",
+  "title": "Commvault Backup & Recovery: IT-Sicherheitslücke mit hohem Risiko! Warnung erhält Update",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 19.08.2025 eine Sicherheitswarnung für Commvault Backup & Recovery herausgegeben. Die Software enthält mehrere Schwachstellen, die einen Angriff ermöglichen. Betroffen von der Sicherheitslücke sind die Betriebssysteme UNIX und Windows sowie das Produkt Commvault Backup & Recovery. Zuletzt wurde diese Warnung am 20.08.2025 aktualisiert.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: WatchTower Labs Blog (Stand: 20.08.2025). Weitere nützliche Links werden weiter unten in diesem Artikel aufgeführt.\nMehrere Schwachstellen für Commvault Backup & Recovery gemeldet - Risiko: hoch\nRisikostufe: 5 (hoch)\nCVSS Base Score: 9,9\nCVSS Temporal Score: 8,9\nRemoteangriff: Ja\nZur Einschätzung des Schweregrads von Sicherheitsanfälligkeiten in Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Der Temporal Score berücksichtigt darüber hinaus zeitliche Veränderungen hinsichtlich der Gefahrenlage. Das Risiko der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 9,9 als \"hoch\" eingestuft.\nCommvault Backup & Recovery Bug: Beschreibung des Angriffs\nCommvault Backup & Recovery ist eine Plattform, die eine vollständige Sicherung und Wiederherstellung aller Workloads ermöglicht.\nEin entfernter anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Commvault Backup & Recovery ausnutzen, um sich erweiterte Berechtigungen zu verschaffen, beliebigen Code auszuführen und Sicherheitsmaßnahmen zu umgehen.\nDie Verwundbarkeit wird mit den eindeutigen CVE-Identifikationsnummern (Common Vulnerabilities and Exposures) CVE-2025-57791, CVE-2025-57790, CVE-2025-57788 und CVE-2025-57789 gehandelt.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssysteme\nUNIX, Windows\nProdukte\nCommvault Backup & Recovery <11.32.102 (cpe:/a:commvault:backup%26recovery)\nCommvault Backup & Recovery 11.32.102 (cpe:/a:commvault:backup%26recovery)\nCommvault Backup & Recovery <11.36.60 (cpe:/a:commvault:backup%26recovery)\nCommvault Backup & Recovery 11.36.60 (cpe:/a:commvault:backup%26recovery)\nAllgemeine Maßnahmen zum Umgang mit IT-Schwachstellen\n- Anwender der betroffenen Anwendungen sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten Sicherheitspatches verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten regelmäßig prüfen, wann das herstellende Unternehmen ein neues Sicherheitsupdate zur Verfügung stellt.\nQuellen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nWatchTower Labs Blog vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/\nCommvault Advisory CV_2025_08_4 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://documentation.commvault.com/securityadvisories/CV_2025_08_4.html\nCommvault Advisory CV_2025_08_3 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://documentation.commvault.com/securityadvisories/CV_2025_08_3.html\nCommvault Advisory CV_2025_08_2 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://documentation.commvault.com/securityadvisories/CV_2025_08_2.html\nCommvault Advisory CV_2025_08_1 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://documentation.commvault.com/securityadvisories/CV_2025_08_1.html\nVersionshistorie dieser Sicherheitswarnung\nDies ist die 2. Version des vorliegenden IT-Sicherheitshinweises für Commvault Backup & Recovery. Bei Bekanntgabe weiterer Updates wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.\n19.08.2025 - Initiale Fassung\n20.08.2025 - Exploit aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/News.de",
+    "https://documentation.commvault.com/securityadvisories/CV_2025_08_4.html",
+    "https://documentation.commvault.com/securityadvisories/CV_2025_08_1.html",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://twitter.com/news_de",
+    "https://documentation.commvault.com/securityadvisories/CV_2025_08_2.html",
+    "https://documentation.commvault.com/securityadvisories/CV_2025_08_3.html",
+    "https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/",
+    "https://pin.it/11NQyAf",
+    "https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault",
+    "https://www.documentation.commvault.com/securityadvisories/CV_2025_08_1.html",
+    "https://www.documentation.commvault.com/securityadvisories/CV_2025_08_3.html",
+    "https://facebook.com/News.de",
+    "https://www.pin.it/11NQyAf",
+    "https://www.twitter.com/news_de",
+    "https://www.documentation.commvault.com/securityadvisories/CV_2025_08_2.html",
+    "https://www.documentation.commvault.com/securityadvisories/CV_2025_08_4.html",
+    "https://www.labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:32.045+03:00",
+  "updated": "2025-08-21T13:14:41.000+03:00"
+}

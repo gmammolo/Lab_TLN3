@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "84e804f786e1c0e772ddd9ec83a1e31a0f7b6c3d",
+    "url": "https://www.dqindia.com/opinion/why-old-attack-methods-still-compromise-modern-infrastructure-9658750",
+    "site_full": "www.dqindia.com",
+    "site": "dqindia.com",
+    "site_section": "https://news.google.com/search?q=why%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "DATAQUEST - The Bible of Indian IT (Information, Insights and Trends, Analysis, Research, News, Features, Opinion, Interviews, People, Events, Jobs, ISRO recruitment, ITES, DQ Deep Tech)",
+    "title": "Why Old Attack Methods Still Compromise Modern Infrastructure",
+    "title_full": "Why Old Attack Methods Still Compromise Modern Infrastructure",
+    "published": "2025-08-14T08:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://img-cdn.publive.online/fit-in/1200x675/dq/media/media_files/2025/08/14/why-old-attack-methods-still-compromise-modern-infrastructure-2025-08-14-11-01-34.jpg",
+    "performance_score": 0,
+    "domain_rank": 54886,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "84e804f786e1c0e772ddd9ec83a1e31a0f7b6c3d",
+  "url": "https://www.dqindia.com/opinion/why-old-attack-methods-still-compromise-modern-infrastructure-9658750",
+  "ord_in_thread": 0,
+  "author": "DQI Bureau",
+  "published": "2025-08-14T08:31:00.000+03:00",
+  "title": "Why Old Attack Methods Still Compromise Modern Infrastructure",
+  "text": "A recent wave of high-profile cyberattacks targeting critical infrastructure and major enterprises serves as a stark reminder of how adversaries, including sophisticated nation-state actors, sustain a continual foothold within their targets’ networks.\nUpon closer inspection, the methods used to infiltrate these organisations are rarely novel. Instead, attackers persistently rely on proven, effective tactics, targeting low-hanging fruit like known critical vulnerabilities, overprivileged access, and publicly exposed secrets. Like moths to a flame, bad actors are drawn to these secrets such as hardcoded API keys as they provide the most direct path to move laterally, escalate privileges, and access an organisation's most valuable assets. Advanced Persistent Threat (APT) actors take this a step further, creating hidden backdoors to exfiltrate data over long periods without detection.\nThis challenge is compounded by the rapid pace of technological innovation. As the shift to cloud computing accelerates, the number of assets, applications, and identities expands, creating new vulnerabilities and misconfigurations for attackers to exploit. They use automated tools to scan public repositories like GitHub, misconfigured cloud storage, and web applications for exposed secrets, turning a simple oversight into an unintentional breach. This problem is widespread; currently, one in 10 organisations has storage resources containing sensitive data that could be at risk if exposed.\nTo counter these persistent threats, a fundamental shift in mindset is required, moving from simply managing vulnerabilities to proactively managing cyber exposure. While crucial, vulnerability management is only one piece of the puzzle and is not sufficient to tackle the threats emerging from APTs and other determined adversaries. A preventive approach is necessary to curb the risk posed by these actors.\nThis is where proactive exposure management becomes essential. It provides a holistic view of the entire attack surface, from on-premises systems to the cloud, allowing organisations to understand and prioritise risk in a way that traditional approaches cannot. By mapping the complex relationships between assets, identities, and their inherent risks, exposure management platforms can identify and prioritise potential attack paths before they are exploited. This unified visibility becomes paramount as adversaries probe for the single weakest link and is critical for outmanoeuvring the acceleration of attacks in the modern era.\nUltimately, organisations must embed this proactive strategy into their daily operations. This includes continuously identifying where sensitive data resides and implementing robust controls like just-in-time access, multi-factor authentication, and the principle of least privilege to ensure secrets are accessible only by those who need them.\nGiven the increase in cyberattacks, a reactive security posture is unsustainable. Organisations must anticipate these threats by proactively understanding their full exposure, focusing their defences where they matter most, and closing the gaps that attackers have proven they will exploit.\nSatnam Narang, Sr. Staff Research Engineer at Tenable",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T08:35:10.249+03:00",
+  "updated": "2025-08-14T08:46:21.000+03:00"
+}

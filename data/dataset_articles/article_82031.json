@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "8dd983655fbbc915b88a163b557510736e0412c6",
+    "url": "https://neurosciencenews.com/neurotech-hand-neuroprosthesis-27877",
+    "site_full": "neurosciencenews.com",
+    "site": "neurosciencenews.com",
+    "site_section": "https://www.neurosciencenews.com",
+    "site_categories": [
+      "media",
+      "health"
+    ],
+    "section_title": "Neuroscience News Science Magazine - Research Articles - Psychology Neurology Brains AI",
+    "title": "New Tech Boosts Precision in Hand Neuroprostheses",
+    "title_full": "New Tech Boosts Precision in Hand Neuroprostheses",
+    "published": "2024-10-17T21:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6596,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8dd983655fbbc915b88a163b557510736e0412c6",
+  "url": "https://neurosciencenews.com/neurotech-hand-neuroprosthesis-27877",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Neuroscience News",
+  "published": "2024-10-17T21:17:00.000+03:00",
+  "title": "New Tech Boosts Precision in Hand Neuroprostheses",
+  "text": "Scientists have developed a novel approach to improve neuroprostheses, making them more precise and practical for everyday tasks. By analyzing neural signals linked to hand postures, researchers demonstrated enhanced control of virtual hands in rhesus monkeys, closely mimicking fine motor skills. This study suggests that hand postures, rather than movement speed, are key to better controlling prostheses, bridging damaged nerve connections for tasks like grasping. With this advance, future neuroprostheses could restore fine motor abilities for individuals with paralysis or neurodegenerative diseases, transforming everyday functionality. Key Facts: - Focusing on hand posture signals improved precision in neuroprosthesis control. - Virtual hand movements closely matched real hand postures in trained rhesus monkeys. - Findings offer potential to enhance fine motor skills in future hand prostheses. Source: DPZ Carrying shopping bags, pulling a thread into the eye of a needle – power and precision grips are part of our everyday lives. We only realize how important (and great) our hands are when we can no longer use them, for example due to paraplegia or diseases such as ALS, which cause progressive muscle paralysis. In order to help patients, scientists have been researching neuroprostheses for decades. These artificial hands, arms or legs could give people with disabilities their mobility back. Damaged nerve connections are bridged via brain-computer interfaces that decode the signals from the brain, translate them into movements and can thus control the prosthesis. Until now, however, hand prostheses in particular have lacked the necessary fine motor skills to be used in everyday life. “How well a prosthesis works depends primarily on the neural data read by the computer interface that controls it,” says Andres Agudelo-Toro, scientist in the Neurobiology Laboratory at the German Primate Center and first author of the study. “Previous studies on arm and hand movements have focused on the signals that control the velocity of a grasping movement. We wanted to find out whether neural signals representing hand postures might be better suited to control neuroprostheses.” For the study, the researchers worked with rhesus monkeys (Macaca mulatta). Like humans, they have a highly developed nervous and visual system as well as pronounced fine motor skills. This makes them particularly suitable for researching grasping movements. To prepare for the main experiment, the scientists trained two rhesus monkeys to move a virtual avatar hand on a screen. During this training phase, the monkeys performed the hand movements with their own hand while simultaneously seeing the corresponding movement of the virtual hand on the screen. A data glove with magnetic sensors, which the monkeys wore during the task, recorded the animals’ hand movements. Once the monkeys had learned the task, they were trained to control the virtual hand in a next step by “imagining” the grip. The activity of populations of neurons in the cortical brain areas that are specifically responsible for controlling hand movements was measured. The researchers focused on the signals that represent the different hand and finger postures, and adapted the algorithm of the brain-computer interface, which translates the neural data into movement, in a corresponding protocol. “Deviating from the classic protocol, we adapted the algorithm so that not only the destination of a movement is important, but also how you get there, i.e., the path of execution,” explains Andres Agudelo-Toro. “This ultimately led to the most accurate results.” The researchers then compared the movements of the avatar hand with the data of the real hand that they had previously recorded and were able to show that these were executed with comparable precision. “In our study, we were able to show that the signals that control the posture of a hand are particularly important for controlling a neuroprosthesis,” says Hansjörg Scherberger, head of the Neurobiology Laboratory and senior author of the study. “These results can now be used to improve the functionality of future brain-computer interfaces and thus also to improve the fine motor skills of neural prostheses.” Funding: The study was supported by the German Research Foundation (DFG, grants FOR-1847 and SFB-889) and by the European Union Horizon 2020 project B-CRATOS (GA 965044). About this neuroprosthetics and neurotech research news Author: [Susanne Diederich](/cdn-cgi/l/email-protection#b9caddd0dcdddccbd0dad1f9ddc9c397dccc) Source: DPZ Contact: Susanne Diederich – DPZ Image: The image is credited to Neuroscience News Original Research: Open access. “ Accurate neural control of a hand prothesis by posture-related activity in the primate grasping circuit 00688-3)” by Andres Agudelo-Toro et al. Neuron Abstract Accurate neural control of a hand prothesis by posture-related activity in the primate grasping circuit Brain-computer interfaces (BCIs) have the potential to restore hand movement for people with paralysis, but current devices still lack the fine control required to interact with objects of daily living. Following our understanding of cortical activity during arm reaches, hand BCI studies have focused primarily on velocity control. However, mounting evidence suggests that posture, and not velocity, dominates in hand-related areas. To explore whether this signal can causally control a prosthesis, we developed a BCI training paradigm centered on the reproduction of posture transitions. Monkeys trained with this protocol were able to control a multidimensional hand prosthesis with high accuracy, including execution of the very intricate precision grip. Analysis revealed that the posture signal in the target grasping areas was the main contributor to control. We present, for the first time, neural posture control of a multidimensional hand prosthesis, opening the door for future interfaces to leverage this additional information channel.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://dpz.eu",
+    "https://www.cell.com/neuron/abstract/S0896-6273(24)00688-3",
+    "https://cell.com/neuron/abstract/S0896-6273(24)00688-3",
+    "https://www.dpz.eu"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:07:36.318+03:00",
+  "updated": "2024-10-18T07:12:04.812+03:00"
+}

@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "d855fced3f086c31b86b804e5ef67bafc415be5d",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4201209300903-flood-warning-by-nws",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+    "site_categories": [
+      "under_construction",
+      "non_standard_content"
+    ],
+    "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Flood Warning by NWS - NewsBreak",
+    "title_full": "Flood Warning by NWS - NewsBreak",
+    "published": "2025-08-28T11:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/02KjvW_14CEJUl600",
+    "performance_score": 0,
+    "domain_rank": 3213,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d855fced3f086c31b86b804e5ef67bafc415be5d",
+  "url": "https://www.newsbreak.com/nws-alerts-1671083/4201209300903-flood-warning-by-nws",
+  "ord_in_thread": 0,
+  "author": "NWS Alerts",
+  "published": "2025-08-28T11:06:00.000+03:00",
+  "title": "Flood Warning by NWS - NewsBreak",
+  "text": "2 minutes ago Check NWS updates here\nEffective: 2025-08-28 03:04:00 CDT Expires: 2025-08-28 15:15:00 CDT Urgency: Immediate Severity: Severe Certainty: Observed Instruction: Do not drive into flooded areas or go around barricades. Nearly two feet of water will carry most vehicles away. Turn around, don't drown. Additional information is available at www.weather.gov. The next statement will be issued this afternoon at 315 PM CDT. Target Area: Harvey, KS ...The Flood Warning continues for the following rivers in Kansas...\nLittle Arkansas River At Alta Mills affecting Reno and Harvey Counties.\nLittle Arkansas River Near Halstead affecting Harvey County.\n* WHAT...Minor flooding is forecast.\n* WHERE...Little Arkansas River near Halstead.\n* WHEN...From Friday afternoon to early Sunday morning.\n* IMPACTS...At 26.0 feet, Riverside Park floods north of the river. Flood waters may begin to encroach on K89 just north of the river bridge along with a trailer park and a few residences north of Halstead. Expect field flooding on both sides of Halstead Road north of the flood gates. More field flooding occurs north of Highway 50 on the east bank of the river. Just southeast of the city, SW 48th St becomes impassable from Hertzler Rd to Essex Heights.\n* ADDITIONAL DETAILS... - At 2:30 AM CDT Thursday the stage was 6.0 feet. - Forecast...The river is expected to rise above flood stage tomorrow afternoon to a crest of 25.6 feet early Saturday morning. It will then fall below flood stage early Saturday afternoon. - Flood stage is 25.0 feet.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->emergency response"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=02KjvW_14CEJUl600",
+    "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.dc3f2e8a7602d83c388c4a2fe55e66afa94fe9b7.002.1",
+    "https://img.particlenews.com/image.php?url=02KjvW_14CEJUl600",
+    "https://img.particlenews.com/image.php",
+    "https://www.img.particlenews.com/image.php?url=02KjvW_14CEJUl600",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=02KjvW_14CEJUl600",
+    "https://alerts.weather.gov/search",
+    "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.dc3f2e8a7602d83c388c4a2fe55e66afa94fe9b7.002.1"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Harvey",
+        "sentiment": "none"
+      },
+      {
+        "name": "Reno",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Halstead Road",
+        "sentiment": "none"
+      },
+      {
+        "name": "Near Halstead",
+        "sentiment": "none"
+      },
+      {
+        "name": "County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mills",
+        "sentiment": "none"
+      },
+      {
+        "name": "Park",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "fake_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T11:08:47.393+03:00",
+  "updated": "2025-08-28T11:14:10.000+03:00"
+}

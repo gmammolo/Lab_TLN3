@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "1d87f19f3674380ef47ba954510a7d3d9c0d83b3",
+    "url": "https://www.thestar.com.my/news/nation/2025/02/21/boy-who-choked-on-gummy-candy-dies",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://news.google.com/search?q=who%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Google News - Search",
+    "title": "Boy who choked on gummy candy dies | The Star",
+    "title_full": "Boy who choked on gummy candy dies | The Star",
+    "published": "2025-02-21T02:34:33.684+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2025/02/21/3178076.jpg",
+    "performance_score": 0,
+    "domain_rank": 2093,
+    "domain_rank_updated": "2025-02-17T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1d87f19f3674380ef47ba954510a7d3d9c0d83b3",
+  "url": "https://www.thestar.com.my/news/nation/2025/02/21/boy-who-choked-on-gummy-candy-dies",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "The Star Online",
+  "published": "2025-02-21T02:34:33.684+02:00",
+  "title": "Boy who choked on gummy candy dies | The Star",
+  "text": "GEORGE TOWN: The 10-year-old boy, who had been in a critical condition at at the Penang Hospital (HPP) Pediatric Intensive Care Unit (PICU) after reportedly choking on a gummy candy, died on Thursday (Feb 20) night.\nThe news was confirmed by the Year Four pupil’s aunt, Siti Farhani Muhammad Fikri, 33.\nWhen contacted, Siti Farhani said her nephew died at 11pm at the HPP PICU.\n\"I was told by Mohammad Fahmi Hafiz’s mother that he passed away a short while ago.\n\"He will be buried in his grandmother’s hometown in Permatang Binjai once all the hospital processes are completed,” she added.\nMohammad Fahmi Hafiz Mohammad Fakhruddin, a student at SK Sungai Dua in Butterworth, was reported to be in critical condition at the HPP PICU on Wednesday after choking on a gummy candy he bought outside the school premises. - Bernama\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "topics": [
+    "Health->health facility",
+    "Health->emergency care",
+    "Health->injury",
+    "Human Interest->funeral and memorial service",
+    "Social Issue->children",
+    "Social Issue->death and dying",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-21T02:34:33.684+02:00",
+  "updated": "2025-02-21T02:34:33.684+02:00"
+}

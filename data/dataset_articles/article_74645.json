@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "b62d97b7ec856a3351aa58e1f191fbb1aff3eef3",
+    "url": "https://app.fedia.io/m/technology@lemmy.world/t/1438634/FTC-reportedly-begins-investigating-Microsoft-s-cloud-business-practices",
+    "site_full": "app.fedia.io",
+    "site": "fedia.io",
+    "site_section": "https://app.fedia.io/m/technology@lemmy.world",
+    "site_categories": [],
+    "section_title": "Technology - Fedia",
+    "title": "FTC reportedly begins investigating Microsoft's cloud business practices - Technology - Fedia",
+    "title_full": "FTC reportedly begins investigating Microsoft's cloud business practices - Technology - Fedia",
+    "published": "2024-11-15T17:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://fedia.io/media/19/83/198388283d3394dd4acf57c59540a630e5134b81c0c350a83e604853e94fb3fa.jpg",
+    "performance_score": 0,
+    "domain_rank": 158855,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b62d97b7ec856a3351aa58e1f191fbb1aff3eef3",
+  "url": "https://app.fedia.io/m/technology@lemmy.world/t/1438634/FTC-reportedly-begins-investigating-Microsoft-s-cloud-business-practices",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-15T17:38:00.000+02:00",
+  "title": "FTC reportedly begins investigating Microsoft's cloud business practices - Technology - Fedia",
+  "text": "[chakan2],Weird...very weird. AWS owns nearly 50%over 30% of the web, but they're going after MS for a shitty product (Azure), which is at 20-25% [riskable],The article sucks. The FTC isn't going after Microsoft's cloud services because they're good/bad. They're going after Microsoft because of forced bundling. Same abuse of monopoly power they were found guilty of when they started forcing everyone to use Internet Explorer. Microsoft is forcing customers to use their cloud services under all sorts of scenarios. Many of which have no logical reason other than to force customers into Azure. For example, if you have a lot of Windows servers in Azure they will stop supporting you once you reach a certain threshold unless you also sign up to use their enterprise cloud AD service. They already do this with regular Windows--you have to use AD if you're a business customer and you go past a certain threshold of systems--but in that case you can just get some Domain Controllers and call it a day. You can put them wherever you want (locally, in AWS, in Azure, wherever). With Azure Windows servers though you're forced to use Azure AD (or you lose support and possibly access to other bundled services). You can't host Domain Controllers anywhere else. I mean, they'll let you have as many off-Azure DCs as you want but they must still be joined/synchronizing to Azure AD. There's probably many other anticompetitive tactics in place within the world of Azure but that's the one big one I know off the top of my head. [NOT_RICK],Now? Any chance this investigation doesn’t magically evaporate come January?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      },
+      {
+        "name": "FTC",
+        "sentiment": "none"
+      },
+      {
+        "name": "AWS",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "b62d97b7ec856a3351aa58e1f191fbb1aff3eef3",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:53:39.146+02:00",
+  "updated": "2024-11-15T18:53:39.146+02:00"
+}

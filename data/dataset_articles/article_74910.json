@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "838f290c23f6082cd4c055239433845ce6194400",
+    "url": "https://www.crypto-news-flash.com/sui-network-faces-crisis-as-validators-go-offline-whats-next-for-the-price",
+    "site_full": "www.crypto-news-flash.com",
+    "site": "crypto-news-flash.com",
+    "site_section": "https://www.crypto-news-flash.com",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "Latest Crypto News, press releases: Bitcoin, Ripple, and More - Get the Scoop with Crypto News Flash",
+    "title": "Sui Network Faces Crisis as Validators Go Offline: What’s Next for the Price?",
+    "title_full": "Sui Network Faces Crisis as Validators Go Offline: What’s Next for the Price?",
+    "published": "2024-11-21T20:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 39457,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "838f290c23f6082cd4c055239433845ce6194400",
+  "url": "https://www.crypto-news-flash.com/sui-network-faces-crisis-as-validators-go-offline-whats-next-for-the-price",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "John Kumi",
+  "published": "2024-11-21T20:41:00.000+02:00",
+  "title": "Sui Network Faces Crisis as Validators Go Offline: What’s Next for the Price?",
+  "text": "Sui Network experienced a two-hour downtime as preliminary investigation links it to “DOS due to integer overflow.” At press time, the network was fully operational after a v1.37.4 patch was deployed by the Sui team. The Sui Network suffered a two-hour downtime today after its status page confirmed that its validators were down. However, neither the Mysten Labs nor the Sui Foundation has provided any detailed report.\nService Announcement: The Sui network is currently experiencing an outage and not processing transactions. We’ve identified the issue and a fix will be deployed shortly. We appreciate your patience and will continue to provide updates.\nWhat Happened According to our information, the network failed to produce a new block for two hours, disrupting major operations and bringing its blockchain to a standstill. For Sui Explorer, the issue occurred around 9:15 am UTC.\nA preliminary investigation shows that the outage was caused by “DOS due to integer overflow.” Later, the ExVul team shared a GitHub link that contained a patch code to salvage the situation.\n🚨🚨🚨 @suinetwork node shutdown almost 1h30mins, because it occur a DOS bug,\nAfter our analysis, it was found that the @SuiNetwork node occur DOS due to integer overflow. The location of the bug : https://t.co/QtijLcmTXd and the fix patch code: https://t.co/7Mm8IuDcis — ExVul (@EXVULSEC) November 21, 2024\nAfter this, the Sui team announced that it had deployed a v1.37.4 patch, making the network operational at press time.\nThe Sui network is back up and processing transactions again, thanks to swift work from the incredible community of Sui validators. The 2-hour downtime was caused by a bug in transaction scheduling logic that caused validators to crash, which has now been resolved.\nResearching its past outages, we discovered that the network was hit by a major outage at the public remote procedure call (RPC) node level in July 2024. However, the team immediately resolved this challenge. Earlier this month, it also encountered another challenge that prevented it from accepting new user transactions. Also, this was later resolved. Meanwhile, the most recent outage is the first to be encountered since the mainnet launch in May 2023.\nFollowing this announcement, SUI’s price recorded a 3% fall on its 24-hour chart, positioning its price at $3.5. However, its seven-day return was still positive as it surged by 6.9% within the period.\nSui and One Championship Partnership Before this unexpected outage, Sui announced that it had collaborated with the world’s largest martial arts organization, ONE Championship (ONE), by becoming its official blockchain partner. According to our earlier report , the collaboration ensures that the mobile game leverages Sui’s technology to provide true digital ownership at its core.\nCommenting on this, Head of Ecosystem Development at Sui Foundation Jameel Khalfan disclosed that:\nONE Championship is the fastest-growing major global sports property and has established a reputation for being extremely forward-thinking and technologically innovative. Being chosen as their official blockchain partner and being integrated into their tech stack is a validation of Sui’s growth and adoption trajectory and another opportunity to serve the sports community with Sui’s technology.\nSui has also partnered with Google Cloud to provide developers with real-time blockchain data access. This collaboration was to enable developers to capitalize on Sui’s blockchain data via Google Cloud’s Pub/Sub service.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://twitter.com/SuiNetwork?ref_src=twsrc%5Etfw",
+    "https://twitter.com/EXVULSEC/status/1859550558207738205?ref_src=twsrc%5Etfw",
+    "https://t.co/QtijLcmTXd",
+    "https://t.co/7Mm8IuDcis",
+    "https://www.twitter.com/EXVULSEC/status/1859550558207738205?ref_src=twsrc%5Etfw",
+    "https://www.t.co/QtijLcmTXd",
+    "https://www.t.co/7Mm8IuDcis",
+    "https://www.twitter.com/SuiNetwork?ref_src=twsrc%5Etfw",
+    "https://twitter.com/EXVULSEC/status/1859550558207738205",
+    "https://twitter.com/SuiNetwork"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "838f290c23f6082cd4c055239433845ce6194400",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T00:38:27.101+02:00",
+  "updated": "2024-11-22T00:38:27.101+02:00"
+}

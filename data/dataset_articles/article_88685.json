@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "56abc0780385b5c3ea9fb5095c0716b88c17c6ea",
+    "url": "https://www.avpress.com/valley_life/overbearing-in-laws/article_2713fb20-5aa4-11ef-a2cf-4f198ad4a386.html",
+    "site_full": "www.avpress.com",
+    "site": "avpress.com",
+    "site_section": "http://www.avpress.com/search/?f=rss&t=article&c=valley_life&l=50&s=start_time&sd=desc",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "www.avpress.com - RSS Results in valley_life of type article",
+    "title": "Overbearing in-laws",
+    "title_full": "Overbearing in-laws",
+    "published": "2024-08-15T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/assets/v3/editorial/a/79/a79cf12a-7223-11ea-bd26-6bfa3e0cc137/6095f62bea1b1.image.jpg?crop=667%2C350%2C0%2C43&amp;resize=667%2C350&amp;order=crop%2Cresize",
+    "performance_score": 0,
+    "domain_rank": 95666,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "56abc0780385b5c3ea9fb5095c0716b88c17c6ea",
+  "url": "https://www.avpress.com/valley_life/overbearing-in-laws/article_2713fb20-5aa4-11ef-a2cf-4f198ad4a386.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-08-15T19:00:00.000+03:00",
+  "title": "Overbearing in-laws",
+  "text": "'); } } $('#asset-content').find('.asset-body').prepend(' '); insertionPoint = $('#asset-content').find('.asset-body').find('.subscription-required'); } __tnt.template( message[0], insertionPoint[0], true, [{ 'element': '.count', 'html': String(count) },{ 'element': '.total', 'html': String(limit) },{ 'element': '.remaining', 'html': String(remaining) }], function(element){ $(element).find(\"a[data-toggle=collapse]\").each(function(){ if($(this).attr(\"href\")){ $(this).on('click',function(){ var href = $(this).attr(\"href\"); $(href).collapse('toggle'); }); } }); if(!(__tnt.metering.compatibility().status == 'FAIL: no metering in eedition')){ if($(\"#template-metering\").find('.metering-modal').length){ $(\"#template-metering\").find('.metering-modal').modal(); $('#template-metering').find('.metering-modal').on('shown.bs.modal',function(){ $('.subscription-services').trigger('tncms-track-services-displayed'); }); } } } ); } if(__tnt.user.authToken){ $('#asset-content').find('.subscriber-premium').find('.subscription-required').find('.logged-in').show(); $('#template-metering').find('.metering-modal').find('.logged-in').show(); $('#eedition-subscription').find('.logged-in').show(); }else{ $('#asset-content').find('.subscriber-premium').find('.subscription-required').find('.not-logged-in').show(); $('#template-metering').find('.metering-modal').find('.not-logged-in').show(); $('#eedition-subscription').find('.not-logged-in').show(); } if(__tnt.user.services){ $('#asset-content').find('.subscriber-premium').find('.subscription-required').find('.has-services').show(); $('#template-metering').find('.metering-modal').find('.has-services').show(); $('#eedition-subscription').find('.has-services').show(); }else{ $('#asset-content').find('.subscriber-premium').find('.subscription-required').find('.no-services').show(); $('#template-metering').find('.metering-modal').find('.no-services').show(); $('#eedition-subscription').find('.no-services').show(); } try{ if(window.sessionStorage){ sessionStorage.setItem('__tnt.metering.wall.viewed',1); } }catch(e){} //GTM $('.subscription-services').trigger('tncms-track-services-displayed'); }); __tnt.metering.config.date = 17224956 ; __tnt.metering.config.sub_limit = 3; __tnt.metering.config.reg_limit = 3; __tnt.metering.compatibility = function(){ var compatible = true; var status = \"\"; /* this checks for compatibility with DOM storage */ try{ window.sessionStorage.setItem('__tnt.compatibility',true); }catch(e){ compatible = false; status = \"FAIL: setItem unsupported\"; }; try{ window.sessionStorage.getItem('__tnt.compatibility'); }catch(e){ compatible = false; status = \"FAIL: getItem unsupported\"; } return {'check':compatible,'status':status}; }; var bBloxAccess = false; if (window.TNCMS && window.TNCMS.Subscription && window.TNCMS.Subscription.onReady) { window.TNCMS.Subscription.onReady(function (oPaywall) { var bBloxRestricts = oPaywall.isRestricted ? oPaywall.isRestricted() : true; var bBloxAccess = oPaywall.allowAccess ? oPaywall.allowAccess() : bBloxRestricts; var bBloxAccessByIp = oPaywall.accessByIp ? oPaywall.accessByIp() : false; var sBloxAccessByIpError = oPaywall.accessByIpError ? oPaywall.accessByIpError() : null; var bBloxAccessBySvc = oPaywall.userHasService ? oPaywall.userHasService() : false; var sAccessMethod = 'unknown'; if (bBloxAccess) { if(bBloxAccessByIp){ sAccessMethod = \"ip\"; } if(bBloxAccessBySvc){ sAccessMethod = \"service\"; } __tnt.subscription.api.decrypt(); userStatus.hasAccess = true; } else { __tnt.metering.check(); } userStatus.accessMethod = sAccessMethod; userStatus.accessError = sBloxAccessByIpError; __tnt.subscription.access.status.trigger(userStatus); __tnt.subscription.api.showContent(); }); }else{ userStatus.hasAccess = true; userStatus.accessError = \"Software API unavailable\"; __tnt.subscription.access.status.trigger(userStatus); __tnt.subscription.api.showContent(); } }); /*]]>*/ Overbearing in-laws | Valley Life | avpress.com /* Begin Regular Site CSS */ /* Place site-wide CSS here */ * {font-family:\"Open Sans\";} .panel {border:none!important; box-shadow:none!important;} /* Header */ .navbar-brand img {max-height:60px;} .nav>li>a {padding:30px 10px; font-weight:600!important; letter-spacing:-0.2px;} .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {background:#fff; color:#000;} .follow-links-587434 li>a {position:relative; top:25px;} /* Sidebar */ #tncms-block-587346 .panel-body {padding:0 15px 15px;} /* Footer */ #site-footer-container {border-top:1px solid #eee; padding-top:25px;} #site-footer-container ul {list-style:none; padding:0!important;} #site-footer-container .block-title {margin:0; border:none;} /* Frontpage */ .feature .centered-content-container {background-color:rgba(0,0,0,0.15); transition:background-color .5s;} .feature .centered-content-container:hover {background-color:rgba(0,0,0,0);} .feature-grid .card-grid .card-body {position:absolute; bottom:0; background:rgba(0,0,0,0.5);} .feature-grid .card-grid .card-body h3 {text-align:center;} .feature-grid .card-grid .card-body h3>a {color:#fff;} .feature-grid .card-grid .asset-icon {display:none;} .feature-grid .feature {width:33.3333%; float:left; padding:10px;} /* Section Page */ #tncms-block-587340 .card-body {width:100%; padding-bottom:0; bottom:15px;} #tncms-block-587340 .card-body a {color:#fff;} .feature-grid .card.feature .centered-content-stage.no-image {height:225px;} .block.light .card .content-overlay, .block.light .card .content-overlay a, .block.light .card .content-overlay a:hover {text-shadow:0 0 10px #000;} @media (max-width:991px) { .navbar-brand img {max-height:40px; margin-top:-9px;} } @media (min-width:992px) and (max-width:1199px) { .navbar-brand img {max-height:45px; margin-top:0;} .nav>li>a {padding:25px 9px; font-size:12px;} .follow-links-587434 {margin-top:-5px;} } #tncms-block-810663 .div{padding: 0px 300px;} .form-category.form-category-site-forms-subscription.services ul li:nth-of-type(3), .form-category.form-category-subscription.services ul li:nth-of-type(3) { display: none; } /* End Main Site CSS",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "john",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T00:06:22.762+03:00",
+  "updated": "2024-08-16T04:15:16.677+03:00"
+}

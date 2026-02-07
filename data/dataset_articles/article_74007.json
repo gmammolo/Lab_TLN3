@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "68652bc42d4ca32a80f35fadb4f03b1d6608b15d",
+    "url": "https://www.universfreebox.com/article/573490",
+    "site_full": "www.universfreebox.com",
+    "site": "universfreebox.com",
+    "site_section": "https://www.universfreebox.com/#home",
+    "site_categories": [
+      "tennis",
+      "sports"
+    ],
+    "section_title": "Univers Freebox - Toute l&#039;actu en direct sur Free et les télécoms",
+    "title": "Les réseaux 3G et 4G de Free Mobile, Orange, SFR et Bouygues Telecom perturbés par de simples étiquettes RFID",
+    "title_full": "Les réseaux 3G et 4G de Free Mobile, Orange, SFR et Bouygues Telecom perturbés par de simples étiquettes RFID",
+    "published": "2024-11-15T08:58:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.universfreebox.com/wp-content/uploads/2021/03/antenne140.jpg",
+    "performance_score": 0,
+    "domain_rank": 88926,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "68652bc42d4ca32a80f35fadb4f03b1d6608b15d",
+  "url": "https://www.universfreebox.com/article/573490",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Maxime Raby",
+  "published": "2024-11-15T08:58:00.000+02:00",
+  "title": "Les réseaux 3G et 4G de Free Mobile, Orange, SFR et Bouygues Telecom perturbés par de simples étiquettes RFID",
+  "text": "Collées sur des palettes, des étiquettes RFID (radio-identification) qui permettent de stocker et de récupérer des données à distance, ont semé la zizanie sur le réseau mobile des opérateurs dans une commune de l’Hérault. L’ANFR a mené l’enquête.\nÀ Vendargues, près de Montpellier, des perturbations affectant les réseaux 3G et 4G sur la bande des 900 MHz ont été signalées par les opérateurs. Une enquête menée par l’Agence nationale des fréquences (ANFR) a révélé une cause inattendue : des étiquettes RFID passives, intégrées à des palettes en plastique d’une entreprise d’e-commerce. Souvent en forme d’autocollants, celles-ci peuvent être fixées sur des objets, intégrées à des produits. Elles sont équipées d’une antenne et d’une puce électronique qui répondent aux signaux radio envoyés par un lecteur.\nCes étiquettes, conçues pour fonctionner globalement grâce à une large bande passante (860-960 MHz), captaient l’énergie électromagnétique des antennes relais situées à proximité. Activées en continu, elles émettaient de manière anarchique, perturbant les fréquences 3G et 4G réservées à Orange, SFR, Bouygues Telecom et Free Mobile. Ce phénomène découle d’un dysfonctionnement lié à un couplage imprévu entre les signaux des antennes et la technologie RFID, notamment par des réactions dues à des produits d’intermodulation passive.\nPour résoudre ce problème, les palettes ont été déplacées dans un bâtiment métallique, agissant comme une cage de Faraday et empêchant ainsi les étiquettes de s’activer. L’ANFR rappelle que tout utilisateur d’équipement RFID est responsable de son bon fonctionnement, sous peine de lourdes sanctions. Cette affaire souligne l’importance de la compatibilité et du respect des fréquences allouées pour éviter de tels incidents.\nSource : Next",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://next.ink/157741/quand-des-etiquettes-rfid-passives-perturbent-des-antennes-3g-et-4g/#:~:text=L",
+    "https://www.next.ink/157741/quand-des-etiquettes-rfid-passives-perturbent-des-antennes-3g-et-4g/#:~:text=L"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T11:36:20.736+02:00",
+  "updated": "2024-11-15T11:36:20.736+02:00"
+}

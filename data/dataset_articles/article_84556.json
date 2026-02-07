@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "d14a78e67ec09b6114dd7a96c2ace00ab44fcb2f",
+    "url": "https://finance.sina.com.cn/roll/2025-04-03/doc-inervuvz1803288.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://finance.sina.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪财经_金融信息服务商",
+    "site_title": null,
+    "title": "苹果新专利曝光：Vision Pro 游戏手柄扳机可模拟真实后坐力|苹果新专利_新浪财经_新浪网",
+    "title_full": "苹果新专利曝光：Vision Pro 游戏手柄扳机可模拟真实后坐力|苹果新专利_新浪财经_新浪网",
+    "published": "2025-04-03T02:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 249,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d14a78e67ec09b6114dd7a96c2ace00ab44fcb2f",
+  "url": "https://finance.sina.com.cn/roll/2025-04-03/doc-inervuvz1803288.shtml",
+  "ord_in_thread": 0,
+  "author": "sina.com.cn",
+  "published": "2025-04-03T02:34:00.000+03:00",
+  "title": "苹果新专利曝光：Vision Pro 游戏手柄扳机可模拟真实后坐力|苹果新专利_新浪财经_新浪网",
+  "text": "IT之家 4 月 3 日消息，科技媒体 patentlyapple 昨日（4 月 2 日）发布博文，报道称苹果公司获批一项新专利，描述了为 Vision Pro 头显设计的专用手柄， 其特色是通过旋转磁阻电机为扳机或杠杆提供扭矩反馈机制，以模拟真实射击游戏的触感。\n苹果在专利背景中提出，触控屏虽能模拟虚拟按钮、扳机等输入设备，但缺乏机械装置的触觉反馈。例如，虚拟钢琴键盘无法还原真实琴键下压感，游戏扳机也无法提供物理扣动的确认感。\n部分实体输入设备因机械结构差异，仍难以精准复现目标设备的触感，如电子钢琴键缺失击弦机结构、游戏手柄扳机无真实弹簧杠杆。这种缺陷会降低操作准确性，削弱娱乐体验的沉浸感。\nIT之家援引博文介绍，新专利的核心是采用旋转磁阻电机为扳机或杠杆提供动态扭矩反馈。该电机包含两个不对称磁极（由不等大 / 形状的磁芯线圈组构成），分布于永磁体一侧或两侧。\n在用户扣动扳机后，永磁体或磁极会相对旋转。通过编程控制线圈通电时机，可在不同按压角度磁化磁芯，实时调整扭矩大小，从而模拟不同扳机（如手枪扳机与狙击枪扳机）的阻力差异。\n专利附图展示了多种设计变体：永磁体可与扳机联动旋转（磁极固定），或磁极随扳机旋转（永磁体固定）。\n图 4A 和 6 揭示了磁芯线圈组的两种布局方式；图 8D 描述了一种为旋转磁阻电机提供恒定扭矩的辅助马达。该技术能快速修改扭矩反馈曲线，在射击游戏中实现“扣动扳机-后坐力”的拟真链路，甚至模拟武器卡壳等特殊状态。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->products and services",
+    "Lifestyle and Leisure->gaming and lottery"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:41:22.519+03:00",
+  "updated": "2025-04-03T02:41:22.519+03:00"
+}

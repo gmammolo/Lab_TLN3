@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "6a169a85553f88bd58eebae7cd57dcaf4c6312ed",
+    "url": "https://www3.nhk.or.jp/nhkworld/en/news/20250814_08/",
+    "site_full": "www3.nhk.or.jp",
+    "site": "nhk.or.jp",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": [
+      "japan",
+      "travel"
+    ],
+    "section_title": "",
+    "site_title": "NHK | 日本放送協会",
+    "title": "Security firm finds dozens of fake J-pop live-streaming sites",
+    "title_full": "Security firm finds dozens of fake J-pop live-streaming sites",
+    "published": "2025-08-14T09:35:09.139+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20250814_08_1558659_L.jpg",
+    "performance_score": 0,
+    "domain_rank": 912,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6a169a85553f88bd58eebae7cd57dcaf4c6312ed",
+  "url": "https://www3.nhk.or.jp/nhkworld/en/news/20250814_08/",
+  "ord_in_thread": 0,
+  "author": "NHK WORLD",
+  "published": "2025-08-14T09:35:09.139+03:00",
+  "title": "Security firm finds dozens of fake J-pop live-streaming sites",
+  "text": "Security company Trend Micro has found at least 30 fake websites posing as live streams by Japanese pop artists in an apparent attempt to steal credit card information.\nThe company conducted research following earlier reports of similar websites impersonating pop idol groups managed by Japanese talent agency Starto Entertainment.\nThe agency on Wednesday announced posts by fraudulent accounts posing as groups it manages were traced to Bangladesh.\nIt said it confirmed the accounts claiming to offer live streams were directing viewers to fake websites to obtain their credit card details.\nTrend Micro found some other fake websites were impersonating other Japanese pop groups such as Mrs. Green Apple.\nThe firm says its analysis suggests the scam websites were all created using the same website builder.\nTrend Micro Chief Analyst Motono Kenichiro says if people casually enter their credit card information to see if they can really watch artists' live streams, it could be stolen and possibly used to commit crimes.\nHe urged people to always check official websites before signing up for live-streaming content.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Crime, Law and Justice->cyber crime",
+    "Social Issue->adults",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Motono Kenichiro",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:35:09.139+03:00",
+  "updated": "2025-08-14T09:53:53.000+03:00"
+}

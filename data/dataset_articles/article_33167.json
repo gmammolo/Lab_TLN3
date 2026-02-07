@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "18ecc973f4c7a97377e116e64daa896c1bba18d8",
+    "url": "https://communities.sas.com/t5/SAS-Communities-Library/Data-Driven-Analytics-in-SAS-Viya-The-AI-and-Analytics-Lifecycle/ta-p/923042",
+    "site_full": "communities.sas.com",
+    "site": "sas.com",
+    "site_section": "https://communities.sas.com:443/t5/sas-visual-analytics/bd-p/sas_va/page/269",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "\n\tSAS Visual Analytics - Page 269 - SAS Support Communities\n",
+    "title": "Data-Driven Analytics in SAS Viya – The AI and Analytics Lifecycle",
+    "title_full": "Data-Driven Analytics in SAS Viya – The AI and Analytics Lifecycle",
+    "published": "2024-04-04T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://communities.sas.com/t5/image/serverpage/image-id/94016iC92365279EABE47E?v=v2",
+    "performance_score": 0,
+    "domain_rank": 2368,
+    "domain_rank_updated": "2024-04-02T13:08:08.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "18ecc973f4c7a97377e116e64daa896c1bba18d8",
+  "url": "https://communities.sas.com/t5/SAS-Communities-Library/Data-Driven-Analytics-in-SAS-Viya-The-AI-and-Analytics-Lifecycle/ta-p/923042",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "AndyRavenna",
+  "published": "2024-04-04T03:00:00.000+03:00",
+  "title": "Data-Driven Analytics in SAS Viya – The AI and Analytics Lifecycle",
+  "text": "The purpose of this blog is to show how easy it is to perform data-driven analytics in SAS Viya. This is the first in a series of posts that will use statistics and machine learning objects in SAS Visual Analytics to address real world business problems. SAS Viya does an awesome job of connecting all aspects of the AI and Analytics lifecycle. We’ll be focusing in on the first two parts of that lifecycle: managing data and developing models. Select any image to see a larger version.\nMobile users: To view the images, select the \"Full\" version at the bottom of the page.\nIn today’s world, data scientists need efficient and powerful tools to wrangle their data into easy to interpret solutions. We will step through both parts of the analytics lifecycle in order to investigate and address a scenario that involves a variable annuity data table called develop. The develop table contains just over 32,000 banking customers (or cases) and 47 input variables. The scenario involves a banking target marketing campaign that aims to identify those customers most like to purchase a variable annuity. If you’re not familiar, a variable annuity is a type of insurance product that typically contains features like a death benefit and/or lifetime income. The 47 input variables reflect both demographic information as well as product usage captured over a three-month period. The target variable is Ins which is a binary variable. For Ins, a value of 1 indicates the customer purchased a variable annuity product and a 0 indicates they did not.\nLet’s begin our journey through the data phase of the analytics lifecycle with some data exploration. One of the very first things that I learned when I started working at SAS over 33 years ago was “Know Thy Data.” Which basically means, you should always explore the features of your data before you start any serious analysis. Exploration of data involves things such as looking for noticeable anomalies or patterns, finding data errors that need to be corrected, and determining if any imputation or transformations might be needed. Since we’re going to be working in the Visual Analytics interface of SAS Viya, we should take advantage of some views of the data that are already available.\nFrom SAS Drive, we open the Visual Analytics web application by clicking the applications menu icon and selecting Explore and Visualize . From the Explore and Visualize window, we click on Start with Data and select the DEVELOP table. The Details tab of the Choose Data window already gives us some useful information about the table. Having a total of 51 columns and just over 32,000 rows, we can see the names, labels, and types of each column.\nMoving over to the Sample Data tab we begin our data exploration by examining some of the values of our data. Right away, we’ll notice we have several binary variables and even some missing values. That’s good information to just keep in our back pocket for now.\nWhere things get really interesting is when we click on the Profile tab. First, let’s note that there are several variables that contain null or missing values. This is something we will want to address since we will be building models. Many of the methods that we’ll be looking at use “complete case analysis” which means that if a value of an input is missing, the entire row is eliminated from the analysis. Complete case analysis can result in the loss of large quantities of data, so it is good to identify which inputs have missing values in our data. Secondly, as we examine the Profile tab, let’s note that the input named Branch has a total of 19 unique levels. Sometimes, categorical variables with too many levels can be problematic in model building. Finally, if we scroll down, it is useful to note that the customerid column is 100% unique which makes it a primary key for this table.\nClick on OK to bring the entire develop table into Visual Analytics and we can further explore the data. Grab our target variable Ins with the mouse and drag and drop it onto the canvas. That will cause us to get an Auto Chart which is basically the chart that Visual Analytics “thinks” we would like to see. We end up with a bar chart of frequency counts for the two levels of Ins. In the right-hand pane select Roles and left-click Frequency (under Measure) to open the Replace Data Item window. Select Frequency Percent from the list of variables. The chart now reveals to us that nearly 35% of our customers are purchasers (or have acquired the insurance product). That’s a reasonably healthy percentage of events for our target. When building models, we typically get concerned when the event is 10% of the target or less. It can be difficult to model data with a target that has what is known as a “rare event”. We might choose to address that situation with an over-sampling method if we had that issue. But we are in good shape with our target of Ins.\nNext, let’s randomly grab one of our inputs like the household income and examine its distribution. Click on New Page to give us a blank canvas. In the left-hand pane select Data and then drag and drop Income onto the canvas. Income appears to be positive and highly skewed to the right. Though Income might be a good candidate for transformation, it also has some missing values (not shown on this plot). It’s appropriate to address the missing values first and then look at transformation.\nIf you have several variables that require modifications, it might be easier to perform some of your data cleansing using code. But since we are focusing in on the Visual Analytics interface, let me show you how we can do it in a point and click interface. Let’s begin by imputing the missing values of the Income variable with the average value which is 40.59. An easy way to find this average value quickly is by selecting the Actions icon on the Data pane and then clicking on View measure details .\nTo begin the imputation process on the Income column, select New data Item and then Calculated item on the Data pane. In the Name field of the New Calculated Item window, enter Imp_Income as the Name of the newly created variable. Click the Operators tab and expand the Boolean group. Double-click the IF…ELSE operator to add it to the expression. Then expand the Comparison group and drag x=y to the condition field in the expression. Next, return to the Data Items tab and expand the Numeric group. Drag Income to the number field on the left of the equal sign in the parenthesis. Enter . (missing) in the number field to the right of the equal sign in the parenthesis. Enter 40.59 on the number field for the RETURN operator. Finally drag Income to the number field for the ELSE operator.\nSelect OK to close the Edit Calculated Item window and the new column Imp_Income appears in the Data pane. You can create a new Auto Chart and compare the original column to the new one. Drag Imp_Income and drop it on the same page and to the left of the original Income distribution chart. We see a spike or peak where we replaced the missing values with the average value.\nLet’s finish up this post by using a log transformation on Imp_Income in hopes of getting what looks like more of a normal distribution. While we could create another new data item, I think it is more efficient to keep the one we have and modify it. Right-click on Imp_Income and select Edit . Update the Name field of the Edit Calculated Item window from Imp_Income to Log_Imp_Income . Right-click the entire condition box and select Use Inside → Numeric (advanced) → Log . Then type 10 into the number field and hit Enter . Once again right-click the entire condition box (and only the condition box) and select Use Inside → x + y . Then type 1 into the number field and hit Enter . Since we know that Income has a minimum of 0, we are adding 1 before we take the log to avoid errors. This is a common practice.\nIf all that pointing and clicking is just too complex, you can always just go over to the Text tab of the Edit Calculated Item window and type in the expression.\nClick OK to close the window and you will find that the frequency distribution plot has been automatically updated with the new calculated expression. Good news, it looks like the transformed version of Imputation looks more normally distributed than the original. Of course, we have a peak where we imputed the missing values, but that was expected.\nIf you are already dealing with data in the real world, you know that we’ve just scratched the surface of data exploration, data cleaning, and data management. Hopefully, I’ve given you an idea of what is involved in the data portion of the analytics life cycle. In my next post, I plan to move into both unsupervised and supervised analysis. If you would like to learn more about exploring and managing your data in SAS Visual Analytics, I suggest you check out SAS® Visual Analytics 1 for SAS® Viya®: Basics . In this course you will learn how to perform data discovery and analysis, access and investigate data, and view and interact with reports using SAS Visual Analytics. Never stop learning!\nFind more articles from SAS Global Enablement and Learning here .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health",
+    "Education"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "viya",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "sas visual analytics",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-05T00:34:22.135+03:00",
+  "updated": "2024-04-05T00:34:22.135+03:00"
+}

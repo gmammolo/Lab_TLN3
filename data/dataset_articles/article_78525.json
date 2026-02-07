@@ -1,0 +1,116 @@
+{
+  "thread": {
+    "uuid": "7b0e1f8288b7c525f7e7ae80dc542df5e998c6fa",
+    "url": "https://www.ainvest.com/news/phantom-warns-fake-google-ads-stealing-seed-phrases-2508/",
+    "site_full": "www.ainvest.com",
+    "site": "ainvest.com",
+    "site_section": "http://www.ainvest.com",
+    "site_categories": [],
+    "section_title": "AInvest: AI Stock Analysis, Quotes &amp; News - Get Free Tools Now!",
+    "site_title": "AInvest: AI Stock Analysis, Quotes &amp; News - Get Free Tools Now!",
+    "title": "Phantom Warns of Fake Google Ads Stealing Seed Phrases",
+    "title_full": "Phantom Warns of Fake Google Ads Stealing Seed Phrases",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.ainvest.com/wencai-ssr/og-image-news-20240226.png",
+    "performance_score": 0,
+    "domain_rank": 102818,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7b0e1f8288b7c525f7e7ae80dc542df5e998c6fa",
+  "url": "https://www.ainvest.com/news/phantom-warns-fake-google-ads-stealing-seed-phrases-2508/",
+  "ord_in_thread": 0,
+  "author": "Coin World",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "Phantom Warns of Fake Google Ads Stealing Seed Phrases",
+  "text": "Phantom Warns of Fake Google Ads Stealing Seed Phrases\n- Phantom warns users of fake Google Ads mimicking its wallet, redirecting to phishing sites to steal seed phrases.\n- Fraudulent sites replicate Phantom's branding, urging immediate seed phrase entry—a tactic the company explicitly denies.\n- Phantom advises verifying domain names and avoiding online seed phrase entry, as part of its phishing protection measures.\n- NZ's FMA alerts about crypto scams via messaging apps, mimicking financial services to steal assets through fake investment groups.\n- Scammers increasingly use AI to create realistic fake platforms, exploiting search ads and social media to target investors.\nPhantom, a leading multi-chain crypto and NFT wallet service provider, has issued a warning about fake Google Ads targeting investors. The ads, appearing when users search for the term “Phantom,” do not originate from the company and instead redirect users to malicious websites designed to steal sensitive information such as seed phrases [1]. These fraudulent sites are visually identical to Phantom’s official platform, yet they prompt users to enter their seed phrases immediately—a tactic Phantom has explicitly denied employing [1].\nThe cybersecurity team at Phantom disclosed these tactics in an August 21 blog post, urging users to remain cautious when encountering sponsored search results for the term “Phantom.” The company emphasized that entering a seed phrase online is inherently risky and should never be done. Phantom also advised users to verify the domain name before clicking on any links and to bookmark official pages for easy access [1].\nPhantom Wallet, launched in 2021, is a non-custodial wallet that supports multiple blockchain networks, including Solana, Ethereum, and Bitcoin. It is known for its phishing protection, scam detection system, and ease of use. The wallet has attracted over 15 million monthly active users and has facilitated $20 billion in annual swap volume and $25 billion in self-custody assets [1].\nAs the crypto and NFT markets recover in 2025, the sophistication of scams has also increased. Scammers are leveraging AI-powered tools to create realistic fake websites and social media profiles, often shared through direct messages or search engine ads. These deceptive platforms may mimic legitimate services to gain trust before extracting sensitive information or draining digital wallets [1].\nPhantom’s investigation team has noted that the fake Google Ads often lead to websites that mimic their own branding, prompting victims to enter personal data under false pretenses. The company reiterated that it would never ask for a seed phrase through online forms or unverified links [1].\nFake giveaways and airdrops are also common tactics, where scammers lure users with promises of free tokens or NFTs. Once users click on the links, they are directed to malicious websites that may request wallet connections or transaction approvals, which can lead to significant financial losses [1].\nIn a related development, the Financial Markets Authority (FMA) of New Zealand issued a warning in August 2025 about scams using messaging apps like WhatsApp and Telegram. These schemes mimic legitimate financial services and promise high returns to attract users into fake investment groups [2]. Scammers often gain remote access to victims’ devices through deceptive app downloads, allowing them to monitor communications and manipulate data [2].\nThese scams share characteristics with illegal schemes such as Ponzi and pyramid structures, which are prohibited in New Zealand. The FMA has urged the public to verify any financial service provider against the Financial Service Providers Register before engaging [2].\nThe Phantom Flags campaign represents an evolution of these tactics, using the legitimacy of Google ads to reach a wider audience. As scammers continue to adapt their methods, users are encouraged to stay informed and report suspicious activity to relevant platforms and authorities [1][2].\nSource:\n[1] Phantom Flags Fake Google Ads Targeting NFT Investors\n(https://insidebitcoins.com/news/phantom-flags-fake-google-ads-targeting-nft-and-crypto-investors)\n[2] 2025\n(...)\nComments\nNo comments yet",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "FMA",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "NFT",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:58:07.702+03:00",
+  "updated": "2025-08-21T13:00:52.000+03:00"
+}

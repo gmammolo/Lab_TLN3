@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "9c956b3d80a0d43d91433c3696b712069e593724",
+    "url": "https://www.thurrott.com/cloud/web-browsers/google-chrome/311646/chrome-for-android-to-support-third-party-autofill-services",
+    "site_full": "www.thurrott.com",
+    "site": "thurrott.com",
+    "site_section": "https://www.thurrott.com",
+    "site_categories": [
+      "windows",
+      "hobbies_and_interests",
+      "tech",
+      "video_and_computer_games"
+    ],
+    "section_title": "Home - Thurrott.com",
+    "title": "Chrome for Android to Support Third-Party Autofill Services",
+    "title_full": "Chrome for Android to Support Third-Party Autofill Services",
+    "published": "2024-10-18T02:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 17953,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9c956b3d80a0d43d91433c3696b712069e593724",
+  "url": "https://www.thurrott.com/cloud/web-browsers/google-chrome/311646/chrome-for-android-to-support-third-party-autofill-services",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Paul Thurrott",
+  "published": "2024-10-18T02:08:00.000+03:00",
+  "title": "Chrome for Android to Support Third-Party Autofill Services",
+  "text": "Google Chrome for Android will soon be updated to support third-party autofill services, including password managers. I guess I had assumed this just worked, but looking at it now, I can see that’s not the case.\n“Google is the default autofill service on Chrome, providing passwords, passkeys and autofill for other information like addresses and payment data,” Google developer advocate Eiji Kitamura writes . “A third-party password manager can be set as the preferred autofill service on Android through system Settings. The preferred autofill service can fill across all Android apps. However, to autofill forms on Chrome, the autofill service needs to use ‘compatibility mode.’ This causes glitches on Chrome such as janky page scrolling and potentially showing duplicate suggestions from Google and a third party.”\nTo address this problem, Chrome 131–which arrives on November 21–will allow third-party autofill providers to natively autofill passwords, passkeys, credit cards, and other personal data.\nBut you don’t have to wait for Chrome 131: You can enable this functionality today by enabling a Chrome flag. Assuming you’ve already chosen a third-party autofill provider in Android Settings (in Passwords, passkeys, & accounts), open Chrome for Android and navigate to the following URL:\nchrome://flags#enable-autofill-virtual-view-structure\nThen, change that flag to “Enabled” and restart Chrome as prompted. Then, open Chrome settings and tap “Autofill Options.” Change this setting to “Use other providers.” Then, restart Chrome again.\nWhen you get back, you should be able to sign in using whatever Autofill provider you selected in Android. I assume a similar change is coming to Chrome for iOS: Looking at that app, I see it behaves as does Chrome for Android, in that it uses Google Password Manager, not the autofill provider I selected in iOS.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://android-developers.googleblog.com/2024/10/chrome-3p-autofill-services.html",
+    "https://www.android-developers.googleblog.com/2024/10/chrome-3p-autofill-services.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T02:39:06.626+03:00",
+  "updated": "2024-10-18T02:39:06.626+03:00"
+}

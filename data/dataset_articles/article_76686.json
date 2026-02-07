@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "99cee1c511449d7dd9df5cb1a77c5e5ea3663279",
+    "url": "https://www.laniercountynewsonline.com/2025/08/14/georgia-schools-and-businesses-caught-in-crosshairs-of-blacksuit-ransomware-crime-spree/",
+    "site_full": "www.laniercountynewsonline.com",
+    "site": "laniercountynewsonline.com",
+    "site_section": "https://www.laniercountynewsonline.com",
+    "site_categories": [],
+    "section_title": "Lanier County News",
+    "site_title": "Lanier County News",
+    "title": "Georgia Schools and Businesses Caught in Crosshairs of BlackSuit Ransomware Crime Spree",
+    "title_full": "Georgia Schools and Businesses Caught in Crosshairs of BlackSuit Ransomware Crime Spree",
+    "published": "2025-08-14T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": null,
+    "domain_rank_updated": null,
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "99cee1c511449d7dd9df5cb1a77c5e5ea3663279",
+  "url": "https://www.laniercountynewsonline.com/2025/08/14/georgia-schools-and-businesses-caught-in-crosshairs-of-blacksuit-ransomware-crime-spree/",
+  "ord_in_thread": 0,
+  "author": "Editor",
+  "published": "2025-08-14T08:00:00.000+03:00",
+  "title": "Georgia Schools and Businesses Caught in Crosshairs of BlackSuit Ransomware Crime Spree",
+  "text": "By Carol A. Gasser Moore |\nATLANTA — Federal authorities on August 11, 2025 , announced a major disruption operation that dismantled BlackSuit (formerly Royal) ransomware infrastructure — seizing four servers, nine domains and roughly $1.09 million in virtual currency through coordinated efforts by the Justice Department, DHS, FBI, IRS-CI and international partners.\nCritical Georgia connections emerge :\nIn Henry County, Georgia , the BlackSuit group hit the school system in early November 2023 , forcing the entire district offline and compromising a file storage area. The breach affected historical and procedural documents, though student information, HR, financial and email systems were spared. School officials, along with the FBI, DHS and state and local authorities, gradually restored network access, Chromebooks and core services while resetting passwords and investigating further. A significant data breach also struck an Atlanta‑based company— Young Consulting , now known as Connexure . In April 2024 , BlackSuit infiltrated its systems between April 10 and 13, exfiltrating sensitive data for more than 954,000 individuals —including names, Social Security numbers, dates of birth, insurance claims and policy details. In July 2025 , the tally of affected individuals exceeded 1 million , as confirmed in a regulatory filing. The company continues to offer credit monitoring and identity protection services to victims. What this signals for Georgia\nThese incidents underscore the broad impact of the BlackSuit gang within Georgia’s education and business sectors. The type of targets—from K‑12 infrastructure to healthcare‑related software providers—highlights ransomware’s growing reach across public and private domains.\nAs of Aug. 2025 , the criminal group is believed to have compromised over 450 U.S. organizations , including those in education, healthcare, energy, and public safety, extracting roughly $370 million in cryptocurrency before the recent takedown.\nLooking ahead , while the disruption effort dealt a meaningful blow to BlackSuit’s operations, authorities caution that the gang’s significant illicit earnings may enable future resurgence. Georgia institutions are advised to heighten cybersecurity resilience—including multifactor authentication, regular backups, privileged access restrictions, and incident response planning.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->discrimination",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Carol A. Gasser Moore",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Henry County",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Justice Department",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "FBI",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DHS",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Valdosta",
+        "Lakeland",
+        "Aldora"
+      ],
+      "state": [
+        "Georgia"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T08:35:01.490+03:00",
+  "updated": "2025-08-14T08:41:38.000+03:00"
+}

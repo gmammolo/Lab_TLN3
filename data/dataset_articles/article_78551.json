@@ -1,0 +1,176 @@
+{
+  "thread": {
+    "uuid": "00182ab3ff6d03ef3bad0fc7a7488dc3444eea34",
+    "url": "https://www.news.de/technik/858863413/http-2-implementierungen-gefaehrdet-it-sicherheitshinweis-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-20-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "http/2 Implementierungen gefährdet: Schwachstelle ermöglicht Denial of Service",
+    "title_full": "http/2 Implementierungen gefährdet: Schwachstelle ermöglicht Denial of Service",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771823/images/d7/f8/448c6d4864dfc82aef046b28e967/nopic/no_pic/1200/675/1/1/-/4/1024/576/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771823_1200x675_ab305ff52d7fb3faa7c0b5f0ddb416c1.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "00182ab3ff6d03ef3bad0fc7a7488dc3444eea34",
+  "url": "https://www.news.de/technik/858863413/http-2-implementierungen-gefaehrdet-it-sicherheitshinweis-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-20-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "http/2 Implementierungen gefährdet: Schwachstelle ermöglicht Denial of Service",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 13.08.2025 einen Sicherheitshinweis für http/2 Implementierungen herausgegeben. Betroffen von der Sicherheitslücke sind die Betriebssysteme Linux, UNIX und Windows sowie die Produkte Apache Tomcat, Red Hat Enterprise Linux, Open Source lighttpd, Oracle Linux, SUSE openSUSE, Specification http/2, Open Source Varnish HTTP Cache, Red Hat JBoss Web Server und Eclipse Jetty. Die folgende Meldung wurde zuletzt am 20.08.2025 aktualisiert.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: Red Hat Security Advisory RHSA-2025:14181 (Stand: 20.08.2025). Weitere nützliche Links werden weiter unten in diesem Artikel aufgeführt.\nSicherheitshinweis für http/2 Implementierungen - Risiko: mittel\nRisikostufe: 3 (mittel)\nCVSS Base Score: 7,5\nCVSS Temporal Score: 6,5\nRemoteangriff: Ja\nZur Bewertung des Schweregrads von Schwachstellen in Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Kriterien miteinander zu vergleichen, um eine darauf aufbauende Prioritätenliste zur Einleitung von Gegenmaßnahmen zu erstellen. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Der Temporal Score berücksichtigt darüber hinaus zeitliche Veränderungen hinsichtlich der Gefahrenlage. Der Schweregrad der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 7,5 als \"mittel\" eingeschätzt.\nhttp/2 Implementierungen Bug: Schwachstelle ermöglicht Denial of Service\nhttp/2 ist das HyperText Transfer Protocol in Version 2.\nEin entfernter, anonymer Angreifer kann eine Schwachstelle in verschiednen http/2 Implementierungen ausnutzen, um einen Denial of Service Angriff durchzuführen.\nDie Verwundbarkeit wird mit den individuellen CVE-Seriennummern (Common Vulnerabilities and Exposures) CVE-2025-48989, CVE-2025-5115, CVE-2025-55163 und CVE-2025-8671 gehandelt.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssysteme\nLinux, UNIX, Windows\nProdukte\nApache Tomcat <11.0.10 (cpe:/a:apache:tomcat)\nApache Tomcat 11.0.10 (cpe:/a:apache:tomcat)\nApache Tomcat <9.0.108 (cpe:/a:apache:tomcat)\nApache Tomcat 9.0.108 (cpe:/a:apache:tomcat)\nRed Hat Enterprise Linux (cpe:/o:redhat:enterprise_linux)\nOpen Source lighttpd (cpe:/a:lighttpd:lighttpd)\nOracle Linux (cpe:/o:oracle:linux)\nSUSE openSUSE (cpe:/o:suse:opensuse)\nSpecification http/2 (cpe:/a:ietf:http2)\nRed Hat Enterprise Linux Apache Camel 1 (cpe:/o:redhat:enterprise_linux)\nApache Tomcat <10.1.44 (cpe:/a:apache:tomcat)\nApache Tomcat 10.1.44 (cpe:/a:apache:tomcat)\nOpen Source Varnish HTTP Cache <7.6.4 (cpe:/a:varnish_http_accelerator_integration_project:varnish)\nOpen Source Varnish HTTP Cache 7.6.4 (cpe:/a:varnish_http_accelerator_integration_project:varnish)\nOpen Source Varnish HTTP Cache <7.7.2 (cpe:/a:varnish_http_accelerator_integration_project:varnish)\nOpen Source Varnish HTTP Cache 7.7.2 (cpe:/a:varnish_http_accelerator_integration_project:varnish)\nOpen Source Varnish HTTP Cache <6.0.15 (cpe:/a:varnish_http_accelerator_integration_project:varnish)\nOpen Source Varnish HTTP Cache 6.0.15 (cpe:/a:varnish_http_accelerator_integration_project:varnish)\nRed Hat JBoss Web Server <6.1.2 (cpe:/a:redhat:jboss_enterprise_web_server)\nRed Hat JBoss Web Server 6.1.2 (cpe:/a:redhat:jboss_enterprise_web_server)\nRed Hat Enterprise Linux Quarkus 3.15.6.SP1 (cpe:/o:redhat:enterprise_linux)\nRed Hat Enterprise Linux Quarkus 3.20.2.SP1 (cpe:/o:redhat:enterprise_linux)\nEclipse Jetty <9.4.58 (cpe:/a:eclipse:jetty)\nEclipse Jetty 9.4.58 (cpe:/a:eclipse:jetty)\nEclipse Jetty <10.0.26 (cpe:/a:eclipse:jetty)\nEclipse Jetty 10.0.26 (cpe:/a:eclipse:jetty)\nEclipse Jetty <11.0.26 (cpe:/a:eclipse:jetty)\nEclipse Jetty 11.0.26 (cpe:/a:eclipse:jetty)\nEclipse Jetty <12.0.25 (cpe:/a:eclipse:jetty)\nEclipse Jetty 12.0.25 (cpe:/a:eclipse:jetty)\nEclipse Jetty <12.1.0.beta3 (cpe:/a:eclipse:jetty)\nEclipse Jetty 12.1.0.beta3 (cpe:/a:eclipse:jetty)\nAllgemeine Maßnahmen zum Umgang mit IT-Schwachstellen\n- Anwender der betroffenen Systeme sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten neue Sicherheitsupdates verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten die genannten Quellen regelmäßig daraufhin prüfen, ob ein neues Sicherheitsupdate zur Verfügung steht.\nQuellen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nRed Hat Security Advisory RHSA-2025:14181 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14181\nRed Hat Security Advisory RHSA-2025:14197 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14197\nOracle Linux Security Advisory ELSA-2025-14177 vom 2025-08-21 (20.08.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-14177.html\nRed Hat Security Advisory RHSA-2025:14183 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14183\nRed Hat Security Advisory RHSA-2025:14178 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14178\nRed Hat Security Advisory RHSA-2025:14179 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14179\nGitHub Security Advisory GHSA-MMXM-8W33-WC4H vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://github.com/jetty/jetty.project/security/advisories/GHSA-mmxm-8w33-wc4h\nRed Hat Security Advisory RHSA-2025:14180 vom 2025-08-21 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14180\nRed Hat Security Advisory RHSA-2025:14177 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14177\nRed Hat Security Advisory RHSA-2025:14182 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14182\nRed Hat Security Advisory RHSA-2025:14008 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14008\nRed Hat Security Advisory RHSA-2025:14004 vom 2025-08-19 (19.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14004\nopenSUSE Security Update OPENSUSE-SU-2025:15449-1 vom 2025-08-16 (17.08.2025)\nWeitere Informationen finden Sie unter: https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/LD37QPQBLKIFMKWJXACHGPA7WALFCOM7/\nRed Hat Security Advisory RHSA-2025:13685 vom 2025-08-14 (13.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:13685\nRed Hat Security Advisory RHSA-2025:13686 vom 2025-08-13 (13.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:13686\nTomcat 11 Security vom 2025-08-13 (13.08.2025)\nWeitere Informationen finden Sie unter: https://tomcat.apache.org/security-11.html\nTomcat 10 Security vom 2025-08-13 (13.08.2025)\nWeitere Informationen finden Sie unter: https://tomcat.apache.org/security-10.html\nTomcat 9 Security vom 2025-08-13 (13.08.2025)\nWeitere Informationen finden Sie unter: https://tomcat.apache.org/security-9.html\nMailing List OSS Security vom 2025-08-13 (13.08.2025)\nWeitere Informationen finden Sie unter: https://seclists.org/oss-sec/2025/q3/95\nVarnish Security Advisory VSV00017 vom 2025-08-13 (13.08.2025)\nWeitere Informationen finden Sie unter: https://varnish-cache.org/security/VSV00017.html\nCERT/CC VU#767506 vom 2025-08-13 (13.08.2025)\nWeitere Informationen finden Sie unter: https://kb.cert.org/vuls/id/767506\nGal Bar Nahum's Blog - MadeYouReset Series vom 2025-08-13 (13.08.2025)\nWeitere Informationen finden Sie unter: https://galbarnahum.com/made-you-reset\nVersionshistorie dieses Sicherheitshinweises\nDies ist die 4. Version des vorliegenden IT-Sicherheitshinweises für http/2 Implementierungen. Sollten weitere Updates bekanntgegeben werden, wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.\n13.08.2025 - Initiale Fassung\n17.08.2025 - Neue Updates von openSUSE aufgenommen\n19.08.2025 - Neue Updates von Red Hat aufgenommen\n20.08.2025 - Neue Updates von Red Hat, Open Source, Oracle Linux und European Union Vulnerability Database aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://access.redhat.com/errata/RHSA-2025:14183",
+    "https://twitter.com/news_de",
+    "https://kb.cert.org/vuls/id/767506",
+    "https://tomcat.apache.org/security-11.html",
+    "https://tomcat.apache.org/security-9.html",
+    "https://access.redhat.com/errata/RHSA-2025:13686",
+    "https://varnish-cache.org/security/VSV00017.html",
+    "https://access.redhat.com/errata/RHSA-2025:14197",
+    "https://linux.oracle.com/errata/ELSA-2025-14177.html",
+    "https://access.redhat.com/errata/RHSA-2025:14182",
+    "https://access.redhat.com/errata/RHSA-2025:14181",
+    "https://access.redhat.com/errata/RHSA-2025:14180",
+    "https://www.facebook.com/News.de",
+    "https://galbarnahum.com/made-you-reset",
+    "https://access.redhat.com/errata/RHSA-2025:13685",
+    "https://access.redhat.com/errata/RHSA-2025:14178",
+    "https://access.redhat.com/errata/RHSA-2025:14008",
+    "https://access.redhat.com/errata/RHSA-2025:14179",
+    "https://seclists.org/oss-sec/2025/q3/95",
+    "https://github.com/jetty/jetty.project/security/advisories/GHSA-mmxm-8w33-wc4h",
+    "https://access.redhat.com/errata/RHSA-2025:14004",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://tomcat.apache.org/security-10.html",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/LD37QPQBLKIFMKWJXACHGPA7WALFCOM7/",
+    "https://access.redhat.com/errata/RHSA-2025:14177",
+    "https://pin.it/11NQyAf",
+    "https://www.access.redhat.com/errata/RHSA-2025:14182",
+    "https://www.access.redhat.com/errata/RHSA-2025:14183",
+    "https://www.access.redhat.com/errata/RHSA-2025:14180",
+    "https://www.access.redhat.com/errata/RHSA-2025:14181",
+    "https://www.varnish-cache.org/security/VSV00017.html",
+    "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/LD37QPQBLKIFMKWJXACHGPA7WALFCOM7",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://www.access.redhat.com/errata/RHSA-2025:14179",
+    "https://www.galbarnahum.com/made-you-reset",
+    "https://www.tomcat.apache.org/security-10.html",
+    "https://www.seclists.org/oss-sec/2025/q3/95",
+    "https://www.kb.cert.org/vuls/id/767506",
+    "https://www.access.redhat.com/errata/RHSA-2025:13685",
+    "https://www.access.redhat.com/errata/RHSA-2025:13686",
+    "https://www.access.redhat.com/errata/RHSA-2025:14004",
+    "https://www.access.redhat.com/errata/RHSA-2025:14197",
+    "https://www.access.redhat.com/errata/RHSA-2025:14178",
+    "https://www.access.redhat.com/errata/RHSA-2025:14177",
+    "https://www.pin.it/11NQyAf",
+    "https://www.tomcat.apache.org/security-11.html",
+    "https://www.linux.oracle.com/errata/ELSA-2025-14177.html",
+    "https://www.access.redhat.com/errata/RHSA-2025:14008",
+    "https://www.github.com/jetty/jetty.project/security/advisories/GHSA-mmxm-8w33-wc4h",
+    "https://www.lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/LD37QPQBLKIFMKWJXACHGPA7WALFCOM7/",
+    "https://facebook.com/News.de",
+    "https://www.twitter.com/news_de",
+    "https://www.tomcat.apache.org/security-9.html"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "BSI",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Apache Tomcat",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "UNIX",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:23.734+03:00",
+  "updated": "2025-08-22T14:07:32.000+03:00"
+}

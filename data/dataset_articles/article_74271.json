@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "03816f054c35268c2bb73d12fc2eae8b935bb42c",
+    "url": "https://www.news18.com/world/british-wfh-engineer-technical-error-flights-delayed-7-lakh-passengers-stranded-9121681.html",
+    "site_full": "www.news18.com",
+    "site": "news18.com",
+    "site_section": "https://news18.com/studio18",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": " News18 ",
+    "title": "A British WFH Engineer's Technical Error Left 7 Lakh Passengers Stranded. Here's How",
+    "title_full": "A British WFH Engineer's Technical Error Left 7 Lakh Passengers Stranded. Here's How",
+    "published": "2024-11-15T13:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.news18.com/ibnlive/uploads/2024/08/untitled-design-2024-08-21t183412.433-2024-08-088d9dd73c6ec912fcaaac7735d711d8-16x9.jpg?impolicy=website&amp;width=1200&amp;height=675",
+    "performance_score": 0,
+    "domain_rank": 2359,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "03816f054c35268c2bb73d12fc2eae8b935bb42c",
+  "url": "https://www.news18.com/world/british-wfh-engineer-technical-error-flights-delayed-7-lakh-passengers-stranded-9121681.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Aveek Banerjee",
+  "published": "2024-11-15T13:59:00.000+02:00",
+  "title": "A British WFH Engineer's Technical Error Left 7 Lakh Passengers Stranded. Here's How",
+  "text": "A British WFH Engineer's Technical Error Left 7 Lakh Passengers Stranded. Here's How A Level 2 Engineer working remotely during a busy weekend last year was unable to log in with his password, leading to chaos. A password error on the computer of a junior engineer working from home led to widespread chaos as several flights were cancelled and at least 700,000 passengers were stranded at airports. An investigation revealed that delays in authenticating a remote engineer’s password credentials caused the pandemonium. The incident took place during a bank holiday weekend in August last year, one of the busiest days of the year for flights, and caused airlines to lose around 100 million euros in refunds, rebookings, hotel rooms and refreshments, according to The Independent. The glitch was caused by a corrupt file for a flight scheduled for Paris. The Civil Aviation Authority (CAA) found in its investigation that a junior engineer, who was working from home rather than the headquarters of the National Air Traffic Services (NATS), was unable to log in to their computer remotely to resolve the glitch. As soon as automatic flight planning systems failed as early as 8:32 am, a junior Level 1 engineer working on-site began checks. A Level 2 engineer working remotely was contacted 34 minutes later, but their password login details “could not be readily verified due to the architecture of the system\". ALSO READ: [British Airways’ ‘Flight To Nowhere’ Returns After Technical Snag, Leaves Passengers Furious](https://www.news18.com/world/british-airways-flight-to-nowhere-returns-after-technical-snag-leaves-passengers-furious-9107734.html) Techies Reached Site After Four Hours After this, the IT engineers made their way to the airport – around an hour and a half later – but were still not able to fix the problem, reported The New York Post. It took a total of four hours for authorities to address the issue, by the time which thousands of flights were delayed or cancelled. More than 700,000 passengers were stranded at airports over the course of several days and airlines had to pay $126 million in restitution to the aggrieved travellers. The CAA also noted that support from Frequentis Comsoft, which manufactured the automatic flight planning system, was “not sought for more than four hours after the initial event\". In the wake of this incident, the CAA recommended 48 new policy solutions in its inquiry, which included bolstering contingency and crisis response plans and calling for senior engineers to be on duty at NATS offices at all times. The CAA said NATS should consider restoring a Level 2 engineer on site during busy periods such as the summer, along with early notice to airlines and airports of possible disruption. Several aviation organisations said it took too long for them to be informed about the disruption, with several first hearing of it from media coverage. “The report makes clear once again that airlines and passengers were severely let down by NATS due to its failure of resilience and lack of planning. Airlines were then left picking up the pieces and costs, which ran into millions,\" said EasyJet chief executive Johan Lundgren. Notably, this was not the first time the airlines in the UK faced such disruptions. In June, travellers were forced to stand in hours-long lines after the government announced a new policy preventing people from carrying more than 3 ounces (100 ml) of liquid in their carry-on baggage. - Location : - First Published:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "National Air Traffic Services",
+        "sentiment": "none"
+      },
+      {
+        "name": "Civil Aviation Authority",
+        "sentiment": "none"
+      },
+      {
+        "name": "CAA",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T14:38:31.848+02:00",
+  "updated": "2024-11-15T14:38:31.848+02:00"
+}

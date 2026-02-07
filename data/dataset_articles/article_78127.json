@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "e444f8d7c99033be0b2790d05078744faa3f16c7",
+    "url": "https://www.zen-cart.com/showthread.php/230826-CPU-Limit-Issues/page3",
+    "site_full": "www.zen-cart.com",
+    "site": "zen-cart.com",
+    "site_section": "https://www.zen-cart.com/external.php?type=RSS2",
+    "site_categories": [],
+    "section_title": "Zen Cart Support",
+    "site_title": "Zen Cart Support - Zen Cart - Putting the dream of your own business within reach of anyone!",
+    "title": "v158 CPU Limit Issues",
+    "title_full": "v158 CPU Limit Issues",
+    "published": "2025-08-13T16:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 16769,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e444f8d7c99033be0b2790d05078744faa3f16c7",
+  "url": "https://www.zen-cart.com/showthread.php/230826-CPU-Limit-Issues/page3",
+  "ord_in_thread": 0,
+  "author": "Bruce1952",
+  "published": "2025-08-13T16:51:00.000+03:00",
+  "title": "v158 CPU Limit Issues",
+  "text": "Changed it to responsive classic and it is worse now that with bootstrap template and get this error message.\nWARNING: An Error occurred, please let us know!\nLog Error message:\nLanguage id 1\n#0 [internal function]: zen_debug_error_handler()\n#1 /includes/classes/db/mysql/query_factory.php(667): trigger_error()\n#2 /includes/classes/db/mysql/query_factory.php(634): queryFactory->show_error()\n#3 /includes/classes/db/mysql/query_factory.php(324): queryFactory->set_error()\n#4 /includes/modules/sideboxes/whats_new.php(23): queryFactory->ExecuteRandomMulti()\n#5 /includes/modules/column_left.php(30): include('/home/a1ntxxx')\n#6 /includes/templates/responsive_classic/common/tpl_main_page.php(142): require('/home/a1ntacdk3...')\n#7 /index.php(94): require('/home/a1ntxxxx.')\n--> PHP Fatal error: 2006:MySQL server has gone away :: select p.products_id, p.products_image, p.products_tax_class_id, p.products_price, pd.products_name,\np.master_categories_id\nfrom (products p\nleft join products_description pd on p.products_id = pd.products_id )\nwhere p.products_id = pd.products_id\nand pd.language_id = '1'\nand p.products_status = 1 ==> (as called by) /includes/modules/sideboxes/whats_new.php on line 23 <== in /includes/classes/db/mysql/query_factory.php on line 667.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business service",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:27:48.691+03:00",
+  "updated": "2025-08-21T11:32:23.000+03:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "00400f47ff9a83daab21e865706b5c54e80c94c3",
+    "url": "https://cryptonews.net/es/news/security/31430035",
+    "site_full": "cryptonews.net",
+    "site": "cryptonews.net",
+    "site_section": "https://cryptonews.net/es",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "Noticias mundiales sobre criptomoneda y tecnología blockchain de diversas fuentes",
+    "site_title": "World news about cryptocurrency and blockchain technology from different sources",
+    "title": "Filtración masiva revela arsenal de espionaje y robo cripto del grupo hacker Kimsuky",
+    "title_full": "Filtración masiva revela arsenal de espionaje y robo cripto del grupo hacker Kimsuky",
+    "published": "2025-08-14T10:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cnews24.ru/uploads/a80/a80caf736a3b45aee1c1579a958f2b7d966843b5.jpg",
+    "performance_score": 0,
+    "domain_rank": 51069,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "00400f47ff9a83daab21e865706b5c54e80c94c3",
+  "url": "https://cryptonews.net/es/news/security/31430035",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-14T10:40:00.000+03:00",
+  "title": "Filtración masiva revela arsenal de espionaje y robo cripto del grupo hacker Kimsuky",
+  "text": "Por Angel Di Matteo @shadowargel\nUn miembro del grupo de hackers norcoreano Kimsuky habría sufrido una filtración masiva de datos, exponiendo herramientas y técnicas empleadas en operaciones de ciberespionaje y robo de criptomonedas.\n***\n- Filtración incluye cientos de GB de archivos internos, malware y registros de campañas.\n- Los datos se atribuyen a un operador conocido como “KIM”, vinculado a Kimsuky.\n- Investigadores no descartan vínculos con actores chinos.\nUn presunto integrante del grupo de hackers norcoreano Kimsuky, clasificado como una amenaza persistente avanzada (APT), habría sido víctima de una filtración masiva de datos que expone herramientas, archivos internos y registros de sus operaciones. Según los investigadores de seguridad de Slow Mist, la fuga asciende a cientos de gigabytes y contiene desde historiales de navegación hasta manuales de malware, incluidas herramientas para el robo de criptomonedas.\nDe acuerdo con Cryptopolitan, la información filtrada incluye registros de campañas de phishing, manuales de backdoors personalizados, así como programas maliciosos como “TomCat kernel backdoor”, variantes modificadas de Cobalt Strike, Ivanti RootRot y malware para Android como Toybox. Estos hallazgos ofrecen una visión sin precedentes de las capacidades ofensivas del grupo.\nOrigen de la filtración\nEl incidente, que habría ocurrido a inicios de junio de 2025, fue rastreado hasta dos sistemas comprometidos vinculados a un operador que utilizaba el alias “KIM”. Uno de ellos era una estación de trabajo Linux con Deepin 20.9, aparentemente utilizada para desarrollar malware. El otro era un servidor VPS público que alojaba material de spear-phishing, como portales de inicio de sesión falsos y enlaces de comando y control.\nLos atacantes responsables, que se identifican como “Saber” y “Cyb0rg”, afirman haber accedido a ambos sistemas, extraído su contenido y publicado la información en línea. Aunque algunos indicios relacionan a “KIM” con la infraestructura conocida de Kimsuky, ciertos elementos técnicos y lingüísticos apuntan a un posible vínculo con China, por lo que el origen definitivo sigue sin confirmarse.\nHistoria y tácticas del grupo Kimsuky\nActivo desde al menos 2012, Kimsuky se ha asociado con la Oficina General de Reconocimiento de Corea del Norte. Sus campañas han apuntado a gobiernos, centros de investigación, contratistas de defensa y universidades, con el objetivo de recopilar inteligencia.\nEn 2025, el grupo ha ejecutado operaciones como DEEP#DRIVE, que empleaban cadenas de intrusión en varias etapas. Estas comenzaban con archivos ZIP comprimidos que contenían accesos directos de Windows (LNK) disfrazados de documentos. Al abrirlos, se ejecutaban comandos de PowerShell que descargaban malware desde servicios como Dropbox, utilizando documentos señuelo para evitar detección.\nEn marzo y abril de 2025, Kimsuky incorporó código VBScript y PowerShell ofuscado en archivos ZIP maliciosos. Estos scripts ensamblaban comandos de forma encubierta, desplegando malware capaz de registrar teclas pulsadas, capturar el portapapeles y robar claves de monederos de criptomonedas almacenadas en navegadores como Chrome, Edge, Firefox y Naver Whale.\nEvolución de las herramientas\nEl grupo ha adoptado nuevas técnicas para el acceso remoto encubierto, como módulos personalizados de RDP Wrapper y malware proxy. También ha utilizado herramientas como forceCopy para extraer credenciales de navegadores sin activar alertas de seguridad.\nOtra táctica frecuente ha sido el abuso de plataformas legítimas. En junio de 2025, una campaña de spear-phishing contra Corea del Sur utilizó repositorios privados de GitHub para almacenar malware y datos robados, mientras que Dropbox sirvió como repositorio temporal. Esto les permitió camuflar su actividad maliciosa dentro del tráfico legítimo de la red.\nEl caso de la filtración contra “KIM” representa un golpe inusual contra Kimsuky, que habitualmente opera en las sombras. La exposición de sus herramientas y métodos podría afectar su capacidad operativa en el corto plazo, aunque expertos advierten que el grupo probablemente intentará adaptarse y continuar sus actividades de ciberespionaje.\nArtículo escrito con ayuda de un redactor de contenido de IA, editado por Angel Di Matteo / DiarioBitcoin\nImagen original de Unsplash.\nADVERTENCIA: DiarioBitcoin ofrece contenido informativo y educativo sobre diversos temas, incluyendo criptomonedas, IA, tecnología y regulaciones. No brindamos asesoramiento financiero. Las inversiones en criptoactivos son de alto riesgo y pueden no ser adecuadas para todos. Investigue, consulte a un experto y verifique la legislación aplicable antes de invertir. Podría perder todo su capital.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:13:40.053+03:00",
+  "updated": "2025-08-14T11:24:28.000+03:00"
+}

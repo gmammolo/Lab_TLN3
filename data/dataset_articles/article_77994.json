@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "4807f506aaf1c07f5aa8942a606ba037cf5b0ad1",
+    "url": "https://news.rambler.ru/tech/55175211-vladeltsev-iphone-prizvali-srochno-obnovit-ios/",
+    "site_full": "news.rambler.ru",
+    "site": "rambler.ru",
+    "site_section": "https://news.rambler.ru/tech/",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "section_title": "Новости науки и техники в России и мире  - Рамблер/новости",
+    "site_title": "Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас",
+    "title": "Владельцев iPhone призвали срочно обновить iOS - Рамблер/новости",
+    "title_full": "Владельцев iPhone призвали срочно обновить iOS - Рамблер/новости",
+    "published": "2025-08-21T10:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=55175211&amp;format=png",
+    "performance_score": 0,
+    "domain_rank": 1966,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4807f506aaf1c07f5aa8942a606ba037cf5b0ad1",
+  "url": "https://news.rambler.ru/tech/55175211-vladeltsev-iphone-prizvali-srochno-obnovit-ios/",
+  "ord_in_thread": 0,
+  "author": "Global Look Press",
+  "published": "2025-08-21T10:31:00.000+03:00",
+  "title": "Владельцев iPhone призвали срочно обновить iOS - Рамблер/новости",
+  "text": "Apple выпустила обновление iOS 18.6.2, устраняющее критическую уязвимость безопасности, которая, по данным компании, уже использовалась злоумышленниками. Владельцам iPhone и других гаджетов Apple следует срочно обновиться на актуальную версию, сообщает MacRumors. © Global Look Press Apple предупреждает, что проблема может быть связана с повреждением памяти при обработке специально подготовленных изображений. Компания отмечает, что уязвимость могла быть использована в «чрезвычайно сложной» атаке на ограниченный круг пользователей, что снижает вероятность масштабных угроз.\nТем не менее, Apple настоятельно рекомендует всем владельцам гаджетов Apple срочно установить обновления iOS 18.6.2, iPadOS 18.6.2 и macOS Sequoia 15.6.1.\nИнженеры Apple устранили уязвимость, внедрив усовершенствованную проверку границ памяти. Судя по записи в базе CVE, проблему обнаружили и исправили внутренние специалисты компании.\nПомимо основных обновлений, Apple также выпустила патчи безопасности для более старых версий, включая iPadOS 17.7.10, macOS 14.7.8 и macOS 13.7.8.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://globallookpress.com/",
+    "https://www.globallookpress.com/",
+    "https://globallookpress.com"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:35:16.959+03:00",
+  "updated": "2025-08-22T11:04:47.000+03:00"
+}

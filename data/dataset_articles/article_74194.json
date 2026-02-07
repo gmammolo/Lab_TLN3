@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "48f7b2138ee2022e29e3254e67dd51f2678fc25c",
+    "url": "https://forum.posit.co/t/quarto-render-function-return-error/194901",
+    "site_full": "forum.posit.co",
+    "site": "posit.co",
+    "site_section": "https://forum.posit.co/latest.rss",
+    "site_categories": [],
+    "section_title": "Posit Community - Latest topics",
+    "title": "quarto_render function return error",
+    "title_full": "quarto_render function return error",
+    "published": "2024-11-15T12:19:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://forum.posit.co/uploads/default/original/3X/6/5/654b5c729979def37b03638d5f101ca9eede49b2.jpeg",
+    "performance_score": 0,
+    "domain_rank": 6678,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "48f7b2138ee2022e29e3254e67dd51f2678fc25c",
+  "url": "https://forum.posit.co/t/quarto-render-function-return-error/194901",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "flocz",
+  "published": "2024-11-15T12:19:00.000+02:00",
+  "title": "quarto_render function return error",
+  "text": "Hi! I wrote a small program to produce invoice from a data base following this tutorial, that worked fine until I update Xcode and reinstall xz library in order to install Typst.\nXcode\nxz\nTypst\nMy set up is : RStudio : \"2023.09.1+494\" MacOS : 11.7.10 Quarto version (external of the one in R): 1.5.57 Quarto package version : \"1.4.4\" X code version : Xcode 13.2.1 Build version 13C100\n\"2023.09.1+494\"\n11.7.10\n1.5.57\n\"1.4.4\"\nXcode 13.2.1 Build version 13C100\nreports = tibble::tibble(input = \"Invoice_template.qmd\", output_file = stringr::str_glue(\"INVOICES/facture_no_{non_dup_df$invoice_no}.pdf\"), execute_params = map(non_dup_df$invoice_no, ~list(invoice_no = .))) quarto::quarto_render(input = \"Invoice_template.qmd\", output_file = \"Invoice_no_0016-20240813-632323.pdf\", execute_params = reports[16, \"execute_params\"], quiet = FALSE, debug = TRUE) # purrr::pwalk(reports, quarto::quarto_render)\nReturns:\nError in knit_params_get(input_lines, params) : render params not declared in YAML: execute_params Calls: .main -> execute -> <Anonymous> -> knit_params_get Execution halted\nThe first error seems to be related to Yalm and missing parameters. It led me here, but default params are declared in my Yalm template:\nYalm\n--- title: \"\" format: pdf: mainfont: Calibri papersize: a4 fig-pos: 'H' header-includes: - \\usepackage{float} - \\floatplacement{table}{H} geometry: - inner=1.5cm - outer=1.5cm - top=2cm - bottom=4cm - headsep=7pt - headheight=5pt - footskip=33pt - ignorehead - ignorefoot - heightrounded editor: visual params: invoice_no: \"0016-20240813-632323\" ---\nSecond error message is probably related to the first one but I'm not sure because the program worked good before I made update Xcode and and reinstall xz lib.\nError in `quarto::quarto_render()`: ✖ Error running quarto cli. Caused by error: ! System command 'quarto' failed Run `rlang::last_trace()` to see where the error occurred. > rlang::last_trace() <error/rlang_error> Error in `quarto::quarto_render()`: ✖ Error running quarto cli. Caused by error: ! System command 'quarto' failed --- Backtrace: ▆ 1. └─quarto::quarto_render(...) 2. └─quarto:::quarto_run(args, echo = TRUE, quarto_bin = quarto_bin) Run rlang::last_trace(drop = FALSE) to see 6 hidden frames. > rlang::last_trace(drop = FALSE) <error/rlang_error> Error in `quarto::quarto_render()`: ✖ Error running quarto cli. Caused by error: ! System command 'quarto' failed --- Backtrace: ▆ 1. └─quarto::quarto_render(...) 2. └─quarto:::quarto_run(args, echo = TRUE, quarto_bin = quarto_bin) 3. └─base::tryCatch(...) 4. └─base (local) tryCatchList(expr, classes, parentenv, handlers) 5. └─base (local) tryCatchOne(expr, names, parentenv, handlers[[1L]]) 6. └─value[[3L]](cond) 7. └─cli::cli_abort(msg, call = .call, parent = e) 8. └─rlang::abort(...)\nAny idea?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T13:38:58.170+02:00",
+  "updated": "2024-11-15T13:38:58.170+02:00"
+}

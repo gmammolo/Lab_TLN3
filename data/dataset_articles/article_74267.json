@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "c40b7f04969cee9cb48cad6f6b4f461e370e7ffa",
+    "url": "https://gbhackers.com/seo-poisoning-fake-sites",
+    "site_full": "gbhackers.com",
+    "site": "gbhackers.com",
+    "site_section": "https://www.gbhackers.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "GBHackers News - No #1 Cybersecurity News Platform",
+    "title": "Cybercriminals Launch SEO Poisoning Attack to Lure Shoppers to Fake Online Stores",
+    "title_full": "Cybercriminals Launch SEO Poisoning Attack to Lure Shoppers to Fake Online Stores",
+    "published": "2024-11-15T13:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 62504,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c40b7f04969cee9cb48cad6f6b4f461e370e7ffa",
+  "url": "https://gbhackers.com/seo-poisoning-fake-sites",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Varshini",
+  "published": "2024-11-15T13:15:00.000+02:00",
+  "title": "Cybercriminals Launch SEO Poisoning Attack to Lure Shoppers to Fake Online Stores",
+  "text": "Published onThe research revealed how threat actors exploit SEO poisoning to redirect unsuspecting users to malicious e-commerce websites, leveraging multiple SEO malware families to achieve their goal.Three distinct threat actor groups were identified, each employing a unique malware family, with one group utilizing multiple families. One malware family’s C&C servers shared limited e-commerce site sets, differentiating it from others with independent lists. The proliferation of fraudulent e-commerce sites, particularly in Japan, poses a growing threat, as sites designed to deceive and exploit users have seen a significant surge in 2023, leading to increased financial losses and compromised personal information.Threat actors deploy SEO malware on compromised websites to manipulate search engine rankings by injecting malicious code into legitimate sites, redirecting unsuspecting users to fraudulent e-commerce platforms for potential financial gain. When websites are compromised, these search engine optimization malwares are installed on those websites in order to intercept web server requests and return malicious content. By doing so, threat actors can send a crafted sitemap to search engines and index-generated lure pages, which contaminates the search results, making the URLs of compromised websites appear in searches for product names they do not actually handle.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtw5LVoJUl4faLOLdjYnRew6wSy9kHFgmwg7Ghs76vkp-O-Ra4g-CTSFNdtoD9v2uHa6dQaJkff5tBO1kLftzJaecM25bBUkmWoE_HDEfdiMbCmmmQLyCJvTvJunBhGxo_CqtG1IoyE1qOpJCOPtzn3zGRdM9yIqwKCtjMgY7dH-FcWM_udtgknZEGhjpM/s4418/SEOmalware-Fig02-2.webp",
+    "https://underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHg_PoOHCYmFrB6G9kNEnfomxybUG1YtC02vvI0V6yDMmdQ8zvLKb3sGFMLulaLxVk91vKhTtqfh7sdHJ0T1bHr_dCZdfxJdfsKnrMuTBrPm16fNvQtdMZH0ZJ2al9Xg3H_DyHgr9bWqZ2vYz3H31j-fegofPmRuKaOa1CxT4hiT8wKj7W2g-sdZqJnNuw/s6250/SEOmalware-Fig01.webp",
+    "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+    "https://www.trendmicro.com/en_us/research/24/k/seo-malware.html",
+    "https://www.underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+    "https://trendmicro.com/en_us/research/24/k/seo-malware.html",
+    "https://underdefense.com/ultimate-continuous-security-monitoring-guide/",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtw5LVoJUl4faLOLdjYnRew6wSy9kHFgmwg7Ghs76vkp-O-Ra4g-CTSFNdtoD9v2uHa6dQaJkff5tBO1kLftzJaecM25bBUkmWoE_HDEfdiMbCmmmQLyCJvTvJunBhGxo_CqtG1IoyE1qOpJCOPtzn3zGRdM9yIqwKCtjMgY7dH-FcWM_udtgknZEGhjpM/s4418/SEOmalware-Fig02-2.webp",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHg_PoOHCYmFrB6G9kNEnfomxybUG1YtC02vvI0V6yDMmdQ8zvLKb3sGFMLulaLxVk91vKhTtqfh7sdHJ0T1bHr_dCZdfxJdfsKnrMuTBrPm16fNvQtdMZH0ZJ2al9Xg3H_DyHgr9bWqZ2vYz3H31j-fegofPmRuKaOa1CxT4hiT8wKj7W2g-sdZqJnNuw/s6250/SEOmalware-Fig01.webp",
+    "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+    "https://app.any.run/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T14:36:16.100+02:00",
+  "updated": "2024-11-15T15:38:51.625+02:00"
+}

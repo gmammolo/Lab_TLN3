@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "e431cefd85ac5939050429f742dd1621af63db99",
+    "url": "https://www.phonearena.com/news/google-pixel-watch-update-introduces-an-annoying-change-that-makes-the-device-harder-to-use_id169995",
+    "site_full": "www.phonearena.com",
+    "site": "phonearena.com",
+    "site_section": "https://www.phonearena.com/news/archive",
+    "site_categories": [
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": "News Archive - PhoneArena",
+    "site_title": "PhoneArena | Phone News, Reviews, Deals and Specs",
+    "title": "Google Pixel Watch update introduces an annoying change that makes the device harder to use",
+    "title_full": "Google Pixel Watch update introduces an annoying change that makes the device harder to use",
+    "published": "2025-05-01T02:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://m-cdn.phonearena.com/images/article/169995-wide-two_1200/Google-Pixel-Watch-update-introduces-an-annoying-change-that-makes-the-device-harder-to-use.jpg",
+    "performance_score": 0,
+    "domain_rank": 3588,
+    "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e431cefd85ac5939050429f742dd1621af63db99",
+  "url": "https://www.phonearena.com/news/google-pixel-watch-update-introduces-an-annoying-change-that-makes-the-device-harder-to-use_id169995",
+  "ord_in_thread": 0,
+  "author": "Johanna Romero",
+  "published": "2025-05-01T02:59:00.000+03:00",
+  "title": "Google Pixel Watch update introduces an annoying change that makes the device harder to use",
+  "text": "Google Pixel Watch update introduces an annoying change that makes the device harder to use\nPixel Watch, changing how users interact with the device when the screen is locked. This change centers around the functionality of the watch's rotating crown.\nBefore this update, activating Touch Lock on Pixel Watches running Wear OS 4 or the initial Wear OS 5 would disable the touchscreen. This prevented accidental inputs from stray touches or water droplets, which was useful during activities like exercise or in wet environments.\nTurning Touch Lock on and off on a Pixel Watch. | Image credit — 9to5Google\nThe new behavior in Wear OS 5.1\nFollowing the update to Wear OS 5.1, enabling Touch Locknow disables both the touchscreen and the rotating crown. With Touch Lock active, the screen ignores taps, and the crown no longer responds to rotation. The only interaction possible is a two-second long-press of the crown, which deactivates the lock entirely.\nThis modification has drawn criticism from some users.\nOne pointed outthe convenience of the older system, especially for checking notifications with the crown while showering, a scenario where using the touchscreen is impractical.\nThis specific change arrives alongside the rollout of Wear OS 5 and its subsequent point releases like 5.1. Wear OS 5 itself focused on larger improvements, including battery life optimizations and new developer tools. Small usability tweaks in updates like 5.1 are common but, as seen here, can sometimes have a noticeable impact on the daily user experience, especially compared to competitors like Apple Watch or Samsung Galaxy Watch which have their own screen lock nuances.\nCurrently, it's not certain if Google intended to disable crown functionality with Touch Lock or if it's an unintentional bug in Wear OS 5.1. The company hasn't updated the official support documentation for Touch Lock to reflect this change. Users affected by this are hoping for clarification or a fix in a future software update, possibly in the next monthly patch cycle if it's deemed a bug.\nDisabling all physical input methods when Touch Lock is on seems somewhat counterintuitive for a device designed for quick glances. Limiting interaction options, even when trying to prevent accidental input, can reduce the watch's convenience in certain situations. We await Google's clarification on whether this is the new standard behavior.\nLoading Comments...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->trend"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://9to5google.com/2025/04/30/pixel-watch-touch-lock-wear-os-5-1/",
+    "https://www.reddit.com/r/PixelWatch/comments/1kb58pi/i_bought_the_pixel_watch_2_solely_because_i_could/",
+    "https://www.reddit.com/r/PixelWatch/comments/1kb58pi/i_bought_the_pixel_watch_2_solely_because_i_could",
+    "https://9to5google.com/2025/04/30/pixel-watch-touch-lock-wear-os-5-1",
+    "https://www.9to5google.com/2025/04/30/pixel-watch-touch-lock-wear-os-5-1/",
+    "https://reddit.com/r/PixelWatch/comments/1kb58pi/i_bought_the_pixel_watch_2_solely_because_i_could/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-01T03:05:27.794+03:00",
+  "updated": "2025-05-01T00:10:14.000+00:00"
+}

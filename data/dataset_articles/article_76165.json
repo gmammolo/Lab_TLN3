@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "9e40944f3bb27584a0c4ea7284d3227988341181",
+    "url": "https://nybreaking.com/pakistans-telecom-authority-blames-vpn-use-for-slow-internet-speeds",
+    "site_full": "nybreaking.com",
+    "site": "nybreaking.com",
+    "site_section": "https://www.nybreaking.com",
+    "site_categories": [],
+    "section_title": "NY Breaking News - The New York Breaking News",
+    "title": "Pakistan's telecom authority blames VPN use for slow internet speeds",
+    "title_full": "Pakistan's telecom authority blames VPN use for slow internet speeds",
+    "published": "2025-01-09T19:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 79781,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9e40944f3bb27584a0c4ea7284d3227988341181",
+  "url": "https://nybreaking.com/pakistans-telecom-authority-blames-vpn-use-for-slow-internet-speeds",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "James",
+  "published": "2025-01-09T19:23:00.000+02:00",
+  "title": "Pakistan's telecom authority blames VPN use for slow internet speeds",
+  "text": "An increase in VPN use is to blame for Pakistan’s slow internet speeds, with each megabyte of data routed through these services costing the country’s economy about $1.\nThis shocking revelation came from a recent report published by the Pakistan Telecommunication Authority (PTA) – local publications including the Pakistani English-language newspaper The Express Tribune might reveal this .\nWhile this isn’t the first time authorities have condemned unauthorized VPN use for reasons including internet slowdowns, experts have long argued that government-imposed censorship is to blame for breaking the internet in Pakistan.\nThe ongoing debate over Pakistan According to the PTA report – as reported by The Express Tribune – the ever-growing dependence on top VPN apps has “put additional pressure on Pakistan’s internet infrastructure.”\nThis is because, authorities explain, virtual private network (VPN) services bypass local content delivery networks (CDNs), causing inefficiencies. Moreover, the heavy VPN usage also causes significant economic losses “due to increased dependence on foreign exchange.”\nAccording to the PTA data, VPN bandwidth usage peaked at 634 Gbps in August, 597 Gbps in September, 815 Gbps in October and 378 Gbps in November.\nThese figures certainly come as no surprise. Pakistanis have been turning to VPNs en masse since the beginning of this year as a means to circumvent strict online restrictions.\nX (formerly Twitter) has been inaccessible without a VPN since February. According to Surfshark’s Internet Tracker, Meta’s Facebook and Instagram were also restricted in July 2024 and May 2023 respectively. Bluesky and WhatsApp were the latest social media platforms to be blocked in the country this year.\nProton VPN has been recording a spike in VPN signups from Pakistan since the start of the year, with the most recent increase reaching +2860% from baseline on November 26, 2024. (Image credit: Proton) It was in this context that the PTA first shared plans in August to regulate the use of VPNs as a way to combat abuse. The authorities would do that later consider unregistered VPNs a ‘security risk’ for Pakistan as they could be used to access ‘sensitive data’.\nThe PTA then set a deadline for November 30, 2024 to begin implementing the new policy, urging companies and freelancers to register their services to avoid any disruptions. However, when the registration deadline passed, according to the Pakistani Ministry of Justice, it was revealed that Pakistan has no legal grounds to ban VPNs.\nThe PTA took place on December 19, 2024 shared some new guidelines which require VPN companies to obtain a data services class license to operate in the country. VPN providers will also be forced to collect and share users’ information usage with authorities upon request – de facto violating their strict no-log VPN policy.\nWhile it is too early to know whether such an attempt to regulate VPN usage will be successful this time, it certainly heralds a new phase for the PTA’s quest to regulate the use of these services in Pakistan.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->economy",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://tribune.com.pk/story/2520937/internet-slowdowns-linked-to-vpn",
+    "https://arynews.tv/pakistan-govt-blocks-unregistered-vpns-in-firewall-experiment/",
+    "https://www.pta.gov.pk/category/update-on-resuming-licensing-of-class-license-for-data-services-1404367999-2024-12-20",
+    "https://arynews.tv/pakistan-govt-blocks-unregistered-vpns-in-firewall-experiment",
+    "https://www.arynews.tv/pakistan-govt-blocks-unregistered-vpns-in-firewall-experiment/",
+    "https://pta.gov.pk/category/update-on-resuming-licensing-of-class-license-for-data-services-1404367999-2024-12-20",
+    "https://www.tribune.com.pk/story/2520937/internet-slowdowns-linked-to-vpn"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Pakistan Telecommunication Authority",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T00:25:34.317+02:00",
+  "updated": "2025-01-10T00:25:34.317+02:00"
+}

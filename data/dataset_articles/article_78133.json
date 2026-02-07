@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "3a2e71fda68cb0bbb62a1a2b2a393f8571fe0256",
+    "url": "https://www.heise.de/en/news/Malicious-code-loopholes-in-Firefox-and-Thunderbird-closed-10560959.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/en",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "heise online – IT news, guides and background information | heise online",
+    "site_title": "heise online - IT-News, Nachrichten und Hintergründe | heise online",
+    "title": "Malicious code loopholes in Firefox and Thunderbird closed | heise online",
+    "title_full": "Malicious code loopholes in Firefox and Thunderbird closed | heise online",
+    "published": "2025-08-21T10:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/2/0/8/4/2/shutterstock_1494931898-9191167789b46585.jpeg",
+    "performance_score": 0,
+    "domain_rank": 924,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3a2e71fda68cb0bbb62a1a2b2a393f8571fe0256",
+  "url": "https://www.heise.de/en/news/Malicious-code-loopholes-in-Firefox-and-Thunderbird-closed-10560959.html",
+  "ord_in_thread": 0,
+  "author": "Dennis Schirrmacher",
+  "published": "2025-08-21T10:46:00.000+03:00",
+  "title": "Malicious code loopholes in Firefox and Thunderbird closed | heise online",
+  "text": "Attackers can attack systems on which Firefox or Thunderbird is installed. The iOS version of Firefox is also affected. Security updates close malicious code gaps, among other things.\nAnzeige Repaired versions The recently closed vulnerabilities are listed in the security section of the Mozilla website . It remains unclear which operating systems are specifically affected. The following versions are protected against possible attacks:\nFirefox 142 Firefox ESR 115.27 Firefox ESR 128.14 Firefox ESR 140.2 Firefox for iOS 142 Thunderbird 128.14 Thunderbird 140.2 Thunderbird 142 Effects of attacks Attackers can trigger a memory error in the context of the audio/video GMP component in an unspecified way and thus break out of the sandbox. The vulnerability (CVE-2025-9179) is classified with a threat level of \"high \". It affects Firefox and Thunderbird.\nIn addition, further memory errors (CVE-2025-9185 \"high \") can allow malicious code to reach systems. Computers are then generally considered to be fully compromised. Under iOS, XSS attacks are conceivable (CVE-2025-55032 \"high \").\nVideos by heise\nmehr Videos\nSo far, there is no information about ongoing attacks. It also remains unclear how to recognize systems that have already been successfully attacked. Users should ensure that they have installed a version that is protected against the attacks described.\nMozilla last warned of phishing attacks on add-on developers at the beginning of August . Unknown attackers were attempting to obtain access data from developers via fake emails. The extent to which this campaign was successful is currently unknown.\nAnzeige ( des )\nDon't miss any news – follow us on Facebook , LinkedIn or Mastodon .\nThis article was originally published in German . It was translated with technical assistance and editorially reviewed before publication.\nDieser Link ist leider nicht mehr gültig. Links zu verschenkten Artikeln werden ungültig, wenn diese älter als 7 Tage sind oder zu oft aufgerufen wurden.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.mozilla.org/en-US/security/advisories/",
+    "https://www.linkedin.com/company/104691972",
+    "https://www.facebook.com/heiseonlineEnglish",
+    "https://mozilla.org/en-US/security/advisories/",
+    "https://www.mozilla.org/en-US/security/advisories",
+    "https://facebook.com/heiseonlineEnglish",
+    "https://linkedin.com/company/104691972"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Firefox ESR",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:29:29.853+03:00",
+  "updated": "2025-08-21T11:35:59.000+03:00"
+}

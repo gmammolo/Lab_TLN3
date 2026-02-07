@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "a6037d0ae0f8d9e8a1eef35ffdf1a1ca671452c9",
+    "url": "https://www.androidauthority.com/deepseek-janus-pro-vs-competition-3521619",
+    "site_full": "www.androidauthority.com",
+    "site": "androidauthority.com",
+    "site_section": "http://www.androidauthority.com/feed/",
+    "site_categories": [
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": "Android Authority",
+    "title": "I tested out DeepSeek's image generator and I'm not impressed",
+    "title_full": "I tested out DeepSeek's image generator and I'm not impressed",
+    "published": "2025-01-30T16:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.androidauthority.com/wp-content/uploads/2025/01/Ollama-DeepSeek-on-Android.jpg",
+    "performance_score": 0,
+    "domain_rank": 1902,
+    "domain_rank_updated": "2025-01-27T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 36,
+        "comments": 6,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a6037d0ae0f8d9e8a1eef35ffdf1a1ca671452c9",
+  "url": "https://www.androidauthority.com/deepseek-janus-pro-vs-competition-3521619",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dhruv Bhutani",
+  "published": "2025-01-30T16:07:00.000+02:00",
+  "title": "I tested out DeepSeek's image generator and I'm not impressed",
+  "text": "Affiliate links on Android Authority may earn us a commission.\nLearn more.\nI tested out DeepSeek's image generator and I'm not impressed\nPublished on9 hours ago\nWhile\nDeepSeek mania continues to take over the AI world, the Chinese AI company quickly followed up with its first image generation model. Dubbed Janus Pro, it is DeepSeek’s take on a large language model that unifies multimodal understanding and image generation, competing with existing models like Stable Diffusion, Google’s Imagen 3, and OpenAI’s DALL-E 3.\nDeepSeek is a threat to established players, but can Janus Pro match up?\nDeepSeek’s claim to fame is its low cost of training and access while retaining the performance and accuracy offered by OpenAI. So, a model that can match or exceed the capabilities of the best AI image generators right now would be a serious threat to efforts made by Adobe and other well-established players.\nWith AI-generated content becoming increasingly mainstream, image models are expected to offer both creative flexibility and photorealistic accuracy. But does Janus Pro deliver on those expectations?\nLaying down the testing framework\nI decided to test Janus Pro against five of the leading image generation models. This includes Stable Diffusion, OpenAI’s Dall-E 3, Google’s Imagen 3, Meta AI, and Adobe Firefly.\nAll six image generation models were given the same prompts, and to keep a level playing field, I picked out the first response instead of cherry-picking the best results. It’s not the most scientific method of testing, but I wanted to approach the comparison as an ordinary user.\nMost users simply input a prompt and expect a near-perfect result on the first try. That’s why I prioritized testing with immediate, unfiltered outputs to simulate the average user experience.\nHow well can AI generate photorealistic images?\nFor my first test, I wanted to see how each image generation model would approach creating a photorealistic image. I tested for a specific scenario, lighting, and how well it could recreate an animal. Here’s the prompt I used: A photorealistic image of a fat orange cat chasing a yarn of wool in a sunny garden.\nPhotorealistic images are particularly challenging for AI models because they require precise attention to light sources, texture details, and spatial depth. I focused on how realistically the models rendered the cat’s fur, the play of sunlight on the garden, and whether the yarn appeared dynamic and tactile.\nA quick glance is enough to realize that Janus Pro has more in common with the first release of the Dall E text-to-image model than anything more recent. The result is fairly low resolution and definitely not very photorealistic. Stable Diffusion, on the other hand, gets very close to the photorealistic prompt, though the oversized tail gives away its AI roots.\nRanking in third place would be Adobe’s Firefly. You could almost be fooled that the image was a highly edited photograph. However, the face gives it away. Finally, Imagen 3, Dall E, and Meta AI do a decent job, but I wouldn’t really call any of those images photorealistic.\nTesting AI’s ability to capture diversity and detail\nFor my second test, I decided to raise the difficulty level. AI models usually struggle with recreating natural faces, hands, and a diverse group of people. Adding very specific instructions for the setting and lighting conditions creates a fairly tough test for any current image generation model. This time, my prompt was more detailed, as AI models benefit from granular instructions: A group selfie of multicultural college students eating lunch outside a ski resort, with detailed faces — male, female, diverse — during winter at noon, under a partly cloudy blue sky.\nThe challenges here were numerous, from accurately capturing varied skin tones to rendering realistic facial expressions and ensuring hands didn’t look distorted.\nOnce again, Janus Pro falls far behind the other image generation models. It’s really no competition at all. Despite the uncanny AI-ness visible in all the shots, Stable Diffusion, Adobe Firefly, and Imagen 3 put up a tough challenge here, so much so that I put it up for debate within the Android Authority Slack channel. Personally, I’d lean towards Imagen 3’s results here.\nA test of creativity\nFor my final test, I wanted to see how the image generation models would perform with more creative pursuits. I asked them to create a new cartoon character inspired by classic Disney characters. Here’s the prompt I used: A cartoon character based on classic Disney characters, complete with big eyes, and fun, fantastical characteristics.\nWhat makes Disney-inspired characters iconic are their expressive eyes, whimsical design elements, and playful proportions. I was looking for a design that captured that “magic” without feeling derivative.\nIf Hieronymus Bosch decided to paint Disney characters, he’d probably end up with something like Janus Pro’s output. Stable Diffusion, on the other hand, straight-up outputs a younger version of Elsa from Frozen. It did nail the assignment, though, so I’d call Stable Diffusion the winner.\nIf Hieronymus Bosch decided to paint Disney characters, he’d probably end up with something like Janus Pro’s output.\nThe other image generation models didn’t quite nail the Disney aesthetic, and I’d say Meta AI’s results were closer to Pixar. Regardless, all models barring Janus could serve as a starting point when brainstorming ideas.\nIs Janus Pro a serious contender in image generation?\nI’m not a huge fan of image-generation models in general. They lack the soul and creativity that can only come from an actual artist. However, they can be useful in rapid prototyping, generating ideas, or serving as simplistic additions to illustrate a point in a presentation.\nFor example, marketing professionals often turn to these tools for social media posts or quick visual mockups, while educators may use them for creative lesson materials. Game designers might generate fantastical environments or character ideas as a foundation for artists to refine. But can these models ever truly replace a human artist’s imagination? That remains a point of debate.\nJanus Pro signals Deepseek’s entry into image generation, but it has a long way to go before standing toe-to-toe with industry leaders.\nJanus Pro may mark DeepSeek’s entry into the image generation space, but it clearly has a long way to go before standing toe-to-toe with established models like Stable Diffusion, Adobe Firefly, and Imagen 3.\nWhile it struggled with photorealistic imagery, complex facial compositions, and creative prompts, its existence shows that competition in AI development is only intensifying. As the technology evolves, it’s exciting to imagine where image-generation models will head next — and whether Janus Pro can eventually become a serious contender.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->trend"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "a6037d0ae0f8d9e8a1eef35ffdf1a1ca671452c9",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-01-31T00:54:28.687+02:00",
+  "updated": "2025-01-31T00:54:28.687+02:00"
+}

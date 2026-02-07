@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "69bee495f399d197d6cbbb2d079094152adc98b4",
+    "url": "https://biz.chosun.com/en/en-international/2025/12/11/XRR3QSI3EJAZXEOME5KEHU7V5I/",
+    "site_full": "biz.chosun.com",
+    "site": "chosun.com",
+    "site_section": "https://news.google.com/search?q=there%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "top_news_pe",
+      "top_news_kr",
+      "top_news"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "조선일보 - 1등 디지털뉴스",
+    "title": "US solar grid faces blackout risk from Chinese-made inverters - CHOSUNBIZ",
+    "title_full": "US solar grid faces blackout risk from Chinese-made inverters - CHOSUNBIZ",
+    "published": "2025-12-11T09:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "KR",
+    "main_image": "https://biz.chosun.com/resizer/v2/HQUPDBMPWVIMRCPHDCEVPS6B4Y.JPG?auth=56b7893137eeaf9877b90b1e143807e8561f1b4fd2c9a7d846de96d5ce739d35&amp;width=1200&amp;height=630&amp;smart=true",
+    "performance_score": 0,
+    "domain_rank": 4004,
+    "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "69bee495f399d197d6cbbb2d079094152adc98b4",
+  "url": "https://biz.chosun.com/en/en-international/2025/12/11/XRR3QSI3EJAZXEOME5KEHU7V5I/",
+  "ord_in_thread": 0,
+  "author": "Hyun Jung-min",
+  "published": "2025-12-11T09:14:00.000+02:00",
+  "title": "US solar grid faces blackout risk from Chinese-made inverters - CHOSUNBIZ",
+  "text": "As the United States has rapidly expanded solar power to meet surging electricity demand, concerns are rising that dependence on China for inverters, a key piece of equipment, is excessive. Some warn that large-scale blackouts could occur if Chinese-made inverters are exposed to remote manipulation or hacking.According to the Washington Post (WP) on the 10th, more than 85% of U.S. power companies are using Chinese-made solar inverters. A solar inverter is core equipment that converts direct current (power flowing in one direction) produced by solar panels into household and industrial alternating current (power whose magnitude and direction change periodically).A survey by the cyber intelligence platform Strider Technologies found that most inverters currently in use across the United States are Chinese-made and vulnerable to remote manipulation and hacking. Some fear that the situation in Spain and Portugal—where a power grid paralysis led to large-scale blackouts in April—could be repeated. The cause of that blackout has not been clearly identified.There are, in fact, cases where Chinese-made inverters were deactivated remotely. In November last year, Ningbo Deye, a Chinese company, halted the operation of numerous devices in use in the United States amid a contract dispute. The case was also included in a report released last month by the U.S.-China Economic and Security Review Commission (USCC).There are structural reasons in the industry for why the U.S. solar sector has come to depend on China. Over the past decade, the United States has explosively increased solar power generation, with 90% of newly produced electricity this year coming from solar. In the process, low-cost Chinese inverters—grown through government subsidies—rapidly expanded their share of the U.S. market, and domestic companies that lost competitiveness were unable to avoid bankruptcy. Chinese-made inverters hold about a 70% share of the global market.There is also criticism that the previous Biden administration failed to respond adequately. In prioritizing an expansion of the transition to renewable energy, senior policymakers at the time failed to block the mass inflow of Chinese products. Although belated efforts were made to transfer production facilities back home, dependence on China further increased as clean energy subsidies were cut after the second Trump administration.With concerns mounting, politicians and business circles are taking direct action. Fifty-two Republican lawmakers sent a letter to the Commerce Department calling for restrictions on imports of Chinese inverters, and the USCC warned in a report that “China could inflict damage at any time by halting inverter sales and restricting access.” Enphase, a rooftop solar power company, said it decided to source inverters domestically due to security concerns.Some, however, note that a complete ban on Chinese inverters could create additional problems. Patrick Miller, a cybersecurity expert, said, “In reality, there are no options to source (the equipment) outside of China,” adding, “A wholesale replacement of existing equipment could also lead to large-scale power shortages.”Experts say U.S. security authorities should gradually reduce dependence on China while tightening verification of Chinese products. Greg Levesque, CEO of Strider, said, “Security vulnerabilities already exist,” and added, “If China were to ‘pull the trigger’ now, the damage could become real.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Environment->sustainability",
+    "Environment->energy resources",
+    "Economy, Business and Finance->macro economics",
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->energy and resource"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_pe",
+      "top_news_kr",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-11T09:33:35.137+02:00",
+  "updated": "2025-12-11T09:38:13.000+02:00"
+}

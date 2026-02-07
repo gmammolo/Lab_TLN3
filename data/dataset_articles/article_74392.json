@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "475303a341a5fb2f7f4bdf4d6f90d27be84fbd42",
+    "url": "https://www.infosecurity-magazine.com/news/watchtowr-new-vulnerability",
+    "site_full": "www.infosecurity-magazine.com",
+    "site": "infosecurity-magazine.com",
+    "site_section": "https://www.infosecurity-magazine.com/rss/news",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "watchTowr Finds New Zero-Day Vulnerability in Fortinet Products",
+    "title": "watchTowr Finds New Zero-Day Vulnerability in Fortinet Products - Infosecurity Magazine",
+    "title_full": "watchTowr Finds New Zero-Day Vulnerability in Fortinet Products - Infosecurity Magazine",
+    "published": "2024-11-15T14:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.infosecurity-magazine.com/webpage/og/0cf68c49-f678-4cab-9e8f-2b9b4c0e8c86.jpg",
+    "performance_score": 0,
+    "domain_rank": 5450,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "475303a341a5fb2f7f4bdf4d6f90d27be84fbd42",
+  "url": "https://www.infosecurity-magazine.com/news/watchtowr-new-vulnerability",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-15T14:15:00.000+02:00",
+  "title": "watchTowr Finds New Zero-Day Vulnerability in Fortinet Products - Infosecurity Magazine",
+  "text": "Attack surface management provider watchTowr claims to have found a new zero-day vulnerability in cybersecurity provider Fortinet’s products.\nThis flaw would allow a managed FortiGate device to elevate privileges and seize control of the FortiManager instance.\nThis new vulnerability is similar to a previous flaw discovered in October, CVE-2024-47575, also known as “FortiJump.” Researchers at watchTowr named it “FortiJump Higher.”\nBackground on FortiJump FortiJump, or CVE-2024-47575, is a vulnerability in FortiManager, a Fortinet tool used by device administrators to maintain entire fleets of FortiGate appliances.\nMore specifically, FortiJump is the result of a missing authentication for a critical function (CWE-306) in the FortiManager fgfmd daemon that allows a remote unauthenticated attacker to execute arbitrary code or commands via specially crafted requests.\nIt allows threat actors to use a compromised FortiManager device to execute arbitrary code or commands against other FortiManager devices.\nThis vulnerability, which carries a common vulnerability severity score (CVSS) of 9.8, is actively exploited in the wild, sometimes together with CVE-2024-23113, another vulnerability in Fortinet products discovered in February 2024.\n🚨 Fortinet CVE-2024-23113 - actively exploited by state-sponsored hackers - is now being exploited by cybercriminals who have reverse-engineered it and are selling access to compromised devices\nIf you haven't patched, restrict port 541 to approved IPs or enforce cert auth. pic.twitter.com/8ay8TnFq1b\n— Matt Johansen (@mattjay) November 14, 2024 FortiJump has been analyzed by several security providers, including Google Cloud-owned Mandiant, Bishop Fox and Rapid 7.\nRead more about the rise in vulnerability exploitation: Vulnerability Exploitation on the Rise as Attackers Ditch Phishing\nDiscovery of FortiJump Higher In a new report published on November 15, watchTowr said it came across some new issues in FortiManager while trying to reproduce a FortiJump exploit in its lab.\nSpecifically, watchTowr claimed to have found a new vulnerability with a similar exploit technique that triggers FortiJump – FortiJump Higher – as well as two file overwrite vulnerabilities that could be leveraged to crash the system.\nThe company also claimed that the patch released by Fortinet, supposed to fix FortiJump, is not effective for all exploit methods.\n“[Our findings] imply that Fortinet has simply patched the wrong code, in the wrong file, in an entirely different library,” the watchTowr researchers said in the report.\nThey claimed FortiJump Higher remains effective even in patched versions, enabling adversaries to escalate privileges from a managed FortiGate appliance to the central FortiManager appliance. They added that compromising any managed FortiGate appliance can be leveraged to gain control over the FortiManager itself – and, consequently, all other managed appliances.\n“While we don’t have visibility into the inner workings of advanced persistent threat (APT) groups, in our opinion, it seems highly likely that successful APT groups are not entirely stupid and hold a high probability that if they found one vulnerability in this magical solution of spaghetti – they likely spotted others, which Fortinet have left untouched,” they added. “The low complexity of these vulnerabilities brings into question the overall quality of the FortiManager codebase.”\nwatchTowr said it contacted Fortinet about this new vulnerability. Nevertheless, it decided to publish its findings before any public response from the security company because its researchers believe that the similarities between FortiJump and FortiJump Higher mean that threat actors actively exploiting the former are likely also exploiting the latter.\nInfosecurity has contacted Fortinet. A company spokesperson confirmed the new findings have “been sent on to Fortinet’s HQ, who are handling this request and will be in touch as soon as possible.”\nThis is a developing story and this article may be updated as new information becomes available.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fwatchtowr-new-vulnerability%2f",
+    "https://t.co/8ay8TnFq1b",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fwatchtowr-new-vulnerability%2f",
+    "https://twitter.com/mattjay/status/1857183112662520252?ref_src=twsrc%5Etfw",
+    "https://labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575/",
+    "https://www.x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fwatchtowr-new-vulnerability%2f",
+    "https://x.com/intent/tweet",
+    "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fwatchtowr-new-vulnerability%2f",
+    "https://www.twitter.com/mattjay/status/1857183112662520252?ref_src=twsrc%5Etfw",
+    "https://www.labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575/",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://www.t.co/8ay8TnFq1b",
+    "https://twitter.com/mattjay/status/1857183112662520252",
+    "https://labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T16:17:13.857+02:00",
+  "updated": "2024-11-15T16:17:13.857+02:00"
+}

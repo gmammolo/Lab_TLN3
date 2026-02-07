@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "1ba9f715acff7e0c11f2e8010676f215bcc311b9",
+    "url": "https://www.rochester.edu/newscenter/artificial-intelligence-ai-laser-fusion-energy-research-622682",
+    "site_full": "www.rochester.edu",
+    "site": "rochester.edu",
+    "site_section": "https://www.rochester.edu/newscenter/",
+    "site_categories": [
+      "graduate_school",
+      "education",
+      "distance_learning"
+    ],
+    "section_title": "News Center | University of Rochester",
+    "title": "How artificial intelligence is powering the fusion revolution",
+    "title_full": "How artificial intelligence is powering the fusion revolution",
+    "published": "2024-10-17T00:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "http://www.rochester.edu/newscenter/wp-content/uploads/2024/10/fea-artificial-intelligence-ai-laser-fusion-research.gif",
+    "performance_score": 0,
+    "domain_rank": 1005,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1ba9f715acff7e0c11f2e8010676f215bcc311b9",
+  "url": "https://www.rochester.edu/newscenter/artificial-intelligence-ai-laser-fusion-energy-research-622682",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Melissa Pheterson",
+  "published": "2024-10-17T00:23:00.000+03:00",
+  "title": "How artificial intelligence is powering the fusion revolution",
+  "text": "At the University of Rochester’s Laboratory for Laser Energetics, scientists harness AI to bring fusion research into sharper focus. The OMEGA Laser Facility at the [University of Rochester](https://rochester.edu/)’s [Laboratory for Laser Energetics](https://www.lle.rochester.edu/) (LLE) is the world’s largest laser in an academic setting. It also resembles, at a glance, an elaborate marble run for light particles and plasma, splitting and amplifying beams before focusing them into a tiny target in its crosshairs. The end goal? To unlock the secrets of astrophysical phenomena, measure materials at atom-crushing pressures—and pursue paradigm-shifting fusion advances. Bolstered by [$503 million in funding](https://www.rochester.edu/newscenter/national-nuclear-security-administration-cooperative-agreement-laser-lab-575142/) from the US Department of Energy’s (DOE) National Nuclear Security Administration in 2024, the Laser Lab at Rochester is ideally equipped for this crucial work. Complex fusion experiments are conducted at LLE about once a month, with scientists having approximately five chances to shoot the laser and record data on the allotted day. Multiphysics computer simulations that represent scientists’ best understanding of the fusion plasma are used to both design the experiments and interpret their results. Yet despite the simulations’ sophistication, they cannot reproduce all the results of actual experiments. “You are starting from a millimeter-diameter capsule of plastic with frozen deuterium-tritium, at twenty degrees above absolute zero, which is then compressed to less than the diameter of a human hair and to a temperature more than 30 million degrees, all in a billionth of a second,” explains Christopher Deeney, the director of LLE. “That is a lot of physics to understand and get right. Plus, we have to measure all the details of what happened in that billionth of a second using advanced diagnostics.” To harness the incredible amounts of data captured by these advanced diagnostics specifically—and to accelerate fusion research in the United States more generally—LLE scientists are turning to artificial intelligence (AI) and similar advanced computing technologies. Laser fusion shoots its shot For more than 50 years, LLE has helped frame and solve key challenges in [inertial confinement fusion](https://www.lle.rochester.edu/education/graduate-studies/inertial-confinement-fusion/#:~:text=The%20most%2Dpromising%20approach%20to,of%20microexplosions%20to%20produce%20power.) (ICF), also known as laser fusion. Scientists generally agree that, to date, ICF is the most promising approach to controlled thermonuclear fusion, a high-potential source of clean, renewable energy. “Essentially, ICF is an inverse physics problem,” says [Christopher Kanan](https://www.cs.rochester.edu/people/faculty/kanan_chris/index.html), an associate professor of computer science at the University of Rochester. The solution, known as ignition—a net gain of energy released by the implosion—is known, and scientists must work backward to deduce the correct properties of the laser and target. (Think of Jeopardy!, where contestants must formulate the question that yields the given answer.) Omega itself is not designed to achieve ignition, but rather advance the understanding of laser-driven direct drive fusion. The National Ignition Facility at Livermore National Laboratory, which has 60 times the energy of Omega, now has one answer to the inverse physics problem, [achieving ignition in 2022](https://www.rochester.edu/newscenter/nuclear-fusion-energy-ignition-milestone-544292/). Both the progress on Omega and the achievement on ignition have used statistical models to help fill the gap in our complete understanding of the physics. This knowledge gap between simulation and experiment stems from the complexity of the physics, limitations of the measurements, and sheer scope of the endeavor—nuclear physics, plasma physics, and materials science at extreme conditions—which poses challenges to even the most sophisticated computer code. First, there’s the matter of the target, a hollow plastic sphere that fits onto the head of a pin. Researchers at LLE build the tiny sphere with precision tools, fill it with hydrogen isotopes, and then chill the sphere to near absolute zero (or minus 460 degrees Fahrenheit). Now frozen, the hydrogen becomes a layer of ice coating the inside of the plastic shell. Then there’s the laser, a pulse that is amplified and split into multiple beams as it passes through the laser beamlines at the LLE. Uniformly distributed around the target, the mirrors direct laser beams to mash the expanding plastic and collapse the frozen capsule, achieving implosion velocities of over a half-billion miles per hour. What is the laser’s ideal pulse shape, intensity, and timing? Is the target placed with precision? Do tiny defects on the surface, or slight inaccuracies in the laser’s pointing, matter? Should the sphere be pumped with hydrogen fuel before or after the staff’s morning coffee? Only the right string of correct variables can yield fusion. And after the shot, the work has just begun. Data from over a dozen diagnostics are processed using complex algorithms to understand what happened during the experiment, with results measured in millionths of a meter and trillionths of a second. “Even though we only conduct about five fusion experiments one day per month, we have been doing these experiments with detailed diagnostics for some time, so we have a very comprehensive set of data,” adds Deeney. AI augments laser-driven fusion research Researchers at LLE needed a means of detecting even the most nuanced points and patterns in the data, teaching computer simulations to yield more accurate predictions. Better forecasts will, in turn, refine fusion experiments and shape the next generation of fusion research and laser technology. Enter artificial intelligence, specifically the subset of the field known as machine learning that helps computer codes improve their predictions with experience. Beyond making predictions, machine learning has the ability to analyze data, infer relationships, and integrate this knowledge into its functionality. “We now have a wealth of experimental data that we can harness with machine learning to correct the simulations and guide real-time adjustments to experiments,” says [Riccardo Betti](https://www.lle.rochester.edu/about-the-laboratory-for-laser-energetics/organization/r-betti-bio/), LLE’s chief scientist and the Robert L. McCrory Professor in the Departments of [Mechanical Engineering](https://hajim.rochester.edu/me/) and of [Physics and Astronomy](https://sas.rochester.edu/pas/) at Rochester. The work of Betti and Kanan builds on recent breakthroughs in generative AI, a type of AI that can create data and other output, including text and video. The Rochester researchers have repurposed this class of algorithm to solve inverse physics problems and improve the accuracy of simulations. The DOE Fusion Energy Science (FES) program has even provided the team almost [$3 million](https://cs.rochester.edu/news-events/news/2023/2023-09-13_kanan-doe.html) for this work, which is expected to be completed in 2026. “Our goal is using generative AI to improve predictions of simulations and infer what the properties of the laser and target should be,” says Kanan. “We are using the power of AI to accelerate the future of fusion.” Cat photos > fusion experiments “Once we take note of the gap between the prediction of the simulation and the results of the experiment, we can apply machine learning to reconcile the two,” says [Varchas Gopalaswamy](https://www.hajim.rochester.edu/me/people/faculty/gopalaswamy-varchas/index.html) ’21 (PhD), a scientist in the theory division at LLE and an assistant professor of mechanical engineering at Rochester. “If one variable changes, do simulations respond in a certain way, and is that reflected in experiments? This tells us if our hypotheses are correct. Can we change variables or come up with mitigation strategies? As machine learning hones in on these patterns in data, we can come up with hypotheses to investigate different physics and design better experiments,” he says. “One challenge of ICF,” adds Gopalaswamy, “is that the amount of data with which we train AI is relatively limited. There’s a vast database of pictures of cats from which AI can learn, but there are far fewer fusion experiments. Closing the knowledge gap using empirical data is quite challenging in this scenario. That is why we need a robust method to synthesize theoretical understanding with experimental reality to help us make better decisions.” The work of Betti, Gopalaswamy, and other scientists at the LLE was recognized by the American Physical Society when the organization presented the team with its [John Dawson Award for Excellence in Plasma Physics Research](https://www.lle.rochester.edu/lle-john-dawson-award-plasma-physics/). The honor recognizes them “for pioneering the development of statistical modeling to predict, design, and analyze implosion experiments on the 30kJ OMEGA laser.” The AI and machine learning work at Rochester’s LLE furthers the discoveries of researchers like [Dustin Froula](https://www.lle.rochester.edu/about-the-laboratory-for-laser-energetics/organization/plasma-ultrafast-laser-science-engineering/dustin-froula-bio/), the division director of plasma and ultrafast laser science and engineering. Over his career, Froula and his team have developed techniques for measuring aspects of plasma, such as temperature, by scattering lasers from electrons in the plasma, known as Thomson scattering. They have even opened a new field of optics research based on the technique of “flying focus,” or controlling the intensity of lasers over long distances. “AI and machine learning are revolutionizing how we design our experiments,” says Froula. “We are hoping that AI can give us insight on how to build a better laser as we look toward [our next-generation facility](https://www.rochester.edu/newscenter/nsf-funds-multi-institutional-ep-opal-laser-design-568092/).” For example, Omega’s successor will likely shoot beams of many colors instead of just one. “Multiple colors across the spectrum of the laser beam will allow better propagation of plasma in the beam, and AI is helping us understand this complex interaction between the different colors in the laser and the plasma,” Froula explains. Besides the award to accelerate the use of AI and machine learning for fusion, based on the advances in direct-drive fusion, the DOE FES named LLE a [national research hub](https://www.rochester.edu/newscenter/inertial-fusion-energy-laser-plasma-interactions-567602/) to advance inertial fusion energy (IFE), a promising source of clean energy that relies on generating energy through fusing atoms of heavy hydrogen (deuterium and tritium). Forging an ‘ecosystem’ of intelligence Drawing on the cross-disciplinary research focus at the University of Rochester, LLE has recruited several students to advance AI and machine learning in fusion research. “Our aim is to motivate students to continue to train the machine learning that sharpens our diagnostic tools,” Gopalaswamy says. “We need AI experts, yes. But to interpret whether our models are doing the right things for the right reasons, we need physicists. We also need engineers, technologists, material scientists—a whole ecosystem.” Adds Gopalaswamy, “As the country turns toward clean energy and sustainable power, the application of AI to fusion research may emerge as a new sector of the workforce.” In the LLE, as in life, AI is not designed to replace or displace human brainpower. “AI is a tool we use to guide our research,” says [Valeri Goncharov](https://www.lle.rochester.edu/about-the-laboratory-for-laser-energetics/organization/valeri-n-goncharov-bio/), the theory division director at LLE and an assistant professor of research in the Department of Mechanical Engineering. “We can optimize AI tools to drive our performance, which is the benefit of a research facility, but our minds drive innovation. We cannot delegate the vast amount of physics fundamentals in ICF to AI. We need the human brain for that.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "University of Rochester’s Laboratory for Laser Energetics",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "US Department of Energy",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:29:25.143+03:00",
+  "updated": "2024-10-18T00:29:25.143+03:00"
+}

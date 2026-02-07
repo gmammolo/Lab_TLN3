@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "57a865b92c953809ea6e5c994a7ac1a1e157f887",
+    "url": "https://community.sophos.com/sophos-xg-firewall/f/discussions/148051/invalid-traffic-invalid-tcp-state-no-routing-issue",
+    "site_full": "community.sophos.com",
+    "site": "sophos.com",
+    "site_section": "https://community.sophos.com/sophos-xg-firewall/f",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Forums - Sophos Firewall - Sophos Community",
+    "title": "Invalid Traffic / Invalid TCP state (no routing issue) - Discussions - Sophos Firewall - Sophos Community",
+    "title_full": "Invalid Traffic / Invalid TCP state (no routing issue) - Discussions - Sophos Firewall - Sophos Community",
+    "published": "2024-11-21T17:08:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 1098,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "57a865b92c953809ea6e5c994a7ac1a1e157f887",
+  "url": "https://community.sophos.com/sophos-xg-firewall/f/discussions/148051/invalid-traffic-invalid-tcp-state-no-routing-issue",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Gerhard Sauer",
+  "published": "2024-11-21T17:08:00.000+02:00",
+  "title": "Invalid Traffic / Invalid TCP state (no routing issue) - Discussions - Sophos Firewall - Sophos Community",
+  "text": "Hello,\nI have a problem with mainly HTTPS connections showing up in the log as Invalid Traffic / Invalid TCP state. See screenshots below.\nexample domain is [https://telekom.de](https://telekom.de)\nI have 2 Internet connections with separate NAT and SD-WAN routes. Routing shows correctly and see workaround below, works for both lines, if TCP Seq Checking is disabled.\nSo there seems to be an issue with TCP checking not routing. Especially, because most websites do work, even if it is turned on.\nInteresting to mention, both internet connections are with the same provider and run through the same router. 1 I checked with packet capturing multiple times, that no routing issue persist. Many connections do work, but with the example of telekom.de it does not work at all on the second line... But if TCP Seq checking is on, the second line works in many cases nevertheless. Packet capture also shows no other packets being delivered somewhere else.\nThe 80... IP is telekom.de and both internet connections are internally rereferred to as 192.168.12.12 or 192.168.10.10\nCurrent work around is to disable \"TCP Seq Checking\", then it works.\nIssue persists with\nSFOS 21.0.0 GA-Build169\nand\nSFOS 20.0.2 MR-2-Build378\nIs something like this a known issue?\nHow can this be troubleshootet further?\nThank you.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://telekom.de",
+    "https://www.telekom.de"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T02:42:48.546+02:00",
+  "updated": "2024-11-22T02:42:48.546+02:00"
+}

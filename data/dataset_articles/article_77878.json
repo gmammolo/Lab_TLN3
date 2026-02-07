@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "af80ec6f785bfff1f7169a1dac623882c32b3676",
+    "url": "https://www.worldjournal.com/wj/story/121172/8953720",
+    "site_full": "www.worldjournal.com",
+    "site": "worldjournal.com",
+    "site_section": "https://www.worldjournal.com/wj",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "世界新聞網 : 一網帶您看遍世界",
+    "site_title": "世界新聞網 : 一網帶您看遍世界",
+    "title": "憂北京涉駭客攻擊 微軟限縮中企使用資安預警系統",
+    "title_full": "憂北京涉駭客攻擊 微軟限縮中企使用資安預警系統",
+    "published": "2025-08-21T09:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/08/21/32957345.jpg&s=Y&x=0&y=0&sw=799&sh=540&sl=W&fw=800&exp=3600",
+    "performance_score": 0,
+    "domain_rank": 32347,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "af80ec6f785bfff1f7169a1dac623882c32b3676",
+  "url": "https://www.worldjournal.com/wj/story/121172/8953720",
+  "ord_in_thread": 0,
+  "author": "世界新聞網",
+  "published": "2025-08-21T09:55:00.000+03:00",
+  "title": "憂北京涉駭客攻擊 微軟限縮中企使用資安預警系統",
+  "text": "憂北京涉駭客攻擊 微軟限縮中企使用資安預警系統\n微軟公司今天表示，由於外界揣測北京當局可能參與針對微軟普遍使用的SharePoint伺服器駭客攻擊行動，公司已限縮部分中國企業使用微軟網路資安漏洞預警系統的權限。\n路透報導，微軟（Microsoft）SharePoint伺服器上個月受到大規模駭客攻擊，微軟和其他人將至少一部分責任歸咎於北京當局。\n此事引發數名資安專家懷疑「微軟主動防護計畫」（MAPP）可能出現資訊外洩。微軟透過這套計畫協助包括中國在內的全球資安供應商比一般大眾更早得知網路威脅，以便更有效防禦駭客攻擊。\n北京當局否認參與任何SharePoint駭客行動。\n路透先前報導，微軟6月24日、7月3日和7月7日通知MAPP成員SharePoint漏洞的情況。由於微軟表示7月7日才首次觀察到攻擊企圖，這個時間點使部分專家認為，駭客攻擊突然激增的最可能原因是MAPP中某名不肖成員濫用這些資訊。\n微軟透過聲明表示，數家中企不會再收到「概念驗證程式碼」（proof of concept code），這類程式碼模擬真實惡意軟體的運作，可協助資安專家迅速強化系統，但同時也可能被駭客用來搶得先機。\n微軟表示，公司知道提供給夥伴的資訊可能會被拿來利用，「這就是我們採取已知和保密措施的原因，以防遭不當利用。我們會持續審查參與者，若發現違反合約，內容包括禁止參與攻擊行動，將暫停或移除其資格」。\n微軟拒絕透露駭客調查的進度，也不願具體說明有哪些企業遭到限制。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:05:02.018+03:00",
+  "updated": "2025-08-22T11:04:37.000+03:00"
+}

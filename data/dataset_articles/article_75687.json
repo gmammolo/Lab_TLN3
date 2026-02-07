@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "495af0cbe7fad449955a9a501c549d0239400827",
+    "url": "https://www.heise.de/en/news/Does-a-new-phishing-scam-allow-PayPal-accounts-to-be-taken-over-10234666.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/en",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "heise online – IT news, guides and background information | heise online",
+    "title": "Does a new phishing scam allow PayPal accounts to be taken over? | heise online",
+    "title_full": "Does a new phishing scam allow PayPal accounts to be taken over? | heise online",
+    "published": "2025-01-09T22:17:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/7/6/0/5/7/shutterstock_223094779-9c915c8f542b71bc.jpg",
+    "performance_score": 0,
+    "domain_rank": 925,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 10
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "495af0cbe7fad449955a9a501c549d0239400827",
+  "url": "https://www.heise.de/en/news/Does-a-new-phishing-scam-allow-PayPal-accounts-to-be-taken-over-10234666.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dr. Christopher Kunz",
+  "published": "2025-01-09T22:17:00.000+02:00",
+  "title": "Does a new phishing scam allow PayPal accounts to be taken over? | heise online",
+  "text": "An alleged new phishing attack against PayPal users is causing a stir. Using a specially prepared email distribution list and a fake request for money, criminals are said to be able to hijack their victims' PayPal accounts. heise security was unable to confirm the attack, however.\nAnzeige Unknown persons sent Carl Windsor, the CISO of US firewall manufacturer Fortinet, a strange phishing email in December 2024. It was a payment request from a PayPal user, but it was sent to a completely different email address than that of the security professional. This made Windsor suspicious and he investigated.\nRegistered on mailing list Apparently, the attackers had found out his email address and entered it on a mailing list. To do this, they used an account with Microsoft's cloud service M365 – whose reputation with email servers helped the phishers to get past spam and malware filters.\nThey then sent a payment request for almost 2,200 US dollars to the mailing list prepared in this way via a PayPal account that they controlled. The trick: if the recipient of such an email clicks on the link to pay the claim, the email address of the mailing list is added to their PayPal account. At least, this is the impression given by the PayPal login page, which states: \"We will add angreifermail@angreifer.de to your PayPal account when you log in.\"\nPaypal claims to add a new e-mail address to the account, but this never happens. The fact that the amount is not stated is apparently a bug. (Image: heise security / cku)\nIf the victim logs in to PayPal to reject the supposedly erroneous payment request, the trap snaps shut – according to the theory. In the next step, the phishers could have used the newly added e-mail address to set a new password and thus hijack the PayPal account, Windsor suspects.\nAnzeige However, we were unable to replicate this attack in our own tests with several PayPal accounts. Although the message to add an email address appears in our tests using a desktop browser, this does not happen. Neither when the abusive payment request is rejected nor when the victim accepts it and actually makes a payment. To be on the safe side, we set up a new PayPal account – here, too, we were unable to successfully carry out the phishing attack.\nIt is unclear why the attack did not work in our tests. It is possible that PayPal has fixed the vulnerability since Windsor's test in early December. Neither PayPal nor the Fortinet CISO responded to an inquiry from heise Security on Thursday.\nCaution when receiving payments However, the situation is somewhat different for incoming payments – when the phishing attackers \"mistakenly\" transfer an amount to the victim. As soon as the victim receives a payment to an e-mail address prepared in this way, they go through a different process: After logging in, a full-screen pop-up appears asking for confirmation of the additional email address for the PayPal account. With clever social engineering, it may still be possible for criminals to trick individual victims, but the conspicuous confirmation message represents a high hurdle.\nPlease confirm: If a payment is received via a new e-mail address, PayPal asks whether this belongs to the account. (Image: heise security/cku)\nThe payment provider PayPal recently hit the headlines because its subsidiary Honey and its browser plugins came under suspicion of fraud and many cooperation partners withdrew coram publico .\n( cku )\nDon't miss any news – follow us on Facebook , LinkedIn or Mastodon .\nThis article was originally published in German . It was translated with technical assistance and editorially reviewed before publication.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/company/104691972",
+    "https://www.facebook.com/heiseonlineEnglish",
+    "https://facebook.com/heiseonlineEnglish",
+    "https://linkedin.com/company/104691972"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:16:17.214+02:00",
+  "updated": "2025-01-10T01:16:17.214+02:00"
+}

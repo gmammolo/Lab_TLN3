@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "16cf28bd93da190efeac279c15108701d500079c",
+    "url": "https://www.canadianlawyermag.com/news/international/authors-accuse-meta-of-training-artificial-intelligence-systems-on-pirated-works/390604",
+    "site_full": "www.canadianlawyermag.com",
+    "site": "canadianlawyermag.com",
+    "site_section": "https://www.canadianlawyermag.com",
+    "site_categories": [
+      "law_government_and_politics",
+      "legal_issues"
+    ],
+    "section_title": "Analyzing Canadian Legal News | Canadian Lawyer",
+    "title": "Authors accuse Meta of training artificial intelligence systems on pirated works",
+    "title_full": "Authors accuse Meta of training artificial intelligence systems on pirated works",
+    "published": "2025-01-10T01:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://cdn-res.keymedia.com/cms/images/ca/120/0394_638720834823564887.png",
+    "performance_score": 0,
+    "domain_rank": 46113,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "16cf28bd93da190efeac279c15108701d500079c",
+  "url": "https://www.canadianlawyermag.com/news/international/authors-accuse-meta-of-training-artificial-intelligence-systems-on-pirated-works/390604",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jacqueline So",
+  "published": "2025-01-10T01:45:00.000+02:00",
+  "title": "Authors accuse Meta of training artificial intelligence systems on pirated works",
+  "text": "The allegations add to a copyright infringement suit filed in 2023\nA group of authors including Ta-Nehisi Coates and Sarah Silverman have accused Meta Platforms of training its artificial intelligence systems on pirated copies of copyrighted works, reported Reuters.\nAccording to the authors’ filings in California federal court, during the discovery process Meta produced internal documents that confirmed they knew they were using pirated works. The authors also claimed that Meta CEO Mark Zuckerberg approved the act.\nThe allegations add to a copyright infringement suit that was initially filed against Meta in July 2023. The initial suit [sought unspecified monetary damages](https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/) on behalf of other copyright owners across the US who had their copyright violated.\nIn the authors’ bid to update their complaint, they said that according to new evidence, Meta used the AI training dataset Library Genesis (LibGen) and distributed the dataset via peer-to-peer torrents. LibGen, a file-sharing service, reportedly houses millions of pirated works and [was sued by textbook publishers](https://www.reuters.com/legal/litigation/textbook-publishers-sue-shadow-library-library-genesis-over-pirated-books-2023-09-14/) in September 2023.\nThe authors claimed [internal communications at Meta revealed](https://www.reuters.com/technology/artificial-intelligence/meta-knew-it-used-pirated-books-train-ai-authors-say-2025-01-09/) that Zuckerberg greenlit LibGen’s use despite the AI executive team’s concerns regarding LibGen as a pirated dataset.\nLast year, US District Judge Vince Chhabria shot down the authors’ claims that Meta chatbot-generated texts violated their copyright and that Meta illegally stripped the copyright management information from their books. This week, the authors called for the CMI claim to be revived given the new proof that strengthened their infringement allegations; they also included a computer fraud claim in the suit.\nWhile Chhabria permitted the authors to file an updated claim, Reuters reported that he was skeptical about the CMI and fraud claims’ merits. Reuters also confirmed that Meta spokespeople did not respond immediately to a request for comment.\nRecently, AI company Anthropic agreed with music publishers [to apply guardrails to its Claude chatbot](https://www.canadianlawyermag.com/news/international/ai-company-anthropic-agrees-to-chatbot-guardrails-in-lyrics-lawsuit/390493), settling part of a lawsuit that accused Anthropic of misusing song lyrics.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Social Issue->ethics",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/",
+    "https://www.reuters.com/legal/litigation/textbook-publishers-sue-shadow-library-library-genesis-over-pirated-books-2023-09-14/",
+    "https://www.reuters.com/technology/artificial-intelligence/meta-knew-it-used-pirated-books-train-ai-authors-say-2025-01-09/",
+    "https://reuters.com/legal/litigation/textbook-publishers-sue-shadow-library-library-genesis-over-pirated-books-2023-09-14/",
+    "https://www.reuters.com/legal/litigation/textbook-publishers-sue-shadow-library-library-genesis-over-pirated-books-2023-09-14",
+    "https://reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/",
+    "https://www.reuters.com/technology/artificial-intelligence/meta-knew-it-used-pirated-books-train-ai-authors-say-2025-01-09",
+    "https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09",
+    "https://reuters.com/technology/artificial-intelligence/meta-knew-it-used-pirated-books-train-ai-authors-say-2025-01-09/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sarah Silverman",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mark Zuckerberg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Reuters",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T09:03:57.731+02:00",
+  "updated": "2025-01-10T09:03:57.731+02:00"
+}

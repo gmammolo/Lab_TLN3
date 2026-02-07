@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "76f58fac629bf76d0907580faedb2ae9ed2a6f3a",
+    "url": "https://dev.to/farhanramzan799/deploying-a-static-web-application-using-aws-s3-and-cloudfront-3gjg",
+    "site_full": "dev.to",
+    "site": "dev.to",
+    "site_section": "https://www.dev.to",
+    "site_categories": [
+      "javascript",
+      "tech",
+      "databases"
+    ],
+    "section_title": "DEV Community",
+    "title": "Deploying a Static Web Application Using AWS S3 and CloudFront - DEV Community",
+    "title_full": "Deploying a Static Web Application Using AWS S3 and CloudFront - DEV Community",
+    "published": "2023-12-29T02:51:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3NqQMotX--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4agxtrogy4c92bgo2riv.png",
+    "performance_score": 0,
+    "domain_rank": 1888,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "76f58fac629bf76d0907580faedb2ae9ed2a6f3a",
+  "url": "https://dev.to/farhanramzan799/deploying-a-static-web-application-using-aws-s3-and-cloudfront-3gjg",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@",
+  "published": "2023-12-29T02:51:00.000+02:00",
+  "title": "Deploying a Static Web Application Using AWS S3 and CloudFront - DEV Community",
+  "text": "In the realm of modern web development, deploying static web applications efficiently and securely is crucial. AWS(Amazon Web Services) offers a powerful combination of S3 and CloudFront that simplifies and optimizes this process. In this guide, we'll walk through the steps to deploy a static react web application using the S3 and cloudfront, then we will use code build to automate its deployment. Amazon S3: Amazon Simple Storage Service(S3) is a highly scalable, secure, and durable object storage service. It's an ideal solution for hosting static web content like HTML, CSS, JavaScript, images, and more. CloudFront: AWS CloudFront is a content delivery network (CDN) service that accelerates the delivery of your web content globally. It distributes your content through a network of edge locations to reduce latency and enhance user experience. [ ](#steps-to-deploy) Steps to Deploy: 1. Create React App: - Let's create the react app named \"deploy-app\" using the following command: npx create-react-app deploy-app - Move to the folder: cd deploy-app - Build the react app using: npm i npm run buildthis will create a folder /build at root that can be serve to access the app. 2. Upload to Github: - Create the repo \"delpoy-app\" on your github. - Add the buildspec.yaml and place the below content in it in your local code(this will be used later in this tutorial) version: 0.2 phases: pre_build: commands: - echo Installing node packages - npm i build: commands: - echo Build started on `date` - npm run $ENV post_build: commands: - aws s3 sync build/ $BUCKET_NAME - aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths '/*' Push the local changes on github using the following commands: git init git remote add origin https://github.com/USERNAME/deploy-app.git git add . git commit -m 'added buildspec.yaml for automation' git push origin main 3. Create AWS S3 bucket: On AWS console move to S3 and create bucket, - Select AWS region - Enter the Bucket name - Uncheck the \"Block all public access\" leave the rest of the settings default and press Create Bucket Once it is created then select \"Properties\", scroll down to bottom, \"Edit\" the static website hosting and set the below settings and press \"Save changes\", Then, select \"Permissions\", then \"Edit\" the Bucket policy, add the following content(remember to update the BUCKET_NAME) and Save Changes, { \"Version\": \"2012-10-17\", \"Statement\": [ { \"Sid\": \"PublicReadGetObject\", \"Effect\": \"Allow\", \"Principal\": \"*\", \"Action\": \"s3:*\", \"Resource\": [ \"arn:aws:s3:::BUCKET_NAME/*\", \"arn:aws:s3:::BUCKET_NAME\" ] } ] } 4. Attach Cloudfront with S3: To access the static content from S3 with high speed and less latency we will attach the cloudfront with S3 bucket. To do so, move to Cloudfront from AWS console. - Press the \"Create Distribution\" - Copy the static url from the s3 bucket properties and place it in the origin domain for cloudfront. Don't forget to remove the https:// from the s3 bucket static url. Then, select the Redirect HTTP to HTTPS and set the Allowed HTTP methods: Then press \"Create Distribution\" Once the distribution is created, you will be able to access the react app on Distribution domain name: - Don't forget to add Invalidator in cloudfront distribution. It is used to replicate the new changes on all egde locations so that we can get the latest data from S3 bucket. - You can also add the custom domain in alternate domain name and a certificate if you want to. If you do so, you also have to add the CNAME record in your DNS as well. For this, Please refer to, [https://awslabs.github.io/aws-cloudfront-extensions/en/distribution-management/ssl-certificates/add-record-for-cname/](https://awslabs.github.io/aws-cloudfront-extensions/en/distribution-management/ssl-certificates/add-record-for-cname/) 5. CodeBuild for deployment on S3: To automate the deployment process for react app whenever the code is pushed in particular on the github we can use the CodeBuild pipeline. Let's automate this process for \"main\" branch. - On AWS console move to CodeBuild. - Press Create build project. - Enter the name for project. - Add source(in our case it will be github) and connect your repository and select the branch. - Then enable the \"webhook and add the following settings\" so that whenever the code is pushed to the main branch this pipeline gets triggered. - Create a Service Role and also add the \"CloudFrontFullAccess\" permission in this IAM role once the role is created. This will be needed to create the invalidator. - In Addition Configurations add the following Environment variables that are being used in buildspec.yaml we created above. - Press \"Create build project\" - Once it is created press \"Start Build\". This will get the latest code from main branch, build the project, sync the build folder with s3 bucket and create the invalidator. Now, whenever there will be a new commit in github repo in main branch this pipeline will trigger that deploy the latest code to s3 bucket. Happy Learning...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "external_links": [
+    "https://awslabs.github.io/aws-cloudfront-extensions/en/distribution-management/ssl-certificates/add-record-for-cname/)",
+    "https://github.com/USERNAME/deploy-app.git",
+    "https://awslabs.github.io/aws-cloudfront-extensions/en/distribution-management/ssl-certificates/add-record-for-cname/",
+    "https://www.awslabs.github.io/aws-cloudfront-extensions/en/distribution-management/ssl-certificates/add-record-for-cname/",
+    "https://awslabs.github.io/aws-cloudfront-extensions/en/distribution-management/ssl-certificates/add-record-for-cname",
+    "https://www.awslabs.github.io/aws-cloudfront-extensions/en/distribution-management/ssl-certificates/add-record-for-cname/)",
+    "https://www.github.com/USERNAME/deploy-app.git"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "css",
+        "sentiment": "none"
+      },
+      {
+        "name": "amazon simple storage service",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T04:26:30.500+02:00",
+  "updated": "2023-12-29T07:27:24.940+02:00"
+}

@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "38f31cbee491fc7b8fda42562e9f35fe93329a58",
+    "url": "https://www.hindustantimes.com/business/openai-accidentally-erases-evidence-of-using-newspaper-content-to-train-ai-models-report-101732270947527.html",
+    "site_full": "www.hindustantimes.com",
+    "site": "hindustantimes.com",
+    "site_section": "https://www.hindustantimes.com/sponsored-post",
+    "site_categories": [
+      "media",
+      "top_news_pk",
+      "top_news_gb",
+      "top_news_kw",
+      "top_news_sa",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_sg",
+      "top_news_ie",
+      "top_news_za",
+      "top_news_ph",
+      "top_news_ae",
+      "top_news_us",
+      "top_news_in",
+      "top_news_ca",
+      "top_news_my",
+      "top_news_iq",
+      "top_news_qa",
+      "top_news"
+    ],
+    "section_title": " | Hindustan Times",
+    "title": "OpenAI accidentally erases evidence of using newspaper content to train AI models: Report",
+    "title_full": "OpenAI accidentally erases evidence of using newspaper content to train AI models: Report",
+    "published": "2024-11-22T12:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/22/1600x900/TOPSHOT-US-TECHNOLOGY-AI-MICROSOFT-COMPUTERS-1_1716342745807_1732270981437.jpg",
+    "performance_score": 0,
+    "domain_rank": 887,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "38f31cbee491fc7b8fda42562e9f35fe93329a58",
+  "url": "https://www.hindustantimes.com/business/openai-accidentally-erases-evidence-of-using-newspaper-content-to-train-ai-models-report-101732270947527.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@httweets",
+  "published": "2024-11-22T12:22:00.000+02:00",
+  "title": "OpenAI accidentally erases evidence of using newspaper content to train AI models: Report",
+  "text": "OpenAI accidentally erased important evidence gathered by major newspapers including the New York times in their lawsuit regarding training data, according to a report by The Verge which cited a court filing.Also Read: Hyundai India to set up a solar and wind energy plant in Tamil Nadu for 100% renewable energy transition goalThis comes after the newspapers' legal teams spent over 150 hours searching through OpenAI's training data to find cases where their news articles were included, according to the report.Though OpenAI admitted to the error as a “glitch” and even tried to recover the data, whatever it managed to salvage was incomplete as well as unreliable, meaning it can no longer be used as evidence in court, the report read.Even the New York Times’ attorneys were quoted as saying that they had “no reason to believe” it was intentional.Also Read: X is now India's top news app on Apple's App Store, Elon Musk's big announcementWhat is the lawsuit against OpenAI by the New York Times about?The New York Times initiated the legal case last December, claiming OpenAI and Microsoft built their AI tools, “copying and using millions” of the its news articles, making it liable for “billions of dollars in statutory and actual damages.”The publication has already spent over $1 million fighting with OpenAI in court, an expense very few news outlets can bear.However, this also comes at a time when OpenAI had made deals with other major publishers like Axel Springer, Conde Nast, and Vox Media amid the same concerns regarding contentAlso Read: Ola Electric may lay off 500 workers as company faces financial challenges: Report",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Tamil Nadu",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T13:04:30.905+02:00",
+  "updated": "2024-11-22T13:37:32.801+02:00"
+}

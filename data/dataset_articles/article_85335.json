@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "25d3d979e1d0ae16b499810e19e5565871db5fe7",
+    "url": "https://it.tradingview.com/news/reuters.com,2025:newsml_L8N3TS056:0/",
+    "site_full": "it.tradingview.com",
+    "site": "tradingview.com",
+    "site_section": "https://it.tradingview.com/news",
+    "site_categories": [
+      "stocks",
+      "finance"
+    ],
+    "section_title": "Notizie ed articoli finanziari — Analisi mercato — TradingView",
+    "site_title": "TradingView — Track All Markets",
+    "title": "Le azioni di Ambiq Micro chiudono in rialzo del 60% dopo l'IPO: il progettista di chip punta agli occhiali intelligenti - Notizie TradingView",
+    "title_full": "Le azioni di Ambiq Micro chiudono in rialzo del 60% dopo l'IPO: il progettista di chip punta agli occhiali intelligenti - Notizie TradingView",
+    "published": "2025-07-31T07:08:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "performance_score": 0,
+    "domain_rank": 1154,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "25d3d979e1d0ae16b499810e19e5565871db5fe7",
+  "url": "https://it.tradingview.com/news/reuters.com,2025:newsml_L8N3TS056:0/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-07-31T07:08:00.000+03:00",
+  "title": "Le azioni di Ambiq Micro chiudono in rialzo del 60% dopo l'IPO: il progettista di chip punta agli occhiali intelligenti - Notizie TradingView",
+  "text": "Le azioni di Ambiq Micro chiudono in rialzo del 60% dopo l'IPO: il progettista di chip punta agli occhiali intelligenti\nLe azioni della società di progettazione di chip Ambiq Micro AAMBQ hanno chiuso il loro primo giorno di negoziazione alla Borsa di New York con un aumento di oltre il 60% *MERCOLEDì, dopo aver raccolto 96 milioni di dollari in un'offerta pubblica iniziale.\nL'azienda di Austin, Texas, specializzata in piccoli chip di calcolo che consumano pochissima energia, ha iniziato le contrattazioni a 24 dollari per azione ed è salita fino al 101,8% prima di concludere la giornata a 38,53 dollari, con una valutazione di 656,5 milioni di dollari.\nAmbiq ha presentato la sua offerta pubblica iniziale all'inizio di luglio, e BofA Securities e UBS hanno agito come principali sottoscrittori dell'offerta.\nL'azienda si è concentrata su dispositivi indossabili come gli orologi intelligenti. Le vendite a Google GOOG, Garmin GRMN e Huawei Technologies Co Ltd hanno rappresentato oltre l'85% del ricavi dell'ultimo anno.\nIl fondatore e Chief Technology Officer di Ambiq, Scott Hanson, ha detto a Reuters che la nuova famiglia di chip dell'azienda mira a dispositivi come gli occhiali intelligenti, che eseguono algoritmi di riconoscimento vocale e delle immagini su dispositivi con batterie molto piccole.\n\"Abbiamo trascorso gli ultimi oltre 10 anni a capire come costruire i chip a più basso consumo, e quindi siamo in una posizione ideale per attaccare lo stesso problema (sugli occhiali)\", ha detto Hanson. \"Il transistor non si preoccupa di quale problema stia risolvendo, se si tratta di una funzione di sicurezza che abbiamo svolto un paio di anni fa o, oggi, di un modello di intelligenza artificiale\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->investment and opinion pieces",
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ambiq Micro",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Scott Hanson",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York",
+        "sentiment": "none"
+      },
+      {
+        "name": "Austin",
+        "sentiment": "none"
+      },
+      {
+        "name": "Texas",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Huawei Technologies",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Garmin GRMN",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "UBS",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "UBS",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T08:11:12.099+03:00",
+  "updated": "2025-07-31T08:13:12.000+03:00"
+}

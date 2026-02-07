@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "ff29c9d37fa67de1981462ac35f121a5e679ef90",
+    "url": "https://www.punto-informatico.it/0-0-0-0-day-vulnerabilita-browser-18-anni",
+    "site_full": "www.punto-informatico.it",
+    "site": "punto-informatico.it",
+    "site_section": "https://www.punto-informatico.it",
+    "site_categories": [
+      "media",
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Punto Informatico: Notizie Online su Informatica e Tecnologia",
+    "title": "0.0.0.0 Day: vulnerabilità nei browser da 18 anni",
+    "title_full": "0.0.0.0 Day: vulnerabilità nei browser da 18 anni",
+    "published": "2024-08-08T17:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 32591,
+    "domain_rank_updated": "2024-08-06T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ff29c9d37fa67de1981462ac35f121a5e679ef90",
+  "url": "https://www.punto-informatico.it/0-0-0-0-day-vulnerabilita-browser-18-anni",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Luca Colantuoni",
+  "published": "2024-08-08T17:43:00.000+03:00",
+  "title": "0.0.0.0 Day: vulnerabilità nei browser da 18 anni",
+  "text": "I ricercatori di Oligo hanno scoperto una grave vulnerabilità, denominata 0.0.0.0 Day , presente nei browser da almeno 18 anni. Chrome, Firefox e Safari consentono ai siti web di usare l’indirizzo IP 0.0.0.0 per interagire con i servizi in esecuzione sulla rete locale. Google, Mozilla e Apple sono al lavoro per implementare una soluzione.\nDescrizione della vulnerabilità La RFC 1122 vieta di usare l’ indirizzo IP 0.0.0.0 come destinazione IPv4. Nonostante ciò, tutti i principali browser accettano richieste a questo indirizzo, consentendo ai siti web esterni di comunicare con servizi che vengono eseguiti localmente su macOS e Linux (Windows non è interessato dal problema).\nI siti web potrebbero quindi eseguire codice arbitrario sui dispositivi dei visitatori, usando 0.0.0.0 invece di 127.0.0.1 (localhost). Sfruttando la vulnerabilità 0.0.0.0 Day, un malintenzionato potrebbe accedere alla rete locale, dopo aver convinto la vittima a visitare un sito che invia una richiesta all’indirizzo 0.0.0.0.\nI cybercriminali potrebbero mettere le mani su file, credenziali, messaggi e altri dati, inclusi quelli presenti sui server web. Google ha comunicato che bloccherà l’accesso all’indirizzo 0.0.0.0 a partire da Chrome 128. Apple ha già implementato il blocco nella beta di macOS 15 Sequoia.\nMozilla non ha ancora sviluppato un fix perché il blocco potrebbe avere conseguenze per i server che usano l’indirizzo 0.0.0.0 al posto di localhost (127.0.0.1). Un portavoce ha dichiarato che devono essere valutati eventuali problemi di compatibilità prima di adottare una restrizione. Gli esperti di Oligo hanno fornito alcuni consigli per proteggere le applicazioni locali in attesa dei fix.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser",
+    "https://oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-08-09T00:17:05.022+03:00",
+  "updated": "2024-08-09T00:17:05.022+03:00"
+}

@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "86de29085f367af36ee2f85abe53c812a663ffd3",
+    "url": "https://discourse.ubuntu.com/t/ubuntu-discourse-connectivity-issues/53002",
+    "site_full": "discourse.ubuntu.com",
+    "site": "ubuntu.com",
+    "site_section": "https://discourse.ubuntu.com/c/site-feedback.rss",
+    "site_categories": [],
+    "section_title": "Site Feedback - Ubuntu Community Hub",
+    "title": "Ubuntu Discourse Connectivity Issues",
+    "title_full": "Ubuntu Discourse Connectivity Issues",
+    "published": "2025-01-10T10:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ubuntucommunity.s3.us-east-2.amazonaws.com/original/3X/9/0/905b15b7d477513b2af0668c333736b100eef109.svg",
+    "performance_score": 0,
+    "domain_rank": 317,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "86de29085f367af36ee2f85abe53c812a663ffd3",
+  "url": "https://discourse.ubuntu.com/t/ubuntu-discourse-connectivity-issues/53002",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "rubi1200",
+  "published": "2025-01-10T10:26:00.000+02:00",
+  "title": "Ubuntu Discourse Connectivity Issues",
+  "text": "For a few days I have been getting 503 and 504 errors when connecting to the site.\nHas anyone else noticed this?\nSeems to happen mostly in the afternoon/evening about 4-6 pm UK time but sometimes also in the early morning.\nYes, it started happening when the forum moved over, I guess the existing setup is simply not handling the new load … but knowing IS usually monitors site performance closely I’d expect this to be fixed eventually\nYes, several times, looks like something is being restarted each time it happens.\n… here in the UK it loads very slowly or fails to load. I have average to fast broadband here not sure why it does this, just thought would flag it up\nsee Ubuntu Discourse Connectivity Issues (was just opened minutes before you posted this )\nThanx yes it seems to be sketchy in the UK at the moment and since it is a recent site maybe it will speed up",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:11:33.375+02:00",
+  "updated": "2025-01-10T12:11:33.375+02:00"
+}

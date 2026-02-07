@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "f1ddca54e32061c1a229f9f086e16d6b1bf1db32",
+    "url": "https://bdtechtalks.com/2024/10/17/nvidia-nemotron-70b",
+    "site_full": "bdtechtalks.com",
+    "site": "bdtechtalks.com",
+    "site_section": "https://bendeetech.wordpress.com/feed",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "TechTalks",
+    "title": "Nvidia is playing a smart game with its Nemotron-70B model",
+    "title_full": "Nvidia is playing a smart game with its Nemotron-70B model",
+    "published": "2024-10-17T22:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2024/10/Nemotron-70B.jpg?fit=1200%2C675&ssl=1",
+    "performance_score": 0,
+    "domain_rank": 50947,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f1ddca54e32061c1a229f9f086e16d6b1bf1db32",
+  "url": "https://bdtechtalks.com/2024/10/17/nvidia-nemotron-70b",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ben Dickson",
+  "published": "2024-10-17T22:58:00.000+03:00",
+  "title": "Nvidia is playing a smart game with its Nemotron-70B model",
+  "text": "Image created with DALL-E 3 Nvidia has silently released Llama-3.1-Nemotron-70B-Instruct , a new model that is based on Meta’s famous open source model.\nAccording to the model’s page on Hugging Face, Nemotron-70B outperforms GPT-4o and Claude 3.5 Sonnet on important benchmarks such as Arena Hard, AlpacaEval 2 LC, and GPT-4-Turbo MT-Bench. (A quick reminder that per se, benchmark scores are not very significant. Make sure to test the model with your own application-specific prompts to see how useful they are.)\nAccording to the model page, Nemotron-70B is a Llama-3.1-70B-Instruct model fine-tuned using reinforcement learning from human feedback (RLHF) and Nvidia’s HelpSteer2-preference technique , a new alignment technique that makes the model better at following instructions.\nThere is already a hosted version of Nemotron-70B that you can test online. This is the third Nemotron model Nvidia has released in recent months, placing it as one of the potential contenders of open source models.\nAside from the usefulness of the model, Nvidia’s contribution is bringing a new twist to the raging competition between AI companies. As the main supplier of AI accelerators, Nvidia has been the biggest beneficiary of the AI boom, raking in hundreds of billions of dollars of revenue from the demand for its chips. At the time of this writing, Nvidia has a $3.38 trillion market cap, right on Apple’s heels.\nWhen you control the supply and can create demand, you're bound to become a $3T company. https://t.co/Nn8jljjL7P\n— Ben Dickson (@bendee983) October 17, 2024 And while many other companies have seen their market value rise in the AI gold rush, Nvidia is the one that has actually made real money by selling the picks and shovels. Others have yet to figure out how to make their costly AI initiatives profitable. OpenAI, the leading AI lab, is still losing money and needs to raise more capital.\nNow, with the release of an LLM that is outperforming other open source models and is right behind the frontier private models, Nvidia will further intensify the race to create better models. This will increase demand for AI accelerators, give Nvidia an even bigger share of this growing pie, and make sure that the company’s value will continue to grow.\nWell played Jensen.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF",
+    "https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct",
+    "https://arxiv.org/abs/2410.01257",
+    "https://www.huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF",
+    "https://www.build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct",
+    "https://www.arxiv.org/abs/2410.01257"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:25:00.672+03:00",
+  "updated": "2024-10-18T01:59:31.912+03:00"
+}

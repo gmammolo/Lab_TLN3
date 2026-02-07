@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "a1a8a287ebc2e2e6887ddeb0773358b65dd3146a",
+    "url": "https://finance.sina.cn/stock/jdts/2025-12-25/detail-inhcywap3654355.d.html?vt=4",
+    "site_full": "finance.sina.cn",
+    "site": "sina.cn",
+    "site_section": "https://finance.sina.cn/stock/jdts",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "焦点透视_手机新浪网",
+    "site_title": "手机新浪网",
+    "title": "腾讯按下AI加速键，人才、组织、开源动作密集|腾讯|AI|腾讯|AI|3D_手机新浪网",
+    "title_full": "腾讯按下AI加速键，人才、组织、开源动作密集|腾讯|AI|腾讯|AI|3D_手机新浪网",
+    "published": "2025-12-25T08:35:24.925+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://n.sinaimg.cn/spider20251225/520/w660h660/20251225/cc6d-8276c555164f6411f6300b662e7ac71d.jpg",
+    "performance_score": 0,
+    "domain_rank": 4801,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a1a8a287ebc2e2e6887ddeb0773358b65dd3146a",
+  "url": "https://finance.sina.cn/stock/jdts/2025-12-25/detail-inhcywap3654355.d.html?vt=4",
+  "ord_in_thread": 0,
+  "author": "市场资讯",
+  "published": "2025-12-25T08:35:24.925+02:00",
+  "title": "腾讯按下AI加速键，人才、组织、开源动作密集|腾讯|AI|腾讯|AI|3D_手机新浪网",
+  "text": "腾讯按下AI加速键，人才、组织、开源动作密集 市场资讯 12.25 14:18 （来源：机器之心Pro）\n编辑｜冷猫\n在外界感知中， 腾讯 在 AI 领域的动作更多被贴上稳健甚至克制的标签。\n但在 2025 年的尾声，从人才引进到产品迭代再到组织变革，一系列密集信号的发出，也侧面表明这个巨头正在按下加速键。\n12 月 17 日，机器之心报道证实，前 OpenAI 研究员、清华校友姚顺雨（Vinces Yao）正式加入腾讯，出任「CEO / 总裁办公室」首席 AI 科学家，并直接向腾讯总裁刘炽平汇报。\n与此同时，腾讯宣布升级大模型研发架构，成立 AI Infra 部、AI Data 部及数据计算平台部，全面强化研发体系。\n除了人事与组织的变动，就在同一天，腾讯还发布并开源了国内首个可实时交互的混元世界模型 1.5（WorldPlay）。\n视频链接：https://mp.weixin.qq.com/s/fXXArR_Od6etZfBWjsbptQ\n若将时间轴拉长，从混元 2.0 采用 MoE 架构实现推理效率领先，到混元 3D 模型下载量突破 300 万，再到腾讯混元、腾讯优图实验室等系列模型、工具开源，腾讯在技术迭代、开源贡献与人才密度上的提升显而易见。\n姚顺雨曾在其博客中探讨过 AI 发展的「下半场」逻辑，强调智能体与认知架构的重要性。如今，随着这位在 ToT（思维树）、ReAct 等领域做出突破性工作的青年科学家入局，并统管 AI Infra 与大语言模型两大核心部门，腾讯 AI 的战略路径已经比较清晰： 通过顶尖研究与扎实工程的深度咬合，为用户打造真正好用的 AI\n持续补强模型能力\n上层应用的繁荣，很难离开底层基础模型的支撑。\n此次架构调整中，新成立的 AI Infra 部被置于关键位置，负责构建大模型分布式训练、高性能推理服务等核心能力。\n在模型层，腾讯混元此前一段时间已经展现出强劲的迭代能力。最新发布的混元 2.0 在复杂指令遵循和文本创作上表现国内领先；在 3D 生成领域，腾讯混元 3D 系列模型已成为全球最受欢迎的开源 3D 模型之一， 社区下载量超过 300 万 ，并推出混元 3D 3.0，将 建模精度提升了 3 倍\n姚顺雨的加入，不仅带来了算法层面的前沿视野，更关键的是他同时负责模型与 Infra。这种模型 + 基建的一体化管理，有助于加强算法研发与底层算力之间的互融，让基础设施更好地适应模型演进的需求，同时也让模型训练更高效地利用算力资源。\n对于外界而言，这也让混元大语言模型未来的进化速度与上限更值得期待。\n模型与工程能力的深层协同\n如果说腾讯混元大模型的持续进化是为了打造一颗更强劲的心脏，那么要让 AI 真正跑通业务场景，还需要一套精密传动的骨骼。\n这也是腾讯 AI 工程化落地一直在努力的方向，通过从模型、工具到应用的完整布局，逐步填平模型突破与产业落地之间的鸿沟。\n工程化能力首先反映在底层算力基础设施的优化上 。据悉，腾讯通过软硬一体化策略，针对星脉网络与高性能存储进行专项调优，将模型训练综合性能提升了 30%。\n同时， 腾讯云将支撑大规模训练的同源技术能力沉淀为 TI 平台，核心解决模型训不动、调不准的工程挑战 。这个平台不仅支持算力潮汐调度，更实现了从数据处理到部署的全链路打通。无论是车企精调模型还是私有化部署，腾讯云TI 平台都能提供标准化的工业级生产流水线，使大模型开发实现软件工程式的标准可控。\n在夯实好底座与开发线后，在模型组件方面， 腾讯优图实验室也开源了系列小而 美的 模型能力，针对性解决大模型落地的工程痛点 。同时，这些开源项目并非孤立的技术点，而是具备高协同性的技术栈，通过模块化集成，能够形成从组件到方案的体系化输出。\n腾讯似乎正在通过这类连续的开源动作，为加速智能体的落地尽可能扫除障碍、创造更多价值。\n据机器之心获悉，针对如何让 AI 读懂复杂文档，腾讯优图实验室即将开源 Youtu-Parsing 。它像一位经验丰富的专家，看得清、理得顺、认得准那些「杂乱无章」的非结构化数据。可针对输入的复杂文档，完成从全局到局部的精细化处理，既实现文档整体布局的精准分析，又能针对性提取图表、文本块、数学公式、表格等关键元素，有效解决复杂排版文档信息还原问题，为大模型提供高质量的数据。\n针对「记不住」和「幻觉」等顽疾，他们此前又 开源了 Youtu-embedding 和 Youtu-graphrag 组合 。前者赋予 AI 在海量知识库中精准定位的能力，后者则通过知识图谱技术，将碎片化信息串联成逻辑链条，相当于给 AI 装上一张地图，让推理有据可依，显著减少胡说八道的情况。\n为了让 AI 能够突破对话框的限制、去执行更复杂的任务，腾讯优图实验室还 开源了 Youtu-agent 框架 。这个框架在设计之初就融入了「自我进化」的能力，可以根据自然语言的描述，自动创建任务所需的工具并配置相应的智能体。\n该框架还设计了两种强化学习优化方案来提升智能体的表现：一种优化了训练 infra，让开发者搭建的 Agent 都能端到端训练；另一种无需额外训练，通过引入练习经验就可以让 Agent 变强。\n凭借这些技术，该框架在多项评测中都取得了出色成绩。\n在 WebWalkerQA 评测中，基于 DeepSeek-V3.1 达到 71.47% 的准确率，刷新开源效果 SOTA，同样是使用开源模型 QwQ，不用训练也能达到 SOTA 效果。\n在 GAIA（文本子集）测试中，基于 DeepSeek-V3 的 Pass@1 指标达到 72.8%，无需依赖 Claude 或 GPT 等闭源模型，充分验证了该框架强大的研究价值和应用潜力。\n而这些模型工具，也在平台层面的落地做了很好的承接。\n今年年中，腾讯云便推出了 智能体开发平台 （ ADP ）。依托腾讯混元大模型的底层能力以及优图等前沿实验室的算法能力，企业无需组建庞大的算法团队，通过拖拉拽的「低代码」甚至「无代码」方式，就能在几分钟内构建出专属的客服助手、数据分析师或代码编写助理。最新发布的版本支持对接第三方数据库和工作流，并新增应用评测工具，进一步降低企业构建 AI 应用的门槛。\n应用落地多点开花\n技术加速的最终指向是价值创造。在「研究 + 工程」双轮驱动下， 腾讯的 AI 能力已在多个垂直领域实现规模化落地\n在金融领域，保险行业作为知识密集型和人力密集型的典型代表，AI 提效尤为显著。东吴人寿依托腾讯云 ADP 构建公司级智能体开发平台「东吴天枢」，打造了「东吴智脑问 +」、「苏惠保智能快赔助手」等多个智能体。理赔处理时效从传统人工审核的 3-5 天骤降至 3 分钟以内，预计每年支撑上万起理赔案件，大幅节省成本。\n在传媒领域，广东广播电视台基于腾讯云 ADP 打造了「AI 内容服务平台」，用于处理直播素材、辅助写稿等工作。过去，记者编辑需要几十分钟才能剪完一条视频，现在最快只需十分钟，甚至几分钟。今年全运会期间，AI 累计辅助广东台生产了百余条爆款内容，整体效率提升 40%。\n在企业营销侧， 绝味食品 基于腾讯云智能体开发平台打造了营销云 Agent，由智能体发起的活动内容点击率比人工专家高出 40%，支付转化率是人工组的 2.4 倍，交易金额更是达到 3.1 倍。\n在能源与制造领域，面对电网设备分布广、人工巡检难的痛点，腾讯协助训练的电力视觉大模型展现了高检出率与泛化能力，有效适应不同电网场景，切实保障电力生产安全；在医疗健康领域，腾讯健康小程序里的 AI 健康管理助手，已能自动解读体检报告，深入解析异常指标，并为用户制定个性化的健康管理计划，让医疗服务更具温度。\n从底层的架构变阵、人才引进，到平台层的系列工具及开源组件串联，再到上层的多场景落地，腾讯正在构建一个紧密咬合的 AI 飞轮。\n当然， 按下加速键并不意味着胜负已分\nAI 是一场漫长的马拉松已成为行业共识，而腾讯面临的挑战依然存在：如何在庞大的生态体量下保持敏捷？如何在工程化的确定性与前沿探索的不确定性之间找到动态平衡？\n而这些，都需要时间给出答案。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific innovation",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business and market analysis"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://mp.weixin.qq.com/s/fXXArR_Od6etZfBWjsbptQ",
+    "https://www.mp.weixin.qq.com/s/fXXArR_Od6etZfBWjsbptQ"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T08:35:24.925+02:00",
+  "updated": "2025-12-26T09:08:26.000+02:00"
+}

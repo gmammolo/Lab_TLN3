@@ -1,0 +1,161 @@
+{
+  "thread": {
+    "uuid": "e010e2ce723b6c1a483132b030dabacd25945c0c",
+    "url": "https://itbrief.com.au/story/adobe-unveils-ai-tools-to-enhance-premiere-pro-editing",
+    "site_full": "itbrief.com.au",
+    "site": "itbrief.com.au",
+    "site_section": "https://itbrief.com.au",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "IT Brief Australia - Technology news for CIOs &amp; IT decision-makers",
+    "site_title": "IT Brief Australia - Technology news for CIOs &amp; IT decision-makers",
+    "title": "Adobe unveils AI tools to enhance Premiere Pro editing",
+    "title_full": "Adobe unveils AI tools to enhance Premiere Pro editing",
+    "published": "2025-04-03T02:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://itbrief.com.au/uploads/story/2025/04/03/compatible_Generative_Extend_4.jpg",
+    "performance_score": 0,
+    "domain_rank": 73156,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e010e2ce723b6c1a483132b030dabacd25945c0c",
+  "url": "https://itbrief.com.au/story/adobe-unveils-ai-tools-to-enhance-premiere-pro-editing",
+  "ord_in_thread": 0,
+  "author": "Sean Mitchell",
+  "published": "2025-04-03T02:29:00.000+03:00",
+  "title": "Adobe unveils AI tools to enhance Premiere Pro editing",
+  "text": "Adobe has launched Generative Extend in Premiere Pro and announced AI-powered Media Intelligence to enhance video editing capabilities.\nGenerative Extend, utilising the Firefly Video Model, allows editors to extend both video and audio clips in 4K and vertical formats, addressing a common issue of incomplete clips and creating seamless transitions. \"We're so excited to see how the Premiere Pro community uses Generative Extend in 4K and AI-powered Media Intelligence to create stories that capture our imaginations,\" said Ashley Still, Senior Vice President and General Manager of Digital Media at Adobe.\nThe Media Intelligence feature enables editors to swiftly locate specific clips within vast amounts of footage, changing the conventional method of manual searching. \"I'm really excited by the AI products that Adobe is developing for filmmakers — especially new features like Media Intelligence, which helps me get to the edit that much faster,\" remarked Ernie Gilbert, filmmaker and editor of \"Opus\".\nAlongside these updates, Adobe introduced AI-powered Caption Translation, allowing captions to be localised in 27 languages, and improvements in Premiere Pro's Colour Management, which facilitates enhanced high dynamic range and standard dynamic range adjustments.\nThe advancements in Adobe's After Effects software include enhanced performance for preview playback, advanced 3D motion design tools, and HDR monitoring. Justin Barnes, Executive Creative Director at Versus Creative Studio, commented on the impact of these tools: \"Adobe's new Firefly-powered video tools like Generative Extend have been transformative for our creative and post-production workflows.\"\nFrame.io V4 also sees significant upgrades with expanded storage capabilities designed to support large creative teams, improving collaboration by allowing extensive media to be managed within a single platform. The inclusion of transcription tools, watermarking, and enhanced access control features further streamline the content creation process.\nThe system becomes more efficient by offering editors automatic clip recognition based on content such as objects and locations, facilitating quicker access to required footage. Experts in the field recognise how these technological improvements can boost productivity by reducing time spent on mundane tasks.\nAdobe's tools continue to be popular among filmmakers. Recent blockbusters such as \"Anora\" and television series \"The Jinx — Part Two\" used Adobe Creative Cloud tools in their production processes. Sean Baker, writer, director, and editor of \"Anora,\" described Adobe Premiere Pro as a versatile tool ideal for both quick edits and complex sequences.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->products and services",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ashley Still",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ernie Gilbert",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Anora",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sean Baker",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Justin Barnes",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "Versus Creative Studio",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "Firefly",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "Generative Extend",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Media Intelligence",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Digital Media",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "AI",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "AI",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "Premiere Pro's Colour Management",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Frame.io",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Adobe Creative Cloud",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Adobe Premiere Pro",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:38:39.642+03:00",
+  "updated": "2025-04-03T02:38:39.642+03:00"
+}

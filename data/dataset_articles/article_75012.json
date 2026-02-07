@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "eb386c4a9b81b1c73ec4611a353595e097e31f76",
+    "url": "https://www.firstpost.com/tech/new-york-times-accuses-openai-of-deleting-crucial-evidence-in-copyright-lawsuit-13837566.html",
+    "site_full": "www.firstpost.com",
+    "site": "firstpost.com",
+    "site_section": "http://www.firstpost.com",
+    "site_categories": [
+      "media",
+      "cricket",
+      "sports",
+      "top_news_in",
+      "top_news_pk",
+      "top_news"
+    ],
+    "section_title": "FIRSTPOST: LIVE updates, Latest News, Breaking News, World News, Sports News, Bollywood News, Business, Entertainment, Tech, Political News and more Firstpost",
+    "title": "New York Times accuses OpenAI of deleting crucial evidence in copyright lawsuit",
+    "title_full": "New York Times accuses OpenAI of deleting crucial evidence in copyright lawsuit",
+    "published": "2024-11-22T06:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.firstpost.com/uploads/2024/11/New-York-Times-accuses-OpenAI-of-deleting-crucial-evidence-in-copyright-lawsuit-2024-11-a19bed1797c6765b6868e200acb875fa-1200x675.jpg?im=FitAndFill=(1200,675)",
+    "performance_score": 0,
+    "domain_rank": 2188,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eb386c4a9b81b1c73ec4611a353595e097e31f76",
+  "url": "https://www.firstpost.com/tech/new-york-times-accuses-openai-of-deleting-crucial-evidence-in-copyright-lawsuit-13837566.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "FP Staff",
+  "published": "2024-11-22T06:49:00.000+02:00",
+  "title": "New York Times accuses OpenAI of deleting crucial evidence in copyright lawsuit",
+  "text": "Tensions between The New York Times and OpenAI have intensified in their ongoing copyright lawsuit. The Times has accused OpenAI of accidentally erasing vital evidence that its legal team had spent over 150 hours extracting, an action that could have significant implications for the case. According to the newspaper’s legal team, OpenAI’s engineers unintentionally deleted data that was essential for determining whether its articles were used in training OpenAI\\u0026rsquo;s AI models, including the widely-used ChatGPT.\\nAdvertisement Although OpenAI managed to recover some of the lost data, the Times claims that the absence of original file names and folder structures makes it impossible to trace where its articles were incorporated into OpenAI’s models. In a court filing, the Times\\u0026rsquo; lawyer, Jennifer B. Maisel, noted that the missing information hindered the identification of potential copyright violations.\\nThe lawsuit against OpenAI The Times has been embroiled in a lawsuit against both OpenAI and Microsoft, accusing them of unlawfully using its articles to train AI tools without permission. This case is one of several ongoing legal battles between publishers and AI companies over the use of copyrighted content in training AI systems. OpenAI has yet to publicly disclose the specifics of the data used to train its models, which makes the Times’ legal pursuit particularly important.\\nAs part of the discovery process, the court required OpenAI to share its training data with the Times, which led to the creation of a \\u0026ldquo;sandbox\\u0026rdquo; environment. In this space, the Times\\u0026rsquo; legal team could examine the data used to build OpenAI\\u0026rsquo;s AI models. However, the data that was supposed to be organised by the Times\\u0026rsquo; team was reportedly deleted. Although OpenAI admitted to the mistake, it has not been able to fully restore the data in its original form, forcing the Times to redo much of its work, leading to significant delays and additional costs.\\nOpenAI’s defence and ongoing disagreements OpenAI has denied any malicious intent behind the deletion, calling it a technical glitch. A spokesperson for the company stated that they would file a formal response to the claims soon. Despite this, the deletion of data has added fuel to the fire of an already contentious legal dispute. The Times\\u0026rsquo; legal team stressed that it was crucial for OpenAI to provide a complete and organised set of training data to properly assess any infringement.\\nThe lawsuit has also highlighted ongoing disputes over who is responsible for sorting through the data. The Times has argued that OpenAI is in the best position to handle this task, as it holds the most information about how the models were trained. In addition, the Times has demanded further documentation, including Slack messages and social media conversations between key OpenAI figures, in an effort to strengthen its case.\\nEditor’s Picks 1 ChatGPT in trouble: OpenAI sued for stealing everything anyone’s ever written on the Internet 2 Elon Musk sues OpenAI \\u0026amp; Sam Altman, again, after withdrawing his first lawsuit against AI company The broader impact on AI and content licensing As the legal proceedings unfold, the Times and OpenAI continue to clash over the scope of the case. Microsoft, which is also named in the lawsuit, has requested that the Times turn over documents related to its own use of generative AI, including materials concerning how its tech columnists engage with such tools.\\nBeyond the courtroom, OpenAI is pursuing licensing deals with other major publishers like The Atlantic, Axel Springer, and Conde Nast. These cases will have far-reaching consequences for how AI companies operate in the US and may set important precedents for content licensing and the use of copyrighted material in training artificial intelligence. The outcome of the lawsuits could reshape the future of AI regulation and its relationship with the media industry.\\nAdvertisement",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jennifer B. Maisel",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "New York Times",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T09:43:22.905+02:00",
+  "updated": "2024-11-22T14:17:27.574+02:00"
+}

@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "d04e1d8489fc48a733338ad617c130e23ac529a6",
+    "url": "https://www.data.jma.go.jp/developer/xml/data/20251002072602_0_VPFJ50_020000.xml",
+    "site_full": "www.data.jma.go.jp",
+    "site": "jma.go.jp",
+    "site_section": "https://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+    "site_categories": [],
+    "section_title": "高頻度（随時）",
+    "site_title": "気象庁 Japan Meteorological Agency",
+    "title": "府県気象情報",
+    "title_full": "府県気象情報",
+    "published": "2025-10-02T10:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3945,
+    "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d04e1d8489fc48a733338ad617c130e23ac529a6",
+  "url": "https://www.data.jma.go.jp/developer/xml/data/20251002072602_0_VPFJ50_020000.xml",
+  "ord_in_thread": 0,
+  "author": "青森地方気象台",
+  "published": "2025-10-02T10:26:00.000+03:00",
+  "title": "府県気象情報",
+  "text": "1.0_0 津軽では、上空の寒気や気圧の谷の影響により、大雨となっている所があります。２日夜のはじめ頃にかけて、大雨による土砂災害や低い土地の浸水、河川の増水に注意・警戒してください。また、青森県では、２日夜遅くにかけて、落雷や突風、ひょう、急な強い雨に注意してください。 <Text type=\"本文\">［気象概況］ 　気圧の谷が東北地方を通過しており、上空約５５００メートルには氷点下１５度以下の寒気が流れ込んでいます。東北地方では、２日夜遅くにかけて、大気の不安定な状態が続く見込みです。 　このため、津軽では、雷を伴って強い雨が降り、大雨となる所があるでしょう。これまでの雨で地盤の緩んでいる所があるため、雨雲が予想以上に発達した場合には、警報級の大雨となる可能性があります。 ［雨の予想］ ２日に予想される１時間降水量は多い所で、 　　津軽　　　２０ミリ 　　下北　　　２０ミリ 　　三八上北　２０ミリ ２日１８時から３日１８時までに予想される２４時間降水量は多い所で、 　　津軽　　　３０ミリ 　　下北　　　３０ミリ 　　三八上北　３０ミリ ［防災事項］ 　津軽では、２日夜のはじめ頃にかけて、大雨による土砂災害、低い土地の浸水、河川の増水に注意・警戒してください。 　また、青森県では、２日夜遅くにかけて、落雷や突風、ひょうによる農作物や農業施設等への被害、急な強い雨に注意してください。 ［補足事項］ 今後発表する防災気象情報に留意してください。 土砂災害や浸水害、洪水害のキキクル（危険度分布）に関しては「気象庁ホームページ」などを確認してください。 これで、「大雨と雷及び突風に関する青森県気象情報」は終了します。</Text>",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "japanese",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather forecast",
+    "Weather->weather phenomena",
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "http://xml.kishou.go.jp/jmaxml1/addition1/",
+    "http://xml.kishou.go.jp/jmaxml1/",
+    "http://xml.kishou.go.jp/jmaxml1/addition1",
+    "http://www.xml.kishou.go.jp/jmaxml1/addition1/",
+    "http://xml.kishou.go.jp/jmaxml1",
+    "http://www.xml.kishou.go.jp/jmaxml1/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-02T11:48:32.591+03:00",
+  "updated": "2025-10-02T11:57:56.000+03:00"
+}

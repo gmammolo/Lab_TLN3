@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "ea10d580f8bd18638cc9d965e547b12427797a5b",
+    "url": "https://www.ithome.com/0/870/356.htm",
+    "site_full": "www.ithome.com",
+    "site": "ithome.com",
+    "site_section": "http://www.ithome.com/rss/",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "IT之家",
+    "site_title": "IT之家",
+    "title": "全国首个开源鸿蒙机器人操作系统 M-Robots OS 正式开源",
+    "title_full": "全国首个开源鸿蒙机器人操作系统 M-Robots OS 正式开源",
+    "published": "2025-07-24T06:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 7103,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ea10d580f8bd18638cc9d965e547b12427797a5b",
+  "url": "https://www.ithome.com/0/870/356.htm",
+  "ord_in_thread": 0,
+  "author": "作者： 浩渺",
+  "published": "2025-07-24T06:35:00.000+03:00",
+  "title": "全国首个开源鸿蒙机器人操作系统 M-Robots OS 正式开源",
+  "text": "IT之家 7 月 24 日消息，在今日举行的 2025 开放原子开源生态大会上，深开鸿 CEO 王成录博士宣布：M-Robots 开源项目正式启动。该项目由开放原子开源基金会孵化、深开鸿牵头发起，旨在以开源共建的方式打造基于开源鸿蒙的统一机器人操作系统 M-Robots OS，推动机器人行业生态融合、能力复用、智能协同。\n据介绍，M-Robots OS 是全国首个基于开源鸿蒙构建的分布式异构多机协同机器人操作系统，具备多机实时协同、多硬件形态兼容、AI 原生以及丰富 API 与开发工具链四大核心能力，为行业提供“底层统一、场景多元”的全栈式系统平台。\n多机实时协同：依托分布式软总线、分布式实时通信与调度能力、高并发低时延（中断响应时延≤1 微秒，任务切换时延≤1 微秒）、多内核混合部署，支持多机高效协作。\n多硬件形态兼容：通过弹性部署、软硬件解耦、机器人应用开发中间件模块化及接口标准化机制，适配工业机械臂、AGV、人形机器人和无人机等不同形态、不同大小的设备。\nAI 原生：内置 AI 框架与算法库，配备智能体开发框架，支持原生 AI 能力构建，推动机器人从“单体智能”迈向“群体智能”。\n丰富的 API 与开发工具链：支持仿真、调试、推理训练等多工具开发模式，提升研发效率。\nIT之家从官方新闻稿获悉，M-Robots OS 开源计划将以分阶段、全栈式策略推进，逐步释放关键能力，推动机器人生态融合：\n2025 年 7 月 24 日：首期开源，已上线开源鸿蒙机器人核心子系统、核心三方中间件库、包管理器、可视化开发／调试工具；\n2025 年 12 月：发布公板芯片适配、专属驱动框架、分布式反控机制、DFX 能力；\n2026 年 6 月：开放混合部署架构、超级设备支持、软总线增强、融合组网技术及 AI 训练工具；\n2026 年 12 月：推出 M-DDS 分布式通信框架、分布式算力调度、多机协同支持、AI-Agent 框架与仿真工具链；\n2027 年：实现基于 Agent 的群体智能协作体系，推出统一机器人 IDE 开发环境。\nM-Robots OS 将按照“每年两大版本”的节奏持续演进，开源范围可能会根据技术发展、场景变化、需求优先级进行调整。\n目前，该项目已汇聚包括深开鸿、中软国际、数字华夏、乐聚机器人、哈工大重庆研究院、北京工业大学、北京理工大学在内的 21 家“产学研用”成员单位，成立项目管理委员会（PMC）与多个 SIG 技术组，覆盖架构、运动控制、具身智能等关键方向，推动跨厂商协作与产业场景落地。\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business strategy and marketing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-24T07:44:57.186+03:00",
+  "updated": "2025-07-24T07:50:28.000+03:00"
+}

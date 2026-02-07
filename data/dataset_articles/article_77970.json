@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "f59b4cc038384f951969aa3d6406b88c934b8677",
+    "url": "https://www.zaobao.com.sg/realtime/china/story20250821-7386723",
+    "site_full": "www.zaobao.com.sg",
+    "site": "zaobao.com.sg",
+    "site_section": "https://zaobao.com.sg/cn",
+    "site_categories": [
+      "media",
+      "top_news_sg",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "中国版首页 | 联合早报 - 享誉新加坡与国际的权威中文新闻媒体",
+    "site_title": "联合早报 | 联合早报",
+    "title": "微软限制中企提前获知网络安全漏洞信息 | 联合早报",
+    "title_full": "微软限制中企提前获知网络安全漏洞信息 | 联合早报",
+    "published": "2025-08-21T09:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "performance_score": 0,
+    "domain_rank": 11973,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f59b4cc038384f951969aa3d6406b88c934b8677",
+  "url": "https://www.zaobao.com.sg/realtime/china/story20250821-7386723",
+  "ord_in_thread": 0,
+  "author": "联合早报",
+  "published": "2025-08-21T09:04:00.000+03:00",
+  "title": "微软限制中企提前获知网络安全漏洞信息 | 联合早报",
+  "text": "在指控中国国家支持的黑客组织利用SharePoint文档管理软件漏洞发起攻击后，微软已限制中国企业访问它的网络安全漏洞预警系统权限，使这些企业无法提前获悉微软的技术漏洞。\n据彭博社报道，微软发言人卡迪（David Cuddy）说，上个月实施的这一调整，将限制“必须向其政府报告漏洞的国家”参与者的访问权限，其中包括中国。\n微软主动防护计划（MAPP）的目标，是向全球安全软件公司提前提供微软产品漏洞信息，使微软能够更快地为客户提供更新后的防护措施。\n此前，微软的SharePoint服务器软件遭到大规模网络攻击，公司将这些攻击归咎于中国的国家支持黑客组织。这次攻击涉及超过400个政府机构和企业，包括负责设计和维护美国核武器的国家核安全管理局。\n目前尚不清楚中国黑客如何发现SharePoint漏洞。但据彭博社早前报道，微软在攻击发生后曾调查漏洞信息是否可能从MAPP合作伙伴处泄露。\n微软称，MAPP成员至少包括十余家中国科技和网络安全公司。这些成员此前可在微软修补漏洞前24小时获取相关信息。\n中国驻华盛顿大使馆发言人在一份声明中说，他们不清楚微软MAPP计划的具体变动或疑似泄露情况，但强调网络安全是各国共同面临的挑战，应通过对话与合作共同解决。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->corporate crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://cassette.sphdigital.com.sg/image/zaobao/6de2d60f2199a9b3737b5c2c4a602931c474610b3a546b02fb75e1bff4a1a520",
+    "https://cassette.sphdigital.com.sg/image/zaobao/c0a9b70d5a5440405b5cdc54f8c9fe06fb3931363ca85f340d0ea4150972fc93",
+    "https://www.cassette.sphdigital.com.sg/image/zaobao/6de2d60f2199a9b3737b5c2c4a602931c474610b3a546b02fb75e1bff4a1a520",
+    "https://www.cassette.sphdigital.com.sg/image/zaobao/c0a9b70d5a5440405b5cdc54f8c9fe06fb3931363ca85f340d0ea4150972fc93"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_sg",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:28:44.287+03:00",
+  "updated": "2025-08-22T11:04:35.000+03:00"
+}

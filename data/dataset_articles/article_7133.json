@@ -1,0 +1,147 @@
+{
+  "thread": {
+    "uuid": "8d0d3da768ce486964e3a66fda85971f9491000b",
+    "url": "https://www.cbsnews.com/losangeles/video/communities-gather-to-honor-the-lives-lost-during-the-los-angeles-wildfires/",
+    "site_full": "www.cbsnews.com",
+    "site": "cbsnews.com",
+    "site_section": "https://www.cbsnews.com/losangeles",
+    "site_categories": [
+      "media",
+      "television",
+      "entertainment",
+      "top_news_ca",
+      "top_news_ph",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_kw",
+      "top_news",
+      "human interest",
+      "lifestyle and leisure",
+      "disaster and accident",
+      "weather",
+      "economy, business and finance",
+      "crime, law and justice",
+      "politics",
+      "sport"
+    ],
+    "section_title": "CBS Los Angeles - Breaking Local News, Weather &amp; Investigations",
+    "site_title": "CBS News | Breaking news, top stories &amp; today's latest headlines",
+    "title": "Communities gather to honor the lives lost during the Los Angeles wildfires - CBS Los Angeles",
+    "title_full": "Communities gather to honor the lives lost during the Los Angeles wildfires - CBS Los Angeles",
+    "published": "2026-01-08T07:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/08/d22f7f54-e5d4-45c3-84ae-2ee3fc316a64/thumbnail/1200x630/0584b053c5fb63a579ac5b02d9811ad8/8894be940c374dd378167e025c588f11.png",
+    "performance_score": 0,
+    "domain_rank": 611,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8d0d3da768ce486964e3a66fda85971f9491000b",
+  "url": "https://www.cbsnews.com/losangeles/video/communities-gather-to-honor-the-lives-lost-during-the-los-angeles-wildfires/",
+  "ord_in_thread": 0,
+  "author": "CBS Los Angeles",
+  "published": "2026-01-08T07:35:00.000+02:00",
+  "title": "Communities gather to honor the lives lost during the Los Angeles wildfires - CBS Los Angeles",
+  "text": "Altadena and Pacific Palisades residents gathered together to honor the people who died during the Los Angeles wildfires last year. Nicole Comstock and Lauren Pozen report.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->fire",
+    "Disaster and Accident->disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nicole Comstock",
+        "sentiment": "none"
+      },
+      {
+        "name": "Lauren Pozen",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Pacific Palisades",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "CBS",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "CBS",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_ca",
+      "top_news_ph",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_us",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_kw",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T07:53:25.958+02:00",
+  "updated": "2026-01-09T08:08:07.000+02:00"
+}

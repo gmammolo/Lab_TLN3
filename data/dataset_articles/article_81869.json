@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "9fb8707d015802423713c153961aa3246c75306d",
+    "url": "https://www.tudocelular.com/google/noticias/n227379/google-chrome-agora-e-compativel-com-gerenciadores-de-senhas-de-terceiros-no-android.html",
+    "site_full": "www.tudocelular.com",
+    "site": "tudocelular.com",
+    "site_section": "https://www.tudocelular.com/planos/noticias",
+    "site_categories": [
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": "Notícias - TudoCelular.com",
+    "title": "Google Chrome agora \\u00e9 compat\\u00edvel com gerenciadores de senhas de terceiros no Android",
+    "title_full": "Google Chrome agora \\u00e9 compat\\u00edvel com gerenciadores de senhas de terceiros no Android",
+    "published": "2024-10-17T23:12:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://t2.tudocdn.net/697761?w=1920",
+    "performance_score": 0,
+    "domain_rank": 63533,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9fb8707d015802423713c153961aa3246c75306d",
+  "url": "https://www.tudocelular.com/google/noticias/n227379/google-chrome-agora-e-compativel-com-gerenciadores-de-senhas-de-terceiros-no-android.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "TudoCelular.com",
+  "published": "2024-10-17T23:12:00.000+03:00",
+  "title": "Google Chrome agora \\u00e9 compat\\u00edvel com gerenciadores de senhas de terceiros no Android",
+  "text": "Google 16 Out 17 de outubro de 2024 [0](#comments) [Enquanto o Google Chrome para desktop remove o suporte para bloqueadores de anúncios](https://www.tudocelular.com/software/noticias/n224854/google-chrome-fim-suporte-ublock-origin.html), a versão para Android está recebendo suporte para preenchimento automático com gerenciadores de senhas de terceiros. Com isto, ele garante suporte aprimorado a informações fornecidas por outros aplicativos. Segundo o 9to5Google, a versão 131 do Google Chrome traz suporte oficial para gerenciadores de senhas de terceiros, o que elimina bugs ao mostrar senhas salvas no dispositivo. Isto acontecia porque o Chrome utilizava um modo de compatibilidade para obter senhas salvas no seu gerenciador de senhas padrão caso ele não fosse o próprio do Google. Desta forma, o navegador mostrava uma lista de senhas e dados que poderiam pertencer ao site que você estava acessando, mas ele errava os dados ao preencher os campos muitas vezes. A novidade pode ser habilitada nos experimentos do Google Chrome 131 Beta acessando o endereço: chrome://flags#enable-autofill-virtual-view-structure Após habilitar e reiniciar o navegador, basta acessar o menu Configurações > Preenchimento automático > Preenchimento automático usando outro serviço e reiniciar o Google Chrome novamente. Se você não quiser usar o Google Chrome Beta, basta aguardar até 12 de novembro, quando o Chrome 131 será lançado no canal estável com a nova função, pois o modo de compatibilidade do navegador será encerrado no início de 2025, obrigando todos a migrarem para a nova configuração que não traz bugs. Microsoft destaca novos recursos na build 26100.1876 do Windows 11 24H2 PS5: Sony começará a vender consoles equipados com peças de reposição Huawei Kirin 9010L: chipset inédito é encontrado em smartphone intermediário da chinesa Celular mais rápido! Ranking TudoCelular com gráficos de todos os testes de desempenho",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:40:44.506+03:00",
+  "updated": "2024-10-18T00:40:44.506+03:00"
+}

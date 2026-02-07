@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "d91989b4bd1f77396cdb3eb9e410c8414b745b9e",
+    "url": "https://www.heise.de/en/news/New-rules-for-threads-Mastodon-boss-criticizes-and-warns-connected-users-10234716.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/en",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "heise online – IT news, guides and background information | heise online",
+    "title": "New rules for threads: Mastodon boss criticizes and warns connected users | heise online",
+    "title_full": "New rules for threads: Mastodon boss criticizes and warns connected users | heise online",
+    "published": "2025-01-09T22:21:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/7/6/0/8/2/shutterstock_2326088505-22b3af9acd26003b.jpg",
+    "performance_score": 0,
+    "domain_rank": 925,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d91989b4bd1f77396cdb3eb9e410c8414b745b9e",
+  "url": "https://www.heise.de/en/news/New-rules-for-threads-Mastodon-boss-criticizes-and-warns-connected-users-10234716.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Martin Holland",
+  "published": "2025-01-09T22:21:00.000+02:00",
+  "title": "New rules for threads: Mastodon boss criticizes and warns connected users | heise online",
+  "text": "The chief developer of Mastodon has sharply criticized the change of direction announced by Meta regarding the moderation of content and assured that by far the largest instance of its short messaging service will also enforce its own rules regarding threads. Accounts on Meta's short messaging service can be linked to Mastodon. Mastodon chief developer Eugen Rochko points out that Meta's \"deeply disturbing\" new line may also have consequences for other social networks. If an account on Threads violates the rules of mastodon.social, action will be taken. Users there should switch directly to Mastodon.\nAnzeige\nThe changes announced by Meta are important for Mastodon because posts from Threads can also end up in the timelines of Mastodon accounts thanks to the connection via the ActivityPub protocol. If threads are moderated less strictly, posts that would previously have been blocked could be distributed in this way. However, Meta will still have to intervene in the case of content that is relevant under criminal law. It remains to be seen what concrete consequences the changes at Meta will have. However, Rochko is not alone in his criticism . With regard to the moderation of content, Rochko can only speak for instances that Mastodon itself operates , but many accounts are located on other sites with different rules.\nMeta CEO Mark Zuckerberg announced on Tuesday that controversial and political topics on Facebook, Instagram and Threads will be less restricted. However, accounts on Threads can be opened outside the EU for the so-called Fediverse, so accounts on Mastodon and other platforms can follow them. A connection to Bluesky is also possible. While this opening ensures that users will have more freedom in choosing a social network in future without having to forego potential contacts, this week's developments show the pitfalls that lurk. The opening of threads was therefore also viewed critically on Mastodon beforehand.\nRead also The Fediverse is growing: After Threads, Bluesky can also be linked to Mastodon",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Social Issue->social problem",
+    "Politics->freedom of the press",
+    "Politics->censorship and freedom of speech"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://mastodon.social/@Gargron/113794200140617347",
+    "https://www.mastodon.social/@Gargron/113794200140617347"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Eugen Rochko",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:17:16.330+02:00",
+  "updated": "2025-01-10T01:17:16.330+02:00"
+}

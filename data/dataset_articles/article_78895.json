@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "9fc634ff72b08ee2b3777469b7845014a572623e",
+    "url": "https://yro.slashdot.org/story/23/12/28/2233206/researchers-come-up-with-better-idea-to-prevent-airtag-stalking",
+    "site_full": "yro.slashdot.org",
+    "site": "slashdot.org",
+    "site_section": "http://rss.slashdot.org/Slashdot/slashdotatom",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Slashdot",
+    "title": "Researchers Come Up With Better Idea To Prevent AirTag Stalking",
+    "title_full": "Researchers Come Up With Better Idea To Prevent AirTag Stalking",
+    "published": "2023-12-29T00:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://a.fsdn.com/sd/topics/privacy_64.png",
+    "performance_score": 0,
+    "domain_rank": 578,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 22,
+        "comments": 1,
+        "shares": 32
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9fc634ff72b08ee2b3777469b7845014a572623e",
+  "url": "https://yro.slashdot.org/story/23/12/28/2233206/researchers-come-up-with-better-idea-to-prevent-airtag-stalking",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "BeauHD",
+  "published": "2023-12-29T00:33:00.000+02:00",
+  "title": "Researchers Come Up With Better Idea To Prevent AirTag Stalking",
+  "text": "[](//yro.slashdot.org/index2.pl?fhfilter=privacy) [](//yro.slashdot.org/index2.pl?fhfilter=apple) [Researchers Come Up With Better Idea To Prevent AirTag Stalking](//yro.slashdot.org/story/23/12/28/2233206/researchers-come-up-with-better-idea-to-prevent-airtag-stalking) [ (arstechnica.com) ](https://arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking/) [29](//yro.slashdot.org/story/23/12/28/2233206/researchers-come-up-with-better-idea-to-prevent-airtag-stalking#comments) [developed](https://eprint.iacr.org/2023/1332.pdf)(PDF) a cryptographic scheme to bridge the gap -- [prioritizing detection of potentially malicious AirTags while also preserving maximum privacy for AirTag users](https://arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking/). [...] The solution [Johns Hopkins cryptographer Matt Green] and his fellow researchers came up with leans on two established areas of cryptography that the group worked to implement in a streamlined and efficient way so the system could reasonably run in the background on mobile devices without being disruptive. The first element is \"secret sharing,\" which allows the creation of systems that can't reveal anything about a \"secret\" unless enough separate puzzle pieces present themselves and come together. Then, if the conditions are right, the system can reconstruct the secret. In the case of AirTags, the \"secret\" is the true, static identity of the device underlying the public identifier that is frequently changing for privacy purposes. Secret sharing was conceptually useful for the researchers to employ because they could develop a mechanism where a device like a smartphone would only be able to determine that it was being followed around by an AirTag with a constantly rotating public identifier if the system received enough of a certain type of ping over time. Then, suddenly, the suspicious AirTag's anonymity would fall away and the system would be able to determine that it had been in close proximity for a concerning amount of time. Green notes, though, that a limitation of secret sharing algorithms is that they aren't very good at sorting and parsing inputs if they're being deluged by a lot of different puzzle pieces from all different puzzles -- the exact scenario that would occur in the real world where AirTags and Find My devices are constantly encountering each other. With this in mind, the researchers employed a second concept known as \"error correction coding,\" which is specifically designed to sort signal from noise and preserve the durability of signals even if they acquire some errors or corruptions. \"Secret sharing and error correction coding have a lot of overlap,\" Green says. \"The trick was to find a way to implement it all that would be fast, and where a phone would be able to reassemble all the puzzle pieces when needed while all of this is running quietly in the background.\" The researchers [published](https://eprint.iacr.org/2023/1332.pdf)(PDF) their first paper in September and submitted it to Apple. More recently, they notified the industry consortium about the proposal.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "external_links": [
+    "https://arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking/",
+    "https://eprint.iacr.org/2023/1332.pdf",
+    "https://www.eprint.iacr.org/2023/1332.pdf",
+    "https://www.arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking/",
+    "https://arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "apple",
+        "sentiment": "none"
+      },
+      {
+        "name": "airtag",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T00:46:12.317+02:00",
+  "updated": "2024-01-14T00:03:41.063+02:00"
+}

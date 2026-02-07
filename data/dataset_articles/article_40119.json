@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "55c0a3827a59e14d5d3f14f825fc31de1ef18e8c",
+    "url": "https://forum.ragezone.com/threads/release-merry-christmas-to-all.1087911",
+    "site_full": "forum.ragezone.com",
+    "site": "ragezone.com",
+    "site_section": "https://forum.ragezone.com/community/-/index.rss",
+    "site_categories": [
+      "video_and_computer_games",
+      "scuba_diving",
+      "sports",
+      "adult",
+      "hobbies_and_interests",
+      "painting",
+      "non_standard_content"
+    ],
+    "section_title": "RaGEZONE - MMO Development Forums",
+    "title": "[RELEASE] Merry Christmas to all!",
+    "title_full": "[RELEASE] Merry Christmas to all!",
+    "published": "2024-02-29T22:08:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://forum.ragezone.com/attachments/uabnx0g-jpg.245602/",
+    "performance_score": 0,
+    "domain_rank": 94584,
+    "domain_rank_updated": "2024-02-27T12:10:30.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "55c0a3827a59e14d5d3f14f825fc31de1ef18e8c",
+  "url": "https://forum.ragezone.com/threads/release-merry-christmas-to-all.1087911",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "LukasCCB (invalid@example.com)",
+  "published": "2024-02-29T22:08:00.000+02:00",
+  "title": "[RELEASE] Merry Christmas to all!",
+  "text": "01001100 01000011 01000011 01000010\n[VIP] Member\n- Joined\n- Apr 23, 2013\n- Messages\n- 1,172\n- Reaction score\n- 1,690\nYou must reply before you can see the hidden data contained here.\nAttachments\nYou must be registered for see attachments list\nLast edited:\nJoin our community of MMO enthusiasts and game developers! By registering, you'll gain access to discussions on the latest developments in MMO server files and collaborate with like-minded individuals. Join us today and unlock the potential of MMO server development!\nnice lukasccb\nbut battle royalle not complete i and RAZOR(@italofialho) working in this code and not finished.\n==============off toppic============\nin portugese.\nda proxima vez que for postar nosso codigo peça autorização antes.\nmas como vc liberou nao iremos solicitar a retirada. Contudo estavamos pensando em liberar o codigo quando estivesse pronto.\nComo vc liberou antes da hora de o devido suporte. Pois nao pretendemos mais liberar o nosso Battle Royal.\nEstamos trabalhando em outras funçoes novas para esta source e em breve colocaremos novidades aqui no forum.\nin english (by translator)\nthe next time you post our code ask for permission .\nbut how you released we will not request the withdrawal . However we were thinking of releasing the code when he was ready .\nHow do you released ahead of time to the proper support. Because we want no more release our Battle Royal.\nWe are working on other new functions to this source and soon will post news here on the forum.\nworks yes, you did something wrong!increase fps dont work just tosses error after error\n} enableDisableShaderLoading; ( void )enableDisableShaderLoading; LoadGrassShaders(true); LoadFillBufferShaders(true); ReloadWaterShaders(); r3dTerrain3::ReloadShaders(); ReloadLightingShaders(); }\nif(r_allow_render_grass->GetBool() || r_increase_fps_player->GetBool()) { LoadGrassShaders(false); } else { LoadGrassShaders(true); }\nREG_VAR( r_increase_fps_player , false , VF_SAVE );\nint old_increase = r_increase_fps_player->GetInt(); r_increase_fps_player ->SetInt(0);\nint old_vsync = r_vsync_enabled->GetInt(); r_vsync_enabled ->SetInt(0);\nvar[31].SetNumber( r_increase_fps_player->GetInt()+1);\nvar[29].SetNumber( r_vsync_enabled->GetInt()+1);\nScaleform::GFx::Value var[32];\n]Scaleform::GFx::Value var[30];\nif(r_increase_fps_player->GetInt()) { r_half_res_particles->SetBool(true); r_split_grass_render->SetBool(true); r_optimize_shadow_map->SetBool(true); r_shadow_blur->SetBool(false); r_hardware_shadow_method->SetBool(true); r_allow_hw_shadows->SetBool(true); r_optimize_meshes->SetBool(true); r_fxaa->SetBool(true); r_bloom->SetBool(true); r_ssao->SetBool(false); r_double_depth_ssao->SetBool(true); r_fxaa->SetBool(true); r_vsync_enabled->SetBool(false); r_particle_shadows->SetBool(false); r_cw_shadows->SetBool(true); r_optimized_ssao->SetBool(false); }\ncase 5: { settings.mesh_quality = (int)args[17].GetNumber(); settings.texture_quality = (int)args[20].GetNumber(); settings.terrain_quality = (int)args[11].GetNumber(); settings.shadows_quality = (int)args[14].GetNumber()-1; settings.lighting_quality = (int)args[15].GetNumber(); settings.environment_quality = (int)args[12].GetNumber(); settings.anisotropy_quality = (int)args[18].GetNumber(); settings.postprocess_quality = (int)args[19].GetNumber(); SaveCustomSettings( settings ); } break; default:\nif(old_fullscreen!=r_fullscreen->GetInt() || old_vsync!=r_vsync_enabled->GetInt() || old_increase!=r_increase_fps_player->GetInt() || old_grass!=r_allow_render_grass->GetInt())\nif(old_fullscreen!=r_fullscreen->GetInt() || old_vsync!=r_vsync_enabled->GetInt())\nint old_increase = r_increase_fps_player->GetInt(); r_increase_fps_player ->SetInt(0);\nvoid FrontendWarZ::eventOptionsReset(r3dScaleformMovie* pMovie, const Scaleform::GFx::Value* args, unsigned argCount) { r3d_assert(args); r3d_assert(argCount == 0); // get options g_tps_camera_mode->SetInt(0); g_enable_voice_commands ->SetBool(true); //added here\n[demonlord21]\ntry this\nYou must be registered to see links\nshould i undo the fps increase and just do this? or add in the stuff from this post also?\ndelete old or replace for this (compare)\nnice release man! but the launcher need still alot of work in the Play section :s\nThanks You Luka.\nThere are no .PSD in the launcher\nyes have\nPSD Files:You must be registered to see links\nFiles RSUpdate Fixed:You must be registered to see links\nhow about this code, is missing some parts\nthe key is close but I can't see the open key in nowhere so I get error by thatCode:\nif(r_increase_fps_player->GetBool()[COLOR=\"#FF0000\"][B])[/B][/COLOR] [B][COLOR=#ff0000]}[/COLOR][/B]\nin this guide link\nYou must be registered to see links\ndont bother bud neither of the posted \"fps increases\" work first one is broken and 2nd one dont do any sort of increase\nif(r_increase_fps_player->GetBool()) { LoadGrassShaders(false); } else { LoadGrassShaders(true); }",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "battle royal",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-03-01T00:16:59.899+02:00",
+  "updated": "2024-03-01T00:16:59.899+02:00"
+}

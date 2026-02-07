@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "eefec652e7912724b785ad318586deedab09da70",
+    "url": "https://www.newsbreak.com/news/4357324952826-arizona-storm-spurs-multiple-water-rescues-authorities-urge-caution-amid-flash-floods-in-maricopa-county",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://local.newsbreak.com/strawberry-az?page=4",
+    "site_categories": [
+      "under_construction"
+    ],
+    "section_title": "Strawberry, AZ Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Arizona Storm Spurs Multiple Water Rescues, Authorities Urge Caution Amid Flash Floods in Maricopa County - NewsBreak",
+    "title_full": "Arizona Storm Spurs Multiple Water Rescues, Authorities Urge Caution Amid Flash Floods in Maricopa County - NewsBreak",
+    "published": "2025-11-19T23:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/4INz4P_16hXYjI600",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eefec652e7912724b785ad318586deedab09da70",
+  "url": "https://www.newsbreak.com/news/4357324952826-arizona-storm-spurs-multiple-water-rescues-authorities-urge-caution-amid-flash-floods-in-maricopa-county",
+  "ord_in_thread": 0,
+  "author": "Steve Wilson",
+  "published": "2025-11-19T23:44:00.000+02:00",
+  "title": "Arizona Storm Spurs Multiple Water Rescues, Authorities Urge Caution Amid Flash Floods in Maricopa County - NewsBreak",
+  "text": "By Steve Wilson ,\n10 hours ago The storm that swept through Arizona on Tuesday prompted a series of urgent water rescues, with the Maricopa County Sheriff's Office and fire departments responding to multiple calls. In Tonopah, FOX 10 Phoenix reported that an \"adult couple\" attempted to traverse \"four feet of water\" and required rescue after their vehicle became immobilized. Meanwhile, in Wickenburg, the local fire and police departments dealt with flash flooding that led to two rescue operations involving a total of four individuals and a dog, as stated by ABC15. Read full article\nRead in NewsBreak 4",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather warning",
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->emergency response"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Steve Wilson",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Maricopa County",
+        "sentiment": "none"
+      },
+      {
+        "name": "Wickenburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Tonopah",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Arizona Storm Spurs Multiple Water Rescues",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Maricopa County Sheriff's Office",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "fake_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Strawberry"
+      ],
+      "state": [
+        "Arizona"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T10:31:16.747+02:00",
+  "updated": "2025-11-20T10:36:54.000+02:00"
+}

@@ -1,0 +1,120 @@
+{
+  "thread": {
+    "uuid": "ef0cc04ebca1c0381a5abc7b65d8e2ae6f4260a5",
+    "url": "https://thequantuminsider.com/2024/04/11/superposition-guy-podcast-ryan-lafler-quantum-corridor",
+    "site_full": "thequantuminsider.com",
+    "site": "thequantuminsider.com",
+    "site_section": "https://thequantuminsider.com/feed/",
+    "site_categories": [],
+    "section_title": "The Quantum Insider",
+    "title": "Superposition Guy Podcast — Ryan Lafler, Quantum Corridor",
+    "title_full": "Superposition Guy Podcast — Ryan Lafler, Quantum Corridor",
+    "published": "2024-04-12T00:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://thequantuminsider.com/wp-content/uploads/2024/02/Ryan.png",
+    "performance_score": 0,
+    "domain_rank": 74882,
+    "domain_rank_updated": "2024-04-09T13:11:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ef0cc04ebca1c0381a5abc7b65d8e2ae6f4260a5",
+  "url": "https://thequantuminsider.com/2024/04/11/superposition-guy-podcast-ryan-lafler-quantum-corridor",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Matt Swayne",
+  "published": "2024-04-12T00:42:00.000+03:00",
+  "title": "Superposition Guy Podcast — Ryan Lafler, Quantum Corridor",
+  "text": "Ryan Lafler, President and CTO of Quantum Corridor, is interviewed by Yuval Boger. Ryan highlights Quantum Corridor’s development of a 12-mile fiber network in the Midwest, designed for quantum and classical computing. The network, connecting major data centers, focuses on quantum communications and research, with a capacity of 40 terabits per second. Ryan discusses collaborations, such as with Toshiba Systems for quantum key distribution, emphasizes the strategic importance of the Midwest location, notes the project’s governmental support and its role in advancing global quantum technology competitiveness, and much more.\nListen:\nHere.\nTranscript:\nYuval Boger: Hello, Ryan. Thank you for joining me today.\nRyan Lafler: Thanks for having me. Appreciate it.\nYuval: Absolutely. So, who are you, and what do you do?\nRyan: So my name is Ryan Laffler. I’m the president and CTO and a co-founder of Quantum Corridor. I’m very happy to be supporting the scientific community and then also helping to eventually privatize and commercialize both quantum communications and also housing those that would want to prop up private industry with quantum technologies and help to commercialize.\nYuval: What does Quantum Corridor do, and what’s quantum about it?\nRyan: It’s a great question. Appreciate that. So, we’re an enabler of quantum technologies. So if you think of highways and you think of cars, what we’ve constructed is a corridor where we’re going to be providing lanes of traffic. The applications, which will be the quantum technology, eventually the BB84 protocol and QKD are set to ride on top of our highway in the middle of 2024.\nYuval: I’m guessing that includes a data center or more than one data centers…\nRyan: It does. So the head end of our network starts at what’s one of the largest Internet exchanges in the world, which is 350 CERMAC in the heart of Chicago. And it also spans down to another data center, which is in northwest Indiana at 100 Digital Crossroad. And what that includes is a 12-mile stretch of what was initially dark fiber. And then we’re tying into a couple other key education institutions and universities to establish a research corridor. So part of the lanes of traffic that we’re providing and I refer to is going to be for research and development. Part of the network that we’re building is going to be for commercial traffic. And then there’s going to be a part of the network that we’re building that’s going to be a combination of both. So you have private industry that’s meeting research and development and then, of course, all these applications and quantum computers need a home where we will be providing critical infrastructure for them to house the R&D that will be going on on a physical infrastructure level.\nYuval: Is this a regional network for now?\nRyan: It is. It’s operating across state lines between Chicago, Illinois and Indiana. Given that it’s regional, what would the ideal user or customer of the service be? So it can run the gamut. So we have a bioscience, life sciences that have been very interested. Obviously quantum communications, which is what we’re enabling, is coupled with a couple different things. So we have an incredible throughput level. We were one of the fastest networks in the Western hemisphere, aside from the likes of an EOSnet, for example, that would be 100% dedicated to research. We’re 40 terabits per second. And if you were to go onto Google and type, “Well, who’s the fastest network in the world?” It would say, “ESnet, at least in that Western hemisphere, which is 46 terabits.” We’re 6 terabits slower, but they’re 100% dedicated to research. And so we want to enable both research and private industry on our corridors. So the tie-in would be research institutions, to answer your question. And then also, as you’re aware, quantum is kind of the Cold War technology race of our time. So you have a lot of the hyperscale chips that are trying to get an extreme light up on that race. A lot of QKD has been tested in principle. It’s been tested inside the lab. But what our asset’s offering is the ability to test this in a real-world environment, with real-world attenuations along highways and along rail systems. And so what we hope to be is one of the first networks in the world that’s enabling QKD and BB84 protocol, even post-quantum cryptography in real time on our network. And so what we want to do is go to those hyperscalers, chip manufacturers, education research firms, and life sciences, biosciences, and say, “Hey, we have a facility that will house you. We can meet all of your infrastructure needs. And then, by the way, we offer this 12-mile stretch of a research network and private network where we can actually push these quantum protocols in real time over our network.”\nYuval: Why the Midwest? I mean, I’m calling you today from the Midwest as well. But why set up such a quantum corridor in the Midwest?\nRyan: Well, it’s not because of the weather. So we have a really ripe environment here. We’ve got the likes of Fermilabs, for example. We’ve got Argonne. We’ve got Chicago Quantum Exchange, for example, that are here. There’s obviously a TechHub designation that’s just been awarded because of the interest of the University of Chicago and quantum exchange. There’s incredible access to fresh water that we have that we can tie into. And then there’s the cross-state initiatives from Illinois to Indiana where we have Purdue and we have Purdue Northwest and we have Notre Dame that we can tie in together. So the way that we looked at this is that there’s a lot of disparate players that are out there state by state. And what we want to do is we want to unite all of these institutions in the spirit of collaboration. So that’s key. And then when you look at available land, and you look at available power, and you look at fresh water that’s next to the lake, we can meet all of these parameters easily. And then you don’t have environmental factors as many environmental factors like earthquakes would be on the West Coast, for example. So we really feel that with all those things, we have an environment here that’s really right to kick this off to the next level.\nYuval: Can you give me some examples of customers or organizations that are already using your services?\nRyan: Yeah. So this is really early on. So, we just announced and tested our network about four weeks ago. This has been a partnership with Sienna, who is the first to shoot light across this network. We are currently in talks with Toshiba Systems about bolting on their application and testing QKD with us in the middle of 2024. There are also some research institutions, which I can’t at this time name, that will be testing their gear across our network. And then we are actively entering into MOU with some top chip manufacturers and hyperscalers that I also can’t name because of NDAs that will be pushing across our network. One thing that I can tell you is that there’s a very, very real interest in being able to spread out in a distributed or edge-computing fashion along the corridor. Historically, a lot of this research was done at universities, which is great, but the participation with private industry is really what’s driving this. It’s kind of a first for this industry where we’re kind of entering a world of commercial. So it’s a very, very exciting time, and we can help our partners enable that.\nYuval: I understand the bandwidth uniqueness. You mentioned the 46 versus 40 earlier in our conversation. But there are national and even international or even global service providers for connectivity. What are the unique requirements that cause you to set up this separate entity?\nRyan: Well, in regards to quantum, the first thing that I’ll say is classical networking is not able to transmit QKE and BB84 protocol. It’s common knowledge that only two current networks can do this. And so when we came across the white paper that was published in tandem with Ciena, JPMorgan Chase, and Toshiba Systems and was released in 2022, we realized that something very special was going on. They announced the first QKD transmissions that took place in North America in that white paper. And we contacted Ciena and Converge One, and we said to them, “Can we be that environment that’s real world that you guys would like to test this on? Here’s the dark fiber asset that we have currently and that we can offer. It’s all American-made glass. It’s just three spins and splices. We’re operating in an optimal decibel loss range to complete this.” And that’s where the conversation started to become very real about pointing to a reconfigurable line system coherent network.\nAnd that’s basically the premise in layman’s terms of you’ve got all these bands. You’ve got all these different laser lights that we are pushing data systems within traditional DWDM, but Coherence, the premise of combining all those waves of light into one large wavelength. And so part of what we’re doing there is that we’re supporting an incredible throughput that kind of makes us like other networks in the world. However, I would argue in most cases, it is faster with the 40 terabits, a quarter of a millisecond latencies. But the other side of that, so that enables all kinds of really, really cool things with technology, obviously. But the other side to that is that we’re able to enable BB84 and QKD on top of our network. If you think about quantum technology and quantum computers in general, it’s unlike traditional compute because in traditional compute, computers aren’t smart; they’re just fast. You’re solving problems through rapid trial and error. So, with quantum communications, it’s the possibility of exploring every scenario all at one time and instantaneously. So you need a network that’s capable of transmitting that if these quantum computers and the research institutions are going to collaborate. And so you can’t have multiple sessions going really, really fast on traditional DWDM networks. You need coherent communications to support all states at all times across these communication nodes, back from where we’re housing this infrastructure to these research institutions that we’ll be transmitting and receiving. There’s a kind of quantum version of the space race between various countries and regions.\nYuval: How does what you’re offering compare in terms of both the investment and the capabilities to what you’re seeing in Europe, China, Australia, or in other non-US regions?\nRyan: There’s a couple that I’m aware of that are doing what we’re doing. We are certainly, Yuval, on the leading edge of this. For example, in London, there’s a quantum loop project that’s going on in tandem with BT Telecom. In Quebec, there’s a quantum loop project. There are certainly small five-kilometer quantum projects that are going on even downstate in Urbana with UIC. And we respect those other players. We don’t necessarily see them as competition. We see them as collaborators, as we would in the normal communication world, just like the rail systems eventually connect to other rail systems to transport people. That’s the way that we want to plug in and we want to enable research in the Midwest. With that being said, we’re one of the few that are doing this in the Midwest. Certainly, there are traditional networks that have communication systems, but we’re one of the few that will be enabling quantum. And with the network that we’ve already constructed and the relationships with the research institutions that we’re already taking on, and then also the interests with the block submission tech hub designation. We feel that we offer a really, really ripe environment to take the spirit of collaboration to the next level.\nYuval: You mentioned UIUC, and that’s one area where there’s a supercomputer or a supercomputing center. And many people think that quantum and classical computers will work together as opposed to just pure quantum or pure classical. How is your network geared to support that hybrid mode of operation?\nRyan: So we’ll offer different segments of the network. One thing that we’re able to do with coherent technology is break off dedicated customer instances through wave servers. And so we say, okay, on this network, we’re going to carve you out a dedicated piece where we’re offering these lanes that can support these specific applications, whatever that is. Post-quantum cryptographic, BB84, QKD, we’re going to support that. Over here, we’re offering dedicated wave instances on our network that may be for your regular commercial traffic. For example, our latencies are such that we process data 500 times faster than a blink of an eye. Across state lines, we can transmit the entire Library of Congress in three seconds. The latency loss experience that you have from the largest internet exchange in the world to data centers that we house on the South Shore, across state lines in Indiana, is less than the latency between your TV and your cable. So these are all just relative examples that we put in perspective.\nIf you have one research institution that’s, let’s say in Chicago, you have another research institution that’s on the Indiana toll road 40 miles away, and you have supercomputers that are coming up with simulation modeling. Historically, they would have to stop their supercomputers from transmitting information to their colleagues 40 miles away and let the networks catch up. With the network that we’ve created, what we’re out to do is greatly increase the efficiencies because if a near-instantaneous transmission of information is going from point to point, these supercomputers can keep chugging. So that’s what it’s going to do for traditional compute. And then for quantum compute, obviously, we’ve already talked about kind of all states instantaneous information being exchanged. That’s how we’re going to prop up both sides of the fence. So to answer your question, we’ve got a solution for traditional DWDM type customers. We’ve got a solution for quantum customers, and that traffic will literally be segmented. And that’s part of the security in our offering that we’re putting out there as well.\nYuval: You mentioned the Library of Congress, and that brought Congress to my mind the National Quantum Initiative. How do you think the politicians, nationally or regionally, are attuned to the opportunity in quantum and the need to invest in centers like yours?\nRyan: So the Department of Defense is becoming very, very aware. This is the greatest technology race of our time. It’s the technological Cold War race of our time. Whoever achieves quantum supremacy is going to rule the world. I mean, we can all wrap our minds around scenarios where somebody goes and solves the blockchain in three seconds rather than 21 years, which these quantum computers will certainly be capable of. But maybe some people don’t think about the implications of us operating in 256-bit encryption, which also can be unlocked in seconds. National security agency secrets being exposed, nuclear codes leaking. Those are all the implications aside from just the financial system implications that this has. And so there’s a quantum readiness bill that’s clear in the hell and being adopted early in the spring. There are now billions of dollars being awarded in the tech hub designations that are going out, and they’re announcing regional tech hub designations. One that we’re a part of here in the Midwest. And then, you know, aside from that, there’s the traditional stimulus monies that have been propping up some aspects of networks and infrastructure that needs to go into this.\nPritzker himself, when we’re talking about state government, is committing $300 million to this region. He’s been instrumental in propping up the Asholom Research Center that’s here with the University of Chicago. And is very, very up on making Chicago and the Midwest a huge leader in this. On the other side of the fence, in Indiana, we’ve got Eric Holcomb that’s propped us up through the Ready Grant. And purchasing of these optics, these RLX Flex-Cred Coherent Optics that we purchased through Indiana’s commitment to not just making this an Illinois thing but spanning this out along the corridor to tie Indiana’s research institutions into this. We see a multi-state collaboration, and government from local to state to federal has been involved. And I think we’re going to see a lot more of that involved.\nYuval: As we come closer to the end of our conversation. I’m curious, professionally speaking, what keeps you up at night?\nRyan: It’s making the right connections, and it’s capitalizing on opportunity. I mean, certainly, you know, there’s a collaborative spirit to all of this, but there’s a timeline. There’s a timeline that we have as a nation to get this right. And there are a lot of good people behind the scenes and that are part of our group and people that are smarter than me that have put a lifetime into getting us to where we are. So we’re standing on the shoulders of giants, and our opportunity is going to be connecting these people in the truest way. And we’re connecting networks to get these people to collaborate. But if we can’t accomplish that fast enough, and foreign interests do, that’s a real threat to everything that we’ve worked on as a nation.\nYuval: And last hypothetical, if you could have dinner with one of the quantum greats, dead or alive, who would that person be?\nRyan: You know, I’ve already had the opportunity to sit down with one of the great ones. I guess it wasn’t dinner, but you know, there’s a great scientist right here in our backyard. He’s a gentleman by the name of David Awschalom. And that was the Awschalom Research Institute I was talking about. It’s just incredible to pick the brains of the greats find out what their large-scale vision is for where they want to take this. So I’ve been privileged to kind of be in the shadows of some of those individuals.\nYuval: Wonderful. Ryan, thank you so much for joining me today.\nRyan: Thank you for having me.\nYuval Boger is the chief marketing officer for\nQuEra, the leader in neutral-atom quantum computers. Known as the “Superposition Guy” as well as the original “Qubit Guy,” he can be reached on [this email](/cdn-cgi/l/email-protection#a0d3d5d0c5d2d0cfd3c9d4c9cfcec7d5d9e0c7cdc1c9cc8ec3cfcd9fd3d5c2cac5c3d49dc6d2cfcdfff1e3f2)\nIf you found this article to be informative, you can explore more current\nquantum news here, exclusives, interviews, and podcasts.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://open.spotify.com/episode/2foIMw8Ff1x35vYjr5qYND?si=uiV7cvVsRn6XTuQQnOd3xw",
+    "https://www.quera.com",
+    "https://open.spotify.com/episode/2foIMw8Ff1x35vYjr5qYND",
+    "https://quera.com",
+    "https://www.open.spotify.com/episode/2foIMw8Ff1x35vYjr5qYND?si=uiV7cvVsRn6XTuQQnOd3xw"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ryan",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ryan lafler",
+        "sentiment": "negative"
+      },
+      {
+        "name": "yuval boger",
+        "sentiment": "negative"
+      },
+      {
+        "name": "ryan laffler",
+        "sentiment": "none"
+      },
+      {
+        "name": "yuval",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "cto of quantum corridor",
+        "sentiment": "negative"
+      },
+      {
+        "name": "quantum corridor",
+        "sentiment": "negative"
+      },
+      {
+        "name": "toshiba systems",
+        "sentiment": "none"
+      },
+      {
+        "name": "cto",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "midwest",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T02:14:41.109+03:00",
+  "updated": "2024-04-12T02:14:41.109+03:00"
+}

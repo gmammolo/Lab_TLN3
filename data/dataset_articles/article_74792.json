@@ -1,0 +1,66 @@
+{
+  "thread": {
+    "uuid": "6c011107dfb7213262ccf0282c4b5fa1a84a6596",
+    "url": "https://meta.discourse.org/t/openai-organization-not-being-recognized/337606",
+    "site_full": "meta.discourse.org",
+    "site": "discourse.org",
+    "site_section": "https://meta.discourse.org/latest.rss",
+    "site_categories": [],
+    "section_title": "Discourse Meta - Latest topics",
+    "title": "OpenAI organization not being recognized",
+    "title_full": "OpenAI organization not being recognized",
+    "published": "2024-11-22T03:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d11a6trkgmumsb.cloudfront.net/original/3X/e/c/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png",
+    "performance_score": 0,
+    "domain_rank": 3284,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6c011107dfb7213262ccf0282c4b5fa1a84a6596",
+  "url": "https://meta.discourse.org/t/openai-organization-not-being-recognized/337606",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "MachineScholar",
+  "published": "2024-11-22T03:22:00.000+02:00",
+  "title": "OpenAI organization not being recognized",
+  "text": "Getting a consistent OpenAI error 401 “No such organization” even though it is correctly configured in the LLM settings. What’s interesting is that this error is only occurring on two jobs:\nJobs::HotTopicsGistBatch\nMessage (31 copies reported) DiscourseAi::Completions::Endpoints::OpenAi: status: 401 - body: { \"error\": { \"message\": \"No such organization: org-kLyg2ChOSTm3xtQeTBeXxy5C.\", \"type\": \"invalid_request_error\", \"param\": null, \"code\": \"invalid_organization\" } } Backtrace /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:134:in `block in error' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `block in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `each' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:134:in `error' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:94:in `block (2 levels) in perform_completion!' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2433:in `block in transport_request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http/response.rb:320:in `reading_body' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2430:in `transport_request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2384:in `request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/patches/net_patches.rb:19:in `block in request_with_mini_profiler' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/mini_profiler/profiling_methods.rb:50:in `step' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/patches/net_patches.rb:18:in `request_with_mini_profiler' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:92:in `block in perform_completion!' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:1632:in `start' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:1070:in `start' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:75:in `perform_completion!' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/open_ai.rb:40:in `perform_completion!' /var/www/discourse/plugins/discourse-ai/lib/completions/llm.rb:256:in `generate' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:133:in `fold' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:31:in `summarize' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:73:in `force_summarize' /var/www/discourse/plugins/discourse-ai/app/jobs/regular/hot_topics_gist_batch.rb:18:in `block in execute' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activerecord-7.1.5/lib/active_record/relation/delegation.rb:100:in `each' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activerecord-7.1.5/lib/active_record/relation/delegation.rb:100:in `each' /var/www/discourse/plugins/discourse-ai/app/jobs/regular/hot_topics_gist_batch.rb:14:in `execute' /var/www/discourse/app/jobs/base.rb:322:in `block (2 levels) in perform' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rails_multisite-6.1.0/lib/rails_multisite/connection_management/null_instance.rb:49:in `with_connection' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rails_multisite-6.1.0/lib/rails_multisite/connection_management.rb:21:in `with_connection' /var/www/discourse/app/jobs/base.rb:309:in `block in perform' /var/www/discourse/app/jobs/base.rb:305:in `each' /var/www/discourse/app/jobs/base.rb:305:in `perform' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:202:in `execute_job' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:170:in `block (2 levels) in process' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/middleware/chain.rb:177:in `block in invoke' /var/www/discourse/lib/sidekiq/pausable.rb:132:in `call' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/middleware/chain.rb:179:in `block in invoke' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/middleware/chain.rb:182:in `invoke' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:169:in `block in process' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:136:in `block (6 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/job_retry.rb:113:in `local' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:135:in `block (5 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq.rb:44:in `block in <module:Sidekiq>' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:131:in `block (4 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:263:in `stats' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:126:in `block (3 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/job_logger.rb:13:in `call' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:125:in `block (2 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/job_retry.rb:80:in `global' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:124:in `block in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/job_logger.rb:39:in `prepare' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:123:in `dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:168:in `process' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:78:in `process_one' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:68:in `run' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/component.rb:8:in `watchdog' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/component.rb:17:in `block in safe_thread'\nJobs::SummariesBackfill\nMessage (5 copies reported) DiscourseAi::Completions::Endpoints::OpenAi: status: 401 - body: { \"error\": { \"message\": \"No such organization: org-kLyg2ChOSTm3xtQeTBeXxy5C.\", \"type\": \"invalid_request_error\", \"param\": null, \"code\": \"invalid_organization\" } } Backtrace /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:134:in `block in error' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `block in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `each' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:134:in `error' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:94:in `block (2 levels) in perform_completion!' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2433:in `block in transport_request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http/response.rb:320:in `reading_body' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2430:in `transport_request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2384:in `request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/patches/net_patches.rb:19:in `block in request_with_mini_profiler' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/mini_profiler/profiling_methods.rb:50:in `step' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/patches/net_patches.rb:18:in `request_with_mini_profiler' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:92:in `block in perform_completion!' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:1632:in `start' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:1070:in `start' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:75:in `perform_completion!' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/open_ai.rb:40:in `perform_completion!' /var/www/discourse/plugins/discourse-ai/lib/completions/llm.rb:256:in `generate' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:133:in `fold' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:31:in `summarize' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:73:in `force_summarize' /var/www/discourse/plugins/discourse-ai/app/jobs/scheduled/summaries_backfill.rb:19:in `block in execute' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activerecord-7.1.5/lib/active_record/relation/delegation.rb:100:in `each' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activerecord-7.1.5/lib/active_record/relation/delegation.rb:100:in `each' /var/www/discourse/plugins/discourse-ai/app/jobs/scheduled/summaries_backfill.rb:18:in `execute' /var/www/discourse/app/jobs/base.rb:322:in `block (2 levels) in perform' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rails_multisite-6.1.0/lib/rails_multisite/connection_management/null_instance.rb:49:in `with_connection' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rails_multisite-6.1.0/lib/rails_multisite/connection_management.rb:21:in `with_connection' /var/www/discourse/app/jobs/base.rb:309:in `block in perform' /var/www/discourse/app/jobs/base.rb:305:in `each' /var/www/discourse/app/jobs/base.rb:305:in `perform' /var/www/discourse/app/jobs/base.rb:376:in `perform' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/mini_scheduler-0.17.0/lib/mini_scheduler/manager.rb:137:in `process_queue' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/mini_scheduler-0.17.0/lib/mini_scheduler/manager.rb:77:in `worker_loop' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/mini_scheduler-0.17.0/lib/mini_scheduler/manager.rb:63:in `block (2 levels) in ensure_worker_threads'\nHowever it doesn’t occur during normal AI bot interaction via chat. I’ve double checked and redid copy-paste of the organization so it is correctly entered.\nAre you 100% sure its the same key and same org.\nMy guess is that you are using a different LLM with a different key for the other features? We are passing it on as seen in the error message.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T04:40:13.784+02:00",
+  "updated": "2024-11-22T04:40:13.784+02:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "8b1cada8e39c70d17bdc838fd186a4e1621883d4",
+    "url": "https://www.helpnetsecurity.com/2024/11/15/cve-2024-9463-cve-2024-9465",
+    "site_full": "www.helpnetsecurity.com",
+    "site": "helpnetsecurity.com",
+    "site_section": "https://www.helpnetsecurity.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cybersecurity News and Expert Analysis - Help Net Security",
+    "title": "Palo Alto Networks firewalls, Expedition under attack (CVE-2024-9463, CVE-2024-9465)",
+    "title_full": "Palo Alto Networks firewalls, Expedition under attack (CVE-2024-9463, CVE-2024-9465)",
+    "published": "2024-11-15T14:09:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6563,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8b1cada8e39c70d17bdc838fd186a4e1621883d4",
+  "url": "https://www.helpnetsecurity.com/2024/11/15/cve-2024-9463-cve-2024-9465",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Zeljka Zorz",
+  "published": "2024-11-15T14:09:00.000+02:00",
+  "title": "Palo Alto Networks firewalls, Expedition under attack (CVE-2024-9463, CVE-2024-9465)",
+  "text": "Attackers have been spotted exploiting two additional vulnerabilities (CVE-2024-9463, CVE-2024-9465) in Palo Alto Networks’ Expedition firewall configuration migration tool, CISA has confirmed on Thursday.\nAbout the vulnerabilities (CVE-2024-9463, CVE-2024-9465) CVE-2024-9463 allows unauthenticated attackers to run arbitrary OS commands as root on vulnerable Expedition instances, leading to disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.\nCVE-2024-9465 – an SQL injection vulnerability – allows unauthenticated attackers to grab data from Expedition’s database (password hashes, usernames, device configurations, device API keys) and to create and read arbitrary files on vulnerable Expedition systems.\nBoth vulnerabilities have been patched by Palo Alto Networks in early October 2024, alongside several other flaws .\nAmong those is CVE-2024-9464, an authenticated command injection bug that could be chained with CVE-2024-5910 (missing authentication for a critical function) – as demonstrated by Horizon3.ai researchers.\nCVE-2024-5910, a patch for which was provided by PAN in July 2024, is also being leveraged in the wild, CISA said last week. (Whether alone or in conjunction with any other flaw is currently unknown.)\nWhat to do? CISA adding CVE-2024-9463 and CVE-2024-9465 to its Known Exploited Vulnerabilities catalog means that US federal civilian agencies must remediate them within three weeks.\n“Although [Binding Operational Directive (BOD) 22-01] only applies to [Federal Civilian Executive Branch] agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice,” the agency noted.\nPalo Alto Networks advises admins to:\nUpgrade Expedition installations to the latest available version Rotate Expedition usernames, passwords, and API keys Rotate firewall usernames, passwords, and API keys processed by Expedition Ensure networks access to Expedition is restricted to authorized users, hosts, or networks Shut down the software if not in use Expedition should not be exposed to the internet, and generally isn’t: Censys recently searched for reachable Expedition instances, and found only 45 of them.\nPAN firewalls under attack via unspecified zero-day RCE flaw Last week Palo Alto urged customers to appropriately configure and secure access to firewall management interfaces exposed to the internet, as they observed threat activity exploiting an unauthenticated remote command execution vulnerability against a limited number of them.\n“We do not have sufficient information about any indicators of compromise to share at this time. If the management interface was exposed to the Internet, we advise the customer to monitor for suspicious threat activity such as unrecognized configuration changes or users,” the company advised .\nI have read and agree to the terms & conditions Leave this field empty if you're human:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/horizon3ai/CVE-2024-9464?tab=readme-ov-file",
+    "https://censys.com/cve-2024-5910/",
+    "https://security.paloaltonetworks.com/PAN-SA-2024-0010",
+    "https://wordpress.org/plugins/mailchimp-for-wp/",
+    "https://security.paloaltonetworks.com/PAN-SA-2024-0015",
+    "https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://live.paloaltonetworks.com/t5/community-blogs/tips-amp-tricks-how-to-secure-the-management-access-of-your-palo/ba-p/464431",
+    "https://cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://wordpress.org/plugins/mailchimp-for-wp",
+    "https://www.security.paloaltonetworks.com/PAN-SA-2024-0015",
+    "https://www.security.paloaltonetworks.com/PAN-SA-2024-0010",
+    "https://www.censys.com/cve-2024-5910/",
+    "https://www.wordpress.org/plugins/mailchimp-for-wp/",
+    "https://www.live.paloaltonetworks.com/t5/community-blogs/tips-amp-tricks-how-to-secure-the-management-access-of-your-palo/ba-p/464431",
+    "https://github.com/horizon3ai/CVE-2024-9464",
+    "https://www.github.com/horizon3ai/CVE-2024-9464?tab=readme-ov-file",
+    "https://censys.com/cve-2024-5910"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "CISA",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Networks",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T14:40:33.950+02:00",
+  "updated": "2024-11-15T17:18:29.264+02:00"
+}

@@ -1,0 +1,139 @@
+{
+  "thread": {
+    "uuid": "08ca2e985356fea42ce3df5e7fdd699d31a74122",
+    "url": "https://www.express.de/panorama/schnee-chaos-im-sauerland-region-mit-zuegen-nicht-befahrbar-1153970",
+    "site_full": "www.express.de",
+    "site": "express.de",
+    "site_section": "https://www.express.de",
+    "site_categories": [
+      "tech",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Express.de - Aktuelle News zu Sport, Köln und Promis |  Express",
+    "site_title": "Express.de - Aktuelle News zu Sport, Promis, Politik und mehr |  Express",
+    "title": "Schnee-Chaos im Sauerland: Region mit Zügen „nicht befahrbar\" | Express",
+    "title_full": "Schnee-Chaos im Sauerland: Region mit Zügen „nicht befahrbar\" | Express",
+    "published": "2025-11-20T09:50:15.977+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://static.express.de/__images/2025/11/20/bb3cacf6-3c56-461c-bef6-42efb69fa0fb.jpeg?w=1200&amp;h=630&amp;fm=jpg&amp;s=b5bfe8003afa3f771874d9c78bd70ee8",
+    "performance_score": 0,
+    "domain_rank": 15279,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "08ca2e985356fea42ce3df5e7fdd699d31a74122",
+  "url": "https://www.express.de/panorama/schnee-chaos-im-sauerland-region-mit-zuegen-nicht-befahrbar-1153970",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-11-20T09:50:15.977+02:00",
+  "title": "Schnee-Chaos im Sauerland: Region mit Zügen „nicht befahrbar\" | Express",
+  "text": "Aktualisiert 20.11.2025, 08:42 Mit dem Regionalzug ins Hochsauerland? Keine gute Idee. Schneefall sorgt für Chaos. Schneefall hat im Hochsauerland zu Zugausfällen geführt. Wie auf der Webseite www.zuginfo.nrw mitgeteilt wurde, ist die Region Arnsberg mit Zügen „nicht befahrbar“.Wegen starken Schneefalls mussten mehrere Weichen repariert werden. „In der Folge kommt es jetzt zu Verspätungen, Teilausfällen und Ausfällen auf dem kompletten Laufweg.“Es geht um die Regionalzüge RE 17 und RE 57. Zwischen Arnsberg und Neheim-Hüsten gab es Busse als Schienen-Ersatzverkehr. Wann die Züge wieder fahren, war zunächst nicht abschätzbar. Zuvor hatte die „WAZ“ berichtet. (dpa)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.zuginfo.nrw/",
+    "https://zuginfo.nrw/",
+    "https://www.zuginfo.nrw"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Arnsberg",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "WAZ",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "dpa",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      },
+      {
+        "name": "RE",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T09:50:15.977+02:00",
+  "updated": "2025-11-21T10:08:41.000+02:00"
+}

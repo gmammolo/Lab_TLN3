@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "2d9ca6e719e2a0f507f6eede653449192ae41acd",
+    "url": "https://www.crypto-news-flash.com/binances-cz-warns-of-macos-and-iphone-exploit-affecting-crypto-community",
+    "site_full": "www.crypto-news-flash.com",
+    "site": "crypto-news-flash.com",
+    "site_section": "https://www.crypto-news-flash.com",
+    "site_categories": [
+      "finance"
+    ],
+    "section_title": "Latest Crypto News, press releases: Bitcoin, Ripple, and More - Get the Scoop with Crypto News Flash",
+    "title": "Binance’s CZ Warns of macOS and iPhone Exploit Affecting Crypto Community",
+    "title_full": "Binance’s CZ Warns of macOS and iPhone Exploit Affecting Crypto Community",
+    "published": "2024-11-21T20:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 39457,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2d9ca6e719e2a0f507f6eede653449192ae41acd",
+  "url": "https://www.crypto-news-flash.com/binances-cz-warns-of-macos-and-iphone-exploit-affecting-crypto-community",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Godfrey Benjamin",
+  "published": "2024-11-21T20:20:00.000+02:00",
+  "title": "Binance’s CZ Warns of macOS and iPhone Exploit Affecting Crypto Community",
+  "text": "Binance’s former CEO cautions Mac users on a major security vulnerability. Apple has a history of security flaws that can lead to crypto losses, calling for safeguards. Changpeng Zhao (CZ), the former CEO of Binance Exchange, recently informed the crypto community of a new vulnerability targeted at Intel-based Mac users. The vulnerability affecting iPhones and iPads may expose users’ digital assets.\nZhao Sounds An Alarm Taking to the X platform, Zhao urged Mac users with Intel-based chips to update their devices, following a zero-day exploit on November 19. “If you use a Macbook with an Intel-based chip, update asap. Stay SAFU,” CZ wrote .\nIf you use a Macbook with Intel based chip, update asap!\nStay SAFU! https://t.co/mk2Jsicnte\n— CZ 🔶 BNB (@cz_binance) November 20, 2024\nZero-day vulnerabilities are flaws identified and exploited by hackers before a patch becomes available. The term “zero-day” refers to developers having limited time to fix the vulnerability upon discovery.\nThese vulnerabilities pose a high risk because the longer they remain undetected, the longer attackers have to exploit them. It can result in severe consequences for end users, such as data breaches, financial loss, privacy violations, and disruption.\nApple confirmed the attack in a postmortem and introduced major macOS and iOS security updates to prevent further damage. The company urged users to update to iOS 18.1.1, macOS Sequoia 15.1.1, and the older iOS 17.7.2. Apple described one of the addressed vulnerabilities as a cookie management issue.\nThe tech giant identified the vulnerabilities as CVE-2024-44308 and CVE-2024-44309, which affected macOS Sequoia’s JavaScriptCore and WebKit components. Hackers can use this to execute “cross-site scripting attacks” and covertly launch malicious code.\nCross-site scripting (XSS) is a web security attack that involves injecting malicious scripts into legitimate websites or applications. Crypto hackers have previously used similar vulnerabilities on Mac and Windows computers to steal wallet passwords and insert malware to steal private keys and digital assets.\nResearchers at Google’s Threat Analysis Group, notorious for probing government-backed hacks, initially uncovered the latest vulnerabilities. As a result, speculation has grown over the possible involvement of state-sponsored actors. Meanwhile, Apple has yet to share any details regarding the extent of the damage other than the fact that the vulnerabilities were “actively exploited.”\nConcerns For Apple and MacOS Users Apple users have been at risk on several occasions this year alone despite the Company’s stellar reputation for security. CNF reported earlier this month that North Korean hackers exploited macOS with malware hidden in decoy PDFs to steal crypto keys.\nIn March, researchers discovered a flaw in Apple’s M-series chips that hackers could leverage to retrieve cryptographic keys stored in the CPU’s cache. A month later, Web3 wallet provider Trust Wallet warned about another zero-day exploit in Apple’s iMessage framework. This attack allowed hackers to infiltrate iPhones without any user interaction.\nAmid these attacks, Apple launched the iPhone 16, its first smartphone with native Artificial Intelligence (AI) support. As CNF noted , the news stirred excitement among holders of AI crypto tokens.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://t.co/mk2Jsicnte",
+    "https://twitter.com/cz_binance/status/1859287351757078958?ref_src=twsrc%5Etfw",
+    "https://support.apple.com/en-us/121753",
+    "https://www.twitter.com/cz_binance/status/1859287351757078958?ref_src=twsrc%5Etfw",
+    "https://twitter.com/cz_binance/status/1859287351757078958",
+    "https://www.t.co/mk2Jsicnte",
+    "https://www.support.apple.com/en-us/121753"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Changpeng Zhao",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Binance Exchange",
+        "sentiment": "none"
+      },
+      {
+        "name": "Intel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "2d9ca6e719e2a0f507f6eede653449192ae41acd",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T00:38:27.394+02:00",
+  "updated": "2024-11-22T00:38:27.394+02:00"
+}

@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "366e9f9964762d72e2b3fbbaa054a0112f5407ff",
+    "url": "https://www.igorslab.de/en/not-our-fault-amd-declares-the-am5-socket-fire-a-bios-issue-and-withdraws-from-the-line-of-fire/",
+    "site_full": "www.igorslab.de",
+    "site": "igorslab.de",
+    "site_section": "https://www.igorslab.de/en",
+    "site_categories": [
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "igor´sLAB | PC &amp; Components | Reviews &amp; News",
+    "site_title": "igor´sLAB | PC &amp; Components | Reviews &amp; News",
+    "title": "\"Not our fault\" - AMD declares the AM5 socket fire a BIOS issue and pulls itself out of the line of fire | igor´sLAB",
+    "title_full": "\"Not our fault\" - AMD declares the AM5 socket fire a BIOS issue and pulls itself out of the line of fire | igor´sLAB",
+    "published": "2025-08-21T07:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.igorslab.de/wp-content/uploads/2025/08/b683b5a6-d1a3-45a0-a148-2422acee1ab9.png",
+    "performance_score": 0,
+    "domain_rank": 43222,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "366e9f9964762d72e2b3fbbaa054a0112f5407ff",
+  "url": "https://www.igorslab.de/en/not-our-fault-amd-declares-the-am5-socket-fire-a-bios-issue-and-withdraws-from-the-line-of-fire/",
+  "ord_in_thread": 0,
+  "author": "Samir Bashir",
+  "published": "2025-08-21T07:00:00.000+03:00",
+  "title": "\"Not our fault\" - AMD declares the AM5 socket fire a BIOS issue and pulls itself out of the line of fire | igor´sLAB",
+  "text": "When motherboards give off smoke signals, the finger pointing begins. And AMD has found its culprit: the BIOS programming of the ODMs. In an interview with Quasarzone, there is no doubt: The current burnout cases with AM5 sockets, especially in combination with CPUs such as the Ryzen 7 9800X3D, are the result of poorly configured firmware – not a problem with the CPUs themselves.\n“Some ODM BIOS versions do not adhere to our specifications,” says AMD. What sounds diplomatic is in fact a clear shot at partners such as ASRock, whose boards have repeatedly appeared in connection with burnt-out CPUs. Their statements that it is due to the PBO or even defective CPUs now seem rather contrived. AMD emphasizes that they test in close coordination with the board partners, but apparently “close” is not enough if voltage values beyond the specification are found in the field. The wide variety of CPU and motherboard combinations in particular – an advantage of the platform according to AMD itself – makes things complex. More possibilities also mean more sources of error. If you allow everyone to combine everything, you end up with an uncontrollable ecosystem. AMD now has this in black and white.\nThe recommended solution: BIOS update. A phrase as old as the problem itself. However, this is of little help if the affected user already has the smell of burnt substrate in their nose. And whether a motherboard manufacturer still delivers a really secure BIOS after the third attempt is often questionable. Especially in the budget segment. “We want to preserve AM5 in the long term,” says AMD – a noble goal. But what good is platform loyalty if the basis is unstable? Ryzen 9000 is not the first candidate for these symptoms. The Ryzen 7000 already had thermal limits that were fine-tuned with software patches. Now it is clear that there is a fine line between “open” and “irresponsible”. The user is left to his own devices – and can hope with every new AGESA version that this time no pins burn out.\nAll that remains to be said is that AM5 is a double-edged sword. If you want maximum flexibility, you also get maximum responsibility. AMD has made a promise with its open platforms – but if this promise goes up in smoke, no update in the world will help. Then we need a fresh start, not just another BIOS flash.\nSource: Quasarzone",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "War, Conflict and Unrest"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->corporate crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://quasarzone.com/bbs/qn_report/views/471810",
+    "https://www.quasarzone.com/bbs/qn_report/views/471810"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "AMD",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "AMD",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "PBO",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:46:59.345+03:00",
+  "updated": "2025-08-21T11:53:22.000+03:00"
+}

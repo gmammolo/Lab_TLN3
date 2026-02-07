@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "bccbbbf64f5c1d693f5ed606af783eb7036842af",
+    "url": "https://gbhackers.com/critical-laravel-vulnerability",
+    "site_full": "gbhackers.com",
+    "site": "gbhackers.com",
+    "site_section": "https://www.gbhackers.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "GBHackers News - No #1 Cybersecurity News Platform",
+    "title": "Critical Laravel Vulnerability CVE-2024-52301 Allows Unauthorized Access",
+    "title_full": "Critical Laravel Vulnerability CVE-2024-52301 Allows Unauthorized Access",
+    "published": "2024-11-15T11:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 62504,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bccbbbf64f5c1d693f5ed606af783eb7036842af",
+  "url": "https://gbhackers.com/critical-laravel-vulnerability",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Divya",
+  "published": "2024-11-15T11:26:00.000+02:00",
+  "title": "Critical Laravel Vulnerability CVE-2024-52301 Allows Unauthorized Access",
+  "text": "CVE-2024-52301 is a critical vulnerability identified in Laravel, a widely used PHP framework for building web applications.\nThe vulnerability allows unauthorized access by exploiting improperly validated inputs, potentially leading to privilege escalation, data tampering, or full system compromise.\nGiven Laravel’s widespread adoption across industries, the discovery is a cause for concern, as it could leave a large number of applications vulnerable to attacks.\nThe flaw is tied to how Laravel processes user-supplied data in specific scenarios. If not properly mitigated, attackers can exploit the vulnerability to bypass security controls, gain unauthorized access, and manipulate sensitive data.\nThis makes CVE-2024-52301 particularly dangerous for organizations running Laravel-based applications in production environments.\nFree Ultimate Continuous Security Monitoring Guide - Download Here (PDF)\nVulnerability Details One of the key factors that exacerbate the threat of CVE-2024-52301 is the misuse of PHP’s register_argc_argv setting.\nWhen enabled, this setting allows PHP scripts to access command-line arguments, which hackers could manipulate to inject malicious data or bypass input validation.\nThis increases the likelihood of exploitation when combined with vulnerabilities like CVE-2024-52301.\nLaravel has promptly issued patches to address CVE-2024-52301. Developers are strongly advised to upgrade to the latest version immediately.\nFailing to do so risks exposing sensitive data, enabling unauthorized access, and opening the door to data breaches .\nAs this vulnerability is likely to be actively targeted, immediate remediation is crucial for maintaining system integrity.\nAffected Versions\nLaravel Version Status < 6.20.45 Vulnerable = 7.0.0, < 7.30.7 Vulnerable = 8.0.0, < 8.83.28 Vulnerable = 9.0.0, < 9.52.17 Vulnerable = 10.0.0, < 10.48.23 Vulnerable = 11.0.0, < 11.31.0 Vulnerable Laravel’s GitHub repository addressed the vulnerability on their page. By following these best practices, you can significantly minimize the risk associated with CVE-2024-52301 and keep your Laravel applications secure.\nAnalyze Unlimited Phishing & Malware with ANY.RUN For Free - 14 Days Free Trial .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://nvd.nist.gov/vuln/detail/CVE-2024-52301",
+    "https://underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+    "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+    "https://github.com/advisories/GHSA-gv7v-rgg6-548h",
+    "https://www.nvd.nist.gov/vuln/detail/CVE-2024-52301",
+    "https://www.underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+    "https://underdefense.com/ultimate-continuous-security-monitoring-guide/",
+    "https://www.github.com/advisories/GHSA-gv7v-rgg6-548h",
+    "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+    "https://app.any.run/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T14:36:17.820+02:00",
+  "updated": "2024-11-15T14:36:17.820+02:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "cbdbaad1758bc3dc58f84a4a706bd502fc2032f1",
+    "url": "https://profit.pakistantoday.com.pk/2025/02/27/aws-joins-google-microsoft-in-quantum-computing-race-with-ocelot-chip",
+    "site_full": "profit.pakistantoday.com.pk",
+    "site": "pakistantoday.com.pk",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media",
+      "top_news_pk",
+      "top_news"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": null,
+    "title": "AWS joins Google, Microsoft in quantum computing race with Ocelot chip",
+    "title_full": "AWS joins Google, Microsoft in quantum computing race with Ocelot chip",
+    "published": "2025-02-27T16:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://profit.pakistantoday.com.pk/wp-content/uploads/2024/11/aws.png",
+    "performance_score": 0,
+    "domain_rank": 14387,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cbdbaad1758bc3dc58f84a4a706bd502fc2032f1",
+  "url": "https://profit.pakistantoday.com.pk/2025/02/27/aws-joins-google-microsoft-in-quantum-computing-race-with-ocelot-chip",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Monitoring Desk",
+  "published": "2025-02-27T16:34:00.000+02:00",
+  "title": "AWS joins Google, Microsoft in quantum computing race with Ocelot chip",
+  "text": "Amazon Web Services (AWS), the cloud computing unit of Amazon.com, unveiled a new quantum computing chip named Ocelot on Thursday, aiming to shorten the timeline for building a commercially viable quantum computer by up to five years.\nThe announcement coincided with the publication of a peer-reviewed study in the journal Nature.\nOcelot is a prototype with limited computing power, but AWS believes it has identified scalable technology to advance quantum computing. AWS joins industry competitors Alphabet, Microsoft, and startup PsiQuantum, which have also announced quantum advancements in recent months.\nQuantum computers have the potential to perform computations that conventional computers would take millions of years to complete, aiding research in fields such as material science and pharmaceuticals. However, quantum computing faces challenges due to the instability of qubits, its fundamental processing units.\nAWS has developed a prototype chip that uses only nine physical qubits to generate one functional logical qubit by leveraging “cat” qubits, named after physicist Erwin Schrödinger’s thought experiment. The standard industry approach estimates a need for about a million physical qubits to achieve useful computing power, but AWS claims its method could reduce that number to 100,000.\nAWS has not set a timeline for when its quantum technology will be commercially ready but sees the development as a significant step toward practical quantum computing.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Erwin Schrödin",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Amazon.com",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Google",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:08:03.707+02:00",
+  "updated": "2025-02-28T00:08:03.707+02:00"
+}

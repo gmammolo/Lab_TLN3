@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "fe6b0367a9587b0cd002a02c4ea825a6deee348b",
+    "url": "https://cybersecuritynews.com/russian-hackers-exploiting-7-year-old-cisco-vulnerability/",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "Russian Hackers Exploiting 7-Year-Old Cisco Vulnerability to Collect Configs from Industrial Systems",
+    "title_full": "Russian Hackers Exploiting 7-Year-Old Cisco Vulnerability to Collect Configs from Industrial Systems",
+    "published": "2025-08-21T09:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9KtDAz_mOx3b8ADOokX8lPiRd2Banv2JE0f0Lcak8DdDv91mg8uE8ucAi6acE5-dTHKryY1M4wWmSN2TvNWFGrqhsVuF6gjXOcgGK3wkcgae9Wl8vGi3Eip_NuiuscY6c6sruKFJYNAWzRTrgrr_l8oxSXZKSrlUmlYX1y_ivcBNSlF2Uu9NYh44tcdo/s16000/Russian%20Hackers%20Exploiting%207-Year-Old%20Cisco%20Vulnerability%20to%20Collect%20Configs%20from%20Industrial%20Systems.webp",
+    "performance_score": 0,
+    "domain_rank": 35499,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fe6b0367a9587b0cd002a02c4ea825a6deee348b",
+  "url": "https://cybersecuritynews.com/russian-hackers-exploiting-7-year-old-cisco-vulnerability/",
+  "ord_in_thread": 0,
+  "author": "Tushar Subhra Dutta",
+  "published": "2025-08-21T09:39:00.000+03:00",
+  "title": "Russian Hackers Exploiting 7-Year-Old Cisco Vulnerability to Collect Configs from Industrial Systems",
+  "text": "A Russian state-sponsored cyber espionage group designated as Static Tundra has been actively exploiting a seven-year-old vulnerability in Cisco networking devices to steal configuration data and establish persistent access across critical infrastructure networks.\nThe sophisticated threat actor, linked to Russia’s Federal Security Service (FSB) Center 16 unit, has been targeting unpatched and end-of-life network devices since 2015, with operations significantly escalating following the Russia-Ukraine conflict.\nThe campaign centers around CVE-2018-0171, a previously disclosed vulnerability in Cisco IOS software’s Smart Install feature that allows unauthenticated remote attackers to execute arbitrary code or trigger denial-of-service conditions.\nDespite Cisco issuing patches in 2018, Static Tundra continues to find success exploiting organizations that have failed to apply security updates or are running legacy devices beyond their support lifecycle.\nStatic Tundra’s victims span telecommunications, higher education, and manufacturing sectors across North America, Asia, Africa, and Europe.\nThe group demonstrates remarkable persistence, maintaining access to compromised environments for multiple years without detection.\nCisco Talos analysts identified the threat cluster through ongoing analysis of sophisticated network device compromises, noting the group’s advanced knowledge of network infrastructure and deployment of bespoke exploitation tools.\nAttack Methodology and Configuration Exfiltration\nStatic Tundra employs a methodical approach to configuration theft, beginning with automated exploitation of the Smart Install vulnerability against predetermined target lists likely gathered from public scanning services like Shodan or Censys.\nUpon successful exploitation, the attackers immediately modify the running configuration to enable local Trivial File Transfer Protocol (TFTP) services using the command:-\ntftp-server nvram:startup-config\nThis command creates a temporary TFTP server that allows Static Tundra to establish a secondary connection and retrieve the device’s startup configuration file.\nThe extracted configurations often contain sensitive credentials and Simple Network Management Protocol (SNMP) community strings that facilitate deeper network penetration.\nThe threat actors leverage these compromised credentials to pivot laterally through network environments, using SNMP protocols with spoofed source addresses to bypass access control lists.\nStatic Tundra has been observed creating privileged local user accounts and establishing Generic Routing Encapsulation tunnels to redirect and capture network traffic of intelligence value, demonstrating their focus on long-term espionage rather than immediate financial gain.\nBoost your SOC and help your team protect your business with free top-notch threat intelligence:\nRequest TI Lookup Premium Trial.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blog.talosintelligence.com/static-tundra/",
+    "https://intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://intelligence.any.run/plans/",
+    "https://www.intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://blog.talosintelligence.com/static-tundra",
+    "https://www.blog.talosintelligence.com/static-tundra/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Africa",
+        "sentiment": "none"
+      },
+      {
+        "name": "North",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "fe6b0367a9587b0cd002a02c4ea825a6deee348b",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:04:40.540+03:00",
+  "updated": "2025-08-21T10:09:13.000+03:00"
+}

@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "d3061dfc90b4221adf30a8b73792fc0d7633fb78",
+    "url": "https://forums.sketchup.com/t/layout-wont-import-sketchup-properly-caution-triangles-and-low-resolution/299140",
+    "site_full": "forums.sketchup.com",
+    "site": "sketchup.com",
+    "site_section": "https://forums.sketchup.com/latest.rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "SketchUp Community - Latest topics",
+    "title": "Layout won't import Sketchup properly, caution triangles and low resolution",
+    "title_full": "Layout won't import Sketchup properly, caution triangles and low resolution",
+    "published": "2024-11-14T22:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://global.discourse-cdn.com/sketchup/optimized/3X/b/b/bb6cf1c4e144d56054b08f9765763cc1d09d6e99_2_1024x492.jpeg",
+    "performance_score": 0,
+    "domain_rank": 2331,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d3061dfc90b4221adf30a8b73792fc0d7633fb78",
+  "url": "https://forums.sketchup.com/t/layout-wont-import-sketchup-properly-caution-triangles-and-low-resolution/299140",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "ecfjohnston",
+  "published": "2024-11-14T22:00:00.000+02:00",
+  "title": "Layout won't import Sketchup properly, caution triangles and low resolution",
+  "text": "I’m at a loss. My sketch up viewports in layout won’t display. There are caution triangles everywhere, They won’t fully render, and when I try to re-insert and choose scene they go blank. I tried making new files for both, and it’s not helping. I’m not sure where to start figuring out where the issue is. I’m a smaller scale residential designer that has been using sketch up for years, and haven’t run into this before. Attached is a screenshot of how my files are displaying in layout.\nYou’ve unticked the Auto render box in the SketchUp Model panel which tells LayOut you don’t want it to update your viewports.\nTick that box and the viewports should update automatically.\nNote that for the selected viewport you’ve overridden the Camera properties for the scene so that won’t be updated when the viewports are updated.\nBTW, your forum profile shows you are using the “Go Plan” which doesn’t include access to the desktop version of SketchUp or to LayOut. Please update your forum profile to reflect the correct version of SketchUp.\nTHANK YOU DAVE! I should have posted this days ago, but was convinced I could figure it out.\nI updated my forum profile. Again, I appreciate your help.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T01:11:00.561+02:00",
+  "updated": "2024-11-15T01:11:00.561+02:00"
+}

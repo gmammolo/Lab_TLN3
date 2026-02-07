@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "f8a762e2ff7dcb3a3e2df80e236e854a101f4a8e",
+    "url": "https://www.watson.ch/schweiz/wetter/996910015-wetter-in-der-schweiz-am-donnerstag-die-regenwalze-kommt",
+    "site_full": "www.watson.ch",
+    "site": "watson.ch",
+    "site_section": "https://www.watson.ch/schweiz",
+    "site_categories": [
+      "media",
+      "top_news_ch",
+      "top_news"
+    ],
+    "section_title": "Schweiz",
+    "site_title": "watson - News ohne Bla Bla",
+    "title": "Wetter in der Schweiz am Donnerstag: Die Regenwalze kommt",
+    "title_full": "Wetter in der Schweiz am Donnerstag: Die Regenwalze kommt",
+    "published": "2025-08-28T11:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://www.watson.ch/imgdb/bd19/Z1200,675/1179843411048226",
+    "performance_score": 3,
+    "domain_rank": 13082,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 37,
+        "comments": 4,
+        "shares": 6
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f8a762e2ff7dcb3a3e2df80e236e854a101f4a8e",
+  "url": "https://www.watson.ch/schweiz/wetter/996910015-wetter-in-der-schweiz-am-donnerstag-die-regenwalze-kommt",
+  "ord_in_thread": 0,
+  "author": "Leo Helfenberger",
+  "published": "2025-08-28T11:27:00.000+03:00",
+  "title": "Wetter in der Schweiz am Donnerstag: Die Regenwalze kommt",
+  "text": "Der Donnerstag steht im Zeichen des Regens. Tatsächlich wird es heute in der ganzen Schweiz nass. Schuld daran trägt Ex-Hurrikan Erin. Dieser zog Mitte August der US-Ostküste entlang und überquerte den Atlantik in Richtung Afrika. Auf Kap Verde forderte er gar mehrere Todesopfer.\nDie Überreste des Sturms ziehen seit gestern und heute Donnerstag nochmals verstärkt über die Schweiz. Sie bringen «schubweise sehr feuchte und labil geschichtete Luft in den Alpenraum», wie MeteoNews in einer Mitteilung schreibt.\nBereits in der Nacht auf Donnerstag kam es dabei besonders im Süden zu Starkniederschlägen. Hier fiel in den vergangenen 24 Stunden am meisten Regen (Stand 10 Uhr):\nDoch auch die Ostschweiz war bereits von Starkregen betroffen. In Urnäsch im Kanton Appenzell Ausserrhoden musste die Feuerwehr nach einer starken Gewitterzelle wegen Hochwasser ausrücken:\nDas Bundesamt für Meteorologie und Klimatologie hat deshalb für die gesamte Schweiz die Gefahrenstufe 3 ausgerufen. Die Bevölkerung ist angehalten, «Ufergebiete von Fliessgewässern und Seen sowie steile Hänge» zu meiden.\nFür Teile des Tessins und in Graubünden gilt gar die höchste Warnstufe. «Die Varianz zwischen den verschiedenen Wettermodellen ist durchaus gross, aber selbst nach konservativen Ansätzen muss bis zum Freitagmorgen im Tessin und Teilen von Südbünden verbreitet mit 100 bis 130 mm Regen gerechnet werden», schreibt MeteoNews.\nAuch im Laufe des Donnerstags sind besonders der Süden und der Osten der Schweiz von anhaltenden und starken Niederschlägen betroffen. Doch auch im Westen dürfte es besonders am Vormittag vereinzelt zu Regen kommen.\n«Besonders auf der Alpennordseite sind am Nachmittag längere trockene Abschnitte möglich», schreibt MeteoSchweiz. Laut diesem Wettermodell beschränkt sich dann ein Grossteil der Niederschläge auf das Tessin und auf die Ostschweiz.\nLaut dieser Prognose dürfte sich der schlimmste Teil der Regenwalze aber über Norditalien und Österreich entladen. (leo)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather phenomena"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://meteonews.ch/de/News/N15459/Starkniederschl%C3%A4ge-mit-Schwerpunkt-im-S%C3%BCden",
+    "https://www.meteonews.ch/de/News/N15459/Starkniederschl%C3%A4ge-mit-Schwerpunkt-im-S%C3%BCden"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Schweiz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Appenzell",
+        "sentiment": "none"
+      },
+      {
+        "name": "Atlantik",
+        "sentiment": "none"
+      },
+      {
+        "name": "Afrika",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_ch",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T11:29:33.874+03:00",
+  "updated": "2025-08-29T12:05:40.000+03:00"
+}

@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "b320cba265f2bf24f99b6d39854fb69765673594",
+    "url": "https://securityonline.info/cve-2024-10571-cvss-9-8-critical-flaw-in-wordpress-chart-plugin-under-active-attack/?&amp;web_view=true",
+    "site_full": "securityonline.info",
+    "site": "securityonline.info",
+    "site_section": "https://cyware.com/cyber-security-news-articles",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Cyber Security News Today | Articles on Cyber Security, Malware Attack updates | Cyware",
+    "title": "CVE-2024-10571 (CVSS 9.8): Critical Flaw in WordPress Chart Plugin Under Active Attack",
+    "title_full": "CVE-2024-10571 (CVSS 9.8): Critical Flaw in WordPress Chart Plugin Under Active Attack",
+    "published": "2024-11-14T17:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://securityonline.info/wp-content/uploads/2024/11/Screenshot-2024-11-14-165927.png",
+    "performance_score": 0,
+    "domain_rank": 126550,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b320cba265f2bf24f99b6d39854fb69765673594",
+  "url": "https://securityonline.info/cve-2024-10571-cvss-9-8-critical-flaw-in-wordpress-chart-plugin-under-active-attack/?&amp;web_view=true",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "do son",
+  "published": "2024-11-14T17:04:00.000+02:00",
+  "title": "CVE-2024-10571 (CVSS 9.8): Critical Flaw in WordPress Chart Plugin Under Active Attack",
+  "text": "Administrator websites are facing a new threat as attackers actively exploit a critical vulnerability in the popular Chartify – WordPress Chart Plugin. This plugin, with over 2,000 active installations, is vulnerable to unauthenticated local file inclusion, enabling attackers to execute malicious code on affected websites. CVE-2024-10571: Unauthenticated Local File Inclusion Flaw Tracked as CVE-2024-10571 and assigned a CVSS score of 9.8, this vulnerability affects all versions of the Chartify plugin up to and including 2.9.5. The flaw stems from improper handling of the ‘source’ parameter, allowing attackers to inject arbitrary files and execute malicious PHP code. “This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other “safe” file types can be uploaded and included,” warns the vulnerability report. Widespread Exploitation Underway The severity of this vulnerability is amplified by its active exploitation in the wild. Wordfence, a leading WordPress security firm, reports blocking a staggering “2,207,540 attacks targeting this vulnerability in the past 24 hours.” This indicates a widespread campaign by malicious actors to compromise vulnerable websites. Urgent Action Required: Update Now! Website administrators using the Chartify plugin are urged to take immediate action to mitigate this threat. The recommended solution is to update to version 2.9.6 or a newer patched version as soon as possible. Protecting Your WordPress Website This incident serves as a stark reminder of the importance of proactive security measures for WordPress websites. Here are some essential steps to protect your site: - Keep Plugins and Themes Updated: Regularly update all plugins and themes to the latest versions to patch security vulnerabilities. - Use a Web Application Firewall (WAF): A WAF can help block malicious traffic and prevent attacks from reaching your website. - Implement Strong Passwords and Two-Factor Authentication: Secure your WordPress admin accounts with strong passwords and enable two-factor authentication for an extra layer of protection. - Regularly Back Up Your Website: Create regular backups of your website files and database to ensure you can quickly recover from a compromise. By taking these proactive steps, you can significantly reduce the risk of falling victim to attacks targeting WordPress vulnerabilities.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://wordpress.org/plugins/chart-builder/",
+    "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/chart-builder/chartify-wordpress-chart-plugin-295-unauthenticated-local-file-inclusion-via-source",
+    "https://www.wordpress.org/plugins/chart-builder/",
+    "https://wordpress.org/plugins/chart-builder",
+    "https://wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/chart-builder/chartify-wordpress-chart-plugin-295-unauthenticated-local-file-inclusion-via-source"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:49:50.387+02:00",
+  "updated": "2024-11-15T17:49:50.387+02:00"
+}

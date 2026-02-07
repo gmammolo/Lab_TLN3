@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "5b13801459c660e8e46c2839a04684037fbf4960",
+    "url": "https://tech.udn.com/tech/story/123454/8938080",
+    "site_full": "tech.udn.com",
+    "site": "udn.com",
+    "site_section": "https://tech.udn.com/tech",
+    "site_categories": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "udn科技玩家 | 聯合新聞網",
+    "site_title": null,
+    "title": "YouTube正式啟用「AI判斷年齡」系統！恐被當未成年直接限制使用權",
+    "title_full": "YouTube正式啟用「AI判斷年齡」系統！恐被當未成年直接限制使用權",
+    "published": "2025-08-14T03:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/0/32597968.jpg&s=Y&x=0&y=0&sw=1266&sh=844&sl=W&fw=800&exp=3600",
+    "performance_score": 0,
+    "domain_rank": 2791,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5b13801459c660e8e46c2839a04684037fbf4960",
+  "url": "https://tech.udn.com/tech/story/123454/8938080",
+  "ord_in_thread": 0,
+  "author": "聯合新聞網",
+  "published": "2025-08-14T03:31:00.000+03:00",
+  "title": "YouTube正式啟用「AI判斷年齡」系統！恐被當未成年直接限制使用權",
+  "text": "YouTube\n將要在美國\n使用AI\n技術估算使用者\n的年齡\n，並對被判定為未成年\n帳號\n套用「適齡」體驗，像是廣告或隱私\n提醒都會被調整。用戶若被判定未成年，可以用身分證驗證\n年齡，但這也引發了隱私疑慮。\n根據外媒「Android Headlines」報導，美國版YouTube推出了一項重大變革，平台宣布計畫使用人工智慧來估算觀眾的年齡，並將「基於AI的年齡驗證」成為正式政策的一部分。YouTube聲稱此舉是為了持續打造對年輕用戶更安全、更適齡的使用環境。\nYouTube的新AI年齡驗證系統，會根據多種因素，包含從觀看習慣到帳號歷史長度，來判斷使用者是否可能未滿18歲，若系統判定帳號屬於未成年人，它不僅會限制你觀看某些影片，還會自動套用一組保護措施，以保障青少年\n觀眾的安全。\n這些限制包括：\n・預設「休息一下」與睡前提醒，促進數位健康\n・僅顯示「非個人化」的廣告\n・上傳影片或留言時顯示隱私提醒\n・減少重複觀看時可能有問題的內容推薦\n如果有成年使用者被誤認，YouTube也提供申訴方式，使用者可以提交政府核發的身分證件、自拍照或信用卡來驗證年齡。也因此許多使用者擔心AI的準確性，認為自己可能因為觀看某些熱門類型，如動漫或遊戲影片，就被誤認為青少年，也有許多使用者對必須向大型科技公司上傳個資感到有疑慮。\nYouTube也聲明，這項技術會觀察多種模式，不會針對特定內容類型，他們也強調，提交證件是自願的，如果使用者你不願意，帳號將保留青少年保護模式，但仍能觀看平台大多數內容。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Social Issue->social networking",
+    "Social Issue->ageism"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.androidheadlines.com/2025/08/youtube-is-guessing-your-age-with-ai-starting-today.html",
+    "https://androidheadlines.com/2025/08/youtube-is-guessing-your-age-with-ai-starting-today.html"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T07:51:39.353+03:00",
+  "updated": "2025-08-15T08:04:32.000+03:00"
+}

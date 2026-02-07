@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "66fe25f5bfdf734366499d10a35e36cc2799cc1f",
+    "url": "https://cybersecuritynews.com/cisa-warns-of-apple-oracle-agile-vulnerabilities",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://www.cybersecuritynews.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "CISA Warns of Apple & Oracle Agile Vulnerabilities Exploited in Wild",
+    "title_full": "CISA Warns of Apple & Oracle Agile Vulnerabilities Exploited in Wild",
+    "published": "2024-11-22T14:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 56464,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "66fe25f5bfdf734366499d10a35e36cc2799cc1f",
+  "url": "https://cybersecuritynews.com/cisa-warns-of-apple-oracle-agile-vulnerabilities",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T14:11:00.000+02:00",
+  "title": "CISA Warns of Apple & Oracle Agile Vulnerabilities Exploited in Wild",
+  "text": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued an urgent advisory regarding three critical vulnerabilities affecting Apple and Oracle products.\nThese flaws, identified as CVE-2024-44308, CVE-2024-44309, and CVE-2024-21287, have the potential to be exploited in the wild, posing significant cybersecurity risks to organizations and individuals.\nCVE-2024-44308: Apple Code Execution Vulnerability The vulnerability, CVE-2024-44308 , affects multiple Apple products, including iOS and macOS.\nIt involves an unspecified flaw in how these systems process maliciously crafted web content, potentially allowing attackers to execute arbitrary code on target devices.\nLeveraging 2024 MITRE ATT&CK Results for SME & MSP Cybersecurity Leaders – Attend Free Webinar\nThis could give malicious actors access to sensitive data or control over compromised systems.\nApple has advised users to apply the latest security updates immediately or, if no fixes are available, to discontinue use of vulnerable products. The deadline for mitigation is December 12, 2024.\nCVE-2024-44309: Apple Cross-Site Scripting (XSS) Vulnerability Another vulnerability, CVE-2024-44309 , also impacts Apple’s ecosystem.\nThis flaw can be exploited to launch cross-site scripting ( XSS ) attacks. By crafting malicious web content, attackers could inject harmful scripts into a user’s browser, potentially enabling data theft, session hijacking, or other types of malicious activity.\nSimilar to the first vulnerability, Apple has urged users to stay updated with the latest patches or discontinue the use of affected devices if no solutions exist. Mitigation is required by December 12, 2024.\nCVE-2024-21287: Oracle Agile PLM Incorrect Authorization Vulnerability Oracle’s Agile Product Lifecycle Management (PLM) software is affected by CVE-2024-21287 .\nThis vulnerability stems from incorrect authorization in the Process Extension component of its Software Development Kit.\nIf exploited, it could result in unauthenticated file disclosure, potentially exposing confidential business or personal information.\nOracle has released mitigation guidelines for users to address this issue, with a similar deadline of December 12, 2024, for resolution.\nCISA strongly advises organizations to act swiftly to mitigate these vulnerabilities.\nFailure to do so could expose systems to potential exploitation by malicious actors. Although there is no confirmation of active ransomware campaigns leveraging these vulnerabilities, the risks remain significant.\nAdministrators should prioritize patch management, monitor for unusual activity, and implement additional security measures to safeguard systems. For detailed instructions, refer to Apple and Oracle’s official advisories.\nAre you from SOC/DFIR Teams? – Analyse Malware & Phishing with ANY.RUN -> Try for Free",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://nvd.nist.gov/vuln/detail/CVE-2024-21287",
+    "https://go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://nvd.nist.gov/vuln/detail/CVE-2024-44308",
+    "https://nvd.nist.gov/vuln/detail/CVE-2024-44309",
+    "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+    "https://go.cynet.com/mitre_2024",
+    "https://www.nvd.nist.gov/vuln/detail/CVE-2024-21287",
+    "https://www.nvd.nist.gov/vuln/detail/CVE-2024-44309",
+    "https://www.nvd.nist.gov/vuln/detail/CVE-2024-44308",
+    "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://www.go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://cisa.gov/known-exploited-vulnerabilities-catalog",
+    "https://app.any.run/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Infrastructure Security Agency",
+        "sentiment": "negative"
+      },
+      {
+        "name": "CISA Warns of Apple",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "66fe25f5bfdf734366499d10a35e36cc2799cc1f",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:55:36.260+02:00",
+  "updated": "2024-11-22T15:55:36.260+02:00"
+}

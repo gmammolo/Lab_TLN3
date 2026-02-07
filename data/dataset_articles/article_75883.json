@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "fe53eb8a0e829da0332d102d06c20abab135fe55",
+    "url": "https://vulners.com/github/GHSA-VPRM-27PV-JP3W",
+    "site_full": "vulners.com",
+    "site": "vulners.com",
+    "site_section": "https://vulners.com/rss.xml",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Vulners.com RSS Feed",
+    "title": "Vaultwarden authenticated reflected cross-site scripting (XSS) vulnerability",
+    "title_full": "Vaultwarden authenticated reflected cross-site scripting (XSS) vulnerability",
+    "published": "2025-01-09T23:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://vulners.com/static/img/github.png",
+    "performance_score": 0,
+    "domain_rank": 151412,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fe53eb8a0e829da0332d102d06c20abab135fe55",
+  "url": "https://vulners.com/github/GHSA-VPRM-27PV-JP3W",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "GitHub Advisory Database",
+  "published": "2025-01-09T23:31:00.000+02:00",
+  "title": "Vaultwarden authenticated reflected cross-site scripting (XSS) vulnerability",
+  "text": "Vaultwarden v1.32.5 has an authenticated reflected cross-site scripting vulnerability in /api/core/mod.rs.\nReporter | Title | Published | Views | Family All 4 |\n---|---|---|---|---|\n|\nTransform Your Security Services\nElevate your offerings with Vulners' advanced Vulnerability Intelligence. Contact us for a demo and discover the difference comprehensive, actionable intelligence can make in your security strategy.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific standards"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T03:24:25.402+02:00",
+  "updated": "2025-01-10T03:24:25.402+02:00"
+}

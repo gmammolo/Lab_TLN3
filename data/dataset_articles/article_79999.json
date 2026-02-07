@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "4de01fd3643925277ca39de5996275e2c6a8abbf",
+    "url": "https://www.digitaljournal.com/tech-science/ai-study-redefines-right-heart-health-assessment/article",
+    "site_full": "www.digitaljournal.com",
+    "site": "digitaljournal.com",
+    "site_section": "http://www.digitaljournal.com/#news",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Digital Journal | Elevating voices",
+    "title": "AI study redefines right heart health assessment - Digital Journal",
+    "title_full": "AI study redefines right heart health assessment - Digital Journal",
+    "published": "2024-01-05T23:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "https://www.digitaljournal.com/wp-content/uploads/2023/04/a8c94a74e5137f4f49640e541d53442ae50c184a.jpg",
+    "performance_score": 0,
+    "domain_rank": 1470,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 12
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4de01fd3643925277ca39de5996275e2c6a8abbf",
+  "url": "https://www.digitaljournal.com/tech-science/ai-study-redefines-right-heart-health-assessment/article",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Dr. Tim Sandle",
+  "published": "2024-01-05T23:31:00.000+02:00",
+  "title": "AI study redefines right heart health assessment - Digital Journal",
+  "text": "AI performed well in conducting preliminary readings of heart ultrasounds - Copyright AFP Fabrice COFFRINI A new application of artificial intelligence in the medical field has led to the development of a novel predictive model to aid medical professionals in assessing patient risk. This is a departure from traditional methods presents a significant advance in evaluating heart health.\nThe AI application comes from the Icahn School of Medicine at Mount Sinai. Here medical scientists have harnessed AI to enhance the assessment of the heart’s right ventricle , which sends blood to the lungs.\nConducted by a team using AI-enabled electrocardiogram (AI-ECG) analysis, the research demonstrates that electrocardiograms can effectively predict right-side heart issues, offering a simpler alternative to complex imaging technologies and potentially enhancing patient outcomes.\nThe research found that a deep learning-based ECG analysis tool is able to identify patients at high risk for poor right ventricular function. Areas deemed important by the AI for prediction are highlighted in increasing shades of red.\nAccording to lead researcher Son Q. Duong : “We aimed to find a better way to assess the health of the heart’s right ventricle, focusing on its ability to pump blood and its size. Traditional methods fall short, which prompted us to explore AI-ECG analysis as a potential solution.”\nThe medic adds: “This novel method could expedite the identification of heart problems, especially in the right ventricle, and potentially lead to earlier and more effective treatment. It holds particular importance for patients with congenital heart disease, who often face issues in the right ventricle.”\nTo achieve this breakthrough, the researchers trained a deep-learning ECG (DL-ECG) model using harmonized data from 12-lead ECGs and cardiac magnetic resonance imaging (MRI) measurements. It was conducted on a large sample from the UK Biobank and validated at multiple health centres across the Mount Sinai Health System, measuring its accuracy in predicting heart conditions and its impact on patient survival rates.\nDespite the success, the researchers say that while the use of artificial intelligence allows for more precise heart information from commonly available tools, it is in an early stage and doesn’t replace advanced diagnostics. Further work is needed to ensure the tool’s safety and correct applicability. Furthermore, the study’s predictions may vary across populations, relying on existing ECG and MRI data with inherent limitations. Its application in everyday clinical practice requires further exploration, cautioned the researchers.\nThe research has been published in the Journal of the American Heart Association . The research paper is titled “Quantitative Prediction of Right Ventricular Size and Function From the ECG.”\nThe study was supported by the U.S. National Heart, Lung, and Blood Institute, National Institutes of Health and National Center for Advancing Translational Sciences.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health",
+    "Human Interest"
+  ],
+  "external_links": [
+    "https://www.eurekalert.org/news-releases/1030213",
+    "https://www.ahajournals.org/doi/10.1161/JAHA.123.031671",
+    "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.106.632208",
+    "https://ahajournals.org/doi/10.1161/JAHA.123.031671",
+    "https://eurekalert.org/news-releases/1030213",
+    "https://ahajournals.org/doi/10.1161/CIRCULATIONAHA.106.632208"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "fabrice co",
+        "sentiment": "positive"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "icahn school of medicine",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "mount sinai",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-06T00:03:48.543+02:00",
+  "updated": "2024-01-06T00:03:48.543+02:00"
+}

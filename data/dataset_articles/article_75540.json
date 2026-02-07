@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "e3041e2bd07758dfbcf07495e79f224384c1fb59",
+    "url": "https://hackread.com/malware-bypasses-microsoft-defender-2fa-crypto",
+    "site_full": "hackread.com",
+    "site": "hackread.com",
+    "site_section": "https://thetechstreetnow.com/tech",
+    "site_categories": [],
+    "section_title": " Techstreet Now - Technology News Today - Read Latest Tech News and updates from trusted sources across the globe  ",
+    "title": "Malware Bypasses Microsoft Defender and 2FA to Steal $24K in Crypto",
+    "title_full": "Malware Bypasses Microsoft Defender and 2FA to Steal $24K in Crypto",
+    "published": "2024-11-22T13:45:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://hackread.com/wp-content/uploads/2024/11/malware-bypasses-microsoft-defender-2fa-crypto.jpg",
+    "performance_score": 0,
+    "domain_rank": 15899,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e3041e2bd07758dfbcf07495e79f224384c1fb59",
+  "url": "https://hackread.com/malware-bypasses-microsoft-defender-2fa-crypto",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Deeba Ahmed",
+  "published": "2024-11-22T13:45:00.000+02:00",
+  "title": "Malware Bypasses Microsoft Defender and 2FA to Steal $24K in Crypto",
+  "text": "\\nMalware bypasses Microsoft Defender and 2FA, stealing $24K in cryptocurrency via a fake NFT game app. Learn how it compromised devices and evaded security.\n\\n \\n\\n \\n\\n Cybersecurity researchers at SafetyDetectives revealed that Microsoft Defender, the default Windows antivirus, was deceived by malware, enabling the theft of cryptocurrency from an unsuspecting user. The issue was uncovered during the analysis of a seemingly harmless NFT game app, which was actually designed to steal cryptocurrency.\n\\nThe application also compromised the device by bypassing Google\\u2019s two-factor authentication and stole over $24,000 in cryptocurrency. According to researchers, the malware, once installed, quietly operates in the background, gathering sensitive information and may even hijack the user\\u2019s Google account, which is protected by two-factor authentication (2FA). It achieves this by installing a malicious Chrome extension disguised as Google Keep, bypassing the 2FA security measures.\n\\nDuring the investigation, SafetyDetectives\\u2019 team tested Microsoft Defender against the malware-laced app, using Wireshark to monitor network traffic and detect the malware\\u2019s location.\n\\nSurprisingly, Microsoft Defender failed to stop the virus during its installation and execution, allowing the malware to gain access to system operations, download suspicious files, collect sensitive information, and even determine the user\\u2019s location.\n\\nThe malware was programmed to shut down if the user was in Russia, Ukraine, or Belarus, likely due to its origin. The fake Chrome extension enabled the malware to access every website visited, steal login data, and monitor anything copied from the browser. The virus collected everything necessary to remotely control the system, and Microsoft Defender didn\\u2019t send an alert.\n\\n Bitdefender and Malwarebytes to the Rescue \\nTo assess the effectiveness of other antivirus solutions, the team also tested Malwarebytes and Bitdefender. While neither antivirus was able to prevent the initial installation, they did intervene at later stages of the attack. Bitdefender blocked the malware\\u2019s attempt to access critical information, while Malwarebytes prevented the installation altogether.\\xa0\n\\n \\n\\n \\n\\n\n\\u201cWhile Malwarebytes stopped the breach faster than Bitdefender, neither is inherently better in dealing with this specific malware, as both were able to prevent critical compromise. Bitdefender may even have the benefit of having fewer false positives,\\u201d they explained in the blog post .\n\\n \\n \\n \\nIt could be that in recent years, Microsoft Exchange Server has been targeted by a series of zero-day vulnerabilities, some of which could have impacted Microsoft Defender\\u2019s ability to protect systems. Or supply chain attacks, like the SolarWinds hack , can compromise software updates and tools, potentially affecting the integrity of security solutions like Microsoft Defender.\n\\nNevertheless, the investigation emphasizes the importance of investing in stronger antivirus software and exercising caution when downloading and installing applications, especially from unverified sources. Staying informed about cyber threats and taking proactive measures can significantly reduce the risk of malicious attacks.\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.safetydetectives.com/news/msdefender-malware-vulnerability/",
+    "https://www.safetydetectives.com/news/msdefender-malware-vulnerability",
+    "https://safetydetectives.com/news/msdefender-malware-vulnerability/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T16:12:22.537+02:00",
+  "updated": "2024-11-22T19:48:33.967+02:00"
+}

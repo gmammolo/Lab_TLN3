@@ -1,0 +1,130 @@
+{
+  "thread": {
+    "uuid": "ac4a5dfbf83758d9394c7aa0a3c6ca38c4780a2d",
+    "url": "https://local12.com/news/nation-world/nissan-recall-recalls-recalling-recalled-thousands-top-selling-vehicles-frontier-cincinnati-consumer-alerts-malfunction-potentially-dangerous-products-cycles-engine-mechanical-electrical-reflective-devices-associated-equipment-engineer-control-engine",
+    "site_full": "local12.com",
+    "site": "local12.com",
+    "site_section": "https://www.local12.com/news",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "chevron-right",
+    "site_title": "chevron-right",
+    "title": "Nissan recalls thousands top-selling vehicles",
+    "title_full": "Nissan recalls thousands top-selling vehicles",
+    "published": "2025-08-14T10:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://local12.com/resources/media2/16x9/1280/986/center/90/3d58aea9-1022-48e9-b28d-b0f2a602839a-Nissan.png",
+    "performance_score": 0,
+    "domain_rank": 9073,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ac4a5dfbf83758d9394c7aa0a3c6ca38c4780a2d",
+  "url": "https://local12.com/news/nation-world/nissan-recall-recalls-recalling-recalled-thousands-top-selling-vehicles-frontier-cincinnati-consumer-alerts-malfunction-potentially-dangerous-products-cycles-engine-mechanical-electrical-reflective-devices-associated-equipment-engineer-control-engine",
+  "ord_in_thread": 0,
+  "author": "WKRC",
+  "published": "2025-08-14T10:14:00.000+03:00",
+  "title": "Nissan recalls thousands top-selling vehicles",
+  "text": "UNDATED (WKRC) — Nissan has recalled thousands of top-selling vehicles.\nAccording to the National Highway Traffic Safety Administration (NHTSA), Nissan North America, Inc. is recalling thousands of vehicles due to a software logic error that may cause the daytime running lights to dim unexpectedly. This malfunction occurs when the idle start-stop feature cycles the engine from off to on, potentially leading to confusion for other drivers or pedestrians and increasing the risk of a crash.\nThe recall impacts the following vehicles:\n13,719 units and is in response to the vehicles' failure to comply with Federal Motor Vehicle Safety Standard number 108, which pertains to \"Lamps, Reflective Devices, and Associated Equipment.\"\nNissan will address the issue by updating the engine control module software at no cost to the vehicle owners. The company plans to send owner notification letters by September 17, 2025.\nOwners with questions can contact Nissan's customer service at 800-647-7261. The recall is identified by Nissan as R25C3.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->automotive",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->social problem",
+    "Social Issue->demographics",
+    "Social Issue->social condition",
+    "Science and Technology->mechanical engineering",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nhtsa.gov/?nhtsaId=25V508000",
+    "https://nhtsa.gov/?nhtsaId=25V508000",
+    "https://www.nhtsa.gov/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Nissan",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "NHTSA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Cincinnati"
+      ],
+      "state": [
+        "Ohio"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:45:52.039+03:00",
+  "updated": "2025-08-14T11:51:23.000+03:00"
+}

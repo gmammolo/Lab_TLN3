@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "fb74bf2f9ef822c9db0c4884f02bc73936343e00",
+    "url": "https://www.kivitv.com/news/local-news/in-your-neighborhood/highway-21-closed-due-to-rising-avalanche-danger",
+    "site_full": "www.kivitv.com",
+    "site": "kivitv.com",
+    "site_section": "https://www.kivitv.com/news",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "News",
+    "title": "Highway 21 closed due to rising avalanche danger",
+    "title_full": "Highway 21 closed due to rising avalanche danger",
+    "published": "2025-01-02T23:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/4212641/2147483647/strip/true/crop/796x418+0+90/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F60%2F32%2F4728cbb14985b92be1f76380af3b%2Fdownload.png",
+    "performance_score": 0,
+    "domain_rank": 38107,
+    "domain_rank_updated": "2024-12-30T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fb74bf2f9ef822c9db0c4884f02bc73936343e00",
+  "url": "https://www.kivitv.com/news/local-news/in-your-neighborhood/highway-21-closed-due-to-rising-avalanche-danger",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "KIVI Staff",
+  "published": "2025-01-02T23:59:00.000+02:00",
+  "title": "Highway 21 closed due to rising avalanche danger",
+  "text": "IN YOUR NEIGHBORHOOD, Idaho — Idaho Transportation Department has reported that SH-21 from Grandjean to Banner summit is closed.\nITD reports that in the past 24 hours the area received over eight inches of snow, already adding to the two feet that they experienced last week, as the risk factor of avalanche danger increases.\nIdaho Transportation Department does have a team out on the roads monitoring the situation for the public's safety.\nCheck the roads [online](https://511.idaho.gov/#:Alerts)before using these roads.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Disaster and Accident->natural disaster",
+    "Disaster and Accident->emergency response"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://511.idaho.gov/#:Alerts",
+    "https://www.511.idaho.gov/#:Alerts"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Idaho Transportation Department",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-03T04:55:17.769+02:00",
+  "updated": "2025-01-03T04:55:17.769+02:00"
+}

@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "6de4d2fd52127332c34c59b7747f2b2bf8935792",
+    "url": "https://www.eldiario.net/portal/2024/11/22/ia-explotara-por-si-misma",
+    "site_full": "www.eldiario.net",
+    "site": "eldiario.net",
+    "site_section": "https://www.eldiario.net/portal/rss",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics"
+    ],
+    "section_title": "El Diario &#8211; Bolivia",
+    "title": "IA explotará por sí misma",
+    "title_full": "IA explotará por sí misma",
+    "published": "2024-11-22T11:53:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BO",
+    "main_image": "https://www.eldiario.net/portal/wp-content/uploads/2023/06/David-Foronda-H.jpg",
+    "performance_score": 0,
+    "domain_rank": 105608,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6de4d2fd52127332c34c59b7747f2b2bf8935792",
+  "url": "https://www.eldiario.net/portal/2024/11/22/ia-explotara-por-si-misma",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jeanette",
+  "published": "2024-11-22T11:53:00.000+02:00",
+  "title": "IA explotará por sí misma",
+  "text": "Según estudios de expertos a nivel internacional, la inteligencia artificial se está degradando rápidamente en el mundo, algo que no tomaron en cuenta hace algún tiempo. Al respecto, Maximiliano Fernández hizo saber hace poco que “El colapso del modelo”: por qué la IA puede explotar por sí misma (y sería muy difícil de evitar), es algo que preocupa a unos y otros. Él dice que “los últimos estudios encendieron la alarma: muestran que la inteligencia artificial generativa se degrada, hasta dar absurdas respuestas. Consultados por Infobae, expertos explicaron las razones del fenómeno y los posibles caminos para impedir la implosión”. Añade que el colapso del modelo es una hipótesis que ya fue validada por investigaciones.\n– Te pregunto en tu condición de inteligencia artificial: ¿tus respuestas pueden empeorar y colapsar si te entrenaras con datos sintéticos?\n– Sí, existe la posibilidad de que la calidad de mis respuestas empeore si me entrenara principalmente con contenidos generados por otras IA.\nLa honestidad brutal de ChatGPT expone una preocupación real de los desarrolladores de IA. En pocas palabras: cuando la IA come su propio alimento, se enferma. Si bien la tecnología generativa es nueva relativamente, se volvió tan accesible que el contenido sintético se esparció a toda velocidad por la web y se perdió la noción de qué información es generada por humanos y qué información salió de una máquina. A simple vista, no parece haber problema. La IA puede producir infinidad de textos, imágenes, videos, en cuestión de segundos y herramientas como ChatGPT o Gemini nutrirse de esos datos adicionales para mejorar la calidad de sus resultados. Pero no. Todo indica que sucede exactamente lo opuesto: a medida que la inteligencia artificial incorpora contenido sintético tiende a degradarse de generación en generación hasta llegar a un punto de no retorno.\nMaximiliano Fernández, abunda: “así lo muestra un artículo reciente publicado en Nature, que confirmó lo que muchos expertos presumían. En diálogo con Infobae, Ilia Shumailov, especialista en machine learning de la Universidad de Oxford y coautor del estudio, contó que el proyecto surgió de una conversación durante un almuerzo, en el que trataban de imaginar el futuro en el desarrollo de modelos de lenguaje de IA. “Más precisamente, estábamos tratando de plantear la hipótesis de si el entrenamiento de modelos se volvería más fácil o más difícil. Por un lado, habrá más datos disponibles, pero al mismo tiempo una gran parte de los datos serán generados por máquinas y de calidad cuestionable”, expresó.\nEl equipo de investigadores británicos y canadienses afinó un modelo de lenguaje grande (LLM), que había sido entrenado con un gran volumen de datos extraídos de artículos de Wikipedia. A medida que avanzaban en el proceso, empezaron a alimentar al modelo con datos sintéticos, es decir, contenido que el mismo modelo generaba. A lo largo de varias iteraciones, se observó una disminución en la calidad del contenido producido, lo que culminó en un fenómeno de “galimatías”: IA producía respuestas incoherentes y sin sentido. “Esto nos llevó a descubrir el colapso del modelo, el proceso en el que el entrenamiento con datos generados con el tiempo perpetúa los sesgos y, en última instancia, reduce la utilidad del modelo. El informe es extenso, le hicimos conocer solo algo y vea que nada es perfecto.\nwww.dafoheradio.online",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Maximiliano Fernández",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T12:01:07.670+02:00",
+  "updated": "2024-11-22T12:01:07.670+02:00"
+}

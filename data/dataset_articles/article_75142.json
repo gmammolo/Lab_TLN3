@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "d0ef2a24906a91a933e293195788848ff8ac544c",
+    "url": "https://www.edaboard.com/threads/tmr0-tmr2-not-working.413105",
+    "site_full": "www.edaboard.com",
+    "site": "edaboard.com",
+    "site_section": "http://www.edaboard.com/external.php?type=RSS",
+    "site_categories": [
+      "law_government_and_politics",
+      "scuba_diving",
+      "sports",
+      "home_video_dvd",
+      "tech",
+      "bodybuilding",
+      "politics",
+      "hobbies_and_interests",
+      "painting"
+    ],
+    "section_title": "Forum for Electronics",
+    "title": "TMR0, TMR2 not working.",
+    "title_full": "TMR0, TMR2 not working.",
+    "published": "2024-11-22T11:10:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 76781,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d0ef2a24906a91a933e293195788848ff8ac544c",
+  "url": "https://www.edaboard.com/threads/tmr0-tmr2-not-working.413105",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "swapan (invalid@example.com)",
+  "published": "2024-11-22T11:10:00.000+02:00",
+  "title": "TMR0, TMR2 not working.",
+  "text": "[swapan](/members/swapan.206435/)\nFull Member level 4\nHi guys,\nWhile developing a simple code of blinking LED with PIC16F722A it is seen that TMR2 is not working. I have observed the code with Oshonsoft PIC simulator where TMR2 does not increase whereas program counter advances as usual. Interestingly, it is also seen that TMR0 is also not increases. Please see the code and suggest where is the bug. Incidentally, it is to state that configuration bit MCLR is disabled. The same code when developed with PIC16F72, works properly.\nsbit LED at RB2_Bit;\nunsigned char state;\nvoid interrupt() {\nif (TMR2IF_Bit == 1) {\nif (state == 1) {\nLED = 1;\nstate = 2;\nTMR2IF_Bit = 0;\n}\nelse {\nLED = 0;\nstate = 1;\nTMR2IF_Bit = 0;\n}\n}\nvoid main() {\nTRISA = 0x2F;\nTRISB = 0x21;\nTRISC = 0x2;\nOPTION_REG =0x80;\nANSELB= 0x21;\nINTCON = 0xC0;\nT2CON = 0x5A;\nTMR2ON_bit = 1;\nTMR2IE_bit = 1;\nPR2 = 128;\nLED = 1;\nstate = 2;\nwhile (1);\n}\nWhile developing a simple code of blinking LED with PIC16F722A it is seen that TMR2 is not working. I have observed the code with Oshonsoft PIC simulator where TMR2 does not increase whereas program counter advances as usual. Interestingly, it is also seen that TMR0 is also not increases. Please see the code and suggest where is the bug. Incidentally, it is to state that configuration bit MCLR is disabled. The same code when developed with PIC16F72, works properly.\nsbit LED at RB2_Bit;\nunsigned char state;\nvoid interrupt() {\nif (TMR2IF_Bit == 1) {\nif (state == 1) {\nLED = 1;\nstate = 2;\nTMR2IF_Bit = 0;\n}\nelse {\nLED = 0;\nstate = 1;\nTMR2IF_Bit = 0;\n}\n}\nvoid main() {\nTRISA = 0x2F;\nTRISB = 0x21;\nTRISC = 0x2;\nOPTION_REG =0x80;\nANSELB= 0x21;\nINTCON = 0xC0;\nT2CON = 0x5A;\nTMR2ON_bit = 1;\nTMR2IE_bit = 1;\nPR2 = 128;\nLED = 1;\nstate = 2;\nwhile (1);\n}\nLast edited:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:39:40.262+02:00",
+  "updated": "2024-11-22T11:39:40.262+02:00"
+}

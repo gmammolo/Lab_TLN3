@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "b50b83d6528390b60eb7091882f685db5d977732",
+    "url": "https://rpp.pe/tecnologia/facebook/mark-zuckerberg-autorizo-uso-de-libros-piratas-para-entrenar-la-ia-de-meta-segun-documentos-judiciales-noticia-1609032",
+    "site_full": "rpp.pe",
+    "site": "rpp.pe",
+    "site_section": "https://rpp.pe/rss",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_pe",
+      "top_news_cl",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "RPP NOTICIAS",
+    "title": "Mark Zuckerberg autorizó uso de libros piratas para entrenar la IA de Meta, según documentos judiciales",
+    "title_full": "Mark Zuckerberg autorizó uso de libros piratas para entrenar la IA de Meta, según documentos judiciales",
+    "published": "2025-01-09T22:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PE",
+    "main_image": "https://e.rpp-noticias.io/large/2025/01/09/160416_1690443.webp",
+    "performance_score": 0,
+    "domain_rank": 16972,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b50b83d6528390b60eb7091882f685db5d977732",
+  "url": "https://rpp.pe/tecnologia/facebook/mark-zuckerberg-autorizo-uso-de-libros-piratas-para-entrenar-la-ia-de-meta-segun-documentos-judiciales-noticia-1609032",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alberto Nishiyama",
+  "published": "2025-01-09T22:55:00.000+02:00",
+  "title": "Mark Zuckerberg autorizó uso de libros piratas para entrenar la IA de Meta, según documentos judiciales",
+  "text": "Documentos judiciales indican que el CEO de Meta autorizó el uso de libros pirateados para entrenar sus modelos de IA, pese a advertencias internas sobre riesgos legales.\nMark Zuckerberg autorizó expresamente que el equipo de Meta encargado de desarrollar Llama, su modelo de inteligencia artificial, utilizara una base de datos de libros y artículos pirateados para el entrenamiento, según revelan nuevos documentos judiciales presentados ante una corte federal de California, reportó TechCrunch.\nLos documentos, recientemente desclasificados en el marco de la demanda Kadrey v. Meta, muestran que el CEO de Meta aprobó el uso de LibGen, un conocido repositorio de contenido pirateado, a pesar de las preocupaciones expresadas por ejecutivos y miembros del equipo de IA de la compañía.\nMeta, IA y torrents\nLibGen, que se describe a sí mismo como un \"agregador de enlaces\", proporciona acceso no autorizado a obras protegidas por derechos de autor de importantes editoriales como Cengage Learning, Macmillan Learning, McGraw Hill y Pearson Education. El sitio ha enfrentado múltiples demandas, órdenes de cierre y multas millonarias por violación de derechos de autor.\nSegún el testimonio de Meta, citado por los abogados de los demandantes, Zuckerberg autorizó el uso de LibGen para entrenar al menos uno de los modelos Llama, ignorando las advertencias internas. Los documentos citan a empleados de Meta refiriéndose a LibGen como un \"conjunto de datos que sabemos que está pirateado\" y señalando que su uso \"podría socavar la posición negociadora (de Meta) con los reguladores\".\nLa revelación más preocupante es que Meta aparentemente intentó ocultar su infracción eliminando sistemáticamente la información de derechos de autor. Nikolay Bashlykov, ingeniero del equipo de investigación de Llama, escribió un script para eliminar información de derechos de autor, incluyendo las palabras \"copyright\" y \"acknowledgments\" de los libros electrónicos en LibGen.\nLos documentos también revelan que Meta utilizó la torrents para descargar desde LibGen, una práctica que generó inquietud entre algunos ingenieros de investigación. El torrenting requiere que los usuarios simultáneamente \"siembren\" o suban los archivos que están intentando obtener, lo que efectivamente convirtió a Meta en participante activo en la distribución de contenido pirateado.\nAhmad Ah-Dahle, jefe de IA generativa de Meta, desestimó las preocupaciones de Bashlykov sobre la legalidad del uso de torrents. Los abogados de los demandantes argumentan que esta decisión de Meta de eludir los métodos legales de adquisición de libros y participar en una red de torrents ilegal constituye una prueba adicional de violación de derechos de autor.\nAunque el caso contra Meta está lejos de resolverse y solo se refiere a los primeros modelos Llama, las alegaciones han generado serias dudas sobre las prácticas éticas de la empresa. El juez Vince Chhabria, quien preside el caso, rechazó la solicitud de Meta de mantener en secreto grandes partes de la presentación, señalando que el intento de la empresa parecía diseñado para evitar publicidad negativa más que para proteger información comercial sensible.\nComparte esta noticia",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Crime, Law and Justice->law",
+    "Crime, Law and Justice->corporate crime",
+    "Science and Technology->biomedical science",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->corporate governance and csr",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T00:08:31.195+02:00",
+  "updated": "2025-01-10T00:08:31.195+02:00"
+}

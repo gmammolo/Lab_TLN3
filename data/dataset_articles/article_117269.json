@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "a5f7e0e5bffe385f731fe1914562dfe135c56a04",
+    "url": "https://www.ondacero.es/noticias/eltiempo/lluvias-tormentas-estas-son-provincias-que-activan-aviso-naranja-este-jueves_2025082868b00a386dcbcd3be243e685.html",
+    "site_full": "www.ondacero.es",
+    "site": "ondacero.es",
+    "site_section": "https://www.ondacero.es/noticias",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Noticias: Toda la información y actualidad de última hora en Onda Cero | Onda Cero Radio",
+    "site_title": "Onda Cero: Radio online, noticias última hora y podcast | Onda Cero Radio",
+    "title": "Lluvias y tormentas: estas son las provincias que activan el aviso naranja este jueves",
+    "title_full": "Lluvias y tormentas: estas son las provincias que activan el aviso naranja este jueves",
+    "published": "2025-08-28T10:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://image.ondacero.es/clipping/cmsimages02/2025/08/28/B8A204D8-B7DC-42A6-8C0B-10528726776C/lluvias-tormentas-estas-son-provincias-que-activan-aviso-naranja-este-jueves_69.jpg?crop=3389,1906,x0,y0&width=1280&height=720&optimize=low&format=jpg",
+    "performance_score": 0,
+    "domain_rank": 11035,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a5f7e0e5bffe385f731fe1914562dfe135c56a04",
+  "url": "https://www.ondacero.es/noticias/eltiempo/lluvias-tormentas-estas-son-provincias-que-activan-aviso-naranja-este-jueves_2025082868b00a386dcbcd3be243e685.html",
+  "ord_in_thread": 0,
+  "author": "radio onda cero",
+  "published": "2025-08-28T10:51:00.000+03:00",
+  "title": "Lluvias y tormentas: estas son las provincias que activan el aviso naranja este jueves",
+  "text": "La entrada de una vaguada atlántica está dejando inestabilidad en el nordeste de la península. Este jueves hay un total de 16 provincias bajo alerta por precipitaciones, tormentas, oleaje y algunas otras, más allá de la vaguada, por altas temperaturas. De estos 16 avisos, cuatro de ellos son de nivel naranja, lo que conlleva un riesgo importante por lluvia y tormentas.\nLa inestabilidad, por tanto, persistirá por todo el norte peninsular y Baleares por culpa de este fenómeno climático que dejará estos avisos durante todo el día. Mientras que en el resto del tercio peninsular se pueden ir abriendo claros.\nAviso naranja por culpa de las lluvias y tormentas\nLa Agencia Estatal de Meteorología (AEMET) ha activado estos avisos de riesgo importante en zonas que ya se han visto afectadas durante estos últimos días,como el interior de Castellón, en la Comunidad Valenciana, Barcelona y Girona, además las precipitaciones llegarán a las Islas Baleares, en concreto a Mallorca y Menorca, con valores máximos de hasta 40 litros por metro cuadrado.\nOtros avisos más leves, de nivel amarillo, están activos en Valencia, Lleida, Tarragona y Huesca, por lluvias y tormentas. En Cantabria, Navarra, Vizcaya y Guipúzcoa también están bajo aviso, pero en este caso solo por lluvias que pueden dejar hasta 15 litros por metro cuadrado.\nEl oleaje también supondrá un problema, aunque no en estas mismas zonas. Las zonas que están sobre aviso por culpa de sus costas son las de Málaga, Almería y Granada, donde la AEMET alerta de olas de hasta tres metros por los vientos de oeste que podrán alcanzar de 50 a 60 kilómetros por hora.\nEn el resto de la península, aunque no se descartan los chubascos, tendrán un carácter ocasional. Por ello, a lo largo del día se irán abriendo claros para dar paso a una subida térmica a lo largo del fin de semana, calor que incluso ya está dejando zonas sobre aviso como Alicante, donde los termómetros llegarán a marcar los 36 grados.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Environment->environmental pollution",
+    "Environment->water",
+    "Environment->climate change"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Comunidad Valenciana",
+        "sentiment": "none"
+      },
+      {
+        "name": "Castellón",
+        "sentiment": "none"
+      },
+      {
+        "name": "Baleares",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mallorca",
+        "sentiment": "none"
+      },
+      {
+        "name": "Menorca",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "AEMET",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T10:56:15.897+03:00",
+  "updated": "2025-08-28T11:02:17.000+03:00"
+}

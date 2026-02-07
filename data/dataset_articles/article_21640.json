@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "4874369f20b497bed068b210a80e9546f61d72ca",
+    "url": "https://m.farms.com/news/our-robot-harvests-cotton-by-reaching-out-and-plucking-it-like-a-lizard-s-tongue-snatching-flies-207253.aspx",
+    "site_full": "m.farms.com",
+    "site": "farms.com",
+    "site_section": "https://www.farms.com",
+    "site_categories": [],
+    "section_title": "Farms.com – Latest agriculture information, farming news, commentary, weather, auctions, markets & new products portal\r\n",
+    "title": "Our Robot Harvests Cotton by Reaching Out and Plucking It, Like a Lizard`s Tongue Snatching Flies | Farms.com",
+    "title_full": "Our Robot Harvests Cotton by Reaching Out and Plucking It, Like a Lizard`s Tongue Snatching Flies | Farms.com",
+    "published": "2024-02-16T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 56574,
+    "domain_rank_updated": "2024-02-13T12:06:46.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4874369f20b497bed068b210a80e9546f61d72ca",
+  "url": "https://m.farms.com/news/our-robot-harvests-cotton-by-reaching-out-and-plucking-it-like-a-lizard-s-tongue-snatching-flies-207253.aspx",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Base",
+  "published": "2024-02-16T02:00:00.000+02:00",
+  "title": "Our Robot Harvests Cotton by Reaching Out and Plucking It, Like a Lizard`s Tongue Snatching Flies | Farms.com",
+  "text": "By Hussein Gharakhani Cotton is one of the most valuable crops grown in the U.S., with a harvest value of some US$7 billion yearly. It is cultivated across a crescent of 17 states stretching from Virginia to California and is used in virtually every type of clothing, as well as in medical supplies and home goods such as upholstery. Cotton grows inside a hard, fibrous case called a boll. About 100 days after planting, the bolls mature and split open, revealing thousands of fluffy white fibers inside. Each boll contains 20 to 40 seeds with fibers attached to them, which is why the cotton plant's fruit is called seed cotton. Picking cotton manually, as is still done in some major producing countries, is a meticulous task. Workers have to bend to reach the bolls and can hurt their hands on hard, dry parts of the plants. To harvest the seed cotton, they have to grab and twist it to separate it from the boll without leaving fiber behind. Starting in the 1930s, cotton farmers in the U.S. shifted from manual labor to large, heavy harvesters. Now the industry is entering a new stage that promises to be more efficient and precise. I am an engineer and have nearly 20 years of research experience working on agricultural machinery. My current focus is on agricultural robotics and automation. During my Ph.D. program at Mississippi State University, I worked with Alex Thomasson, who heads the agricultural and biological engineering department and the Agricultural Autonomy Institute, to develop a robotic cotton harvester that picks cotton with less damage to the product and the soil where it grows. Cotton farmers have economic, environmental and agricultural reasons to want a better option for harvesting. Traditional mechanical harvesters can be up to 14 feet long and weigh more than 30 tons. They remove cotton effectively without damaging the plants but also can cause problems. One issue is prolonged fiber exposure. Cotton bolls don't all mature at the same time; the first open bolls in a field may wait for up to 50 days to be picked, until more bolls around them ripen. Another challenge is that harvesting machines compact the soil as they roll over it. This makes it harder for water and fertilizer to penetrate down to plant roots. And the machines cost roughly US$1 million apiece but are used for only two to three months each year. Robotics is a potential solution that farmers are already using for other crops, such as fruits and vegetables. Harvesting robots use cameras and sensors to detect when crops are ready to pick and can remove them without damaging the plant. For cotton, robotics offers more targeted picking of bolls that are ready to harvest. It produces better-quality cotton fiber by picking seed cotton as soon as the bolls open, without leaving it exposed to the weather. The robot targets the seed cotton and avoids touching other parts of the plant. With robotic picking, cotton farmers don't need to use defoliants to remove leaves from the plants prior to harvesting, which is a common practice now. And small, nimble robots don't compress the soil as they move over it, so they help maintain soil health. Our work focuses on designing an end-effector for robotic cotton harvesting. An end-effector is a robotic hand that enables the robot to interact with other objects. Ours is a three-fingered version designed for delicate and efficient cotton picking. It draws inspiration from nature, mimicking the hunting prowess of a lizard. Each finger is a 3D-printed structure that contains a moving belt with pins attached to it. The pins help the hand grasp and pull in the seed cotton. Like a lizard snatching prey with its sticky tongue, our end-effector's three fingers approach the seed cotton delicately. On contact, the cotton fibers stick to the machine's fingers, much as an insect sticks to a lizard's tongue. Next, the hand retracts quickly, like the lizard's tongue. The end-effector keeps working to \"swallow\" the seed cotton, transferring it out of the plant. As the harvester picks and transfers seed cotton out of the plant, the end-effector touches parts of the cotton boll with remaining seed cotton multiple times to pick as much as possible. To pick cotton efficiently, our robot has to do three things: detect bolls that are ready for harvest, determine exactly where they are located in a three-dimensional space and pick the cotton. The robot uses a deep-learning algorithm that we have trained to recognize open bolls on cotton plants. It uses a stereovision camera to calculate their 3D spatial coordinates, which it transfers to the robotic arm. A control algorithm monitors each cotton boll to ensure that the robot picks as much seed cotton as possible. So far, we have tested the robotic cotton harvester in the laboratory and in cotton fields. The detection system found 78% of ripe cotton bolls; the localization system calculated 3D coordinates for 70% of the detected bolls; and the picking system successfully harvested 83% of these bolls. Overall, the robot picked about 50% of the cotton bolls that were within its reach. Our harvester picked cotton at a speed of 8.8 seconds per boll. If we can decrease this required time to 0.3 seconds and increase the robot's efficiency to pick at least 90% of the cotton bolls it can reach, by optimizing the system and adding more arms on a robot, a fleet of 50 robots could harvest a cotton field as quickly as a mechanical harvester, with a comparable yield. To improve the robot's overall performance, we plan to adopt better artificial intelligence algorithms, improve our system's camera and add another degree of movement to the robotic arm - for example, enabling the end-effector to rotate - to increase its dexterity. We see great potential for our robot in major cotton-producing countries such as China, India, Pakistan and Uzbekistan, where cotton is currently picked by hand, often by women and children and sometimes under abusive conditions. One way to make this technology available for small farmers in low-income countries would be to make smaller, semi-autonomous robots that would require fewer sensors. Producing higher-value cotton with less damage to plants and soil could improve life for millions of people who earn their livings raising this global crop.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "hussein gharakhani cotton",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      },
+      {
+        "name": "virginia",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-02-16T09:31:13.554+02:00",
+  "updated": "2024-02-16T09:31:13.554+02:00"
+}

@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "0a7d8cd85642d6ac056afa8f223e4913d23a571c",
+    "url": "https://fullcircle.asu.edu/research/ash-in-the-sky-water-on-the-run/",
+    "site_full": "fullcircle.asu.edu",
+    "site": "asu.edu",
+    "site_section": "https://fullcircle.asu.edu/external",
+    "site_categories": [
+      "graduate_school",
+      "education"
+    ],
+    "section_title": "News Items Archive",
+    "site_title": "ASU Homepage | Arizona State University",
+    "title": "Ash in the sky, water on the run",
+    "title_full": "Ash in the sky, water on the run",
+    "published": "2025-09-30T21:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "http://fullcircle.asu.edu/wp-content/uploads/2025/09/SCAI-Paul-Grobin-2025-EG-7208-w_1920x1080.jpg",
+    "performance_score": 0,
+    "domain_rank": 2158,
+    "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0a7d8cd85642d6ac056afa8f223e4913d23a571c",
+  "url": "https://fullcircle.asu.edu/research/ash-in-the-sky-water-on-the-run/",
+  "ord_in_thread": 0,
+  "author": "Kelly deVos",
+  "published": "2025-09-30T21:55:00.000+03:00",
+  "title": "Ash in the sky, water on the run",
+  "text": "Ash in the sky, water on the run\nAn ASU-led “system of systems” is turning space into a responsive partner for life on Earth\nPaul Grogan, an associate professor of industrial engineering in the School of Computing and Augmented Intelligence, part of the Ira A. Fulton Schools of Engineering at Arizona State University, points to the pathways of satellite constellations that orbit the Earth. Grogan is working to find innovative ways to get existing Earth-observing assets to work together to create better systems for emergency response, national defense and more. Photographer: Erika Gronek/ASU\nWildfire smoke curls over a mountain range. A river swells over its banks after days of heavy rain. These events can unfold in hours, sometimes minutes. And by the time emergency managers receive satellite imagery, the situation has already changed.\nPaul Grogan, an associate professor of industrial engineering in the School of Computing and Augmented Intelligence, part of the Ira A. Fulton Schools of Engineering at Arizona State University, is working to change that.\nHis research develops ways for satellites to respond to fast-changing events like fires and floods, not just record them after the fact.\n“Just as internet access transformed how we operate on Earth, we’re on the cusp of seeing the same transformation in space,” Grogan says. “Networked systems will change everything from Earth observation missions to human exploration.”\nThe challenge: slow, siloed space systems\nHistorically, satellites have run like clockwork: fixed schedules, isolated missions and pre-set data deliveries. That’s fine for tracking seasonal snowpack or long-term climate trends, but it’s too slow for the chaos of a flash flood or the unpredictable path of a wildfire.\nGrogan says both environmental scientists and the defense community face similar pressures: integration, intelligence and affordability. Researchers are trying to make systems work together and do more with limited resources.\n“In the Earth science community, budgets have been flat or shrinking. In defense, budgets are bigger, but the scope has exploded,” he explains. “The answer for both is the same. Find ways to connect systems that weren’t designed to work together and make them act like a single, smart team.”\nA “system of systems” for rapid response\nGrogan’s solution is the Novel Observing Strategies Testbed, or NOS-T, a software environment that allows satellites, forecasting models, ground sensors and data services to communicate like a single, distributed mission.\nInstead of each satellite working alone, NOS-T uses modern information technology, sort of like a real-time group chat for spacecraft, to coordinate actions. One satellite can trigger another to collect a targeted image. A forecasting model can call for new data when it spots trouble ahead.\nEmmanuel Gonzalez, a Fulton Schools assistant research scientist, helps make sure that mission can withstand the messiness of the real world. His work strengthens the NOS-T tools library, improving the way applications talk to each other so the system stays resilient when satellites lose connectivity or ground stations go offline.\n“Just because we have satellites doesn’t mean they’re automatically useful,” Gonzalez says. “The real challenge is transforming all that raw data into information people can act on.”\nFlood forecasting in action\nFloods don’t happen in a vacuum. They build from rainfall, soil conditions, snowmelt and topography. In a pilot project, Grogan’s team connected data from unrelated sources.\nIn one flood-forecasting demonstration, Grogan’s team combined several independent tools into a single, responsive network. They started with NASA’s hydrology models, which forecast river and soil moisture levels, then incorporated ground-based soil sensors that had been upscaled to cover wider areas. To capture visual confirmation, they tapped commercial satellite imagery from providers like Planet.\nFinally, they used a cloud-based ground station to intercept satellite data before it reached public databases, giving emergency planners access to critical images hours earlier than traditional systems. When the model predicted possible flooding, NOS-T simulated sending a task request to a commercial imaging satellite to capture high-resolution images of the at-risk area.\n“We’re composing things that were not meant to work together,” Grogan says. “Once you have an information system that routes the data between them, you can make them all more useful for a particular mission.”\nAfter the flames: preventing disaster’s second wave\nWildfires are devastating enough. But what comes next can be deadly, too. Burn scars leave hillsides stripped of vegetation, making them prone to landslides when rain returns.\nGrogan’s team adapted NOS-T to this problem, tapping research from the University of Maryland researcher that mapped burn scar risk areas. When rain was forecast over one of these regions, the system would request imagery from Capella Space’s high-resolution radar satellites to look for changes on the ground.\nAlthough no landslides occurred during the demonstration, the test showed how quickly the system could shift focus to new hazards.\nSpeed matters\nIn both cases, the ability to act quickly is crucial. With NOS-T, new data requests can be triggered automatically. That speed isn’t just nice to have. In fast-moving disasters, it can mean earlier evacuations, more precise resource deployment and lives saved.\n“This is work that doesn’t fit neatly in a traditional academic department,” Grogan says. “But it’s work that’s absolutely necessary if we want space systems to adapt as quickly as the problems they’re trying to solve.”\nFor this, researchers like Grogan partner with Scott Smas, associate director of the ASU School of Earth and Space Exploration. Smas also helps lead ASU NewSpace, a Knowledge Enterprise initiative that builds partnerships between ASU researchers and the growing commercial space industry.\n“Our role is to connect faculty with industry and funding opportunities and to make collaboration possible,” Smas says.\nHe’s now working to expand those connections through the U.S. Space Command Academic Engagement Enterprise, helping position Arizona in the commercial and defense space sectors.\n“Space Command is being asked to manage an ever-expanding domain, from Earth orbit to lunar orbit and beyond,” Smas says. “It’s a responsibility where ASU’s expertise can make a real impact.”\nPreparing for uncertain futures\nAt its core, Grogan’s research is industrial engineering applied to the challenges of space. It’s about designing processes that can operate under uncertainty, with plans that automatically update when conditions change. It involves engineering clear communication interfaces so satellites and sensors can share data seamlessly, no matter who built them or when they were launched.\nIt’s also about scaling up, solving the orbital-scale logistics problem of coordinating ever-growing satellite “mega-constellations.” And it draws on proven methods from other industries, adapting patterns from smart factories and cloud computing to create space missions that are faster, more flexible and more resilient.\nWhen the next big fire burns or the next river threatens to overflow, Grogan envisions a space network that doesn’t just watch from above. It joins the fight. Satellites will talk to each other, share data instantly and focus their attention where it matters most.\n“Things are changing really, really quickly,” Grogan says. “The need for this kind of work is clear. And the time to build it is now.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->aerospace engineering",
+    "Science and Technology->technology and engineering",
+    "Environment->water",
+    "Social Issue->mankind"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.planet.com/",
+    "https://www.spacecom.mil/Partnerships-and-Outreach/Academic-Engagement-Enterprise/",
+    "https://www.capellaspace.com/",
+    "https://www.spacecom.mil/Partnerships-and-Outreach/Academic-Engagement-Enterprise",
+    "https://capellaspace.com/",
+    "https://www.capellaspace.com",
+    "https://planet.com/",
+    "https://spacecom.mil/Partnerships-and-Outreach/Academic-Engagement-Enterprise/",
+    "https://www.planet.com"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Erika Gronek",
+        "sentiment": "none"
+      },
+      {
+        "name": "Paul Grogan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Arizona State University",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-09T07:41:28.947+03:00",
+  "updated": "2025-10-09T07:46:56.000+03:00"
+}

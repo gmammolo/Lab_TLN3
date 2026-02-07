@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "86db6266c90eff0f1d31fd15465ce6cfdd3191e6",
+    "url": "https://itc.ua/en/news/chatgpt-returns-the-choice-of-models-but-it-s-not-that-simple/",
+    "site_full": "itc.ua",
+    "site": "itc.ua",
+    "site_section": "https://news.google.com/search?q=but%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "Последние новости в сфере технологий, науки и кино на ITC.ua",
+    "title": "ChatGPT returns the choice of models, but it's not that simple",
+    "title_full": "ChatGPT returns the choice of models, but it's not that simple",
+    "published": "2025-08-14T10:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "UA",
+    "main_image": "https://itc.ua/wp-content/uploads/2025/08/GyMfFg1WMAAl-ah.webp",
+    "performance_score": 0,
+    "domain_rank": 21750,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "86db6266c90eff0f1d31fd15465ce6cfdd3191e6",
+  "url": "https://itc.ua/en/news/chatgpt-returns-the-choice-of-models-but-it-s-not-that-simple/",
+  "ord_in_thread": 0,
+  "author": "@Vadimius",
+  "published": "2025-08-14T10:55:00.000+03:00",
+  "title": "ChatGPT returns the choice of models, but it's not that simple",
+  "text": "Last week OpenAI has launched a new AI model GPT-5 although not all users liked it. Many people complained that the GPT-5 version had lost its creativity and personality and began to resemble an office clerk. In response to these complaints, the company promised make it possible to choose your favorite model. And now OpenAI has added a new feature to ChatGPT — the ability to choose between several GPT-5 variants, and also returned the GPT-4o model for paid users by default.\nThe company’s CEO, Sam Altman, in a post on X saidWe’re pleased to announce that users now see three GPT-5 modes in the model selector: Auto, Fast, and Thinking.\nAuto — is a universal option that determines when a quick response is needed and when more computing resources should be used for deeper analysis. Fast emphasizes the speed of the response, even if it is less detailed. Suitable for short requests, drafts, or generating ideas on the fly. Thinking —, on the contrary, is focused on the most in-depth, reasoned, and detailed answer, which requires more time and resources. It is ideal for complex technical tasks, working with large code, or analytical reports. According to Altman, most users will want to use the Auto mode.\nAt the same time, the GPT-4o model, which was removed with the release of the GPT-5, is now available again in the selection menu. Altman promised that in the future, if the GPT-4o is scheduled to be removed again, users will receive a timely warning.\nIn the settings of the ChatGPT web version, a “Show additional models” switch has appeared, which opens access to the o3, 4.1, and GPT-5 Thinking mini versions. It is worth noting that GPT-4.5 is available only to Pro subscribers with a $200 per month tariff, as it requires significant computing resources (GPU).\nFor the GPT-5 Thinking model, a weekly limit of 3000 messages has been set, after which only the GPT-5 Thinking mini version is available to the user. OpenAI is also working to make the GPT-5 style warmer, but not as warm as the GPT-4o, so that it remains pleasant to most users and effective at the same time.\nSource: engadget",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social networking",
+    "Social Issue->social condition",
+    "Social Issue->adults"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Sam Altman",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:00:04.627+03:00",
+  "updated": "2025-08-14T13:08:37.334+03:00"
+}

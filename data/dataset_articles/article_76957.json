@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "14abd48e159c3ac08180f8e78d16949ef2ae4514",
+    "url": "https://winfuture.de/news,152929.html",
+    "site_full": "winfuture.de",
+    "site": "winfuture.de",
+    "site_section": "https://static.winfuture.de/feeds/winfuture-news-rss2.0.xml",
+    "site_categories": [
+      "windows",
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "WinFuture News",
+    "site_title": "WinFuture.de - Die ganze Welt der IT",
+    "title": "Windows-Wiederherstellung gefährdet verschlüsselte Nutzer-Daten",
+    "title_full": "Windows-Wiederherstellung gefährdet verschlüsselte Nutzer-Daten",
+    "published": "2025-08-14T09:41:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://img.winfuture.de/teaser/1920/42496.png",
+    "performance_score": 0,
+    "domain_rank": 10824,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "14abd48e159c3ac08180f8e78d16949ef2ae4514",
+  "url": "https://winfuture.de/news,152929.html",
+  "ord_in_thread": 0,
+  "author": "Christian Kahle",
+  "published": "2025-08-14T09:41:00.000+03:00",
+  "title": "Windows-Wiederherstellung gefährdet verschlüsselte Nutzer-Daten",
+  "text": "Windows-Wiederherstellung gefährdet verschlüsselte Nutzer-Daten\nAuf den Sicherheitskonferenzen Black Hat USA 2025 und DefCon hat das Microsoft-Team für \"Security Testing & Offensive Research\" (STORM) neue Sicherheitslücken in der Windows-Wiederherstellungsumgebung (WinRE) demonstriert.\nBitLocker, in Windows teils auch als \"Device Encryption\" bezeichnet, schützt gespeicherte Daten mittels vollständiger Laufwerksverschlüsselung (Full Volume Encryption, FVE) vor physischen Zugriffen, etwa wenn ein Gerät entwendet wird. Um sicherzustellen, dass WinRE auch bei verschlüsselten Systemlaufwerken funktionsfähig bleibt und den Nutzern bei größeren Problemen weiterhelfen kann, hatte Microsoft in der Vergangenheit allerdings mehrere Anpassungen vorgenommen.\nDazu zählen die Auslagerung der Datei WinRE.wim in eine unverschlüsselte Wiederherstellungspartition, die Einführung des \"Trusted WIM Boot\" zur Integritätsprüfung der Wiederherstellungsdatei sowie ein Mechanismus, der den Zugriff auf das Laufwerk erneut sperrt, wenn riskante Werkzeuge wie die Eingabeaufforderung genutzt werden.\nLaut den hauseigenen Forschern wird WinRE nach erfolgreicher Integritätsprüfung automatisch entsperrt und kann dabei auf ungeschützte Partitionen wie die EFI-Systempartition und die Wiederherstellungspartition zugreifen. Genau in diesem Prozess fanden sie mehrere Schwachstellen, die erst durch die BitLocker-bedingten Änderungen an WinRE überhaupt relevant geworden seien.\nDie Sicherheitslücken sind unter den Kennungen CVE-2025-48800, CVE-2025-48003, CVE-2025-48804 und CVE-2025-48818 erfasst. Geschlossen wurden sie mit Patches, die im Juli für\nSiehe auch:\nEs ist kompliziert\nDie entdeckten Schwachstellen ermöglichen es Angreifern, den Festplattenverschlüsselungsdienst BitLocker zu umgehen und auf eigentlich geschützte Benutzerdaten zuzugreifen. WinRE lässt sich leicht starten - etwa durch Gedrückthalten der Umschalttaste beim Klick auf \"Neu starten\" am Windows-Anmeldebildschirm.BitLocker, in Windows teils auch als \"Device Encryption\" bezeichnet, schützt gespeicherte Daten mittels vollständiger Laufwerksverschlüsselung (Full Volume Encryption, FVE) vor physischen Zugriffen, etwa wenn ein Gerät entwendet wird. Um sicherzustellen, dass WinRE auch bei verschlüsselten Systemlaufwerken funktionsfähig bleibt und den Nutzern bei größeren Problemen weiterhelfen kann, hatte Microsoft in der Vergangenheit allerdings mehrere Anpassungen vorgenommen.\nDazu zählen die Auslagerung der Datei WinRE.wim in eine unverschlüsselte Wiederherstellungspartition, die Einführung des \"Trusted WIM Boot\" zur Integritätsprüfung der Wiederherstellungsdatei sowie ein Mechanismus, der den Zugriff auf das Laufwerk erneut sperrt, wenn riskante Werkzeuge wie die Eingabeaufforderung genutzt werden.\nLaut den hauseigenen Forschern wird WinRE nach erfolgreicher Integritätsprüfung automatisch entsperrt und kann dabei auf ungeschützte Partitionen wie die EFI-Systempartition und die Wiederherstellungspartition zugreifen. Genau in diesem Prozess fanden sie mehrere Schwachstellen, die erst durch die BitLocker-bedingten Änderungen an WinRE überhaupt relevant geworden seien.\nPatches verfügbar\nMicrosoft rät Nutzern, den Einsatz eines TPM-Chips mit zusätzlicher PIN-Abfrage vor dem Systemstart zu aktivieren. So werde die Abhängigkeit vom automatischen Entsperren reduziert. Zudem empfiehlt der Konzern, die unterKB5025885dokumentierte \"REVISE\"-Absicherung gegen Downgrade-Angriffe einzurichten.Die Sicherheitslücken sind unter den Kennungen CVE-2025-48800, CVE-2025-48003, CVE-2025-48804 und CVE-2025-48818 erfasst. Geschlossen wurden sie mit Patches, die im Juli für\nWindows 10und Windows 11 bereitgestellt wurden. Da Microsoft kumulative Updates veröffentlicht, sind die Korrekturen auch im August-Update enthalten, das in dieser Woche erschien. Die detaillierte technische Analyse hat Microsoft imoffiziellen Sicherheitsblogveröffentlicht.\nZusammenfassung\n- Microsoft-Team STORM entdeckt Sicherheitslücken in Windows-WinRE\n- Schwachstellen ermöglichen Umgehung der BitLocker-Verschlüsselung\n- Angreifer können auf eigentlich geschützte Benutzerdaten zugreifen\n- Microsoft empfiehlt TPM-Chip mit zusätzlicher PIN-Abfrage\n- Sicherheitslücken wurden mit Juli-Updates für Windows 10 und 11 geschlossen\n- Korrekturen sind auch in den aktuellen August-Updates enthalten\n- Detaillierte technische Analyse im offiziellen Microsoft-Sicherheitsblog\nSiehe auch:\nThema:\nWindows 10 im Preisvergleich:\nBeiträge aus dem Forum\n-\nWindows 10 ESU\nMSFreak- Heute 14:51 Uhr -\nAndroid App für den Shutdown\ntelex- 10.08. 13:00 Uhr -\nRobocopy mit Filter Dateigrößen\nEmKa262- 29.07. 15:19 Uhr -\n- -\nOutlook Frage\nEiserne_Faust- 14.07. 23:33 Uhr\n❤ WinFuture unterstützen\nSie wollen online einkaufen?\nDann nutzen Sie bitte einen der folgenden Links,\num WinFuture zu unterstützen:",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.winfuture-forum.de/index.php?act=ST&f=1&t=229572&view=getlastpost",
+    "https://www.winfuture-forum.de/index.php?showuser=102319",
+    "https://www.winfuture-forum.de/index.php?showuser=47655",
+    "https://www.winfuture-forum.de/index.php?showuser=72353",
+    "https://techcommunity.microsoft.com/blog/microsoft-security-blog/bitunlocker-leveraging-windows-recovery-to-extract-bitlocker-secrets/4442806",
+    "https://support.microsoft.com/en-us/topic/kb5025885-how-to-manage-the-windows-boot-manager-revocations-for-secure-boot-changes-associated-with-cve-2023-24932-41a975df-beb2-40c1-99a3-b3ff139f832d",
+    "https://www.winfuture-forum.de/index.php?act=ST&f=1&t=229557&view=getlastpost",
+    "https://www.winfuture-forum.de/index.php?act=ST&f=1&t=229554&view=getlastpost",
+    "https://www.winfuture-forum.de/index.php?act=ST&f=1&t=226683&view=getlastpost",
+    "https://www.winfuture-forum.de/index.php?showuser=111148",
+    "https://www.winfuture-forum.de/index.php",
+    "https://winfuture-forum.de/index.php?showuser=72353",
+    "https://www.support.microsoft.com/en-us/topic/kb5025885-how-to-manage-the-windows-boot-manager-revocations-for-secure-boot-changes-associated-with-cve-2023-24932-41a975df-beb2-40c1-99a3-b3ff139f832d",
+    "https://winfuture-forum.de/index.php?act=ST&f=1&t=229572&view=getlastpost",
+    "https://winfuture-forum.de/index.php?act=ST&f=1&t=229557&view=getlastpost",
+    "https://winfuture-forum.de/index.php?act=ST&f=1&t=226683&view=getlastpost",
+    "https://winfuture-forum.de/index.php?act=ST&f=1&t=229554&view=getlastpost",
+    "https://www.techcommunity.microsoft.com/blog/microsoft-security-blog/bitunlocker-leveraging-windows-recovery-to-extract-bitlocker-secrets/4442806",
+    "https://winfuture-forum.de/index.php?showuser=47655",
+    "https://winfuture-forum.de/index.php?showuser=111148",
+    "https://winfuture-forum.de/index.php?showuser=102319"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "USA",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Security Testing & Offensive Research",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "BitLocker",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Microsoft",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "MSFT",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "FVE",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:47:37.307+03:00",
+  "updated": "2025-08-14T09:50:28.000+03:00"
+}

@@ -1,0 +1,67 @@
+{
+  "thread": {
+    "uuid": "82ce9f5b44e01e6cd7758e62fcc05f17499fba08",
+    "url": "https://time.news/when-to-observe-the-largest-supermoon-of-2024-in-guatemala",
+    "site_full": "time.news",
+    "site": "time.news",
+    "site_section": "https://www.time.news",
+    "site_categories": [],
+    "section_title": "TIme News - time.news",
+    "title": "When to observe the largest supermoon of 2024 in Guatemala?",
+    "title_full": "When to observe the largest supermoon of 2024 in Guatemala?",
+    "published": "2024-10-17T23:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 71251,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "82ce9f5b44e01e6cd7758e62fcc05f17499fba08",
+  "url": "https://time.news/when-to-observe-the-largest-supermoon-of-2024-in-guatemala",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "times news cr",
+  "published": "2024-10-17T23:42:00.000+03:00",
+  "title": "When to observe the largest supermoon of 2024 in Guatemala?",
+  "text": "The Full Hunter’s Moon It already begins to shine on October nights, illuminating the sky with its radiance. This, which is also the biggest supermoon of 2024 has not yet reached its peak luminosity and here we tell you when will be the best time to enjoy this astronomical phenomenon and some interesting facts about the origin of its name.\nFull Hunter’s Moon 2024 The October Full Hunter’s Moon is about to reach its maximum splendor being one of the biggest supermoons of the year . This astronomical phenomenon is not only a visual spectacle, but also has deep roots in history and traditions. In 2024, this will be the third of four supermoons that have been observed since August.\nThe Hunter’s Moon It will reach its maximum brightness on October 17 at 5:26 am in Guatemala, although the phenomenon can be enjoyed for three days, from Tuesday night to Friday morning. While Earth’s only natural satellite will be at its brightest before dawn on the 17th, the Old Farmer’s Almanac indicates that the satellite will be below the horizon, for that reason it will be easier to admire it at sunset, when it rises and rises in the sky.\nPhoto description for the visually impaired: The only natural satellite of the Earth observed from space. (Credit: NASA) The biggest supermoon of the year This month, Earth’s natural satellite is especially impressive, as it is a supermoon, a phenomenon that occurs when there is a full Moon and the orbit of this satellite is closest to Earth. This will be the biggest of the year, since compared to its perigee or average nearest point which is 363,300 kilometers, this month will be only 357,363 kilometers away.\nThis will make it appear larger and brighter than other typical full moons, surpassing previous supermoons in August and September by a small margin.\nWhy is it called that? The name of this moon comes from ancient agricultural and hunting traditions. According to NASA, the first documented use of this term dates back to 1710 in the Oxford English Dictionary . Although the satellite’s well-known names are linked to Native American traditions and European folklore, the Hunter and Harvest Moon, which occurred in September, is not linked to these traditions and its names are also not fixed for a certain month.\nTheir names are related to the autumn equinox. According to the Old Farmer’s Almanac If the October moon occurs closer to the autumn equinox, it is called the Harvest Moon. Otherwise, the September moon would take that name, as happened in 2024. The Harvest Moon is a moon that with its light provided help to farmers to carry out the harvest, while the Hunter’s Moon marks the beginning of the hunting season, when animals have gained weight before winter and the fields are clear after harvesting the crops, making the work of hunters easier, according to the Old Farmer’s Almanac.\nThis astronomical phenomenon has received other names, such as Travel Moon , Dying Grass Moon o Blood Moon .\nVisually Impaired Photo Description: A full moon is observed from the Wallops Flight Facility in Virginia. (Credit: NASA) Did you know that the famous reality show Shark Tank coming to Guatemala? It will be the first country in Central America with its own version and it will definitely be the ideal opportunity for entrepreneurs to present their ideas to potential investors. Find out how to apply and all the related news in the Shark Tank special that we have prepared for you.\nwindow.fbAsyncInit = function () {\nFB.init({\nappId: ‘936078066413175’,\ncookie: true,\nxfbml: true,\nversion: ‘v2.8’\n});\nFB.getLoginStatus(function (response) {\nstatusChangeCallback(response);\n});\n};\n(function (d, s, id) {\nvar js, fjs = d.getElementsByTagName(s)[0];\nif (d.getElementById(id)) return;\njs = d.createElement(s);\njs.id = id;\njs.src = ”\nfjs.parentNode.insertBefore(js, fjs);\n}(document, ‘script’, ‘facebook-jssdk’));\nfunction statusChangeCallback(response) {\nif (response.status === ‘connected’ && document.getElementById(‘buttonContainer’) != undefined) {\ndocument.getElementById(‘buttonContainer’).style.display = ‘none’;\n}\n}\nfunction checkLoginState() {\nFB.getLoginStatus(function (response) {\nstatusChangeCallback(response);\n});\n}",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:17:38.764+03:00",
+  "updated": "2024-10-18T00:17:38.764+03:00"
+}

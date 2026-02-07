@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "45bf7e0b85687d7018d1e8e069e5df821d629089",
+    "url": "https://www.researchsquare.com/article/rs-7153530/v1",
+    "site_full": "www.researchsquare.com",
+    "site": "researchsquare.com",
+    "site_section": "https://www.researchsquare.com/browse",
+    "site_categories": [],
+    "section_title": "Browse Preprints | Research Square",
+    "site_title": "Home | Research Square",
+    "title": "Accurate Immune Protein Structure Prediction by Large Language Model and Transfer Learning | Research Square",
+    "title_full": "Accurate Immune Protein Structure Prediction by Large Language Model and Transfer Learning | Research Square",
+    "published": "2025-07-31T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6370,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "45bf7e0b85687d7018d1e8e069e5df821d629089",
+  "url": "https://www.researchsquare.com/article/rs-7153530/v1",
+  "ord_in_thread": 0,
+  "author": "Haicang Zhang",
+  "published": "2025-07-31T03:00:00.000+03:00",
+  "title": "Accurate Immune Protein Structure Prediction by Large Language Model and Transfer Learning | Research Square",
+  "text": "Accurate prediction of immune protein structures is critical for advancing immunotherapy. However, deep learning-based methods like AlphaFold and RosettaFold struggle with immune proteins due to the limited number of solved immune protein structures and the absence of homologous sequences in hypervariable regions. To address these challenges, we introduce ImmuneFold, a transfer-learning framework that leverages a large language model and low-rank adaptation (LoRA) for memory-efficient fine-tuning. ImmuneFold outperforms existing methods, including MSA-based AlphaFold3, in predicting the structures of T-cell receptors, antibodies, and nanobodies. Additionally, we pair ImmuneFold’s predictions with Rosetta energy scoring to develop a zero-shot protocol for TCR–epitope binding prediction, effectively mitigating overfitting issues common in supervised approaches. Experimental evaluations also confirm ImmuneFold’s robustness and accuracy in binding prediction. Beyond immune proteins, ImmuneFold provides a scalable framework for adapting advanced models, such as ESMFold and AlphaFold, to other protein families, thereby democratizing access to cutting-edge structural tools for researchers, even those with limited computational resources.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biomedical science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T07:40:07.383+03:00",
+  "updated": "2025-07-31T07:43:40.000+03:00"
+}

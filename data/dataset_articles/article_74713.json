@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "d47e8d7254c06d14c7df148711ee1aed777eb1d3",
+    "url": "https://www.cultofmac.com/how-to/find-sign-in-with-apple-accounts",
+    "site_full": "www.cultofmac.com",
+    "site": "cultofmac.com",
+    "site_section": "https://www.cultofmac.com",
+    "site_categories": [
+      "mac_support",
+      "tech"
+    ],
+    "section_title": "",
+    "title": "Fix the mess caused by Sign in with Apple and Hide My Email",
+    "title_full": "Fix the mess caused by Sign in with Apple and Hide My Email",
+    "published": "2024-11-21T18:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4819,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 9,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d47e8d7254c06d14c7df148711ee1aed777eb1d3",
+  "url": "https://www.cultofmac.com/how-to/find-sign-in-with-apple-accounts",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "D. Griffin Jones",
+  "published": "2024-11-21T18:33:00.000+02:00",
+  "title": "Fix the mess caused by Sign in with Apple and Hide My Email",
+  "text": "I always use Apple’s privacy-focused Sign in with Apple and Hide My Email services whenever I get the option.\nThe Sign in with Apple feature, which lets you log into third-party accounts using your Apple ID while keeping your personal info private, is so easy to use that I utilize it everywhere. But that also means my disguised logins pile up, accumulating in the digital junk drawer that is iCloud Settings.\nI’ll show you where you can find, manage or delete these accounts. Perhaps you’re jumping ship from iPhone to Android, and you want to make sure you still have another way of signing into your Chipotle account.\nThe Hide My Email service is similar. It creates a temporary email address that forwards to your real one — handy if you’re signing up for a shady website, or if you need a public contact email. I’ll show you where you can create new ones and delete the old ones.\nHow to find ‘Sign in with Apple’ accounts Now you know where they all live.\nScreenshot: D. Griffin Jones/Cult of Mac You can find the list of your accounts in Settings > [your name] > Sign in with Apple to see them.\nIf you see one that’s weird that you don’t recognize, tap on the name to see more details. You can see the date you created the account as well as the email address you used for it (whether your iCloud email or a Hide My Email forwarding address). You might see details such as the site privacy policy or terms and conditions.\nDelete them one at a time or in bulk.\nScreenshot: D. Griffin Jones/Cult of Mac Tap Delete to delete this account. If you want to delete a bunch quickly, go back to the list, swipe left on an item in the list and tap Delete on all the ones you don’t need anymore.\nI’d hesitate to delete many of these. They don’t cost you anything to hold on to, for one. When you delete them from Settings, you may entirely lose your access to that account, unless you have an email address connected as well.\nThis makes for a good to-do list if you ever leave Apple and switch to Android or Windows. While you can still sign in from other devices, you might want a more convenient way of signing in than your old Apple ID (like maybe your current email address).\nThis will vary for every service, but if you sign in and go to account settings, most sites will let you add an email address and password that you can use instead of Sign in with Apple.\nManage Hide My Email Hide My Email is another way Apple helps you keep your personal info private. Instead of giving out your email address to a third-party app or website, Apple creates a randomly generated one that forwards emails to your actual account. This will prevent you from collecting spam emails over time, because it blocks that temporary email address from receiving mail from any other domains.\nSince I switched over to iCloud email and started using this feature, I can say that it works very well — I rarely get spam email from iCloud, just my ancient Gmail account.\nYou might need to fill in or look up the name of the forwarding address at a later point in time, but where can you find that?\nFind all the email addresses that your phone has generated for you in Settings.\nScreenshot: D. Griffin Jones/Cult of Mac Go to Settings > [your name] > iCloud > Hide My Email to see them all. The list might look daunting if you use it a lot, but you can use the search field to filter by the name of the service or store, like Chipotle, DoorDash or Walmart.\nYou’ll also see where the disguised email address was generated — from Safari, from Sign in with Apple or from inside an app.\nTap on any one of these to manage it. If it’s from Sign in with Apple, you can uncheck Forward To to turn it off. If it was generated anywhere else, you can tap Deactivate Email Address to delete it.\nCreate a temporary forwarding email address if you don’t want to give out your real one.\nScreenshot: D. Griffin Jones/Cult of Mac When you’re signing up for an online service from an iPhone or Mac, you’ll usually see a little pop-up that suggests using Hide My Email instead of your actual email address. If it’s not there, but you really don’t want to give out your email (perhaps if it’s a shady-looking site) you still can create one.\nFrom the same screen in Settings as above, tap + Create New Address . That will create one on the fly that you can use anywhere. I recommend adding a label or a note so you can find it later.\nFor example, while I would never dare give out my true email address openly on the internet, I’ll say that you can email me right now at origin.ladybug0f@icloud.com . Tell me what you think is the best and worst pasta shape.\nIf you need to have a public email address online, but want the ability to burn it all down and start fresh if it gets annoying, Hide My Email is perfect for that.\nWe originally published this post on how to find Sign in with Apple accounts on March 20, 2023. We updated the info.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate Governance and CSR",
+    "Customer Insights and Reviews"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "D. Griffin Jones",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T03:03:35.561+02:00",
+  "updated": "2024-11-22T03:03:35.561+02:00"
+}

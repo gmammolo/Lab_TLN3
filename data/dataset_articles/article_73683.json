@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "67bec1336d2285d722e44bbc169ff861dbdfd4f5",
+    "url": "https://www.theregister.com/2024/11/14/fortinet_vpn_authentication_bypass_bug",
+    "site_full": "www.theregister.com",
+    "site": "theregister.com",
+    "site_section": "https://www.theregister.com/2024/sitemap.xml",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "",
+    "title": "High-severity Fortinet VPN flaw allows privilege escalation • The Register",
+    "title_full": "High-severity Fortinet VPN flaw allows privilege escalation • The Register",
+    "published": "2024-11-15T00:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://regmedia.co.uk/2023/03/14/patch_shutterstock.jpg",
+    "performance_score": 0,
+    "domain_rank": 694,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "67bec1336d2285d722e44bbc169ff861dbdfd4f5",
+  "url": "https://www.theregister.com/2024/11/14/fortinet_vpn_authentication_bypass_bug",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jessica Lyons",
+  "published": "2024-11-15T00:22:00.000+02:00",
+  "title": "High-severity Fortinet VPN flaw allows privilege escalation • The Register",
+  "text": "A now-patched, high-severity bug in Fortinet's FortiClient VPN application potentially allows a low-privilege rogue user or malware on a vulnerable Windows system to gain higher privileges from another user, execute code and possibly take over the box, and delete log files.\nThe bug is tracked as CVE-2024-47574 , and it earned a 7.8 out of 10 CVSS severity rating. It affects FortiClientWindows version 7.4.0, 7.2.4 through 7.2.0, 7.0.12 through 7.0.0, and 6.4.10 through 6.4.0. Fortinet patched the hole on Tuesday, so if you haven't already, upgrade to a fixed release.\nPentera Labs' bug hunter Nir Chako found and reported the flaw to Fortinet, plus a second security oversight that allows someone or something nefarious on a system running the VPN client to alter SYSTEM-level registry keys that would otherwise be off limits.\nAccording to Chako, this latter flaw has been assigned CVE-2024-50564, though the vendor has not yet issued a security alert about it. However, it has also been fixed in the latest version, FortiClient 7.4.1.\n\"They said it will be published in the next advisory update,\" Chako told The Register , adding that advisory is slated for release on the December 10 Patch Tuesday. \"From a security perspective, after testing version 7.4.1, we were able to validate that the patch prevented us from executing the techniques.\"\nNeither flaw appears to have been exploited in the wild. Fortinet did not immediately respond to The Register 's inquiries. We will update this story if and when we hear back from the vendor.\nFive Eyes infosec agencies list 2024's most exploited software flaws FortiManager critical vulnerability under active attack HTTP your way into Citrix's Virtual Apps and Desktops with fresh exploit code Cisco scores a perfect CVSS 10 with critical flaw in its wireless system As Chako explains in this detailed technical write-up , exploiting CVE-2024-47574 involves using Windows named pipes with the FortiClient software to ultimately plant a script so that when a higher-privileged user next uses the VPN, that script is run with their privileges, and thus code execution is achieved with unauthorized powers. This privilege-escalation technique involves a step know as process hollowing.\nThis could also be abused to delete log files, and make a user connect to an attacker-controlled server. Plus, when combined with the second vulnerability, CVE-2024-50564, a miscreant would be \"able to edit SYSTEM level registry values within the HKLM registry hive,\" Chako said.\nExploiting CVE-2024-50564 involves using a hard-coded local API encryption key that components of Fortinet's software use to exchange commands and data between themselves; it's not a VPN secret. ®\nGet our Tech Resources",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://pentera.io/resources/research/two-zero-days-forticlient-vpn-2024/",
+    "https://www.fortiguard.com/psirt/FG-IR-24-199",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-47574",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://pentera.io/resources/research/two-zero-days-forticlient-vpn-2024",
+    "https://pubads.g.doubleclick.net/gampad/ad",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://fortiguard.com/psirt/FG-IR-24-199",
+    "https://www.pentera.io/resources/research/two-zero-days-forticlient-vpn-2024/",
+    "https://pubads.g.doubleclick.net/gampad/jump",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://cve.mitre.org/cgi-bin/cvename.cgi",
+    "https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-47574"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nir Chako",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:19:03.783+02:00",
+  "updated": "2024-11-18T19:45:27.381+02:00"
+}

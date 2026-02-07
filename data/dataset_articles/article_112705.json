@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "3a30458f8a0b3dbef185e3c07627449a72c1b55f",
+    "url": "https://www.hindustantimes.com/india-news/half-of-delhi-s-rain-has-come-in-3-days-imddata-101722537129398.html",
+    "site_full": "www.hindustantimes.com",
+    "site": "hindustantimes.com",
+    "site_section": "https://www.hindustantimes.com",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+    "title": "Half of Delhi’s rain has come in 3 days: IMD data | Latest News India - Hindustan Times",
+    "title_full": "Half of Delhi’s rain has come in 3 days: IMD data | Latest News India - Hindustan Times",
+    "published": "2024-08-01T22:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.hindustantimes.com/img/2024/08/01/1600x900/A-waterlogged-Pragati-Maidan-tunnel-on-Wednesday--_1722537082268_1722541169967.jpg",
+    "performance_score": 0,
+    "domain_rank": 934,
+    "domain_rank_updated": "2024-07-30T13:07:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3a30458f8a0b3dbef185e3c07627449a72c1b55f",
+  "url": "https://www.hindustantimes.com/india-news/half-of-delhi-s-rain-has-come-in-3-days-imddata-101722537129398.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@httweets",
+  "published": "2024-08-01T22:02:00.000+03:00",
+  "title": "Half of Delhi’s rain has come in 3 days: IMD data | Latest News India - Hindustan Times",
+  "text": "Large swathes of Delhi were inundated on July 31, just over a month after a similar deluge following torrential rain in the early hours of 28 June.Even by the relatively recent trend of the monsoon across India becoming more patchy -- averages, the only thing that seems to matter to the India Meteorological Department, are in line with long-term trends, but are achieved by a few days of intense rain -- the monsoon rainfall in Delhi in the first two months of the season is an outlier.According to gridded data from IMD, Delhi received half of the total rain since June 1 – the official start of the monsoon season – in only three days. In the 1971-2020 average, which is currently used as the Long Period Average (LPA) or normal, the corresponding amount of rain in the same period took the city eighteen days .To be sure, the exact deviation from normal may vary across different weather stations. This is because rain can have wide spatial variation even within cities, especially those as big as Delhi. For example, the Mayur Vihar weather station received 147.5mm rain in the 24 hours ending at 8:30am on August 1, compared to 107.6mm at the Safdarjung station.Unlike data from individual stations, this analysis averages rain for a box bound by two latitudes and longitudes 0.25 degrees apart. Because these grids are almost square-shaped, they overshoot the political boundaries of Delhi. However, this data allows one to look at long-term trends since 1901. This shows that 50% of the monsoon rain in Delhi is concentrated in fewer days now than in the 1980s. However, this concentration is not yet at its peak when considering 30-year averages.The inconsistent increase in rainfall skew in Delhi aligns with expectations from gridded data. As previously reported by Hindustan Times, 24-hour rainfall data does not indicate an increase in rain intensity in Delhi. While it’s possible that the amount of rain that falls in a span of a few hours has increased, this cannot be verified due to the lack of publicly available, long-term hourly data.Read more: Above normal rainfall predicted in India in August, September: IMDBut even if rain’s hourly intensity were decreasing in Delhi, the city’s vulnerability to flooding would not. This is because of the rapid expansion of settlement areas in the city at the expense of all other kinds of land. According to land cover maps from European Space Agency’s Climate Change Initiative (ESA-CCI), settlements in Delhi have increased from 30% of its area in 1992 to 49% of its area by 2015. Most of this 19-percentage point growth has come from agricultural land, but some also from forests, grasslands, and other areas. This means that concretised area has increased at the expense of non-concrete area, which previously allowed seepage and draining of rainwater.This rapid concretisation is bound to flood a city unless it is compensated by a working drainage system. As this monsoon and its death toll has shown, Delhi’s drainage system is far from functional. While the climate crisis and the volatility it has brought to rainfall patterns is indeed real, its evocation without highlighting the poor state of Delhi’s and most of India’s drainage systems is just an alibi for poor planning.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.hindustantimes.com)",
+    "https://www.hindustantimes.com)/",
+    "https://bit.ly/3WL3UjW)",
+    "https://www.bit.ly/3WL3UjW)",
+    "https://www.hindustantimes.com)",
+    "https://hindustantimes.com)",
+    "https://hindustantimes.com)/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "imd",
+        "sentiment": "negative"
+      },
+      {
+        "name": "hindustan times half of delhi",
+        "sentiment": "negative"
+      },
+      {
+        "name": "india meteorological department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "delhi",
+        "sentiment": "none"
+      },
+      {
+        "name": "india",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-08-02T02:51:27.325+03:00",
+  "updated": "2024-08-02T03:27:50.094+03:00"
+}

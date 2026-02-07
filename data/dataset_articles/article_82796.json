@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "9466e769419290858158a5c44909bae4efda237e",
+    "url": "https://siliconangle.com/2025/02/27/tencent-releases-new-ai-model-says-faster-deepseek-r1",
+    "site_full": "siliconangle.com",
+    "site": "siliconangle.com",
+    "site_section": "https://www.siliconangle.com",
+    "site_categories": [
+      "search_engine",
+      "tech"
+    ],
+    "section_title": "SiliconANGLE",
+    "site_title": null,
+    "title": "Tencent releases new AI model it says is faster than DeepSeek-R1 - SiliconANGLE",
+    "title_full": "Tencent releases new AI model it says is faster than DeepSeek-R1 - SiliconANGLE",
+    "published": "2025-02-27T22:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/Designer-4.jpeg",
+    "performance_score": 0,
+    "domain_rank": 6181,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9466e769419290858158a5c44909bae4efda237e",
+  "url": "https://siliconangle.com/2025/02/27/tencent-releases-new-ai-model-says-faster-deepseek-r1",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kyt Dotson",
+  "published": "2025-02-27T22:00:00.000+02:00",
+  "title": "Tencent releases new AI model it says is faster than DeepSeek-R1 - SiliconANGLE",
+  "text": "Chinese technology giant Tencent Holdings Ltd. today released a new artificial intelligence model named Hunyuan Turbo S, designed as a “fast-thinking model,” a rival to so-called “slow-thinking” models such as DeepSeek-R1.\nThe company explained the model is capable of near “instant replies” within a second by doubling the output speed and cutting the delay of the first word out by almost 44%.\nDifferent from DeepSeek-R1 and other “reasoning models,” which the company said “think a little and answer,” the new Turbo S model is capable of beginning an answer immediately by using a short thinking chain that is more akin to human intuition. This is fused with a slow-thinking chain that provides reasoning capabilities for scientific, mathematical and rational answers.\nThe company said Hunyuan Turbo S demonstrated performance comparable to leading models on the market such as DeepSeek-V3, OpenAI’s GPT-4o and Anthropic PBC’s Claude in benchmarks for math, reasoning and knowledge.\nThe notable success of China-based DeepSeek’s AI models, such as R1 and V3 , has made numerous headlines in recent months, prompting numerous AI model developers to produce rival models rapidly . Competition has been hot from companies such as China’s Alibaba Group Ltd. with its Qwen 2.5-Max model , which it claims outperforms V3.\nTo create the model, Tencent used a Hybrid-Mamba-Transformer fusion to reduce the computational complexity and KV-Cache of the model’s Transformer architecture. The end result model is a hybrid that can use Mamba deep learning architecture , which excels at handling long sequences, while still maintaining the Transformer’s capability to understand the context behind complex ideas and statements in data.\n“This is also the first time that industry has successfully applied the Mamba architecture to the ultra-large Mixture of Experts model without damage,” Tencent said in its announcement.\nMixture of experts is a machine learning technique where multiple AI models are split apart according to distinct expertise and work together to solve problems.\nThe company also said the new architecture significantly reduces the training and deployment costs. With rival companies such as DeepSeek releasing competitive models at cheap prices this has driven Tencent and other companies slash service prices and research more efficient AI training and inference.\nTencent added as a flagship model , Turbo S will become core for foundation models in the future for inference, text and code generation.\nImage: SiliconANGLE/Microsoft Designer",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://mp.weixin.qq.com/s/BwQkXpEitOm1Piz60SE-4A",
+    "https://en.wikipedia.org/wiki/Mamba_(deep_learning_architecture)",
+    "https://www.mp.weixin.qq.com/s/BwQkXpEitOm1Piz60SE-4A",
+    "https://www.en.wikipedia.org/wiki/Mamba_(deep_learning_architecture)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:19:14.527+02:00",
+  "updated": "2025-02-28T00:19:14.527+02:00"
+}

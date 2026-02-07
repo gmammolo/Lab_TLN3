@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "8fb890a7b519e7536e88e40b48df5cd9083517ba",
+    "url": "https://news.nestia.com/detail_share/13733283?media_type=1",
+    "site_full": "news.nestia.com",
+    "site": "nestia.com",
+    "site_section": "https://news.nestia.com/en/list?offset=0&limit=100&featured_tag_filter=true",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "News &amp; Headlines - Singapore Top Reads | Nestia",
+    "site_title": null,
+    "title": "Indonesia cancels digital payment tracker launch | Nestia",
+    "title_full": "Indonesia cancels digital payment tracker launch | Nestia",
+    "published": "2025-08-14T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "SG",
+    "main_image": "https://nestia-food-obs-ap-southeast-3.nestia.com/202508/14/81375a4aa4d25abb00571aa2740515a0_750x750.jpg",
+    "performance_score": 0,
+    "domain_rank": 123785,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8fb890a7b519e7536e88e40b48df5cd9083517ba",
+  "url": "https://news.nestia.com/detail_share/13733283?media_type=1",
+  "ord_in_thread": 0,
+  "author": "833606606777558",
+  "published": "2025-08-14T03:00:00.000+03:00",
+  "title": "Indonesia cancels digital payment tracker launch | Nestia",
+  "text": "Unable to play video\nPlease check the strength of your internet connection and try again\nTech in Asia 14/08/2025 17:01\nBank Indonesia has canceled the launch of a new transaction tracking system, Payment ID, which was initially planned for August 17, 2025.\nThe system is still in the trial phase and remains in a sandbox environment, according to Dicky Kartikoyono, head of BI’s payment system policy department.\nPayment ID is a nine-character alphanumeric code intended to integrate with Indonesia’s national identity number (NIK) and link various financial transactions, including those from bank accounts and digital wallets.\nThere is no official timeline for when Payment ID will be implemented, but it may be used in a non-cash social aid program in Banyuwangi, East Java, starting September 2025, subject to government approval.\nThe first phase of Payment ID’s broader rollout is targeted for 2027, with further expansion in 2029.\nBI is working with stakeholders to address potential privacy concerns and ensure data protection in line with Indonesia’s Personal Data Protection Law.\nPayment ID will supplement, not replace, the Financial Information Service System (SLIK) operated by the Financial Services Authority.\n.source-ref{font-size:0.85em;color:#666;display:block;margin-top:1em;}a.ask-tia-citation-link:hover{color:#11628d !important;background:#e9f6f5 !important;border-color:#11628d !important;text-decoration:none !important;}@media only screen and (min-width:768px){a.ask-tia-citation-link{font-size:11px !important;}}🔗 Source: Kompas.com\nPayment ID’s postponement from August 2025 to a 2029 full rollout highlights the challenges of implementing comprehensive financial monitoring systems.\nThis contrasts with Indonesia’s successful QRIS rollout, which achieved 54.1 million users and 34.7 million merchants by October 2024 1.\nQRIS transactions surged from 124 million in 2020 to a projected 6.24 billion by 2024, demonstrating how focused, single-purpose payment systems can achieve rapid adoption 1.\nThe key difference lies in scope and complexity. QRIS simplified existing payment processes, while Payment ID attempts to create a unified financial identity system linked to national ID numbers.\nPayment ID requires extensive regulatory frameworks under Indonesia’s Personal Data Protection Law and must address privacy concerns that simpler payment systems avoid 2.\nThe extended timeline reflects the technical and regulatory challenges of building systems that aggregate data across multiple financial institutions while maintaining user consent and privacy protections.\nPayment ID addresses a specific structural problem in Indonesia’s economy where many small businesses cannot access formal banking due to lack of credit history.\nBank Indonesia officials explicitly cited this challenge, noting that “UMKM kita sekarang banyak yang enggak bisa akses ke perbankan karena perbankan enggak tahu siapa mereka” (many of our MSMEs cannot access banking because banks don’t know who they are).\nThe system aims to create comprehensive financial profiles that could enable banks to assess creditworthiness for previously “invisible” small businesses.\nThis approach differs from traditional credit scoring by potentially capturing informal economy transactions through digital payment data, giving banks visibility into previously undocumented cash flows.\nThe pilot program’s focus on social assistance distribution in Banyuwangi serves as a testing ground for verifying financial identities, which could later support MSME credit assessments.\nPlease check the strength of your internet connection and try again",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business governance",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Social Issue->social networking",
+    "Social Issue->demographics",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dicky Kartikoyono",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T12:07:43.917+03:00",
+  "updated": "2025-08-14T12:11:09.000+03:00"
+}

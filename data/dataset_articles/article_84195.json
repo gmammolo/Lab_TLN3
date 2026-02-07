@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "738e5b1532dce1b80d76f3d2966490d21e6df873",
+    "url": "https://siliconangle.com/2025/04/02/adaptive-security-raises-43m-ai-cyberattack-simulation-platform",
+    "site_full": "siliconangle.com",
+    "site": "siliconangle.com",
+    "site_section": "https://news.google.com/search?q=its%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "search_engine",
+      "tech"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "SiliconANGLE",
+    "title": "Adaptive Security raises $43M for its AI cyberattack simulation platform - SiliconANGLE",
+    "title_full": "Adaptive Security raises $43M for its AI cyberattack simulation platform - SiliconANGLE",
+    "published": "2025-04-03T01:49:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/Adaptive-Security.png",
+    "performance_score": 0,
+    "domain_rank": 6234,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "738e5b1532dce1b80d76f3d2966490d21e6df873",
+  "url": "https://siliconangle.com/2025/04/02/adaptive-security-raises-43m-ai-cyberattack-simulation-platform",
+  "ord_in_thread": 0,
+  "author": "Maria Deutscher",
+  "published": "2025-04-03T01:49:00.000+03:00",
+  "title": "Adaptive Security raises $43M for its AI cyberattack simulation platform - SiliconANGLE",
+  "text": "Adaptive Security Inc., a startup that helps companies test their cybersecurity posture using simulated social engineering attacks, has raised $43 million in fresh funding.\nAndreessen Horowitz and the OpenAI Startup Fund led the Series A round. Adaptive Security detailed in its funding announcement today that more than a half dozen other backers chipped in well. The group included executives from Google LLC, Workday Inc. and other major tech firms.\nInstalling malware is not the only way that cybercriminals can gain access to a company’s systems. Many hacking campaigns use social engineering to trick employees into divulging passwords or sensitive data. Over the past few years, artificial intelligence has made it considerably easier for hackers to launch such attacks.\nAdaptive Security provides a platform that helps companies reduce the risk posed by AI-powered social engineering campaigns. It can launch a simulated cyberattack and detect when employees respond. From there, the software provides personalized cybersecurity training to those employees in order to avoid future breaches.\nAdaptive Security uses large language models to create simulated phishing emails. The platform could, for example, generate an email purporting to be from a customer interested in a newly launched product. The LLMs can customize the message based on publicly-available information about the product.\nDistributing a simulated phishing email to employees often requires changing the configuration of a company’s email system. According to Adaptive Security, its platform eases the task with a feature called Direct Email Injection. It removes the need to modify an email system’s cybersecurity and filtering settings.\nAdaptive Security’s platform is also capable of interacting with workers through other channels. It can mimic the voice of executives and package phishing messages into texts, which have a higher open rate than emails. Adaptive Security also offers features that can impersonate the support staff of a company’s suppliers.\nThe platform enables administrators to monitor cyberattack simulations via a centralized dashboard. It displays the number of simulated phishing emails that were launched as part of a test, their effectiveness and related metrics. Cybersecurity teams can use this information to identify areas for improvement in their company’s cybersecurity posture.\nWorkers, meanwhile, have access to a library of gamified cybersecurity training modules. Adaptive Security also enables customers to create custom training materials using AI.\nAnother feature of the company’s platform allows employees to notify the cybersecurity team when they receive a real phishing message. “When someone reports a suspicious message, our AI doesn’t just forward it to IT—it analyzes the message in real time, scores the risk, and helps security teams act fast,” Adaptive Security co-founder and Chief Executive Officer Brian Long detailed in a blog post today.\nThe company disclosed on occasion of today’s funding milestone that its platform has been adopted by more than 100 enterprises since launch. Adaptive Security will use the new capital to grow its research and development teams.\nImage: Adaptive Security",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social networking",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.adaptivesecurity.com/resources/weve-raised-43m",
+    "https://adaptivesecurity.com/resources/weve-raised-43m"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T01:57:48.337+03:00",
+  "updated": "2025-04-03T01:57:48.337+03:00"
+}

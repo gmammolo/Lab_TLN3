@@ -1,0 +1,66 @@
+{
+  "thread": {
+    "uuid": "86fd1eac323b43a60fa5f8b2cc31b66cbf996bd1",
+    "url": "https://forums.zotero.org/discussion/119686/sync-error-with-webdev-can-not-sync-the-file",
+    "site_full": "forums.zotero.org",
+    "site": "zotero.org",
+    "site_section": "https://forums.zotero.org/discussions",
+    "site_categories": [],
+    "section_title": "Recent Discussions - Zotero Forums",
+    "title": "sync error with webdev: can not sync the file - Zotero Forums",
+    "title_full": "sync error with webdev: can not sync the file - Zotero Forums",
+    "published": "2024-11-15T09:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2045,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "86fd1eac323b43a60fa5f8b2cc31b66cbf996bd1",
+  "url": "https://forums.zotero.org/discussion/119686/sync-error-with-webdev-can-not-sync-the-file",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-15T09:35:00.000+02:00",
+  "title": "sync error with webdev: can not sync the file - Zotero Forums",
+  "text": "sync error with webdev: can not sync the file Hi, my zotero worked fine before with webdev. But It can not sync the attachment file now. I do not know what happend. My webdev do have the needed file, and the webdev account information is set correctly. But when I try to open a file in zotero, it said as follows. And int the folder `C:\\Users\\jslo\\Zotero\\storage\\9FN45QXA\\`, there is only a file named `.zotero-ft-unprocessed`. But in my webdev account `Zotero\\storage\\9FN45QXA\\` there do have the needed pdf file. How can I solve this? Thank you! The debug id is `1017877013`. The attached file could not be found at the following path: C:\\Users\\jslo\\Zotero\\storage\\9FN45QXA\\shellman2003.pdf It may have been moved or deleted outside of Zotero, or, if the file was added on another computer, it may not yet have been synced to zotero.org. My sync set ` ` The debug id is `1017877013`. The attached file could not be found at the following path: C:\\Users\\jslo\\Zotero\\storage\\9FN45QXA\\shellman2003.pdf It may have been moved or deleted outside of Zotero, or, if the file was added on another computer, it may not yet have been synced to zotero.org. My sync set ` [https://s3.amazonaws.com/zotero.org/images/forums/u13088201/w39es173olsoenjur7cj.png](https://s3.amazonaws.com/zotero.org/images/forums/u13088201/w39es173olsoenjur7cj.png)` - What do you mean by that? There wouldn't be a 'storage' folder on your WebDAV server unless you've done something wrong.But in my webdev account `Zotero\\storage\\9FN45QXA\\` there do have the needed pdf file See[Files Not Syncing](https://www.zotero.org/support/kb/files_not_syncing). - Hello, thanks for the reply. My webdev storage looks like following.I follow the link to check, the file has been uploaded but all my windows and macos can not find the file. Everything goes well when I use my macos with ipad and linux, and seems things went wrong when I use a new windows. [https://s3.amazonaws.com/zotero.org/images/forums/u13088201/fpzfj765h7zvimoowzcu.png](https://s3.amazonaws.com/zotero.org/images/forums/u13088201/fpzfj765h7zvimoowzcu.png) - No, that's not a Zotero WebDAV folder — that's just part of the Zotero data directory, which should [never be in a cloud storage folder](https://www.zotero.org/support/kb/data_directory_in_cloud_storage_folder). That's not being used for Zotero syncing, and whatever you did to put that there you should stop doing and remove that (unless it's just a one-way backup). For syncing, see[Files Not Syncing](https://www.zotero.org/support/kb/files_not_syncing), which explains the actual files you're looking for on your WebDAV server.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T11:51:29.035+02:00",
+  "updated": "2024-11-15T11:51:29.035+02:00"
+}

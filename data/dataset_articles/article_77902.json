@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "fc2975760e9bac6d14ef6a700c4357692cf41dab",
+    "url": "https://securite.developpez.com/actu/374838/Une-faille-RCE-de-CodeRabbit-donne-aux-attaquants-un-acces-en-lecture-et-en-ecriture-a-1-million-de-referentiels-sur-les-serveurs-de-production-de-CodeRabbit-y-compris-la-base-de-donnees-PostgreSQL",
+    "site_full": "securite.developpez.com",
+    "site": "developpez.com",
+    "site_section": "https://securite.developpez.com",
+    "site_categories": [
+      "tennis",
+      "sports"
+    ],
+    "section_title": "Sécurité : Actualités, cours, tutoriels, FAQ, forum...",
+    "site_title": "Developpez.com, le club des d�veloppeurs et IT Pro",
+    "title": "Une faille RCE de CodeRabbit donne aux attaquants un accès en lecture et en écriture à 1 million de référentiels sur les serveurs de production de CodeRabbit, y compris la base de données PostgreSQL",
+    "title_full": "Une faille RCE de CodeRabbit donne aux attaquants un accès en lecture et en écriture à 1 million de référentiels sur les serveurs de production de CodeRabbit, y compris la base de données PostgreSQL",
+    "published": "2025-08-21T06:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.developpez.com/images/logos/securite2.png",
+    "performance_score": 0,
+    "domain_rank": 16571,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fc2975760e9bac6d14ef6a700c4357692cf41dab",
+  "url": "https://securite.developpez.com/actu/374838/Une-faille-RCE-de-CodeRabbit-donne-aux-attaquants-un-acces-en-lecture-et-en-ecriture-a-1-million-de-referentiels-sur-les-serveurs-de-production-de-CodeRabbit-y-compris-la-base-de-donnees-PostgreSQL",
+  "ord_in_thread": 0,
+  "author": "@Developpez",
+  "published": "2025-08-21T06:52:00.000+03:00",
+  "title": "Une faille RCE de CodeRabbit donne aux attaquants un accès en lecture et en écriture à 1 million de référentiels sur les serveurs de production de CodeRabbit, y compris la base de données PostgreSQL",
+  "text": "Un rapport a révélé qu'une vulnérabilité critique d'exécution de code à distance dans CodeRabbit aurait pu permettre à des attaquants d'obtenir un accès en lecture et en écriture à plus d'un million de référentiels de code, y compris privés. Cette faille de sécurité permettait aux attaquants d'exécuter du code à distance sur les serveurs de production de CodeRabbit, de divulguer des jetons et des secrets API, d'accéder potentiellement à la base de données PostgreSQL de l'entreprise et d'obtenir un accès non autorisé aux référentiels de code publics et privés.\nCodeRabbit est un outil de révision de code basé sur l'IA qui fournit des commentaires en temps réel et adaptés au contexte sur les demandes d'extraction, réduisant ainsi l'effort manuel nécessaire à la révision du code. CodeRabbit aide à faciliter la révision des demandes d'extraction, à utiliser l'IA pour effectuer des révisions de code approfondies et à gérer automatiquement les dernières retouches des demandes d'extraction.\nCodeRabbit se distingue comme étant l'application assistée par l'IA la plus installée sur GitHub Marketplace et se classe parmi les installations les plus populaires toutes catégories confondues. La plateforme analyse automatiquement les modifications de code dans les pull requests et fournit des révisions générées par l'IA, ce qui en fait un outil précieux pour la productivité des développeurs afin de résumer les PR, d'identifier les problèmes de sécurité et de suggérer des améliorations de code.\nUn rapport a révélé qu'une vulnérabilité critique d'exécution de code à distance dans CodeRabbit aurait pu permettre à des attaquants d'obtenir un accès en lecture et en écriture à plus d'un million de référentiels de code, y compris privés. Les chercheurs en sécurité de Kudelski Security ont révélé cette faille lors de la conférence Black Hat USA 2024. Cette faille de sécurité permettait aux attaquants d'exécuter du code à distance sur les serveurs de production de CodeRabbit, de divulguer des jetons et des secrets API, d'accéder potentiellement à la base de données PostgreSQL de l'entreprise et d'obtenir un accès non autorisé aux référentiels de code publics et privés.\nLa vulnérabilité exploitait l'intégration de CodeRabbit avec des outils d'analyse statique externes, en ciblant spécifiquement Rubocop, un analyseur statique Ruby. Les chercheurs ont découvert que CodeRabbit exécutait automatiquement ces outils sur les pull requests contenant des types de fichiers pertinents, Rubocop étant configuré pour s'exécuter sur les fichiers Ruby lorsqu'un fichier de configuration .rubocop.yml était présent dans le référentiel.\nLe vecteur d'attaque consistait à créer une pull request malveillante contenant un fichier .rubocop.yml spécialement conçu pour demander à Rubocop de charger un fichier d'extension Ruby malveillant. Ce fichier d'extension pouvait exécuter du code arbitraire, y compris des commandes permettant d'exfiltrer des variables d'environnement contenant des jetons API sensibles et des secrets vers des serveurs contrôlés par les attaquants.\nLe processus d'exploitation ne nécessitait qu'un effort minimal : les attaquants n'avaient qu'à obtenir l'accès à CodeRabbit, créer un référentiel avec les fichiers de configuration malveillants et attendre que le processus de révision automatique du code exécute leur charge utile.\nVoici un extrait du rapport :\nRésumé des impacts\nPrenons un moment pour résumer les impacts liés à l'obtention d'un accès en écriture à ces 1 million de référentiels. Une personne malveillante aurait pu effectuer les opérations suivantes sur les référentiels concernés :\nDe plus, nous avons obtenu un RCE sur le système de production CodeRabbit. Une personne malveillante aurait pu effectuer des opérations destructrices, provoquer un déni de service ou effectuer des opérations malveillantes sur des systèmes tiers.\nPrenons un moment pour résumer les impacts liés à l'obtention d'un accès en écriture à ces 1 million de référentiels. Une personne malveillante aurait pu effectuer les opérations suivantes sur les référentiels concernés :\n- Accéder à des référentiels GitHub privés auxquels personne n'était censé avoir accès. Il s'agit d'une violation de la vie privée.\n- Modifier l'historique Git des référentiels GitHub concernés. Notez qu'il peut s'agir d'une attaque de la chaîne d'approvisionnement, car les référentiels GitHub sont souvent la source à partir de laquelle les logiciels sont développés avant d'être distribués.\n- Modifier les versions GitHub existantes et remplacer ou ajouter des fichiers téléchargeables malveillants Attaque de la chaîne d'approvisionnement.\n- Poursuivre les mouvements latéraux afin de potentiellement divulguer les secrets des référentiels GitHub en exploitant les actions GitHub vulnérables existantes en poussant des commits git Notez que comme l'application GitHub CodeRabbit n'a pas de permission d'écriture sur les workflows, les actions GitHub ne peuvent pas être modifiées directement. Cependant, une action GitHub vulnérable peut être exploitée plus facilement avec un accès en écriture au référentiel git. Pour plus de détails sur la manière dont nous avons trouvé un cas où cela était exploitable, consultez la présentation que j'ai donnée lors de la conférence 38C3.\nDe plus, nous avons obtenu un RCE sur le système de production CodeRabbit. Une personne malveillante aurait pu effectuer des opérations destructrices, provoquer un déni de service ou effectuer des opérations malveillantes sur des systèmes tiers.\nCodeRabbit a fait preuve d'une réponse exemplaire à l'incident après la divulgation de la vulnérabilité en janvier 2025. Dans les heures qui ont suivi la notification, la société a désactivé la fonctionnalité Rubocop, remplacé toutes les informations d'identification et tous les secrets potentiellement compromis, et déployé une correction permanente qui a transféré les opérations Rubocop dans son environnement sandbox sécurisé.\nLa société a mené un audit de sécurité complet, mis en place des mécanismes automatisés d'application du sandbox et établi des portes de déploiement renforcées pour empêcher des vulnérabilités similaires. CodeRabbit a rendu publics ses efforts de réponse et de correction, démontrant ainsi la transparence de ses pratiques en matière de sécurité.\nCet incident met en évidence les défis de sécurité inhérents aux outils de développement basés sur l'IA qui s'intègrent à plusieurs systèmes externes. Cette vulnérabilité souligne l'importance de mettre en place un bac à sable pour l'exécution des outils tiers et de mettre en uvre des contrôles de sécurité robustes autour des plateformes d'analyse de code automatisées qui traitent des données sensibles issues de référentiels.\nSource :\nRapport de Kudelski Security\nEt vous ?\nPensez-vous que ce rapport est crédible ou pertinent ?\nQuel est votre avis sur le sujet ?\nVoir aussi :\nÉtat des lieux des outils de codage IA : Cursor et Windsurf sont-ils prêts à répondre aux exigences des développeurs ? Quel outil d'édition de code assisté par IA utilisez-vous ?\nPlus de 3 200 utilisateurs de l'outil d'édition de code alimenté par l'IA Cursor ont été infectés par des paquets npm malveillants qui volent des informations d'identification\nVulnérabilité dans GitHub Copilot et Cursor : comment les pirates peuvent compromettre le code généré par l'IA avec des portes dérobées et des vulnérabilités en injectant des instructions malveillantes cachées\nVous avez lu gratuitement 3 515 articles depuis plus d'un an.\nSoutenez le club developpez.com en\nSoutenez le club developpez.com en",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->scientific research",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/",
+    "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories",
+    "https://www.research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:08:09.695+03:00",
+  "updated": "2025-08-21T10:13:29.000+03:00"
+}

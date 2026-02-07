@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "89bf671459fc57c0a81e2aa7f286de0d88e1e802",
+    "url": "https://news.knowledia.com/FR/fr/articles/attaques-personnelles-accusations-de-malware-et-abandon-un-projet-daa12dd8526f3c99b6bcac6b2e1a862d9661f976",
+    "site_full": "news.knowledia.com",
+    "site": "knowledia.com",
+    "site_section": "https://news.knowledia.com/fr/fr",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Knowledia Actualités",
+    "site_title": null,
+    "title": "Attaques personnelles, accusations de malware et abandon : un projet Linux prometteur prend fin après que son développeur ait été victime de harcèlement. Kapitano était une interface graphique pour ClamAV",
+    "title_full": "Attaques personnelles, accusations de malware et abandon : un projet Linux prometteur prend fin après que son développeur ait été victime de harcèlement. Kapitano était une interface graphique pour ClamAV",
+    "published": "2025-08-14T11:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 88553,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "89bf671459fc57c0a81e2aa7f286de0d88e1e802",
+  "url": "https://news.knowledia.com/FR/fr/articles/attaques-personnelles-accusations-de-malware-et-abandon-un-projet-daa12dd8526f3c99b6bcac6b2e1a862d9661f976",
+  "ord_in_thread": 0,
+  "author": "Stéphane le calme",
+  "published": "2025-08-14T11:48:00.000+03:00",
+  "title": "Attaques personnelles, accusations de malware et abandon : un projet Linux prometteur prend fin après que son développeur ait été victime de harcèlement. Kapitano était une interface graphique pour ClamAV",
+  "text": "il y a 35 minutes\nlinux.developpez.com\nlecture 6 min standard Science & Technologie Technologies Kapitano visait à rendre ClamAV, un antivirus open source reconnu, beaucoup plus accessible aux utilisateurs Linux via une interface graphique GTK4/libadwaita. En évitant l'usage du terminal, il promettait une adoption facilitée pour les novices — une initiative simple mais puissante. Mais son développeur, connu sous le pseudonyme de « zynequ », a annoncé l'abandon de son projet d'antivirus Kapitano suite à une vague de harcèlement en ligne. Cet événement met en lumière les défis auxquels sont c... Attaques personnelles, accusations de malware et abandon : un projet Linux prometteur prend fin après que son développeur ait été victime de harcèlement\nKapitano était une interface graphique pour ClamAV\nDérive subite : du bug à l'attaque personnelle\nEnvoyé par Zynequ Envoyé par\nSur les méthodes scan_for_malware et update_malware_definitions , vous pouvez voir qu'elles appellent simplement clamscan et freshclam . Pour référence, voici le code qui concerne vos préoccupations : https://codeberg.org/zynequ/Kapitano...tils/clamav.py Sur les méthodeset, vous pouvez voir qu'elles appellent simplementet\nEnvoyé par zynequ Envoyé par\nCe projet a toujours été un projet amateur, créé pendant mon temps libre sans aucun soutien financier. Des incidents comme celui-ci rendent difficile de rester motivé. Cela dit, je suis sincèrement reconnaissant à tous ceux qui ont essayé l'application et j'apprécie l'attention qu'elle a reçue.\nÀ partir de maintenant :\nLe projet est publié dans le domaine public sous licence The Unlicense. Vous êtes libre de l'utiliser, de le modifier, de le vendre ou de le redistribuer comme vous le souhaitez, sans attribution. Il sera retiré de Flathub et marqué comme étant en fin de vie. Le dépôt restera en ligne pendant quelques mois au cas où quelqu'un souhaiterait le forker ou le poursuivre. Après cela, je fermerai mon compte Codeberg.\nJe présente mes sincères excuses à tous ceux qui sont déçus par cette décision. Je suis désolé de vous annoncer que ce projet n'est plus maintenu. Récemment, j'ai vécu une expérience désagréable concernant les problèmes n° 12 et n° 13, où j'ai été accusé de distribuer des logiciels malveillants. Bien que j'aie expliqué que le problème ne venait pas de l'application, la conversation a dégénéré en attaques personnelles et en propos virulents à mon égard.Ce projet a toujours été un projet amateur, créé pendant mon temps libre sans aucun soutien financier. Des incidents comme celui-ci rendent difficile de rester…\nStéphane le calme Lire tout l'article",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://linux.developpez.com/actu/374599/Attaques-personnelles-accusations-de-malware-et-abandon-un-projet-Linux-prometteur-prend-fin-apres-que-son-developpeur-ait-ete-victime-de-harcelement-Kapitano-etait-une-interface-graphique-pour-ClamAV/",
+    "https://www.linux.developpez.com/actu/374599/Attaques-personnelles-accusations-de-malware-et-abandon-un-projet-Linux-prometteur-prend-fin-apres-que-son-developpeur-ait-ete-victime-de-harcelement-Kapitano-etait-une-interface-graphique-pour-ClamAV/",
+    "https://linux.developpez.com/actu/374599/Attaques-personnelles-accusations-de-malware-et-abandon-un-projet-Linux-prometteur-prend-fin-apres-que-son-developpeur-ait-ete-victime-de-harcelement-Kapitano-etait-une-interface-graphique-pour-ClamAV"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T12:02:45.889+03:00",
+  "updated": "2025-08-14T12:22:10.814+03:00"
+}

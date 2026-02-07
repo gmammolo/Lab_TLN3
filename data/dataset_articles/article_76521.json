@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "92dd0eb6bb1f03ec39f1d684db055705ff8022da",
+    "url": "https://www.infosecurity-magazine.com/news/fake-poc-exploit-researchers",
+    "site_full": "www.infosecurity-magazine.com",
+    "site": "infosecurity-magazine.com",
+    "site_section": "https://infosecurity-magazine.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "\r\n\tInfosecurity Magazine - Information Security & IT Security News and Resources\r\n",
+    "title": "Fake PoC Exploit Targets Security Researchers with Infostealer - Infosecurity Magazine",
+    "title_full": "Fake PoC Exploit Targets Security Researchers with Infostealer - Infosecurity Magazine",
+    "published": "2025-01-10T11:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.infosecurity-magazine.com/webpage/og/ab45e7db-5555-46ce-8b40-4569e54f8e92.jpg",
+    "performance_score": 0,
+    "domain_rank": 5372,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "92dd0eb6bb1f03ec39f1d684db055705ff8022da",
+  "url": "https://www.infosecurity-magazine.com/news/fake-poc-exploit-researchers",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "James Coker",
+  "published": "2025-01-10T11:15:00.000+02:00",
+  "title": "Fake PoC Exploit Targets Security Researchers with Infostealer - Infosecurity Magazine",
+  "text": "Threat actors have created a fake proof-of-concept (PoC) exploit for a critical Microsoft vulnerability, designed to lure security researchers into downloading and executing information-stealing malware , Trend Micro has reported.\nThe fake PoC relates to a critical vulnerability in Microsoft's Windows Lightweight Directory Access Protocol (LDAP), of which a fix was released in the tech giant’s December 2024 Patch Tuesday release.\nCVE-2024-49113 is a denial-of-service (DoS) vulnerability that can be exploited to crash the LDAP service, leading to service disruptions.\nTrend Micro reported that the attackers set up a malicious repository containing the fake PoC, which, upon execution, leads to sensitive computer and network information being exfiltrated.\nThis includes researchers’ computer information, process list, directory lists, network IPs, network adapters and installed updates.\nPoC exploits are used in the security research community to identify security weaknesses and potential threats to software, enabling action to take place to address the threats.\n“Although the tactic of using PoC lures as vehicle for malware delivery is not new, this attack still poses significant concerns, especially since it capitalizes on a trending issue that could potentially affect a larger number of victims,” Trend Micro wrote.\nHow the PoC Lure Works The malicious repository containing the PoC appears to be a fork from the original creator, the firm said.\nThe original Python files were replaced with the executable poc.exe that was packed using UPX. When a user executes the file, a PowerShell script is dropped and executed in the %Temp% folder. This will create a Scheduled Job, which in turn executes an encoded script.\nOnce decoded, the script downloads another script from Pastebin, which collects the public IP address of the victim’s machine and uploads it using a file transfer protocol.\nComputer and network data is then collected and compressed using a ZIP file, after which it is uploaded to an external FTP server using hardcoded credentials.\nSecurity Researchers Warned to Be Vigilant Trend Micro warned security researchers to be vigilant of fake PoC lures and to use the following best practices to avoid falling victim to this tactic:\nAlways download code, libraries and dependencies from official and trusted repositories Be cautious of repositories with suspicious content that may seem out of place for the tool or application it is supposedly hosting If possible, confirm the identity of the repository owner or organization Review the repository’s commit history and recent changes for anomalies or signs of malicious activity Be cautious of repositories with very few stars, forks or contributors, especially if they claim to be widely used Look for reviews, issues or discussions about the repository to identify potential red flags",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social services",
+    "Social Issue->communities"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2ffake-poc-exploit-researchers%2f",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2ffake-poc-exploit-researchers%2f",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://www.x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2ffake-poc-exploit-researchers%2f",
+    "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2ffake-poc-exploit-researchers%2f",
+    "https://x.com/intent/tweet"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "92dd0eb6bb1f03ec39f1d684db055705ff8022da",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2025-01-10T11:53:52.829+02:00",
+  "updated": "2025-01-10T11:53:52.829+02:00"
+}

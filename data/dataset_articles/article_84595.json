@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "b875dd89859e52bd53ed33632c6a4a4355917657",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-04-03/doc-inervuvx2851028.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "http://tech.sina.com.cn",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪科技_新浪网",
+    "site_title": null,
+    "title": "AI的疯狂三月：本地能力再提升，云上掀起动漫风|AI|图像_新浪科技_新浪网",
+    "title_full": "AI的疯狂三月：本地能力再提升，云上掀起动漫风|AI|图像_新浪科技_新浪网",
+    "published": "2025-04-03T02:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 249,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b875dd89859e52bd53ed33632c6a4a4355917657",
+  "url": "https://finance.sina.com.cn/tech/roll/2025-04-03/doc-inervuvx2851028.shtml",
+  "ord_in_thread": 0,
+  "author": "sina.com.cn",
+  "published": "2025-04-03T02:39:00.000+03:00",
+  "title": "AI的疯狂三月：本地能力再提升，云上掀起动漫风|AI|图像_新浪科技_新浪网",
+  "text": "飞象原创（魏德龄/文）刚刚过去的三月，人工智能的功能升级可谓一个爆款接着又一个爆款，无论是面向本地部署的Gemma，还是ChatGPT在社交媒体平台上掀起的日式动漫风。假如说以前的人工智能领域还是每年春节一爆款的话，这次则是直接开启了“疯狂三月”。\n本地能力再提升\n27B的参数量能力却可以超过671B的模型，只需一张H100显卡，就能在本地实现媲美云端的高效推理。谷歌开源的最新多模态大模型Gemma-3在这个3月成为很多用户的最新本地AI部署尝试。\nGemma 3提供四种不同参数规模的选项，分别为1B、4B、12B和27B参数。除了1B外，其他三种均支持多模态，轻松构建能够分析图像、文本和短视频的应用，开启交互式智能应用的新可能。这一小参数量的特性能够让包括手机、笔记本电脑和工作站等设备在本地运行高性能的模型。\n从上图不难发现，Gemma 3在同等规模下展现了业界领先的性能，在LMArena榜单评估中超越了Llama3-405B、DeepSeek-V3和o3-mini。这意味着可以在单个GPU或TPU上部署媲美甚至超越云端AI的体验。\n此外，Gemma 3具有强大的语言处理能力。其原生支持35种语言，并且预训练支持140多种语言，帮助开发者构建全球化的AI应用。Gemma 3的128k-token超长上下文窗口，使得AI模型能够理解和处理更加复杂和海量的信息。这一能力的提升，使得本地AI能够在处理长文本、大规模数据分析等任务时，展现出更强的处理能力，为需要高精度和高效能的行业应用提供了有力支持。\nGemma 3还支持函数调用和结构化输出，帮助开发者构建智能工作流，进一步简化AI应用的开发过程。这使得开发者能够更容易地构建出符合特定需求的AI应用，快速实现业务自动化和智能化，提高工作效率。\n阿里巴巴最近发布并开源的Qwen2.5-Omni大模型同样带来了本地AI能力的又一次提升，作为首个端到端的全模态大模型，Qwen2.5-Omni能够同时处理文本、图像、音频和视频等多种输入，并实时生成文本与自然语音合成输出，显著提升了AI在多维度、多感官的认知与交互能力。\n轻量级的设计同样是Qwen2.5-Omni的一大亮点，能够以仅7B参数的小尺寸展现了同样强大的性能，即便在手机上，也能轻松部署和应用Qwen2.5-Omni模型。当前，Qwen2.5-Omni已在魔搭社区和Hugging Face同步开源。\n根据测试成绩显示，Qwen2.5-Omni全维度超Google的Gemini-1.5-Pro等同类模型，刷新业界纪录。这一表现意味着，Qwen2.5-Omni不仅具备强大的处理能力，还能更智能、更自然地应对复杂任务。在面对多感官输入时，Qwen2.5-Omni能够模拟人类的认知方式，通过音视频识别情绪，做出更加精准、富有情感的反馈与决策。\n端侧AI继续着着小规模高性能的目标前进，而云端AI更是在3月成为网红级别的存在，在全网掀起了一波又一波的P图秀。\n云上掀起动漫风\n其实在ChatGPT 4o掀起线上动漫风之前，Google在扩大了Gemini 2.0 Flash模型图像生成功能的访问权限后，就已经让人们感受了AI修图的强大实力。其中一项重大功能便是能够去除图片中的水印，对于水印过多的图片，甚至还能尝试填补因水印删除而产生的空白区域。\n当然，这一强大的功能也引来了业界对于版权问题的担忧，其中一大问题就在于付费照片的销售。一些线上拍照服务，会以水印的形式呈现给用户照片图片，通过后续付费来解锁无水印的原图。然而随着这一高效且强大的去水印功能出现，无疑会让很多公司产生疑虑。\n同样是在3月，ChatGPT 4o也带来了一波图像能力的升级更新，推出基于GPT-4o模型的原生图像生成功能，不再调用独立的DALL-E文生图模型。利用GPT-4o的多模态能力，ChatGPT在图像生成时能更加精确地遵循指示、更精确地渲染图像上的文字，同时支持多轮迭代优化图像时保持角色形象一致。\n随之被用户发掘出最吸引人的功能便在于可以将用户上传的图片，重新绘制成其他绘画风格的作品，其中尤以漫画风格最为讨喜，于是，转换生成的吉卜力风格作品瞬间引爆互联网，用户们不仅将自己的日常生活照片进行转换，还将重要历史时刻、网络梗图同样进行了转换，ChatGPT 4o均能做到传神般的写照。\n此外，转换出来的动漫图片，还能配合其他AI视频生成工具，重制一些电影内容，制作出新的动画短片。例如，国外AI影片创作者PJAce先通过ChatGPT 4o生成了102张魔戒电影预告片的转换图片，随后又利用可灵进行动画处理器，最终完整重现了一部吉卜力风格的《魔戒首部曲：魔戒现身》预告片。\n巨大的使用热情也让ChatGPT的算力开始不堪重负，OpenAI CEO Sam Altman在28日时表示：“该功能开始暂时受限，我们的GPU正在‘融化’，Open AI正在尝试优化效率。”随即，很多用户也发现该功能已经无法长时间使用，甚至可能会直接拒绝生成以“吉卜力”为关键词指令的请求。\n人工智能上演的疯狂三月，显然大有一石激起千层浪的势头，端侧模型的能力升级，可能又将进一步推动一些企业的本地部署进程。云端图像能力的提升，仿佛又打开了AI应用的新世界的大门，不过版权问题也随之而来，修图应用公司也可能开始心里发慌，但对于众多使用者来说，无疑也度过了一个兴奋尝试的满足三月。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:44:43.812+03:00",
+  "updated": "2025-04-03T02:44:43.812+03:00"
+}

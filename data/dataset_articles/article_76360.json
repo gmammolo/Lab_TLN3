@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "23615686e45076f17ff2ad53468953a7d1593d52",
+    "url": "https://www.mql5.com/en/job/231001",
+    "site_full": "www.mql5.com",
+    "site": "mql5.com",
+    "site_section": "https://mql5.com/en/rss",
+    "site_categories": [
+      "stocks",
+      "finance"
+    ],
+    "section_title": "MQL5: MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader",
+    "title": "Modification of EA based on indicator",
+    "title_full": "Modification of EA based on indicator",
+    "published": "2025-01-09T20:36:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://c.mql5.com/i/og/mql5-freelance-3.png",
+    "performance_score": 0,
+    "domain_rank": 11098,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "23615686e45076f17ff2ad53468953a7d1593d52",
+  "url": "https://www.mql5.com/en/job/231001",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Developer 1",
+  "published": "2025-01-09T20:36:00.000+02:00",
+  "title": "Modification of EA based on indicator",
+  "text": "Specification\nThe EA has some errors to be corrected\nfirst error is while applying it to 2 or more charts is closed all open position not just in the same chart.\nsecond error is while applying it to 2 or more charts is opening positions without no signals from the indicator.\nfor this tow errors i tried to change the magicnumber but nothing happened.\ni need to add trailing stop too.\ni would like the EA functioning well with no error and delay of initialization.\ni attached the indicator and the EA .mq5\nthank you\nResponded\n1\nRating\nProjects\n104\n15%\nArbitration\n4\n25%\n/\n25%\nOverdue\n8\n8%\nLoaded\n2\nRating\nProjects\n7\n0%\nArbitration\n1\n0%\n/\n0%\nOverdue\n0\nWorking\n3\nRating\nProjects\n0\n0%\nArbitration\n1\n0%\n/\n0%\nOverdue\n0\nFree\n4\nRating\nProjects\n1541\n46%\nArbitration\n50\n72%\n/\n12%\nOverdue\n37\n2%\nFree\n5\nRating\nProjects\n11\n18%\nArbitration\n0\nOverdue\n1\n9%\nWorking\n6\nRating\nProjects\n2\n0%\nArbitration\n1\n0%\n/\n0%\nOverdue\n1\n50%\nWorking\n7\nRating\nProjects\n718\n49%\nArbitration\n57\n16%\n/\n49%\nOverdue\n132\n18%\nWorking\n8\nRating\nProjects\n9\n44%\nArbitration\n1\n100%\n/\n0%\nOverdue\n0\nFree\n9\nRating\nProjects\n288\n22%\nArbitration\n18\n67%\n/\n17%\nOverdue\n1\n0%\nLoaded\n10\nRating\nProjects\n25\n4%\nArbitration\n1\n0%\n/\n0%\nOverdue\n7\n28%\nFree\n11\nRating\nProjects\n16\n31%\nArbitration\n0\nOverdue\n2\n13%\nWorking\n12\nRating\nProjects\n66\n64%\nArbitration\n0\nOverdue\n0\nFree\n13\nRating\nProjects\n406\n31%\nArbitration\n64\n19%\n/\n69%\nOverdue\n52\n13%\nLoaded\n14\nRating\nProjects\n79\n25%\nArbitration\n9\n33%\n/\n56%\nOverdue\n9\n11%\nFree\n15\nRating\nProjects\n2\n0%\nArbitration\n0\nOverdue\n0\nFree\n16\nRating\nProjects\n0\n0%\nArbitration\n0\nOverdue\n0\nFree\n17\nRating\nProjects\n0\n0%\nArbitration\n0\nOverdue\n0\nFree\n18\nRating\nProjects\n8\n25%\nArbitration\n0\nOverdue\n0\nWorking\n19\nRating\nProjects\n0\n0%\nArbitration\n0\nOverdue\n0\nFree\n20\nRating\nProjects\n1\n0%\nArbitration\n1\n0%\n/\n0%\nOverdue\n0\nWorking\n21\nRating\nProjects\n583\n33%\nArbitration\n33\n39%\n/\n39%\nOverdue\n9\n2%\nBusy\nSimilar orders\ncode the FVG+FVG strategy into NinjaTrader 8 (NT8) and optimize it for more accurate results? 1. Develop the strategy to automate trade entries based on the FVG logic as described in the link i provided. 2. Ensure the strategy integrates seamlessly with NT8's framework and handles live market conditions effectively. 3. Optimize parameters for improved performance and accuracy, tailoring the strategy to my specific\nI need a developer who can help me code this strategy into NT8 you'll create the strategy for the fvg+fvg strategy on ninjatrader and you'll optimize it to for more accurate results It should be automatically entering trades based off of the fvg as its described on the link I attatched . https://automated-trading.ch/NT8/strategies/ict-fvg-scalper-strategy\nModifications of crypto trading30 - 40 USD\nI want to code this into NT8strategy30 - 35 USD\nاستيراد ccxt استيراد الباندا بصيغة pd استيراد numpy كـ np طلبات الاستيراد وقت الاستيراد # إعداد لعبة منصة اللعب عبر API التبادل = ccxt.binance({ 'apiKey': 'your_api_key', 'سري': 'سر_api_الخاص بك' }) #إعداد إدارة المتنوعة def calculate_position_size(رصيد الحساب، المخاطرة لكل صفقة، نقاط وقف الخسارة): مبلغ_المخاطرة = رصيد_الحساب * المخاطرة_لكل_تداول حجم الموضع = مبلغ المخاطرة / نقاط وقف الخسارة إرجاع حجم\nTrading robot is needed100+ USD\nAlarm setting50 - 194 USD\nSkyG Robot30+ USD\nOpportunity for a Long-Term Contract The top-performing developer who successfully completes this current job to my straightforward specifications will be offered a contracted hourly position for ongoing work. Criteria for Selection: A strong track record of completed jobs visible in your profile. Availability to focus solely on this project. Ability to deliver within one (1) day. A high star rating. Minimal or no\nDesign a robot for $30-5030 - 50 USD\nProject information\nBudget\n30+ USD\nDeadline\nfrom 1 to 3 day(s)\nCustomer\nPlaced orders5\nArbitrage count0",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->products and services",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:25:27.327+02:00",
+  "updated": "2025-01-10T10:25:27.327+02:00"
+}

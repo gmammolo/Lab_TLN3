@@ -1,0 +1,118 @@
+{
+  "thread": {
+    "uuid": "37c13d3405c9a1549eb038b7a04f0cf56efb7634",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4357402314098-severe-thunderstorm-warning-by-nws",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+    "site_categories": [
+      "under_construction"
+    ],
+    "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "published": "2025-11-20T07:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/423Kfr_16hcT6fo00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "37c13d3405c9a1549eb038b7a04f0cf56efb7634",
+  "url": "https://www.newsbreak.com/nws-alerts-1671083/4357402314098-severe-thunderstorm-warning-by-nws",
+  "ord_in_thread": 0,
+  "author": "NWS Alerts",
+  "published": "2025-11-20T07:44:00.000+02:00",
+  "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+  "text": "1 hours ago Check NWS updates here\nEffective: 2025-11-19 23:43:00 CST Expires: 2025-11-20 00:15:00 CST Urgency: Immediate Severity: Severe Certainty: Observed Instruction: For your protection move to an interior room on the lowest floor of a building. Target Area: Kiowa, OK SVROUN\nThe National Weather Service in Norman has issued a\n* Severe Thunderstorm Warning for... Northeastern Kiowa County in southwestern Oklahoma...\n* Until 1215 AM CST.\n* At 1143 PM CST, a severe thunderstorm was located 6 miles north of Cooperton, moving northeast at 35 mph.\nHAZARD...60 mph wind gusts and half dollar size hail.\nSOURCE...Radar indicated.\nIMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.\n* Locations impacted include... Mountain View, Gotebo, and Cooperton.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather warning",
+    "Disaster and Accident->emergency response"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://img.particlenews.com/image.php?url=423Kfr_16hcT6fo00",
+    "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.b7d076d6d741c25a8e1d270642a34242ef067ad6.001.1",
+    "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_16hcT6fo00",
+    "https://img.particlenews.com/image.php",
+    "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_16hcT6fo00",
+    "https://www.img.particlenews.com/image.php?url=423Kfr_16hcT6fo00",
+    "https://alerts.weather.gov/search",
+    "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.b7d076d6d741c25a8e1d270642a34242ef067ad6.001.1"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Cooperton",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Weather Service",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "fake_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T08:53:37.058+02:00",
+  "updated": "2025-11-20T08:57:27.000+02:00"
+}

@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "2a878a3aea45795404a4e6107f87e82999d5c434",
+    "url": "https://news-24.fr/des-pirates-chinois-ciblent-linux-avec-le-nouveau-malware-wolfsbane",
+    "site_full": "news-24.fr",
+    "site": "news-24.fr",
+    "site_section": "https://news-24.fr/feed",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "News 24",
+    "title": "Des pirates chinois ciblent Linux avec le nouveau malware WolfsBane",
+    "title_full": "Des pirates chinois ciblent Linux avec le nouveau malware WolfsBane",
+    "published": "2024-11-22T07:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://www.bleepstatic.com/content/hl-images/2023/06/22/Linux.jpg",
+    "performance_score": 0,
+    "domain_rank": 133492,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2a878a3aea45795404a4e6107f87e82999d5c434",
+  "url": "https://news-24.fr/des-pirates-chinois-ciblent-linux-avec-le-nouveau-malware-wolfsbane",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sumner Ferland",
+  "published": "2024-11-22T07:49:00.000+02:00",
+  "title": "Des pirates chinois ciblent Linux avec le nouveau malware WolfsBane",
+  "text": "Tech\nDes pirates chinois ciblent Linux avec le nouveau malware WolfsBane\nUne nouvelle porte dérobée Linux appelée « WolfsBane » a été découverte, probablement un portage d’un malware Windows utilisé par le groupe de piratage chinois « Gelsemium ».\nLes chercheurs en sécurité d’ESET qui ont analysé WolfsBane rapportent que WolfsBane est un outil malveillant complet comprenant un compte-gouttes, un lanceur et une porte dérobée, tout en utilisant également un rootkit open source modifié pour échapper à la détection.\nLes chercheurs ont également découvert « FireWood », un autre malware Linux qui semble lié au malware Windows « Project Wood ».\nCependant, FireWood est plus probablement un outil partagé utilisé par plusieurs groupes APT chinois plutôt qu’un outil exclusif/privé créé par Gelsemium.\nESET affirme que les deux familles de logiciels malveillants, toutes deux apparues sur VirusTotal au cours de l’année dernière, font partie d’une tendance plus large selon laquelle les groupes APT ciblent de plus en plus les plates-formes Linux en raison du renforcement de la sécurité de Windows.\n« La tendance des groupes APT à se concentrer sur les logiciels malveillants Linux est de plus en plus visible. Nous pensons que ce changement est dû aux améliorations de la sécurité de la messagerie Windows et des points de terminaison, telles que l’utilisation généralisée des outils de détection et de réponse des points de terminaison (EDR) et la décision de Microsoft de désactiver Visual Macros Basic for Applications (VBA) par défaut. Par conséquent, les auteurs de menaces explorent de nouvelles voies d’attaque, en se concentrant de plus en plus sur l’exploitation des vulnérabilités des systèmes connectés à Internet, dont la plupart fonctionnent sous Linux.\n❖ESET\nLe hurlement furtif de WolfsBane\nWolfsBane est présenté aux cibles via un compte-gouttes nommé « cron », qui supprime le composant de lancement déguisé en composant de bureau KDE.\nEn fonction des privilèges avec lesquels il s’exécute, il désactive SELinux, crée des fichiers de service système ou modifie les fichiers de configuration utilisateur pour établir la persistance.\nLe lanceur charge le composant malveillant de confidentialité, « udevd », qui charge trois bibliothèques cryptées contenant ses fonctionnalités de base et sa configuration de communication de commande et de contrôle (C2).\nEnfin, une version modifiée du rootkit utilisateur BEURK est chargée via « /etc/ld.so.preload » pour un accrochage à l’échelle du système afin de masquer les processus, les fichiers et le trafic réseau liés aux activités de WolfsBane.\n« Le rootkit WolfsBane Hider intègre de nombreuses fonctions de base de la bibliothèque C standard telles que ouvrir, statistique, répertoire de lectureet accéder, » explique ESET.\n« Bien que ces fonctions intégrées invoquent celles d’origine, elles filtrent tous les résultats liés au malware WolfsBane. »\nL’opération principale de WolfsBane consiste à exécuter les commandes reçues du serveur C2 à l’aide de mappages commande-fonction prédéfinis, qui est le même mécanisme que celui utilisé dans son homologue Windows.\nCes commandes incluent les opérations sur les fichiers, l’exfiltration de données et la manipulation du système, donnant à Gelsemium un contrôle total sur les systèmes compromis.\nBien que vaguement lié à Gelsemium, FireWood est une autre porte dérobée Linux qui pourrait permettre des campagnes d’espionnage polyvalentes et à long terme.\nSes capacités d’exécution de commandes permettent aux opérateurs d’effectuer des opérations sur les fichiers, l’exécution de commandes shell, le chargement/déchargement de bibliothèques et l’exfiltration de données.\nESET a identifié un fichier nommé « usbdev.ko », soupçonné de fonctionner comme un rootkit au niveau du noyau, offrant à FireWood la possibilité de masquer les processus.\nLe malware définit sa persistance sur l’hôte en créant un fichier de démarrage automatique (gnome-control.desktop) dans « .config/autostart/ », tandis qu’il peut également inclure des commandes dans ce fichier pour les exécuter automatiquement au démarrage du système.\nUne liste complète des indicateurs de compromission associés aux deux nouvelles familles de logiciels malveillants Linux et aux dernières campagnes de Gelsemium sont disponibles sur ce dépôt GitHub.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T07:56:06.667+02:00",
+  "updated": "2024-11-22T07:56:06.667+02:00"
+}

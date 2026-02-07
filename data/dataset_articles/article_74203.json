@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "4c17296752d12e72d1386932b2a8747f064e8e45",
+    "url": "https://www.wired.it/article/iphone-riavvio-inactivity-reboot",
+    "site_full": "www.wired.it",
+    "site": "wired.it",
+    "site_section": "http://www.wired.it",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Wired - Un mondo migliore. Un mondo nuovo. Ogni giorno. | Wired Italia",
+    "title": "Iphone, la funzione Inactivity Reboot è un problema per la sicurezza",
+    "title_full": "Iphone, la funzione Inactivity Reboot è un problema per la sicurezza",
+    "published": "2024-11-15T13:21:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://media-assets.wired.it/photos/66decb59a26f7a835ba40bdf/16:9/w_1280,c_limit/iOS18-Distraction-Control-Safari-GEAR-1406954092.jpg",
+    "performance_score": 0,
+    "domain_rank": 8686,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4c17296752d12e72d1386932b2a8747f064e8e45",
+  "url": "https://www.wired.it/article/iphone-riavvio-inactivity-reboot",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Chiara Crescenzi",
+  "published": "2024-11-15T13:21:00.000+02:00",
+  "title": "Iphone, la funzione Inactivity Reboot è un problema per la sicurezza",
+  "text": "In questi ultimi giorni una nuova funzione di sicurezza per iPhone aggiornati a iOS 18.1, introdotta in sordina da Apple e chiamata inactivity reboot, ha sollevato preoccupazioni tra gli esperti del settore. L'opzione, pensata probabilmente per proteggere i dispositivi rubati, riavvia automaticamente [l'iPhone](https://www.wired.it/article/iphone-16-novita-prezzo-uscita-caratteristiche-apple/) dopo 72 ore di inattività, rendendo di fatto più difficile l'accesso ai dispositivi per criminali e truffatori. Ma, di fatto, anche per le forze dell'ordine e gli esperti forensi. “Inactivity Reboot mette l'iPhone nello stato ‘Before First Unlock’, bloccando di fatto le chiavi di [crittografia](https://www.wired.it/article/crittografia-dati-computer-guida/) nel processore Secure Enclave - un sottosistema sicuro, progettato per mantenere protetti i dati sensibili dell'utente, anche se il nucleo del processore per le applicazioni venisse compromesso, scrive l'esperta di sicurezza Jiska Classen, la prima a identificare la [nuova funzione di iOS 18](https://www.wired.it/article/ios-18-novita-download-iphone-compatibili/).\nX content\nThis content can also be viewed on the site it [originates](https://twitter.com/naehrdine/status/1856802400897503487) from.\nEd è proprio lo stato “Before First Unlock” (Bfu), cioè quello in cui lo smartphone è stato spento o resettato e non è stato riacceso utilizzando il [codice di sblocco](https://www.wired.it/article/iphone-rubato-codice-di-sblocco/), a rendere più difficile l'estrazione dei dati dai dispositivi sospetti per le forze dell'ordine. Quando l'iPhone entra in questa modalità, i dati dell'utente sono completamente [crittografati](https://www.wired.it/article/crittografia-end-to-end-europol-dichiarazione/) e quasi impossibili da accedere. È evidente, quindi, che i dispositivi che entrano in questo stato dopo 72 ore di inattività rappresentino un'ulteriore questione da risolvere per polizia, autorità ed esperti forensi. Anche se, come fa notare la Classen, nonostante “il riavvio per inattività renda più difficile per le forze dell'ordine ottenere i dati dai dispositivi dei criminali, questo non li blocca completamente. Tre giorni sono comunque un tempo sufficiente per coordinare le operazioni con gli analisti professionisti”.\nQuindi, è vero che l'estrazione dei dati dagli iPhone risulterà più difficile tanto per [i ladri](https://www.wired.it/article/perche-attivare-protezione-del-dispositivo-rubato-iphone/) quanto per la polizia, ma non è detto che sarà impossibile. Anzi, secondo quanto riportato da alcuni [ricercatori della Dakota State University](https://blogs.dsu.edu/digforce/2023/08/23/bfu-and-afu-lock-states/), lo stesso stato Bfu consentirebbe comunque di accedere a una quantità limitata di dati, che possono comunque rivelarsi utili ai fini di un'indagine. In questo caso, “la maggior parte delle informazioni è costituita da dati di sistema/applicazione, nonché da immagini e video memorizzati nella cache che non sono stati generati dall'utente”. Pochi dati, ma senza dubbio utili per gli esperti del settore.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://twitter.com/naehrdine/status/1856802400897503487)",
+    "https://blogs.dsu.edu/digforce/2023/08/23/bfu-and-afu-lock-states/),",
+    "https://www.blogs.dsu.edu/digforce/2023/08/23/bfu-and-afu-lock-states/),",
+    "https://www.twitter.com/naehrdine/status/1856802400897503487)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T13:48:24.432+02:00",
+  "updated": "2024-11-22T16:11:51.647+02:00"
+}

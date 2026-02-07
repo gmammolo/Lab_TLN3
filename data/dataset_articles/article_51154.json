@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "0477d0ec44e5d27b260f9dc6483618e680ca8ada",
+    "url": "https://forum.videohelp.com/threads/415775-Avisynth-stuck-on-previous-error-message",
+    "site_full": "forum.videohelp.com",
+    "site": "videohelp.com",
+    "site_section": "http://forum.videohelp.com/external.php?type=RSS2",
+    "site_categories": [
+      "home_video_dvd",
+      "tech"
+    ],
+    "section_title": "VideoHelp Forum",
+    "title": "Avisynth+ stuck on previous error message",
+    "title_full": "Avisynth+ stuck on previous error message",
+    "published": "2024-08-29T21:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.videohelp.com/images/videohelphd.png",
+    "performance_score": 0,
+    "domain_rank": 7193,
+    "domain_rank_updated": "2024-08-27T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0477d0ec44e5d27b260f9dc6483618e680ca8ada",
+  "url": "https://forum.videohelp.com/threads/415775-Avisynth-stuck-on-previous-error-message",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "spud101",
+  "published": "2024-08-29T21:27:00.000+03:00",
+  "title": "Avisynth+ stuck on previous error message",
+  "text": "I have a strange problem where\n[Avisynth]+ was working fine then I opened an older script in AvsPod which used Deen & received \"cannot load a 32bit DLL in 64 bit Avisynth Deen.dll\" error message.\nNow I get that same error message everytime I try to open any script in Avisynth.\nMy current script is 1 line...\nFFmpegSource2(\"c:\\temp\\cowboy.mp4\") and I still get \"cannot load a 32bit DLL in 64 bit Avisynth Deen.dll\" error message.\nIf it try to open the script in\n[Virtualdub]..I also get the same error. Tried rebooting....still the same\nAny idea what's happening here & how I can clear it?\nThanks\n[+ Reply to Thread](newreply.php?p=2748622&noquote=1)\nResults 1 to 3 of 3\nThread\n-\n-\nAvs+ is trying to autoload the x86 Deen.dll from the x64 plugins folder.\nDelete the .dll , or move it to another folder\n-\nYes. thank you.\nSimilar Threads\n-\n[FFTW Library - AVISynth Info Tool Error Message](threads/409769-FFTW-Library-AVISynth-Info-Tool-Error-Message)By Alwyn in forum RestorationReplies: 2Last Post: 28th May 2023, 02:35\n-\n[InpaintDelogo error message](threads/408201-InpaintDelogo-error-message)By Hunk91 in forum RestorationReplies: 11Last Post: 17th Jan 2023, 10:49\n-\n[Error message while encoding x265 using ffmpeg, thread message queue blo...](threads/407128-Error-message-while-encoding-x265-using-ffmpeg-thread-message-queue-blo)By sienipulla in forum Video ConversionReplies: 10Last Post: 30th Sep 2022, 09:51\n-\n[error message](threads/399204-error-message)By hellox9 in forum Newbie / General discussionsReplies: 8Last Post: 15th Oct 2020, 04:17\n-\n[Avisynth error message using AnimeIVTC and TemporalDegrain](threads/395602-Avisynth-error-message-using-AnimeIVTC-and-TemporalDegrain)By nick1977 in forum RestorationReplies: 6Last Post: 11th Jan 2020, 03:52 Try DVDFaband backup Blu-rays!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.dvdfab.cn/blu-ray-copy.htm?af=m767uti6sqh1dK4C",
+    "https://www.dvdfab.cn/blu-ray-copy.htm",
+    "https://dvdfab.cn/blu-ray-copy.htm?af=m767uti6sqh1dK4C"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "deen",
+        "sentiment": "none"
+      },
+      {
+        "name": "alwyn",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dll",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "avisynth",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-30T01:24:08.021+03:00",
+  "updated": "2024-08-30T01:24:08.021+03:00"
+}

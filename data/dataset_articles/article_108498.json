@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "c9db51626a55518325b1deefb7dd1b21a6f05b37",
+    "url": "https://www.thenews.com.pk/latest/1342822-security-forces-kill-10-indian-sponsored-terrorists-in-kp-operations-ispr",
+    "site_full": "www.thenews.com.pk",
+    "site": "thenews.com.pk",
+    "site_section": "https://www.thenews.com.pk",
+    "site_categories": [
+      "media",
+      "top_news_ph",
+      "top_news_pk",
+      "top_news_za",
+      "top_news_ie",
+      "top_news_nz",
+      "top_news"
+    ],
+    "section_title": "The News International: Latest News Breaking, World, Entertainment, Royal News",
+    "site_title": "The News International: Latest News Breaking, Pakistan News",
+    "title": "Security forces kill 19 Indian-sponsored terrorists in KP IBOs: ISPR",
+    "title_full": "Security forces kill 19 Indian-sponsored terrorists in KP IBOs: ISPR",
+    "published": "2025-09-11T08:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PK",
+    "main_image": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-11/1342822_104239_updates.jpg",
+    "performance_score": 0,
+    "domain_rank": 5055,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 12,
+        "shares": 13
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c9db51626a55518325b1deefb7dd1b21a6f05b37",
+  "url": "https://www.thenews.com.pk/latest/1342822-security-forces-kill-10-indian-sponsored-terrorists-in-kp-operations-ispr",
+  "ord_in_thread": 0,
+  "author": "Waqas Jawaid",
+  "published": "2025-09-11T08:48:00.000+03:00",
+  "title": "Security forces kill 19 Indian-sponsored terrorists in KP IBOs: ISPR",
+  "text": "Security forces killed 19 terrorists belonging to the Indian proxy Fitna al-Khwaraj in separate operations in Khyber Pakhtunkhwa on September 9 and 10, the Inter-Services Public Relations (ISPR) said on Thursday.\nAccording to the military's media wing, three intelligence-based operations were carried out in Mohmand, North Waziristan and Bannu districts.\nDuring the operations, 14 militants were killed in Mohmand, four in North Waziristan, and one in Bannu after intense exchanges of fire, the ISPR statement read.\nThe military's media wing further said that weapons and ammunition were recovered from those killed, who were involved in numerous terrorist activities in these areas.\n\"Sanitisation operations are continuing in the surrounding areas to eliminate any remaining militants,\" ISPR said, reiterating that Pakistan’s security forces remain committed to eradicating Indian-sponsored terrorism from the country.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Politics"
+  ],
+  "topics": [
+    "War, Conflict and Unrest->act of terror",
+    "Politics->safety of citizens",
+    "Politics->national elections"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Khyber Pakhtunkhwa",
+        "sentiment": "none"
+      },
+      {
+        "name": "North Waziristan",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mohmand",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ISPR",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_ph",
+      "top_news_pk",
+      "top_news_za",
+      "top_news_ie",
+      "top_news_nz",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-11T09:17:04.873+03:00",
+  "updated": "2025-09-12T10:07:33.000+03:00"
+}

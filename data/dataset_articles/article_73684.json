@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "abea4f71e6fbfb59676104901874fa7ed976e216",
+    "url": "https://lifehacker.com/tech/the-weakest-passwords-people-often-use",
+    "site_full": "lifehacker.com",
+    "site": "lifehacker.com",
+    "site_section": "https://lifehacker.com/tech",
+    "site_categories": [
+      "herbs_for_health",
+      "health"
+    ],
+    "section_title": "Tech - Tips, Tricks and Hacks for Doing Everything Better | Lifehacker",
+    "title": "Please Don't Use Any of These Passwords",
+    "title_full": "Please Don't Use Any of These Passwords",
+    "published": "2024-11-15T00:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://lifehacker.com/imagery/articles/01JCP6SAPYTD1AKT33A1P9B0ZD/hero-image.fill.size_1200x675.png",
+    "performance_score": 0,
+    "domain_rank": 680,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "abea4f71e6fbfb59676104901874fa7ed976e216",
+  "url": "https://lifehacker.com/tech/the-weakest-passwords-people-often-use",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jake Peterson",
+  "published": "2024-11-15T00:30:00.000+02:00",
+  "title": "Please Don't Use Any of These Passwords",
+  "text": "Look, I get it. No one likes managing their passwords. It's so much easier to use the same, simple password for every account, so when you go to sign in, you punch in a familiar phrase from muscle memory, and you're in.\nNow, the lecture: This is horrific from a security perspective. Your password is too easy to guess, which means it's too easy for hackers to break into your accounts. And if you use the same easy-to-guess password for everything, well, you're in for a bad time.\nThe most common passwords are almost all terrible You don't have to take my word for it: For the sixth year in a row, NordPass (in collaboration with NordStellar) has released a list of the most common passwords people use on the internet . This list spans the top 200 most common passwords used across 44 countries from around the globe, based on 2.5TB of data, including information sourced from the dark web . NordPass found some of this data from passwords leaked by hackers or stolen via malware. Because most of these were tied to email addresses, NordPass could separate passwords between corporate and personal accounts, although they found this year, there were few differences between the passwords people use for work and the ones they use at home.\nLooking at the most common passwords from all 44 countries studied here, many aren't going to be surprising. The most used password, for example, used over three million times, is \"123456.\" The second most used, used over 1.6 million times, is \"123456789.\") Number four is \"password,\" while three variations of \"qwerty\" make it into the top 20.\nSome personal favorites scrolling through this list are: \"dragon\" (#20), \"monkey\" (#21), \" \" (#54), \"fuckyou\" (#60), \"computer\" #63, \"trustno1\" (#135), \"letmein\" (#144), and \"cheese\" (#200). If you use any of these, kudos on the amusing password. Now change it immediately.\nBad passwords can be broken in minutes (or less) Many of these are obviously bad passwords. Using something like \"password,\" \"123456,\" or \"qwerty\" is simple for both humans and computers to guess. However, most of these passwords are bad, and not just because they're commonly used. Many are simply weak passwords, structured in a way that a computer would crack quickly. In fact, most are crackable in under one second. Scrolling through the list, that becomes evident. It might take a human a long time to figure out someone's password is 123456c, but a computer can break it almost instantaneously.\nTo be fair, some of these take minutes or hours more, while a few do take quite some time to break: \"111222tianya,\" number 75, would take one full day to crack, while \"g_czechout,\" number 157, would take 12 days. But the vast majority of these passwords are almost as bad as not having a password at all.\nWhat makes a strong and unique password? When it comes to making good passwords , don’t choose something that means anything to you. In fact, you don’t want something that means anything to anyone: The more obscure and/or random the password, the harder it will be for a computer to crack, and it’ll probably be impossible for a human to guess.\nBut that doesn’t mean you need to start mashing away at the keyboard every time you make a new password. One effective method to creating strong and unique passwords is to string together a few totally random words together. Use this aging but still accurate xkcd comic’s take on the subject as a model: Cartoonist Randall Munroe demonstrates how a password like “Tr0ub4dor&3\" seems strong on the surface (a human would never guess it), but a computer could crack it fairly easily. Plus, it’s hard to remember. Connecting four random words is way harder for computers and humans alike to figure out, and you might have an easier time remembering it (the now infamous \"correcthorsebatterystaple.\" Change some of the letters to characters, include an underscore or two, and you’ve got a strong password cooking.\nJust get a password manager already You can read more about creating memorable passwords that are strong and unique in our guide here . Honestly though, you really only need to remember one strong and unique password, because the rest of them should be locked away in a password manager . That removes the temptations to make any of these passwords memorable: The manager remembers them, so you don’t have to. They’ll even make the passwords for you!\nIf you need help finding one, our sister site PCMag has a list of the best password managers they've tried in 2024 . Of course, you can always use the free password manager that comes with your platform of choice. Apple's new Passwords app isn't too bad for managing your passwords across iPhone, iPad, and Mac, although it will be more limited than a dedicated third-party password manager.\nEven good passwords don’t make your account secure Passwords get too much attention anyway. You should also be coupling them with two-factor authentication on any account that supports it, preferably via an authentication app rather than a simple text message . If you have 2FA set up, a compromised password won’t be enough for hackers to break into your account: They’ll also need access to the code on your trusted device.\nIf companies like Apple and Google get their way, passkeys might replace the whole system altogether . Passkeys combine passwords and 2FA together into one secure system. You don’t come up a password; rather, your secondary device is the password, storing the secure passkey for you and only you to access. As long as you can authenticate yourself, you’re in. It’s a great concept, and could both simplify authentication and enhance its security. But seeing as so many of us are still using “password” for everything, we’re going to be a long time getting there.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.pcmag.com/picks/the-best-password-managers).",
+    "https://nordpass.com/most-common-passwords-list/).",
+    "https://xkcd.com/936/)",
+    "https://pcmag.com/picks/the-best-password-managers).",
+    "https://www.nordpass.com/most-common-passwords-list/).",
+    "https://www.xkcd.com/936/)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "abea4f71e6fbfb59676104901874fa7ed976e216",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:19:12.444+02:00",
+  "updated": "2024-11-15T06:14:29.941+02:00"
+}

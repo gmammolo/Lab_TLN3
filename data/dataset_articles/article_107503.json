@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "4ca2c28fb2ca756579053ed29ff070fa42eb6bd5",
+    "url": "https://www.newkerala.com/news/2024/25805.htm",
+    "site_full": "www.newkerala.com",
+    "site": "newkerala.com",
+    "site_section": "http://www.newkerala.com/kerala-news.xml",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Latest News",
+    "title": "CERT-In finds multiple bugs in Google Chrome, GitLab",
+    "title_full": "CERT-In finds multiple bugs in Google Chrome, GitLab",
+    "published": "2024-05-06T22:42:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://one.newkerala.com/images/t/bnews.webp",
+    "performance_score": 0,
+    "domain_rank": 19565,
+    "domain_rank_updated": "2024-04-30T13:07:54.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4ca2c28fb2ca756579053ed29ff070fa42eb6bd5",
+  "url": "https://www.newkerala.com/news/2024/25805.htm",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-05-06T22:42:00.000+03:00",
+  "title": "CERT-In finds multiple bugs in Google Chrome, GitLab",
+  "text": "CERT-In finds multiple bugs in Google Chrome, GitLab\nT\nhe Indian Computer Emergency Response Team (CERT-In), which comes under the Ministry of Electronics & Information Technology, has warned users of multiple vulnerabilities in Google Chrome and GitLab (an open-core company) which could allow an attacker to obtain sensitive information, bypass security restriction and cause denial-of-service (DoS) conditions on the targeted system.\nThe affected software includes Chrome versions before 124.0.6367.118/.119 for Mac and Windows and Chrome versions prior to 124.0.6367.118 for Linux.\nFor GitLab, the affected software includes -- GitLab Community Edition (CE) and Enterprise Edition (EE) versions before 16.11.1, 16.10.4 and 16.9.6.\n\"Multiple vulnerabilities have been reported in Google Chrome which could be exploited by a remote attacker to trigger remote code execution and DoS conditions on the targeted system,\" said the CERT-In advisory.\nAccording to the cyber agency, these vulnerabilities exist in Google Chrome due to the use-after-free flaw in Dawn and Picture in Picture components.\nOn the other hand, multiple vulnerabilities such as authentication bypass vulnerability, security restriction bypass, and denial of service exist in GitLab due to improper authentication mechanisms, flaws in handling domain-based restrictions when processing crafted email addresses, path traversal vulnerability and an inefficient regular expression, respectively.\nAs mentioned by the cyber agency, an attacker could use \"these vulnerabilities by persuading a victim to visit a specially crafted website.\"\nThe agency suggested users apply appropriate security updates as mentioned by the companies.\n✔️ CERT-In finds multiple bugs in Google Chrome, GitLab\n ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Human Interest",
+    "War, Conflict and Unrest",
+    "Sport"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "google chrome",
+        "sentiment": "negative"
+      },
+      {
+        "name": "cert",
+        "sentiment": "negative"
+      },
+      {
+        "name": "google",
+        "sentiment": "none"
+      },
+      {
+        "name": "ministry of electronics & information technology",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-05-06T23:42:45.364+03:00",
+  "updated": "2024-05-06T23:42:45.364+03:00"
+}

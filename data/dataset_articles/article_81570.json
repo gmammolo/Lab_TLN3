@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "2bcbda716a8fe7768a8ff640a171c45a3a733f93",
+    "url": "https://www.omgubuntu.co.uk/2024/04/ubuntu-24-04-beta-released",
+    "site_full": "www.omgubuntu.co.uk",
+    "site": "omgubuntu.co.uk",
+    "site_section": "https://www.omgubuntu.co.uk/category/news",
+    "site_categories": [
+      "unix",
+      "tech"
+    ],
+    "section_title": null,
+    "title": "Ubuntu 24.04 Beta Released, This is What's New - OMG! Ubuntu",
+    "title_full": "Ubuntu 24.04 Beta Released, This is What's New - OMG! Ubuntu",
+    "published": "2024-04-12T01:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 13331,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2bcbda716a8fe7768a8ff640a171c45a3a733f93",
+  "url": "https://www.omgubuntu.co.uk/2024/04/ubuntu-24-04-beta-released",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Joey Sneddon",
+  "published": "2024-04-12T01:00:00.000+03:00",
+  "title": "Ubuntu 24.04 Beta Released, This is What's New - OMG! Ubuntu",
+  "text": "The Ubuntu 24.04 beta is now available to download — one week later than originally planned!\nUbuntu 24.04 will become the next long-term support release (LTS) and this beta will provide developers, testers, and enthusiasts time to try it out, track down bugs, and road test its new features.\nBeta releases are not intended for everyday use (i.e. you’re not supposed to install it as your main OS or on machines you rely on) but, that said, many folks do.\nThe Noble development cycle hasn’t been without its dramas and hiccups.\nDevs undertook the largest library transition in Ubuntu’s history (to mitigate the ‘year 2038 problem’), and the recent discover of obfuscated, malicious code in the Xz compression library meant every binary package in the Noble repos had to be rebuilt (hence the beta delay).\nBut chances are you’re not here to hear about all of that ; you’re here to hear about what’s new.\nAnd there’s a fair bit.\nUbuntu 24.04 Beta in Brief Ubuntu 24.04 Beta build Most people who upgrade to Ubuntu 24.04 LTS will do so from the previous long-term support release, Ubuntu 22.04 LTS. As such, the cumulative total of “new features” will encompass not only the things added between 23.10 -> 24.04 but everything added since 22.10.\nI plan to run-through the cumulative feature set in a separate post as most people who read this site (hello 🤭) who are interested in testing a beta release are likely to be familiar with/coming from an interim release — making those ‘new’ features ‘old’ news!\nWhat follows is an overview of the notable changes since Ubuntu 23.10, which was released last October. If you use that release then all of the stuff below will be new to you.\nInstaller Improvements Automated installation is now possible\nUbuntu’s Flutter-based installer has been revamped with refreshed visuals and more intelligible text descriptions; the order of installation steps has been adjusted; and a new panel for configuring accessibility needs introduced.\nMost notable, Ubuntu’s updated installer begins a new approach to installation based on the concept of “provisioning”. As part of this, the Ubuntu 24.04 installer allows users to open a .yaml file containing a pre-filled configuration in order to automate deployment.\nApp Changes GNOME Games are gone Since 23.10, Ubuntu defaults to a ‘minimal’ install with only a small set of ‘essential’ software preinstalled. Those needing a fully-stocked offline-friendly install with apps like LibreOffice , Rhythmbox , GNOME Calendar , etc must choose ‘Extended Selection’ in the installer.\nUbuntu 24.04 makes changes to the apps in the extended install:\nCheese webcam app replaced by Snapshot GNOME games removed Thunderbird e-mail client now a snap package Otherwise, everything is as it was and every app has been updated to the latest version including the latest LibreOffice 24.2 series and the latest Transmission 4.0 release. This should ensure you don’t need to hunt down PPAs, Flatpaks, etc for newer builds for a while!\nGNOME 46 (some) notifications can now be expanded/collapsed Ubuntu 24.04 ships with the recent GNOME 46 release, a sizeable update delivering a wealth of improvements throughout the entire desktop.\nThere’s a set of super-charged new Nautilus search features ; a reorganised Settings app with new panels and options; collapsable notifications in GNOME Shell; support for remote login over RDP ; faster search in the GNOME Shell overview, and more.\nWelcome updates.\nFoundational Changes Performance tooling is now preinstalled in noble builds Ubuntu 24.04 uses Linux kernel 6.8 , the latest version at the time of release.\nThis offers a ton of improvements and enablements, but a few notable things: Intel ‘Meteor Lake’ CPUs now hit their advertised boost speeds; Nintendo Switch Online controller support; RFI mitigations to remedy Wi-Fi issues on some AMD laptops; and zswap buffs.\nThe network stack has been updated to Netplan 1.0 , enabling support for simultaneous WPA2 & WPA3 connections, Mellanox VF-LAG, improving VXLAN, and providing a stable libnetplan1 API .\nUbuntu 24.04 changes at-a-glance:\nDesktop installer updates GNOME 46 w/ updated apps Power efficiency improvements Big gaming boost Linux kernel 6.8.11 Mesa 24.0.3 Netplan 1.0 Performance tooling is now preinstalled GNOME Games package removed (full install) GNOME Snapshot replaces Cheese (full install) Thunderbird e-mail client is now a snap package (full install) A few things to be aware of when upgrading (from any version):\nYou still can’t install DEB packages using App Center Thunderbird DEB now a transition package which installs the snap The new Flutter-based Desktop Security Center tool in testing earlier in this development cycle isn’t present (not a surprise; there’s been little development on it in recent weeks).\nDownload Ubuntu 24.04 Beta You can download the Ubuntu 24.04 Beta from the Ubuntu release server right now for 64-bit Intel/AMD devices (a weighty 5GB in size). A pre-installed image for Raspberry Pi 4 & 5 is also available to download.\nAnd before you ask, yes: you can upgrade from Ubuntu beta to the final release. Simply install all updates released between now and then. By release day you will have the same set of packages as anyone doing a clean install (and likely a pinch of cruft they don’t).\nLike Ubuntu but with a different flavour? Beta builds of official Ubuntu flavours are also available for testing from today too.\nTo upgrade to Ubuntu 24.04 from Ubuntu 22.04 you’ll need to wait until June unless you’re willing to use the command line. This is because Canonical only begin notifying LTS users of an upgrade once the first point release is made (and thus, the update is even more stable).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://www.omglinux.com/transmission-4-released/",
+    "https://netplan.readthedocs.io/en/stable/apidoc/",
+    "https://docs.mesa3d.org/relnotes/24.0.3.html",
+    "https://github.com/canonical/netplan/releases/tag/1.0",
+    "https://releases.ubuntu.com/noble/",
+    "https://www.omglinux.com/transmission-4-released",
+    "https://omglinux.com/transmission-4-released/",
+    "https://www.github.com/canonical/netplan/releases/tag/1.0",
+    "https://www.netplan.readthedocs.io/en/stable/apidoc/",
+    "https://www.releases.ubuntu.com/noble/",
+    "https://releases.ubuntu.com/noble",
+    "https://www.docs.mesa3d.org/relnotes/24.0.3.html",
+    "https://netplan.readthedocs.io/en/stable/apidoc"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "ubuntu",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T04:52:40.431+03:00",
+  "updated": "2024-04-12T04:52:40.431+03:00"
+}

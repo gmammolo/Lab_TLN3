@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "a1c730d1915c9edd0da509e3c58a89752c36e4a3",
+    "url": "http://stock.10jqka.com.cn/20251225/c673505253.shtml",
+    "site_full": "stock.10jqka.com.cn",
+    "site": "10jqka.com.cn",
+    "site_section": "http://stock.10jqka.com.cn/",
+    "site_categories": [
+      "stocks",
+      "finance",
+      "financial_news"
+    ],
+    "section_title": "同花顺股票频道—提供最新的A股上市公司新闻、行情、公告及股票分析",
+    "site_title": null,
+    "title": "国海证券：总线互联促进AI模型与应用产业发展 维持计算机行业\"推荐\"评级",
+    "title_full": "国海证券：总线互联促进AI模型与应用产业发展 维持计算机行业\"推荐\"评级",
+    "published": "2025-12-25T07:52:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4785,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a1c730d1915c9edd0da509e3c58a89752c36e4a3",
+  "url": "http://stock.10jqka.com.cn/20251225/c673505253.shtml",
+  "ord_in_thread": 0,
+  "author": "智通财经",
+  "published": "2025-12-25T07:52:00.000+02:00",
+  "title": "国海证券：总线互联促进AI模型与应用产业发展 维持计算机行业\"推荐\"评级",
+  "text": "国海证券发布研报称，在大模型时代下，Scale-Up对高速互联协议产生新需求。总线互联在超节点中起到互联互通的重要作用，当前国内外正积极发布新的总线互连架构，促进AI模型与应用的产业发展，进而助力形成从模型到算力的正向飞轮。维持对计算机行业“推荐”评级。\n　　国海证券主要观点如下：\n　　 一、高速互联协议服务于大模型时代下的Scale-Up\n　　计算机总线用途在于连接系统与组件，总线接口就是系统或PCB的不同部件之间的数据传输的物理导线，具有：①发送数据;②寻找特定的数据;③控制系统中不同部分的运行等功能。服务器常见的计算机总线协议包括PCIe、Ethernet等，Switch设备负责Scale-Up中的主机通信与扩展系统宽带和设备数量。在大模型时代下，Scale-Up对高速互联协议产生新需求，目前主流的互联协议包括：NVLink、UALink、SUE、CXL、HSL、UB等。\n　　 二、Scale-Up中高速互联协议NVLink领先、众厂商追赶\n　　1)PCIe协议与交换机是传统的计算机扩展总线标准，随技术迭代速率提升，但CPU、GPU等各设备间通信速度仍存瓶颈，因此CXL协议应运而生。此外，众多厂商亦使用各自互联协议，其中NVLink处于领先地位。\n　　2)NVLink实现了Scale-Up中GPU与GPU间高速互联;NVSwitch则是多GPU互联推理的硬件支持，其延迟低、通道数多、带宽高、功耗大;NVLink C2C则实现了Scale-Up中实现CPU与CPU、CPU与GPU间的高速互联，在速率上第五代NVLink单通道的带宽为200Gbps，而PCIe Gen5为32Gbps。\n　　3)华为灵衢(UB)提供百ns同步内存语义访问时延、2-5us异步内存语义访问时延，提供组件间TB/s级带宽，UBProcessing Unit是支持UB协议栈的处理单元，其内嵌UBSwitch，实现多级UBSwitch扩展组网，并支持通过UBoE与以太Switch融合组网。\n　　4)UAlink利用以太网基础设施实现Scale-Up，UALink1.0规范支持每通道最高200GT/s的数据传输速率，每四条物理通道组合构成一个UALink基本单元组，在发送(TX)和接收(RX)方向上各提供最大800Gbps的带宽。\n　　5)博通SUE借助以太网实现网络总线化，SUE在于以低延迟、高带宽的方式实现高效部署，支持以高效面积和功耗实现多实例化。\n　　6)海光信息在光合组织2025人工智能创新大会上发布海光系统互联总线协议(HSL)1.0规范，并公布HSL未来三年的开放路线图，旨在打破技术壁垒，促进国产计算产业生态的协同创新。\n　　 三、NVLink走向开源，互联技术应服务高带宽和低延时\n　　1)NVLink Fusion部分开源合作。MediaTek、Marvell、Alchip Technologies、Astera Labs、Synopsys和Cadence为首批合作厂商;支持定制化芯片Scale-Up以满足模型训练和推理需求;云服务商可以使用自定义ASIC、NVIDIA机架级系统和NVIDIA端到端网络平台。\n　　2)算力需求演进对互联技术实现高带宽、低时延提出更高要求。随着模型规模、数据集规模及训练计算量的增加，语言建模性能呈现平滑提升趋势，要获得最优性能，上述三个因素必须同步提升;当前大型语言模型存在显著训练不足的问题，这是近期在保持训练数据量不变的情况下过度追求模型规模扩张的结果。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->investment and opinion pieces",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T08:19:41.518+02:00",
+  "updated": "2025-12-25T08:22:52.000+02:00"
+}

@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "90e6f32a191b3a98761b4e41ece46e9e54c063f2",
+    "url": "https://bachtrack.com/feature-swamped-by-bots-bachtrack-inside-cybercrime-august-2025",
+    "site_full": "bachtrack.com",
+    "site": "bachtrack.com",
+    "site_section": "https://bachtrack.com/22/271/rss.xml",
+    "site_categories": [
+      "music",
+      "entertainment"
+    ],
+    "section_title": "Latest articles",
+    "site_title": "Welcome to Bachtrack The classical music website | Bachtrack",
+    "title": "Swamped by bots: how the cybercrime wave is affecting Bachtrack",
+    "title_full": "Swamped by bots: how the cybercrime wave is affecting Bachtrack",
+    "published": "2025-08-20T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.bachtrack.com/files/443860-pexels-markusspiske-113850.jpg",
+    "performance_score": 0,
+    "domain_rank": 39154,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "90e6f32a191b3a98761b4e41ece46e9e54c063f2",
+  "url": "https://bachtrack.com/feature-swamped-by-bots-bachtrack-inside-cybercrime-august-2025",
+  "ord_in_thread": 0,
+  "author": "@davidkarlin",
+  "published": "2025-08-20T03:00:00.000+03:00",
+  "title": "Swamped by bots: how the cybercrime wave is affecting Bachtrack",
+  "text": "Alison and I have now spent nearly 17 years of our lives creating Bachtrack and turning it into an indispensable resource for lovers of live classical music and dance around the world. And we care deeply about making sure that users can actually access bachtrack.com – all the time.\nSome basics for the non-technical: when you read a page on bachtrack.com, your browser sends a message (a “request”) to our server which includes a return address (your “IP address”) to which we can reply with another message (a “response”) sending whatever was requested – an article, a home page, some search results or whatever else. In normal times, we might expect to handle something like 5 million requests a month. If you think that sounds like a heavy workload, you’re right. It takes some carefully thought out technology to make it all happen.\nWe take great pride in having been able to cope with that workload with very low levels of downtime. In 2024, for example, we only had 10 hours of total downtime in the whole year. For a small business running a free-to-use ad-funded website, that felt more than decent – it approaches what reliability professionals would call “three nines availability”, i.e. fully working 99.9% of the time.\nBut these are not normal times. We are living through a growing wave of cybercrime, whose manifestation in our case is that our server risks being flooded by traffic that is generated not by humans but by networks of software robots. Some of them are benign, like the crawlers that enable our content to appear in Google search results, but many of them are not. In its 2025 Bad Bot Report, security company Imperva estimates that over 51% of all web traffic now comes from robots. For us, the figure is a lot higher.\nI started to get worried in early 2025, when the amount of robot traffic to the website began to increase steadily, requiring constant vigilance to block “bad bot” traffic. First, we blocked individual IP addresses, then we blocked groups of 256 addresses at a time, and eventually had to adopt the scattergun approach of barring large blocks of 65,536 addresses at a time. I knew we were taking out some real users along the way, but we were running short on options: the penalty for leaving things as they were was that bachtrack.com would be unable to cope with the traffic and would become unusable by real users. What is effectively going on is known as a “Distributed Denial of Service” attack (“DDoS” for short).\nThen, in July, things went critical. No longer were the bad bots using IP addresses from an identifiable group or even country, but they were using hundreds of thousands of addresses with little obvious connection between them. This wasn’t helped by the fact that I was on holiday in the middle of nowhere for half the month (we’re a very small company and I’m the only “technical resource”). Our availability plunged to an unacceptable 96%, with 29 hours of downtime in the month. Suggestions from WALTLabs, a partner of Google, who provide our web hosting and our defence framework, made little impact. I quadrupled our server size (at significant cost), with only modest effect. I started blocking whole countries at a time, of which the largest was Brazil, a country which definitely has real Bachtrack users. The situation was getting desperate.\nIn the end, I got lucky. An abnormal number of errors in one of our log tables led me to realise that the botnet was hammering away at invalid URLs of a particular type. To give you an idea of the scale: in July, 1.4 million of the total number of 4.8 million accesses to our server were to this particular group of invalid URLs. The attack is continuing: as I write this, the last seven days have seen 857,000 attempts to access these URLs from a staggering 508,000 different IP addresses. Fortunately, the impact is now minimal, because I’ve now been able to firewall off the vast majority of these URLs so that the accesses never reach our server.\nThis all raises a series of questions:\n- Who are these people?\n- Why are they doing this to us?\n- How can we make them go away?\n- Shouldn’t law enforcement be able to help us?\nAt present, I have no real answers to any of these questions.\nA typical IP address that’s been making these accesses is 189.18.37.224. Searching the usual tools reveals this to be based in São Paulo and registered to Telefônica Brasil, a giant telecommunications company with over 90 million customers. I don’t know any more, and I’m not sure whether the hackers are actually using that IP address, perhaps on a compromised computer, or whether they have compromised a whole router, permitting them to use tens of thousands of different addresses. All I know is that whoever the bad guys are, they are well funded and persistent.\nPerhaps I should be unsurprised to see an IP address from Brazil, which is the no. 1 company on the threat map from security specialists Spamhaus. Nor, in truth, should I be surprised by the scale. In May 2024, the FBI announced that it had dismantled what is considered to have been the world’s largest network of robots: the “911 S5 botnet” consisted of 19 million infected computers infected obeying the criminals’ orders. It is only one of many such networks.\nOn the other hand, I can take at least an approximate guess as to what the hackers are hoping to achieve. It seemed unlikely that this would be a deliberate DDoS attack, even if that were the effect – after all, who benefits from Bachtrack being down? So here is a more likely possibility, based on the fact that overwhelmingly, the offending URLs end in “index.html” and are almost all different from each other. This suggests that the bad guys are algorithmically constructing millions of different URLs because they believe that one of them will find a vulnerability in our site software, presumably allowing them to inject malware. Why they have chosen the start point they have done, the “buy tickets” links on our site, remains a mystery.\nIt doesn’t appear to be possible to make them just go away. For the last couple of weeks, these invalid URLs have all been returning HTTP error codes, with no sign of diminution in the attack rate. It doesn’t matter that much, as long as my blocking remains working, but it would still be lovely to have all this behind us.\nSo shouldn’t law enforcement be able to help? After all, this is clearly an intentional criminal act which is illegal under the Computer Misuse Act 1990 and which results in material damage to Bachtrack’s business. Shouldn’t there be some bit of the police whose job it is to deal with this kind of thing?\nAs things stand, the practical answer is a resounding no. In the UK, victims of cybercrime are instructed to report incidents to Action Fraud, the police’s National Fraud & Cyber Crime Reporting Centre. The last time the House of Commons Public Accounts Committee looked at this, in 2022–23, they reported that Action Fraud received around 900,000 reports a year, of which less than 1% resulted in a prosecution. In the years since, it’s extremely likely that the situation has only got worse (maybe even to the point that no-one dares publish the statistics). And let’s bear in mind that many of those 900,000 crimes – perhaps a significant majority – will have involved real, immediate and countable loss of money: credit card scams, e-commerce scams, phishing scams (where the amounts can be huge) and many others. An attack like the one we’re facing just isn’t going to register on the scale.\nSo in an ideal world, what should happen? Personally, I believe that the answer lies in changes to the infrastructure of the Internet. In the early days of the web, I was all in favour of privacy and anonymity – the idea that I could browse the Internet without having to declare who I was, not even to the providers of the websites I visited. But two critical things have changed since those heady days. First, the vast majority of the world wide web has turned from free information sharing services into commercial entities. It’s obvious that an e-commerce site needs you to identify yourself so that it can bill you and ship you the goods. But even an ad-funded site like ours needs some level of identification in order to demonstrate utility to our advertisers, without whom we would not be able to provide our content free-to-view as we do.\nThe second thing that has changed is that we’re no longer talking about just a single human protecting their personal privacy. The botnet that is attacking us consists of thousands or possibly millions of computers, and the people controlling them rely on their anonymity to provide cover for criminal activity. The internet needs to provide an infrastructure that removes that anonymity. Yes, I know that any solution here would be beset by massive concerns over snooping by governments (the Electronic Frontier Foundation are correctly vocal in this area). But I believe that it should be possible to strike a far better balance between the competing demands of protecting individual privacy and protecting us against anonymous malign actors. (By the way, it’s not just the Internet that needs this. Our telecom networks seriously need to disallow caller ID spoofing, a big factor in phishing scams.)\nMuch as I think these changes are needed, I don’t suppose they’re going to happen any time soon. So meanwhile, how about a new HTTP status code: rather than 400 (“bad request”), 401 (“unauthorized”), 403 (“forbidden”), we could use the currently unassigned 432 as “malicious activity detected”. It might not stop anyone, but it would at least make me feel better that I was telling the criminals where to stuff themselves... Are you listening, IETF?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Social Issue->communities",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://committees.parliament.uk/publications/34609/documents/190751/default/",
+    "https://www.spamhaus.com/threat-map/",
+    "https://www.justice.gov/archives/opa/pr/911-s5-botnet-dismantled-and-its-administrator-arrested-coordinated-international-operation",
+    "https://www.imperva.com/resources/resource-library/reports/2025-bad-bot-report/",
+    "https://www.imperva.com/resources/resource-library/reports/2025-bad-bot-report",
+    "https://www.spamhaus.com/threat-map",
+    "https://spamhaus.com/threat-map/",
+    "https://committees.parliament.uk/publications/34609/documents/190751/default",
+    "https://www.committees.parliament.uk/publications/34609/documents/190751/default/",
+    "https://imperva.com/resources/resource-library/reports/2025-bad-bot-report/",
+    "https://justice.gov/archives/opa/pr/911-s5-botnet-dismantled-and-its-administrator-arrested-coordinated-international-operation"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alison",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:45:47.880+03:00",
+  "updated": "2025-08-21T12:49:59.000+03:00"
+}

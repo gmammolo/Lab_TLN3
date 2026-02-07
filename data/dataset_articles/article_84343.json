@@ -1,0 +1,88 @@
+{
+  "thread": {
+    "uuid": "f1dfb95821f9cf2be3021d6439a126c6bce0be98",
+    "url": "https://siliconangle.com/2025/04/02/cyberhaven-nabs-100m-ai-powered-data-protection-platform",
+    "site_full": "siliconangle.com",
+    "site": "siliconangle.com",
+    "site_section": "https://news.google.com/search?q=it%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "search_engine",
+      "tech"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "SiliconANGLE",
+    "title": "Cyberhaven nabs $100M for its AI-powered data protection platform - SiliconANGLE",
+    "title_full": "Cyberhaven nabs $100M for its AI-powered data protection platform - SiliconANGLE",
+    "published": "2025-04-03T00:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/Cyberhaven.png",
+    "performance_score": 0,
+    "domain_rank": 6234,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f1dfb95821f9cf2be3021d6439a126c6bce0be98",
+  "url": "https://siliconangle.com/2025/04/02/cyberhaven-nabs-100m-ai-powered-data-protection-platform",
+  "ord_in_thread": 0,
+  "author": "Maria Deutscher",
+  "published": "2025-04-03T00:19:00.000+03:00",
+  "title": "Cyberhaven nabs $100M for its AI-powered data protection platform - SiliconANGLE",
+  "text": "Data security startup Cyberhaven Inc. today announced that it has closed a $100 million funding round to support its growth efforts.\nThe Series D investment was led by StepStone Group with participation from Schroders and Industry Ventures. The raise values Cyberhaven at more than $1 billion, or about seven times what it was worth following its previous funding round last June.\nCyberhaven’s platform detects when a company’s employees use internal data in an unauthorized manner. The software could, for example, spot if a developer attempts to copy code into a cloud-based debugging tool that hasn’t been approved by the cybersecurity team. Cyberhaven also identifies risks to other types of data such as business documents.\nAfter identifying cybersecurity issues, the company’s platform ranks them by severity. It generates a summary of each incident and displays remediation suggestions. For example, file activity that indicates an employee account has been hacked might prompt the software to suggest that administrations revoke the account’s system access.\nUnder the hood, Cyberhaven’s platform is powered by two technologies called Trail and Linea AI.\nBefore administrators can check whether a sensitive record is managed securely, they have to find it, which isn’t always straightforward in a large enterprise. Cyberhaven’s technology promises to ease the task. It can keep track of a sensitive record even if it’s moved between systems, split into multiple files or combined with other information.\nCyberhaven uses several different methods to collect information on file usage. It connects to a company’s business applications and monitors how the data they contain is accessed by employees. Additionally, a browser extension enables Cyberhaven to detect when users move sensitive data into services that aren’t approved by the information technology team.\nThe billions of data flows recorded for an organization are analyzed by Linea AI, the second core component of the platform. It’s powered by a custom artificial intelligence model designed to detect unauthorized data access. The AI maps out the file usage patterns of a company’s employees and finds unusual activity that may create cybersecurity risks.\nCyberhaven refers to its AI as a large lineage model, or LLiM. The training workflow through which it was developed centered not on language datasets but rather data flows. The LLiM uses a large language model to generate explanations of the data risks it identifies.\n“We’re giving organizations complete visibility and real-time control over their data, regardless of how it transforms or where it flows,” said Chief Executive Officer Howard Ting.\nThe company will use the $100 million round to extend its platform’s feature set. Cyberhaven intends to do so through a combination of in-house engineering and acquisitions. It also plans to invest in go-to-market programs.\nImage: Cyberhaven",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->economics",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->investment and opinion pieces",
+    "Economy, Business and Finance->business financing",
+    "Social Issue->social services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cyberhaven.com/press-releases/cyberhaven-raises-100-million-series-d-at-1-billion-valuation",
+    "https://cyberhaven.com/press-releases/cyberhaven-raises-100-million-series-d-at-1-billion-valuation"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T00:24:26.357+03:00",
+  "updated": "2025-04-30T14:17:52.202+03:00"
+}

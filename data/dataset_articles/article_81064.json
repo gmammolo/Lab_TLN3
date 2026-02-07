@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "c860a6d935d75b013bc335bd8889d7eb444c00a5",
+    "url": "https://optics.org/news/15/4/22",
+    "site_full": "optics.org",
+    "site": "optics.org",
+    "site_section": "https://optics.org/rss/news.xml",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Optics.org News",
+    "title": "Novel UV broadband spectrometer revolutionizes air pollution analysis",
+    "title_full": "Novel UV broadband spectrometer revolutionizes air pollution analysis",
+    "published": "2024-04-12T01:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 44980,
+    "domain_rank_updated": "2024-04-09T13:11:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c860a6d935d75b013bc335bd8889d7eb444c00a5",
+  "url": "https://optics.org/news/15/4/22",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "SPIE Europe Ltd",
+  "published": "2024-04-12T01:04:00.000+03:00",
+  "title": "Novel UV broadband spectrometer revolutionizes air pollution analysis",
+  "text": "11 Apr 2024\nTU Graz's laser-based technology enables continual RT monitoring of contaminants.\nA research team led by Birgitta Schultze-Bernhardt from the\nInstitute of Experimental Physics at Graz University of Technology (TU Graz) is now utilizing this high reaction potential for a new method of environmental monitoring. They have developed the world’s first broadband UV dual-comb spectrometer with which air pollutants can be continually measured and their reaction with the environment can be observed in real time.\nThe development is described in\nOptica.\nDual-comb spectrometers have been around for almost 20 years. Here, a source emits light in a broad wavelength range, which, when arranged according to its optical frequencies, is reminiscent of the teeth of a comb. If this light penetrates a gaseous material sample, the molecules it contains absorb some of the light. The altered light wavelengths allow conclusions to be drawn about the ingredients and optical properties of the analysed gas.\nLaser pulses cause molecules to vibrate\nThe special feature of the spectrometer developed by Schultze-Bernhardt is that a laser system emits double light pulses in the ultraviolet spectrum. When this UV light meets gas molecules, it excites the molecules electronically and also causes them to rotate and vibrate – so-called rovibronic transitions – which are unique to each gaseous substance.\nIn addition, the broadband UV dual-comb spectrometer combines three properties that conventional spectrometers have so far only been able to offer in part:\n“This makes our spectrometer suitable for sensitive measurements by which changes in gas concentrations and the course of chemical reactions can be observed very precisely,” said Lukas Fürst, PhD student in the Coherent Sensing working group and first author of the publication.\nTested using formaldehyde as example\nThe researchers developed and tested their spectrometer using formaldehyde. The air pollutant is produced when fossil fuels and wood are burned, as well as indoors through vapors from adhesives used in furniture.\n“With our new spectrometer, formaldehyde emissions in the textile or wood processing industries as well as in cities with increased smog levels can be monitored in real time, thus improving the protection of personnel and the environment,” said Birgitta Schultze-Bernhardt.\nThe application of the spectrometer can also be transferred to other air pollutants such as nitrogen oxides and ozone and other climate-relevant trace gases. The research team hopes that this will provide new findings about their effects in the atmosphere. Based on this, new strategies for improving air quality could be derived.\n|© 2024 |",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment",
+    "Health"
+  ],
+  "external_links": [
+    "https://www.tugraz.at/en/institutes/iep/institute/welcome/",
+    "https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-4-471&id=548549",
+    "https://tugraz.at/en/institutes/iep/institute/welcome/",
+    "https://opg.optica.org/optica/fulltext.cfm",
+    "https://www.opg.optica.org/optica/fulltext.cfm?uri=optica-11-4-471&id=548549",
+    "https://www.tugraz.at/en/institutes/iep/institute/welcome"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "birgitta schultze-bernhardt",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "tu graz",
+        "sentiment": "negative"
+      },
+      {
+        "name": "institute of experimental physics at graz university of technology (tu graz",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "optica",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T01:49:30.584+03:00",
+  "updated": "2024-04-12T01:49:30.584+03:00"
+}

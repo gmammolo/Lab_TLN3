@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "7684779c3b8b980a63c8d39a327acdbd0e3a527f",
+    "url": "https://www.darkreading.com/cloud-security/airline-experiments-with-sase-to-improve-overall-security",
+    "site_full": "www.darkreading.com",
+    "site": "darkreading.com",
+    "site_section": "https://www.darkreading.com:443/rss.xml",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "darkreading",
+    "title": "Airline Gets SASE to Modernize Operations",
+    "title_full": "Airline Gets SASE to Modernize Operations",
+    "published": "2024-01-25T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt874546c7e2605f1b/65b2cca9c8dd95040a248a4f/hkg-Boaz_Rottem-alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop",
+    "performance_score": 0,
+    "domain_rank": 3763,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7684779c3b8b980a63c8d39a327acdbd0e3a527f",
+  "url": "https://www.darkreading.com/cloud-security/airline-experiments-with-sase-to-improve-overall-security",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Karen D. Schwartz, Contributing Writer",
+  "published": "2024-01-25T02:00:00.000+02:00",
+  "title": "Airline Gets SASE to Modernize Operations",
+  "text": "Complaints like delayed and canceled flights, lost and damaged luggage, and customer service issues are pervasive in the airline industry. What's not heard as often — but may be even more insidious — are the cybersecurity incidents.\nModern aviation is a mix of legacy and new technology, which creates a complex environment that is difficult to secure. Aviation systems rely heavily on machine learning and artificial intelligence, augmented reality, cloud technology, and the Internet of Things, all of which expand the attack surface. Older, less safe protocols are still in use in critical functions, providing adversaries with even more opportunities to attack. For example, the protocol used to communicate between the pilot and the ground staff is still unencrypted, so communications can be intercepted and tampered with.\nAirlines also typically rely on hundreds of service providers to manage various aspects of their operations. A supply chain issue in how the software applications are built or a hardware flaw in the systems can reverberate all the way to the aircraft and people aboard.\nAnd airline cybersecurity incidents are growing. In 2020 alone, more than 40 aviation-related cybersecurity events were reported. Top vectors included distributed denial-of-service (DDoS) attacks, data breaches, and ransomware. British Airways and Cathay Pacific have experienced large data breaches in recent years, and a 2021 compromise at global aviation industry IT supplier SITA impacted airline bookings. Pilot application data for American and Southwest Airlines was stolen through a recruitment portal in 2023.\nFaced with a growing cybersecurity problem and the need to modernize technology operations, Cathay, a travel lifestyle brand that includes major airline Cathay Pacific, decided to replace its infrastructure with one that has cybersecurity built in.\nConsider Security When Modernizing The pandemic, and the associated shift to hybrid work and boom in cloud usage, highlighted the limitations of Cathay's aging infrastructure. Cathay's bandwidth requirements surged from about 600 Kbit/s before the pandemic to about 4 Mbit/s after. Cathay started by replacing a 40-year-old multiprotocol label switching (MPLS) network the airline relied on for communication with its nearly 200 offices around the world. The network couldn't keep up with demand, endpoint visibility was limited, application performance suffered, and it was woefully inadequate when it came to security.\n\"The only security control we had with MPLS was access control over network devices, which meant that even if we wanted to investigate a potential breach or incident, it was a struggle for the security operations team to drill down far enough,\" says Rajeev Nair, general manager of IT infrastructure and security at Cathay Pacific.\nMPLS had to go. Cathay needed a replacement cloud-based technology capable of managing the requirements of a modernized infrastructure and providing end-to-end visibility across VPNs, SD-WANs, and other cloud resources. Eventually, the company selected secure access service edge (SASE), which provides data-centric capabilities like data loss and leakage protection, as well as reduces the need for users to try to circumvent existing security controls.\n\"The SASE model of having security capabilities delivered as a service is a viable way for organizations to optimize their own security efforts,\" says Fernando Montenegro, senior principal analyst for cybersecurity at Omdia. \"The SASE approach with regional points of presence for security services and advanced traffic engineering can improve user experience. And for ongoing management, SASE can both centralize security policy management, which makes it clearer and more consistent, and simplify edge configurations.\"\nThese security features were also important to Cathay since the traditional network perimeter is less effective in a cloud-native environment. SASE-based solutions use a zero-trust security model, which is crucial to controlling devices, identity-based access, and networks, Nair says.\n\"SASE provide networkwide security protection, which is a huge improvement as we move more toward remote working and [improving] employee engagement and experience,\" he adds.\nBlue Skies Ahead With SASE The Cathay team made a conscious decision to avoid products supported by large telecommunications companies because of concerns about agility, future capabilities, and speed to market. After several years-long proof-of-concept experiments, Cathay ultimately chose Aryaka's unified SASE.\nWith this solution, network operations services ensure that all security events covering different locations and types are properly logged and acted on, including behavior analysis. In addition, the secure Web gateway, which is part of the service, will help ensure that Cathay's policies and controls are in place regardless of which network devices connect from or to. Finally, the solution enhances security by enforcing role-based policies and provides safe browsing regardless of browser used, location, or network.\nOver time, many of the functions Cathay is looking for other tools to provide may be added to SASE solutions, Omdia's Montenegro says. SASE has been integrating technologies such as SD-WAN, secure Web gateways, firewall-as-a-service, and zero-trust access, and vendors continue to innovate by adding new capabilities. Functions like browser security, data security posture management, and cloud security are key areas of interest for SASE vendors.\nNair's group is currently finishing up the pilot phase implementation of the solution, which consists of deploying the technology to five to 10 of the company's 200 sites. Based on the learnings from that, the team will refine the timeline and approach for the remaining sites.\n\"We want to make sure we have visibility across the sites in terms of network performance and how security elements are monitored and controlled,\" Nair explains. The pilot also will test ease of deployment, policy management across regions, and performance. The second part of the pilot phase will expand the solution to include airports.\nTo ensure full monitoring and control, the new implementation will take advantage of Aryaka's unified platform for secure access across applications, workloads, and devices. It will also incorporate Aryaka's cloud access security broker (CASB) — part of its secure services edge, a subset of its SASE solution — to discover users' activities on unsanctioned apps and apply appropriate controls. To ensure security at scale, Cathay will use the incorporated firewall as a service, which is applied at the service edge layer.\nOnce the pilot phase has concluded, full implementation, including integration with more than 400 applications in the public cloud, will begin. It's a big change; today, all traffic originates from headquarters in Hong Kong and travels through various hubs to reach its final destination. Once fully implemented, traffic will connect to the nearest Aryaka hub or circuit, and then connect back to the cloud provider.\nWhen fully operational, Cathay Pacific will be one of the first airlines to embrace SASE — but it won't be the last. In November, Qatar Airways announced that it will add SASE to its technology stack to improve connectivity, operational efficiency, and security. United Airlines and Qantas also have indicated moving in the direction of SASE.\nOver time, Nair plans to make other security enhancements. Next up is bringing security closer to end users. To do that, the team plans to upgrade the firewalls and software Web gateways in its data centers and public cloud environment, separate from the SASE solution.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://www.socradar.io/threat-landscape-in-the-aviation-industry-for-h1-of-2023/",
+    "https://socradar.io/threat-landscape-in-the-aviation-industry-for-h1-of-2023/",
+    "https://socradar.io/threat-landscape-in-the-aviation-industry-for-h1-of-2023"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:09:48.242+02:00",
+  "updated": "2024-02-02T00:34:07.970+02:00"
+}

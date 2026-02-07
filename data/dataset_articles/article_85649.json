@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "94b64ca9256cc6507708f6149aca0607604599ca",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5127260",
+    "site_full": "news.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://ltn.com.tw",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "自由時報電子報",
+    "site_title": null,
+    "title": "Google將20億支手機變地震儀！ 《科學》期刊證實：與官方系統同樣有效",
+    "title_full": "Google將20億支手機變地震儀！ 《科學》期刊證實：與官方系統同樣有效",
+    "published": "2025-07-31T07:19:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.ltn.com.tw/Upload/news/600/2025/07/31/phpQFvHzA.png",
+    "performance_score": 0,
+    "domain_rank": 7409,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "94b64ca9256cc6507708f6149aca0607604599ca",
+  "url": "https://news.ltn.com.tw/news/world/breakingnews/5127260",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-07-31T07:19:00.000+03:00",
+  "title": "Google將20億支手機變地震儀！ 《科學》期刊證實：與官方系統同樣有效",
+  "text": "Google將20億支手機變地震儀！ 《科學》期刊證實：與官方系統同樣有效\nGoogle安卓地震示警系統會向將有發生地震來襲地區的手機推送警告，並提醒用戶趴下、尋找掩護以策安全。（圖翻攝自Google）\n〔編譯陳成良／綜合報導〕Google將全球超過20億支Android手機化為地震感測器，打造出1套能即時預警地震的系統。根據最新發表於《科學》（Science）期刊的研究，這套由Google開發的「安卓地震警報系統」（Android Earthquake Alerts, AEA），在效能上已可媲美傳統地震儀網絡，並顯著擴展了全球地震預警的覆蓋範圍。\n科學新聞網站《Live Science》指出，AEA系統透過智慧型手機內建的「加速規」（accelerometers）來偵測地震最先到達的P波（primary waves），並在更具破壞力的S波（secondary waves）抵達前，向處於震央附近的使用者發送即時警報。研究團隊指出，這種分散式感測架構，能夠補足全球多數地震好發地區缺乏預警設施的漏洞。\n與傳統地震預警系統需仰賴昂貴的地面地震儀不同，AEA的設計利用既有手機硬體與全球定位功能，大幅降低建置成本。Google代表強調：「即便只有幾秒鐘的預警時間，也足以讓人們遠離危險並尋求掩護。」\n研究統計顯示，從2021年至2024年間，AEA成功偵測到超過1萬1000起地震，並在98 個國家向使用者發出逾1200次警報。使用者總數也從2019年的2.5億人，激增至25億人，顯示其全球影響力正快速擴大。根據用戶回饋，約85%的民眾在地震發生時收到了警報，其中36%更是在震動發生前就獲得通知。\n不過，這套系統也面臨技術挑戰。研究人員坦言，手機加速規的偵測精度仍不及專業地震儀，特別在評估大型地震規模時存在誤差。例如2023年土耳其強震中，AEA便嚴重低估了實際震度。團隊表示，已依據回收數據持續調整演算法，以提升預測準確率。\n此外，由民間科技企業營運關鍵災害警報系統，也引發部分倫理與責任爭議。對此，Google表示，AEA的設計目的是「補充而非取代官方預警機制」。研究團隊總結指出，此研究證明智慧型手機網絡在地震預警上的潛力，未來或將成為全球公共安全基礎建設的一部分。\n免費訂閱《自由體育》電子報\n熱門賽事、球星動態不漏接",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->natural science",
+    "Science and Technology->scientific innovation",
+    "Social Issue->demographics",
+    "Social Issue->mankind",
+    "Social Issue->social services",
+    "Lifestyle and Leisure->outdoor recreational activities",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->wellness"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T08:24:59.035+03:00",
+  "updated": "2025-08-01T09:05:19.000+03:00"
+}

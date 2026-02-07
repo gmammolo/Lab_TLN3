@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "225e75655a4fe263dcd8b28bbe62ee6c3232ac61",
+    "url": "https://mspoweruser.com/microsoft-may-clutter-windows-11-24h2-with-jump-lists-in-the-kb5046740-update",
+    "site_full": "mspoweruser.com",
+    "site": "mspoweruser.com",
+    "site_section": "https://www.mspoweruser.com",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "MSPoweruser - Microsoft and Technology News",
+    "title": "Microsoft may clutter Windows 11 24H2 with jump lists in the KB5046740 update",
+    "title_full": "Microsoft may clutter Windows 11 24H2 with jump lists in the KB5046740 update",
+    "published": "2024-11-22T10:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10647,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "225e75655a4fe263dcd8b28bbe62ee6c3232ac61",
+  "url": "https://mspoweruser.com/microsoft-may-clutter-windows-11-24h2-with-jump-lists-in-the-kb5046740-update",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rafly Gilang",
+  "published": "2024-11-22T10:29:00.000+02:00",
+  "title": "Microsoft may clutter Windows 11 24H2 with jump lists in the KB5046740 update",
+  "text": "Microsoft has just launched the KB5046740 update, or November’s non-security patch, for Windows 11 24H2. And with that, the Redmond tech giant may make the OS a lot more stuffed and filled with jump lists than before.\nA “jump list” is a Windows feature that lets you quickly access recent files, folders, or tasks related to an app by right-clicking its icon on the taskbar or Start menu.\nSo now, when you right-click on apps pinned to the Start menu, jump lists will appear for those apps that support jump lists—which makes Windows 11 more cramped than before . And, if you hold the Shift and CTRL keys while clicking on a jump list item, it will open the item with administrative privileges.\nThe KB5046740 also rebrands “Tailored Experiences” as “Personalized offers” to give a better clearance. You can find this rebrand in the Settings app under Privacy & Security. There, you can manage the settings and choose whether to send data about your device to improve Windows or not.\nThe update also shortens the date & time display in the system tray & rolls out new options for touchscreen edge gestures & the feature to directly share content from File Explorer to Android devices, which Microsoft first tested some time ago . And, Task Manager also now has better support for dark mode & text scaling.\nBut, as we’re approaching the holiday season, this may be the last non-security update for Windows 11 we’ll be seeing in 2024.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles",
+    "Business and Market Analysis"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://support.microsoft.com/en-us/topic/november-21-2024-kb5046740-os-build-26100-2454-preview-2040f716-b719-482a-8aff-f7f02c79b147",
+    "https://www.support.microsoft.com/en-us/topic/november-21-2024-kb5046740-os-build-26100-2454-preview-2040f716-b719-482a-8aff-f7f02c79b147"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:21:36.064+02:00",
+  "updated": "2024-11-22T11:21:36.064+02:00"
+}

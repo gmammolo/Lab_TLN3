@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "7c3882f6870e8d2969f9849f2ce47a2459cb1e03",
+    "url": "https://item.btime.com/f6hhpu1bpj48v3anur8d2damomf",
+    "site_full": "item.btime.com",
+    "site": "btime.com",
+    "site_section": "https://www.btime.com/news",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "要闻_北京时间",
+    "site_title": null,
+    "title": "\"北京造\"大模型GLM-4.5开源 综合性能世界领先_北京时间",
+    "title_full": "\"北京造\"大模型GLM-4.5开源 综合性能世界领先_北京时间",
+    "published": "2025-07-31T06:52:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29097,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7c3882f6870e8d2969f9849f2ce47a2459cb1e03",
+  "url": "https://item.btime.com/f6hhpu1bpj48v3anur8d2damomf",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-07-31T06:52:00.000+03:00",
+  "title": "\"北京造\"大模型GLM-4.5开源 综合性能世界领先_北京时间",
+  "text": "7月28日晚，北京智谱华章科技股份有限公司（以下简称\"智谱AI\"）发布其新一代旗舰大模型GLM-4.5，这是一款专为智能体应用打造的基础模型，在复杂推理、代码生成及智能体交互等通用能力上实现能力融合与技术突破，综合测试性能已跻身全球领先行列。这款新模型的发布，代表了AI迈向通用人工智能的一次重要转变。它不再满足于扮演一个被动回答问题的“聊天机器人”，而是要成为能够理解复杂目标、自主规划并执行多步骤任务的“全优生”。例如，模型能够胜任全栈开发任务，一键生成较为复杂的应用、游戏、交互网页。在实际例子中，用户通过z.ai使用该模型时，仅用一句简单的指令，就可让GLM-4.5独立开发出具备搜索功能的“谷歌”网站、可以发弹幕的“B站”，甚至直接上线一个完整的“Flappy Bird”小游戏。在性能评估中，GLM-4.5的表现展示了其架构优势。在涵盖研究生水平推理和复杂软件工程解题等12项全球公认的硬核测试中，其综合得分位列全球第三，在所有国产模型和开源模型中均排名第一。大型语言模型性能评估表，包含智能体、推理与编码基准测试数据（图源：智谱）该款旗舰大模型发布仅十小时，便引发全球外媒关注。价格因素同样是关注焦点，报道普遍聚焦该模型 “成本更低、性能更优” 的特性，部分媒体还对其参数进行了详细解析与同类对比。目前该系列模型API调用价格低至输入0.8元\\/百万tokens、输出2元\\/百万tokens，远低于市场主流价格。28日模型发布后不到两个小时，X平台就在首页推荐了这款中国大模型。CNBC在28日报道称：“中国企业正在研发的人工智能模型不仅智能化水平提升，使用成本也持续降低，这与深度求索（DeepSeek）当年震动市场的突破核心优势相呼应。” 路透社28日在报道中提到，作为中国 “AI 六小虎” 之一的智谱，自今年6月被OpenAI“点名”后便备受关注。彭博社表示，OpenAI的挑战者智谱AI发布开源模型，试图在这个蓬勃发展的行业中抢占制高点。另一家美国知名科技媒体VentureBeat则在文章中指出：“GLM-4.5的发布为企业团队提供了一个可行的、高性能的基础模型。对于平衡创新和运营限制的团队来说，这是一个令人信服的选择。”发布后不到12小时，GLM-4.5模型已经位列国际开源社区Hugging-Face榜单全球第二。《环球时报》针对于该款模型进行整版报道，受到国内外业界高度关注。美国科技网站Techi 认为，中国AI发展正清晰呈现 “易获取” 的趋势：“智谱努力与深度求索、OpenAI等行业巨头同台竞技。随着更多企业推出开源模型并压低价格，中国正逐步成为全球AI竞争的核心参与者，力争占据领先地位。未来几个月，这些快速变化将带来何种影响——是催生新的监管政策，还是推动新的技术创新，仍有待观察。”受到大模型关注的除了这款大模型的性能，还有一个最大亮点是这是首款原生融合模型，首次在单个模型中实现将推理、编码和智能体能力原生融合，以满足智能体应用的复杂需求。大语言模型的目标是在广泛领域达到人类认知水平。然而，现有模型仍然算不上真正的通用模型：有些擅长编程，有些精于数学，有些在推理方面表现出色，但没有一个能在所有任务上都达到最佳表现。GLM-4.5正是朝着统一各种能力这一目标努力，力求在一个模型中集成所有这些不同的能力。大模型的下一个范式，一定是把各种能力整合到一起，成为一个“全优生”。其次这款模型拥有更高的参数效率。GLM-4.5的参数量仅为一些主流模型的一半甚至三分之一，但在多项标准基准测试中表现得更为出色。在衡量模型代码能力的SWE-bench Verified 榜单上，GLM-4.5系列位于性能\\/参数比帕累托前沿，这表明在相同规模下，GLM-4.5系列实现了最佳性能。目前，这款集高性能、低成本和开源特性于一体的模型已在智谱开放平台上线。用户可通过智谱大模型开放平台使用该模型，其开源版本也将同步登陆Hugging Face与ModelScope平台。智谱联系人：王子文，18601379113 GLM-4.5 发布：面向推理、代码与智能体的开源 SOTA 模型 正文：今天，我们带来新一代旗舰模型 GLM-4.5，专为智能体应用打造的基础模型。Hugging Face 与 ModelScope 平台同步开源，模型权重遵循 MIT License。要点如下：•GLM-4.5 在包含推理、代码、智能体的综合能力达到开源 SOTA，在真实代码智能体的人工对比评测中，实测国内最佳；•采用混合专家（MoE）架构，包括 GLM-4.5：总参数量 3550 亿，激活参数 320 亿；GLM-4.5-Air：总参数 1060 亿，激活参数 120 亿；•两种模式：用于复杂推理和工具使用的思考模式，及用于即时响应的非思考模式；高速、低成本：API 调用价格低至输入 0.8 元\\/百万tokens、输出 2 元\\/百万tokens；高速版最高可达 100 tokens\\/秒。API 已上线开放平台 BigModel.cn，可以一键兼容 Claude Code 框架。同时，大家也可以上智谱清言 (chatglm.cn) 和 Z.ai免费体验满血版。欢迎开发者、企业、用户广泛测试与集成，一起探索 AGI 的奥秘。 综合性能SOTA 衡量 AGI 的第一性原理，是在不损失原有能力的前提下融合更多通用智能能力，GLM-4.5 是我们对此理念的首次完整呈现，并有幸取得技术突破。GLM-4.5 首次在单个模型中实现将推理、编码和智能体能力原生融合，以满足智能体应用的复杂需求。为综合衡量模型的通用能力，我们选择了最具有代表性的12个评测基准，包括 MMLU Pro、AIME 24、MATH 500、SciCode、GPQA 、HLE、LiveCodeBench、SWE-Bench Verified、Terminal-Bench、TAU-Bench、BFCL v3 和BrowseComp。 综合平均分，GLM-4.5 取得了全球模型第三、国产模型第一，开源模型第一。 GLM-4.5 和 GLM-4.5-Air 使用了相似的训练流程：首先在 15 万亿 token 的通用数据上进行了预训练。然后在代码、推理、智能体等领域的 8 万亿 token 数据上进行了针对性训练，最后通过强化学习进一步增强了模型的推理、代码与智能体能力。更多技术细节可参考我们的技术博客（ https:\\/\\/z.ai\\/blog\\/glm-4.5 ），后续也会发布更加详细的技术报告。 更高的参数效率 GLM-4.5 参数量为 DeepSeek-R1 的 1\\/2、Kimi-K2 的 1\\/3，但在多项标准基准测试中表现得更为出色，这得益于GLM模型的更高参数效率。在衡量模型代码能力的 SWE-bench Verified 榜单上，GLM-4.5 系列位于 性能\\/参数比帕累托前沿 ，这表明在相同规模下，GLM-4.5 系列实现了最佳性能。 低成本、高速度 在性能优化之外， GLM-4.5 系列也在成本和效率上实现突破 ，由此带来远低于主流模型定价：API 调用价格低至 输入 0.8 元\\/百万 tokens，输出 2 元\\/百万 tokens。 同时， 高速版本实测生成速度最高可至 100 tokens\\/秒 ，支持低延迟、高并发的实际部署需求，兼顾成本效益与交互体验。 真实体验 真实场景表现比榜单更重要。为了评测GLM-4.5在真实场景Agentic Coding中的效果，我们接入Claude Code与Claude-4-Sonnet、Kimi-K2、Qwen3-Coder进行对比测试。测试采用52个编程开发任务，涵盖六大开发领域，在独立容器环境中进行多轮交互测试。实测结果显示（如上图），GLM-4.5相对其他开源模型展现出竞争优势，特别在工具调用可靠性和任务完成度方面表现突出。尽管GLM-4.5相比Claude-4-Sonnet仍有提升空间，在大部分场景中可以实现平替的效果。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T07:59:51.953+03:00",
+  "updated": "2025-07-31T08:06:01.000+03:00"
+}

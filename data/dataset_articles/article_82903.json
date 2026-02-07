@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "2d5bad89d579cdcc10be15c538b1a839b2f62d95",
+    "url": "https://www.spacedaily.com/reports/Ultra_low_noise_Infrared_Detectors_Advance_Exoplanet_Imaging_999.html",
+    "site_full": "www.spacedaily.com",
+    "site": "spacedaily.com",
+    "site_section": "http://www.skynightly.com/skynightly.xml",
+    "site_categories": [
+      "science",
+      "space_astronomy"
+    ],
+    "section_title": "The Sky Tonight",
+    "site_title": null,
+    "title": "Ultra-low-noise Infrared Detectors Advance Exoplanet Imaging",
+    "title_full": "Ultra-low-noise Infrared Detectors Advance Exoplanet Imaging",
+    "published": "2025-02-27T13:41:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.spxdaily.com/images-hg/linear-mode-avalanche-photodiode-array-hg.jpg",
+    "performance_score": 0,
+    "domain_rank": 12358,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2d5bad89d579cdcc10be15c538b1a839b2f62d95",
+  "url": "https://www.spacedaily.com/reports/Ultra_low_noise_Infrared_Detectors_Advance_Exoplanet_Imaging_999.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-02-27T13:41:00.000+02:00",
+  "title": "Ultra-low-noise Infrared Detectors Advance Exoplanet Imaging",
+  "text": "However, indirect detection methods provide limited information about the planet itself, such as its atmospheric composition, pressure, gravity, and temperature. The presence of certain gases-such as oxygen, water vapor, and carbon dioxide-can serve as biosignatures, indicating the possibility of life. Thus, directly imaging a planet and analyzing its atmosphere is crucial to assessing its habitability.\nThe challenge of directly imaging Earth-like exoplanets is formidable. These planets reflect only a minuscule amount of their star's light, making them around 10 billion times fainter than their host stars. Additionally, from astronomical distances, exoplanets appear incredibly close to their respective stars. A common analogy likens this task to detecting a firefly near a powerful searchlight from 300 miles away.\nSignificant efforts have been devoted to developing starlight suppression techniques to reduce the overpowering brightness of the host star. However, detecting the planet's light itself remains difficult due to its extreme faintness. The challenge can be understood in terms of photon flux. A photon represents the smallest unit of light detectable by an instrument. On a bright day, around 10 thousand trillion photons enter the human eye every second. In contrast, an Earth-like exoplanet orbiting a nearby star might emit only 10 to 100 photons per year. Large telescope mirrors help collect as much light as possible, but ultra-sensitive infrared detectors are essential for detecting these faint signals, particularly in the infrared spectrum where biosignatures are most pronounced. Unfortunately, current infrared detectors introduce too much noise to capture such dim signals effectively.\nWith support from NASA's Astrophysics Division and industry collaborators, researchers at the University of Hawai'i are advancing a promising new detector technology to meet these demanding sensitivity requirements. These devices, known as avalanche photodiode arrays, are composed of the same semiconductor materials as conventional infrared detectors. However, they include an additional \"avalanche\" layer, which amplifies the signal from a single photon in a manner similar to how an avalanche can begin with a small snowball and quickly grow larger. This amplification occurs before detector noise is introduced, effectively minimizing noise in the process. However, excessive amplification can lead to an exponential increase in noise, negating the benefits.\nThe late Donald Hall, a former faculty member at the University of Hawai'i and a pioneer in infrared astronomy technology, recognized the potential of avalanche photodiodes for ultra-low-noise infrared detection with specific modifications to their material properties. The latest designs incorporate a graded semiconductor bandgap to enhance noise performance at moderate amplification levels, a mesa pixel geometry to reduce electronic crosstalk, and a readout integrated circuit for rapid data retrieval.\n\"It was actually challenging figuring out just how sensitive these detectors are,\" said Michael Bottom, an associate professor at the University of Hawai'i leading the project. \"Our 'light-tight' test chamber, originally built for evaluating James Webb Space Telescope infrared sensors, was supposed to be completely dark. But when we placed these avalanche photodiodes inside, we detected light leaks at a rate of one photon per hour-an amount undetectable by previous-generation sensors.\"\nThe newest iteration of these sensors features a megapixel format, over ten times larger than earlier versions, and includes circuitry designed to track and eliminate electronic drifts. Additionally, their pixel size and control electronics are engineered to function as direct replacements for widely used infrared sensors, enabling integration with existing observatory instruments.\nLast year, the research team conducted the first on-sky imaging tests with these detectors using the University of Hawai'i's 2.2-meter telescope. \"It was impressive to see the avalanche process in action on the sky. When we increased the gain, more stars became visible,\" said Guillaume Huber, a graduate student working on the project. \"The on-sky test was essential to demonstrate that these detectors could operate effectively in real observational conditions,\" added Michael Bottom.\nWhile these sensors represent a significant breakthrough, the research team notes that further improvements are needed. The current megapixel format remains too small for many scientific applications, particularly spectroscopy. Future developments will focus on enhancing detector uniformity and minimizing persistence. The next generation of these detectors is planned to be four times larger, meeting the specifications required for NASA's upcoming Habitable Worlds Observatory, which aims to image and study Earth-like exoplanets in detail.\n|\n|\n|",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Environment"
+  ],
+  "topics": [
+    "Science and Technology->astronomy",
+    "Science and Technology->scientific research",
+    "Environment->nature"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:29:54.155+02:00",
+  "updated": "2025-02-28T00:29:54.155+02:00"
+}

@@ -1,0 +1,220 @@
+{
+  "thread": {
+    "uuid": "c4dba287664e88b186b10fe2fd144ac5cd10bc6f",
+    "url": "https://www.news.de/technik/858708505/apache-commons-fileupload-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-und-macos-x-vom-20-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "IT-Sicherheit: Linux, MacOS X und UNIX bedroht - Update für IT-Sicherheitshinweis zu Apache Commons FileUpload (Risiko: mittel)",
+    "title_full": "IT-Sicherheit: Linux, MacOS X und UNIX bedroht - Update für IT-Sicherheitshinweis zu Apache Commons FileUpload (Risiko: mittel)",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771802/images/a1/0b/fbe00ae0956219c872d57f3d0a8b/nopic/no_pic/1200/675/1/1/-/4/1024/576/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771802_1200x675_104ff07a1c1b59fe535c2980d8fa3d5f.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c4dba287664e88b186b10fe2fd144ac5cd10bc6f",
+  "url": "https://www.news.de/technik/858708505/apache-commons-fileupload-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-und-macos-x-vom-20-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "IT-Sicherheit: Linux, MacOS X und UNIX bedroht - Update für IT-Sicherheitshinweis zu Apache Commons FileUpload (Risiko: mittel)",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 20.08.2025 ein Update zu einer am 16.06.2025 bekanntgewordenen Sicherheitslücke für Apache Commons FileUpload herausgegeben. Betroffen von der Sicherheitslücke sind die Betriebssysteme Linux, MacOS X, UNIX und Windows sowie die Produkte Debian Linux, IBM WebSphere Service Registry and Repository, Amazon Linux 2, Red Hat Enterprise Linux, IBM WebSphere Application Server, IBM InfoSphere Identity Insight, F5 BIG-IP, SUSE Linux, Oracle Linux, IBM QRadar SIEM, Apache Commons, Atlassian Bamboo, Absolute Secure Access, Red Hat JBoss Web Server, HCL Commerce und IBM Integration Bus.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: Red Hat Security Advisory RHSA-2025:14177 (Stand: 20.08.2025). Weitere nützliche Links werden weiter unten in diesem Artikel aufgeführt.\nSicherheitshinweis für Apache Commons FileUpload - Risiko: mittel\nRisikostufe: 3 (mittel)\nCVSS Base Score: 5,3\nCVSS Temporal Score: 4,8\nRemoteangriff: Ja\nZur Bewertung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Kriterien miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Beim Temporal Score fließen über die Zeit veränderbare Rahmenbedingungen in die Bewertung ein. Der Schweregrad der aktuellen Schwachstelle wird nach dem CVSS mit einem Base Score von 5,3 als \"mittel\" eingeschätzt.\nApache Commons FileUpload Bug: Schwachstelle ermöglicht Denial of Service\nApache Commons ist ein Apache-Projekt, das alle Aspekte der wiederverwendbaren Java-Komponenten behandelt.\nEin entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Commons FileUpload ausnutzen, um einen Denial of Service Angriff durchzuführen.\nDie Verwundbarkeit wird mit der eindeutigen CVE-Seriennummer (Common Vulnerabilities and Exposures) CVE-2025-48976 gehandelt.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssysteme\nLinux, MacOS X, UNIX, Windows\nProdukte\nDebian Linux (cpe:/o:debian:debian_linux)\nIBM WebSphere Service Registry and Repository 8.5 (cpe:/a:ibm:websphere_service_registry_and_repository)\nAmazon Linux 2 (cpe:/o:amazon:linux_2)\nRed Hat Enterprise Linux (cpe:/o:redhat:enterprise_linux)\nIBM WebSphere Application Server 8.5 (cpe:/a:ibm:websphere_application_server)\nIBM WebSphere Application Server 9.0 (cpe:/a:ibm:websphere_application_server)\nIBM InfoSphere Identity Insight 9.0 (cpe:/a:ibm:infosphere_identity_insight)\nF5 BIG-IP (cpe:/a:f5:big-ip)\nSUSE Linux (cpe:/o:suse:suse_linux)\nOracle Linux (cpe:/o:oracle:linux)\nIBM QRadar SIEM (cpe:/a:ibm:qradar_siem)\nIBM InfoSphere Identity Insight 9.1 (cpe:/a:ibm:infosphere_identity_insight)\nIBM InfoSphere Identity Insight 10.0 (cpe:/a:ibm:infosphere_identity_insight)\nApache Commons FileUpload <1.6 (cpe:/a:apache:commons)\nApache Commons FileUpload 1.6 (cpe:/a:apache:commons)\nApache Commons FileUpload <2.0.0-M4 (cpe:/a:apache:commons)\nApache Commons FileUpload 2.0.0-M4 (cpe:/a:apache:commons)\nAtlassian Bamboo <11.0.3 (cpe:/a:atlassian:bamboo)\nAtlassian Bamboo 11.0.3 (cpe:/a:atlassian:bamboo)\nAtlassian Bamboo <10.2.6 (LTS) (cpe:/a:atlassian:bamboo)\nAtlassian Bamboo 10.2.6 (LTS) (cpe:/a:atlassian:bamboo)\nAtlassian Bamboo <9.6.15 (LTS) (cpe:/a:atlassian:bamboo)\nAtlassian Bamboo 9.6.15 (LTS) (cpe:/a:atlassian:bamboo)\nAbsolute Secure Access <13.56 (cpe:/a:absolute:secure_access)\nAbsolute Secure Access 13.56 (cpe:/a:absolute:secure_access)\nRed Hat JBoss Web Server <6.1.1 (cpe:/a:redhat:jboss_enterprise_web_server)\nRed Hat JBoss Web Server 6.1.1 (cpe:/a:redhat:jboss_enterprise_web_server)\nHCL Commerce <9.1.18.2 (cpe:/a:hcltechsw:commerce)\nHCL Commerce 9.1.18.2 (cpe:/a:hcltechsw:commerce)\nIBM WebSphere Application Server Liberty 17.0.0.3-25.0.0.8 (cpe:/a:ibm:websphere_application_server)\nIBM Integration Bus for z/OS 10.1.0.0-10.1.0.5 (cpe:/a:ibm:integration_bus)\nAllgemeine Maßnahmen zum Umgang mit IT-Sicherheitslücken\n- Anwender der betroffenen Systeme sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten Sicherheitspatches verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten regelmäßig prüfen, wann der von der\nIT-Sicherheitswarnungbetroffene Hersteller ein neues Sicherheitsupdate zur Verfügung stellt.\nQuellen zu Updates, Patches und Workarounds\nAn dieser Stelle befinden sich weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nRed Hat Security Advisory RHSA-2025:14177 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14177\nRed Hat Security Advisory RHSA-2025:14180 vom 2025-08-21 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14180\nRed Hat Security Advisory RHSA-2025:14182 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14182\nRed Hat Security Advisory RHSA-2025:14179 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14179\nRed Hat Security Advisory RHSA-2025:14178 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14178\nOracle Linux Security Advisory ELSA-2025-14177 vom 2025-08-21 (20.08.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-14177.html\nRed Hat Security Advisory RHSA-2025:14181 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14181\nRed Hat Security Advisory RHSA-2025:14183 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14183\nIBM Security Bulletin 7242269 vom 2025-08-15 (14.08.2025)\nWeitere Informationen finden Sie unter: https://www.ibm.com/support/pages/node/7242269\nIBM Security Bulletin 7242150 vom 2025-08-14 (13.08.2025)\nWeitere Informationen finden Sie unter: https://www.ibm.com/support/pages/node/7242150\nIBM Security Bulletin 7242088 vom 2025-08-13 (13.08.2025)\nWeitere Informationen finden Sie unter: https://www.ibm.com/support/pages/node/7242088\nHCL Security Bulletin vom 2025-08-05 (05.08.2025)\nWeitere Informationen finden Sie unter: https://support.hcl-software.com/community?id=community_blog&sys_id=4cd4383f3bcb26d828f8f547f4e45af6\nRed Hat Security Advisory RHSA-2025:11742 vom 2025-07-30 (30.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:11742\nRed Hat Security Advisory RHSA-2025:11741 vom 2025-07-30 (30.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:11741\nAbsolute Security Information vom 2025-07-30 (29.07.2025)\nWeitere Informationen finden Sie unter: https://www.absolute.com/platform/security-information/vulnerability-archive/secure-access-1356\nRed Hat Security Advisory RHSA-2025:11696 vom 2025-07-28 (28.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:11696\nRed Hat Security Advisory RHSA-2025:11695 vom 2025-07-28 (28.07.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:11695\nDebian Security Advisory DLA-4244 vom 2025-07-22 (21.07.2025)\nWeitere Informationen finden Sie unter: https://lists.debian.org/debian-lts-announce/2025/07/msg00009.html\nDebian Security Advisory DLA-4245 vom 2025-07-22 (21.07.2025)\nWeitere Informationen finden Sie unter: https://lists.debian.org/debian-lts-announce/2025/07/msg00008.html\nF5 Security Advisory K000152614 vom 2025-07-17 (17.07.2025)\nWeitere Informationen finden Sie unter: https://my.f5.com/manage/s/article/K000152614\nAtlassian Security Bulletin - July 15 2025 (15.07.2025)\nWeitere Informationen finden Sie unter: https://confluence.atlassian.com/security/security-bulletin-july-15-2025-1590658642.html\nIBM Security Bulletin 7239757 vom 2025-07-15 (15.07.2025)\nWeitere Informationen finden Sie unter: https://www.ibm.com/support/pages/node/7239757\nIBM Security Bulletin 7239768 vom 2025-07-15 (15.07.2025)\nWeitere Informationen finden Sie unter: https://www.ibm.com/support/pages/node/7239768\nAmazon Linux Security Advisory ALAS2TOMCAT9-2025-020 vom 2025-07-10 (10.07.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALAS2TOMCAT9-2025-020.html\nAmazon Linux Security Advisory ALAS2-2025-2920 vom 2025-07-10 (10.07.2025)\nWeitere Informationen finden Sie unter: https://alas.aws.amazon.com/AL2/ALAS2-2025-2920.html\nSUSE Security Update SUSE-SU-2025:02184-1 vom 2025-07-01 (01.07.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-July/021733.html\nSUSE Security Update SUSE-SU-2025:02159-1 vom 2025-06-27 (29.06.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-June/021698.html\nPoC CVE-2025-48988 & CVE-2025-48976 vom 2025-06-20 (19.06.2025)\nWeitere Informationen finden Sie unter: https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976\nRed Hat Bugtracker #2373020 vom 2025-06-16 (16.06.2025)\nWeitere Informationen finden Sie unter: https://bugzilla.redhat.com/show_bug.cgi?id=2373020\nGitHub Security Advisory GHSA-vv7r-c36w-3prj vom 2025-06-16 (16.06.2025)\nWeitere Informationen finden Sie unter: https://github.com/advisories/GHSA-vv7r-c36w-3prj\nMailing list OSS Security vom 2025-06-16 (16.06.2025)\nWeitere Informationen finden Sie unter: https://seclists.org/oss-sec/2025/q2/255\nVersionshistorie dieses Sicherheitshinweises\nDies ist die 15. Version des vorliegenden IT-Sicherheitshinweises für Apache Commons FileUpload. Sollten weitere Updates bekanntgegeben werden, wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.\n16.06.2025 - Initiale Fassung\n19.06.2025 - PoC aufgenommen\n29.06.2025 - Neue Updates von SUSE aufgenommen\n01.07.2025 - Neue Updates von SUSE aufgenommen\n10.07.2025 - Neue Updates von Amazon aufgenommen\n15.07.2025 - Neue Updates von IBM aufgenommen\n17.07.2025 - Neue Updates von F5 aufgenommen\n21.07.2025 - Neue Updates von Debian aufgenommen\n28.07.2025 - Neue Updates von Red Hat aufgenommen\n29.07.2025 - Neue Updates aufgenommen\n30.07.2025 - Neue Updates von Red Hat aufgenommen\n05.08.2025 - Neue Updates von HCL aufgenommen\n13.08.2025 - Neue Updates von IBM und IBM-APAR aufgenommen\n14.08.2025 - Neue Updates von IBM aufgenommen\n20.08.2025 - Neue Updates von Red Hat und Oracle Linux aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->financial and economic news",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social networking",
+    "Social Issue->social services",
+    "Social Issue->social condition",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-June/021698.html",
+    "https://twitter.com/news_de",
+    "https://www.ibm.com/support/pages/node/7242269",
+    "https://my.f5.com/manage/s/article/K000152614",
+    "https://lists.debian.org/debian-lts-announce/2025/07/msg00008.html",
+    "https://bugzilla.redhat.com/show_bug.cgi?id=2373020",
+    "https://access.redhat.com/errata/RHSA-2025:14183",
+    "https://access.redhat.com/errata/RHSA-2025:14182",
+    "https://access.redhat.com/errata/RHSA-2025:14181",
+    "https://alas.aws.amazon.com/AL2/ALAS2-2025-2920.html",
+    "https://www.facebook.com/News.de",
+    "https://www.absolute.com/platform/security-information/vulnerability-archive/secure-access-1356",
+    "https://linux.oracle.com/errata/ELSA-2025-14177.html",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://access.redhat.com/errata/RHSA-2025:11742",
+    "https://access.redhat.com/errata/RHSA-2025:11741",
+    "https://confluence.atlassian.com/security/security-bulletin-july-15-2025-1590658642.html",
+    "https://alas.aws.amazon.com/AL2/ALAS2TOMCAT9-2025-020.html",
+    "https://support.hcl-software.com/community?id=community_blog&sys_id=4cd4383f3bcb26d828f8f547f4e45af6",
+    "https://access.redhat.com/errata/RHSA-2025:14180",
+    "https://access.redhat.com/errata/RHSA-2025:11695",
+    "https://access.redhat.com/errata/RHSA-2025:11696",
+    "https://lists.debian.org/debian-lts-announce/2025/07/msg00009.html",
+    "https://github.com/advisories/GHSA-vv7r-c36w-3prj",
+    "https://www.ibm.com/support/pages/node/7242088",
+    "https://pin.it/11NQyAf",
+    "https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976",
+    "https://www.ibm.com/support/pages/node/7242150",
+    "https://access.redhat.com/errata/RHSA-2025:14178",
+    "https://access.redhat.com/errata/RHSA-2025:14179",
+    "https://www.ibm.com/support/pages/node/7239757",
+    "https://access.redhat.com/errata/RHSA-2025:14177",
+    "https://seclists.org/oss-sec/2025/q2/255",
+    "https://www.ibm.com/support/pages/node/7239768",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-July/021733.html",
+    "https://www.alas.aws.amazon.com/AL2/ALAS2TOMCAT9-2025-020.html",
+    "https://www.access.redhat.com/errata/RHSA-2025:14182",
+    "https://www.access.redhat.com/errata/RHSA-2025:14183",
+    "https://www.access.redhat.com/errata/RHSA-2025:14180",
+    "https://www.access.redhat.com/errata/RHSA-2025:14181",
+    "https://www.lists.debian.org/debian-lts-announce/2025/07/msg00009.html",
+    "https://www.access.redhat.com/errata/RHSA-2025:11742",
+    "https://www.access.redhat.com/errata/RHSA-2025:11741",
+    "https://ibm.com/support/pages/node/7242269",
+    "https://ibm.com/support/pages/node/7239768",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://www.bugzilla.redhat.com/show_bug.cgi?id=2373020",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-June/021698.html",
+    "https://www.confluence.atlassian.com/security/security-bulletin-july-15-2025-1590658642.html",
+    "https://www.my.f5.com/manage/s/article/K000152614",
+    "https://www.lists.debian.org/debian-lts-announce/2025/07/msg00008.html",
+    "https://www.access.redhat.com/errata/RHSA-2025:14179",
+    "https://www.github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976",
+    "https://www.access.redhat.com/errata/RHSA-2025:14177",
+    "https://www.github.com/advisories/GHSA-vv7r-c36w-3prj",
+    "https://www.pin.it/11NQyAf",
+    "https://www.linux.oracle.com/errata/ELSA-2025-14177.html",
+    "https://bugzilla.redhat.com/show_bug.cgi",
+    "https://www.seclists.org/oss-sec/2025/q2/255",
+    "https://www.access.redhat.com/errata/RHSA-2025:14178",
+    "https://absolute.com/platform/security-information/vulnerability-archive/secure-access-1356",
+    "https://www.access.redhat.com/errata/RHSA-2025:11695",
+    "https://ibm.com/support/pages/node/7239757",
+    "https://www.access.redhat.com/errata/RHSA-2025:11696",
+    "https://ibm.com/support/pages/node/7242088",
+    "https://ibm.com/support/pages/node/7242150",
+    "https://facebook.com/News.de",
+    "https://www.support.hcl-software.com/community?id=community_blog&sys_id=4cd4383f3bcb26d828f8f547f4e45af6",
+    "https://www.twitter.com/news_de",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-July/021733.html",
+    "https://support.hcl-software.com/community",
+    "https://www.alas.aws.amazon.com/AL2/ALAS2-2025-2920.html"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Atlassian Bamboo",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Apache Commons FileUpload",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "HCL Commerce",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Oracle Linux",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "UNIX",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "IBM",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "IBM",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:09:04.739+03:00",
+  "updated": "2025-08-22T14:09:42.000+03:00"
+}

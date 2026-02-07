@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "6d33db3fe54551ccf4c19e6619287441cdd3997a",
+    "url": "https://www.csoonline.com/article/3607235/cisos-who-delayed-patching-palo-alto-vulnerabilities-now-face-real-threat.html",
+    "site_full": "www.csoonline.com",
+    "site": "csoonline.com",
+    "site_section": "https://www.csoonline.com/feed/",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "CISOs who delayed patching Palo Alto Vulnerabilities now face real threat  | CSO Online",
+    "title": "CISOs who delayed patching Palo Alto vulnerabilities now face real threat | CSO Online",
+    "title_full": "CISOs who delayed patching Palo Alto vulnerabilities now face real threat | CSO Online",
+    "published": "2024-11-15T17:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.csoonline.com/wp-content/uploads/2024/11/3607235-0-15294200-1731687583-shutterstock_691590181.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 2640,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6d33db3fe54551ccf4c19e6619287441cdd3997a",
+  "url": "https://www.csoonline.com/article/3607235/cisos-who-delayed-patching-palo-alto-vulnerabilities-now-face-real-threat.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Shweta Sharma",
+  "published": "2024-11-15T17:23:00.000+02:00",
+  "title": "CISOs who delayed patching Palo Alto vulnerabilities now face real threat | CSO Online",
+  "text": "CISA said it has evidence of active exploitation for two out of six Expedition vulnerabilities Palo Alto Networks patched in October.\nCredit: Shutterstock 691590181 Two of six critical vulnerabilities in Palo Alto Networks’ Expedition Migration tool, which the company patched in October, are being actively exploited according to the US Cybersecurity and Infrastructure Security Agency.\nCISA has now added the two vulnerabilities — CVE-2024-9463 and CVE-2024-9465 — to its known exploited vulnerabilities (KEV) catalog, putting CISOs who ignored last month’s warnings to patch the Palo Alto flaws on notice that their systems are now under threat.\nA day after the CISA alert , the cybersecurity giant, which previously maintained a “no-zero-day” exploitation status on the bugs, updated its advisory to reflect the increased threat.\n“Palo Alto Networks is aware of reports from CISA that there is evidence of active exploitation for CVE-2024-9463 and CVE-2024-9465,” Palo Alto Networks said in the update.\nThe vulnerabilities could allow theft of usernames, cleartext passwords, and more on buggy instances of Expedition, a tool that enables admins to migrate their firewall configurations from other vendors’ products to a Palo Alto Networks product.\nBugs enable admin credentials disclosure CVE-2024-9463 and CVE-2024-9465 are command injection vulnerabilities enabling unauthenticated attackers to execute arbitrary OS-level commands as root and SQL commands on database in Expedition, respectively.\nAttackers can use the flaws to read usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls. The flaws can also enable the creation and reading of arbitrary files on Expedition systems as the attackers gain access to the Expedition database.\nBoth CVE-2024-9463 and CVE-2024-9465 have been assigned critical ratings with CVSS base scores of 9.9/10 and 9.2/10, respectively. Both the flaws are patched in Expedition 1.2.96 and later versions.\nWhile CISA did not add technical details of the exploitation, it ordered federal agencies to patch buggy Expedition servers by the end of November 2024, as per the binding operational directive ( BOD 22-01 ) for critical vulnerabilities.\n“Palo Alto Networks has observed threat activity exploiting an unauthenticated remote command execution vulnerability against a limited number of firewall management interfaces which are exposed to the Internet,” Palo Alto Networks said in another advisory update, adding “We do not have sufficient information about any indicators of compromise to share at this time.”\nIf a compromise is feared, customers are advised to monitor for suspicious activity such as unrecognised configuration changes or users.\nAs additional workarounds, all Expedition and firewall usernames, passwords, and API keys must be rotated, Expedition software should be shut down in inactivity, and network access to Expedition must be restricted to authorised users, hosts, or networks, the company added.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cve.org/CVERecord?id=CVE-2024-9463",
+    "https://security.paloaltonetworks.com/PAN-SA-2024-0010",
+    "https://www.cisa.gov/sites/default/files/publications/Reducing_the_Significant_Risk_of_Known_Exploited_Vulnerabilities_211103.pdf",
+    "https://security.paloaltonetworks.com/PAN-SA-2024-0015",
+    "https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://www.cve.org/CVERecord?id=CVE-2024-9465",
+    "https://cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://cisa.gov/sites/default/files/publications/Reducing_the_Significant_Risk_of_Known_Exploited_Vulnerabilities_211103.pdf",
+    "https://cve.org/CVERecord?id=CVE-2024-9465",
+    "https://www.security.paloaltonetworks.com/PAN-SA-2024-0015",
+    "https://www.security.paloaltonetworks.com/PAN-SA-2024-0010",
+    "https://cve.org/CVERecord?id=CVE-2024-9463",
+    "https://www.cve.org/CVERecord"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:39:31.058+02:00",
+  "updated": "2024-11-22T23:57:15.954+02:00"
+}

@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "3087d354945916942fde52469e8da77a08ff1e8d",
+    "url": "https://jvndb.jvn.jp/en/contents/2024/JVNDB-2024-000119.html",
+    "site_full": "jvndb.jvn.jp",
+    "site": "jvn.jp",
+    "site_section": "https://jvndb.jvn.jp/en/rss/jvndb_new.rdf",
+    "site_categories": [
+      "hobbies_and_interests"
+    ],
+    "section_title": "JVNDB RSS Feed - New Entry",
+    "title": "Multiple vulnerabilities in FitNesse",
+    "title_full": "Multiple vulnerabilities in FitNesse",
+    "published": "2024-11-14T21:37:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 56649,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3087d354945916942fde52469e8da77a08ff1e8d",
+  "url": "https://jvndb.jvn.jp/en/contents/2024/JVNDB-2024-000119.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-14T21:37:00.000+02:00",
+  "title": "Multiple vulnerabilities in FitNesse",
+  "text": "|\nJVNDB-2024-000119\nMultiple vulnerabilities in FitNesse\n[Overview]FitNesse provided by unclebob contains multiple vulnerabilities listed below due to responder plugin configuration.\n- Cross-site scripting (CWE-79) - CVE-2024-39610\n- Path traversal (CWE-22) - CVE-2024-42499\nTakeshi Kaneko of GMO Cybersecurity by Ierae, Inc. reported these vulnerabilities to IPA.\nJPCERT/CC coordinated with the developer under Information Security Early Warning Partnership.\n[CVSS Severity]([What is CVSS?](/en/nav/jvndbhelp.html#jvndb3))\nCVSS V3 Severity:\nBase Metrics\nBase Metrics\n[6.1](/cvss/en/v3.html#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N)(Medium) [IPA Score]- Attack Vector: Network\n- Attack Complexity: Low\n- Privileges Required: None\n- User Interaction: Required\n- Scope: Changed\n- Confidentiality Impact: Low\n- Integrity Impact: Low\n- Availability Impact: None\nThe above CVSS base scores have been assigned for CVE-2024-39610\nCVSS V3 Severity:\nBase Metrics\nBase Metrics\n[5.3](/cvss/en/v3.html#CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N)(Medium) [IPA Score]- Attack Vector: Network\n- Attack Complexity: Low\n- Privileges Required: None\n- User Interaction: None\n- Scope: Unchanged\n- Confidentiality Impact: Low\n- Integrity Impact: None\n- Availability Impact: None\nThe above CVSS base scores have been assigned for CVE-2024-42499\n[Affected Products]unclebob\n- FitNesse releases prior to 20241026\n[Impact]\n- An arbitrary script may be executed on the web browser of the user who is using the product (CVE-2024-39610)\n- An attacker may be able to know whether a file exists at a specific path, and/or obtain some part of the file contents under specific conditions (CVE-2024-42499)\n[Solution][Update the software]\nUpdate the software to the latest version according to the information provided by the developer.\nThe developer fixed the vulnerability in the following version:\n- FitNesse release 20241026\n[Vendor Information]unclebob\n- unclebob :\n[FitNess Official release]- unclebob :\n[Release 20241026 / fitnesse - GitHub]\n[CWE](What is CWE?)\n[Path Traversal(CWE-22)][IPA Evaluation] [Cross-site Scripting(CWE-79)][IPA Evaluation]\n[CVE](What is CVE?)[References]\n- JVN :\n[JVN#36791327]\n[Revision History]\n- [2024/11/15]\nWeb page was published\nDate Public | 2024/11/15 |\nDate First Published | 2024/11/15 |\nDate Last Updated | 2024/11/15 |",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.ipa.go.jp/security/english/vuln/CVE_en.html",
+    "http://www.ipa.go.jp/security/english/vuln/CWE_en.html",
+    "http://ipa.go.jp/security/english/vuln/CVE_en.html",
+    "http://ipa.go.jp/security/english/vuln/CWE_en.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Takeshi Kaneko",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Information Security Early Warning Partnership",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T15:40:06.050+02:00",
+  "updated": "2024-11-15T15:40:06.050+02:00"
+}

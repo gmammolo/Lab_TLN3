@@ -1,0 +1,122 @@
+{
+  "thread": {
+    "uuid": "a42405e0b630d417f26e97bee83e0d0450343048",
+    "url": "https://www.livemint.com/gadgets-and-appliances/battlefield-6-beta-asking-users-to-uninstall-valorant-here-s-the-solution-11755148698468.html",
+    "site_full": "www.livemint.com",
+    "site": "livemint.com",
+    "site_section": "https://www.livemint.com/bank-holidays-india/bihar",
+    "site_categories": [
+      "media",
+      "financial_news",
+      "finance",
+      "top_news_in",
+      "top_news_iq",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_za",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_kw",
+      "top_news"
+    ],
+    "section_title": "Bank Holidays in Bihar 2025 | List of Bihar Bank Holidays in 2025",
+    "site_title": "Business News Today: Read Latest Business News, Live India Share Market News, Finance &amp; Economy News | Mint",
+    "title": "Battlefield 6 beta asking users to uninstall Valorant, here's the solution",
+    "title_full": "Battlefield 6 beta asking users to uninstall Valorant, here's the solution",
+    "published": "2025-08-14T08:28:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://www.livemint.com/lm-img/img/2025/08/14/1600x900/Battlefield_6_beta_1755148939611_1755148943791.jpeg",
+    "performance_score": 0,
+    "domain_rank": 1367,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a42405e0b630d417f26e97bee83e0d0450343048",
+  "url": "https://www.livemint.com/gadgets-and-appliances/battlefield-6-beta-asking-users-to-uninstall-valorant-here-s-the-solution-11755148698468.html",
+  "ord_in_thread": 0,
+  "author": "Amit Rahi",
+  "published": "2025-08-14T08:28:00.000+03:00",
+  "title": "Battlefield 6 beta asking users to uninstall Valorant, here's the solution",
+  "text": "Gamers were excited to play the Battlefield 6 beta this week, but they were caught off guard with a strange error message asking them to uninstall Valorant. This beta, from August 14 to 17, is to showcase new maps and game modes. Instead, it turned into a headache for some users because they couldn't launch the game due to this error.\nThe problem is associated with the anti-cheat software, a small program that runs in the background to stop cheaters and hackers from ruining online games. Battlefield 6 uses a new system called Javelin, while Valorant uses Riot’s Vanguard anti-cheat system. These kernel-level anti-cheat systems see each other as a threat and shut down the game launch. Gamers immediately flocked to social media to find a solution, and Reddit is flooded with these posts.\nThe players thought they had to uninstall Valorant to play Battlefield 6 Beta and started complaining on social media. To remove the confusion and clear things up, Riot’s head of anti-cheat, Philip Koskinas, posted on X about this. He stated that both anti-cheat systems use the same technique and rush to protect the same game memory at the same time, seeing each other as a threat. He said both Javelin and Vanguard are compatible with each other, and players don’t need to uninstall one to use the other.\nA simple solution is to completely close Valorant and all the related processes from the background to run Battlefield 6. If the problem persists, remove Valorant from auto-start apps and reboot your PC, then try running the game again.\nWith Battlefield 6 scheduled for full release in October, developers are likely to work on resolving this conflict between anti-cheat systems to ensure both games can coexist without interruptions. For now, you have to follow these simple workarounds to play the Battlefield 6 beta. If these don't work for you, then sadly, you need to uninstall Valorant and juggle the installations to play both games.\nCatch all the Business News, Market News, Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Philip Koskinas",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Reddit",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_in",
+      "top_news_iq",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_za",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_kw",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T08:32:22.644+03:00",
+  "updated": "2025-08-15T09:10:08.000+03:00"
+}

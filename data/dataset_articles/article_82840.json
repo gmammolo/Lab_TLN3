@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "12c8dcc244a4efc47e19b36ffd5c4d2c2d50caf5",
+    "url": "https://lcamtuf.substack.com/p/meta-5000",
+    "site_full": "lcamtuf.substack.com",
+    "site": "substack.com",
+    "site_section": "https://substack.com/api/v1/inbox/top?tab=118&tabtype=category",
+    "site_categories": [],
+    "section_title": "",
+    "site_title": null,
+    "title": "Meta: 5,000 - lcamtuf's thing",
+    "title_full": "Meta: 5,000 - lcamtuf's thing",
+    "published": "2025-02-27T19:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faae4836c-0dad-4b89-a10f-aec1295bfb85_612x408.jpeg",
+    "performance_score": 0,
+    "domain_rank": 272,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "12c8dcc244a4efc47e19b36ffd5c4d2c2d50caf5",
+  "url": "https://lcamtuf.substack.com/p/meta-5000",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "lcamtuf",
+  "published": "2025-02-27T19:54:00.000+02:00",
+  "title": "Meta: 5,000 - lcamtuf's thing",
+  "text": "I’m delighted to report that we’ve just crossed 5,000 subscribers. It’s not a huge number by today’s standards, but it’s spectacular for a project that embraced a losing formula. I deliberately stepped outside my professional comfort zone to write for a new audience — and promised myself to avoid daily punditry and clickbait.\nWriting a newsletter is weird . You feel close to your subscribers: you see who’s signing up in the wake of a post that goes viral on Hacker News, and you’re occasionally bummed out to see a friend or a colleague leave. But these are the only signals you get. The nature of the internet is such that we almost never reach out to authors to say what we think.\nIn other words, I’m not sure what content will make your day and what will finally drive you to unsubscribe. That said, because the bulk of subscriptions happened in 2024 and 2025, I figured it might be a good opportunity to dust off three older articles that ended up below the fold:\nNot so fast, Mr. Fourier! — the discrete Fourier transform is one of the most important algorithms in computing, but you’d be hard-pressed to find an accessible explanation of what it does. I put a lot of effort into this one — complete with animations and sample code — and I think it’s without peer. The article doesn’t really show up in Google Search, so consider it this Substack’s secret.\nFractals: understanding Mandelbrot — fractals were a bit of a pop-cultural phenomenon in my youth. Numerous philosophical treatises were written and many serious mathematicians stared at them intently for years. Eventually, we said “well, that’s that then” and never spoke of fractals again.\nPrimer: core concepts in electronic circuits — if you read this one when it originally came out, you should give it another look. I revised it extensively to explain some of the key math behind analog circuits without leaning on any prior knowledge of calculus — something that no other source bothers to do.\nIn any case — thank you for giving this newsletter a chance. Here’s to tens more subscribers down the line!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:23:21.101+02:00",
+  "updated": "2025-02-28T00:23:21.101+02:00"
+}

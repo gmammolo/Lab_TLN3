@@ -1,0 +1,67 @@
+{
+  "thread": {
+    "uuid": "5f3ada9b3b67cf04f085026548e5e575d81eac59",
+    "url": "https://www.googlenestcommunity.com/t5/Cameras-and-Doorbells/Away-routine-not-running/m-p/657752",
+    "site_full": "www.googlenestcommunity.com",
+    "site": "googlenestcommunity.com",
+    "site_section": "https://www.googlenestcommunity.com/unqkr23473/rss/Community?interaction.style=review&feeds.replies=true",
+    "site_categories": [],
+    "section_title": "rss.livelink.posts-in-node",
+    "title": "Re: Away routine not running",
+    "title_full": "Re: Away routine not running",
+    "published": "2024-11-22T09:05:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.googlenestcommunity.com/html/assets/Google_G_192.png",
+    "performance_score": 0,
+    "domain_rank": 54390,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5f3ada9b3b67cf04f085026548e5e575d81eac59",
+  "url": "https://www.googlenestcommunity.com/t5/Cameras-and-Doorbells/Away-routine-not-running/m-p/657752",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Derickf",
+  "published": "2024-11-22T09:05:00.000+02:00",
+  "title": "Re: Away routine not running",
+  "text": "Saturday\nThe Away routine does not start.\nAt home I have a Nest Thermostat and a Nest Camera Battery.\nBoth my wife and I have the Google Home and Google Near app installed. Both phones are correctly configured to use position. In Google Home the Away routine is set to turn camera on and turn thermostat off.\nProblem is dual: when both phones (mine and my wife's) are correctly detected as outside (at 13.25 in screenshot s), the Away routine is not run after 48 minutes (at 14.15 in the screenshots) yet camera is turned on (but thermostat remains on).\nI would expect:\n1. When both phones are detected outside, the Away routine should run: why instead after 48 minutes the Away routine is not run yet?\n2. If the Away routine is not run, camera should remain off and thermostat should remain on: why instead the camera is turned on even if the Away routine is not run?\nSaturday\nAnyone?\nTuesday\nAnyone?\nTuesday\nHi [@thegios](/t5/user/viewprofilepage/user-id/266294),\nThank you for reaching out to the community. I'm sorry to hear that you are having issues with the Home Away routines with your Nest Camera and your Nest Thermostat. Before we start, I have some questions:\nIn the meantime, you can take a look at the following article: Nest Home and Away not working\nI'll be looking for your reply.\nBest regards,\nDerick.\nWednesday\nI have found out that eventually the routine runs, but with 1h delay.\nSo, when all devices are detected as away, the away routine is not run but camera still goes online (why?) whiel thermostat remains on, only after 1h the away routine is run and also the thermostat goes off.\nQuestion 1: why the away routine is run only after 1h\nQuestion 2: if as soon as the devices are both detected as away, why the camera goes online if the away routine is not run yet?\nyesterday\nHey there!\nThank you for your reply. Regarding the delay on the away routine, it could be caused by the presence sensing.\nHave you checked if the presence sensing is enabled on your Nest Thermostat?\nKeep in mind that cameras aren’t switched by all the same triggers as other Nest products. Cameras are only switched by your phone’s location or if you manually change your home’s mode to Home or Away.\nYou can take a look at the following article: Change Home/Away Assist settings.\nI'll be looking for your reply.\nBest regards,\nDerick.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Lifestyle and Leisure",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T12:04:46.312+02:00",
+  "updated": "2024-11-22T12:04:46.312+02:00"
+}

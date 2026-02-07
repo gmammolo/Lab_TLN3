@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "aa9ccfb8ca56905ceb249e8ba36ab6b4ae353221",
+    "url": "https://www.binance.com/en/square/post/11-22-2024-ai-generated-code-raises-security-concerns-in-blockchain-development-16562494136505",
+    "site_full": "www.binance.com",
+    "site": "binance.com",
+    "site_section": "https://www.binance.com/square",
+    "site_categories": [
+      "tech",
+      "finance",
+      "email"
+    ],
+    "section_title": "Discover The Latest Crypto News &amp; Feed From Influencers | Binance Square",
+    "title": "AI-Generated Code Raises Security Concerns in Blockchain Development",
+    "title_full": "AI-Generated Code Raises Security Concerns in Blockchain Development",
+    "published": "2024-11-22T06:43:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://public.bnbstatic.com/images/common/feed-og-image-2.png",
+    "performance_score": 0,
+    "domain_rank": 822,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "aa9ccfb8ca56905ceb249e8ba36ab6b4ae353221",
+  "url": "https://www.binance.com/en/square/post/11-22-2024-ai-generated-code-raises-security-concerns-in-blockchain-development-16562494136505",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Binance News",
+  "published": "2024-11-22T06:43:00.000+02:00",
+  "title": "AI-Generated Code Raises Security Concerns in Blockchain Development",
+  "text": "According to PANews, a Twitter user identified as @r_cky0 reported a significant security breach while using ChatGPT to develop a blockchain automated trading bot. The user discovered that the AI-recommended code contained a hidden backdoor, which transmitted private keys to a phishing website, resulting in a loss of approximately $2,500. This incident was later confirmed by SlowMist founder Yu Jian, known as @evilcos, who acknowledged the existence of such vulnerabilities in AI-generated code.\nExperts have highlighted that these types of attacks may stem from AI models learning malicious patterns from phishing posts or insecure content. Current AI models face challenges in detecting backdoors within code, raising concerns about the reliability of AI-generated programming solutions. Industry professionals are urging users to exercise caution and avoid blindly trusting AI-generated code. They also recommend that AI platforms enhance their content review mechanisms to identify and alert users to potential security risks. This call for increased vigilance and improved safety measures underscores the need for a more secure approach to integrating AI in software development.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Yu Jian",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T07:46:45.417+02:00",
+  "updated": "2024-11-22T07:46:45.417+02:00"
+}

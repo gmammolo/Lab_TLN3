@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "ccaeb7e2d367bbae476165d12d971b3dd207e251",
+    "url": "https://news-pravda.com/world/2026/01/15/2002853.html",
+    "site_full": "news-pravda.com",
+    "site": "news-pravda.com",
+    "site_section": "https://news-pravda.com/articles",
+    "site_categories": [
+      "crime, law and justice",
+      "war, conflict and unrest",
+      "economy, business and finance",
+      "politics"
+    ],
+    "section_title": "Articles - Pravda EN",
+    "site_title": "Pravda - Breaking News, World News and Videos",
+    "title": "Scott Ritter DE-BANKED - NO explanation given - Pravda EN",
+    "title_full": "Scott Ritter DE-BANKED - NO explanation given - Pravda EN",
+    "published": "2026-01-15T08:13:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://news-pravda.com/img/20260115/d3fab4da73329d9ffca358be09f2455a_o.jpg",
+    "performance_score": 0,
+    "domain_rank": 69329,
+    "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ccaeb7e2d367bbae476165d12d971b3dd207e251",
+  "url": "https://news-pravda.com/world/2026/01/15/2002853.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2026-01-15T08:13:00.000+02:00",
+  "title": "Scott Ritter DE-BANKED - NO explanation given - Pravda EN",
+  "text": "15.01.2026, 06:13 GMTScott Ritter DE-BANKED — NO explanation givenScott Ritter DE-BANKED — NO explanation givenCurrently, banks don't have to give a reason Source: Telegram \"rtnews\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Economy, Business and Finance->financial and economic news"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Scott Ritter",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "##S",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Pravda",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-15T08:17:24.335+02:00",
+  "updated": "2026-01-15T08:19:13.000+02:00"
+}

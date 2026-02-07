@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "b48f5c0f32ed20ec2b0c791fbeed5db45cdcb1e1",
+    "url": "https://www.suedtirolnews.it/wirtschaft/laestige-spam-anrufe-aus-dem-ausland-damit-ist-jetzt-schluss",
+    "site_full": "www.suedtirolnews.it",
+    "site": "suedtirolnews.it",
+    "site_section": "https://www.suedtirolnews.it/feed",
+    "site_categories": [
+      "media",
+      "top_news_it",
+      "top_news"
+    ],
+    "section_title": "Südtirol News",
+    "site_title": "Südtirol News - Nachrichten aus Südtirol, Italien und der Welt",
+    "title": "Lästige Spam-Anrufe aus dem Ausland: Damit ist jetzt Schluss",
+    "title_full": "Lästige Spam-Anrufe aus dem Ausland: Damit ist jetzt Schluss",
+    "published": "2025-08-21T08:05:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://media.stncdn.it/960x720/2025/02/woman-1847044-1920.png",
+    "performance_score": 0,
+    "domain_rank": 106636,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 6,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b48f5c0f32ed20ec2b0c791fbeed5db45cdcb1e1",
+  "url": "https://www.suedtirolnews.it/wirtschaft/laestige-spam-anrufe-aus-dem-ausland-damit-ist-jetzt-schluss",
+  "ord_in_thread": 0,
+  "author": "mk",
+  "published": "2025-08-21T08:05:00.000+03:00",
+  "title": "Lästige Spam-Anrufe aus dem Ausland: Damit ist jetzt Schluss",
+  "text": "Von: mk\nBozen – Ab 19. August werden eingehende Anrufe von angeblich nationalen Rufnummern, die aber eigentlich aus dem Ausland kommen, durch ein neues technisches Anti-Spoofing-System gefiltert. Dieser Spam-Filter ist durch die Kooperation zwischen Telekommunikationsanbietern und der Agcom (Aufsichtsbehörde für das Telekommunikationswesen) entstanden, und soll als Schutzschild gegen unerwünschte Anrufe vieler Call-Center dienen. Darauf weist die Verbraucherzentrale Südtirol (VZS) hin.\nAnlass für die Entwicklung einer solchen Lösung war die Einführung durch die Agcom (Beschluss Nr. 457) der Verpflichtung für nationale Betreiber das sogenannte Cli-Spoofing-Phänomen zu blockieren. Cli steht für Calling Line Identification; gestoppt werden sollen so also die äußerst nervigen illegitimen Werbeanrufe aus dem Ausland, die mit einer gefälschten Rufnummer bzw. einer italienischen Vorwahl maskiert werden. Die Betreiber machen das, um zuverlässig zu erscheinen und so ungestört aggressives Marketing oder sogar Telefonbetrug zu betreiben.\nWie der Agcom-Kommissar Massimiliano Capitano betont, handelt es sich um einen “technologischen Filter zur Bekämpfung von Cli-Spoofing-Anrufen: eine Praxis, mit der die Rufnummer getarnt wird und es Hunderten von Betreibern (von Call-Centern, Anm. d. Red.), die hauptsächlich aus dem Ausland operieren, ermöglicht, ungehindert und illegal zu agieren”.\nDie Maßnahme soll drei verschiedene Arten von Anrufen blockieren: Spam-Anrufe mit einer Standard-Rufnummernstruktur, Spam-Anrufe mit italienischer Festnetznummer, die aber aus dem Ausland getätigt werden (Blockade ab 19. August aktiv), und Anrufe mit italienischer Mobilfunknummer, die ebenfalls aus dem Ausland stammen (Blockade ab November 2025 vorgesehen); Roaming-Anrufe von italienischen Nutzern im Ausland werden nicht blockiert. Laut Schätzungen der Agcom soll dieses technische Anti-Spoofing-System, das sowohl europaweit als auch weltweit als Vorreiter gilt, in der Lage sein, 95 Prozent der Cli-Spoofing-Anrufe zu bekämpfen.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->demographics",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->consumer goods",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Massimiliano Capitano",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cli",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bozen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Calling Line Identification",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "VZS",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_it",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T08:16:34.578+03:00",
+  "updated": "2025-08-22T09:05:46.000+03:00"
+}

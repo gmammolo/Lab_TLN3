@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "192a80d54fe8981f5c4385490b2b8e11e66ca6e8",
+    "url": "https://www.researchsquare.com/article/rs-7142536/v1",
+    "site_full": "www.researchsquare.com",
+    "site": "researchsquare.com",
+    "site_section": "https://www.researchsquare.com/browse",
+    "site_categories": [],
+    "section_title": "Browse Preprints | Research Square",
+    "site_title": "Home | Research Square",
+    "title": "Hybrid Intelligence for Wave Prediction: Integrating Sparse LSTM-Transformer with an Expert System | Research Square",
+    "title_full": "Hybrid Intelligence for Wave Prediction: Integrating Sparse LSTM-Transformer with an Expert System | Research Square",
+    "published": "2025-07-31T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6370,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "192a80d54fe8981f5c4385490b2b8e11e66ca6e8",
+  "url": "https://www.researchsquare.com/article/rs-7142536/v1",
+  "ord_in_thread": 0,
+  "author": "Zizhang Liu",
+  "published": "2025-07-31T03:00:00.000+03:00",
+  "title": "Hybrid Intelligence for Wave Prediction: Integrating Sparse LSTM-Transformer with an Expert System | Research Square",
+  "text": "Accurate and computationally efficient wave height prediction is critical for marine operations, coastal engineering, and offshore safety. However, existing models struggle to capture both short- and long-term dependencies in complex sea states. This study presents a hybrid forecasting framework that combines Long Short-Term Memory (LSTM) networks and Transformer encoders, augmented by a sparse attention mechanism to reduce computational cost while preserving key temporal features. To further enhance reliability under extreme conditions, a knowledge-based expert system is incorporated, consisting of 21 domain-specific rules addressing physical constraints, safety thresholds, and control logic. These rules refine the model’s outputs through a confidence-weighted fusion approach. The model is evaluated using five years of half-hourly wave height data from the Muluraba buoy station. Experimental results demonstrate that the proposed hybrid system outperforms traditional statistical models (e.g., ARIMA) and baseline deep learning models (e.g., CNN-LSTM, standard LSTM-Transformer), achieving a correlation coefficient of 0.97, RMSE of 0.027, and MAE of 0.019. These results demonstrate the effectiveness of integrating neural networks with expert systems for robust wave forecasting.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->marine science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T08:09:20.220+03:00",
+  "updated": "2025-07-31T08:12:16.000+03:00"
+}

@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "66a8604ff0d6ac3d151af773ffb778e9fd2e33d6",
+    "url": "https://www.androidpolice.com/chrome-toolbar-shortcuts-coming-to-chrome-custom-tabs",
+    "site_full": "www.androidpolice.com",
+    "site": "androidpolice.com",
+    "site_section": "https://www.androidpolice.com/feed",
+    "site_categories": [
+      "media",
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": " Android Police ",
+    "site_title": null,
+    "title": "Google's adaptive toolbar button is coming to Chrome Custom Tabs",
+    "title_full": "Google's adaptive toolbar button is coming to Chrome Custom Tabs",
+    "published": "2025-02-28T01:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/09/google-chrome-1-ap24-hero-jpg.jpg",
+    "performance_score": 0,
+    "domain_rank": 2923,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "66a8604ff0d6ac3d151af773ffb778e9fd2e33d6",
+  "url": "https://www.androidpolice.com/chrome-toolbar-shortcuts-coming-to-chrome-custom-tabs",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Karandeep Singh Oberoi",
+  "published": "2025-02-28T01:01:00.000+02:00",
+  "title": "Google's adaptive toolbar button is coming to Chrome Custom Tabs",
+  "text": "Summary\n- Recent updates introduced picture-in-picture support and an \"Open in browser\" shortcut for Chrome Custom Tabs (CCTs), improving multitasking and allowing seamless transitions to the full Chrome experience.\n- Chrome's customizable toolbar shortcuts, previously exclusive to the main browser, might soon be coming to CCTs, enabling quick access to actions like \"Share,\" \"Translate,\" and more within in-app web views.\n- These updates aim to provide a more integrated and efficient browsing experience within Android apps, allowing users to leverage Chrome's features directly within the context of their favorite applications.\nSome of the most popular applications that redirect users out of their own domain often rely on Chrome Custom Tabs (CCT), at least on Android. This includes the likes of YouTube, pages opened from your Discover feed, Slack, X, and countless more that you're probably thinking of right now.\nBack in March 2024, CCTs got a major multitasking upgrade in the form of picture-in-picture support, followed by a dedicated 'Open in browser' shortcut to allow users to seamlessly transition to the full Chrome browser experience.\nRelated\nTapping this new button in Chrome Custom Tabs will take you straight to your main browser\nThough you might not see it implemented everywhere\nBuilding on the same update, it looks like CCTs will soon gain another Chrome shortcut, one that will sit beside the 'Open in browser' icon.\nFirst introduced all the way back in 2022, Chrome offers intelligent toolbar shortcuts that can help you quickly access some of your most-used webpage actions. During its initial days, the shortcut was \"based on your usage,\" but later gained custom functionality. As of today, you can set the shortcut to open a 'New tab,' 'Share this page,' 'Voice search,' Translate,' 'Add to bookmarks,' and 'Listen to this page.'\nThese shortcuts sit conveniently right next to your Chrome address bar, making them easily accessible while you're browsing, and it looks like they soon won't be limited to the full Chrome browser experience.\nYour Discover feed pages might soon have toolbar shortcuts\nAs highlighted by Chrome researcher @Leopeva64 on X (Twitter), the customizable toolbar shortcuts might soon be available within CCTs. According to the researcher, the toolbar should also offer Chrome's upcoming AI page summary shortcut once available.\nIt doesn't look like CCTs will have their separate toolbar shortcut setting, so whatever shortcut you select in Chrome will be the one you see on CCTs via apps like Slack or Google's own Discover. You will, however, be able to edit shortcuts by long-pressing them within Custom Tabs.\nThe update was spotted in Chrome Canary, which means the shortcut is currently in its experimental phase, and should soon be available in stable if no major issues arise. When exactly that happens is currently unclear.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/Leopeva64/status/1895138459293229477",
+    "https://www.x.com/Leopeva64/status/1895138459293229477"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:13:17.942+02:00",
+  "updated": "2025-02-28T01:13:17.942+02:00"
+}

@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "4f77dd33c9498d9cb27f5ed511ca0bdf109607e6",
+    "url": "https://discuss.huggingface.co/t/supported-models/135072",
+    "site_full": "discuss.huggingface.co",
+    "site": "huggingface.co",
+    "site_section": "https://discuss.huggingface.co/posts.rss",
+    "site_categories": [],
+    "section_title": "Hugging Face Forums - Latest posts",
+    "title": "Supported models",
+    "title_full": "Supported models",
+    "published": "2025-01-10T00:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://us1.discourse-cdn.com/hellohellohello/original/2X/d/de4155eb4aa4108ecb32a1389d7cc37ae69f88b7.png",
+    "performance_score": 0,
+    "domain_rank": 1216,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4f77dd33c9498d9cb27f5ed511ca0bdf109607e6",
+  "url": "https://discuss.huggingface.co/t/supported-models/135072",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@Jingya Jingya Huang",
+  "published": "2025-01-10T00:32:00.000+02:00",
+  "title": "Supported models",
+  "text": "Trying to compile a transformers model I’m using Getting\nKeyError: \"hyenadna is not supported yet for transformers. Only ['...'] are supported for the library transformers. If you want to support hyenadna please propose a PR or open up an issue.\"\nhow/who decides which new models will be supported ?\nHi @ES-CONVERGE, what is the command/script you used to perform this conversion?\n@ES-CONVERGE hyenadna uses remote code, it should be compatible with the APIs in Optimum in general, but as it’s not native citizen in the Transformers libraries. The best approach IMO would be creating a custom backend config and register it to the task manager of Optimum. WDYT @regisss?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T02:12:20.837+02:00",
+  "updated": "2025-01-10T02:12:20.837+02:00"
+}

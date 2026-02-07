@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "8986b80af2782e864aa625c1ca7d1e4b7a342326",
+    "url": "https://prod.cis.cornell.edu/mps-project-measures-trust-generative-ai",
+    "site_full": "prod.cis.cornell.edu",
+    "site": "cornell.edu",
+    "site_section": "https://cis.cornell.edu/rss.xml",
+    "site_categories": [],
+    "section_title": "Cornell Computing and Information Science",
+    "title": "MPS Project measures trust in generative AI",
+    "title_full": "MPS Project measures trust in generative AI",
+    "published": "2024-01-06T02:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 185,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8986b80af2782e864aa625c1ca7d1e4b7a342326",
+  "url": "https://prod.cis.cornell.edu/mps-project-measures-trust-generative-ai",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "mst225",
+  "published": "2024-01-06T02:04:00.000+02:00",
+  "title": "MPS Project measures trust in generative AI",
+  "text": "January 5, 2024\nBy Louis DiPietro\nTools we don’t trust are tools we don’t use. For generative artificial intelligence (GenAI) tools, this means it is critical to measure trust when evaluating tools that require user-inputted data.\nThis semester, a student team from the\nMaster of Professional Studies (MPS) program in the Department of Information Science led a research project alongside Google to develop metrics to measure user-perceived trustworthiness in burgeoning GenAI tools like ChatGPT and Google Bard. The team then homed in on the most important factors contributing to trustworthiness.\nThe project was one of 10 in this semester’s\nMPS Project Practicum (INFO 5900), the program’s linchpin, project-based course where students build implementable solutions to real-world problems for clients – from Fortune 500 companies and startups to nonprofits and government agencies.\nThrough a survey of roughly 110 student developers and full-time Google employees, the student team found that respondents mostly use GenAI tools for idea generation and that privacy and accuracy are the most important factors when evaluating GenAI trustworthiness. Users want to be assured the information they plug into these tools is kept confidential, and they want that information to be correct, according to the team’s findings.\n“The class provided us with practical experience in developing and implementing solutions for real-world problems,” said Zhuoer Lyu, an MPS student and member of the research team. “We felt fortunate to collaborate with industry partners like Google to enhance our understanding of GenAI applications.”\nAmong its recommendations to Google, the student team said users of GenAI tools should be given control over their data by providing clear options for opting in or out of data collection, personalized experiences, and sharing of their information. In regard to accuracy, the team recommended allowing users to verify the AI’s answers. In turn, this feedback would help hone the AI models.\nThe student team consisted of Lyu, Jingruo Chen, Elisabeth Kam, Tung-Yen Wang, Xiaohan Wang, and Yahui Zhang.\nElsewhere, a separate team of MPS students carried out a combination UX design and UX research project for Google Cloud to examine how AI could better integrate tools to build and maintain customer relationships. MPS students Jinmo Huang, Haochen Hu, and Miles Ma worked on the UX design side, while Bandar Qadan, Pika Cai, and Jai Chandnani worked on the UX research.\n\"This semester's projects were complex and provided a healthy combination of meaningful practical experience coupled with intellectual expansion,” said\nSharlane Cleare, lecturer of information science in the Cornell Ann S. Bowers College of Computing and Information Science, and the course’s instructor. “Students eagerly embraced, navigated and addressed a myriad of comprehensive end-to-end technical solutions.\"\nLouis DiPietro is a writer for the Cornell Ann S. Bowers College of Computing and Information Science.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "louis dipietro tools",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "department of information science",
+        "sentiment": "none"
+      },
+      {
+        "name": "google",
+        "sentiment": "none"
+      },
+      {
+        "name": "google bard",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-06T02:09:31.458+02:00",
+  "updated": "2024-01-06T02:09:31.458+02:00"
+}

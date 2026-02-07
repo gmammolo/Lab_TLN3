@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "24124767223075fe3c8a136f105c773fc3707bbf",
+    "url": "https://www.thestar.com.my/news/nation/2024/12/20/rm137mil-worth-of-fines-issued-for-smoking",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/news/latest",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Latest - News | The Star",
+    "title": "RM1.37mil worth of fines issued for smoking | The Star",
+    "title_full": "RM1.37mil worth of fines issued for smoking | The Star",
+    "published": "2024-12-20T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/12/20/3078037.JPG",
+    "performance_score": 0,
+    "domain_rank": 2195,
+    "domain_rank_updated": "2024-12-16T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 5,
+        "comments": 1,
+        "shares": 13
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "24124767223075fe3c8a136f105c773fc3707bbf",
+  "url": "https://www.thestar.com.my/news/nation/2024/12/20/rm137mil-worth-of-fines-issued-for-smoking",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2024-12-20T02:00:00.000+02:00",
+  "title": "RM1.37mil worth of fines issued for smoking | The Star",
+  "text": "PUTRAJAYA: Over 93% of compound notices issued since the enforcement of the Control of Smoking Products for Public Health Act 2024 (Act 852) were for smoking in prohibited areas, says the Health Minister.\nDatuk Seri Dr Dzulkefly Ahmad said the ministry has issued 5,642 notices amounting to RM1.37mil in compounds from Oct 1 to Dec 17.\nOut of that, he said 5,271 notices fell under Section 16(2) for smoking in prohibited areas.\nMeanwhile, 193 notices were issued under Section 17(1) for offences involving underage individuals smoking or using tobacco products, he said.\nTo bolster enforcement efforts under the Act, Dzulkefly said the launch of the JomLapor online platform is aimed at achieving a smoke-free Malaysia by 2040.\n“JomLapor, rolled out on Wednesday, has already received 135 complaints. All reports are anonymous to ensure the safety of informants,” Dzulkefly said during the platform’s official launch yesterday, Bernama reported.\nHe said the platform is designed to encourage public cooperation in maintaining smoke-free environments, especially in spaces frequented by senior citizens, pregnant women and children.\nSeparately, he said the ministry received 13,000 complaints regarding smoking offences in public places via WhatsApp this year.\nDzulkefly reiterated the government’s firm stance on enforcing Act 852, emphasising equal treatment under the law.\n“There are no double standards in the Madani government. For instance, the Foreign Minister (Datuk Seri Mohamad Hasan) made a mistake, accepted the compound issued and paid it. That’s the spirit we want to see,” he said.\nDeveloped in collaboration with non-governmental organisations and professional bodies, JomLapor strengthens enforcement against violations such as advertising, promotion or sponsorship of tobacco products, as well as sales in educational institutions or marketplaces, online platforms and vending machines.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Politics",
+    "Social Issue"
+  ],
+  "topics": [
+    "Health->government health care",
+    "Health->health organisation",
+    "Health->public health",
+    "Politics->public inquiry",
+    "Politics->government policy",
+    "Politics->civil rights",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Dzulkefly",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Bernama",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-12-20T02:11:37.925+02:00",
+  "updated": "2024-12-20T02:11:37.925+02:00"
+}

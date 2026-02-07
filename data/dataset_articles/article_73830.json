@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "30b440edc643814bee36176e13d9eb7c23dffd50",
+    "url": "https://www.thewindowsclub.com/vss-error-unexpected-error-calling-routine-cocreateinstance",
+    "site_full": "www.thewindowsclub.com",
+    "site": "thewindowsclub.com",
+    "site_section": "https://www.thewindowsclub.com",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "Windows 11/10 Tips, Tricks, Help, Support, Downloads, Features",
+    "title": "VSS Error, Unexpected error calling routine CoCreateInstance",
+    "title_full": "VSS Error, Unexpected error calling routine CoCreateInstance",
+    "published": "2024-11-15T03:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6940,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "30b440edc643814bee36176e13d9eb7c23dffd50",
+  "url": "https://www.thewindowsclub.com/vss-error-unexpected-error-calling-routine-cocreateinstance",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Yusuf@TWC",
+  "published": "2024-11-15T03:59:00.000+02:00",
+  "title": "VSS Error, Unexpected error calling routine CoCreateInstance",
+  "text": "When checking the application log in the Event Viewer, I stumbled upon an Event ID 8193, which implies that there is some issue with the VSS which can hinder in the backup and recovery process of the machine. This might not seem like an important issue, but it can be if your system crashes. In this post, we will talk about VSS Error, Unexpected error calling routine CoCreateInstance and see how you can resolve it.\nVolume Shadow Copy Service error: Unexpected error calling routine CoCreateInstance. hr = 0x8007045b, A system shutdown is in progress.\nFix VSS Error, Unexpected error calling routine CoCreateInstance, Event ID 8193 If you encountered VSS Error, Unexpected error calling routine CoCreateInstance, follow the solutions mentioned below.\nCheck VSS Service Status Re-register VSS Components Check Network Service Account Permissions Repair your system image Let us talk about them in detail.\n1] Check VSS Service Status\nFirst of all, we need to go and check the running status of the VSS Service . This service allows your device to create backup of the files and volumes hosted on it time to time so that they can be recovered after a crash or as per the user’s requirements, therefore, the service should be running all the time.\nOur first step should be to check the service’s status and make sure that it is running, to do so, follow the steps mentioned below.\nOpen the Services app by searching it out of the Start Menu. Now, look for Volume Shadow Copy, right-click on it, and select Properties. Check if the status of the service is Stopped. If it’s not running, change the Startup type to Automatic (Delayed Start) and click on Start. Finally, click Apply > OK. If the service was running, you need to right-click on it and select Restart. Once the service starts back up, you need to reboot your computer and wait for a few hours to check the event logs again. You can add a filter in Event Viewer and make sure that the Source is set to VSS. If you see successful logs, your issue is resolved.\n2] Re-register VSS Components\nThere is a possibility that VSS refuses to work because of a glitch and in order to resolve it, we will manually register server. DLL files that are essential for the Volume Shadow Copy Service to function to ensure that all necessary components are properly registered and available for the VSS to use. In order to do so, you first need to open Run, type “cmd”, and hit Ctrl + Shift + Enter. You will get a UAC pop-up, click on Yes when prompted.\nNow, run the following commands one by one.\nregsvr32 ole32.dll regsvr32 vss_ps.dll regsvr32 /i swprv.dll regsvr32 /i eventcls.dll regsvr32 es.dll regsvr32 stdprov.dll regsvr32 vssui.dll regsvr32 msxml.dll regsvr32 msxml3.dll regsvr32 msxml4.dll\nFinally, reboot your computer and then check if the issue is resolved.\n3] Check Network Service Account Permissions\nThere is similar error, with the same Event ID: 8193 , which says “ Volume Shadow Copy Service error: Unexpected error calling routine. Access is denied “. This error is usually caused due to the lack of permission to the Diag key. We suspect that the issue that we are facing can also be a product of the same problem. Therefore, we are going to make some changes to the registry in order to resolve the issue. However, before making any changes, we recommend you take a backup of your registry .\nOnce done, follow the steps mentioned below.\nOpen Registry Editor by searching it out of the Start Menu. Now, navigate to Computer\\HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\VSS\\Diag Right-click on the Diag folder and select Properties. Now, select NETWORK SERVICE option from the Security tab, tick the box associated with Full Control, and click on OK. You can close the Registry Editor. Finally, reboot your computer and see if the issue is resolved.\n4] Repair your system image\nIf any component related to VSS is corrupted on your computer, you will encounter this issue. In order to resolve it, we need to repair the system image, to do so, open the Command Prompt as an administrator and then run the following commands.\nsfc /scannow\nDism /Online /Cleanup-Image /ScanHealth\nDism /Online /Cleanup-Image /CheckHealth\nDism /Online /Cleanup-Image /RestoreHealth\nMake sure to run one command at a time. Once you are done with these commands, run the backup gain and see if the issue is resolved.\nHopefully, you will be able to resolve the issue using the solutions mentioned in this post.\nRead: The VSS service is shutting down due to idle timeout\nWhat is the VSS unexpected error? If you see VSS Unexpected error and the backup plan terminates, system does not have enough disk space to create a shadow copy during a backup. You need to increase the area allowed to VSS to buffer such write operations. We recommend you increase the max size of VSS and then retry, hopefully, it will work.\nRead: Fix VSS Error Code 0x8004231f, Failed to create Volume Snapshot\nHow do I check my VSS settings? To check your VSS Settings, open Command Prompt as an administrator. Then, list all the VSS writers and then current state, run vssadmin list writers, to list all installed VSS providers, run vssadmin list providers, and to list out all existing shadow copies, run vssadmin list shadows.\nAlso Read: 0x80042314L, VSS encountered problems while sending events to writers .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T05:41:57.666+02:00",
+  "updated": "2024-11-15T05:41:57.666+02:00"
+}

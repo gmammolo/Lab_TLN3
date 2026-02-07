@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "6df57be3f725a781549eb2ddd5d5f0271552fc73",
+    "url": "https://www.thestar.com.my/news/world/2024/08/23/nato-air-base-in-germany-raises-security-level-due-to-039potential-threat039",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://thestar.com.my/news/world",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "World - News | The Star",
+    "title": "NATO air base in Germany raises security level due to 'potential threat' | The Star",
+    "title_full": "NATO air base in Germany raises security level due to 'potential threat' | The Star",
+    "published": "2024-08-23T00:26:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+    "performance_score": 0,
+    "domain_rank": 2248,
+    "domain_rank_updated": "2024-08-20T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6df57be3f725a781549eb2ddd5d5f0271552fc73",
+  "url": "https://www.thestar.com.my/news/world/2024/08/23/nato-air-base-in-germany-raises-security-level-due-to-039potential-threat039",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2024-08-23T00:26:00.000+03:00",
+  "title": "NATO air base in Germany raises security level due to 'potential threat' | The Star",
+  "text": "BERLIN (Reuters) - The NATO air base in the German town of Geilenkirchen has raised its security level based on intelligence information indicating a potential threat, it said late on Thursday.\n\"All non-mission essential staff have been sent home as a precautionary measure,\" the base said in a statement on the social media platform X, without giving details. \"The safety of our staff is our top priority. Operations continue as planned.\"\n(Reporting by Sabine Siebold; Editing by Chris Reese)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Politics"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "sabine siebold",
+        "sentiment": "none"
+      },
+      {
+        "name": "chris reese",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "nato",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "star berlin",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "germany",
+        "sentiment": "none"
+      },
+      {
+        "name": "geilenkirchen",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-23T00:43:32.336+03:00",
+  "updated": "2024-08-23T00:43:32.336+03:00"
+}

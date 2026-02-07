@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "a16969c1844ba041bc8e63d824dea55b83ff1602",
+    "url": "https://www.hackster.io/news/this-diy-mini-air-hockey-table-runs-doom-fbab7cbbf2bf",
+    "site_full": "www.hackster.io",
+    "site": "hackster.io",
+    "site_section": "https://www.hackster.io/news?topic=sensors",
+    "site_categories": [
+      "hobbies_and_interests",
+      "tech"
+    ],
+    "section_title": "Hackster News - Hackster.io",
+    "title": "This DIY Mini Air Hockey Table Runs Doom - Hackster.io",
+    "title_full": "This DIY Mini Air Hockey Table Runs Doom - Hackster.io",
+    "published": "2023-12-29T00:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://hackster.imgix.net/uploads/attachments/1669366/_ubqaKlyFeJ.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+    "performance_score": 0,
+    "domain_rank": 4859,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a16969c1844ba041bc8e63d824dea55b83ff1602",
+  "url": "https://www.hackster.io/news/this-diy-mini-air-hockey-table-runs-doom-fbab7cbbf2bf",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cameron Coward",
+  "published": "2023-12-29T00:07:00.000+02:00",
+  "title": "This DIY Mini Air Hockey Table Runs Doom - Hackster.io",
+  "text": "Go to any arcade and it should quickly become obvious that air hockey is one of the most popular games available. Something about the fast-paced, knuckle-bruising gameplay is irresistible to adults and children alike. And because air hockey tables are big and heavy, few people have the means to keep them at home. That’s why Downing built a miniature air hockey table to play with his kids. But he didn’t stop there, because his DIY mini air hockey table also runs Doom .\nThis air hockey table is fairly small at about three feet long and two feet wide. But it doesn’t lack features and includes everything you’d expect to see on a real air hockey table — and more.\nThe most important feature of an air hockey table to is the air cushion that helps the pucks skim along with very little friction. This works a bit like a hovercraft in reverse. Pumps inside the table push air through many holes in the table’s surface and that continuous flow lifts the puck. In this case, Downing used a pair of laptop-style blowers that are capable of providing a combined 80 CFM of air flow. Power comes from a PC ATX power supply.\nDowning works at a print shop and was able to use their CNC router to fabricate the table. That has an underlying composite aluminum support surface, an acrylic spacer for the LED lighting, a translucent acrylic top surface, and outer walls made of a skim-foam composite material called KömaCel. The scoreboard enclosure, its supports, and the goals were all 3D-printed.\nThis table contains both a Raspberry Pi 2 Model B single-board computer (SBC) and a Raspberry Pi Pico microcontroller development board. The Pico controls the LEDs, while the SBC feeds composite video to the two scoreboard screens. It also monitors infrared break beam sensors in the goals to detect the puck.\nBecause Downing included a Raspberry Pi SBC, he can run emulators to play games like Doom. That would have been interesting enough if it just displayed the graphics on the scoreboard screens. But Downing took it a step further and fed the composite video to the Pico so it could display those graphics on the table surface using the 600 embedded LEDs. The resolution is incredibly low, but it is fascinating to see bitmap sprites scaled down to just a few RGB LEDs.\nWe haven’t checked with Guinness, but we’re happy to assume that this is the first miniature air hockey table to run Doom.\ngames arcade blinky lights retro Cameron Coward Follow Writer for Hackster News. Proud husband and dog dad. Maker and serial hobbyist.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Arts, Culture and Entertainment",
+    "Lifestyle and Leisure"
+  ],
+  "external_links": [
+    "https://downingsbasement.com/2023/12/26/a-mini-pi-powered-air-hockey-table-its-so-shiny/",
+    "https://www.downingsbasement.com/2023/12/26/a-mini-pi-powered-air-hockey-table-its-so-shiny/",
+    "https://downingsbasement.com/2023/12/26/a-mini-pi-powered-air-hockey-table-its-so-shiny"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "cfm",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T01:38:14.850+02:00",
+  "updated": "2023-12-29T01:38:14.850+02:00"
+}

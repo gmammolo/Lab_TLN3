@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "6ebe361d3cfb86e080ef16041e399e4b0b6ba795",
+    "url": "https://community.opentext.com/devops-cloud/connect/w/tips/49511/knowledge-doc-alm-24-1-p1-bug-with-mf-connect---invalid-domain",
+    "site_full": "community.opentext.com",
+    "site": "opentext.com",
+    "site_section": "https://community.microfocus.com/rss",
+    "site_categories": [],
+    "section_title": "Forum Post: RE: ZENworks 24.4 Managed Device Windows Server",
+    "title": "Wiki Page: Knowledge Doc: ALM 24.1 P1 bug with MF Connect - Invalid Domain",
+    "title_full": "Wiki Page: Knowledge Doc: ALM 24.1 P1 bug with MF Connect - Invalid Domain",
+    "published": "2025-01-10T01:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3370,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6ebe361d3cfb86e080ef16041e399e4b0b6ba795",
+  "url": "https://community.opentext.com/devops-cloud/connect/w/tips/49511/knowledge-doc-alm-24-1-p1-bug-with-mf-connect---invalid-domain",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Heather Caldwell",
+  "published": "2025-01-10T01:46:00.000+02:00",
+  "title": "Wiki Page: Knowledge Doc: ALM 24.1 P1 bug with MF Connect - Invalid Domain",
+  "text": "Cybersecurity\nDevOps Cloud\nUsing/upgrading to ALM 24.1P1 with MF Connect causes a bug in ALM data sources. You may face different errors messages but the most common is \"Invalid domain\"\nALM 24.1 P1\nAny version of MF Connect\nInstalling ALM 24.1 P1 or upgrading to ALM 24.1 P1 creates a bug in MF Connect ALM data sources.\nALM 24.1 P1 does not keep the session opened for the user account in the data source.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->law",
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->administrative law"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T08:30:28.231+02:00",
+  "updated": "2025-01-10T08:30:28.231+02:00"
+}

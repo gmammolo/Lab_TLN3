@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "1a9bbbcde8884b5fb7243ead08827b175d399f3a",
+    "url": "https://www.yukon-news.com/news/leaking-pipe-at-yukons-eagle-gold-mine-leads-to-contaminant-spike-7862998",
+    "site_full": "www.yukon-news.com",
+    "site": "yukon-news.com",
+    "site_section": "https://news.google.com/search?q=any%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": null,
+    "title": "Leaking pipe at Yukon's Eagle Gold Mine leads to contaminant spike",
+    "title_full": "Leaking pipe at Yukon's Eagle Gold Mine leads to contaminant spike",
+    "published": "2025-03-06T03:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.bpmcdn.com/f/files/shared/feeds/gps/2025/02/web1_240705-ykn-news-vic-gold-slide.jpg;w=1199;h=799;mode=crop",
+    "performance_score": 0,
+    "domain_rank": 86143,
+    "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1a9bbbcde8884b5fb7243ead08827b175d399f3a",
+  "url": "https://www.yukon-news.com/news/leaking-pipe-at-yukons-eagle-gold-mine-leads-to-contaminant-spike-7862998",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jim Elliot",
+  "published": "2025-03-06T03:00:00.000+02:00",
+  "title": "Leaking pipe at Yukon's Eagle Gold Mine leads to contaminant spike",
+  "text": "As it is reporting the completion of the last piece of a water treatment system it is hoped will be able to return treated water from the Eagle Gold Mine site to the environment, the receiver in charge of the site has also acknowledged a fresh leak resulting in contamination exceeding “any previously reported results.”\nAccording to a March 5 notice from the Yukon government, Pricewaterhouse Coopers, the receiver in charge, identified a leaking pipe on Feb. 17 and repaired it. The leak was not immediately reported as it was believed to be contained, according to the government, but further investigation found that an estimated 150 cubic metres (or 150,000 litres) of contaminated water escaped. The receiver was put in charge of the mine owned by Victoria Gold Corp. by a 2024 court order aimed to repair damage caused by a landslide that breached the mine’s heap leach facility where cyanide was used to extract gold.\nThe results of water testing conducted in Haggart Creek, which flows from the mine site, on the day the leak was discovered and the following day show values of cyanide, cobalt, copper and nitrite higher than any previously reported in past monitoring, per the government notice.\nTwo monitoring stations showed cyanide in excess of .1850 milligrams per litre of water on Feb. 17. Cobalt results on that day at those stations exceeded 40 micrograms per litre. Nitrite-Nitrogen levels spiked to .04 milligrams per litre. Mercury levels of .085 micrograms per litre were observed on Feb. 17 at one station but they had been higher the previous day and exceeded .1 micrograms per litre the week before the leak.\nLevels for all these contaminants have been routinely exceeding water-quality objectives for months, according to the government’s monitoring data\n“Subsequent water quality monitoring in the same area shows levels of cyanide and other contaminants returned to previous levels within two days. This suggests the cause to be an isolated incident. Despite the short period of elevated contamination, any level of cyanide above the British Columbia acute aquatic life guidelines can have harmful effects on fish,” the March 5 notice reads.\nAs the impacts of the Feb. 17 leak unfold, the receiver has announced completion of a settling pond, described as the final component of the water-treatment system for the mine site. According to the territorial government, initial water-quality tests show water treatment functioning as expected but further tests will be completed before water is discharged.\nContact Jim Elliot at jim.elliot@yukon-news.com",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Human Interest"
+  ],
+  "topics": [
+    "Environment->water pollution",
+    "Environment->environmental pollution",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Haggart Creek",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Pricewaterhouse Coopers",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Victoria Gold Corp.",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-06T03:13:00.092+02:00",
+  "updated": "2025-03-06T03:13:00.092+02:00"
+}

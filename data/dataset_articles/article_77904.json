@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "8a19022ac27037e5c49b4740a32c1200a801f80a",
+    "url": "https://www.heise.de/ratgeber/PayPal-als-Standard-Bezahl-App-10517642.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/ct/rss/artikel-atom.xml",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "c't News",
+    "site_title": "heise online - IT-News, Nachrichten und Hintergründe | heise online",
+    "title": "PayPal als Standard-Bezahl-App | heise online",
+    "title_full": "PayPal als Standard-Bezahl-App | heise online",
+    "published": "2025-08-21T07:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/1/2/9/9/9/TT_Tipps-c287313821cf7d0d.jpg",
+    "performance_score": 0,
+    "domain_rank": 924,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8a19022ac27037e5c49b4740a32c1200a801f80a",
+  "url": "https://www.heise.de/ratgeber/PayPal-als-Standard-Bezahl-App-10517642.html",
+  "ord_in_thread": 0,
+  "author": "Markus Montz",
+  "published": "2025-08-21T07:30:00.000+03:00",
+  "title": "PayPal als Standard-Bezahl-App | heise online",
+  "text": "Sie schreiben , man könne PayPal auf Android-Smartphones als Standard-Bezahl-App festlegen. Leider erklären Sie nicht, wie man das hinbekommt. Können Sie mir auf die Sprünge helfen?\nAnzeige\nDie Auswahl der Standard-App zum mobilen Bezahlen ist bei den meisten Android-Handys nicht in den App-Einstellungen zu finden, sondern versteckt sich im Bereich NFC. Die Einstellung ist in der Tat etwas versteckt und nicht im Menüpunkt \"Apps\" in den Einstellungen zu finden, wo man sie vermuten würde. Auf einem Samsung Galaxy A25 befindet sie sich beispielsweise unter \"Verbindungen/NFC und kontaktlose Zahlungen/Kontaktlose Zahlungen\", auf einem Google Pixel unter \"Verbundene Geräte/Verbindungseinstellungen/NFC/Kontaktloses Bezahlen\". Darunter kann man dann meist noch einstellen, dass das Gerät auf eine andere App als den voreingestellten Standard zurückgreift, falls diese gerade geöffnet ist.\nNormalerweise genügt es zum Bezahlen bei allen uns bekannten Geräten anschließend, das Smartphone zu entsperren und an das Bezahlterminal zu halten. Daraufhin öffnet sich die Standard-App und die Zahlung wird durchgeführt.\nNeugierig geworden? Weitere Tipps & Tricks von c't\n( mon )\nDieser Link ist leider nicht mehr gültig. Links zu verschenkten Artikeln werden ungültig, wenn diese älter als 7 Tage sind oder zu oft aufgerufen wurden.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->adults",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "NFC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:08:42.538+03:00",
+  "updated": "2025-08-21T10:13:11.000+03:00"
+}

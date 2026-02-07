@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "bd62e6e8c59cc3bc7b488d405f997e7fa7d495ca",
+    "url": "https://www.archyde.com/why-do-batteries-discharge-faster-when-its-cold/",
+    "site_full": "www.archyde.com",
+    "site": "archyde.com",
+    "site_section": "https://www.archyde.com/feed",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Archyde",
+    "title": "Why do batteries discharge faster when it’s cold?",
+    "title_full": "Why do batteries discharge faster when it’s cold?",
+    "published": "2023-12-29T18:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/7/8/3789bb7028_50190052_smartphone-batterie-froid.jpg",
+    "performance_score": 0,
+    "domain_rank": 18781,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bd62e6e8c59cc3bc7b488d405f997e7fa7d495ca",
+  "url": "https://www.archyde.com/why-do-batteries-discharge-faster-when-its-cold/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "archyde",
+  "published": "2023-12-29T18:44:00.000+02:00",
+  "title": "Why do batteries discharge faster when it’s cold?",
+  "text": "2023-12-29 11:30:05\nA cell phone that turns off without warning, or a car breakdown? Yes, it can be caused by low temperatures. But why do batteries discharge faster in these conditions?\nThis will also interest you\n[EN VIDÉO] From Volta to graphene: the evolution of batteries The most common type of battery is the lithium-ion battery. Several technologies are on…\nThere are two main elements to know in a battery: the electrodeselectrodes and the electrolyte. The electrodes are theanodeanodeor negative pole, and the cathodecathodeor positive pole, between which circulate the electronselectrons. The passage of electrons from one pole to the other provides theenergyenergy necessary for the operation of a device, or for its recharging — we will see in a moment that their direction of circulation is important.\nNo time to read? Listen to the answer in our episode of Science or Fiction on the subject! © Futura\nBut, to circulate, electrons need a medium in which to evolve. Thus, between the cathode and the anode, there is a liquidliquid called “conductor” called electrolyte. THE ionsions which make up this electrolyte are in movementmovement, and it is this mobility which generates current by circulating electrons. This set of electrodes and electrolyte forms what is called a cell which allows energy to be generated.\nA battery is made up of thousands of cells working together. So, when we use our cell phone for example, the electrical circuit is in a so-called “closed” state. This means that the anode loses electrons and the cathode will recover them. In other words, it is the phenomenon that creates enough electricity for you to use your smartphone all day long. Conversely, when you recharge the battery, the chemical process that takes place is reversed: this time, the electrical circuit is open, and the electrons then go in the opposite direction.\nBatteries facing winter temperatures\nAll the chemical reactionschemical reactions which lead to the proper functioning of a battery are not necessarily adapted to climatesclimates extremes. Under low temperatures, a battery will produce much less current. And for good reason, chemical reactions take place more slowly. The electrolyte loses its ability to conductivityconductivity. It is more viscous, and its voltage increases, so the movement of electrons, from one electrode to another, is more complicated, and therefore greatly slowed down. In this context, the energy consumed will mainly generate enough heatheat to simply operate the battery which therefore discharges much more quickly. This is why it is better to store your phone in an inside pocket in very cold weather.winterwinter.\nIf this is not possible for you, know that there are also so-called “low temperature” batteries which will withstand these conditions. These batteries work thanks to a modification made to one of the electrodes. The anode in the batteries of an ordinary telephone is in graphitegraphiteand materialmaterial which tends to perform less well in winter. To deal with this problem, researchers have succeeded in developing a battery with a new anode in carbonecarbone called “non-graphitizable”. The principle remains the same, but this new material allows electron transfers under -40°C.\nThat said, this technology is valid for cell phones but, for cars, it is more complicated. For the moment, the solution found by certain countries experiencing episodes of extreme cold would be to connect the carscars on electricity inlets in car parks to keep the engine, oil and battery warm.\n1703868253\n#batteries #discharge #faster #cold",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Weather"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "en vidéo",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "volta",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2023-12-29T18:54:54.839+02:00",
+  "updated": "2023-12-29T18:54:54.839+02:00"
+}

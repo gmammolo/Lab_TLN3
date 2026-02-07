@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "afa968a1109f3cc4f509af941c2b198a0834d849",
+    "url": "https://www.libero.it/tecnologia/windows-11-problemi-ssd-dopo-l-aggiornamento-104826",
+    "site_full": "www.libero.it",
+    "site": "libero.it",
+    "site_section": "https://tecnologia.libero.it/feed/rss",
+    "site_categories": [
+      "top_news_it",
+      "top_news"
+    ],
+    "section_title": "Libero Tecnologia - Tech News, Guide e Internet of Things",
+    "site_title": "Libero: Mail, Ricerca e News con aggiornamento quotidiano",
+    "title": "Dopo l'ultimo update Windows 11 non riconosce gli SSD, come risolvere",
+    "title_full": "Dopo l'ultimo update Windows 11 non riconosce gli SSD, come risolvere",
+    "published": "2025-08-21T11:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://wips.plug.it/cips/tecnologia/cms/2024/10/windows-11.jpg",
+    "performance_score": 0,
+    "domain_rank": 2282,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "afa968a1109f3cc4f509af941c2b198a0834d849",
+  "url": "https://www.libero.it/tecnologia/windows-11-problemi-ssd-dopo-l-aggiornamento-104826",
+  "ord_in_thread": 0,
+  "author": "Libero Tecnologia",
+  "published": "2025-08-21T11:33:00.000+03:00",
+  "title": "Dopo l'ultimo update Windows 11 non riconosce gli SSD, come risolvere",
+  "text": "COMPUTER\nDopo l'ultimo update Windows 11 non riconosce gli SSD, come risolvere\nSegnalati in rete diversi problemi con l’ultimo aggiornamento di Windows 11 che potrebbe compromettere gli SSD degli utenti. Come proteggere il proprio computer\nIn Sintesi\n- L’ultimo aggiornamento di Windows 11 sta causando problemi agli SSD, rendendoli irriconoscibili dal sistema dopo il trasferimento di file di grandi dimensioni.\n- Il problema riguarda i dischi che utilizzano il controller Phison PS5012-E12 e, in attesa di una patch di correzione, è consigliabile non spostare file superiori ai 50 GB.\nA distanza di pochi giorni dal Patch Day di agosto di Windows 11, l’aggiornamento KB5063878 sta causando gravi problemi agli utenti. Stando a quello che si legge in rete, infatti, pare che il trasferimento di file di grandi dimensioni (dai 50 GB in poi), possa compromettere il funzionamento degli SSD, rendendoli irriconoscibili dal sistema dopo un riavvio.\nUn bel problema per gli utenti che su molti forum in rete stanno condividendo la loro esperienza, in attesa che Microsoft corregga questo errore.\nChe problema ha Windows 11\nDa quello che sappiamo il problema non si limita a un solo produttore di SSD, ma le prime analisi suggeriscono i dischi che utilizzano il controller Phison PS5012-E12 sono particolarmente vulnerabili. Trattandosi di un componente hardware molto utilizzato, è chiaro che questo malfunzionamento può avere ripercussioni enormi a livello globale, interessando anche una vasta gamma di modelli di SSD di diverse marche.\nPhison Electronics, ha confermato di essere a conoscenza del problema e ha avviato un’indagine ufficiale, collaborando con i propri partner per identificare i modelli di controller specifici interessati e ha comunicato che le correzioni verranno rilasciate attraverso aggiornamenti del firmware forniti dai produttori stessi.\nOltre a questo, non sembrano esserci ulteriori indicazioni al riguardo e semplicemente gli utenti non riescono più ad accedere agli SSD e al loro contenuto.\nInteressante notare che questa situazione, per quanto paradossale, non è nuova per gli utenti di Windows e già in passato sono stati diffusi degli aggiornamenti di sistema che hanno causato incompatibilità inaspettate con l’hardware. Problemi risolti solo dopo il rilascio di patch e aggiornamenti del firmware da parte dei produttori dei vari componenti.\nCome proteggere il proprio PC\nAl momento Microsoft non ha ancora rilasciato dichiarazioni ufficiali al riguardo ma è sicuramente a conoscenza di questo problema e, con buone possibilità, gli sviluppatori dell’azienda saranno già al lavoro per rilasciare una patch di correzione.\nIntanto gli esperti suggeriscono di non installare l’aggiornamento e attendere che l’azienda di Redmond diffonda le relative contromisure con il prossimo update.\nPer chi ha già installato l’aggiornamento KB5063878, invece, è consigliabile almeno per adesso di evitare trasferimenti di file di grandi dimensioni, cercando di non spostare nessun pacchetto che superi i 50 GB.\nFondamentale anche controllare gli aggiornamenti del firmware presenti sui siti web dei produttori dei vari SSD che, stando a quanto detto da Phison Electronics, sono già al lavoro per rilasciare nuovi driver o aggiornamenti del firmware.\nInfine, per pura precauzione, è consigliabile eseguire un backup dei dati più importanti, così da non perdere niente in caso di malfunzionamenti del sistema.\nChi, invece, è già incappato in questo errore, per adesso, non può fare altro che aspettare, nella speranza che l’arrivo degli aggiornamenti sia il più rapido possibile.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Social Issue->adults",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->products and services"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "MSFT",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_it",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:14:42.080+03:00",
+  "updated": "2025-08-22T14:09:00.000+03:00"
+}

@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "142493c250bf3f0e760cf4fbbf1c80ba63ff5ae2",
+    "url": "https://www.networkworld.com/article/3952908/ibm-cloud-speeds-ai-workloads-with-intel-gaudi-3-accelerators.html",
+    "site_full": "www.networkworld.com",
+    "site": "networkworld.com",
+    "site_section": "https://news.google.com/search?q=with%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "hacking",
+      "computer_networking",
+      "tech"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "Network World | From the data center to the edge",
+    "title": "IBM Cloud speeds AI workloads with Intel Gaudi 3 accelerators",
+    "title_full": "IBM Cloud speeds AI workloads with Intel Gaudi 3 accelerators",
+    "published": "2025-04-03T00:05:10.015+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.networkworld.com/wp-content/uploads/2025/04/3952908-0-49736900-1743627457-intel-gaudi3-ai-accelerator.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 2486,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "142493c250bf3f0e760cf4fbbf1c80ba63ff5ae2",
+  "url": "https://www.networkworld.com/article/3952908/ibm-cloud-speeds-ai-workloads-with-intel-gaudi-3-accelerators.html",
+  "ord_in_thread": 0,
+  "author": "michael_cooney",
+  "published": "2025-04-03T00:05:10.015+03:00",
+  "title": "IBM Cloud speeds AI workloads with Intel Gaudi 3 accelerators",
+  "text": "IBM is making Intel Gaudi 3 AI accelerators available on IBM Cloud to help customers scale gen AI workloads and optimize performance for AI inferencing and fine-tuning.\nCredit: Intel IBM Cloud is broadening its AI technology services with Intel Gaudi 3 AI accelerators now available to enterprise customers.\nWith Gaudi 3 accelerators, customers can more cost-effectively test, deploy and scale enterprise AI models and applications, according to IBM, which is said to be the first cloud service provider to adopt Gaudi 3.\nIntel Gaudi 3 accelerators include AI-specific designs and features and are targeted at multi-model large language models (LLMs) and retrieval-augmented generation (RAG) development, IBM stated. The accelerators feature matrix math engines, tensor processing cores, high-bandwidth memory, and built-in Ethernet ports for accelerated inferencing of deep neural networks, according to IBM.\n“Enterprises can scale from a single node (eight accelerators) with a throughput of 9.6 TB/s to a 1,024-node cluster (8,192 accelerators) with a throughput of 9.830 PB/s. Scaling is achieved using a choice of numerous industry-standard and high-capacity Ethernet switches and other supporting infrastructure to help lower costs,” IBM stated.\nIntel Gaudi 3 can be deployed through IBM Cloud Virtual Servers for virtual private cloud (VPC) instances. Businesses can pick their compute, storage and networking resources as needed, IBM stated.\nIn addition, the package can be provisioned as a container worker node, and IBM Cloud said it has plans to deliver Intel Gaudi 3 as a worker node for Red Hat OpenShift AI clusters and Red Hat OpenShift on IBM Cloud in early 2025. The Intel Gaudi 3 instance also supports Red Hat Enterprise Linux AI image options.\nFor businesses that need more control over their AI development, IBM says they can deploy IBM watsonx.ai software with the Intel Gaudi 3-based virtual server on IBM Cloud VPC in Q2 2025. IBM watsonx.ai includes an end-to-end AI development studio, AI developer toolkit and full AI lifecycle management for developing AI services and deploying them into customers applications.\n“As AI is increasingly moving from an experimental trend to the backbone of real world applications, IT organizations are challenged with balancing the necessary performance with economic considerations of AI hardware, and doing so at scale,” wrote Mitch Lewis, a performance analyst with Signal65, which offers tech industry testing, performance validation, and data-based consulting.\n“Previous analysis by Signal65 demonstrated that Intel Gaudi 3 accelerators were capable of offering highly competitive performance for AI inferencing workloads, while offering substantial economic advantages. The availability of Gaudi 3 accelerators on IBM Cloud looks to build upon these advantages while providing IT organizations with an easily accessible and scalable cloud-based approach to deploying AI applications,” Lewis wrote in a blog post about the Intel Gaudi 3 AI accelerator implementation on IBM Cloud.\n“This preliminary performance testing conducted by Signal65 found Intel Gaudi 3 to offer highly competitive performance when compared to alternative Nvidia-based offerings on IBM Cloud. Gaudi 3 on IBM Cloud provides a flexible platform capable of achieving high performance across various models and technical configurations,” Lewis wrote. “In addition, the pricing of Gaudi 3 instances on IBM Cloud builds an appealing economic advantage over both Nvidia instance types” – the Nvidia H100 and H200 – that IBM Cloud also supports, Lewis stated.\nRelated content News Nvidia’s Blackwell raises the bar with new MLPerf Inference V5.0 results By Paul Barker Apr 02, 2025 6 mins Artificial Intelligence CPUs and Processors GPUs",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://signal65.com/research/ai/intel-gaudi-3-accelerates-ai-at-scale-on-ibm-cloud/",
+    "https://www.signal65.com/research/ai/intel-gaudi-3-accelerates-ai-at-scale-on-ibm-cloud/",
+    "https://signal65.com/research/ai/intel-gaudi-3-accelerates-ai-at-scale-on-ibm-cloud"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mitch Lewis",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Signal65",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Intel Gaudi 3 AI",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "IBM Cloud",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "Nvidia",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "AI",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "AI",
+            "exchange": "NYSE"
+          }
+        ]
+      },
+      {
+        "name": "TB",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Red Hat OpenShift AI",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Red Hat Enterprise Linux AI",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T00:05:10.015+03:00",
+  "updated": "2025-04-03T03:49:09.565+03:00"
+}

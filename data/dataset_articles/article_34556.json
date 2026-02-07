@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "69afc04a1df3f3be38b273434df6f0bcd8cc5ce4",
+    "url": "https://www.thestar.com.my/news/nation/2024/11/08/donate-blood-get-a-free-bag-of-rice",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/news/nation",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Nation - News | The Star",
+    "title": "Donate blood, get a free bag of rice | The Star",
+    "title_full": "Donate blood, get a free bag of rice | The Star",
+    "published": "2024-11-08T00:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/11/08/3006412.jpg",
+    "performance_score": 0,
+    "domain_rank": 2243,
+    "domain_rank_updated": "2024-11-04T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "69afc04a1df3f3be38b273434df6f0bcd8cc5ce4",
+  "url": "https://www.thestar.com.my/news/nation/2024/11/08/donate-blood-get-a-free-bag-of-rice",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Compiled by DIVYA THERESA, C. ARUNO and R. ARAVINTHAN",
+  "published": "2024-11-08T00:00:00.000+02:00",
+  "title": "Donate blood, get a free bag of rice | The Star",
+  "text": "Compiled by DIVYA THERESA, C. ARUNO and R. ARAVINTHAN\nA 5KG bag of rice is being offered to individuals who donate blood as part of a month-long blood donation drive in Alor Setar.\nOrganised by the Kedah Council of Justices of Peace, its deputy president Datuk Tan Hong Eng said the incentive is aimed at encouraging the public to become blood donors and contribute to the state’s blood supply.\nThe programme is being held in collaboration with Sultan Abdul Halim Hospital, with a target of collecting 3,000 blood bags, according to Sinar Harian.\n“This programme started on Nov 1 and will run until Nov 30. Every donor who contributes blood will receive a 5kg bag of rice as a token of appreciation,” Tan said.\nHe emphasised the importance of addressing critical blood shortages, especially as Kedah and Perlis require up to 5,000 bags of blood each month.\n“Hence, we are taking this initiative to encourage donors from all walks of life and suitable age groups to donate,” he said.\n> A 67-year-old grandmother, Fatimah Mohd Ali, recently surprised fellow hikers when she reached the summit of Bukit Maras, 329m above sea level, with only a pair of slippers and a walking stick for support, Utusan Malaysia reported.\nThe mother of seven and grandmother of 20, from Kampung Kebor Besar in Kuala Terengganu, had been experiencing knee pain and body aches, prompting her children to suggest hiking as a way to stay active.\n“I started the hike at 6.30am with my three children and six grandchildren, and we reached the peak about 30 minutes later.\n“I never expected I’d be able to climb without any problems, which surprised other hikers when they saw a senior citizen making it to the top.\n“Some of them took pictures, and it went viral on social media recently,” said Fatimah, adding that she would like to climb many more hills in Terengganu.\n> A recent social media post about loneliness by actress Nadia Brian has raised questions, Kosmo! reported.\nHowever, Nadia denied being lonely, explaining it was simply a reflection of the boredom women sometimes experience.\nNadia, whose real name is Nadia Najwa Mohamed Rashid, 32, explained that the post was made during her menstrual cycle when her hormones were unstable, and that it was not an indication of any personal issues.\nNadia married Muizz Nasruddin in November 2019, but the couple divorced in April 2021.\nThe above articles are compiled from the vernacular newspapers (Bahasa Malaysia, Chinese and Tamil dailies). As such, stories are grouped according to the respective language/medium. Where a paragraph begins with a, it denotes a separate news item.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-08T02:02:11.655+02:00",
+  "updated": "2024-11-08T07:20:37.588+02:00"
+}

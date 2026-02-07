@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "42ae70ff6c1adcc7dc0a49f4cbcb64656cb98584",
+    "url": "https://siliconangle.com/2025/02/27/calypsoai-launches-cybersecurity-leaderboard-ai-models",
+    "site_full": "siliconangle.com",
+    "site": "siliconangle.com",
+    "site_section": "https://siliconangle.com/category/ai",
+    "site_categories": [
+      "search_engine",
+      "tech"
+    ],
+    "section_title": "SiliconANGLE",
+    "site_title": null,
+    "title": "CalypsoAI launches cybersecurity leaderboard for AI models - SiliconANGLE",
+    "title_full": "CalypsoAI launches cybersecurity leaderboard for AI models - SiliconANGLE",
+    "published": "2025-02-28T00:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/02/unsplash2.png",
+    "performance_score": 0,
+    "domain_rank": 6181,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "42ae70ff6c1adcc7dc0a49f4cbcb64656cb98584",
+  "url": "https://siliconangle.com/2025/02/27/calypsoai-launches-cybersecurity-leaderboard-ai-models",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Maria Deutscher",
+  "published": "2025-02-28T00:14:00.000+02:00",
+  "title": "CalypsoAI launches cybersecurity leaderboard for AI models - SiliconANGLE",
+  "text": "Startup CalypsoAI Inc. on Wednesday launched the CalypsoAI Security Leaderboard, an index that ranks the cybersecurity of popular artificial intelligence models.\nThe company ranked the algorithms using its flagship product, a software toolkit called the Inference Platform. It evaluates models’ security with the help of an AI agent that carries out simulated cyberattacks.\nIreland-based CalypsoAI is backed by more than $38 million in funding. Its Inference Platform enables companies to monitor how users interact with their large language models, spot malicious prompts and filter them. The CalypsoAI Security Leaderboard was created with a component of the platform called Red-Team that simulates malicious prompts to find weak points in LLMs.\nAccording to CalypsoAI, Red-Team includes a library of more than 10,000 prompts designed to uncover model vulnerabilities. There’s also an AI agent that can generate simulated cyberattacks tailored to a specific LLM. If the agent is given the task of testing a bank’s customer support chatbot, it might attempt to trick the algorithm into disclosing credit card numbers.\nRed-Team distills its cybersecurity findings into what CalypsoAI calls a CASI score. The higher a model’s CASI score, the better its security.\nCalypsoAI positions CASI as a better alternative to ASR, a metric commonly used to measure LLM security. According to the company, ASR falls short because it doesn’t take into account the severity of model vulnerabilities. Two LLMs might have the same ASR score even if one leaks information from its training dataset, while the other is only susceptible to malicious prompts that cause brief latency spikes.\nCalypsoAI’s CASI metric takes into account the severity of LLM vulnerabilities. It also considers other factors including the technical sophistication of the cyberattacks to which a model is susceptible and the amount of hardware needed to carry them out.\nThe initial version of the CalypsoAI Security Leaderboard ranks a dozen popular LLMs. Claude 3.5 Sonnet, Anthropic PBC’s flagship language model, won the top spot with a CASI score of 96.25. Microsoft Corp.’s open-source Phi4-14B and Claude 3.5 Haiku followed suit with 94.25 and 93.45, respectively.\nCalypsoAI observed a sharp dropoff below the top three. The fourth most secure LLM the company evaluated, OpenAI’s GPT-4o, achieved a CASI score of 75.06. All but one of the eight other models ranked in the index achieved scores above 72.\nBesides CASI, CalypsoAI’s leaderboard also tracks two other LLM metrics. The first, which is known as the risk-to-performance ratio, is designed to help companies understand tradeoffs between model security and performance. A second metric called cost of security makes it easier to evaluate the potential financial impact of an LLM-related breach.\n“Our Inference Red-Team product has successfully broken all the world-class GenAI models that exist today,” said CalypsoAI Chief Executive Officer Donnchadh Casey. “Many organizations are adopting AI without understanding the risks to their business and clients; moving forward, the CalypsoAI Security Leaderboard provides a benchmark for business and technology leaders to integrate AI safely and at scale.”\nImage: Unsplash",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.prnewswire.com/news-releases/calypsoai-launches-security-index-provides-first-comprehensive-safety-ranking-of-major-genai-models-302386190.html",
+    "https://unsplash.com/photos/LaKwLAmcnBc",
+    "https://www.unsplash.com/photos/LaKwLAmcnBc",
+    "https://prnewswire.com/news-releases/calypsoai-launches-security-index-provides-first-comprehensive-safety-ranking-of-major-genai-models-302386190.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:28:12.771+02:00",
+  "updated": "2025-02-28T00:28:12.771+02:00"
+}

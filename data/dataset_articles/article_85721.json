@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "31f4d400e9cd9d439bb75036102128e462161c73",
+    "url": "https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/tech/roll/2025-12-25/doc-inhcywam3451570.shtml&from=redirect",
+    "site_full": "cj.sina.cn",
+    "site": "sina.cn",
+    "site_section": "https://tech.sina.com.cn/",
+    "site_categories": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪科技_新浪网",
+    "site_title": "财经头条_新浪财经_金融信息服务商",
+    "title": "越狱成功率飙升至87.6%，南京大学联合美团、上交破解主流视频生成模型安全漏洞",
+    "title_full": "越狱成功率飙升至87.6%，南京大学联合美团、上交破解主流视频生成模型安全漏洞",
+    "published": "2025-12-25T07:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://n.sinaimg.cn/finance/c30320b4/20210712/wx_poster_finance1.png",
+    "performance_score": 0,
+    "domain_rank": 4801,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "31f4d400e9cd9d439bb75036102128e462161c73",
+  "url": "https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/tech/roll/2025-12-25/doc-inhcywam3451570.shtml&from=redirect",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-12-25T07:24:00.000+02:00",
+  "title": "越狱成功率飙升至87.6%，南京大学联合美团、上交破解主流视频生成模型安全漏洞",
+  "text": "来自南京大学 PRLab 的王淞平、钱儒凡，在单彩峰教授与吕月明助理教授的联合指导下，提出首个面向图生视频（I2V）模型的 多模态 自进化越狱攻击框架 RunawayEvil。本研究联合了 美团 、上海交通大学等多家顶尖机构，共同完成了首个支持多模态协同与自主进化的 I2V 越狱攻击框架的研发。\nRunawayEvil 创新性采用「策略 - 战术 - 行动」核心范式，精准破解传统单一模态、静态攻击在 I2V 场景下效果受限的行业痛点，为 I2V 模型的安全漏洞分析提供了高效可靠的工具，为构建更稳健、安全的视频生成系统提供助力。\n论文标题：RunawayEvil: Jailbreaking the Image-to-Video Generative Models\n项目地址：https://xzxg001. github .io/RunawayEvil/\n论文地址：https://arxiv.org/pdf/2512.06674\n代码地址：https://github.com/DeepSota/RunawayEvil\n行业痛点：\n图生视频模型安全研究的三大核心缺口\n图生视频（I2V）是融合图像视觉约束与文本语义引导，生成时空连贯、高保真动态内容的核心多模态技术，为内容创作、商业广告等领域提供高效创意支撑。然而，其安全防护体系是脆弱的，尚未跟上技术落地步伐，成为制约行业稳健发展的关键瓶颈。\n现有研究虽通过各类越狱方法揭示视觉生成模型的内在漏洞，为构建更稳健的生成系统提供了支撑，但针对 I2V 模型的安全研究仍存在显著空白。研究团队发现，当前存在三大核心缺口，严重阻碍了对其潜在风险的系统性探究与有效防御：\n1. 单模态攻击的天然局限性\n现有越狱研究多聚焦于文本到图像（T2I）、文本到视频（T2V）等单模态系统，仅通过扰动单一输入模态实施攻击。而 I2V 模型依赖文本 - 图像跨模态协同工作机制，单一模态攻击无法利用其内在的模态交互特性，难以突破集成化的多模态安全防护，导致攻击成功率普遍低，无法有效暴露模型真实漏洞。\n2. 静态攻击模式的适应性缺失\n传统方法多采用人工构造恶意提示或固定攻击模板，缺乏动态调整能力。I2V 模型的输入具有极强的多样性（自然图像 / 合成图像、不同语义文本等），静态攻击模式无法根据输入特性定制策略，既限制了攻击策略的覆盖范围，也难以应对模型动态的安全防御机制，导致实际应用场景中的攻击效果大幅衰减。\n3. 多模态与维度升级的双重挑战\n视觉生成模型的安全研究长期聚焦于文本到图像（T2I）单模态场景，而图生视频（I2V）技术的兴起，正带来多模态协同与维度升级的双重核心挑战。文本 - 图像输入的跨模态协同特性、图像到视频的时空复杂度跨越，共同构成制约其安全可控落地的关键瓶颈。\n这些痛点导致 I2V 模型在商业化落地过程中面临潜在安全隐患，亟需专门针对其多模态特性的安全评估工具，为技术迭代与风险防控提供支撑。\n核心成果：\n首个 I2V「自进化」越狱框架是如何炼成的？\n如果把一次 I2V（图生视频）越狱看成一场「对抗安全系统的作战」，RunawayEvil 的关键不是某个单点技巧，而是搭了一条完整的 作战指挥链 ：先选战略、再拆战术、最后执行并复盘，形成闭环迭代。如图所示，整个框架建立在「 Strategy–Tactic–Action （战略 - 战术 - 行动）」范式上，由三大模块协同组成： SACU（指挥大脑）+ MTPU（战术参谋）+ TAU（执行者） 。\n两阶段流水线：先「进化大脑」，再「执行打击」\nRunawayEvil 把流程拆成两段：\n进化阶段 （Evolution Stage）：专门训练 / 进化 SACU，让它不再依赖人工手写提示词，而是能够扩展策略库、并学会 “针对不同输入选最合适的策略”。\n执行阶段 （Execution Stage）：进化完成后，SACU 先给出策略；MTPU 把策略翻译成 “跨模态协同” 的战术指令；TAU 负责真正执行并把结果反馈回去。\n指挥大脑：战略感知指挥单元 (SACU)\n如图所示，SACU 是 RunawayEvil 的核心「大脑」，目标是让攻击策略 自动增长 、并能对不同输入 智能 定制 。它包含三个关键组件：\na）策略定制 智能体 SCA： 用强化学习学会「怎 么选策略」\nSCA 用强化学习把「选哪个策略」变成决策问题：给定当前输入（状态），从策略库里挑一个策略（动作），让成功率更高、同时尽量隐蔽。\n论文里把奖励设计成多目标：既要追求越狱成功，也要控制「文本侧的可疑度」和「图像侧的可见改动」。具体来说，总体奖励包含越狱成功奖励、文本隐蔽性和图像隐蔽性奖励（采用与原图的感知距离进行计算）。\nb）策略探索智能体 SEA：从历史成功案例里「长出新招」\nSEA 是一个基于 LLM 的探索智能体，它会利用策略记忆库里「打赢过的案例」，生成新的策略，避免策略库陷入单一套路、越打越僵化。\nc）策略记忆库 SMB：把每次成功的「作战记录」存下来\nSMB 不是简单的日志，而是结构化的成功经验集合，记录「用了什么图、什么编辑指令、什么视频提示、采用什么策略」等信息，为后续策略探索与战术生成提供参考。\n战术参谋：多模态战术规划单元 (MTPU)\n把「策略」翻译成「跨模态协同指令」\n如果说 SACU 决定「打什么仗」，那 MTPU 就负责「怎么打」。它在 SCA 给定策略后，分析输入的图文对，生成 协同的战术指令对 （文本侧 + 图像侧），保证两种模态不是各自为战，而是互相配合。\n更关键的是：MTPU 不是每次从零开始写战术，它带了一个 记忆增强检索机制 ：先从 SMB 里找与当前输入最相似的 top-K 成功经验；如果历史上存在「同策略」 的成功样例，就借鉴那组成功提示来生成更贴合当前样本的指令，否则才完全从头生成。\n 执行者：战术行动单元 (TAU)\nTAU 是「动手干活」的模块，由两部分组成： 执行器 和 安全评估器 。\nAttack Executor （执行器）：根据 MTPU 输出的图像侧战术指令，对参考图进行迭代式编辑，得到更新后的图像。\nSafety Evaluator （评估器）：对生成视频进行安全判定，如果成功，则把这次成功的记录写回 SMB，作为下一轮策略进化 / 战术生成的「可复用经验」。\n闭环进化：从失败中学习\n最精彩的部分在于这三个单元构成了动态闭环： TAU 的执行结果（无论成功还是失败）都会反馈给 SACU。如果攻击成功，这条经验会被写入记忆库，成为未来攻击的养料；如果失败，RL 算法会调整策略权重。\n这种「生成 - 执行 - 反馈 - 进化」的机制，让 RunawayEvil 成为了一个永远在学习、永远在变强的对手，彻底打破了现有静态攻击框架的局限性。\n实验结果\nRunawayEvil 框架的越狱实验实验选取 COCO2017（5000 组训练样本、200 组测试样本）与 MM-SafetyBench（5040 组跨场景图文对）两 大数据 集，以 4 个主流开源 I2V 模型（Open-Sora 2.0、CogVideoX-5bI2V、Wan2.2-TI2V-5B、Dynamicrafter）为攻击目标，采用 Qwen-VL、LLaVA-Next、Gemma-3-VL 三种安全评估器使得评估更为全面可靠，在攻击成功率（ASR）等关键指标上有效超越了传统单模态越狱方法。\n整体攻击效能领先 ：在 COCO2017 数据集上，传统方法的 ASR 峰值不足 50%（例如 PGJ 在 CogVideo-LLaVA 上的 47.0%），最低仅为 6.5%（Sneaky 在 DynamiCrafter-Gemma 上），而 RunawayEvil 在全部 24 组测试设置中均排名第一，持续领跑所有对比方法，验证了框架在不同风险场景下的强泛化性。\n可视化 实验效果领先 ：可视化实验结果显示，相比于传统单模态越狱方法，RunawayEvil 能有效突破图生视频模型的跨模态防御机制，有效地实施越狱攻击生成更具毒性的 NSFW 视频。\n更多不同主流 I2V 模型上的效果展示\nCogVideoX-5b-I2V 上的越狱效果 Dynamicrafter 上的越狱效果 总结与展望\n文章提出的 RunawayEvil 作为首个针对 I2V 生成模型的多模态自进化越狱框架，基于「策略 - 战术 - 行动」范式，通过 SACU 的自进化策略、MTPU 的跨模态协同指令与 TAU 的闭环执行，突破了传统单模态静态攻击的局限，在主流 I2V 模型与安全评估器上实现 87.6% 的平均攻击成功率，显著超越现有方法，为 I2V 模型漏洞分析提供了高效工具，也为稳健多模态生成安全体系奠定了基础。\n未来将进一步适配更多 I2V 模型与复杂任务场景，基于框架揭示的漏洞特征探索针对性防御机制，深化模态协同策略的精细化优化，在保持高攻击效能的同时提升隐蔽性，同时设计出多模协同的高效防御方案，为多模态安全研究提供更全面的技术支撑。\n打开App看更多精彩内容",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://arxiv.org/pdf/2512.06674",
+    "https://github.com/DeepSota/RunawayEvil",
+    "https://www.arxiv.org/pdf/2512.06674",
+    "https://www.github.com/DeepSota/RunawayEvil"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_my",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T07:37:26.687+02:00",
+  "updated": "2025-12-25T07:39:30.000+02:00"
+}

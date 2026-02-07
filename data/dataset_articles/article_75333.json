@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "d4f6caec459f809e72c736e8cdd87a4516fd90b0",
+    "url": "https://www.redeszone.net/noticias/seguridad/donde-va-sonido-altavoz-inteligente",
+    "site_full": "www.redeszone.net",
+    "site": "redeszone.net",
+    "site_section": "http://www.redeszone.net/feed",
+    "site_categories": [
+      "computer_networking",
+      "tech"
+    ],
+    "section_title": "RedesZone",
+    "title": "¿Dónde va a parar todo lo que le dices a tu altavoz inteligente?",
+    "title_full": "¿Dónde va a parar todo lo que le dices a tu altavoz inteligente?",
+    "published": "2024-11-22T12:08:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.redeszone.net/app/uploads-redeszone.net/2024/11/sonido-altavoz-inteligente.jpg",
+    "performance_score": 0,
+    "domain_rank": 83341,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d4f6caec459f809e72c736e8cdd87a4516fd90b0",
+  "url": "https://www.redeszone.net/noticias/seguridad/donde-va-sonido-altavoz-inteligente",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Javier Jiménez",
+  "published": "2024-11-22T12:08:00.000+02:00",
+  "title": "¿Dónde va a parar todo lo que le dices a tu altavoz inteligente?",
+  "text": "Siempre que hablamos de dispositivos inteligentes, surge la duda de si podrían comprometer nuestra privacidad. A fin de cuentas, son aparatos que están permanentemente conectados a la red. Lo cierto es que sí, podrían ser un problema, especialmente si no los tenemos bien configurados. En este artículo, vamos a hablar del caso concreto de los altavoces inteligentes. ¿Dónde va a parar todo lo que decimos? ¿Pueden suponer un problema?\nLos altavoces inteligentes son bastante populares cuando empezamos a domotizar el hogar. Son fáciles de usar, útiles y hay diferentes modelos. Pero claro, son un ejemplo perfecto de aparato que podría comprometer la privacidad, si tenemos en cuenta que están escuchando continuamente. Pero, ¿es realmente así?\nQué pasa con lo que dices a un altavoz inteligente\nLo primero que debes saber es que, salvo que haya algún problema, los altavoces solo empiezan a escuchar una vez detectan la “palabra mágica”. Por ejemplo, decir “oye, Siri” o “Alexa”. Únicamente utilizará todo lo que digas a partir de ese momento. Eso sí que lo puede almacenar y recordar en un futuro. Además, lo normal es que en este tipo de altavoces se active la luz cuando están escuchando.\nPero, ¿qué pasa con lo que dices una vez se ha activado el altavoz? En ese caso, sí que sale fuera de tu red. Eso que dices, va a ir a un servidor alojado en la nube, donde se procesará para dar la información necesaria. Por ejemplo, si dices algo como “Alexa, dime si va a llover mañana”. Eso irá a parar a un servidor remoto.\nBásicamente, tu voz va a parar a un servidor externo, donde procesan la información y el altavoz emite una respuesta. Puede ser una consulta que has realizado, algo que le has dicho que te recuerde en un futuro, etc. Hay altavoces, como en el caso de Apple, que esa información, en caso de que salga a un servidor remoto, se cifra previamente.\nTambién hay que tener en cuenta que esa información que has enviado, tu voz, en definitiva, puede conservarse durante un tiempo. Esto dependerá del altavoz, así como del mensaje. Pero sí, puede que permanezca durante un tiempo en la nube, en servidores propiedad de ese fabricante.\nUn humano puede escucharte\nPero no solo hay que mencionar que los altavoces envían el sonido a la nube o pueden almacenarlo durante un tiempo, sino que también podría escucharte un humano. En este caso, sirve para perfeccionar el sistema, encontrar errores y que estos altavoces puedan funcionar cada mejor.\nNo significa que escuchen todo lo que dices, sino únicamente una parte muy pequeña de todos los usuarios. No obstante, esto va a depender del altavoz. Hay algunos modelos que van a escuchar sin que tengas que hacer nada, mientras que en otros tendrás que dar permisos para que puedan usar esos datos para mejorar el sistema.\nEn definitiva, lo que dices a un altavoz inteligente puede o no salir de tu red. Según el modelo, es posible que se almacene incluso durante un tiempo en la nube, en servidores propiedad del fabricante. También podría incluso llegar a escucharte un humano, en determinados casos.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alexa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T14:01:20.634+02:00",
+  "updated": "2024-11-22T14:01:20.634+02:00"
+}

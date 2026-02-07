@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "41b86e0c8cedddd36189b4a99ff40e711bf3f0be",
+    "url": "https://www.techinasia.com/news/switzerland-launches-open-source-ai-alternative-to-chatgpt",
+    "site_full": "www.techinasia.com",
+    "site": "techinasia.com",
+    "site_section": "https://www.techinasia.com/wp-json/techinasia/2.0/categories/news/posts?page=1&per_page=30",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "",
+    "site_title": "Tech in Asia - Connecting Asia's startup ecosystem",
+    "title": "Switzerland launches open-source AI alternative to ChatGPT",
+    "title_full": "Switzerland launches open-source AI alternative to ChatGPT",
+    "published": "2025-09-04T00:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ID",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3512,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "41b86e0c8cedddd36189b4a99ff40e711bf3f0be",
+  "url": "https://www.techinasia.com/news/switzerland-launches-open-source-ai-alternative-to-chatgpt",
+  "ord_in_thread": 0,
+  "author": "Diya Lal",
+  "published": "2025-09-04T00:00:00.000+03:00",
+  "title": "Switzerland launches open-source AI alternative to ChatGPT",
+  "text": "Switzerland has released an open-source AI model called Apertus as an alternative to proprietary models like OpenAI’s ChatGPT and Anthropic’s Claude, according to SWI.\nThe model, available on Hugging Face, is fully open, with its source code, training data, model weights, and development process made public.\nApertus was trained on data from over 1,800 languages and is offered in two versions with 8 billion or 70 billion parameters.\nSWI reported that Apertus is comparable to Meta’s Llama 3 model released in 2024.\nDevelopers said the model was built to comply with European Union copyright laws and the voluntary AI code of practice.\nApertus’ training data was sourced from public material, and the team said they respected opt-out requests from websites for AI crawlers.\n🔗 Source: The Verge\n🧠 Food for thought 1️⃣ Regulatory compliance is driving national open source AI strategies Switzerland’s Apertus launch demonstrates how open source development can serve as a strategic response to complex AI regulations.\nThe model was specifically designed to comply with EU copyright laws and voluntary AI codes of practice, regulations that some US-based AI companies have “reluctantly signed while claiming that the regulations will curb AI innovation” 1 .\nThis approach contrasts with how major US tech companies are handling EU compliance, where firms are “recalibrating internal structures” and facing “increased operational costs” to meet requirements 2 .\nThe EU AI Act imposes penalties up to €35 million or 7% of global revenue for non-compliance, creating significant financial pressure on international companies 3 .\nBy building compliance directly into an open source model from the ground up, Switzerland has created a blueprint that other nations could follow to navigate regulatory complexity while maintaining technological sovereignty.\n2️⃣ Open source AI represents a shift toward national technological independence Apertus reflects a broader movement where countries are using open source development to reduce dependence on dominant US tech platforms.\nSwiss officials explicitly position Apertus as “a significant step towards national independence in AI,” designed to align with local data protection laws rather than foreign corporate policies 4 .\nThe Apache 2.0 licensing of Apertus allows “unrestricted use for educational, research, and commercial purposes without corporate gatekeeping,” positioning it as “owned by humanity rather than corporations” 5 .\nWith Switzerland’s leading universities driving development rather than private companies, this model demonstrates how nations can leverage academic institutions to build strategic technological capabilities independent of foreign corporate control.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://kpmg.com/us/en/articles/2024/how-eu-ai-act-affects-us-based-companies.html",
+    "https://www.apertus.org/",
+    "https://www.swissinfo.ch/eng/swiss-ai/switzerland-launches-transparent-chatgpt-alternative/89929269",
+    "https://medium.com/@markus_datadude/switzerlands-apertus-the-open-ai-revolution-that-changes-everything-0793304239c2",
+    "https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus",
+    "https://medium.com/@adnanmasood/ais-regulatory-reckoning-eu-ai-act-and-ripple-effects-on-u-s-technology-policy-c03c30d6a6a0",
+    "https://swissinfo.ch/eng/swiss-ai/switzerland-launches-transparent-chatgpt-alternative/89929269",
+    "https://www.apertus.org",
+    "https://www.medium.com/@adnanmasood/ais-regulatory-reckoning-eu-ai-act-and-ripple-effects-on-u-s-technology-policy-c03c30d6a6a0",
+    "https://theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus",
+    "https://www.medium.com/@markus_datadude/switzerlands-apertus-the-open-ai-revolution-that-changes-everything-0793304239c2",
+    "https://apertus.org/",
+    "https://www.kpmg.com/us/en/articles/2024/how-eu-ai-act-affects-us-based-companies.html"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "European Union",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-04T07:52:37.576+03:00",
+  "updated": "2025-09-04T07:56:03.000+03:00"
+}

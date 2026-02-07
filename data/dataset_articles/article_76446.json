@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "128d9aa555e956df16849dcb641684ad3d4c7470",
+    "url": "https://forums.unraid.net/topic/184464-100-cpu-usage-and-very-bad-performance",
+    "site_full": "forums.unraid.net",
+    "site": "unraid.net",
+    "site_section": "https://forums.unraid.net/forum/55-general-support/",
+    "site_categories": [
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "General Support - Unraid",
+    "title": "100% CPU usage and very bad performance - General Support - Unraid",
+    "title_full": "100% CPU usage and very bad performance - General Support - Unraid",
+    "published": "2025-01-10T10:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 44836,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "128d9aa555e956df16849dcb641684ad3d4c7470",
+  "url": "https://forums.unraid.net/topic/184464-100-cpu-usage-and-very-bad-performance",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "daninet",
+  "published": "2025-01-10T10:55:00.000+02:00",
+  "title": "100% CPU usage and very bad performance - General Support - Unraid",
+  "text": "Hello!\nI recently did some upgrades on my system, I added more ram, added a new disk, added a new ssd (this one only stores immich thumbnails).\nNow with this combination something happened to my server any I'm getting 100% CPU usage a lot. It is so bad that I need 2-3minutes just to ssh into my server.\nhtop and docker stats show very weird things, processes are fighting for CPU cycles. For example when did you see htop process itself uses 45% CPU last time? Then I see lsof on top a lot, then qemu and docker service as well. Basically anything I invoke on the interface goes up with high CPU usage and very hard to tell what exactly is throttling my cpu. In docker stats every container randomly goes between 0-20% CPU usage even the inactive ones like mysql for my websites that I'm not using. Very weird.\nEverything still works, I can access my dockers, access my server but it is super slow. Crazy slow.\nThe config is HP Elitedesk PC with i5-7500 and 16Gb RAM. I also have an older nvidia card for plex encoding.\nI have attached the diagnostics , any help appreciated.\ntevenas-diagnostics-20250110-0944.zip",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T11:22:33.444+02:00",
+  "updated": "2025-01-10T11:22:33.444+02:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "267b1ca2a30d046dd16f10d3aea598f3728dd2c9",
+    "url": "https://www.neowin.net/news/microsoft-says-transportdlp-rule-conflicts-have-forced-it-to-pull-exchange-server-update",
+    "site_full": "www.neowin.net",
+    "site": "neowin.net",
+    "site_section": "https://www.neowin.net/news",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "Tech News, Reviews & Betas | Neowin",
+    "title": "Microsoft says transport/DLP rule conflicts have forced it to pull Exchange Server update",
+    "title_full": "Microsoft says transport/DLP rule conflicts have forced it to pull Exchange Server update",
+    "published": "2024-11-15T09:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.neowin.com/news/images/uploaded/2022/08/1659556772_exchange_outlook_source-_neowin_plus_danger_skull_(source-_sayan_s)_story.jpg",
+    "performance_score": 0,
+    "domain_rank": 3628,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "267b1ca2a30d046dd16f10d3aea598f3728dd2c9",
+  "url": "https://www.neowin.net/news/microsoft-says-transportdlp-rule-conflicts-have-forced-it-to-pull-exchange-server-update",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@",
+  "published": "2024-11-15T09:24:00.000+02:00",
+  "title": "Microsoft says transport/DLP rule conflicts have forced it to pull Exchange Server update",
+  "text": "This week, Microsoft released its Patch Tuesday update for November 2024. On the Windows 10 side we have [KB5046613, KB5046615, KB5046612, KB5046665](https://www.neowin.net/news/windows-10-kb5046613--kb5046615--kb5046612--kb5046665-november-2024-patch-tuesday-out/), and the Windows 11 side we have [KB5046617, KB5046633](https://www.neowin.net/news/windows-11-kb5046617-kb5046633-november-2024-patch-tuesday-out/). The Windows 11 update resolves an [annoying Task Manager bug](https://www.neowin.net/news/microsoft-recommends-installing-kb5046617-to-fix-windows-11-24h2-task-manager/) that would incorrectly show the number of background processes and Windows processes count as zero. Meanwhile, the Windows 10 update fixes a bug wherein [non-admin users couldn't launch](https://www.neowin.net/news/kb5046613-microsoft-shares-how-to-fix-teams-quick-assist-windows-10-admin-launch-bug/) certain apps like Teams, Quick Assist, and more. However, the new update on Windows 11 23H2 and 22H2 also introduces a bug that falsely warns users that their \"[version of Windows has reached the end of service.](https://www.neowin.net/news/windows-11-kb5046633-thinks-your-version-of-windows-has-reached-the-end-of-service/)\" Speaking of bugs, Microsoft also released Exchange Server 2019 and 2016 security update for the month (November) alongside Windows' Patch Tuesday and the company has been forced to pull the update. That is because soon after the update, admins and users began complaining that they were running into issues due to custom Transport and DLP (Data Loss Prevention) rules. It [writes](https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125): Update 11/14/2024: We have temporarily paused the rollout of this update. We are aware of customers having an issue with the Transport rules stopping periodically after this update is installed. Based on our initial investigation, this can happen to customers who use their own transport or DLP rules. If you are seeing this problem, you might have to uninstall the November SU until it is re-released. We are continuing the investigation and are working on a permanent fix to address this issue. We will release it when ready. We have also paused the rollout of November 2024 SU to Windows / Microsoft Update. Customers who might not use Transport or DLP rules and did not run into the issue with rules, can continue using the November SU update. For those who may not be familiar, transport rules (mail flow rules) and DLP policies in Exchange Server help protect sensitive data by setting up various messaging policies and aid in taking appropriate actions like blocking, filtering, or alerting users whenever applicable to ensure data loss protection and compliance with regulations.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125):",
+    "https://www.techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125):"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T11:28:09.685+02:00",
+  "updated": "2024-11-15T11:28:09.685+02:00"
+}

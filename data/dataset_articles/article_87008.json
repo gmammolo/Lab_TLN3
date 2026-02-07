@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "557b3f4fd821c4b8a087d5c542c43eeee7782102",
+    "url": "https://stackoverflow.com/questions/77883209/upgrade-a-pandas-program-to-python-3-12-now-a-lot-of-things-are-broken-stak-tr",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/feeds",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Stack Overflow",
+    "title": "upgrade a pandas program to python 3.12. now a lot of things are broken. stak trace contains \"no module named 'six.moves' - but this is erroneous",
+    "title_full": "upgrade a pandas program to python 3.12. now a lot of things are broken. stak trace contains \"no module named 'six.moves' - but this is erroneous",
+    "published": "2024-01-26T00:10:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "557b3f4fd821c4b8a087d5c542c43eeee7782102",
+  "url": "https://stackoverflow.com/questions/77883209/upgrade-a-pandas-program-to-python-3-12-now-a-lot-of-things-are-broken-stak-tr",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kameron Cole Kameron Cole 1",
+  "published": "2024-01-26T00:10:00.000+02:00",
+  "title": "upgrade a pandas program to python 3.12. now a lot of things are broken. stak trace contains \"no module named 'six.moves' - but this is erroneous",
+  "text": "Facing this mess:\nTraceback (most recent call last): File \"/Users/kameronacole/PycharmProjects/pythonProject/main.py\", line 73, in <module> from tabula import read_pdf File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages /tabula/__init__.py\", line 3, in <module> from .io import convert_into, convert_into_by_batch, read_pdf, read_pdf_with_template File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages /tabula/io.py\", line 32, in <module> import pandas as pd File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/pandas/__init__.py\", line 49, in <module> from pandas.core.api import ( File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/pandas/core/api.py\", line 1, in <module> from pandas._libs import ( File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/pandas/_libs/__init__.py\", line 18, in <module> from pandas._libs.interval import Interval File \"interval.pyx\", line 1, in init pandas._libs.interval File \"hashtable.pyx\", line 1, in init pandas._libs.hashtable File \"missing.pyx\", line 1, in init pandas._libs.missing File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/pandas/_libs/tslibs/__init__.py\", line 40, in <module> from pandas._libs.tslibs.conversion import localize_pydatetime File \"conversion.pyx\", line 1, in init pandas._libs.tslibs.conversion File \"offsets.pyx\", line 1, in init pandas._libs.tslibs.offsets File \"timestamps.pyx\", line 1, in init pandas._libs.tslibs.timestamps File \"timedeltas.pyx\", line 1, in init pandas._libs.tslibs.timedeltas File \"timezones.pyx\", line 24, in init pandas._libs.tslibs.timezones File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/dateutil/tz/__init__.py\", line 2, in <module> from .tz import * File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/dateutil/tz/tz.py\", line 21, in <module> from six.moves import _thread ModuleNotFoundError: No module named 'six.moves'\nNot sure where to begin. This is the code block from line 21 to line 73:\nimport PyPDF2 import textract from nltk.tokenize import word_tokenize from nltk.corpus import stopwords filename = 'Dog_Breed.pdf' # open allows you to read the file.pdfFileObj = open(filename,'rb')#The pdfReader variable is a readable object that will be parsed.pdfReader = PyPDF2.PdfFileReader(pdfFileObj)#Discerning the number of pages will allow us to parse through all the pages.num_pages = pdfReader.numPages pdfFileObj = open(filename, 'rb') pdfReader = PyPDF2.PdfReader(pdfFileObj) num_pages = len(pdfReader.pages) count = 0 text = \"\" # The while loop will read each page. while count < num_pages: pageObj = pdfReader.pages[count] count += 1 text += pageObj.extract_text() # This if statement exists to check if the above library returned words. It's done because PyPDF2 cannot read scanned files. if text != \"\": text = text # If the above returns as False, we run the OCR library textract to #convert scanned/image based PDF files into text.else: # text = textract.process(fileurl, method='tesseract', language='eng') print('') print('Printing the whole pdf. Tabular format not retained with this method') print('') print(text) print('') ################################################################################################################# # # # Now we use tabula package to convert the pdf to csv. This retains the format, somewhat, but the reason for # # using it is because the standard python pdf packages don't do what I want (not because I really want a csv # ################################################################################################################# from tabula import read_pdf # reads table from pdf file df = read_pdf(\"Dog_Breed.pdf\", pages=1)[0] df.to_csv('Dog_Breed.csv') print('printing the rows from the csv') print()\nAll this worked in a previous python version - can't recall which. I had to get a new Mac, and re-install PyCharm. The old machine was erased. I still can't imagine that python is still so immature that it produces these errors with no hope of resolution - all because of packaging (dependency) inconsistencies. Reminds me of Java, like, 40 years ago.\nI could guess. What was last year's version of python? assuming if I just switch to that interpreter, my code will work.\nI see the stackoverflow suggestions all point to \"no module pandas found\". That is not my issue. I have all modules,including the correct version of six (there is a dependency between six 1.12.0 and textract - can't use 1.16",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:15:38.780+02:00",
+  "updated": "2024-01-26T00:15:38.780+02:00"
+}

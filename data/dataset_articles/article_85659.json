@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "ff43e2bfb4618c62b69c710c20081be1091fafeb",
+    "url": "http://news.10jqka.com.cn/20251225/c673505011.shtml",
+    "site_full": "news.10jqka.com.cn",
+    "site": "10jqka.com.cn",
+    "site_section": "http://news.10jqka.com.cn/fssgsxw_list/",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "stocks"
+    ],
+    "section_title": "非上市公司新闻_财经_同花顺财经",
+    "site_title": null,
+    "title": "权威认证！华为云智能可观测平台通过中国信通院最高级别能力评估",
+    "title_full": "权威认证！华为云智能可观测平台通过中国信通院最高级别能力评估",
+    "published": "2025-12-25T07:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4785,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ff43e2bfb4618c62b69c710c20081be1091fafeb",
+  "url": "http://news.10jqka.com.cn/20251225/c673505011.shtml",
+  "ord_in_thread": 0,
+  "author": "IT之家",
+  "published": "2025-12-25T07:25:00.000+02:00",
+  "title": "权威认证！华为云智能可观测平台通过中国信通院最高级别能力评估",
+  "text": "近日，在北京召开的 2025 AI 云产业大会上，中国信息通信研究院（以下简称“中国信通院”）发布年度可观测厂商“智能化可观测性能力成熟度”测评结果，华为云智能可观测平台获得 L5 智能引领级能力认证。\n　　作为云计算和软件的权威评估机构，中国信通院在智能化可观测性平台和工具的评测中，以行业标准《云计算智能化可观测性能力成熟度模型》为依据，客观真实地评估了厂商的智能化可观测能力水平。经中国信通院的细致评估，华为云智能可观测平台在可观测底座能力、智能化场景应用能力、可观测智能体这 3 项检验中，100% 用例全部通过，这意味着华为云在智能化可观测性领域已经达到业内领先水平。\n　　华为云智能可观测平台，基于指标、链路、日志、事件全景数据监控，为企业提供一体化智能监控解决方案，提高运维排障效率；提供一站式日志采集、秒级搜索、海量存储、结构化处理等功能，满足网络日志可视化智能分析等应用场景；提供端到端的全链路服务，包含前端监控、应用性能监控、全面拥抱开源生态，助企业在复杂的业务环境下快速发现应用性能问题，降低 MTTR (平均故障恢复时长)，改善用户体验。\n　　 华为云智能可观测平台主要能力：\n　　 1、智能可观测底座\n　　监控告警具有分层分类规范，智能告警功能可根据历史数据和趋势分析自动调整阈值，根据故障时间段内可观测性能数据进行综合分析，定界故障服务、定位故障根因。\n　　实施统一的数据标准化策略，保证数据的采集、存储符合标注，通过自动化检测及时发现并修正不符合标准的数据，在数据采集和处理的每个环节，实施严格的审计和监控，制定详细的数据版本管理策略，确保数据的变化可追踪且具备历史版本。\n　　支持数据可视化及一键式观测数据调阅能力，支持调用链关联日志、Profiling、基础设施数据的能力。\n　　兼容开源 OpenTelemetry 协议，对接用户的自定义指标，支持自动化拓扑能力，涵盖微服务、数据库、中间件等调用。\n　　 2、智能化场景应用能力\n　　支持 Agent 形式收集可观测数据，收集全面的丰富时段和类型的历史可观测性数据，包括多个相同时段的系统 KPI 指标、黄金指标等时序分布数据，同时也支持采集服务调用链，显示整个调用链条。\n　　智能告警功能可根据历史数据和趋势分析找出数据的规律特征，提升告警的准确性。\n　　支持指标、日志、调用链等多维数据的导入、存储及展示，既能查看实时数据，也能查看历史数据。根据数据的历史趋势、预测趋势、安全水位等，预测当前实例的风险状态，并进行卡片展示。\n　　支持构建故障因果图的能力, 支持在实时运行阶段，使用因果推断进行根因排序和根因定位能, 支持根据规则给出推荐处理建议的能力, 支持根因分析模型离线 / 在线更新能力。\n　　能够基于大模型，结合 RAG，根据历史案例和响应规则知识推荐优化建议。\n　　 3、可观测智能体\n　　支持通过自然语言直接查询和检索数据库或数据仓库中的数据。\n　　支持模糊查询和语义相似度匹配，能够处理口语化表达、错别字和同义词替换，提升查询的容错性和准确性，当查询存在歧义或不明确的描述时，NL2QL 能够主动进行反馈或澄清，提示用户进一步确认需求，以提供更精准的查询结果。\n　　能够理解用户问题描述的意图，支持基于用户的行为历史和偏好，提供定制化的帮助内容。\n　　未来，华为云智能可观测平台将持续利用 AI 赋能应用可观测，通过智能化的数据处理和分析能力，为用户提供更智能、更高效、更精准的监控和分析解决方案，在复杂的业务环境中识别潜在风险并快速给出修复建议，帮助客户优化操作流程、提升业务效率、显著降低运维成本。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T07:51:52.747+02:00",
+  "updated": "2025-12-25T07:55:06.000+02:00"
+}

@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "1015fce84eb4a8d764efb827d8a3669591b57c68",
+    "url": "https://futurism.com/the-byte/openai-big-tech-alarmed-ai-performance",
+    "site_full": "futurism.com",
+    "site": "futurism.com",
+    "site_section": "https://futurism.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Futurism | Science and Technology News and Videos",
+    "title": "OpenAI Alarmed When Its Shiny New AI Model Isn't as Smart as It Was Supposed to Be",
+    "title_full": "OpenAI Alarmed When Its Shiny New AI Model Isn't as Smart as It Was Supposed to Be",
+    "published": "2024-11-15T00:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://wordpress-assets.futurism.com/2024/11/openai-big-tech-alarmed-ai-performance.jpg",
+    "performance_score": 0,
+    "domain_rank": 2083,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 33,
+        "comments": 25,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1015fce84eb4a8d764efb827d8a3669591b57c68",
+  "url": "https://futurism.com/the-byte/openai-big-tech-alarmed-ai-performance",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Frank Landymore",
+  "published": "2024-11-15T00:30:00.000+02:00",
+  "title": "OpenAI Alarmed When Its Shiny New AI Model Isn't as Smart as It Was Supposed to Be",
+  "text": "\"The AGI bubble is bursting a little bit.\" Cooling Off OpenAI's next large language model may not be as powerful as many hoped. Code-named Orion, the AI model is sorely underperforming behind the scenes, [Bloomberg reports](https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai), showing less improvement over its predecessor than GPT-4 did over GPT-3. A similar [report from The Information](https://www.theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows) this week indicated that some OpenAI researchers believed that in certain areas like coding, there were no improvements at all. And according to Bloomberg, OpenAI isn't the only AI outfit struggling with diminishing returns. Google's next iteration of its Gemini model is also falling short of internal expectations, while the timeline for Anthropic's release of its much hyped Claude 3.5 Opus is up in the air. These industry-wide struggles may be a sign that the current paradigm of improving AI models via what's known as \"scaling\" is [hitting a brick wall](https://futurism.com/the-byte/openai-diminishing-returns), portending [potential economic woes in the future](https://futurism.com/the-byte/ai-expert-crash-imminent) if AI models remain costly to develop without achieving significant leaps in performance towards building an artificial general intelligence. \"The AGI bubble is bursting a little bit,\" Margaret Mitchell, chief ethics scientist at the AI startup Hugging Face, told Bloomberg, adding that \"different training approaches\" may be needed to approach anything like human levels of intelligence and versatility. Gluttonous Tech The ethos that has yielded gains in generative AI so far has been scaling: to make generative AI models more powerful, the primary way to achieve this is by making them bigger. That means adding more processing power — AI chips, like from Nvidia — and injecting more training data, which has largely been scraped from the web with little cost. But as these models get larger and more powerful, they also get hungrier. All that energy isn't cheap — Microsoft is looking to [reboot entire nuclear power plants](https://futurism.com/the-byte/microsoft-three-mile-island) to support its AI data centers, for example — and free training data [is drying up](https://futurism.com/the-byte/ai-training-data-shortage). To obtain new brain food for their AIs, tech companies are using synthetic, computer -generated data. Yet, they still \"struggle to get unique, high-quality datasets without human guidance, especially when it comes to language,\" Lila Tretikov, head of AI strategy at New Enterprise associates, told Bloomberg. And so, to give an idea of all those expenses: in a podcast episode quoted by Bloomberg, Anthropic CEO Dario Amodei said that a cutting-edge AI model currently costs around $100 million to build, and estimated that by 2027, they could cost well over $10 billion apiece. Best Days Behind This year, Anthropic updated its [Claude models](https://futurism.com/the-byte/claude-ai-bored-demonstration), but notably snubbed Opus, while references to a near-future release date for it have been scrubbed from its website. Like with OpenAI, researchers at the company reportedly observed only marginal improvements with Opus considering its size and how much it cost to build and run, according to a Bloomberg source. Similarly, Google's [Gemini software](https://futurism.com/the-byte/google-demo-gemini-ai-tech-fail) is falling short of its goals, per Bloomberg, and the company has released few major improvements to its large language model in the meantime. These aren't insurmountable challenges, to be clear. But it's increasingly sounding like the AI industry may not enjoy the same pace of advancements as it has in the past decade. \"We got very excited for a brief period of very fast progress,\" Noah Giansiracusa, an associate professor of mathematics at Bentley University in Massachusetts, told Bloomberg. \"That just wasn't sustainable.\" More on AI: [AI Expert Warns Crash Is Imminent As AI Improvements Hit Brick Wall](https://futurism.com/the-byte/ai-expert-crash-imminent) Share This Article",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai),",
+    "https://www.theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows)",
+    "https://theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows)",
+    "https://bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:30:51.745+02:00",
+  "updated": "2024-11-15T02:30:51.745+02:00"
+}

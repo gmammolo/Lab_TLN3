@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "33b15024329d0b923285d26b364ab19881d222d2",
+    "url": "https://www.youtube.com/watch?v=2MbCBJBi1TA",
+    "site_full": "www.youtube.com",
+    "site": "youtube.com",
+    "site_section": "https://rss.app/feeds/_02osag5eijhsgyy0.xml",
+    "site_categories": [
+      "television",
+      "",
+      "entertainment",
+      "crime, law and justice",
+      "politics",
+      "war, conflict and unrest",
+      "sport",
+      "economy, business and finance"
+    ],
+    "section_title": "News Review - 10.12.24 - 241 Feeds Update",
+    "site_title": "YouTube",
+    "title": "Controversial Houston housing project to be occupied",
+    "title_full": "Controversial Houston housing project to be occupied",
+    "published": "2026-01-15T02:08:00.000+02:00",
+    "replies_count": 14,
+    "participants_count": 15,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i.ytimg.com/vi/2MbCBJBi1TA/maxresdefault.jpg",
+    "performance_score": 0,
+    "domain_rank": 9,
+    "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "33b15024329d0b923285d26b364ab19881d222d2",
+  "url": "https://www.youtube.com/watch?v=2MbCBJBi1TA",
+  "ord_in_thread": 0,
+  "author": "FOX 26 Houston",
+  "published": "2026-01-15T02:08:00.000+02:00",
+  "title": "Controversial Houston housing project to be occupied",
+  "text": "Controversial Houston housing project to be occupiedThe Houston Housing Authoritiy has published a plan for a low-income housing project near toxic landfills in Second Ward. FOX 26's Greg Groogan gives the update.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->construction and property",
+    "Social Issue->social condition",
+    "Social Issue->public housing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Greg Groogan",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Houston",
+        "sentiment": "none"
+      },
+      {
+        "name": "Second Ward",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Houston Housing Authoritiy",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "FOX 26",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "33b15024329d0b923285d26b364ab19881d222d2",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [
+      "fake_news"
+    ],
+    "top_news": [],
+    "bias": "left",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-15T07:47:34.800+02:00",
+  "updated": "2026-01-15T07:51:07.000+02:00"
+}

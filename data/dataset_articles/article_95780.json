@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "3a497e1790377d1dce2cec58cbca84edfa164288",
+    "url": "https://www.thestar.com.my/sport/football/2025/01/17/soccer-brighton-snap-winless-streak-with-2-0-victory-over-ipswich",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Latest news clusters for en",
+    "title": "Football: Soccer-Brighton snap winless streak with 2-0 victory over Ipswich | The Star",
+    "title_full": "Football: Soccer-Brighton snap winless streak with 2-0 victory over Ipswich | The Star",
+    "published": "2025-01-16T23:42:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2025/01/17/3121828.jpg",
+    "performance_score": 0,
+    "domain_rank": 2098,
+    "domain_rank_updated": "2025-01-13T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3a497e1790377d1dce2cec58cbca84edfa164288",
+  "url": "https://www.thestar.com.my/sport/football/2025/01/17/soccer-brighton-snap-winless-streak-with-2-0-victory-over-ipswich",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "The Star Online",
+  "published": "2025-01-16T23:42:00.000+02:00",
+  "title": "Football: Soccer-Brighton snap winless streak with 2-0 victory over Ipswich | The Star",
+  "text": "IPSWICH, England (Reuters) -Kaoru Mitoma and Georginio Rutter both scored to end Brighton & Hove Albion's run of eight Premier League games without a win as their side beat Ipswich Town 2-0 at Portman Road on Thursday.\nThe victory lifts Brighton to ninth place on 31 points, while Ipswich slip to 17th on 16 and back into the relegation zone behind Wolverhampton Wanderers on goals scored.\nThe hosts started well despite Brighton enjoying plenty of possession and Nathan Broadhead created the first decent chance of the game for Ipswich with a shot from outside the box but Bart Verbruggen got down to steer the ball behind for a corner.\nFive minutes later striker Liam Delap had a go from a similar position but again the Brighton goalkeeper was equal to the task and the Dutchman had to be on his toes again when midfielder Omari Hutchinson let fly just before the break.\nIpswich fullback Wes Burns flashed a shot just wide after a well-worked long throw in the 57th minute but the home side's failure to take their chances finally cost them dear two minutes later when Mitoma struck.\nA sliced clearance fell to Swedish midfielder Yasin Ayari and he cleverly fed Matt O’Riley, who teed up the Japanese winger for a first-time finish.\nWith Ipswich reeling, keeper Christian Walton got a measure of revenge on Brighton's Joao Pedro, who got a yellow card for clattering into him early in the second half, by making a superb save to prevent his 67th-minute shot flying into the top corner.\nBrighton were not to be denied, however, and substitute Rutter fired home form close range in the 82nd to wrap up the three points and end the visitors' long winless run.\n\"It was a long time and we suffered a little bit, and I'm really happy for the players, really happy also for the staff, because they do a lot of work in the shadows, and today, I think we deserve to win, and we're happy,\" Brighton coach Fabian Huerzeler said.\n\"An important thing (during the winless run) was to stay predictable, to stay calm and to trust the process, and I think the performances were not that bad, and we could easily win one of these eight games where we weren't able to win,\" he added.\nBoth sides will be back in action again on Sunday, with Brighton travelling to Manchester United and Ipswich hosting Manchester City.\n(Reporting by Philip O'Connor; Editing by Christian Radnedge and Ken Ferris)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Sport",
+    "Human Interest",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Sport->regular competition",
+    "Sport->soccer",
+    "Sport->sport event",
+    "Lifestyle and Leisure->game",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->trend"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Georginio Rutter",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bart Verbruggen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Philip O'Connor",
+        "sentiment": "none"
+      },
+      {
+        "name": "Matt O’Riley",
+        "sentiment": "none"
+      },
+      {
+        "name": "Kaoru Mitoma",
+        "sentiment": "none"
+      },
+      {
+        "name": "Yasin Ayari",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Ipswich Town",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Brighton & Hove Albion",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Reuters",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Portman Road",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-17T00:10:08.376+02:00",
+  "updated": "2025-01-17T00:34:20.391+02:00"
+}

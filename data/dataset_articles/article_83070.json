@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "af52abfbe49b0eccd6f330848def67523bcb568e",
+    "url": "https://ransomware.databreachtoday.com/how-test-time-compute-help-scale-ai-a-27624",
+    "site_full": "ransomware.databreachtoday.com",
+    "site": "databreachtoday.com",
+    "site_section": "https://ransomware.databreachtoday.com/surveys",
+    "site_categories": [],
+    "section_title": "Latest research surveys on ransomware data security breach",
+    "site_title": null,
+    "title": "How Test Time Compute Can Help Scale AI - Ransomware DataBreachToday",
+    "title_full": "How Test Time Compute Can Help Scale AI - Ransomware DataBreachToday",
+    "published": "2025-02-27T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/how-test-time-compute-help-scale-ai-showcase_image-7-a-27624.jpg",
+    "performance_score": 0,
+    "domain_rank": 82590,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "af52abfbe49b0eccd6f330848def67523bcb568e",
+  "url": "https://ransomware.databreachtoday.com/how-test-time-compute-help-scale-ai-a-27624",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@databreachtoday",
+  "published": "2025-02-27T02:00:00.000+02:00",
+  "title": "How Test Time Compute Can Help Scale AI - Ransomware DataBreachToday",
+  "text": "How Test Time Compute Can Help Scale AI\nApproach Aims to Scale AI Models by Making them Smarter Instead of BiggerFor years, it seemed obvious that the best way to scale up artificial intelligence models was to throw more upfront computing resources at them. This theory was that performance improvements are proportional to increases in model size, dataset volume and computation. But the anticipated leap in performance isn't materializing.\nSee Also: Cyber Security in the Age of Digital Transformation: A Reality Check\nInstead, scaling AI models in size has hit a plateau. OpenAI's Orion model only demonstrated modest improvements over its predecessor despite requiring about 10 times more compute resources than GPT 4, while Google's development of its next-generation Gemini model also experienced slower-than-expected progress.\nOne possible solution to scaling AI models is time test compute. The approach dynamically allocates extra computational resources during inference - or the thinking phase - to refine answers. Unlike older models that simply chug out the next word, newer \"reasoning\" approaches allow for the AI equivalent of reflection and refinement. A 2024 research paper written by Google DeepMind workers showed that an adaptive \"compute-optimal\" strategy can improve performance four-fold compared to traditional methods, sometimes allowing a smaller model to outperform one 14 times larger.\nInstead of a fixed computational budget for every task, test-time compute lets AI models allocate resources based on the problem's complexity. The dynamic allocation aims to make AI systems more efficient and better at handling complex, real-world challenges.\nTest-time scaling in general refers to using additional computation to get more accurate answers. Scaling parameters also uses more computation when the model is larger, but with test-time compute, models spend more tokens thinking through the answer before outputting it.\nThe Google research paper studied techniques that allowed models to use more tokens at test-time, and found that test-time scaling can outperform scaling model parameters. The additional \"thinking time\" allows models to explore multiple reasoning paths, making them particularly suited for tasks such as advanced code generation or multi-modal data analysis, said lead paper researcher Charlie Snell.\nResearch indicates that grouping - or binning - questions by difficulty and tailoring the extra compute accordingly can boost performance. \"We used a pretty straightforward approach of binning questions by difficulty and selecting the test-time strategy which was most effective for a given FLOPs budget within that difficulty bin,\" said Charlie Snell, leader author of the Google paper.\nThis compute-optimal strategy has shown that for easy-to-medium difficulty problems, iterative refinement can be particularly effective, while for more complex challenges, independent sampling or search methods may offer better results.\nMemory is an important consideration. Increasing test-time compute can introduce new memory constraints during inference. Snell said that inference is \"definitely\" more memory bound than training, which is a \"little bit of a problem\" because increasing hardware memory bandwidth tends to be harder than increasing FLOPs. But there are strategies like speculative decoding or alternative architectures like SSMs, which might help mitigate some of this, he said.\nBut real-world deployment of test time compute raises questions about generalizability. \"I think there is an open question of how well these techniques can generalize beyond domains that are easily verifiable, like math and code. So for certain applications, it might not be as beneficial. But for more in-distribution tasks like math and code, I think practitioners can try out some of the recent reasoning models released by OpenAI, Deepseek and Google and see if they help out for their use cases,\" said Snell.\nOpen AI's Strawberry family of models engage in real-time reasoning during inference and Microsoft CEO Satya Nadella has identified test time compute as a new scaling law in AI development. Google is researching methods to optimize test-time computation by enabling models to generate and evaluate multiple solutions. Nvidia is developing hardware and software solutions to support dynamic inference processes, while Meta is investing in AI infrastructure that allows models to adjust their computational pathways during inference.\nThe timeline for widespread adoption of test time compute varies. Jeremy Bron, AI director at Silamir Group, a data-AI-cyber consulting company headquartered in France, told Information Security Media Group that that basic strategies could be implemented within months, particularly by teams with existing cloud-based GPU or TPU infrastructure. More advanced techniques like latent-space reasoning might take a year or more of dedicated research and development.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Education->educational testing and examinations"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://scalebytech.com/google-deepminds-new-research-on-optimizing-test-time-compute-in-ai/",
+    "https://arxiv.org/html/2408.03314v1",
+    "https://www.reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11/",
+    "https://about.fb.com/news/2024/04/introducing-our-next-generation-infrastructure-for-ai/",
+    "https://thecuberesearch.com/261-breaking-analysis-how-nvidia-is-creating-a-1-4-trillion-data-center-market-in-a-decade-of-ai/",
+    "https://thecuberesearch.com/261-breaking-analysis-how-nvidia-is-creating-a-1-4-trillion-data-center-market-in-a-decade-of-ai",
+    "https://www.arxiv.org/html/2408.03314v1",
+    "https://www.about.fb.com/news/2024/04/introducing-our-next-generation-infrastructure-for-ai/",
+    "https://scalebytech.com/google-deepminds-new-research-on-optimizing-test-time-compute-in-ai",
+    "https://www.scalebytech.com/google-deepminds-new-research-on-optimizing-test-time-compute-in-ai/",
+    "https://about.fb.com/news/2024/04/introducing-our-next-generation-infrastructure-for-ai",
+    "https://reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11/",
+    "https://www.thecuberesearch.com/261-breaking-analysis-how-nvidia-is-creating-a-1-4-trillion-data-center-market-in-a-decade-of-ai/",
+    "https://www.reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:44:47.627+02:00",
+  "updated": "2025-02-28T00:44:47.627+02:00"
+}

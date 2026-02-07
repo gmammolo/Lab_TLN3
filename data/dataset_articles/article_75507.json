@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "5d48ef3346be5bbf975ea76b495f1d7f384dc386",
+    "url": "https://jvndb.jvn.jp/en/contents/2024/JVNDB-2024-013260.html",
+    "site_full": "jvndb.jvn.jp",
+    "site": "jvn.jp",
+    "site_section": "https://jvndb.jvn.jp/en/rss/jvndb_new.rdf",
+    "site_categories": [
+      "hobbies_and_interests"
+    ],
+    "section_title": "JVNDB RSS Feed - New Entry",
+    "title": "Multiple vulnerabilities in Edgecross Basic Software for Windows",
+    "title_full": "Multiple vulnerabilities in Edgecross Basic Software for Windows",
+    "published": "2024-11-21T18:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 58115,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5d48ef3346be5bbf975ea76b495f1d7f384dc386",
+  "url": "https://jvndb.jvn.jp/en/contents/2024/JVNDB-2024-013260.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-21T18:59:00.000+02:00",
+  "title": "Multiple vulnerabilities in Edgecross Basic Software for Windows",
+  "text": "|\nJVNDB-2024-013260\nMultiple vulnerabilities in Edgecross Basic Software for Windows\n[Overview]Edgecross Basic Software for Windows provided by Edgecross Consortium contains multiple vulnerabilities listed below.\n* Incorrect default permissions (CWE-276) - CVE-2024-4229\n* External control of file name or path (CWE-73) - CVE-2024-4230\nEdgecross Consortium reported these vulnerabilities to JPCERT/CC to notify users of the solutions through JVN.\n[CVSS Severity]([What is CVSS?](/en/nav/jvndbhelp.html#jvndb3))[Affected Products]Edgecross Consortium\n- Edgecross Basic Software for Windows ECP-BS1-W versioin 1.00 and earlier\n- Edgecross Basic Software for Developers ECP-BS1-W-D version 1.00 and earlier\nNote that CVE-2024-4229 vulnerability affects only when executing the installation by specifying the other folders which are not specified/changed by an administrative user.\n[Impact]Successful exploitation of these vulnerabilities could allow an attacker to execute a malicious program on the system, which may lead to information disclosure, tampering of information, or a denial-of-service (DoS) condition.\n[Solution][Apply the Workaround]\nApplying the following workaround may mitigate the impacts of these vulnerabilities.\n* CVE-2024-4229\n- Install the product with the default installation folder or specify a folder which only an administrative user specifiies/changes\n* CVE-2024-4230\n- When specifying a program using the program execution feedback settings of the real-time flow designer, specify a trusted file only\n* CVE-2024-4229, CVE-2024-4230\n- When connecting the PC that uses the product to the Internet, protect unauthorized access with a firewall or virtual private network (VPN), etc., and only allow remote logins from trusted users\n- Use the PC that uses the product within a LAN, and block remote logins from untrusted networks, hosts, and users\n- Do not open untrusted files (especially project files) nor click untrusted links\n[Vendor Information]Edgecross Consortium\n- Edgecross Consortium :\n[Downloads]\n[CWE](What is CWE?)[CVE](What is CVE?)[References]\n- JVN :\n[JVNVU#92857077]\n[Revision History]\n- [2024/11/22]\nWeb page was published\nDate Public | 2024/11/21 |\nDate First Published | 2024/11/22 |\nDate Last Updated | 2024/11/22 |",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Corporate News and Profiles",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T15:51:16.830+02:00",
+  "updated": "2024-11-22T15:51:16.830+02:00"
+}

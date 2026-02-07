@@ -1,0 +1,67 @@
+{
+  "thread": {
+    "uuid": "4ed13b9ac149fc80b0714f93fea0b7aa70a8e203",
+    "url": "https://community.letsencrypt.org/t/issue-certificate-authority-failed-to-verify-the-temporary-apache-configuration-changes-made-by-certbot/229203",
+    "site_full": "community.letsencrypt.org",
+    "site": "letsencrypt.org",
+    "site_section": "https://community.letsencrypt.org/latest.rss",
+    "site_categories": [],
+    "section_title": "Let&#39;s Encrypt Community Support - Latest topics",
+    "title": "Issue: Certificate authority failed to verify the temporary apache configuration changes made by certbot",
+    "title_full": "Issue: Certificate authority failed to verify the temporary apache configuration changes made by certbot",
+    "published": "2024-11-22T00:08:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://global.discourse-cdn.com/letsencrypt/optimized/3X/e/2/e293fb43ea2b76385bae11e904bde2ec4a4aab56_2_1024x349.png",
+    "performance_score": 0,
+    "domain_rank": 573,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4ed13b9ac149fc80b0714f93fea0b7aa70a8e203",
+  "url": "https://community.letsencrypt.org/t/issue-certificate-authority-failed-to-verify-the-temporary-apache-configuration-changes-made-by-certbot/229203",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Yogesh",
+  "published": "2024-11-22T00:08:00.000+02:00",
+  "title": "Issue: Certificate authority failed to verify the temporary apache configuration changes made by certbot",
+  "text": "We are facing an issue while generating ssl certificate for the subdomain alumni.balbharati.edu\nError: \"The Certificate Authority failed to verify the temporary Apache configuration changes made by Certbot. Ensure that the listed domains point to this Apache server and that it is accessible from the internet.\"\nMy domain is: alumni.balbharati.edu\nI ran this command: sudo certbot --apache\nIt produced this output:\nMy web server is (include version): Ubuntu 20.04\nThe operating system my web server runs on is (include version): Ubuntu\nMy hosting provider, if applicable, is:\nI can login to a root shell on my machine (yes or no, or I don't know): yes\nI'm using a control panel to manage my site (no, or provide the name and version of the control panel):\nThe version of my client is (e.g. output of certbot --version or certbot-auto --version if you're using Certbot): certbot 2.9.0\ncertbot --version\ncertbot-auto --version\nYou have both an IPv4 A record and an IPv6 AAAA record in your DNS\nBut, the IPv6 address points to a Hostinger service not your server. Hostinger creates this AAAA record automatically for new setups.\nYou need to update the AAAA address or remove it if you do not support IPv6.\nAny client trying to use IPv6 will connect to that Hostinger service instead of your server. It is not unique to Let's Encrypt. Let's Encrypt favors IPv6 when an AAAA record is present.\nSee Hostinger article here: How to manage AAAA records | Hostinger Help Center\nAnd use this site to test connections https://letsdebug.net",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T02:01:42.638+02:00",
+  "updated": "2024-11-22T02:01:42.638+02:00"
+}

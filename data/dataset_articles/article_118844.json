@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "ab7d9562708c7548e11ff9475753fecf2a96b3cb",
+    "url": "https://lamarina.eldiario.es/2025/11/20/alerta-por-temporal-y-desplome-del-termometro-el-tiempo-que-viene-en-la-marina-alta/",
+    "site_full": "lamarina.eldiario.es",
+    "site": "eldiario.es",
+    "site_section": "https://lamarina.eldiario.es/feed",
+    "site_categories": [
+      "top_news_ve",
+      "top_news_es",
+      "top_news_co",
+      "top_news_pe",
+      "top_news"
+    ],
+    "section_title": "La Marina Plaza. Noticias. Diario de la Marina Alta.",
+    "site_title": "La Marina Plaza. Noticias. Diario de la Marina Alta. Actualidad",
+    "title": "Alerta por temporal y desplome del termómetro: el tiempo que viene en la Marina Alta",
+    "title_full": "Alerta por temporal y desplome del termómetro: el tiempo que viene en la Marina Alta",
+    "published": "2025-11-20T09:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://cdn.lamarinaplaza.com/wp-content/uploads/2025/11/temporal-rotes-copia-scaled.jpg",
+    "performance_score": 0,
+    "domain_rank": 4547,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 20
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ab7d9562708c7548e11ff9475753fecf2a96b3cb",
+  "url": "https://lamarina.eldiario.es/2025/11/20/alerta-por-temporal-y-desplome-del-termometro-el-tiempo-que-viene-en-la-marina-alta/",
+  "ord_in_thread": 0,
+  "author": "Redacción",
+  "published": "2025-11-20T09:26:00.000+02:00",
+  "title": "Alerta por temporal y desplome del termómetro: el tiempo que viene en la Marina Alta",
+  "text": "Alerta por temporal y desplome del termómetro: el tiempo que viene en la Marina Alta\n- Las mínimas ya han sido este jueves las más bajas del otoño, aunque seguirán en descenso en los dos próximos días\n- El mar golpeará con fuerza a partir de mañana viernes\nLa Marina Alta ingresa en unos días muy fríos a partir de este jueves con temperaturas que irán desplomándose progresivamente al menos mañana viernes y también el próximo sábado. Y con un nuevo componente a tener en cuenta: el mar va a enfadarse.\nAsí la Agencia Estatal de Meteorología (Aemet) ha decretado alerta amarilla por temporal durante este viernes 21 de noviembre desde las 3.00 de la madrugada hasta las 11.00 de la mañana; y desde las 19.00 horas de esa misma jornada hasta las 5.00 de la madrugada del sábado 22. Lo que pronostica la agencia es viento del noroeste de 50 a 60 kilómetros, que equivale a fuerza 7, con olas de 2 a 3 metros que serán más elevadas mar adentro. La Safor e Ibiza se encuentran en la misma situación.\nTiempo ártico\nEn cuanto al termómetro, ya durante la madrugada de este jueves se han registrado las mínimas más acentuadas de lo que va de otoño como consecuencia de la entrada de la masa de aire polar procedente del Ártico.\nSegún Avamet y MeteoXàbia, el registro más gélido lo ha marcado un clásico como es Castell de Castells, con 1,6 grados. La Vall d’Alcalà se ha quedado en 4,3 grados y la Vall d’Ebo en 5,4. Mientras, ya mucho más cerca del mar, la partida de Lluca en Xàbia (la conocida como Siberia de Xàbia) ha marcado una mínima de 6 grados. Dénia ha estado en su casco urbano en 10,3. Estos guarismos irán a la baja durante las dos próximas noches.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather statistic",
+    "Weather->weather warning",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "La",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Agencia Estatal de Meteorología",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Aemet",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_ve",
+      "top_news_es",
+      "top_news_co",
+      "top_news_pe",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T09:30:38.606+02:00",
+  "updated": "2025-11-21T10:15:29.000+02:00"
+}

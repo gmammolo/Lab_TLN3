@@ -1,0 +1,108 @@
+{
+  "thread": {
+    "uuid": "0329428e9d339225cd9d1caf5d2ca5d6f98e51e5",
+    "url": "https://datainnovation.org/2025/07/5-qs-with-riccardo-vittoria-cofounder-of-acai-travel",
+    "site_full": "datainnovation.org",
+    "site": "datainnovation.org",
+    "site_section": "https://www.datainnovation.org",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Center for Data Innovation",
+    "site_title": "Center for Data Innovation",
+    "title": "5 Q's with Riccardo Vittoria, Cofounder of Acai Travel",
+    "title_full": "5 Q's with Riccardo Vittoria, Cofounder of Acai Travel",
+    "published": "2025-07-30T15:25:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 80511,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0329428e9d339225cd9d1caf5d2ca5d6f98e51e5",
+  "url": "https://datainnovation.org/2025/07/5-qs-with-riccardo-vittoria-cofounder-of-acai-travel",
+  "ord_in_thread": 0,
+  "author": "David Kertai",
+  "published": "2025-07-30T15:25:00.000+03:00",
+  "title": "5 Q's with Riccardo Vittoria, Cofounder of Acai Travel",
+  "text": "The Center for Data Innovation recently spoke with Riccardo Vittoria, co-founder of Acai Travel , a New York-based company using AI to modernize and streamline travel operations. Vittoria discussed how Acai’s platform helps agencies respond more quickly to airline policy changes and support requests by integrating directly with real-time airline data sources.\nDavid Kertai: What inspired the start of Acai Travel?\nRiccardo Vittoria: Acai Travel was founded to fix long-standing inefficiencies in the travel industry. Travel agencies struggle with constant fare changes, complex refund rules, and customer support demands, made worse by staffing shortages and outdated systems. Travelers, in turn, face fragmented, frustrating experiences, especially when changing plans or trying to get help.\nOur platform tackles this by using AI to interpret live travel data like fare rules, schedule changes, and refund policies, and automatically take action. That might mean updating a booking, applying a new policy, or notifying agents of a change, all without manual input. This keeps systems current and frees up human agents to focus on higher-value work, helping agencies stay responsive even under pressure. Acai powers the back-end systems that agencies and corporate booking tools rely on, doing the behind-the-scenes work that makes travel smoother and more scalable.\nKertai: Where does your platform get its data, and how does it adapt to changes?\nVittoria: Acai pulls live data from global distribution systems, airline websites, and newer airline feeds built to support more personalized bookings, known as New Distribution Capability, or NDC. These sources provide the latest fare rules, schedules, refund policies, and other key details. Acai verifies and applies this data automatically, so agents and systems always stay up to date without needing manual fixes.\nWhat makes Acai different is how it handles change. Instead of relying on hard-coded rules or delayed system updates, Acai connects directly to tools like booking platforms, traveler profiles, and revenue management systems, allowing them to communicate through AI. When something shifts—like a new fare rule or pricing logic—the platform adapts instantly, updating every system it touches. It’s a flexible, real-time layer that keeps the entire travel workflow aligned, much like a human agent would, but faster and more reliably.\nKertia: Do your solutions include any front-facing tools that directly interact with travelers, and if so, how is the AI’s role communicated?\nVittoria: Yes, Acai Travel does offer solutions that enable direct, front-facing interactions with travelers, such as intelligent chat interfaces, self-service portals, and post-booking support tools. These allow travel agencies and corporate users to make changes, request refunds, or get real-time updates by interacting directly with the system, without needing to go through a live agent.\nTransparency is essential. We always let users know when they’re interacting with our platform’s AI systems. Interestingly, many prefer using the tools than being directed to human agents. Travelers are looking for fast, accurate solutions, and when the system delivers, most are happy to skip the wait and resolve their issue on the spot. After more than a decade building AI systems for travel, we’ve learned that success isn’t about imitating a person, it’s about solving real problems, quickly and reliably.\nKertai: How does your AI system decide when to send a case to a human agent?\nVittoria: Acai uses a dual-agent system designed to manage customer interactions more intelligently. One AI agent handles the task at hand, whether it’s processing a change, resolving a booking issue, or answering a support request, while a second, supervisory AI oversees the entire interaction in real-time. This supervisor monitors customer sentiment, detects urgency, and watches for potential service-level risks.\nIf it senses frustration or a request to speak with a human, it immediately escalates the issue to the appropriate person, whether a support rep, team lead, or manager. It integrates directly with tools like Salesforce, Zendesk, Genesys, and Microsoft Outlook to ensure handoffs are seamless. By coordinating these actions, the system operates autonomously when possible, but knows exactly when to bring in a human, delivering both speed and a personalized touch.\nKertai: Where do you see Acai Travel in the future of the travel industry?\nVittoria: We envision Acai at the center of a more coordinated, responsive travel ecosystem. With Acai, we aim to connect these systems through real-time, AI-powered coordination, allowing tools to “listen” to each other and adapt dynamically. Instead of relying on rigid, pre-defined logic, our agentic AI helps systems communicate and collaborate, much like a conductor guiding musicians into harmony. That’s the future we’re building: smart platforms working together to create smooth, intuitive experiences across the entire travel journey.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->computing and information technology",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Social Issue->demographics",
+    "Social Issue->social networking",
+    "Social Issue->adults"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.acaitravel.com/",
+    "https://www.acaitravel.com",
+    "https://acaitravel.com/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Riccardo Vittoria",
+        "sentiment": "negative"
+      },
+      {
+        "name": "David Kertai",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T07:36:20.030+03:00",
+  "updated": "2025-07-31T07:40:13.000+03:00"
+}

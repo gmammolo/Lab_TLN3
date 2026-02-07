@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "ce071a2b6ee7e819b17636d9beb88af2e8d1d421",
+    "url": "https://english.news.cn/europe/20250911/56930c5f43aa4feebeba4fffd3c9ff99/c.html",
+    "site_full": "english.news.cn",
+    "site": "news.cn",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": "新华网_让新闻离你更近",
+    "title": "Ukraine says drone strike disables Russian Black Sea Fleet ship-Xinhua",
+    "title_full": "Ukraine says drone strike disables Russian Black Sea Fleet ship-Xinhua",
+    "published": "2025-09-11T13:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 948,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ce071a2b6ee7e819b17636d9beb88af2e8d1d421",
+  "url": "https://english.news.cn/europe/20250911/56930c5f43aa4feebeba4fffd3c9ff99/c.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-09-11T13:23:00.000+03:00",
+  "title": "Ukraine says drone strike disables Russian Black Sea Fleet ship-Xinhua",
+  "text": "KIEV, Sept. 11 (Xinhua) -- Ukraine's defense ministry said Thursday that it has disabled a Russian Black Sea Fleet vessel in a drone strike.\nThe ministry's Main Intelligence Directorate said in a statement that its special forces carried out the attack on Wednesday.\nIn the strike by a Ukrainian-made combat drone, the MPSV07 multipurpose salvage ship was tracked and hit when conducting reconnaissance and patrolling operations near the Russian port of Novorossiysk, it said.\nThe statement said the strike destroyed the Russian vessel's control bridge that hosts the navigation and communication equipment.\nThe MPSV07 ship is worth about 60 million U.S. dollars and was commissioned into service in 2015, it added. ■\nEXPLORE XINHUANET",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Politics"
+  ],
+  "topics": [
+    "War, Conflict and Unrest->war",
+    "Politics->defence",
+    "Politics->international relations"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Xinhua",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "603888",
+            "exchange": "SHA"
+          }
+        ]
+      },
+      {
+        "name": "Main Intelligence Directorate",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "ce071a2b6ee7e819b17636d9beb88af2e8d1d421",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-09-11T13:48:17.233+03:00",
+  "updated": "2025-09-11T13:52:28.000+03:00"
+}

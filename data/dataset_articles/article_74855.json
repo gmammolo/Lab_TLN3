@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "da7500bcced278478bb4e92f8e7ffbf80132f050",
+    "url": "https://cybersecuritynews.com/2000-palo-alto-firewalls-hacked",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://www.cybersecuritynews.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "2000+ Palo Alto Firewalls Hacked Exploiting New Vulnerabilities",
+    "title_full": "2000+ Palo Alto Firewalls Hacked Exploiting New Vulnerabilities",
+    "published": "2024-11-22T04:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 56464,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "da7500bcced278478bb4e92f8e7ffbf80132f050",
+  "url": "https://cybersecuritynews.com/2000-palo-alto-firewalls-hacked",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T04:11:00.000+02:00",
+  "title": "2000+ Palo Alto Firewalls Hacked Exploiting New Vulnerabilities",
+  "text": "Over 2,000 Palo Alto Networks firewalls have been compromised in a widespread attack exploiting recently patched vulnerabilities.\nThe attack, which began in mid-November 2024, has raised alarm bells across the cybersecurity community and highlighted the critical importance of prompt patching and secure configuration practices.\nThe attackers exploited two key vulnerabilities in Palo Alto Networks’ PAN-OS software:\nCVE-2024-0012 : A critical authentication bypass flaw with a severity rating of 9.3 out of 10.0. CVE-2024-9474 : A medium-severity privilege escalation vulnerability rated 6.9 out of 10.0. When chained together, these vulnerabilities allow unauthenticated attackers to gain root access to affected devices, potentially compromising entire networks.\nLeveraging 2024 MITRE ATT&CK Results for SME & MSP Cybersecurity Leaders – Attend Free Webinar\nDubbed “Operation Lunar Peek” by Palo Alto Networks’ Unit 42 research team, the attack campaign has been ongoing since early November. Threat actors have been observed dropping malware and executing commands on compromised firewalls, indicating the likely availability of a public exploit chain.\nShadowserver, a threat monitoring platform, reported tracking over 2,700 vulnerable PAN-OS devices, with approximately 2,000 confirmed as compromised.\nHeads-up! Thanks to collaboration with @NCA_KSA\nwe are now scanning & reporting Palo Alto Networks devices COMPROMISED as a result of a CVE-2024-0012/CVE-2024-9474 campaign.\nFound ~2000 instances compromised on 2024-11-20: https://t.co/7t95RBKdxr\nTop affected: US & India pic.twitter.com/Ors5jhMMxz\n— The Shadowserver Foundation (@Shadowserver) November 21, 2024 However, Palo Alto Networks has suggested that the actual number of affected devices may be lower, stating that less than half a percent of their deployed firewalls have internet-exposed management interfaces.\nThe vulnerabilities affect various Palo Alto Networks products running PAN-OS, including:\nNext-generation firewalls Panorama appliances (firewall management) WildFire appliances (sandbox systems for file analysis) Palo Alto Networks has issued patches for the vulnerabilities and strongly advises customers to secure their firewalls’ management interfaces by restricting access to trusted internal IP addresses.\nThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added both vulnerabilities to its Known Exploited Vulnerabilities Catalog, requiring federal agencies to patch their firewalls by December 9, 2024.\nThis incident underscores the critical nature of network security devices and the potential for widespread impact when such devices are compromised. It also highlights the ongoing challenge of securing internet-exposed management interfaces, which continue to be attractive targets for cybercriminals.\nAs the situation develops, cybersecurity experts urge organizations to remain vigilant, implement recommended security measures, and ensure their Palo Alto Networks devices are promptly updated to the latest patched versions.\nAre you from SOC/DFIR Teams? – Analyse Malware & Phishing with ANY.RUN -> Try for Free",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://security.paloaltonetworks.com/CVE-2024-0012",
+    "https://t.co/Ors5jhMMxz",
+    "https://t.co/7t95RBKdxr",
+    "https://twitter.com/Shadowserver/status/1859532378508570931?ref_src=twsrc%5Etfw",
+    "https://twitter.com/NCA_KSA?ref_src=twsrc%5Etfw",
+    "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://security.paloaltonetworks.com/CVE-2024-9474",
+    "https://go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://go.cynet.com/mitre_2024",
+    "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+    "https://twitter.com/NCA_KSA",
+    "https://www.go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+    "https://www.twitter.com/Shadowserver/status/1859532378508570931?ref_src=twsrc%5Etfw",
+    "https://www.security.paloaltonetworks.com/CVE-2024-9474",
+    "https://www.t.co/7t95RBKdxr",
+    "https://twitter.com/Shadowserver/status/1859532378508570931",
+    "https://www.security.paloaltonetworks.com/CVE-2024-0012",
+    "https://www.t.co/Ors5jhMMxz",
+    "https://www.twitter.com/NCA_KSA?ref_src=twsrc%5Etfw",
+    "https://app.any.run/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T06:07:34.897+02:00",
+  "updated": "2024-11-22T06:07:34.897+02:00"
+}

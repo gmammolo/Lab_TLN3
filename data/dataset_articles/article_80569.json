@@ -1,0 +1,85 @@
+{
+  "thread": {
+    "uuid": "53b503ffecf54f3720b83ba068124a3f8bbe23f2",
+    "url": "https://ubuntuhandbook.org/index.php/2021/08/gthumb-3-11-4-avif-heif-support/",
+    "site_full": "ubuntuhandbook.org",
+    "site": "ubuntuhandbook.org",
+    "site_section": "https://ubuntuhandbook.org/",
+    "site_categories": [
+      "unix",
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "UbuntuHandbook | News, Tutorials, Howtos for Ubuntu Linux",
+    "title": "gThumb Image Viewer & Organizer 3.11.4 Adds AVIF/HEIF Support [PPA] | UbuntuHandbook",
+    "title_full": "gThumb Image Viewer & Organizer 3.11.4 Adds AVIF/HEIF Support [PPA] | UbuntuHandbook",
+    "published": "2024-01-05T07:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 74574,
+    "domain_rank_updated": "2024-01-02T12:06:53.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "53b503ffecf54f3720b83ba068124a3f8bbe23f2",
+  "url": "https://ubuntuhandbook.org/index.php/2021/08/gthumb-3-11-4-avif-heif-support/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ji m",
+  "published": "2024-01-05T07:00:00.000+02:00",
+  "title": "gThumb Image Viewer & Organizer 3.11.4 Adds AVIF/HEIF Support [PPA] | UbuntuHandbook",
+  "text": "The GNOME image viewer and organizer app, gThumb 3.11.4 was released! PPA updated with Ubuntu 18.04, Ubuntu 20.04, Ubuntu 21.04, and upcoming Ubuntu 21.10 support. Thanks to libheif library, the new release introduced HEIF file format support, so it can now handle photos imported from your iOS devices. Also AVIF, an image file format specification for storing images or image sequences compressed with AV1 in the HEIF file format is supported, and you can save file as AVIF. There’s a performance improvement for browsing directory with thousands of images, so users will get a smoother experience. The file list now starts more thumbnailers in parallel, status bar has a button to show the progress dialog. And the color picker tool shows colors in two more formats: rgb in % and hsl. Other changes include: - Allow to set shortcuts to activate filters. - Added a template editor to edit text values with special codes: script commands, rename templates, print header and footer, etc. - Allow to mount unmounted volumes. - Allow to keep browsing while executing long-running external tools. - Show the properties in a single column to save horizontal space. - Bug-fixes and translation updates. How to Install gThumb 3.11.4 in Ubuntu: The software lacks a repository for Ubuntu packages. Besides building from the source tarball, I’ve made the packages into the [unofficial PPA](https://launchpad.net/~ubuntuhandbook1/+archive/ubuntu/apps) for Ubuntu 18.04, Ubuntu 20.04, Ubuntu 21.04, Ubuntu 21.10, Linux Mint 20 and derivatives. 1.) Add the PPA To add the PPA, open terminal either from the ‘show applications’ menu or by pressing Ctrl+Alt+T on keyboard. When terminal opens, run command: sudo add-apt-repository ppa:ubuntuhandbook1/apps 2.) Install / Upgrade gThumb You can then either upgrade the image viewer from an old version via Update Manager (Software Updater), or run command in terminal: sudo apt install gthumb NOTE for Linux Mint, you have to run sudo apt update to refresh package cache first. Uninstall gThumb & the Ubuntu PPA To remove gThumb image viewer, run command: sudo apt remove --autoremove gthumb gthumb-data To remove the Ubuntu PPA, either run the apt-add-repository command with --remove flag, or use Software & Updates -> Other Software.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Arts, Culture and Entertainment"
+  ],
+  "external_links": [
+    "https://launchpad.net/~ubuntuhandbook1/+archive/ubuntu/apps)",
+    "https://www.launchpad.net/~ubuntuhandbook1/+archive/ubuntu/apps)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "ppa",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-06T03:55:19.426+02:00",
+  "updated": "2024-01-06T03:55:19.426+02:00"
+}

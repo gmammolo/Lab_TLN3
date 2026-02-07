@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "6433e222b5021eb35e412f748b26d77b31e74644",
+    "url": "https://static.ren.tv/news/proisshestviia/1330256-ukrainka-razgromila-arendovannuiu-kvartiru-za-god-zhizni-v-tailande",
+    "site_full": "static.ren.tv",
+    "site": "ren.tv",
+    "site_section": "https://static.ren.tv/news",
+    "site_categories": [],
+    "section_title": "Новости дня — последние и главные новости в России и мире сегодня на РЕН ТВ",
+    "site_title": "Новости — наше призвание на РЕН ТВ",
+    "title": "Украинка за год разгромила арендованную квартиру в Таиланде",
+    "title_full": "Украинка за год разгромила арендованную квартиру в Таиланде",
+    "published": "2025-05-01T06:59:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://cdn.ren.tv/cache/1200x630/media/img/93/6f/936f084646511e0c88d661f9d41649fae4eb8d61.jpg",
+    "performance_score": 0,
+    "domain_rank": 10620,
+    "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6433e222b5021eb35e412f748b26d77b31e74644",
+  "url": "https://static.ren.tv/news/proisshestviia/1330256-ukrainka-razgromila-arendovannuiu-kvartiru-za-god-zhizni-v-tailande",
+  "ord_in_thread": 0,
+  "author": "@rentvchannel",
+  "published": "2025-05-01T06:59:00.000+03:00",
+  "title": "Украинка за год разгромила арендованную квартиру в Таиланде",
+  "text": "Украинка разгромила арендованную квартиру за год проживания на Пхукете в Таиланде. Об этом сообщила владелец имущества в социальной сети Facebook*.\n\"У меня сняли квартиру на год, клиент из Украины. Мой агент по недвижимости прислал мне фотографию. Сначала я сильно заплакала\", – написала она.\nТакже хозяйка квартиры пообещала рассказать все подробности инцидента. К делу уже подключили местную полицию.\nРанее, 30 декабря 2024 года, украинский беженец с топором напал на полицейских в Германии.\n* Корпорация Meta Platforms, которой принадлежат Facebook, Instagram, WhatsApp и Oculus, признана в РФ экстремистской организацией, ее деятельность запрещена на территории РФ/\n(function() { var sc = document.createElement('script'); sc.type =\n'text/javascript'; sc.async = true; sc.src =\n'//jsn.24smi.net/smi.js'; sc.charset = 'utf-8'; var s =\ndocument.getElementsByTagName('script')[0];\ns.parentNode.insertBefore(sc, s); }());\n(function() { var sc = document.createElement('script');\nsc.type = 'text/javascript'; sc.async = true; sc.src =\n'//jsn.24smi.net/smi.js'; sc.charset = 'utf-8'; var s =\ndocument.getElementsByTagName('script')[0];\ns.parentNode.insertBefore(sc, s); }());\nvar checkIsTestPage = false;\nvar isTest = checkIsTestPage;\nvar init_adfox_under_article_desktop_1330256 = function() {\n// puid2: '229103',\nif (window.Ya && window.Ya.adfoxCode) {\nvar params = isTest ? {\np1: 'ddomg',\np2: 'ffnu'\n} : {\np1: 'bzorw',\np2: 'fulf',\npuid8: window.localStorage.getItem('puid8'),\npuid12: '186107',\npuid21: 1,\npuid26: window.localStorage.getItem('puid26'),\npuid4: 'ren.tv',\n};\nconst pk = window.localStorage.getItem('pk');\nif (pk) {\nparams.pk = pk;\nparams.pke = '1';\n}\nvar existBidding = window.Ya?.headerBidding.getBidsReceived().map(elm => elm.containerId) || []\nvar elementId = isTest ? 'adfox_172319719459163455_1330256' : 'adfox_151870620891737873_1330256'\nif (window.Ya.headerBidding && !existBidding.includes(elementId)) {\nwindow.Ya.headerBidding.pushAdUnits([\n{\n\"code\": elementId,\n\"bids\": [\n{\"bidder\": \"adriver\", \"params\": {\"placementId\": \"30:rentv_970x250_mid\"}},\n{\"bidder\": \"bidvol\", \"params\": {\"placementId\": \"37226\"}},\n{\"bidder\": \"sape\", \"params\": {\"placementId\": \"836081\"}},\n{\"bidder\": \"hybrid\", \"params\": {\"placementId\": \"6602ab127bc72f23c0325b09\"}},\n{\"bidder\": \"adfox_adsmart\", \"params\": {\n\"pp\": \"h\",\n\"ps\": \"doty\",\n\"p2\": \"ul\",\n\"puid20\": \"\"\n}}\n],\n\"sizes\": [[970,250],[728,250],[728,90],[990,90],[990,250]]\n}\n]);\n}\nwindow.yaContextCb?.push(() => {\nYa.adfoxCode.createScroll({\nownerId: checkIsTestPage ? 241452 : 264443,\ncontainerId: elementId,\nparams: params,\nlazyLoad: true,\n}, ['desktop', 'tablet'], {\ntabletWidth: 1104,\nphoneWidth: 576,\nisAutoReloads: false\n});\n});\n}\n}\nif (window.Ya && window.Ya.adfoxCode) {\ninit_adfox_under_article_desktop_1330256();\n} else {\ndocument.addEventListener('adfoxload', event => {\ninit_adfox_under_article_desktop_1330256();\n});\n}\n(window.smiq = window.smiq || []).push({});",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Social Issue->social condition",
+    "Social Issue->social problem",
+    "Lifestyle and Leisure->house and home",
+    "Lifestyle and Leisure->travel and tourism"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-05-01T07:08:50.035+03:00",
+  "updated": "2025-05-01T04:12:13.000+00:00"
+}

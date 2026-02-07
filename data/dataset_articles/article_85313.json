@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "d58078d8ce70580aa3f8cf048a17f1d6f9c2aa86",
+    "url": "https://www.researchsquare.com/article/rs-7028381/v1",
+    "site_full": "www.researchsquare.com",
+    "site": "researchsquare.com",
+    "site_section": "https://www.researchsquare.com/browse",
+    "site_categories": [],
+    "section_title": "Browse Preprints | Research Square",
+    "site_title": "Home | Research Square",
+    "title": "Whole-Genome Deep Learning Predicts Chemotherapy Response in Colorectal Cancer | Research Square",
+    "title_full": "Whole-Genome Deep Learning Predicts Chemotherapy Response in Colorectal Cancer | Research Square",
+    "published": "2025-07-31T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 6370,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d58078d8ce70580aa3f8cf048a17f1d6f9c2aa86",
+  "url": "https://www.researchsquare.com/article/rs-7028381/v1",
+  "ord_in_thread": 0,
+  "author": "Hossein Sadeghi",
+  "published": "2025-07-31T03:00:00.000+03:00",
+  "title": "Whole-Genome Deep Learning Predicts Chemotherapy Response in Colorectal Cancer | Research Square",
+  "text": "Chemotherapy response in colorectal cancer (CRC) exhibits significant heterogeneity, with current clinical predictors failing to capture complex genomic determinants of resistance. We developed a hybrid deep learning framework integrating convolutional neural networks (CNNs) and bidirectional long short-term memory (BiLSTM) networks to analyze whole-genome somatic mutations, evolutionary conservation, chromatin accessibility, and 3D genome architecture in 2,546 TCGA patients. An attention mechanism identified predictive genomic regions. The model achieved an AUC of 0.92 (95% CI: 0.89–0.94) in cross-validation and 0.88 (95% CI: 0.85–0.91) in independent validation, outperforming clinical models (ΔAUC = +0.18, p <0.001). Key predictors included non-coding variants in TP53, KRAS, and PIK3CA regulatory regions. Triple-positive patients (mutations in all 3 regions) had significantly worse progression free survival (HR = 4.7, p < 0.001). Our framework enables accurate chemotherapy response prediction and reveals novel non-coding resistance mechanisms, advancing precision oncology in CRC.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->medical research",
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific publication"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "KRAS",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-31T08:09:32.153+03:00",
+  "updated": "2025-07-31T08:12:07.000+03:00"
+}

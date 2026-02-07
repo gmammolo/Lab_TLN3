@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "b00e56a9b9098a703685471f711140c256041f43",
+    "url": "https://www.csoonline.com/article/3732107/ivanti-zero-day-exploited-by-apt-group-that-previously-targeted-connect-secure-appliances.html",
+    "site_full": "www.csoonline.com",
+    "site": "csoonline.com",
+    "site_section": "https://www.csoonline.com/awards",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Awards | CSO Online",
+    "title": "Ivanti zero-day exploited by APT group that previously targeted Connect Secure appliances | CSO Online",
+    "title_full": "Ivanti zero-day exploited by APT group that previously targeted Connect Secure appliances | CSO Online",
+    "published": "2025-01-10T01:43:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.csoonline.com/wp-content/uploads/2025/01/3732107-0-36432500-1736467457-shutterstock_2372690397.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 2680,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b00e56a9b9098a703685471f711140c256041f43",
+  "url": "https://www.csoonline.com/article/3732107/ivanti-zero-day-exploited-by-apt-group-that-previously-targeted-connect-secure-appliances.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "lconstantin",
+  "published": "2025-01-10T01:43:00.000+02:00",
+  "title": "Ivanti zero-day exploited by APT group that previously targeted Connect Secure appliances | CSO Online",
+  "text": "Vulnerability revealed by Ivanti has been exploited by the same group that targeted Connect Secure from January 2024.\nCredit: janews / Shutterstock Researchers from Google’s Mandiant division believe the critical remote code execution vulnerability patched on Wednesday by software vendor Ivanti has been exploited since mid-December by a Chinese cyberespionage group. This is the same group that has exploited zero-day vulnerabilities in Ivanti Connect Secure appliances back in January 2024 and throughout the year.\nThe latest attacks, exploiting the new CVE-2025-0282 flaw , involved the deployment of multiple malware components from a toolkit dubbed SPAWN that Mandiant attributes to a cluster of activity tracked as UNC5337, which the company suspects is related to another group tracked as UNC5221.\n“​​UNC5221 is a suspected China-nexus espionage actor that exploited vulnerabilities CVE-2023-46805 and CVE-2024-21887, which impacted Ivanti Connect Secure VPN and Ivanti Policy Security appliances as early as December 2023,” the Mandiant researchers said in a report . “Additionally, Mandiant previously observed UNC5221 leveraging a likely ORB network of compromised Cyberoam appliances to enable intrusion operations.”\nThe SPAWN family of custom malware tools, some of which are specifically designed to interact with Connect Secure features and code, include the SPAWNANT installer, SPAWNMOLE tunneler, the SPAWNSNAIL SSH backdoor and the SPAWNSLOTH log tampering utility. In addition to these known tools that have been used in past Ivanti compromises, the latest attacks also involved never before seen components such as a credential harvester dubbed DRYHOOK and a malware dropper called PHASEJAM.\nMalware prevents legitimate upgrades In its security advisory, Ivanti directed customers to perform a factory reset on appliances before deploying the patched 22.7R2.5 version. The company did not go into details as to why but based on Mandiant’s analysis it’s because of the PHASEJAM dropper which modifies multiple legitimate Connect Secure components, including the one responsible for system upgrades. It does this in order to block and then simulate upgrades in a visually convincing way, even displaying the new version number at the end of the process.\n“The first technique, utilized by PHASEJAM, prevents legitimate ICS [Ivanti Connect Secure] system upgrade attempts by administrators via rendering a fake HTML upgrade progress bar while silently blocking the legitimate upgrade process,” the Mandiant researchers explain. “Due to the blocked upgrade attempt, the technique would allow any installed backdoors or tools left by the threat actor to persist on the current running version of the VPN while giving the appearance of a successful upgrade.”\nPHASEJAM also modifies legitimate files from the ICS web interface in order to inject a web shell that gives attackers remote access to the device, the ability to execute additional malicious code and to exfiltrate data from the device.\nPHASEJAM comes in the form of a bash script and is deployed as a payload following the initial exploit for CVE-2025-0282 after some preparation steps that involve disabling the SELinux protections of the OS, blocking system log collection and remounting the root partition as writable so its files can be modified.\nFollowing the exploitation, the attackers perform several steps to remove evidence of the attack including clearing kernel messages and removing entries from debug logs, deleting troubleshoot information packages and any memory core dumps generated by crashes that could be used in forensics analysis, removing application event log entries related to various failures, crashes and certificate handling errors, and clearing the SELinux audit log of executed commands.\nPersistence across upgrades In addition to blocking and simulating upgrades, the attackers deploy a mechanism to survive legitimate upgrades if they do happen. Normally the root partition is wiped during an upgrade as it’s supposed to be read-only, so the attackers hijack the execution flow of dspkginstall, a legitimate utility used during the upgrade process, in order to copy several malicious components to the temporary upgrade partition that’s mounted on /tmp/data/.\n“SPAWNANT establishes an additional method of backdoor access by writing a web shell into compcheckresult.cgi on the upgrade partition,” the researchers explained. “The web shell uses system() to execute the value passed to a hard-coded query parameter.”\nSPAWNANT has three components: the SPAWNMOLE tunneler (libsocks5.so), the SPAWNSNAIL SSH backdoor (libsshd.so) and the SPAWNSLOTH log tampering utility (.liblogblock.so). It also tricks the Ivanti Integrity Checker Tool (ICT) by recalculating the SHA256 hash for any files it has modified and generates a new RSA key pair to sign the modified manifest that the ICT uses for integrity checking.\nMandiant notes that there is still a way to tell successful and correct ICT reports from tampered ones due to the number of steps listed. Screenshots with the differences are provided in their analysis.\nLateral movement and credential theft The APT group uses built-in command line tools such as nmap and dig to perform network reconnaissance and tries to perform LDAP queries using the LDAP service account or to access Active Directory servers, through SMB and RDP.\nA Python script dubbed DRYHOOK modifies a system component called DSAuth.pm to intercept legitimate authentications on the appliance and log credentials. Separately, the attackers attempt to exfiltrate the appliance database which contains VPN session cookies, API keys, certificates and credential material.\n“Mandiant assesses that defenders should be prepared for widespread, opportunistic exploitation, likely targeting credentials and the deployment of web shells to provide future access,” the researchers said. “Additionally, if proof-of-concept exploits for CVE-2025-0282 are created and released, Mandiant assesses it is likely additional threat actors may attempt targeting Ivanti Connect Secure appliances.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->cyber crime",
+    "Politics->government policy",
+    "Politics->safety of citizens",
+    "Politics->regulation of industry"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day?e=48754805",
+    "https://www.cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day?e=48754805",
+    "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "b00e56a9b9098a703685471f711140c256041f43",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2025-01-10T02:37:40.561+02:00",
+  "updated": "2025-01-11T20:42:45.472+02:00"
+}

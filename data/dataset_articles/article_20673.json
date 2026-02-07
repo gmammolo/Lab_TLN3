@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "4755ba4561972a08aa7c562d2af39c99a0883426",
+    "url": "https://efe.com/medio-ambiente/2025-12-11/alerta-amarilla-lluvias-oleaje-nieblas/",
+    "site_full": "efe.com",
+    "site": "efe.com",
+    "site_section": "https://efe.com/",
+    "site_categories": [],
+    "section_title": "EFE - Agencia de noticias",
+    "site_title": "EFE - Agencia de noticias",
+    "title": "Galicia en alerta por lluvias y oleaje y otras cuatro comunidades con avisos por nieblas",
+    "title_full": "Galicia en alerta por lluvias y oleaje y otras cuatro comunidades con avisos por nieblas",
+    "published": "2025-12-11T09:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://efe.com/wp-content/uploads/2025/12/GALICIA-OLEAJEjpg.webp",
+    "performance_score": 0,
+    "domain_rank": 17140,
+    "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4755ba4561972a08aa7c562d2af39c99a0883426",
+  "url": "https://efe.com/medio-ambiente/2025-12-11/alerta-amarilla-lluvias-oleaje-nieblas/",
+  "ord_in_thread": 0,
+  "author": "Mar Monreal",
+  "published": "2025-12-11T09:34:00.000+02:00",
+  "title": "Galicia en alerta por lluvias y oleaje y otras cuatro comunidades con avisos por nieblas",
+  "text": "Madrid (EFE).- Galicia está en alerta amarilla (riesgo para ciertas actividades) por lluvias de más de 15 litros por metro cuadrado en una hora además de temporal marítimo, a la que se suman otras cuatro comunidades bajo aviso por nieblas que dejarán escasa visibilidad en zonas dispersas hasta el mediodía.\nLas lluvias serán especialmente intensas en Rías Baixas (Pontevedra) y en A Coruña de forma extensa, en donde las acumulaciones podrán superar en doce horas 40 litros por metro cuadrado, según las predicciones de la Agencia Estatal de Meteorología (Aemet).\nAdemás A Coruña, está en alerta amarilla por temporal marítimo en el noroeste y oeste con riesgo de olas de 4 a 5 metros, principalmente mar de fondo.\nNieblas en el noreste En cuanto a la niebla, zonas dispersas de Aragón, Cataluña, Navarra y La Rioja se mantendrán en alerta amarilla hasta las 12 horas, por baja visibilidad en 200 metros.\nEn concreto, el sur de Huesca, la ribera del Ebro de Zaragoza, de Navarra y de La Rioja y además la depresión central de Lleida y de Tarragona.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Environment"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather warning",
+    "Environment->water"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Rías Baixas",
+        "sentiment": "none"
+      },
+      {
+        "name": "Navarra",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "EFE",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "EFE",
+            "exchange": "ASX"
+          }
+        ]
+      },
+      {
+        "name": "Agencia Estatal de Meteorología",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-11T10:17:02.578+02:00",
+  "updated": "2025-12-11T10:21:34.000+02:00"
+}

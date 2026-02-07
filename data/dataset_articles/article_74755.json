@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "63d745f7a3dd37754d0eec6862357a50586ef314",
+    "url": "https://securityboulevard.com/2024/11/the-persistent-threat-of-ransomware-and-how-businesses-can-protect-themselves",
+    "site_full": "securityboulevard.com",
+    "site": "securityboulevard.com",
+    "site_section": "https://www.securityboulevard.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Home - Security Boulevard",
+    "title": "The Persistent Threat of Ransomware and How Businesses Can Protect Themselves",
+    "title_full": "The Persistent Threat of Ransomware and How Businesses Can Protect Themselves",
+    "published": "2024-11-21T16:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10425,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "63d745f7a3dd37754d0eec6862357a50586ef314",
+  "url": "https://securityboulevard.com/2024/11/the-persistent-threat-of-ransomware-and-how-businesses-can-protect-themselves",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alberto Casares",
+  "published": "2024-11-21T16:38:00.000+02:00",
+  "title": "The Persistent Threat of Ransomware and How Businesses Can Protect Themselves",
+  "text": "Introduction: Ransomware Landscape for Businesses In recent years, ransomware has become one of the most pervasive cybersecurity threats , inflicting substantial losses on businesses globally. With an increasing number of organizations, from manufacturing to healthcare, falling victim to cyber extortion schemes, attackers are evolving their strategies to maximize impact. Notably, many of these attacks leverage infostealers—a type of malware designed to covertly harvest sensitive information, which is later used to facilitate ransomware operations. This blog delves into recent trends in ransomware, examining how cybercriminals exploit stolen data and the potential costs for organizations that become ensnared in these schemes.\nConstella’s Analysis on Recent Ransomware and Data Exposures Overview of Breaches and Infostealers Ransomware attacks have escalated across various high-value industries, exploiting their unique vulnerabilities:\nManufacturing : Among the most affected sectors due to its reliance on complex data flows and interdependent supply chains. Disruptions in this industry can lead to cascading operational failures across global supply networks. Healthcare : A prime target for its critical systems containing life-saving information and sensitive patient data. Ransomware in this sector poses heightened risks, as providers are often forced to pay ransoms to restore services promptly. Technology : Targeted for its valuable intellectual property and business-critical information. Breaches can disrupt innovation, compromise trade secrets, and damage competitive advantages, as well as compromise access to key security tools relied upon by other companies, amplifying the ripple effect of such attacks. Retail and Finance : Cybercriminals exploit these sectors for their vast repositories of consumer data and financial assets. Stolen data is often sold on the dark web or used for fraud and identity theft. Ransomware incidents have a global footprint, with certain countries and regions experiencing elevated risks:\nUnited States : The most affected country, facing frequent ransomware incidents across critical infrastructure, financial institutions, and healthcare systems. Extensive digital connectivity and high concentrations of essential services make the U.S. an attractive target for cybercriminals. Disruptions not only impact economic stability but also compromise key security platforms, potentially weakening defenses across industries. India : Rapidly expanding digital infrastructure creates multiple vulnerabilities, offering attackers numerous points of entry. Growth in technology and finance sectors increases exposure to ransomware threats. Canada, United Kingdom, and Australia : These countries share similar dependencies on digital infrastructure as the U.S., making them attractive targets for cybercriminals. Critical industries and public services in these nations are frequently disrupted by ransomware attacks, with increasing concerns about attackers exploiting security software providers. Germany : A significant manufacturing hub, Germany’s strong industrial sector makes it particularly susceptible to supply chain disruptions caused by ransomware. Breaches in Germany’s tech-driven industries could compromise tools essential for securing other companies, magnifying the impact of an attack. The analysis further indicates that breaches involving stolen credentials—many gathered through infostealers—affect more than 86% of recently compromised companies. Specifically, 34.6% of breached organizations reported exposure to infostealer infections, illustrating how attackers infiltrate networks via seemingly legitimate entry points. This data underscores the necessity for robust cybersecurity measures to counteract these sophisticated threats.\nHow Infostealers Facilitate Ransomware Deployment Within Organizations Infostealers play a pivotal role in ransomware operations, acting as the silent enablers that pave the way for attackers to infiltrate and compromise organizations. By harvesting credentials and other sensitive information, infostealers provide the initial access points necessary for deploying ransomware.\nInfostealers frequently collect session cookies, allowing attackers to bypass authentication mechanisms entirely. This facilitates a rapid ransomware deployment process by giving attackers immediate access to critical systems without triggering security alerts.\nOn the other hand, infostealers extract credentials for VPNs, remote desktops, email accounts, and administrative tools. These credentials are often used to bypass security measures, such as firewalls and multi-factor authentication, granting attackers unrestricted access to an organization’s internal systems. Once inside, they can escalate privileges and move laterally across the network to identify valuable data and critical systems.\nBelow are real-world examples that highlight how infostealers are weaponized to infiltrate various organizational systems:\nVPN Access :\nCompromised VPN credentials can grant hackers a secure entry point into a company’s internal network. A notable example is the $22 million Change Healthcare ransomware incident , where attackers leveraged stolen VPN credentials to infiltrate the network, escalate privileges, and exfiltrate sensitive data before executing the ransomware. Corporate Webmail:\nHackers exploit stolen email credentials to extract confidential information from employee mailboxes. A high-profile case involved the Argentine police , where hackers obtained over 12,000 police contact details using compromised webmail access. Collaboration Tools:\nPlatforms like GitHub, Confluence, and Slack house critical company data. The EA Sports breach , which resulted in the theft of 780 GB of source code, exemplifies the risks associated with infostealer-compromised collaboration accounts. Cloud Services :\nAs businesses increasingly rely on cloud platforms, credentials for AWS, GCP, and Azure have become prime targets. A large-scale breach involving Snowflake impacted 165 organizations, including major firms such as AT&T , affecting millions of end users worldwide. Economic Impact and Costs of Ransomware Attacks The financial toll of ransomware extends beyond ransom payments, impacting business operations, customer trust, and regulatory compliance. In the case of Change Healthcare, the breach’s overall cost reached an estimated $22 million. Globally, ransomware has already cost organizations billions, with damages encompassing lost productivity, legal fees, and system recovery expenses. The threat is also reputational, as customers and stakeholders scrutinize data protection efforts following a breach.\nHow Constella Helps Companies Protect and Prevent Attacks Infostealers are increasingly being used as a precursor to ransomware attacks, making early detection and mitigation critical to organizational security. Constella’s comprehensive approach ensures that any compromised credentials from infostealer infections, including compromised session cookies, are detected and alerted before they can be leveraged by attackers. By identifying these threats early, Constella.ai helps prevent credential abuse and cookie session hijacking attacks, which are commonly used to bypass authentication and escalate ransomware operations.\nBy combining advanced monitoring , real-time alerts , and proactive defense measures , Constella empowers organizations to protect their networks, data, and reputation from the dual threats of infostealers and ransomware, ensuring a robust line of defense against these evolving cyber threats.\n*** This is a Security Bloggers Network syndicated blog from Constella Intelligence authored by Alberto Casares . Read the original post at: https://constella.ai/the-persistent-threat-of-ransomware/",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://constella.ai",
+    "https://constella.ai/the-resurgence-of-infostealers/",
+    "https://constella.ai/insider-threats-the-disconnect-between-cybersecurity-threats-and-the-actual-risk-posed-by-malicious-insiders/",
+    "https://constella.ai/the-persistent-threat-of-ransomware/",
+    "https://constella.ai/insider-threats-the-disconnect-between-cybersecurity-threats-and-the-actual-risk-posed-by-malicious-insiders",
+    "https://constella.ai/the-resurgence-of-infostealers",
+    "https://www.constella.ai/the-persistent-threat-of-ransomware/",
+    "https://www.constella.ai/the-resurgence-of-infostealers/",
+    "https://www.constella.ai",
+    "https://constella.ai/the-persistent-threat-of-ransomware",
+    "https://www.constella.ai/insider-threats-the-disconnect-between-cybersecurity-threats-and-the-actual-risk-posed-by-malicious-insiders/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T03:51:14.697+02:00",
+  "updated": "2024-11-22T03:51:14.697+02:00"
+}

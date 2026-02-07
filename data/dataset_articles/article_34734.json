@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "40f630af559c17a9890bbaaf336dc6ad7061c8fc",
+    "url": "https://washingtondc.jhu.edu/news/how-ai-can-improve-mental-health",
+    "site_full": "washingtondc.jhu.edu",
+    "site": "jhu.edu",
+    "site_section": "https://washingtondc.jhu.edu/news",
+    "site_categories": [],
+    "section_title": "News &amp; Media | Johns Hopkins in Washington, D.C.",
+    "title": "How AI can improve mental health | Johns Hopkins in Washington, D.C.",
+    "title_full": "How AI can improve mental health | Johns Hopkins in Washington, D.C.",
+    "published": "2024-11-07T23:37:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://washingtondc.jhu.edu/wp-content/uploads/2024/11/ai_for_hope-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 396,
+    "domain_rank_updated": "2024-11-04T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "40f630af559c17a9890bbaaf336dc6ad7061c8fc",
+  "url": "https://washingtondc.jhu.edu/news/how-ai-can-improve-mental-health",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-07T23:37:00.000+02:00",
+  "title": "How AI can improve mental health | Johns Hopkins in Washington, D.C.",
+  "text": "How AI can improve mental health\nClinicians and researchers are putting the technology to use to improve training, identify at-risk individuals, and potentially save lives\n- Image Will Kirk\nKey Takeaways\n- AI offers new potential ways to address mental health concerns by providing better training and identifying people who may be at risk of suicide.\n- Still, bias in the data could lead to poor insights.\n- Regulating this new tech is like “solving a Rubik’s Cube,” according to an HHS official.\nFor years, [Crisis Text Line](https://www.crisistextline.org/), a nonprofit that provides free, text-based mental health support and crisis intervention, has seen people start training to become volunteers, but not formally complete the program. Their team suspected many would-be volunteers dropped out because they didn’t feel confident in their abilities to help those in crisis.\nUsing scenarios developed by its clinical team, Crisis Text Line developed an AI conversation simulator that allows volunteers to have practice conversations about bullying, arguments with family, or suicidal intentions.\n“One of the nice things about this is that crisis counselors can experience realistic conversation content and timing,” said Elizabeth Olson, a research scientist at Crisis Text Line, during a recent event at the Johns Hopkins University Bloomberg Center.\nIdentifying those in need\n[Emily Haroz](https://publichealth.jhu.edu/faculty/3356/emily-e-haroz), an associate professor at the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/), thinks AI has significant potential to enhance mental health care.\n“It has the ability to increase the quality of the care we provide and to help us better identify where priority populations are in a faster way,” said Haroz, who organized the “AI for Hope” convening.\nHaroz recently partnered with Indian Health Services to develop an AI model capable of identifying people at risk of suicide. It provides clinicians with an extra nudge to ask if a patient may be considering suicide.\nMitigating bias\nBut Haroz and other speakers at the event said addressing potential bias in data sets is critical if AI is to reach its full potential in health care settings.\n[Kadija Ferryman](https://publichealth.jhu.edu/faculty/4193/kadija-s-ferryman), an assistant professor at the [Johns Hopkins Berman Institute of Bioethics](https://bioethics.jhu.edu/), for example, examined data that could be fed into an algorithm that would provide a “score” for a patient’s risk of overdose. One of the possible variables is drug arrests rather than convictions.\n“There’s research showing that rate of arrests doesn’t really align with criminality in certain communities,” she said. “There are racial arrests.” Including data that reflects biased policing, then, could make it appear that people of color are more likely to overdose.\nA Rubik’s Cube of regulation\nFor Steven Posnack, a principal deputy assistant secretary at the Department of Health and Human Services, there might soon be a time when not using AI tools would be considered below the standards of care.\nPosnack and his colleagues are now trying to think through how to regulate AI use in technology. He compared the challenge to that of solving a Rubik’s Cube.\n“It’s a three-dimensional problem. How many people is it going to reach? How autonomous is the AI in a particular workflow?” he said. “All of those are different factors we’re going to need to consider how to approach from a regulatory policy.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.crisistextline.org/),",
+    "https://crisistextline.org/),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "HHS",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "D.C",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-08T02:35:25.025+02:00",
+  "updated": "2024-11-22T19:29:28.137+02:00"
+}

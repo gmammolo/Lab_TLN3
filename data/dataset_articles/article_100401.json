@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "12d4b9c05bf104b5f43f73ea2b77286551cfc7b6",
+    "url": "https://siliconangle.com/2024/02/01/cloudflare-atlassian-server-hacked-suspected-nation-state-attacker",
+    "site_full": "siliconangle.com",
+    "site": "siliconangle.com",
+    "site_section": "https://siliconangle.com/2024/02/01/cloudflare-atlassian-server-hacked-suspected-nation-state-attacker/",
+    "site_categories": [
+      "search_engine",
+      "tech"
+    ],
+    "section_title": null,
+    "title": "Cloudflare Atlassian server hacked by suspected nation-state attacker - SiliconANGLE",
+    "title_full": "Cloudflare Atlassian server hacked by suspected nation-state attacker - SiliconANGLE",
+    "published": "2024-02-02T02:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/cloudflareoffice.jpg",
+    "performance_score": 0,
+    "domain_rank": 6882,
+    "domain_rank_updated": "2024-01-30T12:05:46.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "12d4b9c05bf104b5f43f73ea2b77286551cfc7b6",
+  "url": "https://siliconangle.com/2024/02/01/cloudflare-atlassian-server-hacked-suspected-nation-state-attacker",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Duncan Riley",
+  "published": "2024-02-02T02:15:00.000+02:00",
+  "title": "Cloudflare Atlassian server hacked by suspected nation-state attacker - SiliconANGLE",
+  "text": "Cloudflare Inc. disclosed today that one of its internal Atlassian servers was hacked by a suspected nation-state attacker in November and provided details of what occurred so that others know the risks.\nThe hack in question was detected on Nov. 23, Thanksgiving Day in the U.S., with Cloudflare’s security team immediately cutting off the threat actor’s access and launching an investigation. Realizing that the breach was more than minor, CrowdStrike brought in its Forensic team on Nov. 26 to perform an independent analysis.\nThe release today includes the findings from the Forensic team’s report. The report found that between Nov. 14 and 17, a threat actor undertook reconnaissance and then accessed Corwdstrike’s internal wiki, which uses Atlassian Corp.’s Confluence and its bug database, powered by Atlassian Jira. Further activity was found on Nov. 20 and 21, with the threat actor believed to have returned to test access to ensure they had connectivity.\nThe threat actor then returned on Nov. 22 and established persistent access to the Atlassian server using ScriptRunner for Jira, gained access to Crowdflare’s source code management system, which uses Atlassian Bitbucket and tried unsuccessfully to access a console server that had access to a data center that Cloudflare had not yet put into production in São Paulo, Brazil.\nWhere it gets interesting is how the threat actor gained access – they did so through one access token and three service account credentials that had been compromised in the October breach of Okta Inc. To its absolute credit, Cloudflare admits it was a mistake as they had failed to change the access following the Okta hack. All threat actor access and connections were then terminated on Nov. 24.\nIt is noted by Cloudflare that no customer data or systems were impacted by the event. Cloudflare’s security, including access controls, firewall rules, hard security keys and zero trust tools, limited the attacker’s ability to move laterally across the network. No services were interrupted and no changes need to be made to global network systems or configurations.\nThe only data the threat actor was able to access during that time was on the Atlassian server. It was found that the attacker was looking for information about the architecture, security and management of Cloudflare’s global network, likely looking for a way to gain a deeper foothold.\nIn response to the attack, Cloudflare has now, out of a sense of caution, rotated every production credential – over 5,000 individual credentials, physically segment-tested all staging systems, performed forensic triages on 4,893 systems and reimaged and rebooted every machine in its global network, including all Atlassian products – Jira, Confluence and Bitbucket.\n“This was a security incident involving a sophisticated actor, likely a nation-state, who operated in a thoughtful and methodical manner,” Cloudflare concludes. “The efforts we have taken to ensure that the ongoing impact of the incident was limited and that we are well-prepared to fend off any sophisticated attacks in the future.”\nPhoto: HaeB/Wikimedia Commons",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "War, Conflict and Unrest"
+  ],
+  "external_links": [
+    "https://blog.cloudflare.com/thanksgiving-2023-security-incident",
+    "https://www.blog.cloudflare.com/thanksgiving-2023-security-incident"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "atlassian jira",
+        "sentiment": "none"
+      },
+      {
+        "name": "jira",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "siliconangle cloudflare inc.",
+        "sentiment": "negative"
+      },
+      {
+        "name": "atlassian corp.",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-02-02T02:16:45.303+02:00",
+  "updated": "2024-02-02T02:16:45.303+02:00"
+}

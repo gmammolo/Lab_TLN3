@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "9d90e0fe92586ab3f3123eae3c6f7b98bd3bbd13",
+    "url": "https://www.ncesc.com/geographic-faq/does-arcgis-pro-use-python",
+    "site_full": "www.ncesc.com",
+    "site": "ncesc.com",
+    "site_section": "https://www.ncesc.com/geographic-faq/feed/",
+    "site_categories": [],
+    "section_title": "Geographic FAQ Hub: Answers to Your Global Questions",
+    "title": "Does ArcGIS Pro use Python?",
+    "title_full": "Does ArcGIS Pro use Python?",
+    "published": "2024-04-12T04:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.ncesc.com/geographic-faq/wp-content/uploads/2024/01/geographic-faq.png",
+    "performance_score": 0,
+    "domain_rank": 43555,
+    "domain_rank_updated": "2024-04-09T13:11:21.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9d90e0fe92586ab3f3123eae3c6f7b98bd3bbd13",
+  "url": "https://www.ncesc.com/geographic-faq/does-arcgis-pro-use-python",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alberta Cobb",
+  "published": "2024-04-12T04:58:00.000+03:00",
+  "title": "Does ArcGIS Pro use Python?",
+  "text": "Does ArcGIS Pro use Python?\nYes, ArcGIS Pro uses Python as its scripting language.\nIs Python installed with ArcGIS Pro?\nYes, ArcGIS Pro includes a default, read-only conda-based Python. This Python is used within ArcGIS Pro and can also be used to run stand-alone scripts. The default conda environment, arcgispro-py3, includes all Python libraries used by ArcGIS Pro.\nWhat database does ArcGIS Pro use?\nArcGIS Pro can use various databases, including IBM Db2, Microsoft SQL Server, Oracle, PostgreSQL, SAP HANA, and more. It supports both file geodatabases and enterprise geodatabases.\nIs Python good for GIS?\nYes, Python is widely used in GIS for tasks such as data analysis, data visualization, spatial analysis, and automation. It has a wide range of libraries and modules specifically designed for GIS operations.\nDoes ArcGIS Pro come with Anaconda?\nArcGIS Pro includes an installation of Miniconda, a smaller version of Anaconda that includes conda, Python, and the packages they depend on. It also includes a select set of useful packages.\nWhat language does ArcGIS Pro use?\nArcGIS Pro uses Python as its scripting language. Python 3 is used in ArcGIS Pro, while other ArcGIS products use Python 2. The arcpy.mapping module in other ArcGIS products is replaced by the arcpy.mp module in ArcGIS Pro.\nWhat programming language does ArcGIS Pro use?\nArcGIS Pro uses Python as its programming language. It specifically uses the ArcPy site-package within Python to access and perform geoprocessing functionality in ArcGIS.\nDo I need to know Python for ArcGIS?\nWhile it’s not necessary to know Python for basic GIS tasks in ArcGIS Pro, learning Python can greatly enhance your capabilities and productivity in ArcGIS. Python and the ArcPy library provide a powerful toolset for automating workflows, conducting advanced analysis, and developing custom tools.\nIs Python or R better for GIS?\nBoth Python and R have their strengths in GIS. Python offers better integration with popular GIS software and tools like ArcGIS and QGIS, making it a preferred choice for geospatial data processing. R, on the other hand, has more robust statistical capabilities and is often favored for data analysis and visualization.\nDoes ArcGIS run on Python?\nYes, ArcGIS utilizes Python for scripting and automation purposes. You can directly run Python code in ArcGIS using the Python window, which allows you to access and execute geoprocessing tools, manipulate data, and perform various spatial analyses.\nWhich is better ArcGIS or ArcGIS Pro?\nArcGIS Pro is the next-generation GIS software from Esri, focusing on 2D and 3D mapping, visualization, analysis, and editing. It offers a more modern and intuitive interface compared to ArcMap and provides better support for advanced workflows, 3D visualization, and integration with other ArcGIS products and online services.\nDoes ArcGIS Pro use SQL?\nYes, ArcGIS Pro supports SQL (Structured Query Language) for querying and manipulating geospatial data. The query builder in ArcGIS Pro allows you to construct SQL queries to select features based on their attributes and perform various spatial and attribute queries.\nWho makes ArcGIS Pro?\nArcGIS Pro is developed and maintained by Esri, a leading provider of GIS software and solutions. Esri has been in the GIS industry for decades and offers a wide range of products and services for geospatial analysis, mapping, and data management.\nWhy is Python used in ArcGIS?\nPython is used in ArcGIS because of its versatility, ease of use, and extensive libraries and modules specifically designed for GIS operations. Python allows GIS professionals to automate tasks, perform complex spatial analysis, create custom tools, and integrate geospatial data with other data sources and workflows.\nWhat is the default Python library in ArcGIS Pro?\nArcGIS Pro includes a default conda environment, arcgispro-py3, that comes with all the Python libraries used by ArcGIS Pro. This environment also includes additional packages like scipy and pandas for advanced data analysis and processing.\nHow do I add a Python script to ArcGIS Pro?\nTo add a Python script to ArcGIS Pro, you can create a new Python file (.py) in the desired location within your project. You can then open and edit the script using the integrated Python editor in ArcGIS Pro. The script can be executed within the Python window or associated with specific tools or workflows in ArcGIS Pro.\nDo data scientists prefer Python or R?\nThe preference for Python or R among data scientists depends on their specific needs and background. Python is often favored for its general-purpose programming capabilities, extensive libraries for data manipulation and analysis, and seamless integration with other tools and frameworks. R, on the other hand, is known for its comprehensive statistical capabilities and rich visualization libraries.\nShould I learn Python or R first?\nThe choice between learning Python or R first depends on your specific goals and interests. If you are interested in general-purpose programming, web development, or working with big data and machine learning, learning Python first would be beneficial. On the other hand, if you are primarily interested in statistical analysis, data visualization, and research in fields like economics or social sciences, learning R first may be more appropriate.\nWhat software is best for GIS?\nThere are several great GIS software options available, each with its own strengths and features. Some popular choices include:\n– ArcGIS Pro: A powerful and widely used GIS software from Esri.\n– QGIS: A free and open-source GIS software with a growing user community.\n– MapInfo Pro: A commercial GIS software with a focus on mapping and data analysis.\n– Mapbox: A platform for building custom GIS applications and interactive maps.\n– Maptitude: A business-oriented GIS software with advanced mapping and analysis capabilities.\n– GRASS GIS: A robust open-source GIS software with a strong focus on geospatial analysis and modeling.\nHow do I run a Python notebook in ArcGIS Pro?\nTo run a Python notebook in ArcGIS Pro, you can create a new notebook in the Notebook Editor within ArcGIS Pro. You can then write and execute Python code cells directly in the notebook interface. The code can access and manipulate spatial data, leverage geoprocessing tools, and visualize results using various libraries and packages.\nHow to learn Python in GIS?\nTo learn Python in GIS, you can start by familiarizing yourself with Python syntax and basic programming concepts. There are many online resources, tutorials, and courses available that",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "python",
+        "sentiment": "negative"
+      },
+      {
+        "name": "py",
+        "sentiment": "none"
+      },
+      {
+        "name": "anaconda",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "sap",
+        "sentiment": "none"
+      },
+      {
+        "name": "ibm",
+        "sentiment": "none"
+      },
+      {
+        "name": "microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T05:02:55.200+03:00",
+  "updated": "2024-04-12T05:02:55.200+03:00"
+}

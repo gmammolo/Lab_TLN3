@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "9923aa83545b877ea3089cd7482a757ccb8b11e1",
+    "url": "https://bravenewcoin.com/insights/sui-blockchain-has-downtime",
+    "site_full": "bravenewcoin.com",
+    "site": "bravenewcoin.com",
+    "site_section": "https://www.bravenewcoin.com",
+    "site_categories": [
+      "investing",
+      "finance"
+    ],
+    "section_title": "Powering Blockchain FInance - Brave New Coin",
+    "title": "SUI Blockchain Has Downtime",
+    "title_full": "SUI Blockchain Has Downtime",
+    "published": "2024-11-23T04:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 20113,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9923aa83545b877ea3089cd7482a757ccb8b11e1",
+  "url": "https://bravenewcoin.com/insights/sui-blockchain-has-downtime",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@bravenewcoin",
+  "published": "2024-11-23T04:01:00.000+02:00",
+  "title": "SUI Blockchain Has Downtime",
+  "text": "The outage began around 9:15 am UTC, with no new blocks produced thereafter. The Sui Foundation acknowledged the issue, stating that the network was not processing transactions and that a fix would be deployed shortly.\nSource: X\nThe downtime was attributed to a bug in the transaction scheduling logic, which caused validators to crash. By approximately 11:30 am UTC, the network resumed operations after the deployment of the fix.\nSource: X\nThe incident had immediate repercussions on Sui’s native cryptocurrency, SUI, which saw its price drop by over 5%, trading at $3.49. This decline led to the liquidation of approximately $2.17 million in long positions, as reported by Coinglass.\nThe outage also prompted reactions from the crypto community, with some drawing parallels between Sui and Solana, another blockchain that has faced multiple outages in the past. Critics questioned Sui’s reliability, especially given its ambition to rival Solana. However, supporters argued that a single incident should not overshadow Sui’s overall performance and potential.\nIn response to the outage, exchanges like Upbit temporarily halted SUI deposits and withdrawals, citing network issues. The swift resolution of the problem and the network’s return to normal operations were seen as positive signs of Sui’s resilience and the effectiveness of its development team.\nWhile this incident raised concerns about the network’s stability, it also highlighted the challenges that emerging blockchain platforms face as they scale and evolve. The Sui Foundation’ s prompt response and transparency during the outage were crucial in maintaining user trust and confidence in the platform’s future.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Solana",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "UTC",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T10:45:14.351+02:00",
+  "updated": "2024-11-22T10:45:14.351+02:00"
+}

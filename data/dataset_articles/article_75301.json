@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "30405b360dcb066aac41e6e5b7c7739a68f14795",
+    "url": "https://www.punto-informatico.it/inps-servizi-sito-offline-attacco-ransomware",
+    "site_full": "www.punto-informatico.it",
+    "site": "punto-informatico.it",
+    "site_section": "https://www.punto-informatico.it",
+    "site_categories": [
+      "media",
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Punto Informatico: Notizie Online su Informatica e Tecnologia",
+    "title": "INPS Servizi: sito offline per attacco ransomware",
+    "title_full": "INPS Servizi: sito offline per attacco ransomware",
+    "published": "2024-11-22T09:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 32718,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "30405b360dcb066aac41e6e5b7c7739a68f14795",
+  "url": "https://www.punto-informatico.it/inps-servizi-sito-offline-attacco-ransomware",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Luca Colantuoni",
+  "published": "2024-11-22T09:57:00.000+02:00",
+  "title": "INPS Servizi: sito offline per attacco ransomware",
+  "text": "Il sito di INPS Servizi è offline. La società che gestisce le attività di CCM (Contact Center Multicanale) verso gli utenti di INPS ha subito un attacco ransomware . L’incidente di sicurezza è stato inizialmente confermato da QuAS (Cassa Assistenza Sanitaria Quadri) con un pop-up visibile sul sito. Ieri sera è arrivata anche la comunicazione ufficiale di INPS.\nFurto di dati e richiesta riscatto? Effettuando l’accesso al sito di QuAS viene mostrato un messaggio che conferma l’attacco informatico di tipo ransomware avvenuto il 18 novembre. INPS Servizi fornisce a QuAS i dati cumulativi dei contributi versati dalle aziende con modello F24. Anche se non ci sono dettagli relativi agli iscritti, QuAS ha prontamente informato il Garante per la protezione dei dati personali. In caso di data breach , il titolare del trattamento deve inviare una notifica entro 72 ore .\nIeri sera, quindi circa tre giorni dopo l’accaduto, INPS ha confermato l’attacco:\nINPS Servizi S.p.A. (società in house di INPS) ha subito un attacco informatico di tipo ransomware che ha portato al blocco di alcuni server, rendendo temporaneamente indisponibili alcuni applicativi gestionali e i dati forniti a propri clienti. L’accaduto è stato denunciato prontamente a tutte le autorità competenti. Attualmente sono in corso indagini approfondite. È importante rassicurare i cittadini che il Contact Center, principale servizio di assistenza, non è stato colpito dall’attacco e rimane operativo. Le azioni in corso sono concentrate sul ripristino delle infrastrutture compromesse in modo tempestivo e sicuro.\nIn base alle prime indiscrezioni, gli autori dell’attacco ransomware sarebbero i cybercriminali del gruppo Lynx . Al momento non è arrivata nessuna rivendicazione, quindi non è noto quali dati sono stati esfiltrati dai server di INPS Servizi e se è stato chiesto un riscatto.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.garanteprivacy.it/data-breach",
+    "https://unit42.paloaltonetworks.com/inc-ransomware-rebrand-to-lynx/",
+    "https://www.quas.it/Content/Index/POP%20UP",
+    "https://tg24.sky.it/cronaca/2024/11/21/attacco-hacker-inps-servizi",
+    "https://www.tg24.sky.it/cronaca/2024/11/21/attacco-hacker-inps-servizi",
+    "https://unit42.paloaltonetworks.com/inc-ransomware-rebrand-to-lynx",
+    "https://www.unit42.paloaltonetworks.com/inc-ransomware-rebrand-to-lynx/",
+    "https://garanteprivacy.it/data-breach",
+    "https://quas.it/Content/Index/POP%20UP"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "CCM",
+        "sentiment": "negative"
+      },
+      {
+        "name": "INPS Servizi S.p.A.",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Cassa Assistenza Sanitaria Quadri",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T13:44:54.687+02:00",
+  "updated": "2024-11-22T13:44:54.687+02:00"
+}

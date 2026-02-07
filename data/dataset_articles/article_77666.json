@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "f53d0e02d8e95a85970f20a19e2e580c29566b19",
+    "url": "https://infosecu.technews.tw/2025/08/21/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+    "site_full": "infosecu.technews.tw",
+    "site": "technews.tw",
+    "site_section": "https://www.technews.tw",
+    "site_categories": [],
+    "section_title": "TechNews 科技新報 | 市場和業內人士關心的趨勢、內幕與新聞",
+    "site_title": "TechNews 科技新報 | 市場和業內人士關心的趨勢、內幕與新聞",
+    "title": "馬斯克 xAI 爆重大隱私危機，37 萬條 Grok 對話紀錄 Google 搜得到",
+    "title_full": "馬斯克 xAI 爆重大隱私危機，37 萬條 Grok 對話紀錄 Google 搜得到",
+    "published": "2025-08-21T04:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 29549,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f53d0e02d8e95a85970f20a19e2e580c29566b19",
+  "url": "https://infosecu.technews.tw/2025/08/21/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+  "ord_in_thread": 0,
+  "author": "TechNews 編輯台",
+  "published": "2025-08-21T04:30:00.000+03:00",
+  "title": "馬斯克 xAI 爆重大隱私危機，37 萬條 Grok 對話紀錄 Google 搜得到",
+  "text": "20 日，Elon Musk 的人工智慧公司 xAI 發布了數十萬條 Grok 聊天機器人與用戶之間的對話紀錄，這些對話因用戶點擊聊天的「分享」按鈕而生成的公開 URL 被 Google 等搜尋引擎索引，引發關注和爭議。\n目前，Google已經索引了超過37萬條Grok用戶的對話，這些對話內容涵蓋了從簡單的商業任務到生成虛構恐怖襲擊的圖像等多種主題。部分用戶甚至在對話中透露了個人資訊和密碼，引發用戶隱私的擔憂。\n在這些對話中，有些內容涉及到違法行為，包括製造毒品和炸彈的指導，儘管xAI明確禁止用戶利用其機器人進行危害人類生命的行為，但這些不當內容卻仍然被公開並可透過Google搜尋到。xAI的安全措施顯然不足，未能及時阻止這類生成內容的公開。\n值得注意的是，今年5月，xAI曾發生API密鑰外洩事件，導致包括Grok私有模型在內的多個版本被未授權訪問，這進一步提升了安全隱憂。獨立安全研究機構SplxAI評測指出，Grok 4基礎模型在安全與過濾有害內容方面表現非常弱，極容易被指令繞過，生成不當甚至危害性輸出。\nxAI對此事件尚未發表任何評論。與此同時，其他AI公司如OpenAI也曾因用戶對話被公開而受到批評，並迅速改變了其政策。相較之下，馬斯克在此事件中似乎對Grok的分享功能感到自豪，但目前缺乏公開明確的聲明來支持這一說法。\n隨著這個事件的發展，許多行銷專家開始注意到Grok的公開對話，並試圖利用這一特性來提升其業務在Google搜尋中的曝光率。這個情況引發了對AI技術使用倫理的討論，並讓人們重新思考在使用這些工具時的隱私和安全問題。\nElon Musk’s xAI Published Hundreds Of Thousands Of Grok Chatbot Conversations （首圖來源：shutterstock）\n延伸閱讀： DOGE 員工不慎洩露 xAI 私有 API 密鑰，影響 52 個大語言模型",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Social Issue->social networking",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+    "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations",
+    "https://forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T07:36:52.232+03:00",
+  "updated": "2025-08-21T07:39:49.000+03:00"
+}

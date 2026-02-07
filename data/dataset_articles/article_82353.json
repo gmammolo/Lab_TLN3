@@ -1,0 +1,67 @@
+{
+  "thread": {
+    "uuid": "1c0174e2654ffc573f7887adc728ba9403f2568e",
+    "url": "https://www.nature.com/articles/d41586-024-03319-z",
+    "site_full": "www.nature.com",
+    "site": "nature.com",
+    "site_section": "http://feeds.nature.com/nature/rss/current",
+    "site_categories": [
+      "shopping"
+    ],
+    "section_title": "Nature",
+    "title": "AlphaFold reveals how sperm and egg hook up in intimate detail",
+    "title_full": "AlphaFold reveals how sperm and egg hook up in intimate detail",
+    "published": "2024-10-17T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.nature.com/lw1200/magazine-assets/d41586-024-03319-z/d41586-024-03319-z_27702664.jpg",
+    "performance_score": 0,
+    "domain_rank": 108,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1c0174e2654ffc573f7887adc728ba9403f2568e",
+  "url": "https://www.nature.com/articles/d41586-024-03319-z",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Heidi Ledford",
+  "published": "2024-10-17T08:00:00.000+03:00",
+  "title": "AlphaFold reveals how sperm and egg hook up in intimate detail",
+  "text": "An artificial-intelligence tool honoured by one of this year’s Nobel prizes has revealed intimate details of the molecular meet-cute between sperm and eggs . The AlphaFold program, which predicts protein structures , identified a trio of proteins that team up to work as matchmakers between the gametes. Without them, sexual reproduction might hit a dead end in a wide range of animals, from fish to mammals. The finding, published on 17 October in Cell[1](#ref-CR1), contradicts a previous notion that just two proteins — one on the egg and one on the sperm — are sufficient to ensure fertilization, says Enrica Bianchi, a reproductive biologist at the University of Rome Tor Vergata, who was not involved in the study. “It’s not the old concept of having a key and a lock to open the door any more,” she says. “It’s more complicated.” A mysterious union Despite its crucial role in reproduction, the process by which the fusion of egg and sperm occurs in vertebrates is a molecular mystery that has proved difficult to crack. The union of the two cells involves proteins that reside in greasy membranes, making them hard to study using standard biochemical methods. The interactions between these proteins are often weak and fleeting, and it is difficult to harvest enough viable eggs and sperm from some of researchers’ favoured laboratory animals, including mice, for extensive experiments. As a result, early studies of reproductive biology often focused on marine invertebrates that release copious quantities of eggs and sperm into water. “If you take a textbook off the shelf and look up fertilization, you’ll read all about sea urchins ,” says Gavin Wright, a biochemist at the University of York, UK, who was not involved in the study. “It’s a tricky thing to research.” To overcome the supply problem, Andrea Pauli, a molecular biologist at the Research Institute of Molecular Pathology in Vienna, and her colleagues began their work in zebrafish , a vertebrate that also releases its eggs and sperm into the water. To bypass the difficulties of working with membrane proteins in the laboratory, the team used AlphaFold to predict interactions between proteins. Two of AlphaFold’s developers were awarded a share of the 2024 Nobel Prize in Chemistry on 9 October. Not two but three AlphaFold predicted that three sperm proteins come together to form a complex. Two of these proteins were already known to be important for fertility. Working in the laboratory, Pauli and her colleagues confirmed that the third is also crucial for fertility in both zebrafish and mice, and that the three proteins interact with one another in zebrafish and human sperm. The team also found that, in zebrafish, the trio creates a binding site for an egg protein called Bouncer, providing a mechanism by which the two cells can recognize one another. “It’s a way to say, ‘Sperm, you found an egg’ and ‘Egg, you found a sperm’,” says Andreas Blaha, a biochemist at the Research Institute of Molecular Pathology and a co-author of the paper. The findings might one day yield a way to screen people struggling with infertility, to find out whether problems with this complex could be the cause, says Wright. And the results highlight a role for AlphaFold in studying fertilization, he adds. “We’re limited in terms of experiments,” he says. “It might be that these modelling studies have an important role to play in the future.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:59:53.372+03:00",
+  "updated": "2024-10-25T05:56:27.781+03:00"
+}

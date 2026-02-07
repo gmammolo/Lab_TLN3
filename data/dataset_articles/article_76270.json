@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "303882fe79735e32a9a5f6a337b8e1773e1af7f7",
+    "url": "https://community.talktalk.co.uk/t5/Fibre/Internet-Drops-Intermittently/m-p/3090108",
+    "site_full": "community.talktalk.co.uk",
+    "site": "talktalk.co.uk",
+    "site_section": "https://community.talktalk.co.uk/eigde79682/rss/Community?interaction.style=review&feeds.replies=true",
+    "site_categories": [
+      "television",
+      "entertainment"
+    ],
+    "section_title": "rss.livelink.posts-in-node",
+    "title": "Re: Internet Drops Intermittently",
+    "title_full": "Re: Internet Drops Intermittently",
+    "published": "2025-01-10T07:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "NL",
+    "main_image": "https://community.talktalk.co.uk/t5/image/serverpage/image-id/40205iC91C0A0494B44DC4",
+    "performance_score": 0,
+    "domain_rank": 31815,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "303882fe79735e32a9a5f6a337b8e1773e1af7f7",
+  "url": "https://community.talktalk.co.uk/t5/Fibre/Internet-Drops-Intermittently/m-p/3090108",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Phutch",
+  "published": "2025-01-10T07:38:00.000+02:00",
+  "title": "Re: Internet Drops Intermittently",
+  "text": "Get expert support with your Fibre connection.\nWednesday\nHello\nFor about a month now we have been having problems with our usually very stable Fibre 35 service. The problems started at the beginning of December. I have spoken to support on numerous occasions which in itself is very frustrating. So far we have\n1. Replaced the router\n2. Reset the router, left if off for 20 mins\n3. Updated the firmware on the router\n4. Changed wifi channel\n5. Had a visit from a talk talk engineer\n6. Had a visit from BT openreach engineer, who replaced an internal cable and re terminated at the box for us just to be safe as he could not locate a problem but can see that we are dropping.\nIm at my wits end with it, my daughters and my wife rely on it for school/work etc . When it goes it just drops for all of us and we have to restart the router. So far talk talk have not been able to resolve the issue.\nCan anyone help ?\nthanks\nPaul Hutchinson\n54 minutes ago\nHi Paul,\nHow are you getting on?\nThanks\nMichelle\nWednesday\nHi @KeithFrench\nOk thanks for the information i will not do that\nI will have a look at your guide when i can and get you the information\nI do not know how many devices use 2.4 but most of our devices are fairly modern so i would think no many, they may resort to 2.4 if they go upstairs as the router is downstairs.\nthanks\nPaul\nWednesday\nHi @phutch995\nDo not turn either WiFi band off, one will not interfere with the other, as they are in different parts of the frequency spectrum. Plus, if you do and you have the Sagemcom FAST5364 or 5464 routers, then there is a bug in the firmware that will prevent them from coming back properly if re-enabled, even though the router UI will say that they are up. Whilst it is possible to have separate network names (SSIDs) per WiFi band, it is no longer recommended. Do you have many smart home devices that only work in the 2.4GHz band?\nWhat needs to be done is to remove guesswork from the equation & start working your way through my guide to get me the diagnostic information I need to check out your WiFi.\nKeith\nI am not employed by TalkTalk, I'm just a customer. If my post has fixed the issue, please set Accept as Solution from the 3 dot menu.TalkTalk support and Community Stars - Who are they?\nWednesday\nHi @KeithFrench\nIm starting to think its not a line issue, i was with the BT engineer last Thursday he was very thorough and went above and beyond even though he could not find an issue with the line at the time he was here. He even replaced the internal part of the cable just in case. He was in the road outside the house for 30 minutes and then left to go and change our connection at the exchange. He was not able to locate a fault.\nI work in IT support and know a small amount about wifi - im no expert\nI was thinking about changing the configuration so 2.4 and 5 Ghz had their own ssid and password - would you recommend that ?\nI was also considering turning off 2.4Ghz and seeing if that made a difference, we should all be able to use 5 Ghz ?\nMy eldest daughter also has a powerline adapter to her room, its worked fine for 10 years, i was considering unplugging this and seeing if that made any difference\nthank you for your help\nPaul\nWednesday\nHi @phutch995\nIt still sounds like a router/line issue to me from @Michelle-TalkTalk diagnosis.\nMy recommendation is to get that fixed first & then we can identify any wireless issues or configure it to be at its best.\nThat said, you asked, so I will deliver!\nDo not worry about interpreting the results, I will do that for you. I will send a PM to you that contains a link for a guide of mine on Wi-Fi interference. It is quite long (about 30 pages), but you will probably only need to look at three or four pages in total. Initially look at the section called \"Are you suffering from interference – prove it first\". This is the first link in the table of contents. This section includes full details of free Wi-Fi analysers that I recommend for Windows, Windows phone, Android and Apple operating systems. However, I have no way of testing the Apple product. Select the analyser of your choice & my guide explains how to use it.\nIf you are using Wi-Fi Scanner, then please attach the zip file to this thread. As soon as I have downloaded it, I will remove the attachment from your post, to preserve your privacy.\nWith all other analysers, please follow my instructions below.\nCollect the screenshots that I require and include them in your reply.\nPlease post the screenshots to me in a PM (to protect your privacy), which I have requested in my guide. No photos please as they can be difficult to read, because the text can get out of focus when zoomed in. Please ensure that the analyser window is maximised (if Windows) before taking the screenshots & upload them via the \"Insert Photos\" button (in a mobile browser it's the picture icon) on the post editor's toolbar with the Size parameter set to Large.\nKeith\nI am not employed by TalkTalk, I'm just a customer. If my post has fixed the issue, please set Accept as Solution from the 3 dot menu.TalkTalk support and Community Stars - Who are they?\nWednesday\nHi Michelle\nOn Monday night it did not go red / orange it stayed white, but we had no service at all me my wife my eldest daughter all confirmed this we were sat together. I would say this is how we normally have the problem\nOn a previous occasions before the bt engineer visit it had gone red and we were unable to get it to connect but after leaving it for the day it did reconnect eventually in the evening.\n@KeithFrench I would very much request your guide and help, many thanks\nthanks\nPaul\nWednesday\nHi Paul,\nOk thanks for confirming. Does the light go red on the router when the connection is dropping? As the line test is clear the only option we have is to arrange an engineer visit to the property to investigate further (they would also investigate externally too) if all testing has been completed with alternative equipment at the test socket.\nIf you'd like to go ahead with this then please let us know and we can confirm some information with you to arrange this engineer visit.\nThanks\nMichelle\nWednesday\nHi @phutch995\nSorry, I thought that @Michelle-TalkTalk had identified reconnections on the line, but maybe that was you rebooting the router.\nWhich make/model of router do you have - the Sagemcom FAST5364?\nSlow speed, intermittent dropouts, breaks in the signal or no signal on some or all devices or no internet access might be caused by Wi-Fi interference from other local networks, which can also lead to a permanent reduction in speed. No ISP can be responsible for your local environment, this is mainly a byproduct of the popularity of Wi-Fi.\nGenerally speaking, the 2.4GHz band suffers a lot more from interference than the much faster 5GHz band, but the 2.4GHz one can sometimes have a better range, but this all depends on your local area.\nIn other words, I try to help you optimise your Wi-Fi connection. The next stage involves sending out a guide to you to help you get me some important diagnostic results so that I can analyse them for you and recommend changes to your router configuration to solve them.\nI only send this out to people who request it.\nThe information below is provided by TalkTalk, for confirmation please contact @Debbie-TalkTalk or@Michelle-TalkTalk.\nKeithFrench is one of our valued Community Stars and can help with a range of issues related to wireless and networking. At times he may ask you to send him test results via a Private Message to help analyse/diagnose an issue. Although Keith does not work for TalkTalk, he very kindly shares his time and knowledge to help with others.\nIf you need further help or, if we need to take any details such as personal information about your account like phone numbers, account numbers etc. one of the TalkTalk team will jump in and help out.\nKeith\nI am not employed by TalkTalk, I'm just a customer. If my post has fixed the issue, please set Accept as Solution from the 3 dot menu.TalkTalk support and Community Stars - Who are they?\nWednesday\nHi Michelle\nYes its tests fine this has been done on multiple occasions. It can then be stable for 1 -5 days and then will go again. When it goes it will then happen multiple times in one evening. On Monday evening it went 4 times between 5pm and 10pm.\nI dont believe its weather related i was off work yesterday and we have snow and freezing conditions and it was fine\n@KeithFrench unfortunately Michelle has not yet identified the problem if you are able to help it would be much appreciated\nthanks\nPaul\nWednesday\nHi @phutch995\nI can see that @Michelle-TalkTalk has identified the problem. However, after it is fixed if you have any wireless or other issues, I will be very happy to help.\nKeith\nI am not employed by TalkTalk, I'm just a customer. If my post has fixed the issue, please set Accept as Solution from the 3 dot menu.TalkTalk support and Community Stars - Who are they?\nWednesday\nHi Paul,\nOf course I work for TalkTalk dealing specifically with Broadband and Home Phone Faults.\nI've run a test on your line now which is clear, however I can see re-connections on the line. The connection looks stable for the last 24hrs, does your connection go through a period of stability before it starts dropping again? Have you noticed if it appears to be weather related at all?\nThanks\nMichelle\nWednesday\nHi Michelle\nThanks for your reply i have done this\nCan i ask what is your role ? will you be able to help ?\nPaul\nWednesday\nMorning Paul,\nCan you please update your community profile to include your:\nWe'll then look into this further. Please do not post this information on this thread. Once you've updated your profile please post in your topic to confirm it's updated.\nThanks\nMichelle",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business service",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->social sciences"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T09:32:25.921+02:00",
+  "updated": "2025-01-10T09:32:25.921+02:00"
+}

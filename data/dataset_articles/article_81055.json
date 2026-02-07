@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "8a8cc61274d078f2bcee0c0ec5a368ec6bfb44e6",
+    "url": "https://www.uc.cl/noticias/crean-innovador-metodo-que-detecta-el-covid-19-en-alcantarillado-con-informacion-imprecisa",
+    "site_full": "www.uc.cl",
+    "site": "uc.cl",
+    "site_section": "https://www.uc.cl:443/rss",
+    "site_categories": [
+      "graduate_school",
+      "education"
+    ],
+    "section_title": "Noticias Universidad Catolica",
+    "title": "Crean innovador método que detecta el COVID-19 en alcantarillado cuando no hay información precisa",
+    "title_full": "Crean innovador método que detecta el COVID-19 en alcantarillado cuando no hay información precisa",
+    "published": "2024-04-11T19:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CL",
+    "main_image": "http://www.uc.cl/site/assets/files/21237/academicos_matematicas.jpg",
+    "performance_score": 0,
+    "domain_rank": 8673,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8a8cc61274d078f2bcee0c0ec5a368ec6bfb44e6",
+  "url": "https://www.uc.cl/noticias/crean-innovador-metodo-que-detecta-el-covid-19-en-alcantarillado-con-informacion-imprecisa",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Niski Quezada",
+  "published": "2024-04-11T19:57:00.000+03:00",
+  "title": "Crean innovador método que detecta el COVID-19 en alcantarillado cuando no hay información precisa",
+  "text": "Crean innovador método que detecta el COVID-19 en alcantarillado cuando no hay información precisa Investigadores de la UC elaboran la primera estrategia para detectar brotes tempranos de coronavirus en el alcantarillado, cuando no existen datos exactos de la red, usando un método que determina un conjunto adaptativo de puntos de muestreo. El innovador trabajo fue publicado en la prestigiosa revista científica internacional PNAS. La red de alcantarillado puede ser clave para la detección temprana del virus SARS-Cov-2 causante del covid-19. El diseño cuidadoso de un esquema de muestreo espacial de una red de alcantarillado puede permitir la detección de ubicaciones críticas para la aparición de un brote o la evaluación de la exposición o consumo de productos químicos. Su correcta implementación permite transformar la infraestructura de aguas residuales en un observatorio de salud pública. Pero, ¿qué sucede cuando no existen esas certezas? El tener incertidumbres en la estructura de la red puede impedir contar con un esquema de muestreo óptimo. De hecho, este es precisamente un problema importante y ampliamente reconocido en el ámbito de gestión de infraestructura urbana; y puede variar dependiendo de factores como como el nivel de desarrollo urbano, la antigüedad de la infraestructura y la eficiencia en el manejo de los datos. Es por esto que, como una forma de aportar al control de la pandemia, un equipo del [Centro para el Descubrimiento de Estructuras en Datos Complejos – MiDaS](https://www.mat.uc.cl/nucleo-milenio.html), perteneciente a la [Facultad de Matemáticas UC](https://www.mat.uc.cl) y ex Núcleo Milenio, crearon un método de muestreo en condiciones de inexactitud de datos. “El [Ministerio de Ciencia, Tecnología, Conocimiento e Innovación](https://www.minciencia.gob.cl) nos solicitó desarrollar un esquema de muestreo óptimo, necesario para la definición de un sistema de monitoreo de aguas residuales para la detección temprana de SARS-CoV-2”, explica el director de MiDaS y académico de la Facultad de Matemáticas, [Alejandro Jara](https://www.mat.uc.cl/personas/perfil/ajara). El trabajo, [“Identifying Outbreaks in Sewer Networks: An Adaptive Sampling Scheme Under Network's Uncertainty”](https://www.pnas.org/doi/10.1073/pnas.2316616121), fue publicado en la prestigiosa revista científica Proceedings of the National Academy of Sciences – PNAS. Este es el primer trabajo que propone una estrategia diseñada, específicamente, para situaciones donde existe incertidumbre sobre la red de alcantarillado. Se trata de un método secuencial que determina un conjunto adaptativo de puntos de muestreo en cada paso. De acuerdo a los investigadores, el método de búsqueda desarrollado aumenta mínimamente el tiempo requerido para detectar un brote, en comparación con casos con información perfecta sobre la red. Commo explica [Mauricio Castro, académico de la Facultad de Matemáticas](https://www.mat.uc.cl/personas/perfil/mcastro): \"El método propuesto consiste en realizar la búsqueda de un brote de enfermedad de manera secuencial a lo largo de una red de alcantarillado, la cual presenta incertidumbre sobre su trazado. En términos prácticos, dado un número limitado de muestras que se pueden analizar por día, el algoritmo analiza determinados puntos de la red de alcantarillado y determina, en base lo observado en dicho día, donde buscar el brote el siguiente día, y así de manera sucesiva\". Y agrega: \"Lo interesante de nuestro método es que a pesar que la red de alcantarillado presentaba incertidumbre en su trazado, nuestros experimentos numéricos no mostraron un incremento sustancial del tiempo de detección del brote\". Las dificultades En regiones desarrolladas con procedimiento de planificación y de mantenimiento de la infraestructura urbana bien establecidos, la prevalencia de la inexactitud de los datos puede ser relativamente baja. Sin embargo, existe una mayor probabilidad de encontrar errores en áreas con infraestructura más antigua o menos organizada. Mapas obsoletos, registros incompletos y la falta de una gestión centralizada, pueden contribuir a imprecisiones dentro la información del sistema de alcantarillado. Errores humanos durante la entrada de datos, o la comunicación inadecuada entre las partes interesadas en la gestión de la red de alcantarillado, también pueden contribuir a la mala calidad de los datos. Además, las complejidades del sistema como redes superpuestas y sistemas descentralizados gestión, puede dar lugar a la propagación de errores. Corregir los datos de la red de alcantarillado puede ser un desafío, debido a: a) Accesibilidad limitada: Los sistemas de alcantarillado están ubicados principalmente bajo tierra, lo que dificulta la entrada física directa. Esta característica de la red limita la capacidad de inspeccionar visualmente el estado de las tuberías, evaluar con precisión la red y actualizar adecuadamente la información. b) Complejidad de la infraestructura: Las redes de alcantarillado son complejas. Incluyen una gran cantidad de tuberías, pozos de registro y otros componentes interconectados. Localizar y verificar información sobre segmentos específicos de la red es altamente costoso. c) Antigüedad de la infraestructura: En muchas áreas urbanas, los sistemas de alcantarillado han estado en funcionamiento durante décadas, y los datos históricos pueden ser poco precisos o no estar disponibles. Además, procedimientos de mantenimiento y mejoras de la red pueden provocar cambios en la infraestructura con el tiempo, cuyos cambios pueden no informarse. d) Gestión descentralizada: Los sistemas de alcantarillado, a menudo, son administrados por diferentes autoridades. La falta de protocolos estandarizados y la mala comunicación entre entidades pueden contribuir a imprecisiones de los datos. Un aporte desde la academia Como detalla el profesor Alejandro Jara: “El método trabaja secuencialmente y determina un conjunto adaptativo de puntos de muestreo en cada paso. Mostramos que el método propuesto aumenta ligeramente el tiempo requerido para detectar un brote en comparación con casos con información perfecta sobre la red”. Como aprega el profesor Mauricio Castro: \"No solo puede ser aplicado en el contexto de detección de brotes de enfermedades en redes de alcantarillado, sino que puede ser utilizado para detectar focos de consumo de sustancias prohibidas, existencia de agentes de contaminación, entre otras aplicaciones. Además, puede ser aplicado no solo a redes de alcantarillado, sino a cualquier tipo de red o estructura que pueda ser representada mediante un grafo dirigido acíclico\". Asimismmo, el académico agrega que \"la ventaja de nuestro método es que permite la detección del evento en todos los puntos de la red y no sólo en la planta de tratamiento de aguas servidas, lo que permite tomar acciones oportunas\". El trabajo liderado por MIDAs fue dirigido por Alejandro Jara, participando los académicos del Departamento de Estadística de la Facultad de Matemáticas Fernando Quintana, Isabelle Beaudry, María José García-Zattera, Luis Gutiérrez y Mauricio Castro; junto a los académicos del Instituto de Ingeniería Matemática y Computacional (IMC) Carlos Sing-Long, Cristóbal Guzmán y José Verschae. Los desarrollos que llevan a la publicación, en tanto, fueron realizados por los académicos Mauricio Castro, Isabelle Beaudry, Alejandro Jara y José Verschae. El trabajo, además, contó con la participación de los estudiantes José Baboun, Benjamín Rubio y Felipe Gutiérrez. Como concluye el profesor Jara: “Esta investigación es un ejemplo del rol público de la UC y, más específicamente, de la Facultad de Matemáticas, ya que muestra la importancia de la existencia de capacidades científicas básicas de primer nivel”.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health"
+  ],
+  "external_links": [
+    "https://www.minciencia.gob.cl",
+    "https://www.pnas.org/doi/10.1073/pnas.2316616121",
+    "https://minciencia.gob.cl",
+    "https://pnas.org/doi/10.1073/pnas.2316616121"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T01:46:14.525+03:00",
+  "updated": "2024-04-24T06:28:15.031+03:00"
+}

@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "ffcdf11ce70b6ef369b8b460fc7281ee8ebfed99",
+    "url": "https://www.mql5.com/en/forum/427053",
+    "site_full": "www.mql5.com",
+    "site": "mql5.com",
+    "site_section": "https://mql5.com/en/rss",
+    "site_categories": [
+      "stocks",
+      "finance"
+    ],
+    "section_title": "MQL5: MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader",
+    "title": "AttributeError: 'NoneType' object has no attribute 'ask'",
+    "title_full": "AttributeError: 'NoneType' object has no attribute 'ask'",
+    "published": "2025-01-09T00:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://www.mql5.com/en/forum/images/og/fb/427053",
+    "performance_score": 0,
+    "domain_rank": 11098,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ffcdf11ce70b6ef369b8b460fc7281ee8ebfed99",
+  "url": "https://www.mql5.com/en/forum/427053",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Thao Pham",
+  "published": "2025-01-09T00:44:00.000+02:00",
+  "title": "AttributeError: 'NoneType' object has no attribute 'ask'",
+  "text": "AttributeError: 'NoneType' object has no attribute 'ask'\nHi guys, i keep getting an AttributeError with my code, does anyone know how to fix it, it has got be stumped.\nGet the last tick for the Crypto is Error but Currency cross is Ok!\nMy code in attachment file. Any support would be great.\n#1\nHi guys, i keep getting an AttributeError with my code, does anyone know how to fix it, it has got be stumped.\nGet the last tick for the Crypto is Error but Currency cross is Ok!\nMy code in attachment file. Any support would be great.\nRead and study the help documentation: symbol_info_tick\nDocumentation on MQL5: Integration / MetaTrader for Python / symbol_info_tick\n- www.mql5.com\n#2\nThis documentation doesn't say anything about crypto, currency cross only :)\nFor example: Get the last tick for the BTCUSD is error but GBPUSD is Ok.\n#4\n#:\nRead and study the documentation. If you do not understand - just copy one to one.\nYour writing style is broken. Learn to read documentation and CORRECTLY write code.\nNice! It's working.\nx = mt5.symbol_info_tick('BTCUSD')._asdict() print(x['ask']) print(x['bid'])\nThank you very much!!!\n#5\nI'm having basically the identical error, except intermittently. E.g. sometimes I am able to get the bid price, other times it complains of the NoneType doesn't have a bid attribute.\nThis makes literally no sense. It implies that sometimes it cant get the bid price basically. This is a confusion to me, I have 2 computers, the one which is running slightly slower due to the complexity of my algorithm actually almost always reliably gets the bid price, the faster more modern machine ALWAYS failed to acquire the bid price.....\nI run 2 RAW MT5 Demo accounts. One on the faster newer laptop, one on an older PC which actually gets the bid price more reliably using this code.\nHelp would be much appreciated.\nCODE:\nelement = \"EURGBP\"\nself.display is a method of my own.\n- Free trading apps\n- Over 8,000 signals for copying\n- Economic news for exploring financial markets\nYou agree to website policy and terms of use\nregister",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social problem",
+    "Social Issue->social services",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:25:34.607+02:00",
+  "updated": "2025-01-10T10:25:34.607+02:00"
+}

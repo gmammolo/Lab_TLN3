@@ -1,0 +1,123 @@
+{
+  "thread": {
+    "uuid": "b291f0125456aa72c551d5dd0dce50c64dcce081",
+    "url": "https://www.techspot.com/news/102595-avi-wigderson-wins-turing-award-influential-work-computational.html",
+    "site_full": "www.techspot.com",
+    "site": "techspot.com",
+    "site_section": "http://www.techspot.com/backend.xml",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TechSpot",
+    "title": "Avi Wigderson wins Turing Award for his influential work in computational randomness | TechSpot",
+    "title_full": "Avi Wigderson wins Turing Award for his influential work in computational randomness | TechSpot",
+    "published": "2024-04-11T23:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.techspot.com/images2/news/bigimage/2024/04/2024-04-11-image-27.jpg",
+    "performance_score": 0,
+    "domain_rank": 2749,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b291f0125456aa72c551d5dd0dce50c64dcce081",
+  "url": "https://www.techspot.com/news/102595-avi-wigderson-wins-turing-award-influential-work-computational.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cal Jeffrey",
+  "published": "2024-04-11T23:33:00.000+03:00",
+  "title": "Avi Wigderson wins Turing Award for his influential work in computational randomness | TechSpot",
+  "text": "Kudos: Let's hear it for theoretical computer scientists. Without their work, we would not be carrying around a mini computer in our pockets. Perhaps even more importantly, we couldn't accurately predict the weather or be on the edge of reliable quantum computing. Avi Wigderson rightly deserves recognition in this field for work that has widely influenced so many others.\nOn Wednesday, the Association for Computing Machinery, a prestigious organization in the field of computer science, awarded mathematician Avi Wigderson the Turing Award. This award, often called the Nobel Prize of Computing, is named after Alan Turing, a pioneer in the field. It is considered one of the highest honors in computer science and comes with a million-dollar cash prize, reflecting the significant impact of the recipient's work.\nWigderson is a theoretical computer scientist specializing in randomness, cryptography, computational complexity, and other related pursuits. He works as an advanced mathematics professor at the Institute for Advanced Study in Princeton, New Jersey.\nTheoretical computer scientists tackle questions like, \"Is this problem solvable through computation?\" or \"If this problem is solvable through computation, how much time and other resources will be required?\"\nIt also delves into the realm of computer algorithm optimization. Just because a line of code is the most obvious way to execute a task does not mean it is the most efficient way. So Wigderson and others in the field are indirectly responsible for breakthroughs in everything from cryptography to machine learning.\nAvi Wigderson *83 has won the #ACMTuringAward from @TheOfficialACM !\nThe award is considered the highest honor in computer science, often called the \"Nobel Prize of Computing.\"\nCongratulations! ï¿½'ï¿½ https://t.co/g9KOK1llTy\n– Princeton University (@Princeton) April 10, 2024 Wigderson has led theoretical research that has laid the foundations for computational randomness and pseudorandomness in systems for forty years. It was long thought that chaotic systems like the weather or quantum mechanics are impossible to model using deterministic instructions because of those systems' inherent random behavior.\nIn a series of studies, Wigderson and his colleagues challenged widely believed computational assumptions by proving that all probabilistic polynomial time algorithms can be \"derandomized\" efficiently and be made fully deterministic. Derandomization is the process of converting a probabilistic algorithm into a deterministic one, which has significant implications for the efficiency and reliability of computational processes.\n\"In other words, randomness is not necessary for efficient computation,\" the ACM notes. \"This sequence of works revolutionized our understanding of the role of randomness in computation, and the way we think about randomness.\"\nWigderson's seminal works include the papers \" Hardness vs Randomness ,\" \" BPP Has Subexponential Time Simulations Unless EXPTIME has Publishable Proofs ,\" and \" P = BPP if E Requires Exponential Circuits: Derandomizing the XOR Lemma .\" These papers, co-authored by contemporaries like Noam Nisan and Lance Fortnow , became foundational material for other studies in theoretical computer science.\nAs a professor, Wigderson has mentored students and colleagues alike. He has a passion for his field of study and an enthusiasm for sharing his knowledge with everyone he meets.\n\"Notably, none of these papers are solely authored or even have much overlap in their author lists,\" Fortnow wrote in his blog regarding his colleague's achievement . \"Avi shared his wisdom with many, nearly 200 distinct co-authors according to DBLP. Congrats to Avi and this capstone to an incredible career and individual.\"\nImage credit: Association for Computing Machinery\n3 comments 17 likes and shares",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://twitter.com/Princeton/status/1778169849178427592?ref_src=twsrc%5Etfw",
+    "https://blog.computationalcomplexity.org/2024/04/avi-wins-turing-award.html",
+    "https://twitter.com/TheOfficialACM?ref_src=twsrc%5Etfw",
+    "https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/NOAM/HARDNESS/final.pdf",
+    "https://www.cs.huji.ac.il/~noam/",
+    "https://lance.fortnow.com",
+    "https://link.springer.com/article/10.1007/BF01275486",
+    "https://www.acm.org",
+    "https://awards.acm.org/about/2023-turing",
+    "https://twitter.com/hashtag/ACMTuringAward?src=hash&ref_src=twsrc%5Etfw",
+    "https://dl.acm.org/doi/pdf/10.1145/258533.258590",
+    "https://www.lance.fortnow.com",
+    "https://twitter.com/TheOfficialACM",
+    "https://www.dl.acm.org/doi/pdf/10.1145/258533.258590",
+    "https://www.twitter.com/hashtag/ACMTuringAward?src=hash&ref_src=twsrc%5Etfw",
+    "https://cs.huji.ac.il/~noam/",
+    "https://www.blog.computationalcomplexity.org/2024/04/avi-wins-turing-award.html",
+    "https://www.twitter.com/Princeton/status/1778169849178427592?ref_src=twsrc%5Etfw",
+    "https://twitter.com/Princeton/status/1778169849178427592",
+    "https://www.link.springer.com/article/10.1007/BF01275486",
+    "https://www.twitter.com/TheOfficialACM?ref_src=twsrc%5Etfw",
+    "https://math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/NOAM/HARDNESS/final.pdf",
+    "https://twitter.com/hashtag/ACMTuringAward",
+    "https://acm.org",
+    "https://www.awards.acm.org/about/2023-turing",
+    "https://www.cs.huji.ac.il/~noam"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "avi wigderson",
+        "sentiment": "negative"
+      },
+      {
+        "name": "alan turing",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "association for computing machinery",
+        "sentiment": "none"
+      },
+      {
+        "name": "institute for advanced study at princeton",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "new jersey",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T00:08:36.079+03:00",
+  "updated": "2024-04-14T22:21:17.839+03:00"
+}

@@ -1,0 +1,145 @@
+{
+  "thread": {
+    "uuid": "013ae4b69f151746fd4f2e9f9e7c4b78c51bc29d",
+    "url": "https://www.idowa.de/bayern/wetterdienst-rechnet-mit-starkregen-in-bayern-art-353209",
+    "site_full": "www.idowa.de",
+    "site": "idowa.de",
+    "site_section": "https://www.idowa.de/regionen/viechtach/viechtach",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Viechtach - Nachrichten aus dem Bayerischen Wald​",
+    "site_title": "idowa.de - Nachrichten aus Bayern",
+    "title": "Wetterdienst rechnet mit Starkregen in Bayern",
+    "title_full": "Wetterdienst rechnet mit Starkregen in Bayern",
+    "published": "2025-08-28T08:17:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.idowa.de/storage/image/2/7/7/0/880772_metadaten_1EH_t__I3zifg.jpg",
+    "performance_score": 0,
+    "domain_rank": 42434,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "013ae4b69f151746fd4f2e9f9e7c4b78c51bc29d",
+  "url": "https://www.idowa.de/bayern/wetterdienst-rechnet-mit-starkregen-in-bayern-art-353209",
+  "ord_in_thread": 0,
+  "author": "idowa, Straubing, Germany",
+  "published": "2025-08-28T08:17:00.000+03:00",
+  "title": "Wetterdienst rechnet mit Starkregen in Bayern",
+  "text": "Wettervorhersage Wetterdienst rechnet mit Starkregen in Bayern\nPeter Kneffel/dpa\nIm Laufe des Tages ziehen schauerartige Regenfälle über den Freistaat. (Symbolbild)\nVon dpa 28. August 2025 Stand: 7:17 Uhr Zum Ende des Augusts sollten die Menschen in Bayern lieber auf Regenschirm und Jacke statt Sonnenbrille setzen. Laut dem Deutschen Wetterdienst (DWD) wird es auch in den kommenden Tagen nass im Freistaat.\nIm Laufe des Tages sollen die Schauer vom Westen über das ganze Land ziehen. Dabei ist vor allem in Unterfranken zunächst mit Starkregen zu rechnen. Laut Prognose sollen zwischen 20 und 35 Liter Regen innerhalb weniger Stunden fallen - lokal seien auch bis zu 50 Liter möglich. Im Laufe der Nacht werden ähnliche Regenmengen südlich der Donau erwartet. Zu Gewittern kommt es aber nur vereinzelt. Die Temperaturen erreichen Höchstwerte von 18 Grad im Allgäu und bis zu 27 Grad an der unteren Donau.\nAm Freitag wird es kälter und die Höchsttemperaturen liegen zwischen 18 und 24 Grad. Laut DWD lässt der Regen nach. Am Nachmittag seien vor allem im Südosten einzelne Schauer oder Gewitter möglich, hieß es. Auch am Samstag soll es immer wieder einzelne Schauer geben.\nDieser Artikel ist Teil eines automatisierten Angebots der Deutschen Presse-Agentur (dpa). Er wird von der idowa-Redaktion nicht bearbeitet oder geprüft.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Environment",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather forecast",
+    "Environment->environmental pollution",
+    "Environment->climate change",
+    "Environment->water",
+    "Social Issue->population and census",
+    "Social Issue->demographics",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Bayern",
+        "sentiment": "none"
+      },
+      {
+        "name": "Unterfranken",
+        "sentiment": "none"
+      },
+      {
+        "name": "Allgäu",
+        "sentiment": "none"
+      },
+      {
+        "name": "Donau",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      },
+      {
+        "name": "Deutschen Wetterdienst",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T08:49:54.125+03:00",
+  "updated": "2025-08-28T08:56:39.000+03:00"
+}

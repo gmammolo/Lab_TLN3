@@ -1,0 +1,152 @@
+{
+  "thread": {
+    "uuid": "deb8f25cc3bc3854d644401ce36bf37227492c48",
+    "url": "https://www.sueddeutsche.de/panorama/bedeckter-himmel-regen-wolken-und-wenig-sonnenschein-zum-wochenende-dpa.urn-newsml-dpa-com-20090101-250828-930-965329",
+    "site_full": "www.sueddeutsche.de",
+    "site": "sueddeutsche.de",
+    "site_section": "https://www.sueddeutsche.de/panorama",
+    "site_categories": [
+      "non_standard_content",
+      "adult",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Panorama - Nachrichten aus aller Welt - SZ.de",
+    "site_title": "Aktuelle Nachrichten und Kommentare - SZ.de",
+    "title": "Regen, Wolken und wenig Sonnenschein zum Wochenende",
+    "title_full": "Regen, Wolken und wenig Sonnenschein zum Wochenende",
+    "published": "2025-08-28T10:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.sueddeutsche.de/2025/08/28/b84e66a9-5696-417e-94d9-8760d5377a99.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=undefined%2Cundefined%2Cundefined%2Cundefined",
+    "performance_score": 0,
+    "domain_rank": 1135,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "deb8f25cc3bc3854d644401ce36bf37227492c48",
+  "url": "https://www.sueddeutsche.de/panorama/bedeckter-himmel-regen-wolken-und-wenig-sonnenschein-zum-wochenende-dpa.urn-newsml-dpa-com-20090101-250828-930-965329",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-28T10:46:00.000+03:00",
+  "title": "Regen, Wolken und wenig Sonnenschein zum Wochenende",
+  "text": "Offenbach (dpa/lrs) - Zum Wochenende müssen sich die Menschen in Rheinland-Pfalz und im Saarland auf wechselhaftes Wetter einstellen. Wie der Deutsche Wetterdienst (DWD) in Offenbach mitteilte, beruhigt sich das Wetter am Donnerstag nach einer teils unruhigen Nacht und gewittrigem Regen am Morgen erst ab dem Mittag. Später sind im Südwesten und Westen erneut einzelne Schauer und Gewitter möglich – bei Höchsttemperaturen zwischen 21 und 23 Grad. Im Hochland sollen es 18 Grad werden.\nAm Freitag lockert es zunächst etwas auf. Zum Abend hin kann es aber örtlich schauern und gewittern, bei etwa gleichbleibenden Temperaturen. Am Samstag lässt sich teils die Sonne blicken, teils ist es bewölkt. Am Sonntag soll es meist bewölkt bleiben und gebietsweise regnen, bei Temperaturen zwischen 21 und 25 Grad.\n© dpa-infocom, dpa:250828-930-965329/1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Social Issue",
+    "Environment"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather forecast",
+    "Social Issue->social services",
+    "Social Issue->social condition",
+    "Environment->climate change",
+    "Environment->nature",
+    "Environment->ecosystem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Rheinland-Pfalz",
+        "sentiment": "none"
+      },
+      {
+        "name": "Offenbach",
+        "sentiment": "none"
+      },
+      {
+        "name": "Saarland",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      },
+      {
+        "name": "Deutsche Wetterdienst",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T10:53:49.016+03:00",
+  "updated": "2025-08-29T11:04:12.000+03:00"
+}

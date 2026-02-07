@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "2b5149ee9b98c4abc70f644576f3a8c979a854eb",
+    "url": "https://community.sourcegraph.com/t/cody-agent-chewing-up-cpu/1796",
+    "site_full": "community.sourcegraph.com",
+    "site": "sourcegraph.com",
+    "site_section": "https://community.sourcegraph.com/latest.rss",
+    "site_categories": [],
+    "section_title": "Sourcegraph Forum - Latest topics",
+    "title": "Cody agent chewing up CPU",
+    "title_full": "Cody agent chewing up CPU",
+    "published": "2025-01-09T23:53:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://canada1.discourse-cdn.com/flex004/uploads/sourcegraph/original/2X/f/f3c6072a4965c85cce25ddd4982f67239310b014.png",
+    "performance_score": 0,
+    "domain_rank": 27457,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2b5149ee9b98c4abc70f644576f3a8c979a854eb",
+  "url": "https://community.sourcegraph.com/t/cody-agent-chewing-up-cpu/1796",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "mdhender",
+  "published": "2025-01-09T23:53:00.000+02:00",
+  "title": "Cody agent chewing up CPU",
+  "text": "Weird and I hope that it’s a one-off. I clicked “new chat” and got no response. The Cody agent seems like it’s hung.\nThis is GoLand with the latest nightly build of the plugin.\nThanks, @mdhender, for reporting. I sent this to the team. In the meantime, can you please switch back to the previous nightly or stable build?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:36:09.998+02:00",
+  "updated": "2025-01-10T01:36:09.998+02:00"
+}

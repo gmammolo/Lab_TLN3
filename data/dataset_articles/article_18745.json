@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "28084f60ff513cabe1f8e0b4906c1db1b18c3d93",
+    "url": "https://wsvn.com/news/local/miami-dade/water-quality-advisory-issued-for-crandon-park-south",
+    "site_full": "wsvn.com",
+    "site": "wsvn.com",
+    "site_section": "https://news.google.com/search?q=for%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "tech"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": null,
+    "title": "Water quality advisory issued for Crandon Park South",
+    "title_full": "Water quality advisory issued for Crandon Park South",
+    "published": "2025-03-06T05:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://wsvn.com/wp-content/uploads/sites/2/2025/03/030524-Crandon-Park-South.png",
+    "performance_score": 0,
+    "domain_rank": 7093,
+    "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "28084f60ff513cabe1f8e0b4906c1db1b18c3d93",
+  "url": "https://wsvn.com/news/local/miami-dade/water-quality-advisory-issued-for-crandon-park-south",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@wsvn",
+  "published": "2025-03-06T05:44:00.000+02:00",
+  "title": "Water quality advisory issued for Crandon Park South",
+  "text": "KEY BISCAYNE, FLA. (WSVN) - Swimmers are advised not to enter the water at Crandon Park South after recent water samples detected high levels of bacteria.\nThe Florida Department of Health in Miami-Dade on Wednesday issued a water quality advisory for the water near Key Biscayne.\nSwimmers could see an increased risk of getting sick if they were to engage in any water-related activity at the park.\nThe health department will continue to monitor samples there and notify when the advisory is lifted.\nCopyright 2024 Sunbeam Television Corp. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Health",
+    "Social Issue"
+  ],
+  "topics": [
+    "Environment->water pollution",
+    "Environment->environmental pollution",
+    "Environment->sustainability",
+    "Health->public health",
+    "Health->communicable disease",
+    "Health->health organisation",
+    "Social Issue->social services",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Crandon Park South",
+        "sentiment": "none"
+      },
+      {
+        "name": "Miami-Dade",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "WSVN",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Florida Department of Health",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Sunbeam Television Corp",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-06T05:56:55.224+02:00",
+  "updated": "2025-03-06T05:56:55.224+02:00"
+}

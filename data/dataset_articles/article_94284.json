@@ -1,0 +1,164 @@
+{
+  "thread": {
+    "uuid": "5d1e959a052be68e992143328768a725ec2efebe",
+    "url": "https://www.tuttomercatoweb.com/rassegna-stampa/la-prima-pagina-di-i-qs-i-e-sul-ko-della-juventus-a-madrid-il-cuore-non-basta-2159993",
+    "site_full": "www.tuttomercatoweb.com",
+    "site": "tuttomercatoweb.com",
+    "site_section": "http://www.tuttomercatoweb.com",
+    "site_categories": [
+      "world_soccer",
+      "sports"
+    ],
+    "section_title": "TUTTO mercato WEB: notizie di calcio e calciomercato",
+    "site_title": "TUTTO mercato WEB: notizie di calcio e calciomercato",
+    "title": "La prima pagina di QS è sul ko della Juventus a Madrid: \"Il cuore non basta\" - TUTTO mercato WEB",
+    "title_full": "La prima pagina di QS è sul ko della Juventus a Madrid: \"Il cuore non basta\" - TUTTO mercato WEB",
+    "published": "2025-10-23T08:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/2e/2e41901040e713e44e62f66b87671e97-85811-oooz0000.jpeg",
+    "performance_score": 0,
+    "domain_rank": 8194,
+    "domain_rank_updated": "2025-10-20T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5d1e959a052be68e992143328768a725ec2efebe",
+  "url": "https://www.tuttomercatoweb.com/rassegna-stampa/la-prima-pagina-di-i-qs-i-e-sul-ko-della-juventus-a-madrid-il-cuore-non-basta-2159993",
+  "ord_in_thread": 0,
+  "author": "Stefano Bertocchi",
+  "published": "2025-10-23T08:58:00.000+03:00",
+  "title": "La prima pagina di QS è sul ko della Juventus a Madrid: \"Il cuore non basta\" - TUTTO mercato WEB",
+  "text": "La prima pagina di QS è sul ko della Juventus a Madrid: \"Il cuore non basta\"\nLa buona prestazione non è sufficiente per permettere alla Juventus di uscire con qualche punto dal Bernabeu nella terza giornata della League Phase di Champions League. I bianconeri perdono 1-0 contro il Real Madrid (decide una rete di Bellingham arrivata nel secondo tempo) e restano fermi a 2 punti in classifica, con il 25esimo posto che al momento tiene la squadra di Tudor fuori dalla zona Play off: \"Juve, il cuore non basta - titola oggi QS nella sua prima pagina -. Champions, 1-0 Real ma la Signora c'è: rimpianti Tudor\".\nDi spalla si parla invece dell'Atalanta, l'altra italiana impegna ieri sera in Champions League. I nerazzurri non riescono ad andare oltre lo 0-0 in casa contro lo Slavia Praga: \"Dea sprecona: ancora un pari. Solo un punto con lo Slavia\", il titolo proposto dal quotidiano sportivo.\nNel taglio basso spicca anche un box dedicato al lavori di Cristian Chivu e al momento dell'Inter, reduce da sette vittorie consecutive tra campionato e Champions League e attesa sabato dal big match del Maradona contro il Napoli: \"Chivu chiede, il gruppo ascolta. E l'Inter vola - si legge -. Nerazzurri lanciatissimi, trionfa lo spogliatoio. Già 60 milioni (almeno) di ricavi in Europa\".",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Sport"
+  ],
+  "topics": [
+    "Sport->soccer",
+    "Sport->final game"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tudor",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Madrid",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bellingham",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bernabeu",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Juventus",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "JUVE",
+            "exchange": "Borsa Italiana"
+          }
+        ]
+      },
+      {
+        "name": "Slavia Praga",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Real Madrid",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Atalanta",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Inter",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "INTR",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "QS",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-23T09:01:50.908+03:00",
+  "updated": "2025-10-23T09:06:08.000+03:00"
+}

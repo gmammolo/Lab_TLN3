@@ -1,0 +1,132 @@
+{
+  "thread": {
+    "uuid": "802f5866f4fcab05b739b65e13f2b03452dacda5",
+    "url": "https://www.welt.de/videos/video695f3fec4d1d5f581eeaf485/auch-nachbarlaender-betroffen-sturmtief-bringt-starken-schneefall-und-glatteis.html",
+    "site_full": "www.welt.de",
+    "site": "welt.de",
+    "site_section": "https://www.welt.de/feeds/latest.rss",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news",
+      "economy, business and finance",
+      "crime, law and justice",
+      "lifestyle and leisure",
+      "disaster and accident",
+      "politics",
+      "sport"
+    ],
+    "section_title": "Nachrichten - WELT",
+    "site_title": "WELT - Aktuelle Nachrichten, News, Hintergründe &amp; Videos",
+    "title": "Sturmtief bringt starken Schneefall und Glatteis",
+    "title_full": "Sturmtief bringt starken Schneefall und Glatteis",
+    "published": "2026-01-08T08:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://images.welt.de/695f3fec4d1d5f581eeaf485/7b0e358a453568d646c48c6f94883fd6-master/ci16x9-w1200/dpa-com-20090101-260107-911-018251-jpg",
+    "performance_score": 0,
+    "domain_rank": 808,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "802f5866f4fcab05b739b65e13f2b03452dacda5",
+  "url": "https://www.welt.de/videos/video695f3fec4d1d5f581eeaf485/auch-nachbarlaender-betroffen-sturmtief-bringt-starken-schneefall-und-glatteis.html",
+  "ord_in_thread": 0,
+  "author": "@welt",
+  "published": "2026-01-08T08:14:00.000+02:00",
+  "title": "Sturmtief bringt starken Schneefall und Glatteis",
+  "text": "Artikeltyp:VideoAuch Nachbarländer betroffen\nSturmtief bringt starken Schneefall und Glatteis\nDeutschland erwartet ein Sturmtief mit kräftigem Schneefall. Im Süden und Westen wandelt sich der Schnee rasch in Regen und Glatteis. Auch Nachbarländer wie Frankreich, Belgien und die Niederlande sind betroffen.\n© Axel Springer Deutschland GmbH. Alle Rechte vorbehalten.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Weather->weather warning",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Niederlande",
+        "sentiment": "none"
+      },
+      {
+        "name": "Frankreich",
+        "sentiment": "none"
+      },
+      {
+        "name": "Belgien",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Axel Springer Deutschland GmbH",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_de",
+      "top_news_ch",
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T08:32:46.873+02:00",
+  "updated": "2026-01-09T09:08:09.000+02:00"
+}

@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "d13bbcc91b1a3331d6d24db7b1efe91b95365474",
+    "url": "https://www.linformaticien.com/magazine/cybersecurite/62722-fuite-de-donnees-chez-direct-assurance-des-iban-et-des-rib-dans-la-nature.html",
+    "site_full": "www.linformaticien.com",
+    "site": "linformaticien.com",
+    "site_section": "https://www.linformaticien.com/?format=feed&type=atom",
+    "site_categories": [
+      "under_construction"
+    ],
+    "section_title": "L'1FO Tech par L'Informaticien - L'INFORMATICIEN - L'1FO Tech par L'Informaticien - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES - L'1FO Tech par L'Informaticien",
+    "title": "Fuite de données chez Direct Assurance : des IBAN et des RIB dans la nature - L'INFORMATICIEN & L'INFO CYBER-RISQUES - L'1FO Tech par L'Informaticien - L'INFORMATICIEN - L'1FO Tech par L'Informaticien",
+    "title_full": "Fuite de données chez Direct Assurance : des IBAN et des RIB dans la nature - L'INFORMATICIEN & L'INFO CYBER-RISQUES - L'1FO Tech par L'Informaticien - L'INFORMATICIEN - L'1FO Tech par L'Informaticien",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 134072,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d13bbcc91b1a3331d6d24db7b1efe91b95365474",
+  "url": "https://www.linformaticien.com/magazine/cybersecurite/62722-fuite-de-donnees-chez-direct-assurance-des-iban-et-des-rib-dans-la-nature.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Victor MIGET",
+  "published": "2024-11-22T02:00:00.000+02:00",
+  "title": "Fuite de données chez Direct Assurance : des IBAN et des RIB dans la nature - L'INFORMATICIEN & L'INFO CYBER-RISQUES - L'1FO Tech par L'Informaticien - L'INFORMATICIEN - L'1FO Tech par L'Informaticien",
+  "text": "Des pirates auraient exploité des accès internes pour pénétrer les systèmes de Direct Assurance et exfiltrer des données sensibles, parmi lesquelles figurent des RIB et des IBAN.\nDans le sillage de l’attaque visant un établissement de santé, qui a compromis les données de 750 000 patients, le collectif de pirates near2tlg revendique également une intrusion chez Direct Assurance, filiale d’Axa. Au total, 15 000 clients et prospects français sont concernés. Et ce n’est pas tout : les données volées comprennent des IBAN pour 5800 clients concernés, mais aussi des RIB, noms, adresses e-mail et numéros de téléphone.\nDans un message publié sur BreachForums, near2tlg annonce : « Aujourd’hui, je vends les données des clients/prospects de Direct Assurance. Direct Assurance a été compromis le 14 novembre par @near2tlg avec un accès employé. » Selon le groupe, 6 137 clients et 9 517 prospects sont concernés. Les données ont été mises en vente avec une limite de trois acheteurs maximum, et un slot aurait déjà été réservé, selon le site Zataz.\nUn groupe prolifique\nCette fuite suscite des craintes quant à de potentielles tentatives de phishing, de vols d’identité, mais aussi de fraudes bancaires, notamment par l’autorisation de prélèvements frauduleux à l’aide des IBAN et des RIB volés.\nLe collectif near2tlg est bien connu pour ses activités intensives cette année. Il a notamment revendiqué une attaque contre des établissements de santé, entraînant l’exfiltration des données de 1,5 million de patients. Parmi ses autres cibles figurent également le Journal Le Point, avec une fuite concernant plus de 900 000 utilisateurs, et l’opérateur SFR.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T13:02:11.070+02:00",
+  "updated": "2024-11-27T14:11:55.516+02:00"
+}

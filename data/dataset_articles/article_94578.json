@@ -1,0 +1,180 @@
+{
+  "thread": {
+    "uuid": "4feac1f361295c6906d1d5b10a4e773e6a0b7e20",
+    "url": "https://www.tuttomercatoweb.com/serie-a/juventus-salgono-a-sette-le-partite-senza-vittoria-la-lazio-diventa-importante-per-tudor-2159998",
+    "site_full": "www.tuttomercatoweb.com",
+    "site": "tuttomercatoweb.com",
+    "site_section": "https://tuttomercatoweb.com",
+    "site_categories": [
+      "world_soccer",
+      "sports"
+    ],
+    "section_title": "TUTTO mercato WEB: notizie di calcio e calciomercato",
+    "site_title": "TUTTO mercato WEB: notizie di calcio e calciomercato",
+    "title": "Juventus, salgono a sette le partite senza vittoria: la Lazio diventa importante per Tudor",
+    "title_full": "Juventus, salgono a sette le partite senza vittoria: la Lazio diventa importante per Tudor",
+    "published": "2025-10-23T09:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/8b/8b6de4f7aab1b5d4ff129d85b8f4b0ae-00957-oooz0000.jpeg",
+    "performance_score": 0,
+    "domain_rank": 8194,
+    "domain_rank_updated": "2025-10-20T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4feac1f361295c6906d1d5b10a4e773e6a0b7e20",
+  "url": "https://www.tuttomercatoweb.com/serie-a/juventus-salgono-a-sette-le-partite-senza-vittoria-la-lazio-diventa-importante-per-tudor-2159998",
+  "ord_in_thread": 0,
+  "author": "Andrea Piras",
+  "published": "2025-10-23T09:30:00.000+03:00",
+  "title": "Juventus, salgono a sette le partite senza vittoria: la Lazio diventa importante per Tudor",
+  "text": "Juventus, salgono a sette le partite senza vittoria: la Lazio diventa importante per Tudor\nUna sconfitta amara per la Juventus. E, per come arrivata, immeritata. La formazione bianconera esce battuta dal \"Bernabeu\" con un 1-0 firmato Bellingham anche se la prestazione comunque c'è stata. Analizzando però i dati, sale a sette la striscia di partite senza vittoria per la squadra di Igor Tudor. In campionato, dopo la vittoria casalinga e rocambolesca nel derby d'Italia contro l'Inter per 4-3 sono arrivati tre pareggi contro Verona, Atalanta e Milan e la sconfitta di Como mentre in Champions League ci sono stati i pareggi contro Borussia Dortmund e Villarreal oltre al ko in terra spagnola.\nCome spesso capita nel calcio quando i risultati non arrivano la posizione dell'allenatore è sempre messa in discussione anche se in casa Juve Giorgio Chiellini ha voluto subito spegnere ogni voce sostenendo l'allenatore: \"Si sono scritte e dette cose non vere: Igor è l'allenatore della Juventus e la nostra volontà è continuare con lui. Poi ci sono i confronti come in tutti i club e in tutte le famiglie e a volte capita di non andare d'accordo. Siamo comunque lontani dall'avere quella crisi che viene dipinta fuori\".\nAdesso però alle porte c'è un'altra trasferta a Roma con la Lazio alla Juventus serve trovare la vittoria. Secondo quanto riporta l'edizione odierna della Gazzetta dello Sport, un altro ko potrebbe pesare sul futuro di Tudor.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Sport"
+  ],
+  "topics": [
+    "Sport->regular competition",
+    "Sport->soccer",
+    "Sport->sport event"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Igor Tudor",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Giorgio Chiellini",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Verona",
+        "sentiment": "none"
+      },
+      {
+        "name": "Como",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Lazio",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Juventus",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "JUVE",
+            "exchange": "Borsa Italiana"
+          }
+        ]
+      },
+      {
+        "name": "Borussia Dortmund",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "BVB",
+            "exchange": "XTRA"
+          }
+        ]
+      },
+      {
+        "name": "Villarreal",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Atalanta",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Milan",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Inter",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "INTR",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-23T09:36:06.946+03:00",
+  "updated": "2025-10-23T09:42:16.000+03:00"
+}

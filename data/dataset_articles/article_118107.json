@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "f6106e7c24197c5e1dcdf92ce5441bc15cf054fc",
+    "url": "https://akipress.com/news:853912",
+    "site_full": "akipress.com",
+    "site": "akipress.com",
+    "site_section": "https://akipress.com/rss/en.rss",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "AKIpress News Agency",
+    "site_title": "AKIpress News Agency",
+    "title": "\"Drivers were not ready for first snowfall, trucks were temporarily stopped at checkpoints\" - Ministry of Emergency Situations",
+    "title_full": "\"Drivers were not ready for first snowfall, trucks were temporarily stopped at checkpoints\" - Ministry of Emergency Situations",
+    "published": "2025-10-02T09:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "KG",
+    "main_image": "https://cdn-1.aki.kg/cdn-st-0/qgm/2/en-853912.1759387275.b.jpg",
+    "performance_score": 0,
+    "domain_rank": 103738,
+    "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f6106e7c24197c5e1dcdf92ce5441bc15cf054fc",
+  "url": "https://akipress.com/news:853912",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-10-02T09:39:00.000+03:00",
+  "title": "\"Drivers were not ready for first snowfall, trucks were temporarily stopped at checkpoints\" - Ministry of Emergency Situations",
+  "text": "AKIPRESS.COM - With the first snowfall, many drivers were unprepared for winter conditions, head of the operational duty department of the Crisis Management Center under the Ministry of Emergency Situations Bakytbek Chamashev told the Birinchi Radio on October 2...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Human Interest"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Human Interest->human mishap"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Ministry of Emergency Situations",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Crisis Management Center",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Birinchi Radio",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-02T10:55:55.900+03:00",
+  "updated": "2025-10-02T11:02:14.000+03:00"
+}

@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "5d017d4b39b3ca423540de8647bc3e2e64553ac0",
+    "url": "https://lwn.net/Articles/998238",
+    "site_full": "lwn.net",
+    "site": "lwn.net",
+    "site_section": "https://lwn.net/headlines/Comments",
+    "site_categories": [
+      "unix",
+      "tech"
+    ],
+    "section_title": "LWN.net comments",
+    "title": "PyPI dropped existing support for digital attestations",
+    "title_full": "PyPI dropped existing support for digital attestations",
+    "published": "2024-11-15T06:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3605,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5d017d4b39b3ca423540de8647bc3e2e64553ac0",
+  "url": "https://lwn.net/Articles/998238",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cyberax",
+  "published": "2024-11-15T06:32:00.000+02:00",
+  "title": "PyPI dropped existing support for digital attestations",
+  "text": "PyPI dropped existing support for digital attestations\nPyPI dropped existing support for digital attestations\nPosted Nov 15, 2024 4:32 UTC (Fri) by Cyberax (✭ supporter ✭, #52523)In reply to:\n[PyPI dropped existing support for digital attestations](/Articles/998236/)by bignose\nParent article:\n[PyPI now supports digital attestations](/Articles/998215/)\n> The issue I'm raising is: there was community-controlled, user-sovereign identity. Flawed, of course, but it was ours, not a closed platform.\nActually, it was not \"yours\". It belongs to the Python Software Foundation, that is acting in accordance with its founding principles. They decided (after a very public deliberation and feedback) that the supply chain security is more important than ideological purity as advocated by a minority of users.\nPosted Nov 15, 2024 5:07 UTC (Fri)\nby bignose (subscriber, #40)\n[\nI'll take that as confirmation that no, there is no such thing today. Which confirms the issue I raised: the existing community-controlled identity system was dropped (for good reason), with no community-controlled replacement (because the PSF decided centralised, proprietary, platform-controlled solutions are good enough). And no evident plan to fix that, not then and not now.\nThe absence of a new solution is not the PSF's fault nor responsibility. The *removal of the existing system*, while there was and is no equivalent community-controlled replacement, is their responsibility and is the issue I'm glad to see we agree is true.\n> Actually, it was not \"yours\". It belongs to the Python Software Foundation\nThe GnuPG web of trust (\n[\n][\n]PyPI dropped existing support for digital attestations\n[Link](/Articles/998239/)]\nhttps://en.wikipedia.org/wiki/Web_of_trust) is the identity solution we still have but the Python Software Foundation decided to stop supporting (again: for good reasons!) in 2023. If you think that belonged to the Python Software Foundation, I think this discussion isn't going anywhere useful.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://en.wikipedia.org/wiki/Web_of_trust",
+    "https://www.en.wikipedia.org/wiki/Web_of_trust"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Python Software Foundation",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T08:25:59.032+02:00",
+  "updated": "2024-11-15T08:25:59.032+02:00"
+}

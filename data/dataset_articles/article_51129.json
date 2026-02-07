@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "7b68f642e8c057dd98bd9a62bebd8ccf9a2aaa58",
+    "url": "https://forum.paradoxplaza.com/forum/threads/crash-to-desktop-during-initialising-game.1701447",
+    "site_full": "forum.paradoxplaza.com",
+    "site": "paradoxplaza.com",
+    "site_section": "https://forum.paradoxplaza.com/forum/forums/-/index.rss",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "Paradox Interactive Forums",
+    "title": "Crash to desktop during initialising game",
+    "title_full": "Crash to desktop during initialising game",
+    "published": "2024-08-30T12:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://forum.paradoxplaza.com/forum/styles/paradox/paradox/og-logo.png",
+    "performance_score": 0,
+    "domain_rank": 11035,
+    "domain_rank_updated": "2024-08-27T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7b68f642e8c057dd98bd9a62bebd8ccf9a2aaa58",
+  "url": "https://forum.paradoxplaza.com/forum/threads/crash-to-desktop-during-initialising-game.1701447",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "matty999 (invalid@example.com)",
+  "published": "2024-08-30T12:06:00.000+03:00",
+  "title": "Crash to desktop during initialising game",
+  "text": "Hello,\nThe game recently keeps crashing during starting up the game, when it says 'initializing game' it stops after a few minutes and shuts down to desktop without an error message.\nIt hasnt always done this but i cant remember how long ago it started doing it. Other games like CK2 and EU4 still work fine.\nAlso i have looked at fixing this problem and taken a few steps already from the recommendations seen on other threads with the same issue.\nSo far i have;\nUninstalled and reinstalled more than once each time making sure to delete all local files in documents and steam files\nverified game files after each fresh install\nDisabled all mods in the launcher\nTried launching on previous game version\nChecked my firewall allows CK3\nTried ticking disable fullscreen optimisation and in the launcher then selected full screen display mode, vsync off, refresh cap rate 60\nchecked for latest drive updates\nupdated my windows to newest update\nAfter all these things didn't make a difference i tried changing the page file size , i think my laptop has 4gb of ram so i changed it to 8gb size values.\nThe crash still occurs at the same time.\nTheir is nothing in the system or exemptions logs but i have attached the other 3 below.\nThanks\nThe game recently keeps crashing during starting up the game, when it says 'initializing game' it stops after a few minutes and shuts down to desktop without an error message.\nIt hasnt always done this but i cant remember how long ago it started doing it. Other games like CK2 and EU4 still work fine.\nAlso i have looked at fixing this problem and taken a few steps already from the recommendations seen on other threads with the same issue.\nSo far i have;\nUninstalled and reinstalled more than once each time making sure to delete all local files in documents and steam files\nverified game files after each fresh install\nDisabled all mods in the launcher\nTried launching on previous game version\nChecked my firewall allows CK3\nTried ticking disable fullscreen optimisation and in the launcher then selected full screen display mode, vsync off, refresh cap rate 60\nchecked for latest drive updates\nupdated my windows to newest update\nAfter all these things didn't make a difference i tried changing the page file size , i think my laptop has 4gb of ram so i changed it to 8gb size values.\nThe crash still occurs at the same time.\nTheir is nothing in the system or exemptions logs but i have attached the other 3 below.\nThanks",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-30T12:15:45.638+03:00",
+  "updated": "2024-08-30T12:15:45.638+03:00"
+}

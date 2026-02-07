@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "557d873f894a3273eec8a516ada536ecddb4a6bf",
+    "url": "https://www.bnnbloomberg.ca/business/company-news/2024/11/14/thomas-kurtz-co-creator-of-computer-language-basic-dies-at-96",
+    "site_full": "www.bnnbloomberg.ca",
+    "site": "bnnbloomberg.ca",
+    "site_section": "https://www.bnnbloomberg.ca/business/company-news",
+    "site_categories": [
+      "financial_news",
+      "finance"
+    ],
+    "section_title": "Company News - BNN Bloomberg",
+    "title": "Thomas Kurtz, Co-Creator of Computer Language Basic, Dies at 96",
+    "title_full": "Thomas Kurtz, Co-Creator of Computer Language Basic, Dies at 96",
+    "published": "2024-11-14T23:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CA",
+    "main_image": "https://www.bnnbloomberg.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1717607291216.jpg?auth=ef34cf3f59642485b12f79845baaee98582b911ca4d3aeb27d8722b9c453587b&amp;width=1200",
+    "performance_score": 0,
+    "domain_rank": 2751,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "557d873f894a3273eec8a516ada536ecddb4a6bf",
+  "url": "https://www.bnnbloomberg.ca/business/company-news/2024/11/14/thomas-kurtz-co-creator-of-computer-language-basic-dies-at-96",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Laurence Arnold",
+  "published": "2024-11-14T23:25:00.000+02:00",
+  "title": "Thomas Kurtz, Co-Creator of Computer Language Basic, Dies at 96",
+  "text": "Thomas E. Kurtz, a Dartmouth College professor who co-created the novice-friendly computer code known as Basic during the 1960s and helped make it the industry standard for programmers during the rise of personal computing, has died. He was 96. He died on Nov. 12 at a hospice center in Lebanon, New Hampshire, according to a death notice in the Valley News newspaper that was confirmed by his wife, Agnes. Basic — an acronym for Beginner’s All-Purpose Symbolic Instruction Code — was invented by John Kemeny, the chairman of Dartmouth’s math department, and Kurtz, one of his faculty members, as part of their push to open up the world of computing to a wide community. Kemeny, who would go on to serve as Dartmouth’s president, died in 1992. The duo first introduced the Dartmouth Time Sharing System, which offered short spurts on the college’s computer — a General Electric model, bought in 1964 — to a broad community of interested users. While the Massachusetts Institute of Technology had a time-share system since 1961, Dartmouth said its version was the first one aimed primarily at non-technical users. Students at 50 high schools and colleges were able to access and use it through remote terminals connected by telephone to the college’s mainframe computers. Next, the two professors set their sights on creating “a high-level language” for “the non-expert users of the system,” Robert Slater wrote in Portraits in Silicon (1987). At the time, Fortran, developed by International Business Machines Corp., was the dominant language of computer programming. “We looked at languages and we both decided that the languages Fortran, Algol, that type of language, were just too complicated,” Kurtz said in a 2002 oral-history interview with Dartmouth. “They were full of punctuation rules, the need for which was not completely obvious and therefore people weren’t going to remember.” With the help of Dartmouth undergraduates, Kemeny and Kurtz wedded their new language to the new time-share system, launching both on May 1, 1964. Easy Learning In Back to Basic: The History, Corruption and Future of the Language, their 1985 book, Kemeny and Kurtz offered this example of a program that met Basic’s goals of being a general-purpose language that was easy to learn: 10 LET X = 5 20 LET Y = 7 30 LET Z = X + Y 40 PRINT Z 50 END “We wanted the syntax of the language to consist of common words, and to have those words have a more-or-less obvious meaning,” Kurtz told Time magazine for a 2014 retrospective. “It is a slight stretch, but isn’t it simpler to use HELLO and GOODBYE in place of LOGON and LOGOFF?” Kurtz said the carping about Basic among computer professionals “was just a little bit of jealousy.” Even he and Kemeny, though, had criticism for later versions of their product, including Microsoft Basic, the product that launched what became the world’s largest software maker, Microsoft Corp. In their book, they said their “design principles were repeatedly violated” as Basic was customized for computers by Apple Inc., IBM and others, producing a hodgepodge that was dismissively termed “Street Basic.” They tried for a time to keep up by producing a version of the software called “True Basic” that could be used on any computer, but ultimately they gave that up. Public Domain As for why they chose not to “control the development and use of Basic,” they said they elected “to put the language into the public domain so that it would be widely used.” In time, Pascal supplanted Basic as the go-to language for programmers, while for most users, Windows and other applications rendered knowledge of programming unessential. “Many of the uses of Basic are now easily done by spreadsheets, or by specific applications,” Kurtz told Time in 2014. “Now, practically all the functions of a modern computer can be accomplished by poking a finger at certain spots on the screen.” Thomas Eugene Kurtz was born on Feb. 22, 1928, in Oak Park, Illinois, the first of two sons of Oscar Kurtz and the former Helen Bell. He graduated in 1950 from Knox College in Galesburg, Illinois, and began graduate studies in statistics at Princeton University in New Jersey. He received his Ph.D. in 1956 and was recruited by Kemeny to join Dartmouth’s math department as a statistics instructor. Kurtz was director of Dartmouth’s Kiewit Computation Center from its founding in 1966 to 1975, after which he directed the Office of Academic Computing and the Computer and Information Systems graduate program. He retired in 1993. With his first wife, Patricia Barr, he had three children. That marriage ended in divorce. His second wife, Agnes Bixler Kurtz, was Dartmouth’s first director of female athletics when the college began admitting women in 1972. ©2024 Bloomberg L.P.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Thomas E. Kurtz",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Thomas Kurtz",
+        "sentiment": "negative"
+      },
+      {
+        "name": "John Kemeny",
+        "sentiment": "none"
+      },
+      {
+        "name": "Agnes",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Dartmouth College",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Massachusetts Institute of Technology",
+        "sentiment": "none"
+      },
+      {
+        "name": "Valley News",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T00:53:20.187+02:00",
+  "updated": "2024-11-15T00:53:20.187+02:00"
+}

@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "779f82db2f2f571f43273a0c56dc0d509ca90767",
+    "url": "https://www.oschina.net/news/366153",
+    "site_full": "www.oschina.net",
+    "site": "oschina.net",
+    "site_section": "https://www.oschina.net/news/rss",
+    "site_categories": [
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "OSCHINA 社区最新新闻",
+    "site_title": "OSCHINA - 中文开源技术交流社区",
+    "title": "Cursor 宣布 Auto 模式不再免费 - OSCHINA - 中文开源技术交流社区",
+    "title_full": "Cursor 宣布 Auto 模式不再免费 - OSCHINA - 中文开源技术交流社区",
+    "published": "2025-08-13T19:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4406,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "779f82db2f2f571f43273a0c56dc0d509ca90767",
+  "url": "https://www.oschina.net/news/366153",
+  "ord_in_thread": 0,
+  "author": "局",
+  "published": "2025-08-13T19:00:00.000+03:00",
+  "title": "Cursor 宣布 Auto 模式不再免费 - OSCHINA - 中文开源技术交流社区",
+  "text": "AI编程工具Cursor 宣布 了两项关于定价的新政策。其中包括面向个人用户的“Auto”模式。此前，Auto 模式提供免费无限量请求，但这一政策将发生改变。新的计费模式预计将于9月15日左右生效。\n具体变化如下\n团队版（Teams）：由统一请求费用转向 “可变请求费用”\nCursor 计划从 固定请求成本 ，改为按任务复杂度调整费用——简单请求成本低，复杂任务（如完整 Pull Request）费用自然更高。\n这一改动旨在统一团队版与个人版的计费体系。自 2025年9月15日下次续费日起 生效；例如若你在 2025 年 6 月订阅年付计划，变更将于 2026 年 6 月执行。\n个人版 “Auto 模式”：不再无限制免费\n从 2023 年 12 月至 2025 年 6 月，Auto 模式与其他高端模型同价，但可无限使用。\n从 2025 年 9 月 15 日的下一次续费起 ，Auto 模式将按 “包含额度” 分配，也会纳入每月使用限额（按 token 计费）。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:38:49.675+03:00",
+  "updated": "2025-08-14T09:47:33.000+03:00"
+}

@@ -1,0 +1,97 @@
+{
+  "thread": {
+    "uuid": "bf8ba6448641c3d88114a94c9fe1ca46071fa3e9",
+    "url": "https://habr.com/ru/news/939224/",
+    "site_full": "habr.com",
+    "site": "habr.com",
+    "site_section": "https://habr.com/ru/news",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "IT-новости: главные новости технологий &#x2F; Хабр",
+    "site_title": "Publications &#x2F; My feed &#x2F; Habr",
+    "title": "Уязвимость в Microsoft Copilot использует сбои в журналах аудита",
+    "title_full": "Уязвимость в Microsoft Copilot использует сбои в журналах аудита",
+    "published": "2025-08-21T10:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://habrastorage.org/getpro/habr/upload_files/9b1/0eb/444/9b10eb44478359b87cbc9e615e112a66.png",
+    "performance_score": 0,
+    "domain_rank": 1737,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bf8ba6448641c3d88114a94c9fe1ca46071fa3e9",
+  "url": "https://habr.com/ru/news/939224/",
+  "ord_in_thread": 0,
+  "author": "maybe_elf",
+  "published": "2025-08-21T10:07:00.000+03:00",
+  "title": "Уязвимость в Microsoft Copilot использует сбои в журналах аудита",
+  "text": "Недавно обнаруженная уязвимость M365 Copilot позволяет пользователям получать доступ к информации о файлах без записи активности в журнал аудита. Эта проблема возникла случайно, а не является результатом сложной атаки.\nЗак Корман, технический директор Pistachio, заявил, что баг может быть использован инсайдерами-злоумышленниками для скрытого доступа к конфиденциальным файлам, что создаёт серьёзную проблему для организаций, которые полагаются на точность журналов аудита для обеспечения безопасности, соблюдения нормативных требований и реагирования на инциденты.\nКорман сообщил об уязвимости в Microsoft, и компания устранила её несколько дней назад, выпустив патч непосредственно для Copilot. Корман решил сам раскрыть информацию об уязвимости после того, как Microsoft заявила, что не будет сообщать о ней клиентам.\nПо словам эксперта, MSRC (Центр реагирования на угрозы безопасности Microsoft) не следовал собственной опубликованной политике обработки сообщений об уязвимостях. Статус сообщения был изменён некорректно и без объяснения причин. Изначально в MSRC заявили, что не будут выдавать номер CVE, поскольку клиентам не нужно предпринимать никаких действий. Уязвимость была классифицирована как «важная», а не «критическая».\nПо мнению Кормана, молчание со стороны Microsoft создаёт проблемы для организаций, таких как подпадающие под действие HIPAA (Закон о переносимости и подотчётности медицинского страхования, Health Insurance Portability and Accountability Act) и полагаются на журналы аудита для соблюдения требований.\nНеполный журнал аудита несёт серьёзные последствия для организаций при обнаружении, расследовании и реагировании на инциденты. Поведение Microsoft поднимает вопросы об ответственности компании перед пользователями, особенно учитывая, что уязвимость не так сложно активировать. Теперь организациям может потребоваться проверить последние журналы аудита на предмет пробелов или неточностей.\nМежду тем исследователи на конференции Black Hat заявили, что искусственный интеллект и его методы защиты откатывают отрасль кибербезопасности в 90-е годы. Они продемонстрировали внедрение вредоносных данных в ИИ-агентов в формате наподобие SQL-инъекций. Это создаёт лазейки, которые позволяют получить важные данные с помощью промптов без взлома кода.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific innovation",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://pistachioapp.com/blog/copilot-broke-your-audit-log",
+    "https://www.pistachioapp.com/blog/copilot-broke-your-audit-log"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:07:14.846+03:00",
+  "updated": "2025-08-21T12:12:35.000+03:00"
+}

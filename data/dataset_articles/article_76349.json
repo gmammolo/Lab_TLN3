@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "35d239a8bfc4bbbc430e24f7d42d951297fa98e1",
+    "url": "https://www.vpnranks.com/news/sonicwall-vpn-flaw-exposed-hackers-predict-session-ids",
+    "site_full": "www.vpnranks.com",
+    "site": "vpnranks.com",
+    "site_section": "https://www.vpnranks.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "VPNRanks: Expert VPN Reviews &amp; Exclusive VPNScore Scoring System",
+    "title": "SonicWall VPN Flaw Exposed: Hackers Predict Session IDs",
+    "title_full": "SonicWall VPN Flaw Exposed: Hackers Predict Session IDs",
+    "published": "2025-01-10T05:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 35763,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "35d239a8bfc4bbbc430e24f7d42d951297fa98e1",
+  "url": "https://www.vpnranks.com/news/sonicwall-vpn-flaw-exposed-hackers-predict-session-ids",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anosha Shariq",
+  "published": "2025-01-10T05:33:00.000+02:00",
+  "title": "SonicWall VPN Flaw Exposed: Hackers Predict Session IDs",
+  "text": "San Francisco, January 10, 2025 –SonicWall VPNs face a new vulnerability, allowing hackers to predict session IDs and access sensitive networks. A patch is available; immediate updates are urged.\nEthical hackers from Computest Security have uncovered a critical flaw in SonicWall VPN servers, marking the second vulnerability in recent months. This flaw allows attackers to predict session IDs, enabling them to impersonate legitimate users and infiltrate sensitive corporate networks.\nThe vulnerability, found at the login stage, revolves around the system’s session ID mechanism. Hackers can predict these unique identifiers, designed to verify users during VPN sessions. Once exploited, the flaw lets attackers move through the network undetected, potentially accessing confidential data.\nThis is a wake-up call for enterprises relying on SonicWall VPNs. It highlights the urgent need to fortify peripheral security systems.\nIn October 2024, SonicWall VPNs were similarly targeted by ransomware campaigns. Despite recent patches, the recurrence of vulnerabilities underscores the persistent risks businesses face. Computest Security promptly reported this flaw to SonicWall, and a patch is now available.\nVPNs are supposed to be the first line of defense. Flaws like this could jeopardize critical infrastructure, from small businesses to global enterprises.\nAs more organizations adopt remote work, business VPNs play an essential role in securing data. However, incidents like these emphasize the importance of regular updates, robust passwords, and employee cybersecurity training.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:18:51.484+02:00",
+  "updated": "2025-01-10T10:18:51.484+02:00"
+}

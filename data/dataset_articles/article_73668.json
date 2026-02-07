@@ -1,0 +1,67 @@
+{
+  "thread": {
+    "uuid": "a0c8cc51bc6aa2c35b7024a76c92083c927fada8",
+    "url": "https://status.aiven.io/incidents/01JCPEQ8BJ9Y6KKWSJ9GMRAY81",
+    "site_full": "status.aiven.io",
+    "site": "aiven.io",
+    "site_section": "https://status.aiven.io/feed.rss",
+    "site_categories": [],
+    "section_title": "Aiven status",
+    "title": "Postgres services failing to start.",
+    "title_full": "Postgres services failing to start.",
+    "published": "2024-11-15T01:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 110587,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a0c8cc51bc6aa2c35b7024a76c92083c927fada8",
+  "url": "https://status.aiven.io/incidents/01JCPEQ8BJ9Y6KKWSJ9GMRAY81",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-15T01:20:00.000+02:00",
+  "title": "Postgres services failing to start.",
+  "text": "We recently found an issue with some of our Postgres services failing to start.\nWe identified the code causing failure and all systems should be working normally again.\nPlease contact support if you are still experiencing a problem.\nWe recently found an issue with some of our Postgres services failing to start.\nWe identified the code causing failure and all systems should be working normally again.\nPlease contact support if you are still experiencing a problem.\nFurther updates will appear here\nMonitoring\nWe recently found an issue with some of our Postgres services failing to start.\nWe identified the code causing failure and all systems should be working normally again.\nPlease contact support if you are still experiencing a problem.\nInvestigating\nWe are investigating a problem with some of our Postgres services failing to start.\nWe are working to identify the problem and will update when we have more. Please reach out to support if you are experiencing issues.\nWe apologise for the inconvenience caused by this issue.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:11:34.807+02:00",
+  "updated": "2024-11-15T02:11:34.807+02:00"
+}

@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "bc49532820d96c251e3d04ed52cf89b46ff727cc",
+    "url": "https://forums.stardock.com/525063/constant-highlighting-of-taskbar-buttons",
+    "site_full": "forums.stardock.com",
+    "site": "stardock.com",
+    "site_section": "https://www.wincustomize.com/rss/hottopics",
+    "site_categories": [
+      "hobbies_and_interests",
+      "video_and_computer_games"
+    ],
+    "section_title": "WinCustomize Hot Forum Topics",
+    "title": "Constant highlighting of taskbar buttons",
+    "title_full": "Constant highlighting of taskbar buttons",
+    "published": "2024-08-09T00:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.stardock.com/images/social/str_generic_socialpost.jpg",
+    "performance_score": 0,
+    "domain_rank": 7011,
+    "domain_rank_updated": "2024-08-06T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bc49532820d96c251e3d04ed52cf89b46ff727cc",
+  "url": "https://forums.stardock.com/525063/constant-highlighting-of-taskbar-buttons",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bobj",
+  "published": "2024-08-09T00:43:00.000+03:00",
+  "title": "Constant highlighting of taskbar buttons",
+  "text": "I have to restart explorer a dozen times a day due to my taskbar buttons staying highlighted after my mouse moves over them. It did this back when I ran the trial & now it's happening again as I use the software months later.\nI have seen that before, but only with some blinds. I solved it by changing the margins for those buttons Skinstudio. Do you have the issue with all blinds? If not, what wb are you using?\nHaven't tried them all so can't say it's all of them but it's all of the ones I've tried. It was also doing it on Windows/WindowBlinds 10.\nHello,Sorry to hear you are having issues. It best to informed us some more details on your system.\nThanksBasj,Stardock Community Assistant.\n1. 21H2 (22000.2538)\n2. 11.02 (017 x64 - Windows 11 Edition)\n3. Yes.\nAlthough not much of that would seem to matter since I pointed out it was also happening under Windows 10/WindowBlinds 10.\nHello,\nI tried with Diamond and Corporate, but, I can not reproduce your issue on my Windows 11 system. Here is my system details.\nBelow a short video I made for what I get on my system. Please let me know if I need to do something to make the issue appear.\nThanks.Basj,Stardock Community Assistant.\nNot sure what to say, I had the same exact issue on a completely different system/OS using different types of software for start menu replacements & the issue persists through them all.\nMaybe some other 3rd party application conflicting the thing.\nThank you,\nBasj,Stardock Community Assistant\nI mean it's possible but it only happens when I'm running WindowBlinds. It also happened on Windows 10/WindowBlinds 10 before I ended up having to upgrade to an entirely new system with Windows 11 & it's doing it again.\nHello again,\nWhen you upgrade your system to Windows 11, did you do a fresh install of Windows 11, or you do Windows 11 install over Windows 10?\nPlease try cleanboot and see if you can find out which software is conflicting with WB. https://forums.stardock.com/486023/windowblinds-support-faq#cleanboot\nTaskbar buttons are painted differently on Windows 11 and Windows 10 with WB and Start11 so the problem is a curious one. There is one possible common thing but I would expect it to act consistently always.\nCan you post a screenshot of the problem please using one of the including skins from WB11 please.\nNotice the highlighting of MPC-BE x64, it will remain that way until I mouse over another icon/button. Win8 is the current style.\nAnyone have any ideas or am I just s-o-l?\n[Edited]\nWell, I got tired of constantly restarting explorer so I quit using WindowBlinds & the problem went away.\nI'm interested in whether this issue ever gets resolved or gets submitted to the developers as a bug report. Thanks!\nMy idea is to try to find out IF and how and why and where there is a possible software conflict, but it looks like you have decided to move on.......\nThis was happening years ago on Windows 10 (separate computer & install of Windows) as well so I'm not sure what it could be & I'm tired of getting nowhere with the people I paid to get the software.\nThe issue is unknown since we can not reproduce the issue on our end. And you will notice that it been few months and no one else has come in and said they too have this issue. That tell us that the issue most probably unique in your system. Conflicting with other software that run in all your previous system too. I did asked you to try cleanboot (Reply#11), but somehow you're not interested to try it.\nI never said I wasn't interested in trying it, just that it takes some time for the issue to present itself & I can't run a clean account for that amount of time. I suspect the issue could be Open-Shell as it's the only software I can think of that would be common between the 2 systems. I've just been so used to it since the Windows 11 taskbar/start menu suck beyond comparison & your start menu software doesn't have enough to offer to be good enough to purchase so I'll just not use WindowBlinds for the time being.\nHere's an update.\nI had only unloaded WindowBlinds, the service was still running in the background. Now, I hadn't had the issue since I unloaded WindowBlinds, until a couple of days ago. That being what it was, I stopped the service this time & we'll see if the issue still presents itself but given how long it took this last time it could be a bit.\nHere we are in August, hasn't happened once since I stopped the WindowBlinds service.\nThe only piece of software I'm running that would be the same between the different systems would be Open-Shell (Classic-Shell), I could see that being a possibility. The problem there, if Stardock refuses to do anything to try & fix the issue, is that I will not switch to Start11 or other related start menu alternatives as Start11 honestly sucks & the others seem to have issues of their own in other ways.\nThere are many great features available to you once you register, including:\nSign in or Create Account\nThank you! Please check your email for a confirmation link. Once confirmed, you can look forward to receiving exclusive specials and announcements direct from Stardock.\nNeed to unsubscribe?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Customer Insights and Reviews",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "stardock community",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-08-09T00:45:00.537+03:00",
+  "updated": "2024-08-09T00:45:00.537+03:00"
+}

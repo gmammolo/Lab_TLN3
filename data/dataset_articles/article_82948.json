@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "998cd7f9d341490614a1cca5179e847c277a44ef",
+    "url": "https://rpp.pe/tecnologia/innovaciones/ocelot-marca-un-hito-en-la-computacion-cuantica-con-diseno-que-incorpora-correccion-de-errores-desde-su-concepcion-noticia-1618958",
+    "site_full": "rpp.pe",
+    "site": "rpp.pe",
+    "site_section": "https://rpp.pe/feed",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_pe",
+      "top_news_cl",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "RPP NOTICIAS",
+    "site_title": null,
+    "title": "Ocelot marca un hito en la computación cuántica con diseño que incorpora corrección de errores desde su concepción.",
+    "title_full": "Ocelot marca un hito en la computación cuántica con diseño que incorpora corrección de errores desde su concepción.",
+    "published": "2025-02-27T23:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PE",
+    "main_image": "https://e.rpp-noticias.io/large/2025/02/27/323232_1711315.webp",
+    "performance_score": 0,
+    "domain_rank": 17083,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "998cd7f9d341490614a1cca5179e847c277a44ef",
+  "url": "https://rpp.pe/tecnologia/innovaciones/ocelot-marca-un-hito-en-la-computacion-cuantica-con-diseno-que-incorpora-correccion-de-errores-desde-su-concepcion-noticia-1618958",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alberto Nishiyama",
+  "published": "2025-02-27T23:28:00.000+02:00",
+  "title": "Ocelot marca un hito en la computación cuántica con diseño que incorpora corrección de errores desde su concepción.",
+  "text": "Amazon presenta tecnología revolucionaria que podría acortar en 5 años el desarrollo de computadoras cuánticas prácticas.\nAmazon Web Services (AWS) ha dado un paso en la carrera por desarrollar computadoras cuánticas prácticas con el anuncio de Ocelot, un chip cuántico revolucionario que promete reducir hasta en un 90% los costos de implementación para la corrección de errores, comparado con las tecnologías actuales.\nDesarrollado por el equipo del Centro de Computación Cuántica de AWS en el Instituto Tecnológico de California, Ocelot representa un cambio de paradigma en la forma en que se abordan los mayores desafíos de esta tecnología emergente. La innovación principal radica en su arquitectura diseñada desde cero con la corrección de errores como prioridad, utilizando los denominados \"cat qubits\" (en referencia al experimento mental del gato de Schrödinger).\n\"Con los recientes avances en la investigación cuántica, ya no se trata de 'y si', sino 'cuando sean prácticas', las computadoras cuánticas tolerantes a fallas estarán disponibles para aplicaciones del mundo real. Ocelot es un paso importante en ese viaje\", explicó Oskar Painter, director de Quantum Hardware de AWS.\nEl mayor obstáculo para el desarrollo de computadoras cuánticas prácticas ha sido su extrema sensibilidad al \"ruido\" ambiental. Vibraciones, interferencias electromagnéticas e incluso rayos cósmicos pueden alterar los estados cuánticos de los qubits, provocando errores en los cálculos. Las estrategias convencionales para corregir estos errores requieren enormes recursos, haciendo prohibitivo su escalamiento.\nOcelot aborda este problema utilizando cat qubits que suprimen intrínsecamente ciertas formas de error. Esta tecnología, combinada con componentes adicionales de corrección de errores cuánticos, está integrada en un microchip fabricable mediante procesos estándar de la industria microelectrónica, lo que permite su escalabilidad.\nEl prototipo actual consta de dos microchips de silicio superpuestos, cada uno con aproximadamente 1 cm² de superficie. Los circuitos incluyen 14 componentes centrales: cinco qubits de datos (cat qubits), cinco \"circuitos búfer\" para estabilizarlos y cuatro qubits adicionales para detectar errores. Los qubits almacenan estados cuánticos utilizando osciladores de alta calidad fabricados con una película superconductora de tántalo, procesado de manera especial por científicos de materiales de AWS.\nSegún los investigadores, escalar esta arquitectura para crear \"una computadora cuántica capaz de tener un impacto social transformador requeriría tan solo una décima parte de los recursos asociados a los enfoques estándar de corrección de errores cuánticos\". Esto podría acelerar el desarrollo de computadoras cuánticas prácticas hasta por cinco años.\n¿Para qué puede servir Ocelot?\nLas aplicaciones potenciales son vastas: desde acelerar el descubrimiento y desarrollo de fármacos hasta producir nuevos materiales, mejorar las predicciones en mercados financieros y resolver problemas actualmente intratables para las computadoras convencionales.\nAWS ha publicado sus hallazgos en un artículo revisado por pares en la prestigiosa revista Nature, validando científicamente esta tecnología prometedora. Aunque Ocelot sigue siendo un prototipo, representa un avance significativo comparable a la transición histórica de los tubos de vacío a los transistores, que revolucionó la informática.\nComparte esta noticia",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->physics",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ocelot",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Amazon Web Services",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:32:46.586+02:00",
+  "updated": "2025-02-28T00:32:46.586+02:00"
+}

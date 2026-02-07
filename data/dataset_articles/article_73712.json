@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "6889f207dc47f1d8592ef08bd44643462f893187",
+    "url": "https://www.zdnet.com/article/blueskys-stormy-day-how-its-explosive-growth-led-to-inevitable-outages",
+    "site_full": "www.zdnet.com",
+    "site": "zdnet.com",
+    "site_section": "https://www.zdnet.com/blog/france/rss.xml",
+    "site_categories": [
+      "tech",
+      "palmtops_pdas"
+    ],
+    "section_title": "",
+    "title": "Bluesky's stormy day: How its explosive growth led to inevitable outages",
+    "title_full": "Bluesky's stormy day: How its explosive growth led to inevitable outages",
+    "published": "2024-11-15T02:09:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.zdnet.com/a/img/resize/85e9d38b8c340c5380f3dcfe33ed8f0f0d5ae813/2024/11/14/dad6ef7e-508a-4d58-97d9-7d611da8b54a/stormy-gettyimages-546470113.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "performance_score": 0,
+    "domain_rank": 339,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6889f207dc47f1d8592ef08bd44643462f893187",
+  "url": "https://www.zdnet.com/article/blueskys-stormy-day-how-its-explosive-growth-led-to-inevitable-outages",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@ZDNET",
+  "published": "2024-11-15T02:09:00.000+02:00",
+  "title": "Bluesky's stormy day: How its explosive growth led to inevitable outages",
+  "text": "Jason Hosking/Getty Images As an active user of Bluesky, I&apos;ve witnessed the platform&apos;s remarkable growth firsthand. In recent weeks, my follower count has surged alongside the influx of many new users joining the network, reflecting a genuine demand for a fresh social media experience.\nHowever, with such rapid growth come some challenges. Today, Bluesky experienced significant strain, resulting in numerous errors and slow loading times. My experience on Bluesky today was both exciting and frustrating. Notifications slowed to a crawl, timelines took a long time to load, and I frequently encountered \"Invalid Handle\" errors. To stabilize the situation temporarily, Bluesky&apos;s technical team put the platform into read-only mode .\nThe initial service outage, which lasted about an hour, was caused by a cut fiber cable from one of Bluesky&apos;s main bandwidth providers. After connectivity was restored, issues persisted well into the evening due to a huge surge in traffic and signups. Despite these challenges, the platform ended the day by adding over 1.2 million new users, marking a record-breaking event.\nAlso: How to migrate from X to Bluesky without losing your followers\nAs a long-time observer of social media, I felt a sense of déjà vu, as the experience was reminiscent of Twitter&apos;s early years when the Fail Whale became an infamous symbol of overloaded servers .\nThe Fail Whale reimagined In a fun twist, Bluesky users have brought back the Fail Whale image on the platform, this time with playful variations . One such version features a certain lovable alien from an &apos;80s TV show , looking just as exasperated as we feel while waiting for posts to load. It&apos;s a reminder of our desire for stability on these platforms and highlights how the social media community has traditionally relied on humor to cope with technical glitches.\nWhy the struggles Bluesky&apos;s decentralized design is intended to prevent exactly this type of bottleneck. In theory, each user could host their data on their own Personal Data Server (PDS), distributing the load across a network of servers instead of relying on a single central instance. But at the moment, the reality is that most users are connected to the main bsky.social infrastructure, which is bearing the brunt of the load. While practical for a platform still finding its feet, this centralization has created bottlenecks as Bluesky&apos;s popularity skyrockets.\nBuilding a truly distributed network is not for the timid Bluesky&apos;s vision for decentralization reminds me of how the Domain Name System (DNS) operates on the internet. DNS is a globally distributed system that spreads across countless servers to handle requests, prevent single points of failure, and efficiently manage traffic. Bluesky aims to achieve something similar by allowing users and communities to host their own data through Personal Data Servers. In theory, this decentralized setup would reduce strain on central servers and help avoid the bottlenecks we&apos;re seeing currently as Bluesky&apos;s popularity skyrockets.\nSetting up a PDS is relatively accessible -- many individuals and organizations can run one, and some hosting providers, like DigitalOcean, even offer pre-built templates to streamline the setup . However, going beyond the PDS to create a complete, fully functional Bluesky instance is a different story.\nAlso: How to use Bluesky Social: Everything to know about the popular X alternative\nA recent developer blog post revealed that the relay component alone, which handles data streams across servers, requires nearly 5TB of storage. Add to that the need for computing power, memory, and bandwidth, and replicating the entire Bluesky infrastructure demands a level of resources and technical complexity that&apos;s out of reach for most individuals and smaller organizations.\nThis is where hyperscale cloud providers like AWS, Google Cloud, and Azure come in. With their massive infrastructure, these providers could offer both PDS hosting and the supporting infrastructure components Bluesky needs to scale effectively. If hyperscalers invest in supporting Bluesky&apos;s infrastructure, the platform could finally realize its decentralized vision -- creating a network that, like DNS, operates across a distributed architecture and allows data to flow smoothly between independently managed servers.\nWith this distributed setup, Bluesky could support its expanding user base without relying on a single point of failure, moving closer to becoming a resilient, user-owned social network that can truly scale with demand.\nLooking ahead As a Bluesky user, I hope the platform can overcome its technical challenges, allowing it to evolve into the decentralized, user-owned network it aims to be. With support from hyperscalers and increased adoption of PDS instances, Bluesky&apos;s future could be both scalable and resilient, capable of supporting millions of users without collapsing under pressure.\nThe Fail Whale and its Bluesky-inspired counterparts serve as a charming reminder of the platform&apos;s journey and indicate that the Bluesky team has significant scaling work ahead to keep up with its growing popularity.\nAlso: 7 things to know about Bluesky before you join - and why you should\nAs Bluesky expands, it faces the dual challenge of meeting existing demand while simultaneously building toward a decentralized future. Today&apos;s glitches reflect both progress and potential. With the right infrastructure and a commitment to a distributed model, Bluesky has the opportunity to redefine social media -- creating a platform owned by its users that can withstand surges in popularity without experiencing a single Fail Whale.\nFeatured\nHow to use your Apple Watch to predict when you may get sick\nI test AI tools for a living, and these are the only two worth paying for\nThere&apos;s a new king of online shopping, and it&apos;s built an unstoppable monopoly\nOura Ring vs. Apple Watch: Which health tracker should you buy?\nHow to use your Apple Watch to predict when you may get sick\nI test AI tools for a living, and these are the only two worth paying for\nThere&apos;s a new king of online shopping, and it&apos;s built an unstoppable monopoly\nOura Ring vs. Apple Watch: Which health tracker should you buy? Editorial standards",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": false,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://www.youtube.com/watch?v=Xo8IfYFyLgQ",
+    "https://alice.bsky.sh/post/3laega7icmi2q",
+    "https://bsky.app/profile/lartist.bsky.social/post/3kkaj7ko5ck2n",
+    "https://marketplace.digitalocean.com/apps/bluesky-social-pds",
+    "https://bsky.app/profile/esqueer.net/post/3lawgfngj5k2c",
+    "https://www.theverge.com/2024/11/14/24296537/bluesky-acting-up-outage-down",
+    "https://faineg.substack.com/p/how-i-accidentally-ruined-bluesky",
+    "https://www.faineg.substack.com/p/how-i-accidentally-ruined-bluesky",
+    "https://www.bsky.app/profile/lartist.bsky.social/post/3kkaj7ko5ck2n",
+    "http://youtube.com/watch?v=Xo8IfYFyLgQ",
+    "https://www.bsky.app/profile/esqueer.net/post/3lawgfngj5k2c",
+    "https://theverge.com/2024/11/14/24296537/bluesky-acting-up-outage-down",
+    "https://www.alice.bsky.sh/post/3laega7icmi2q",
+    "https://www.marketplace.digitalocean.com/apps/bluesky-social-pds",
+    "http://www.youtube.com/watch"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bluesky",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:49:22.111+02:00",
+  "updated": "2024-12-04T05:38:39.449+02:00"
+}

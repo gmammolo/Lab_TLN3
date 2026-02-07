@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "484fc92a9e76904b4816b62f1fe0c1279045e9b9",
+    "url": "https://linuxfr.org/users/glandos/journaux/le-pass-sport-du-gouvernement-francais-ressemble-a-une-grosse-arnaque",
+    "site_full": "linuxfr.org",
+    "site": "linuxfr.org",
+    "site_section": "https://linuxfr.org/statistiques",
+    "site_categories": [
+      "unix",
+      "tech"
+    ],
+    "section_title": "Statistiques - LinuxFr.org",
+    "title": "Le pass Sport du gouvernement français ressemble à une grosse arnaque - LinuxFr.org",
+    "title_full": "Le pass Sport du gouvernement français ressemble à une grosse arnaque - LinuxFr.org",
+    "published": "2024-08-30T15:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25514,
+    "domain_rank_updated": "2024-08-27T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "484fc92a9e76904b4816b62f1fe0c1279045e9b9",
+  "url": "https://linuxfr.org/users/glandos/journaux/le-pass-sport-du-gouvernement-francais-ressemble-a-une-grosse-arnaque",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Glandos",
+  "published": "2024-08-30T15:22:00.000+03:00",
+  "title": "Le pass Sport du gouvernement français ressemble à une grosse arnaque - LinuxFr.org",
+  "text": "Bonjour, J'ai reçu une (bonne ?) nouvelle : un « pass Sport » d'une valeur de 50 € valable pour une licence sportive pour mes enfants. Super ! Un courriel pour chaque enfant, avec même la faute d'accent dans l'un des prénoms (je cherche à la faire corriger depuis 6 ans, sans résultat). Tout a l'air bien. Je regarde le contenu du message, et là tous les liens sont sous la forme : [https://obnm74.com/ssjzzamwj3ic1qqncd/index6.html](https://obnm74.com/ssjzzamwj3ic1qqncd/index6.html) (spoiler, si je vous l'ai mis, c'est que c'est un lien correct et sans information personnelle) Mais tous les liens ont le même domaine, mais un chemin aléatoirement choisi de caractères minuscules différents. Y compris « Mentions légales » et « Se désabonner ». Y compris le texte « pass.sports.gouv.fr/v2/politique-de-confidentialite/ » qui porte le lien « [https://obnm74.com/yljwmazqjtqcmcgv1l/index4.html](https://obnm74.com/yljwmazqjtqcmcgv1l/index4.html) ». Je dégaine le whois, et là, à part des informations très basiques, rien d'autre que : Registrar URL: http://www.ovh.com Updated Date: 2024-04-13T07:23:06Z Creation Date: 2011-04-12T15:25:27Z Registry Expiry Date: 2025-04-12T15:25:27Z Registrar: OVH sas Registrar IANA ID: 433 Registrar Abuse Contact Email: abuse@ovh.net Bon, déjà, le domaine a été créé il y a 13 ans, c'est pas trop mal. Mais à part ça, tout sent l'arnaque bien léchée. J'ai regardé les entêtes SMTP, ça vient bien du serveur obnm74.com, IP 178.33.44.84. Le SPF correspond : # On regarde d'abord l'enregistrement de l'expéditeur > dig info.pass.sports.gouv.fr TXT +short \"v=spf1 include:_spf_sd.netmessage.com -all\" # Comme il renvoie vers un autre serveur, on regarde la politique d'envoi de l'autre serveur > dig _spf_sd.netmessage.com TXT +short \"v=spf1 ip4:37.59.132.30 ip4:37.59.85.48/30 ip4:37.59.203.40/30 ip4:46.105.156.96/31 ip4:92.103.221.128/28 ip4:92.103.41.156/30 ip4:176.31.54.236/30 ip4:178.32.168.160/29 ip4:178.33.42.30/31 ip4:178.33.42.32 ip4:178.33.9.50 ip4:178.33.145.116/31 ip4:1\" \"78.33.145.119 ip4:178.33.44.82/31 ip4:178.33.44.84 ip4:178.33.41.12/30 ip4:188.165.126.16/30 ip4:188.165.126.20/31 -all\" # Toutes les adresses ci-dessus sont donc autorisées à envoyer des courriels au nom de info.pass.sports.gouv.fr. On vérifie les adresses du serveur qui a réellement envoyé : > host obnm74.com obnm74.com has address 178.33.145.119 obnm74.com has address 178.33.44.82 obnm74.com has address 178.33.44.84 obnm74.com has address 178.33.44.83 obnm74.com has address 178.33.145.117 obnm74.com has address 178.33.145.116 # L'adresse 178.33.44.84 correspond et est spécifiquement autorisée. Donc le message a bien été envoyé par un serveur dûment autorisé. Alors je suis allé sur le site directement : [https://www.pass.sports.gouv.fr/v2/test-eligibilite](https://www.pass.sports.gouv.fr/v2/test-eligibilite) J'ai rentré l'intégralité des informations, et paf, il m'a sorti le même code que celui du courriel. Donc… non, ce n'est pas une arnaque. Mais franchement, c'est quoi ce message ? Je n'ai pas encore envoyé de rapport à un responsable (à trouver sur le site), mais c'est encore une fois impossible d'apprendre aux gens à se méfier si le gouvernement envoie des arnaques bien léchées…",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://obnm74.com/ssjzzamwj3ic1qqncd/index6.html",
+    "https://www.pass.sports.gouv.fr/v2/test-eligibilite)",
+    "http://www.ovh.com",
+    "https://obnm74.com/yljwmazqjtqcmcgv1l/index4.html",
+    "https://www.pass.sports.gouv.fr/v2/test-eligibilite",
+    "https://obnm74.com/ssjzzamwj3ic1qqncd/index6.html)",
+    "https://obnm74.com/yljwmazqjtqcmcgv1l/index4.html)",
+    "https://pass.sports.gouv.fr/v2/test-eligibilite",
+    "https://www.obnm74.com/yljwmazqjtqcmcgv1l/index4.html",
+    "https://www.obnm74.com/yljwmazqjtqcmcgv1l/index4.html)",
+    "https://www.obnm74.com/ssjzzamwj3ic1qqncd/index6.html)",
+    "https://pass.sports.gouv.fr/v2/test-eligibilite)",
+    "http://ovh.com",
+    "https://www.obnm74.com/ssjzzamwj3ic1qqncd/index6.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-30T17:31:08.244+03:00",
+  "updated": "2024-08-30T17:31:08.244+03:00"
+}

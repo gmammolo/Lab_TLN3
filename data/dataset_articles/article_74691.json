@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "a41aaa2e6c3a050002d7008ede3edde571a62419",
+    "url": "https://www.wizcase.com/news/malicious-facebook-ads-target-bitwarden-users-with-fake-security-update",
+    "site_full": "www.wizcase.com",
+    "site": "wizcase.com",
+    "site_section": "https://wizcase.com/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "WizCase",
+    "title": "Malicious Facebook Ads Target Bitwarden Users With Fake Security Update",
+    "title_full": "Malicious Facebook Ads Target Bitwarden Users With Fake Security Update",
+    "published": "2024-11-21T20:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.wizcase.com/wp-content/uploads/2024/11/Screenshot-2024-11-21-at-19.40.16-1.webp",
+    "performance_score": 0,
+    "domain_rank": 16785,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a41aaa2e6c3a050002d7008ede3edde571a62419",
+  "url": "https://www.wizcase.com/news/malicious-facebook-ads-target-bitwarden-users-with-fake-security-update",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@wizcase",
+  "published": "2024-11-21T20:47:00.000+02:00",
+  "title": "Malicious Facebook Ads Target Bitwarden Users With Fake Security Update",
+  "text": "Revealed a Facebook ad campaign tricking Bitwarden users into installing malware, collecting personal and business data via fake updates. In a Rush? Here are the Quick Facts! Malicious ads led users to install a harmful browser extension from a Google Drive link. The malware collects personal and business data, including Facebook account and payment details. The attack uses browser Developer Mode to bypass security checks and install the extension. Bitdefender Labs has uncovered a new cyber attack targeting users of the popular password manager, Bitwarden. This malicious campaign, which began on November 3, 2024, uses deceptive Facebook ads to trick users into installing harmful browser extensions. The ads, which appear to be legitimate, urge users to update their Bitwarden extension due to a supposed security issue. Bitdefender explains that the campaign begins with a fake ad on Facebook, which creates a sense of urgency by using Bitwarden’s branding and alarming language like “Warning: Your Passwords Are at Risk!” When users click on the ad, they are redirected to a fraudulent website that mimics the official Chrome Web Store. On this site, users are prompted to download an extension by clicking a link to a Google Drive file. This file contains a zip archive that, when unzipped, installs the malicious extension. The installation process bypasses the browser’s security features, says Bitdefender. Users are tricked into enabling Developer Mode and manually loading the extension into their browser. Once installed, the extension gains extensive permissions, allowing it to monitor and modify the user’s online activities. Bitdefender says that the malware particularly targets Facebook accounts, collecting personal information, business details, and even credit card information tied to Facebook’s ad accounts. Once installed, the malware starts to harvest Facebook cookies and other sensitive data. It then transmits the stolen information to a server controlled by the attackers. This data could lead to financial losses for individuals and businesses whose Facebook accounts are targeted. To protect against this type of attack, Bitdefender suggests that users should avoid installing extensions from unofficial sources, especially those promoted through ads on social media. Always update extensions through trusted sources like the Chrome Web Store, and carefully review the permissions requested by any extension. Users should also be cautious about any ad that creates a sense of urgency or asks for immediate action.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T02:36:21.513+02:00",
+  "updated": "2024-11-22T02:36:21.513+02:00"
+}

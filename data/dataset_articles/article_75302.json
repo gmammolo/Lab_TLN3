@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "52c77cc639bf8bd07cd2a2f95853e4f3d482a506",
+    "url": "https://www.techworm.net/2024/11/windows-11-bug-increases-audio-volume-microsoft-confirms.html",
+    "site_full": "www.techworm.net",
+    "site": "techworm.net",
+    "site_section": "https://www.techworm.net",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Techworm - The Tech Hub",
+    "title": "Windows 11 bug Increases audio volume to 100%, Microsoft confirms",
+    "title_full": "Windows 11 bug Increases audio volume to 100%, Microsoft confirms",
+    "published": "2024-11-22T12:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 24430,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "52c77cc639bf8bd07cd2a2f95853e4f3d482a506",
+  "url": "https://www.techworm.net/2024/11/windows-11-bug-increases-audio-volume-microsoft-confirms.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kavita Iyer",
+  "published": "2024-11-22T12:25:00.000+02:00",
+  "title": "Windows 11 bug Increases audio volume to 100%, Microsoft confirms",
+  "text": "Microsoft has confirmed that a new bug in Windows 11 24H2 is automatically increasing the audio volume level to 100%.\nAccording to a recently updated support document quietly published this week, the issue reportedly occurs on Windows 11, version 24H2 gaming PCs using an external USB digital audio converter (DAC) sound system.\nMore specifically, users may experience 100-level audio issues when any of the following criteria are met:\nYou use the Creative Sound BlasterX G6 USB digital audio converter (DAC). Your gaming system runs Windows 11, version 24H2. You manually make your gaming system go to sleep and then you manually wake the system from sleep. You attach and then immediately detach the external sound system from your Windows gaming system. You adjust the volume of the external sound system and then immediately detach the external sound system from your Windows gaming system. Microsoft adds that the only noticeable indicator is the sudden increase in audio volume to 100 percent, with no error messages or other identifying indicators.\nThe Redmond giant says the issue is caused by a “timing problem” in the AudioEndpointBuilder service, a Windows service introduced in Windows Vista that discovers new audio devices, creates software audio endpoints, and activates them.\nCurrently, there is no fix available for the audio issue.\nMicrosoft is working on a resolution and is expected to provide more information when available.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://support.microsoft.com/en-us/topic/windows-gaming-system-external-usb-audio-volume-increases-to-100-percent-18e7697c-52e0-4dc4-8721-a12ffc019258",
+    "https://www.support.microsoft.com/en-us/topic/windows-gaming-system-external-usb-audio-volume-increases-to-100-percent-18e7697c-52e0-4dc4-8721-a12ffc019258"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T13:45:21.047+02:00",
+  "updated": "2024-11-22T13:45:21.047+02:00"
+}

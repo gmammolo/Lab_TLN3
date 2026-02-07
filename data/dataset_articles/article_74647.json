@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "974e75d841f1230698a5491eb2fdbb3ea41715e4",
+    "url": "https://www.macg.co/macos/2024/11/le-pare-feu-de-macos-sequoia-pose-decidement-des-problemes-147219",
+    "site_full": "www.macg.co",
+    "site": "macg.co",
+    "site_section": "https://www.macg.co/logiciels",
+    "site_categories": [
+      "mac_support",
+      "tech"
+    ],
+    "section_title": "MacGeneration",
+    "title": "Le pare-feu de macOS Sequoia pose décidément des problèmes",
+    "title_full": "Le pare-feu de macOS Sequoia pose décidément des problèmes",
+    "published": "2024-11-15T17:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://img.macg.co/2018/6/macgpic-1528968611-21584636083898-accroche.jpg",
+    "performance_score": 0,
+    "domain_rank": 31756,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "974e75d841f1230698a5491eb2fdbb3ea41715e4",
+  "url": "https://www.macg.co/macos/2024/11/le-pare-feu-de-macos-sequoia-pose-decidement-des-problemes-147219",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Anthony Nelzin-Santos",
+  "published": "2024-11-15T17:00:00.000+02:00",
+  "title": "Le pare-feu de macOS Sequoia pose décidément des problèmes",
+  "text": "C’est une règle immuable du développement logiciel : chaque fois que vous réglez deux bugs, vous en introduisez un nouveau. Apple inaugure une nouvelle règle : chaque fois qu’elle règle un bug, elle en introduit deux autres. En réglant les lenteurs du pare-feu , Apple a non seulement bloqué les sauvegardes Time Machine sur les NAS , mais aussi bloqué les pare-feux de tierce partie. L’excellent Little Snitch est le premier concerné. Norbert Heger, directeur général d’Objective Development, déplore la récurrence des bugs entourant le pare-feu. Un problème dans la résolution DNS avait déjà perturbé le fonctionnement des applications utilisant le framework Network Extension fourni par Apple, comme Little Snitch, mais il avait été réglé dans macOS 15.1. Las, un nouveau problème empêche maintenant toute communication entre les pare-feux de tierce partie et le réseau. L’éditeur autrichien recommande aux utilisateurs de Little Snitch et Little Snitch Mini de désactiver le pare-feu intégré, de toute manière inutile dès lors que l’on utilise une solution plus perfectionnée. Pour ne rien arranger, Objective Development a repéré un autre problème affectant le framework Network Extension, qui provoque des fuites de mémoire pouvant atteindre plusieurs centaines de mégaoctets, voire plusieurs gigaoctets. En attendant une mise à jour de macOS Sequoia qui règlerait ce fâcheux bug, ce dérapage peut être contenu en relançant le processus at.obdev.littlesnitch.networkextension depuis le Moniteur d’activité. Jusqu’au prochain problème avec le pare-feu ?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://obdev.at/blog/apples-built-in-macos-firewall-breaks-third-party-firewalls/)",
+    "https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)",
+    "https://obdev.at/products/littlesnitch/index.html)",
+    "https://www.obdev.at/blog/apples-built-in-macos-firewall-breaks-third-party-firewalls/)",
+    "https://www.obdev.at/products/littlesnitch/index.html)",
+    "https://www.obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:56:30.047+02:00",
+  "updated": "2024-11-15T20:21:41.632+02:00"
+}

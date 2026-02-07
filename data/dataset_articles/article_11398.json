@@ -1,0 +1,152 @@
+{
+  "thread": {
+    "uuid": "8d068058a6cf581d42250bb24f01a86d308fdeef",
+    "url": "https://www.channelnewsasia.com/business/us-senate-banking-delays-crypto-bill-after-coinbase-ceo-opposition-5860301?cid=cna_flip_070214",
+    "site_full": "www.channelnewsasia.com",
+    "site": "channelnewsasia.com",
+    "site_section": "https://www.channelnewsasia.com/flipboard.xml",
+    "site_categories": [
+      "society",
+      "tech",
+      "top_news_ph",
+      "top_news_th",
+      "top_news_id",
+      "top_news_sg",
+      "top_news_my",
+      "top_news",
+      "war, conflict and unrest",
+      "economy, business and finance",
+      "science and technology",
+      "crime, law and justice",
+      "politics",
+      "sport"
+    ],
+    "section_title": "CNA",
+    "site_title": "Breaking News and Analysis on Asia and the World | Real-Time Coverage out of Asia and Singapore - CNA",
+    "title": "US Senate Banking delays crypto bill after Coinbase CEO opposition",
+    "title_full": "US Senate Banking delays crypto bill after Coinbase CEO opposition",
+    "published": "2026-01-14T19:12:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "SG",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5093,
+    "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8d068058a6cf581d42250bb24f01a86d308fdeef",
+  "url": "https://www.channelnewsasia.com/business/us-senate-banking-delays-crypto-bill-after-coinbase-ceo-opposition-5860301?cid=cna_flip_070214",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2026-01-14T19:12:00.000+02:00",
+  "title": "US Senate Banking delays crypto bill after Coinbase CEO opposition",
+  "text": "Jan 14 : The United States Senate Banking Committee said on Wednesday it postponed a discussion of draft legislation that would create a regulatory framework for cryptocurrencies, hours after Coinbase CEO Brian Armstrong voiced his opposition to the bill.\nThe legislation, unveiled on Monday, seeks to define when crypto tokens are securities, commodities or otherwise and would also hand policing of spot crypto markets to the Commodity Futures Trading Commission.\n\"I’ve spoken with leaders across the crypto industry, the financial sector, and my Democratic and Republican colleagues, and everyone remains at the table working in good faith,” Senate Banking Committee Chairman Tim Scott said in a statement, while announcing the postponement of the discussion that was scheduled for Thursday.\nIn a post on X earlier in the day, Armstrong expressed his opposition to the legislation and said that Coinbase could not support it in its current form.\nWithout the backing of Coinbase it is unclear if the markup of the bill can proceed. The firm donated millions of dollars to political action committees (PACs) aimed at getting pro-crypto candidates elected in 2024, and has been a key stakeholder in the bill negotiations.\nArmstrong said the bill had \"too many issues\", including a de facto ban on tokenized equities, an erosion of the CFTC's authority and draft amendments that would \"kill rewards on stablecoins\".\nCFTC did not immediately respond to a Reuters request for comment.\nCryptocurrencies need to be treated on a level playing field with other financial services, Armstrong said.\n\"We'd rather have no bill than a bad bill,\" the Coinbase CEO said, adding that he is \"quite optimistic that we will get to the right outcome with continued effort.\"\nThe bill, which could change as senators consider amendments, prohibits crypto companies from paying interest to consumers solely for holding a stablecoin.\nHowever, it allows crypto firms to pay rewards or incentives to customers for certain activities, such as sending a payment or participating in a loyalty program.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Politics"
+  ],
+  "topics": [
+    "Economy, Business and Finance->cryptocurrency",
+    "Economy, Business and Finance->business financing",
+    "Economy, Business and Finance->business governance",
+    "Politics->regulation of industry",
+    "Politics->government",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Brian Armstrong",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "US Senate Banking",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Coinbase",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "COIN",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "United States Senate Banking Committee",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Commodity Futures Trading Commission",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_ph",
+      "top_news_th",
+      "top_news_id",
+      "top_news_sg",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-15T07:58:37.363+02:00",
+  "updated": "2026-01-15T08:03:06.000+02:00"
+}

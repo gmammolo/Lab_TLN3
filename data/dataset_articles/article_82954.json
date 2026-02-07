@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "237dd7c6203a92f0950e0149028cec287f41210b",
+    "url": "https://www.mitrade.com/insights/news/live-news/article-3-665858-20250228",
+    "site_full": "www.mitrade.com",
+    "site": "mitrade.com",
+    "site_section": "https://www.mitrade.com/insights",
+    "site_categories": [],
+    "section_title": "Mitrade Blog | Learn Online Trading With Forex, Crypto, Indices",
+    "site_title": null,
+    "title": "THORChain hits unwanted $3B volume milestone as Bybit hackers revive activity on the struggling network",
+    "title_full": "THORChain hits unwanted $3B volume milestone as Bybit hackers revive activity on the struggling network",
+    "published": "2025-02-27T23:40:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 99906,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "237dd7c6203a92f0950e0149028cec287f41210b",
+  "url": "https://www.mitrade.com/insights/news/live-news/article-3-665858-20250228",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cryptopolitan",
+  "published": "2025-02-27T23:40:00.000+02:00",
+  "title": "THORChain hits unwanted $3B volume milestone as Bybit hackers revive activity on the struggling network",
+  "text": "THORChain, a cross-chain swap protocol, witnessed a huge uptick in its activity as the party behind the Bybit heist attempted to launder stolen funds through the platform.\nThe Bybit heist now tagged the largest cryptocurrency heist the world has ever seen, happened on February 21, 2025, and saw the exchange lose about $1.46 million in ETH and a smattering of other tokens.\nAccording to the FBI and other on-chain sleuths, the North Korean Lazarus Group was behind the hack, so the consensus is that the same group attempted to clean the stolen funds through THORChain.\nThe hackers most likely opted for THORChain because of its decentralized nature, which helped them launder their stolen funds while protecting their identities.\nTheir activity has thrown the protocol into the public eye once more. However, THORchain needs not such negative attention as it struggling to stay afloat. It even had to pause lending operations earlier this year in a proactive attempt to prevent mass exit.\nOn-chain analyst Yu Jin claims the hackers converted the stolen Ethereum (ETH) into Bitcoin (BTC) via THORChain, which resulted in the generation network’s trading volume reaching $2.91 billion and earning the protocol $3 million in fees.\nPrior to the North Korean hackers using the platform to clean their dirty money, THORChain’s average daily transaction volume was about $80 million. However, when the laundering started from February 22 onward, that figure started rising rapidly, crossing an average of $580 million per day and totaling $2.91 billion in just five days.\nOn February 26 alone, data from THORChain explorer revealed THORChain processed $859.61 million in swaps, its highest-ever daily volume, and added $210 million more on February 27, bringing the total to over $1 billion within 48 hours.\nIf there was any doubt that the hack had something to do with the Lazarus Group, the decision to swap the Bybit funds for Bitcoin fits the North Korea-linked group’s modus operandi.\nTHORChain core developer and Nine Realms engineer going by the “Pluto” pseudonym acknowledged via a post on X (formerly Twitter) that illicit funds had indeed passed through the protocol.\n“When we first started seeing illicit flows on THORChain, our team bridged the gap for wallets and integration partners, helping them integrate screening services like @elliptic,” Pluto began in his post.\nHe added that the team is actively working with wallet and integration partners to implement screening services to address this issue.\n“Everyone needs to work together to make a best effort at stopping these flows to the best of our ability without compromising L1 integrity,” Pluto also wrote. “It’s our job as L1 operators to ensure the 2nd and 3rd layers (aggregators and frontends) conform with industry best practices.”\nAccording to Pluto, if they don’t provide such guidance, governments will try to shut down L1s, which would deprive the world of “valuable public utility infrastructure.”\nThe Bybit hack is now being considered a stress test on the ecosystem as it trudges toward mainstream adoption. In the past, word of such an event would have triggered mass panic on both the parts of the investors and service providers, but the industry went a different route this time.\nBybit’s CEO Ben Zhou took a transparent approach, revealing what happened and reassuring its users that funds were safe even though there was withdrawal congestion. In the aftermath of the hack, Bybit also witnessed a show of solidarity from other exchanges, including Binance, who loaned it money to keep its withdrawals going.\nMany other exchanges and crypto entities have stepped in to help retrieve and freeze the stolen funds since then. Bybit also acknowledged THORChain’s effort in a post. The X post noted that THORChain blacklisted addresses linked to the hackers, but there is no clear evidence that the protocol stopped the hackers from laundering funds.\nOne thing that is certain is that THORChain’s permissionless and decentralized nature was pivotal to the hackers’ decision to use it to launder funds even though its transparency aided tracking efforts.\nSo, were the hackers able to get the stolen funds off THORChain? The answer is yes, but they did not get away with it without complications. They were able to clean significant amounts of the stolen assets—at least $250 million (100,000 ETH) within days, with some estimates suggesting up to 20% of the total amount (about $292 million) was processed by February 25.\nTo get it out, they swapped the ETH to BTC, DAI, and other assets; then they split the funds across multiple wallets to avoid getting detected. It was smart but their moves were not hidden. Thanks to blockchain transparency, firms like Chainalysis and Elliptic were able to trace the fund movements, leading to some being frozen.\nSo far, Chainalysis has reported $40 million seized, and $42.85 million was frozen via coordinated efforts. Despite all the freezes and retrievals, reports claim the hackers still hold a substantial amount of ETH that far surpasses the holdings of prominent figures like the chain’s developer, Vitalik Buterin.\nThe situation remains precarious, with the hackers racing to get their stolen funds off-chain. Bybit, supported by the authorities, continues to intensify efforts to retrieve its funds or track down the hackers.\nCryptopolitan Academy: Tired of market swings? Learn how DeFi can help you build steady passive income. Register Now",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->market and exchange",
+    "Economy, Business and Finance->financial and economic news",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social condition",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Yu Jin",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "FBI",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:03:35.541+02:00",
+  "updated": "2025-02-28T00:03:35.541+02:00"
+}

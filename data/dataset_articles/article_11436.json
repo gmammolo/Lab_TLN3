@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "9840eb61c260c449152674068e3a4e122e77f845",
+    "url": "https://dev.to/analyticspitfalls/were-manufacturing-dashboards-data-nobody-uses-and-the-data-proves-it-djh",
+    "site_full": "dev.to",
+    "site": "dev.to",
+    "site_section": "https://dev.to/feed",
+    "site_categories": [
+      "javascript",
+      "tech",
+      "databases",
+      "science and technology",
+      "economy, business and finance"
+    ],
+    "section_title": "DEV Community",
+    "site_title": "DEV Community",
+    "title": "We're Manufacturing Dashboards & Data Nobody Uses (And the Data Proves It)",
+    "title_full": "We're Manufacturing Dashboards & Data Nobody Uses (And the Data Proves It)",
+    "published": "2026-01-15T07:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd7ocr6f7wo8v0o66uxsb.png",
+    "performance_score": 0,
+    "domain_rank": 4468,
+    "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9840eb61c260c449152674068e3a4e122e77f845",
+  "url": "https://dev.to/analyticspitfalls/were-manufacturing-dashboards-data-nobody-uses-and-the-data-proves-it-djh",
+  "ord_in_thread": 0,
+  "author": "Brian Cariveau",
+  "published": "2026-01-15T07:31:00.000+02:00",
+  "title": "We're Manufacturing Dashboards & Data Nobody Uses (And the Data Proves It)",
+  "text": "I ran usage analytics on our dashboards.\n(I like to call it \"Analytics on ourselves\"—actually paying attention to what we build.)\nResult: 60%+ hadn't been touched in 90 days.\nRun the same analytics at the data level and the picture is usually uglier!\nThe Retail Analogy\nIf a product sat on an end cap at Target for 90 days without selling, how long would we keep it there?\nZero days. Pull it immediately. Run a promotion or discontinue it.\nBut in analytics and data? We just keep building more.\n47 dashboards. 28 unused. But we're planning three more this quarter.\n1,000s. or 10,000s. or 100,000s+ of tables and views. 70% plus never used. But we are adding 500 more in the next week.\nThe Manufacturing Problem\nIn my last post, I talked about viewing analytics as a manufacturing floor.\nHere's what that looks like in practice:\nWe're manufacturing products (dashboards, reports, insights) that nobody's buying (using).\nBut we keep the production line running.\nWhy? Because we're not measuring the right thing.\nWe measure:\n- ✅ Time to build\n- ✅ Data accuracy\n- ✅ Dashboard performance\n- ✅ Number of features\nWe don't measure:\n- ❌ Actual usage\n- ❌ Time to value\n- ❌ Decisions influenced\n- ❌ Products we should sunset\nThe Usage Analytics Framework\nHere's how we started tracking what actually matters:\n1. Instrument Everything\nCREATE TABLE dashboard_usage (\ndashboard_id VARCHAR(50),\nuser_id VARCHAR(50),\nviewed_at TIMESTAMP,\ntime_spent_seconds INT,\nfilters_applied JSONB,\nexports_generated INT\n);\nTrack:\n- Page views (basic)\n- Time spent (engagement)\n- Filters applied (actual use vs casual browsing)\n- Exports/downloads (taking action on the data)\n2. Define \"Active Use\"\nNot just \"someone opened it.\"\nActive use = viewed + spent >60 seconds + applied filters OR exported data\nThis separates \"accidentally clicked\" from \"actually using.\"\n3. Run the 90-Day Audit\nSELECT\ndashboard_name,\nCOUNT(DISTINCT user_id) as unique_users_90d,\nAVG(time_spent_seconds) as avg_time_spent,\nSUM(exports_generated) as total_exports\nFROM dashboard_usage\nWHERE viewed_at >= CURRENT_DATE - INTERVAL '90 days'\nGROUP BY dashboard_name\nORDER BY unique_users_90d DESC;\nThe results were brutal:\n- 60% had zero active users in 90 days\n- 20% had 1-2 users (probably just the creator checking it)\n- Only 20% had genuine regular usage\n4. Sunset Process\nWe created a simple decision tree:\nZero active users in 90 days?\n↓\nEmail the creator: \"Dashboard X hasn't been used. Sunset in 30 days unless we hear otherwise.\"\n↓\nNo response OR \"yeah, nobody needs it anymore\"?\n↓\nArchive it. Remove from production. And you can track very similar stats at the data level. It is as simple as who queries what when?\nResult: Went from 47 dashboards to 12 in one quarter.\nThe remaining 12? Actually used. Actually maintained. Actually valuable.\nThe Pushback We Got\n\"But what if someone needs it later?\"\nArchive it. If they ask (they won't), restore it. In two years, nobody asked.\n\"But it took us months to build!\"\nSunk cost fallacy. The cost of maintaining unused dashboards is higher than the cost of rebuilding if needed.\n\"But leadership asked for it!\"\nLeadership asked for it two years ago. They haven't looked at it since. Show them the usage data. They'll agree to sunset it.\n\"But I worked hard on it!\"\nI know. I did too on dashboards that are now archived. It hurts. But unused work is waste in manufacturing terms.\nThe Factory Floor Mindset\nIf you view analytics as manufacturing (which I do after reading The Phoenix Project), then:\nUnused dashboards = inventory sitting in a warehouse\nThey cost money to maintain:\n- Data pipeline costs\n- Storage costs\n- Mental overhead (\"should we update this?\")\n- Confusion (\"which dashboard is the source of truth?\")\nBetter to:\n- Build less\n- Measure usage\n- Sunset quickly\n- Focus on what's actually used\nThe Sarah Chen Story\nThis is exactly what happens in Chapter 1 of the Analytics Pitfalls fable.\nSarah Chen joins ClassicMotors.io as Head of Analytics. Day one, she discovers 47 dashboards.\nLeadership keeps asking \"what does the data say?\" but nobody can answer because they have too much data and not enough insight.\nSarah realizes: This isn't a data problem. It's a production problem.\nShe needs to audit what's actually being used, sunset the waste, and focus the team on the 20% that drives 80% of value.\nSound familiar?\nRead Chapter 1 (free): analyticspitfalls.com/fable\nYour Turn\nHave you run usage analytics on your dashboards or your data?\nIf not, start here:\n- Instrument basic tracking (views, time spent)\n- Run the 90-day audit\n- Email creators of unused dashboards\n- Sunset what's not needed\n- Focus on what drives value\nDrop your results in the comments. I'm betting most teams have 40-60% unused.\nLet's stop building inventory nobody wants.\nDiscussion Questions\n- What % of your dashboards do you think are actually used regularly?\n- How do you track dashboard usage in your org?\n- What's your process for sunsetting unused analytics products?\n- Anyone else view analytics as a manufacturing floor?\nThis is part of my Analytics Pitfalls series - lessons from 25 years of data mistakes. Follow for more.\nPrevious: Garbage In, Powerhouse Out? (Nope.)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business and market analysis",
+    "Economy, Business and Finance->computing and information technology",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://analyticspitfalls.com/fable",
+    "https://www.analyticspitfalls.com/fable"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Target",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "TGT",
+            "exchange": "NYSE"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-15T07:59:42.290+02:00",
+  "updated": "2026-01-15T08:01:29.000+02:00"
+}

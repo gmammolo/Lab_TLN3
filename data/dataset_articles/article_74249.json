@@ -1,0 +1,81 @@
+{
+  "thread": {
+    "uuid": "98d8d4d71976518352a140d8fbe17c0dbf34647a",
+    "url": "https://www.technadu.com/newly-discovered-glove-stealer-malware-bypasses-chromes-app-bound-encryption-to-steal-cookies/556177",
+    "site_full": "www.technadu.com",
+    "site": "technadu.com",
+    "site_section": "https://www.technadu.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TechNadu - Territory of Tech",
+    "title": "Newly-Discovered Glove Stealer Malware Bypasses Chrome’s App-Bound Encryption to Steal Cookies",
+    "title_full": "Newly-Discovered Glove Stealer Malware Bypasses Chrome’s App-Bound Encryption to Steal Cookies",
+    "published": "2024-11-15T10:17:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 46661,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "98d8d4d71976518352a140d8fbe17c0dbf34647a",
+  "url": "https://www.technadu.com/newly-discovered-glove-stealer-malware-bypasses-chromes-app-bound-encryption-to-steal-cookies/556177",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lore Apostol",
+  "published": "2024-11-15T10:17:00.000+02:00",
+  "title": "Newly-Discovered Glove Stealer Malware Bypasses Chrome’s App-Bound Encryption to Steal Cookies",
+  "text": "Glove Stealer is a freshly-found infostealer focusing on exfiltrating cookies from Firefox and Chromium-based browsers. Its main capability is bypassing Google Chrome’s Application-Bound encryption. The campaign’s social engineering techniques overlap with the recent ClickFix variant infection. The new Glove Stealer malware can bypass Google Chrome’s Application-Bound (App-Bound) encryption to steal browser cookies. Glove Stealer targets cookies from Firefox and Chromium-based browsers, including Chrome, Edge, Brave, Yandex, and Opera.\nRecently identified by security researchers from Gen Digital during an investigation into a phishing campaign, the Glove Stealer is described as “relatively simple” with minimal obfuscation, indicating an early developmental stage.\nThe malware employs social engineering techniques – which security researchers said are similar to the ClickFix infection – to deceive victims into executing malicious payloads through fake error messages embedded in HTML email attachments.\nClickFix HTML page in phishing email attachments (Source: GenDigital) Its impact goes beyond cookie theft, extending to the exfiltration of cryptocurrency wallets, 2FA session tokens from services like Google and Microsoft, and password data from password managers such as Bitwarden, LastPass, and KeePass.\nFurthermore, it is capable of extracting sensitive information from a broad array of 280 browser extensions and over 80 locally installed applications, many of which involve cryptocurrency wallets and 2FA authenticators.\nPart of a function that tries to obtain otherwise App-Bound protected Chrome key used for decryption of private data | Source: GenDigital The mechanism used by Glove Stealer to defeat Google’s App-Bound encryption involves leveraging Chrome’s COM-based IElevator Windows service to decrypt and recover App-Bound encrypted keys. This requires the malware to first gain local admin privileges on a compromised system, positioning a supporting module within Chrome's Program Files directory for key retrieval.\nDespite its innovative approach, Glove Stealer seems to be in its nascent phase, as its methods are akin to earlier tactics employed by other infostealers that have since evolved to more sophisticated means of bypassing Chrome’s security enhancements.\nWhile Google's App-Bound encryption initiative was designed to elevate access barriers required for such attacks, the frequency of info-stealing malware incidents has not declined. Instead, these attacks have proliferated, exploiting vulnerabilities through various vectors, including zero-day exploits, malvertising, spearphishing, and deceptive internet forums.\nRecently, cybersecurity researcher Alexander Hagenah created a public tool that bypasses Google Chrome's latest cookie encryption system, called “Chrome App Bound Encryption Decryption.” It enables the extraction of saved credentials from the Chrome browser, posing potential security risks for users who rely on Chrome for storing sensitive data.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.gendigital.com/blog/news/innovation/glove-stealer",
+    "https://gendigital.com/blog/news/innovation/glove-stealer"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Gen Digital",
+        "sentiment": "none"
+      },
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T14:25:23.524+02:00",
+  "updated": "2024-11-15T14:25:23.524+02:00"
+}

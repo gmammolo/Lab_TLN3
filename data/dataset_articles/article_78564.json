@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "1272ab2b5b7f091ee7430fbc2c8695f572e4d440",
+    "url": "https://www.news.de/technik/858854167/libtiff-gefaehrdet-it-sicherheitshinweis-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-20-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "libTIFF: Schwachstelle ermöglicht Denial of Service",
+    "title_full": "libTIFF: Schwachstelle ermöglicht Denial of Service",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771823/images/d7/f8/448c6d4864dfc82aef046b28e967/nopic/no_pic/1200/675/1/1/-/4/1024/576/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771823_1200x675_ab305ff52d7fb3faa7c0b5f0ddb416c1.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1272ab2b5b7f091ee7430fbc2c8695f572e4d440",
+  "url": "https://www.news.de/technik/858854167/libtiff-gefaehrdet-it-sicherheitshinweis-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-20-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "libTIFF: Schwachstelle ermöglicht Denial of Service",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 11.08.2025 einen Sicherheitshinweis für libTIFF herausgegeben. Betroffen von der Sicherheitslücke sind das Betriebssystem Linux sowie die Produkte Ubuntu Linux und Open Source libTIFF. Zuletzt wurde diese Meldung am 20.08.2025 aktualisiert.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: Ubuntu Security Notice USN-7707-1 (Stand: 21.08.2025). Weitere nützliche Links werden weiter unten in diesem Artikel aufgeführt.\nSicherheitshinweis für libTIFF - Risiko: mittel\nRisikostufe: 3 (mittel)\nCVSS Base Score: 5,3\nCVSS Temporal Score: 4,6\nRemoteangriff: Nein\nZur Einschätzung des Schweregrads von Sicherheitsanfälligkeiten in Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Beim Temporal Score fließen über die Zeit veränderbare Rahmenbedingungen in die Bewertung ein. Der Schweregrad der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 5,3 als \"mittel\" eingestuft.\nlibTIFF Bug: Schwachstelle ermöglicht Denial of Service\nlibTIFF ist ein Softwarepaket für die Verarbeitung von Bilddateien in Tag Image File Format (TIFF).\nEin lokaler Angreifer kann eine Schwachstelle in libTIFF ausnutzen, um einen Denial of Service Angriff durchzuführen.\nDie Verwundbarkeit wird mit der individuellen CVE-Seriennummer (Common Vulnerabilities and Exposures) CVE-2025-8851 gehandelt.\nVon der libTIFF-Sicherheitslücke betroffene Systeme im Überblick\nBetriebssystem\nLinux\nProdukte\nUbuntu Linux (cpe:/o:canonical:ubuntu_linux)\nOpen Source libTIFF <=4.5.1 (cpe:/a:libtiff:libtiff)\nOpen Source libTIFF <=4.5.1 (cpe:/a:libtiff:libtiff)\nAllgemeine Maßnahmen zum Umgang mit IT-Sicherheitslücken\n- Anwender der betroffenen Systeme sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten Sicherheitspatches verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten die genannten Quellen regelmäßig daraufhin prüfen, ob ein neues Sicherheitsupdate zur Verfügung steht.\nHersteller-Informationen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nUbuntu Security Notice USN-7707-1 vom 2025-08-21 (20.08.2025)\nWeitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-7707-1\nRed Hat Bugtracker #2387618 vom 2025-08-11 (11.08.2025)\nWeitere Informationen finden Sie unter: https://bugzilla.redhat.com/show_bug.cgi?id=2387618\nVersionshistorie dieses Sicherheitshinweises\nDies ist die 2. Version des vorliegenden IT-Sicherheitshinweises für libTIFF. Sollten weitere Updates bekanntgegeben werden, wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.\n11.08.2025 - Initiale Fassung\n20.08.2025 - Neue Updates von Ubuntu aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/News.de",
+    "https://ubuntu.com/security/notices/USN-7707-1",
+    "https://pin.it/11NQyAf",
+    "https://twitter.com/news_de",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://bugzilla.redhat.com/show_bug.cgi?id=2387618",
+    "https://bugzilla.redhat.com/show_bug.cgi",
+    "https://facebook.com/News.de",
+    "https://www.pin.it/11NQyAf",
+    "https://www.ubuntu.com/security/notices/USN-7707-1",
+    "https://www.twitter.com/news_de",
+    "https://www.bugzilla.redhat.com/show_bug.cgi?id=2387618",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:31.259+03:00",
+  "updated": "2025-08-22T14:06:53.000+03:00"
+}

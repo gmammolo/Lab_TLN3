@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "318996f89c3825906f649db7ee5cfff5000c5c9d",
+    "url": "https://virtualizationreview.com/Articles/2024/11/21/Case-Studies-of-Real-World-SaaS-Ransomware-Attacks.aspx",
+    "site_full": "virtualizationreview.com",
+    "site": "virtualizationreview.com",
+    "site_section": "https://virtualizationreview.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Home -- Virtualization Review",
+    "title": "Case Studies of Real-World SaaS Ransomware Attacks: 'They Didn't Handle It Well' -- Virtualization Review",
+    "title_full": "Case Studies of Real-World SaaS Ransomware Attacks: 'They Didn't Handle It Well' -- Virtualization Review",
+    "published": "2024-11-21T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImages2024/phishingforms.jpg",
+    "performance_score": 0,
+    "domain_rank": 101222,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "318996f89c3825906f649db7ee5cfff5000c5c9d",
+  "url": "https://virtualizationreview.com/Articles/2024/11/21/Case-Studies-of-Real-World-SaaS-Ransomware-Attacks.aspx",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-21T02:00:00.000+02:00",
+  "title": "Case Studies of Real-World SaaS Ransomware Attacks: 'They Didn't Handle It Well' -- Virtualization Review",
+  "text": "Advanced Search\nIn-Depth\nExpert guidance abounds for enterprises to protect themselves against ransomware, phishing and other cyberattacks, but sometimes that advice is more effective when dispensed with real-world examples for specific scenarios.\nIn this case, the targeted scenarios are ransomware and phishing exploits in the Software-as-a-Service (SaaS) space, and the expert is Joey D'Antoni, principal cloud architect at DesignMind. He has seen these attacks firsthand and has advice for organizations to protect themselves.\nThe VMWare V-Expert and Microsoft Data Platform MVP shared his expertise in a recent half-day online summit put on by Virtualization & Cloud Review, titled SaaS Data Protection 101, now available for on-demand replay.\nBefore getting into his case studies, D'Antoni dived deep into common security measures and best practices, including:\n'They Didn't Handle It Well'Moving to the case studies, his first example was the infamous Rackspace ransomware attack of 2022, by all accounts a disaster with plenty of blame to spread around, and which made D'Antoni lose some faith in SaaS providers. It reportedly cost the cloud computing and managed hosting company more than $10 million in related costs, of which insurance covered about half.\n\"They suffered a ransomware attack that brought down all of their customer email,\" D'Antoni said. \"The ransomware attack took place because they were on an unpatched version of Exchange, and attackers were able to get in and authenticate and then ransomware that way. There were no backups. So what happened was the customers were affected. All of their email was now gone.\"\nThe attack occurred in the holiday season, early December shortly after Thanksgiving.\n\"Rackspace took a while, several days, to respond,\" D'Antoni said, \"and they didn't handle it well.\"\nSome customers, though had their own backups and were able to recover, but that was a sub-optimal outcome.\n\"It was a paid service to have backups, so they were able to recover. They were able to recover that way. That's something that's ... not good.\nAs far as the company itself, \"Their remediation to it was not to try to rescue the environment. I don't know if they didn't want to pay the ransom, or couldn't, or whatever the case was.\"\nSo how did Rackspace respond?\n\"They offered to pay for Office 365, for ... their existing accounts, but that didn't help those accounts bring over any email that was stored on those Exchange servers that were now compromised. So that was a pretty bad, bad impact. And, you know, made me lose some faith in SaaS providers.\"\nD'Antoni examined the case in detail shortly after it happened in an article for sister publication Redmondmag, in which he interviewed a Rackspace exec -- with the company lawyer present.\n\"And this was the strangest thing. I asked ... their lawyer wouldn't let him answer a question about patching, first of all, which was kind of interesting. And then secondly, when I asked if they had backups, he said, 'you know, we have a cluster,' so he was effectively saying we didn't need to take backups.\"\nAccording to his article, when asked if there was any way to recover this environment from a backup or a snapshot, the exec replied, \"The way the environment is architected is it takes advantage of the native clustering that's built into Exchange. We've got multiple copies of everything, and Exchange is going to naturally distribute that out to other servers within the cluster. And so everything would have had at least three copies, depending on the datacenter that was in.\" Apparently attorney-approved verbiage.\nAs noted, though, clustering didn't help much in the long run. That led D'Antoni to impart some advice for enterprises who are considering SaaS providers.\nBasic questions you want to ask of your SaaS provider start with, \"How is your data protected?\"\nAnother good question to ask is how employees of the provider are prevented from accessing your customer data.\n\"If you're dealing with a good SaaS provider, they will have answers to all those questions. It will probably be documented on their website, and you can see it. If you're dealing with somebody who made some software and started selling it as a SaaS service, they might not have answers to this question. So they're really important to to ask.\"\nHe went on to explain how building a ransomware defense strategy for SaaS involves:\nPhishingOf this attack vector, D'Antoni said, \"It's kind of complicated as to how these things play out, but the attack mechanism is that ransomware usually enters the SaaS platform through phishing emails that are going to trick users into clicking malicious links or an attachment -- pretty classic phishing example. Once they get into one device, what the attackers might try to do is spread to connected SaaS applications, encrypting data. What's kind of weird about this is, unlike in an on-premises environment, the ransomware doesn't have to move laterally across network computers in the same way. For example, it might just focus in data residing in SaaS storage, for example, files on Google Drive or OneDrive. It can encrypt these files directly or delete them, sometimes affecting multiple accounts through shared folders, folders or documents.\"\nFor phishing attacks, D'Antoni said, \"the mitigation is typically going to be to terminate those accounts, maybe make the mailboxes read-only and create new accounts for those folks, just because of the risk. The other bit of risk there is any lateral movement. And like we always say, it's important to try to minimize lateral movement. And this is another place where ensuring that these procedures followed will benefit you, because if the only thing the attacker can do is gain some access to the data, it limits the amount of damage they can perform. So that's really the big lesson there, and for that kind of attack is you really want to make sure that it's hard to for them to do those kinds of things.\" Exactly how is spelled out in the presentation.\nAdviceD'Antoni's nearly one-hour presentation was packed with advice for organizations to protect themselves against ransomware and phishing attacks in the SaaS space. Building a resilient SaaS security framework, he said, involves:\nFurthering his advice to integrate security by design, he again emphasized the importance of thoroughly quizzing potential providers.\n\"If you're a type of firm that is mostly using SaaS products and not using a lot of internal software, I recommend highly building a process around this,\" he said. \"Have a framework of questions you ask the vendors, list the kinds of things you talk to them about and do it in a consistent fashion. Have that pattern and use some of those network tools. So those cloud access security brokers are excellent tools for being able to kind of monitor your traffic in all of those sorts of things in that space.\"\nIn total, the advanced tools he discussed include:\nRegarding his advice for organizations to continuously improve their cybersecurity posture through audits and assessments, he said, \"There's only so much you can do here in terms of auditing, but you can audit things like your configuration, your user security model. Is the security model too high in terms of what you're allowing? How many admins do you have? Who are the people that are admins? Do they have the right understanding of how they should manage those accounts? Those are the kind of kinds of bits of information you're going to get through audits and assessments. And then fostering a security-first culture. I know we say this a lot. It really is something that's, I think, pretty important. You can't just teach security through phishing tests. You have to teach. You have to teach at a high level.\"\nAs noted, there was much more to D'Antoni's presentation, which again is available for on-demand replay here.\nA big benefit of attending such sessions live, of course, is the ability to ask questions of the expert. With that in mind, some upcoming presentations that focus on security and, of course, AI, include:\nAbout the Author\nDavid Ramel is an editor and writer at Converge 360.\nSubscribe on YouTube\nMore Tech Library\nMore Webcasts",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Joey D'Antoni",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Virtualization & Cloud Review",
+        "sentiment": "none"
+      },
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T06:01:20.109+02:00",
+  "updated": "2024-11-22T06:01:20.109+02:00"
+}

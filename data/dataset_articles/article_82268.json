@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "ad15a42b31879060669e041a483438f7a6617170",
+    "url": "https://www.tun.com/home/university-of-zurich-scientists-use-ai-to-detect-antibiotic-resistance",
+    "site_full": "www.tun.com",
+    "site": "tun.com",
+    "site_section": "https://www.tun.com",
+    "site_categories": [],
+    "section_title": "TUN Helps Students - TUN",
+    "title": "University of Zurich Scientists Use AI to Detect Antibiotic Resistance",
+    "title_full": "University of Zurich Scientists Use AI to Detect Antibiotic Resistance",
+    "published": "2024-10-17T23:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 118125,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ad15a42b31879060669e041a483438f7a6617170",
+  "url": "https://www.tun.com/home/university-of-zurich-scientists-use-ai-to-detect-antibiotic-resistance",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-10-17T23:04:00.000+03:00",
+  "title": "University of Zurich Scientists Use AI to Detect Antibiotic Resistance",
+  "text": "Scientists at the University of Zurich have harnessed artificial intelligence to help detect antibiotic-resistant bacteria more quickly and accurately. This breakthrough could revolutionize how hospitals and laboratories worldwide tackle the escalating threat of antibiotic resistance. In a breakthrough that could significantly advance global health care, researchers at the University of Zurich (UZH) have leveraged artificial intelligence (AI) to accelerate the detection of antibiotic-resistant bacteria. This pioneering effort is led by Adrian Egli, a UZH professor at the Institute of Medical Microbiology, and utilizes the powerful GPT-4 AI model developed by OpenAI. The researchers employed AI to interpret the Kirby-Bauer disk diffusion test, a standard laboratory procedure used to identify which antibiotics are effective against specific bacterial infections. Their innovative tool, named “EUCAST-GPT-expert,” adheres to the strict guidelines established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST). “Antibiotic resistance is a growing threat worldwide, and we urgently need faster, more reliable tools to detect it,” Egli said in a [news release](https://www.news.uzh.ch/en/articles/media/2024/Antibiotika.html). “Our research is the first step toward using AI in routine diagnostics to help doctors identify resistant bacteria more quickly.” Globally, antibiotic resistance poses a severe threat as pathogens evolve to withstand currently available treatments, making infections harder to treat and increasing the risk of disease spread, severe illness and death. Traditional methods of detecting resistance can be slow and subjective, often relying on the expertise and interpretation of highly trained technicians. While human experts continue to offer a higher accuracy rate, AI could significantly speed up the diagnostic process. The study acknowledges some limitations. The AI system, though adept at detecting certain resistance types, occasionally misclassified bacteria, potentially delaying treatment. Despite these hurdles, the research underscores the transformative potential of AI in health care. By offering a standardized approach to complex diagnostic interpretations, this technology may reduce the variability and subjectivity seen in manual readings, thus improving patient outcomes. Egli, however, emphasizes caution and the need for further refinement. “Our study is an important first step, but we are far from replacing human expertise. Instead, we see AI as a complementary tool that can support microbiologists in their work,” he added. While more testing and improvements are essential, the introduction of AI into the realm of antibiotic resistance detection heralds a new era in medical diagnostics. This landmark research could lead to faster, more accurate detection of drug-resistant bacteria, transforming global health care practices and preserving the efficacy of existing antibiotics. The study is [published](https://journals.asm.org/doi/10.1128/jcm.00689-24) in the Journal of Clinical Microbiology.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.news.uzh.ch/en/articles/media/2024/Antibiotika.html).",
+    "https://journals.asm.org/doi/10.1128/jcm.00689-24)",
+    "https://www.journals.asm.org/doi/10.1128/jcm.00689-24)",
+    "https://news.uzh.ch/en/articles/media/2024/Antibiotika.html)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:48:44.950+03:00",
+  "updated": "2024-10-18T01:48:44.950+03:00"
+}

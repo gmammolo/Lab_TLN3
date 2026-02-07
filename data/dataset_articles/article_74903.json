@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "352e5107115c6b6524bb5af15c42b2e56f80fad6",
+    "url": "https://www.mondaq.com/unitedstates/healthcare/1548334/new-draft-guidance-provides-detailed-and-burdensome-recommendations-for-chemical-assessments-to-support-medical-device-biocompatibility",
+    "site_full": "www.mondaq.com",
+    "site": "mondaq.com",
+    "site_section": "https://www.mondaq.com/unitedstates/wealth-asset-management",
+    "site_categories": [
+      "law_government_and_politics",
+      "legal_issues"
+    ],
+    "section_title": "Recent Legal Articles from United States",
+    "title": "New Draft Guidance Provides Detailed (And Burdensome) Recommendations For Chemical Assessments To Su",
+    "title_full": "New Draft Guidance Provides Detailed (And Burdensome) Recommendations For Chemical Assessments To Su",
+    "published": "2024-11-22T01:59:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "http://www.mondaq.com/images/MondaqThumb.png",
+    "performance_score": 0,
+    "domain_rank": 5272,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "352e5107115c6b6524bb5af15c42b2e56f80fad6",
+  "url": "https://www.mondaq.com/unitedstates/healthcare/1548334/new-draft-guidance-provides-detailed-and-burdensome-recommendations-for-chemical-assessments-to-support-medical-device-biocompatibility",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Adrienne R. Lenz",
+  "published": "2024-11-22T01:59:00.000+02:00",
+  "title": "New Draft Guidance Provides Detailed (And Burdensome) Recommendations For Chemical Assessments To Su",
+  "text": "FDA recently issued a draft guidance, [Chemical Analysis for Biocompatibility\nAssessment of Medical Devices](https://www.fda.gov/media/181952/download), which describes chemical\ncharacterization methods that may be used to demonstrate\nbiocompatibility of a medical device as an alternative to\nconducting certain biological testing. Chemical characterization\nidentifies and quantifies chemicals that may be released from the\nmedical device, while a toxicological risk analysis (TRA) evaluates\nthe risks to the patient associated with the chemicals identified.\nData from chemical characterization studies must be evaluated in a\nseparate TRA following ISO 10993-17 guidelines.\nFor FDA submissions, this strategy can be used to evaluate the biocompatibility endpoints acute, subacute, subchronic, and chronic systemic toxicity, genotoxicity, carcinogenicity, and reproductive/developmental toxicity. That is, the biocompatibility endpoints cytotoxicity, sensitization, irritation/intracutaneous reactivity, material-mediate pyrogenicity, implantation, and hemocompatibility are not covered by the approach discussed in the new draft guidance. Chemical characterization can also be useful in evaluating a change to the materials or manufacturing of a device.\nAlthough the draft guidance states that the approach can be used for limited (< 24 hour), prolonged (1-30 days), or long-term (> 30 days) contact devices and \"can reduce the time needed to complete biocompatibility testing by evaluating multiple biocompatibility endpoints at once and can reduce animal testing\", it is rarely going to save sponsors time or money to use chemical characterization in place of biological testing for most limited and prolonged contact devices to support FDA premarket submissions.\nUsing chemical characterization and toxicological risk analysis to support the biocompatibility of a medical device is not new. Since the first issuance of FDA's guidance Use of International Standard ISO 10993-1, \"Biological evaluation of medical devices – Part 1: Evaluation and testing within a risk management process\" in 2016, sponsors submitting premarket submissions to FDA have had the option of using these techniques to evaluate certain biocompatibility endpoints. Many sponsors want to reduce animal testing and, therefore, welcome the approach. However, the experience in practice has been one of frustration as sponsors have struggled to reach agreement with the Agency on acceptable methods and acceptance criteria for these chemical assessments, despite FDA's partial recognition of the ISO 10993-18 and -17 standards that describe methods for chemical characterization and TRA, respectively. Many sponsors have given up and opted to conduct biological studies instead of chemical assessments given the significant uncertainty with the non-animal based approach. FDA also notes variability in the approaches, inconsistent analytical chemistry reports, and deficiencies in review of premarket submissions as a driver for the draft guidance.\nThe draft guidance provides recommendations for collection and reporting of chemical characterization data and discusses the topics of information gathering, test article extraction, chemical analysis, and data reporting. The main body of the draft guidance provides high-level recommendations, and four appendices provide detailed recommendations for test design. Many of the details provide helpful clarity and it is noted that many of the recommendations in the draft guidance follow feedback FDA has provided to sponsors in Pre-Submissions and deficiencies over the last few years; but for others, FDA's recommendations feel overly burdensome and not tolerable of any uncertainty or risk. The following topics stood out as being burdensome and likely areas for FDA scrutiny of a sponsor's chemical characterization data:\n- One such area relates to determining a device's contact duration. The general guidance for biocompatibility references ISO 10993-1 for identification of the nature and duration of contact, including cumulative effects with repeated use. The standard describes contact duration as the cumulative sum of single, multiple, or repeated duration of contact. However, Appendix A of the draft guidance contradicts the standard, stating that devices with short duration, but repeated use are categorized according to the total number of days and not the total amount of time. Watch for a follow-up post on this particular topic.\n- One of the most common issues with chemical characterization studies is that the use of harsh non-polar and semi-polar solvents (e.g., hexane and isopropanol) can be incompatible with many devices, including common polymers like silicones. Exhaustive extraction in these solvents can lead to high levels of product degradation or increased levels of extractables found in the chemical data, which is not expected during clinical use, and can often result in a TRA with a negative or inconclusive outcome. Although FDA suggests in the draft guidance to investigate use of multiple solvents to find a suitable one, this is sometimes not possible even after many rounds of attempted feasibility studies performed by the labs. In this regard, FDA states if compatible solvents cannot be identified, then chemical characterization data would not be appropriate to support a TRA and biological testing would be needed. Although the draft guidance suggests that chemical characterization data can reduce time and animal testing requirements for biocompatibility evaluations, this will not be the case for many medical devices, including some long-term contact devices, for these reasons. Furthermore, because some animal testing to address long-term endpoints is not practical or feasible to perform, sponsors can find themselves in a very difficult position. FDA suggests that simulated use/leachables studies to simulate the clinical use (i.e., in a more clinically relevant solvent) and release kinetics data can be helpful; we agree with FDA's thoughts regarding usefulness of these alternative studies especially in the cases where devices are incompatible with non-polar and/or semi-polar solvents and to more accurately estimate clinically relevant exposures. We would encourage FDA to consider releasing guidances on both of these topics in parallel with the subject guidance.\n- Another area that FDA discusses throughout the draft guidance is that chemical identities of extractables must be \"confident\" or \"confirmed\" levels to be used in the TRA. However, it is very common to have \"tentative\" or \"unknown\" identifications in chemical characterization studies. In the draft guidance, FDA illustrates the need for additional orthogonal data (i.e., additional primary detection methods) in the sponsor's methods to help with identification. FDA also suggests throughout the draft guidance that information gathering on device materials of construction and the manufacturing process, including chemical additives, processing aids, presence of cohort of concern compounds, etc., can be useful in the development of a device-specific chemical characterization plan and analysis of the resulting data. We agree with FDA on this point, and recognize that a large gap in the industry may be stemming from the fact that a Biological Evaluation Plan/Report (i.e., BEP/BER or Biological Risk Assessment) per ISO 10993-1 is not required for the majority of FDA pre-market submissions. We have already seen trends in which FDA has started asking for more material, supplier, and manufacturing information in 510(k)s, submissions for which FDA historically did not require this information to be submitted by the sponsor. We have concerns that FDA's expectations related to chemical identification levels may be unattainable even despite proper information gathering and additional orthogonal data and represent an unwillingness to accept some residual level of uncertainty in their decision-making process.\n- In several places in the draft guidance, FDA illustrates that non-targeted chemical analysis is needed for general screening of unspecified device extractables, but that subsequent use of targeted analysis may be necessary to confirm the identity or refine the quantity of certain chemicals, including cohort of concern compounds, or analyze extractables with high concentrations. FDA also states that non-targeted data is insufficient to conclude that a particular substance is absent from the device extracts. We have seen cases in which devices with claims of \"DEHP-free\" or \"phthalate-free\" do in fact contain these chemicals in the device extracts.\n- In Appendix A of the draft guidance, FDA provides suggestions on what is and is not considered \"worst case\" for the test articles used for testing. FDA suggests that test articles represent the worst-case manufacturing process, and provide the examples that the device undergoes the greatest number of sterilization and/or reprocessing cycles. It is common that sponsors will perform, for example, testing on 2x EO sterilized devices in order to support manufacturing scenarios in which the device needs to be re-sterilized. However, reprocessing (cleaning and disinfection and/or sterilization) is typically performed by the end user in a healthcare facility rather than part of the manufacturing process. FDA's suggestion to test the maximum reprocessing cycles for reusable devices is aligned with the recommendations in clause 4.8 of ISO 10993-1:2018, but is extremely burdensome and not referenced in the related ISO 10993-18. We have already seen trends for FDA to request biocompatibility and other testing after maximum reprocessing cycles of each separate reprocessing scheme listed in the sponsor's labeling, including all combinations of detergent and disinfection chemistries, manual vs. automatic washing methods, sterilization modalities, and different sterilizer cycles/parameters for the same sterilization modality. As many reusable devices can undergo hundreds or even thousands of cycles, the combination of testing the maximum cycles for each of these variables is extremely time-consuming and cost prohibitive, costing many hundreds of thousands or even millions of dollars. In addition, the recommendation to test the device after maximum reprocessing cycles appears counterintuitive to the other recommendations in the guidance, which focus on the toxicological concern of chemical additives or manufacturing process aids, including cohort of concern compounds, present on the device that can be extracted. These chemicals would typically have decreased quantities over the lifetime of a reusable device due to being removed by multiple cycles of reprocessing. Therefore, FDA's justification for this burdensome approach is not clear.\nGiven the current frustrations with chemical assessments and desire to reduce animal tests, the release of the draft guidance is a step in the right direction. However, additional guidance from FDA is necessary in the related areas of simulated use and release kinetics studies. In order to be more helpful to industry, reasonable recommendations to reduce animal testing in practice (rather than theory) are still needed. It is recommended to submit a Pre-Submission to the Agency when considering your chemical characterization strategy, especially for any devices/materials with special considerations or use of alternative strategies and solvents.\nFDA is [extending the comment period](https://www.govinfo.gov/content/pkg/FR-2024-10-22/pdf/2024-24447.pdf) on the notice\npublished September 20, 2024 ([89 FR 77162](https://www.govinfo.gov/content/pkg/FR-2024-09-20/pdf/2024-21575.pdf)). Submit either electronic or\nwritten comments on the draft guidance by December 19, 2024, to\nensure that the Agency considers your comment on this draft\nguidance before it begins work on the final version of the\nguidance.\n*KP Medical Device Consulting LLC\nThe content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.govinfo.gov/content/pkg/FR-2024-10-22/pdf/2024-24447.pdf",
+    "https://www.govinfo.gov/content/pkg/FR-2024-09-20/pdf/2024-21575.pdf",
+    "https://www.fda.gov/media/181952/download",
+    "https://govinfo.gov/content/pkg/FR-2024-09-20/pdf/2024-21575.pdf",
+    "https://fda.gov/media/181952/download",
+    "https://govinfo.gov/content/pkg/FR-2024-10-22/pdf/2024-24447.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T07:15:32.000+02:00",
+  "updated": "2024-11-22T07:15:32.000+02:00"
+}

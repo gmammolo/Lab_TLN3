@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "02a2d3b73780e3384b8d4f45a91998455f55fd6f",
+    "url": "https://wonderfulengineering.com/google-has-pulled-the-plug-on-ublock-origin",
+    "site_full": "wonderfulengineering.com",
+    "site": "wonderfulengineering.com",
+    "site_section": "https://www.wonderfulengineering.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Wonderful Engineering - Engineering and Tech News",
+    "title": "Google Has Pulled The Plug On uBlock Origin",
+    "title_full": "Google Has Pulled The Plug On uBlock Origin",
+    "published": "2024-08-15T20:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 35366,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "02a2d3b73780e3384b8d4f45a91998455f55fd6f",
+  "url": "https://wonderfulengineering.com/google-has-pulled-the-plug-on-ublock-origin",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jannat Un Nisa",
+  "published": "2024-08-15T20:55:00.000+03:00",
+  "title": "Google Has Pulled The Plug On uBlock Origin",
+  "text": "Google has escalated its efforts against ad blockers across its services, implementing changes to its browser extension framework.\nGoogle Chrome has recently shifted its extension support from the Manifest V2 framework to the new Manifest V3 framework. This shift represents a major change for extensions, particularly those like uBlock Origin, which have been widely used for ad-blocking purposes.\nThe move to Manifest V3 introduces stricter guidelines for extensions, specifically prohibiting the use of remotely hosted code. Google justifies this change by stating that such code “presents security risks by allowing unreviewed code to be executed in extensions.” Under the new framework, extensions are only permitted to execute JavaScript which is part of the extension package itself, a policy aimed at reducing potential vulnerabilities.\nFor the more than 30 million users of uBlock Origin on Google Chrome, this update will result in significant disruption. Soon, an automatic update will disable the tool, and while users will have the option to re-enable it through Chrome’s settings temporarily, this option will eventually be removed entirely. Users will then face a choice: either switch to a different browser or find an alternative ad blocker that complies with the new Manifest V3 framework.\nIn response to these changes, the developers of uBlock Origin have introduced a new version of their app, aptly named uBlock Origin Lite. This version is fully compliant with Manifest V3, retaining many of the core ad-blocking features of the original.\nHowever, it comes with some limitations—most notably, it lacks support for dynamic filters used for blocking scriptlet injection, a key feature in the original version. This makes uBlock Origin Lite a more constrained tool, though still effective within the confines of the new framework.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "google",
+        "sentiment": "negative"
+      },
+      {
+        "name": "google chrome",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T01:09:22.089+03:00",
+  "updated": "2024-08-16T01:09:22.089+03:00"
+}

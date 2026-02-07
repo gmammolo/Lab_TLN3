@@ -1,0 +1,183 @@
+{
+  "thread": {
+    "uuid": "e4f85bc1ac44a0be11c06f2aeadeb23396501e5a",
+    "url": "https://www.hpcwire.com/off-the-wire/the-linux-foundation-announces-general-availability-of-valkey-8-1",
+    "site_full": "www.hpcwire.com",
+    "site": "hpcwire.com",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "",
+    "site_title": "HPCwire: Global News on High Performance Computing (HPC)",
+    "title": "The Linux Foundation Announces General Availability of Valkey 8.1",
+    "title_full": "The Linux Foundation Announces General Availability of Valkey 8.1",
+    "published": "2025-04-03T00:36:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.hpcwire.com/wp-content/uploads/2022/06/Linux-Foundation-logo.png",
+    "performance_score": 0,
+    "domain_rank": 15359,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e4f85bc1ac44a0be11c06f2aeadeb23396501e5a",
+  "url": "https://www.hpcwire.com/off-the-wire/the-linux-foundation-announces-general-availability-of-valkey-8-1",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-04-03T00:36:00.000+03:00",
+  "title": "The Linux Foundation Announces General Availability of Valkey 8.1",
+  "text": "LONDON, April 2, 2025 — The Linux Foundation today announced the general availability of Valkey 8.1, marking a major milestone in the advancement of open source in-memory data stores. This latest release empowers enterprises to optimize data management at scale, while reducing operational overhead in finance and engineering resources.\nAs digital transformation accelerates, enterprises require more efficient and cost-effective data solutions. By upgrading to Valkey 8.1, organizations can reduce memory usage, increase processing speed, and cut infrastructure costs, thus maximizing performance without increasing overhead costs.\n“Valkey’s rapid modernization highlights the demand for fast, reliable, and secure data processing and the strength that comes from open source collaboration,” said Madelyn Olson, Co-Maintainer of Valkey. “With the release of Valkey 8.1, we’re seeing significantly better memory efficiency, deeper observability, and a lot of exciting functionality delivered through our module interface. This innovation reinforces Valkey’s position as a future-proof, innovative data store.”\nFor modern businesses relying on real-time data processing, Valkey 8.1 helps reduce costs with a new memory-efficient dictionary implementation, resulting in up to 20% memory footprint reductions for common key/value workloads. The release also features:\n- Up to 20% better performance for encryption in transit workloads that use I/O threading.\n- Up to 90% reduction in P100 request latency when using active memory defragmentation.\n- A new command log that provides insights into commands that consume significant network bandwidth.\nWith an emphasis on deployment flexibility, Valkey is also rolling out its first set of modules, a pivotal step in extending the platform’s options for data store customization. Contributed by Amazon Web Services (AWS) and Google Cloud, these modules will enable developers to tailor data storage capabilities to evolving business needs. Available for early exploration today, these modules will be bundled in an official release later this year, allowing developers to further customize their experience with Valkey.\nThe first three modules available for early exploration include:\n- Search Module: A high-performance vector similarity search engine, contributed by Google, designed for AI-driven workloads demanding single-digit millisecond latency and high QPS. Capable of handling billions of vectors with demonstrated recall over 99%. Currently in beta with expected General Availability at the end of Q2.\n- JSON Module: Native support for the JSON data type, contributed by AWS, simplifying document-based storage and retrieval by allowing updating and retrieving a subset of the JSON data without having to process it on the client.\n- Probabilistic Bloom Filter Module: Efficient large-scale membership testing, contributed by AWS, reducing memory usage by over 90% for many applications including fraud detection and advertising.\nThe launch of Valkey 8.1 coincides with the project’s one-year anniversary, marking a moment of accelerated growth and adoption within the cloud-native ecosystem, with over 150 unique contributors to the core. To celebrate, the Valkey project will host a Valkey birthday event at the Percona booth on the showroom floor of KubeCon + CloudNativeCon Europe in London, April 1-4, 2025, featuring Valkey-themed cupcakes and networking opportunities for the expanding open source community.\nTo upgrade to Valkey 8.1, explore its performance enhancements, and experiment with the first set of modules, visit www.valkey.io.\nAbout The Linux Foundation\nThe Linux Foundation is the world’s leading home for collaboration on open source software, hardware, standards, and data. Linux Foundation projects are critical to the world’s infrastructure, including Linux, Kubernetes, LF Decentralized Trust, Node.js, ONAP, OpenChain, OpenSSF, PyTorch, RISC-V, SPDX, Zephyr, and more. The Linux Foundation focuses on leveraging best practices and addressing the needs of contributors, users, and solution providers to create sustainable models for open collaboration. For more information, please visit us at linuxfoundation.org.\nSource: Linux Foundation",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://valkey.io/",
+    "https://www.linuxfoundation.org/",
+    "https://linuxfoundation.org/",
+    "https://www.linuxfoundation.org",
+    "https://www.valkey.io/",
+    "https://valkey.io"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Madelyn Olson",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [
+      {
+        "name": "LONDON",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "KubeCon +",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Europe",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "The Linux Foundation",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "Valkey 8.1",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Co-Maintainer",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Amazon Web Services",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "AWS",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Google Cloud",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "QPS",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Q2",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "JSON",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Linux, Kubernetes",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "LF Decentralized Trust",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "ONAP",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "OpenChain",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "PyTorch",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "SPDX",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Zephyr",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T00:51:23.054+03:00",
+  "updated": "2025-04-03T00:51:23.054+03:00"
+}

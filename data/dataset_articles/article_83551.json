@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "6ae9cacde65b965773222c2070d6a477f253ad9c",
+    "url": "https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Amazon-presento-un-chip-de-computacion-cuantica-para-competir-con-Microsoft-y-Google-uc916306",
+    "site_full": "www.montevideo.com.uy",
+    "site": "montevideo.com.uy",
+    "site_section": "https://montevideo.com.uy",
+    "site_categories": [
+      "social"
+    ],
+    "section_title": "Montevideo Portal",
+    "site_title": null,
+    "title": "Amazon presentó un chip de computación cuántica para competir con Microsoft y Google",
+    "title_full": "Amazon presentó un chip de computación cuántica para competir con Microsoft y Google",
+    "published": "2025-02-28T00:55:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "UY",
+    "main_image": "https://imagenes.montevideo.com.uy/imgnoticias/202502/_W933_80/909025.jpg",
+    "performance_score": 0,
+    "domain_rank": 42103,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6ae9cacde65b965773222c2070d6a477f253ad9c",
+  "url": "https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Amazon-presento-un-chip-de-computacion-cuantica-para-competir-con-Microsoft-y-Google-uc916306",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@portalmvd",
+  "published": "2025-02-28T00:55:00.000+02:00",
+  "title": "Amazon presentó un chip de computación cuántica para competir con Microsoft y Google",
+  "text": "Amazon presentó este jueves su primer chip de computación cuántica, sumándose a la creciente lista de gigantes tecnológicos que ingresan al sector de los chips de este tipo. Llamado Ocelot, el chip, según Amazon, ayuda a resolver un “problema clave” en los sistemas de computación cuántica, lo que podría acelerar el desarrollo de computadoras cuánticas prácticas.\nSegún informó Yahoo Finance, el anuncio de Amazon llega apenas una semana después de que Microsoft revelara su propio chip cuántico, Majorana 1. Google, por su parte, presentó su chip cuántico Willow en diciembre. Para el medio, liderar la computación cuántica representaría una “enorme oportunidad” para los gigantes de la nube, y “asegura” una ventaja competitiva en un campo con el potencial de transformar múltiples industrias y generar ingresos durante años.\nAmazon asegura que su chip facilita la corrección de errores bosónicos, un paso crucial para lograr que los sistemas cuánticos realicen cálculos que tomarían años a las computadoras clásicas.\nA diferencia de la computación clásica, que utiliza bits representados por 1 y 0, la computación cuántica emplea cúbits, que pueden representar simultáneamente un 1 y un 0. Esto permite a las computadoras cuánticas procesar enormes cantidades de información a velocidades mucho mayores que las computadoras tradicionales. En algunos casos, podrían resolver problemas en minutos que tomarían cientos o miles de años en una computadora convencional.\nSin embargo, los cúbits son extremadamente frágiles y pueden ser propensos a errores debido a interferencias externas. El chip de Amazon busca abordar estos errores de manera eficiente.\n“Creemos que la arquitectura de Ocelot, con su enfoque de corrección de errores eficiente en hardware, nos posiciona bien para la siguiente fase de la computación cuántica: aprender a escalar”, afirmaron en un comunicado Fernando Brandão, jefe de aplicaciones de software cuántico de Amazon, y Oskar Painter, jefe de hardware cuántico.\n“Escalar de manera frugal mediante eficiencia en hardware nos permitirá lograr más rápidamente y a menor costo una computadora cuántica con corrección de errores que beneficie a la sociedad”, agregaron.\nEl anuncio de Amazon es el más reciente en una serie de desarrollos en la carrera de las grandes tecnológicas por construir una computadora cuántica funcional capaz de realizar cálculos en campos como la salud y la ciencia de materiales.\nLa semana pasada, Microsoft presentó su chip Majorana 1, que, según la compañía, utiliza un nuevo material llamado topoconductor. Microsoft asegura que este material aprovecha un nuevo estado de la materia, distinto de los sólidos, líquidos y gases, al adoptar una configuración topológica, aunque algunos expertos han mostrado escepticismo sobre esta afirmación.\nEl chip Willow de Google también busca corregir errores en sistemas cuánticos y, según la compañía, impulsará el desarrollo de computadoras cuánticas escalables en el futuro.\nEl avance de la computación cuántica sigue generando debate sobre cuándo será realmente útil para resolver problemas científicos complejos, como el descubrimiento de nuevos medicamentos o la mejora en modelos financieros.\nEl CEO de Nvidia, Jensen Huang, estima que las computadoras cuánticas prácticas aún están a 20 años de convertirse en una realidad, mientras que el CEO de Google, Sundar Pichai, cree que podrían estar listas en un período de entre cinco y diez años.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ocelot",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Yahoo Finance",
+        "sentiment": "none"
+      },
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:38:01.195+02:00",
+  "updated": "2025-02-28T01:38:01.195+02:00"
+}

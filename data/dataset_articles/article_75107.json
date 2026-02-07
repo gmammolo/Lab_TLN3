@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "edce86a7a74cf05dde28d6f57b69a8cc2ce07019",
+    "url": "https://www.phonearena.com/news/qr-codes-danger_id165095",
+    "site_full": "www.phonearena.com",
+    "site": "phonearena.com",
+    "site_section": "https://www.phonearena.com/feed",
+    "site_categories": [
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": "PhoneArena",
+    "title": "You should be really careful with the QR codes you're putting in front of your phone's camera",
+    "title_full": "You should be really careful with the QR codes you're putting in front of your phone's camera",
+    "published": "2024-11-22T11:01:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://m-cdn.phonearena.com/images/article/165095-wide-two_1200/You-should-be-really-careful-with-the-QR-codes-youre-putting-in-front-of-your-phones-camera.jpg",
+    "performance_score": 0,
+    "domain_rank": 4029,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "edce86a7a74cf05dde28d6f57b69a8cc2ce07019",
+  "url": "https://www.phonearena.com/news/qr-codes-danger_id165095",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Sebastian Pier",
+  "published": "2024-11-22T11:01:00.000+02:00",
+  "title": "You should be really careful with the QR codes you're putting in front of your phone's camera",
+  "text": "So apparently 60% of QR codes in emails are spam and we should be really careful with the small pixelated squares we're scanning with our cameras. It turns out that The journey from traditional barcodes to QR codes marks a significant evolution in data storage technology. Before 1994, standard barcodes – the good old parallel lines found on grocery items – could only store up to 80 characters. Recognizing this limitation, the Quick Response (QR) codes were developed, capable of holding over 7,000 numeric or 4,300 alphanumeric characters. A bit of improvement, right? While QR codes represent only a small fraction of email content (approximately one in every 500 emails), they pose a unique security challenge. These seemingly innocent squares have become an effective tool for bypassing spam filters, with research from Cisco Talos indicating that 60% of QR codes in emails are spam-related. The most concerning use involves phishing attempts, particularly in stealing login credentials through fake multi-factor authentication requests. What makes these codes particularly challenging to defend against is their image-based nature. Spam filters struggle with a three-step process: they must first recognize a QR code within an image, then decode it, and finally analyze the embedded data. Adding to this complexity, some creators have developed \"QR code art\" – images that cleverly disguise QR codes within artistic designs, making them even harder to identify. These images integrate the data points of a QR code into artistic designs, making them appear as regular artwork rather than recognizable QR codes. However, the risk with QR code art lies in its potential to mislead users. Someone could unknowingly scan such an image and be directed to the linked content without realizing it was a functional QR code. Security experts recommend treating QR codes with the same caution as unknown URLs. While completely avoiding QR codes in today's world may be impossible, users can protect themselves by using online QR decoders to preview the encoded information before scanning. These tools allow inspection of the underlying data without risking device security. Additionally, when logging into services, it's safer to access websites directly rather than through QR code links. For those needing to share or study potentially dangerous QR codes, Cisco Talos has identified effective methods to \"defang\" them - similar to how suspicious URLs are often written with \"hxxp\" instead of \"http\". This can be done either by obscuring the code's data modules (the black and white squares) or removing the position detection patterns (the large squares in three corners), rendering the code unreadable to scanners. Above all – stay vigilant! It turns out that our sophisticated anti-spam filters are completely baffled by the QR codes.The journey from traditional barcodes to QR codes marks a significant evolution in data storage technology. Before 1994, standard barcodes – the good old parallel lines found on grocery items – could only store up to 80 characters. Recognizing this limitation, the Quick Response (QR) codes were developed, capable of holding over 7,000 numeric or 4,300 alphanumeric characters. A bit of improvement, right? The security risk is heightened when users scan QR codes on mobile devices. When someone scans a malicious code using cellular data rather than corporate Wi-Fi, the subsequent connection occurs outside company security systems, making it difficult for organizations to detect potential threats. Some QR codes are safe! \" Image credit – Apple What makes these codes particularly challenging to defend against is their image-based nature. Spam filters struggle with a three-step process: they must first recognize a QR code within an image, then decode it, and finally analyze the embedded data. Adding to this complexity, some creators have developed \"QR code art\" – images that cleverly disguise QR codes within artistic designs, making them even harder to identify. These images integrate the data points of a QR code into artistic designs, making them appear as regular artwork rather than recognizable QR codes. However, the risk with QR code art lies in its potential to mislead users. Someone could unknowingly scan such an image and be directed to the linked content without realizing it was a functional QR code. Security experts recommend treating QR codes with the same caution as unknown URLs. While completely avoiding QR codes in today's world may be impossible, users can protect themselves by using online QR decoders to preview the encoded information before scanning. These tools allow inspection of the underlying data without risking device security. Additionally, when logging into services, it's safer to access websites directly rather than through QR code links. Above all – stay vigilant! Loading Comments...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Cisco Talos",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "edce86a7a74cf05dde28d6f57b69a8cc2ce07019",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:12:09.278+02:00",
+  "updated": "2024-11-22T11:23:38.928+02:00"
+}

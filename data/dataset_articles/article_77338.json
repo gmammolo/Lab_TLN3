@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "be955de2079bbe4f3ee14ea672130dd1ec5a4429",
+    "url": "https://www.fudzilla.com/news/ai/61537-deepseek-s-r2-model-delayed",
+    "site_full": "www.fudzilla.com",
+    "site": "fudzilla.com",
+    "site_section": "https://news.google.com/search?q=t%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "Fudzilla.com - Home",
+    "title": "DeepSeek's R2 model delayed",
+    "title_full": "DeepSeek's R2 model delayed",
+    "published": "2025-08-14T10:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.fudzilla.com/media/k2/items/cache/f8266a316195f3b83146c82d37edc140_XS.jpg",
+    "performance_score": 0,
+    "domain_rank": 21153,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "be955de2079bbe4f3ee14ea672130dd1ec5a4429",
+  "url": "https://www.fudzilla.com/news/ai/61537-deepseek-s-r2-model-delayed",
+  "ord_in_thread": 0,
+  "author": "Nick Farrell",
+  "published": "2025-08-14T10:33:00.000+03:00",
+  "title": "DeepSeek's R2 model delayed",
+  "text": "The startup had been nudged by Beijing’s tech commissars to ditch Nvidia kit and embrace the Ascend processor when developing its R2 model. According to three insiders, the company gamely gave it a go after launching its R1 in January. It didn’t go well.\nPersistent technical hiccups meant training the model on Ascend was a non-starter. In the end, DeepSeek reverted to Nvidia silicon for training and stuck with Huawei’s gear for inference. That halfway house solution was only chosen after the Ascend effort faceplanted completely.\nOne source familiar with the mess said the training failures were the main reason the R2 launch was kicked past May, costing the company valuable time in an AI arms race where seconds matter.\nTraining, for the record, is the bit where an AI sucks up vast data sets like a digital hoover. Inference is when it tries to sound clever in response to user questions, which is what your average chatbot does when it’s not hallucinating.\nHuawei sent in the cavalry, dispatching engineers to DeepSeek’s office to try and get the Ascend-based model working. It didn’t help. Even with on-site support, DeepSeek still couldn’t get through a single successful training run.\nThe case lays bare what most people in the industry already know: China’s chip contenders still trail the US in areas that matter. Huawei and Cambricon may fly the red flag, but their silicon lags behind Nvidia’s kit in terms of software, speed and general reliability.\nThat’s despite Beijing ramping up pressure on domestic companies to stop handing wads of cash to Nvidia. The Financial Times reported that Chinese firms have now been told to justify any orders for Nvidia’s H20 chip, the last export-legal GPU it can flog to China.\nInsiders say Huawei’s Ascend chips are still prone to gremlins and dodgy interconnect speeds. The software isn’t up to scratch either. None of that is especially helpful if you're trying to train a next-gen large language model.\nDeepSeek is said to be working with Huawei to get Ascend working for inference at least. Internally, founder Liang Wenfeng has apparently made it known he’s less than thrilled with R2’s progress and wants more time to push for a stronger follow-up model to keep ahead in the AI race.\nAnother source said the launch was also delayed by a data-labelling bottleneck, though Chinese media reckons the model might still crawl out of the lab sometime soon.\nMeanwhile, competition is heating up. AI researcher Ritwik Gupta from the University of California, Berkeley, pointed out that Alibaba’s Qwen3 model nicked DeepSeek’s best ideas and made them work.\n“Models are commodities that can be easily swapped out,” Gupta said. He added that Ascend chips are still in the growing pains phase but might catch up later.\n“Just because we’re not seeing leading models trained on Huawei today doesn’t mean it won’t happen in the future. It’s a matter of time,” he said.\nNvidia, for its part, doesn’t appear too rattled. It recently cut a deal to hand over a slice of China revenue to the US government in order to keep selling H20 chips to the Middle Kingdom.\n“Developers will play a crucial role in building the winning AI ecosystem,” said Nvidia, while politely reminding Washington that throwing China to the wolves might not be the best look for American national security.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biotechnology",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Ascend",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Huawei",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:17:11.342+03:00",
+  "updated": "2025-08-14T11:28:33.000+03:00"
+}

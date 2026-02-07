@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "912856906005bca14c708d37cc60f340d03ac970",
+    "url": "https://siliconangle.com/2025/02/27/idc-debuts-ai-fueled-software-procurement-analysis-service",
+    "site_full": "siliconangle.com",
+    "site": "siliconangle.com",
+    "site_section": "https://siliconangle.com/rss",
+    "site_categories": [
+      "search_engine",
+      "tech"
+    ],
+    "section_title": "SiliconANGLE",
+    "site_title": null,
+    "title": "IDC debuts AI-fueled software procurement analysis service - SiliconANGLE",
+    "title_full": "IDC debuts AI-fueled software procurement analysis service - SiliconANGLE",
+    "published": "2025-02-27T17:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/02/concept-1868728_1280-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 6181,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "912856906005bca14c708d37cc60f340d03ac970",
+  "url": "https://siliconangle.com/2025/02/27/idc-debuts-ai-fueled-software-procurement-analysis-service",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Paul Gillin",
+  "published": "2025-02-27T17:00:00.000+02:00",
+  "title": "IDC debuts AI-fueled software procurement analysis service - SiliconANGLE",
+  "text": "Market research firm International Data Corp. today is releasing a new application aimed at helping enterprise executives simplify the software procurement process.\nIDC TechMatch uses generative artificial intelligence and IDC’s database of information about products and vendors to enable buyers to narrow buying criteria, evaluate vendors according to weighted preferences and generate draft requests for proposal.\n“One of the top pain points many CIOs cite is their process for selecting and purchasing software, which they describe as long, slow, complex and biased,” said Jim Spare, senior vice president and general manager of TechMatch. “This is an area we understand pretty well. Unbiased data presented when CIOs need it and in the way they need it can be a significant business opportunity.”\nTechMatch currently covers about 30 software categories but will quickly expand to more than 100 segments, Spare said. It leverages IDC’s research methodology called MarketScapes, which collects data from vendors on an ongoing basis. “It’s an always-on collection method; we have hundreds of MarketScapes available,” Spare said.\nUsers can investigate individual vendors and products and select multiple vendors within categories using weighting criteria ranging from inactive to critical. They can query the database in natural language and specify requirements that aren’t included in IDC’s research for direct response by vendors. IDC uses OpenAI’s GPT-4 large language model and will support others in the future, executives said.\nAutomated RFPs RFPs are typically situation-dependent but with enough similarities between them that the process can be at least partially automated, said Adam Harris, vice president of digital product management.\n“For each of the markets we cover, we have a base set of information that is always valuable,” he said. “As you work through the platform and set requirements, we purposely put them inside of your RFP and suggest requirements you didn’t collect but might want to consider.”\nVendors can access and comment on the data IDC collects but can’t currently change any information. Users can grant selective access to buying committee colleagues. Each customer has a dedicated environment for security and privacy purposes and only anonymized customer data will be used in training, Harris said.\nCompanies don’t have to subscribe to IDC research to use TechMatch. The software is licensed on a sitewide basis with graduated pricing that “enables even small and midsized organizations to access the platform,” Spare said, without providing specifics.\nHe said early experience has shown that shared access to the service has collateral benefits.\n“In many organizations, there are software sourcing processes that are sanctioned by the IT organization and there are also people purchasing on their own outside the process,” he said. “By having a central place for coordinate purchases, CIOs can direct everybody to go through this platform. They have visibility into everything going on in the company related to software sourcing instead of myriad spreadsheets and web research.”\nPhoto: Pexels /Pixabay",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Education"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Education->students",
+    "Education->teachers",
+    "Education->educational grading"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1868728",
+    "https://blogs.idc.com/2025/02/26/software-sourcing-in-the-age-of-ai/",
+    "https://blogs.idc.com/2025/02/26/software-sourcing-in-the-age-of-ai",
+    "https://pixabay.com/users/pexels-2286921/",
+    "https://www.pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1868728",
+    "https://www.blogs.idc.com/2025/02/26/software-sourcing-in-the-age-of-ai/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jim Spare",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "International Data Corp.",
+        "sentiment": "negative"
+      },
+      {
+        "name": "IDC",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:36:40.654+02:00",
+  "updated": "2025-02-28T00:36:40.654+02:00"
+}

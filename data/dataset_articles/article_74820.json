@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "4c158cc206af4a6ccd3ae8845dd56f3708e9ff86",
+    "url": "https://thenerdstash.com/stalker-2-out-of-video-memory-error-solution",
+    "site_full": "thenerdstash.com",
+    "site": "thenerdstash.com",
+    "site_section": "http://feeds.feedburner.com/thenerdstash",
+    "site_categories": [
+      "entertainment"
+    ],
+    "section_title": "The Nerd Stash",
+    "title": "STALKER 2: Out of Video Memory Error Solution",
+    "title_full": "STALKER 2: Out of Video Memory Error Solution",
+    "published": "2024-11-22T04:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.thenerdstash.com/wp-content/uploads/2024/11/Stalker-2-Opening.jpg",
+    "performance_score": 0,
+    "domain_rank": 46667,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4c158cc206af4a6ccd3ae8845dd56f3708e9ff86",
+  "url": "https://thenerdstash.com/stalker-2-out-of-video-memory-error-solution",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Gabriela Jessica",
+  "published": "2024-11-22T04:16:00.000+02:00",
+  "title": "STALKER 2: Out of Video Memory Error Solution",
+  "text": "Skip To...\nThe development of [STALKER 2: Heart of Chornobyl](https://thenerdstash.com/tag/stalker-2/) wasn’t smooth at all. That’s why the game was released with various [bugs and issues](https://thenerdstash.com/stalker-2-developer-admits-technical-issues-reveals-plans-to-smooth-out-the-games-rough-edges/). While die-hard fans don’t mind about these problems, it doesn’t change the fact that there are those who can’t even play the game. One of the STALKER 2 errors you may encounter is the out-of-video memory problem. This error basically prevents you from launching the game due to your PC, but luckily, there are some solutions that you can try.\nHow To Fix Out of Video Memory Error in STALKER 2\nAlthough the Day 0 patches that the developer has shared have fixed some of the big issues that plague STALKER 2, the out-of-video memory error may still strike some poor fans. This bug will prevent you from playing by crashing the game and then giving you this terrible notification. Although it says that your video card causes this error, it is actually connected to your CPU.\nChange Performance Core Ratio\nThe first method that you can try is changing your performance core ratio. It seems the out-of-video memory error will mainly strike Intel users, specifically those who have 13th/14th generation CPUs. The best thing that you can do to solve this problem quickly is to reduce your processor power consumption.\n- Download and install\n[Intel Extreme Tuning Utility](https://www.intel.com/content/www/us/en/download/17881/intel-extreme-tuning-utility-intel-xtu.html). - Open the Basic Tuning section.\n- Set your Performance Core Ratio to 52x, 53x, 54x, or 55x.\n- Click Apply to roll out the changes.\n- Launch STALKER 2 to check whether the error is gone.\nThis should be the solution for the majority of players who encounter this problem. If it doesn’t work, you can try these other methods.\nUpdate BIOS\nIf you still encounter the out-of-video memory error, you may want to consider updating your BIOS. Since the steps of updating BIOS depends on the manufacturer, I can only offer a general guide to do this:\n- Go to your motherboard manufacturer’s official website.\n- Download the latest BIOS version for your model.\n- Copy the download file to a formatted USB drive.\n- Go to UEFI Firmware Settings from the Advanced Startup screen.\n- Search for the BIOS update option in the settings.\nUpdate Graphics Card Driver\nAnother method you can use to solve the out-of-video memory error is to update or even reinstall your Graphics Card Driver.\n- Open the Device Manager app.\n- Expand the Display adapters to find your Graphics Card.\n- Right-click and select the Update Driver option.\nVerify STALKER 2 Game Files\nAlthough unlikely, the out-of-video memory error could be caused by corrupted game files. In this instance, you may want to try to check the integrity of the game data.\n- Launch\n[Steam](https://thenerdstash.com/10-best-free-steam-games-in-2024/)and go to your Library. - Hover over STALKER 2 and right-click the title.\n- Select Properties and go to Installed Files.\n- Click the verify integrity of game files option.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T05:15:39.836+02:00",
+  "updated": "2024-11-22T14:44:05.317+02:00"
+}

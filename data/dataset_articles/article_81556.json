@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "a24517d049a48d920edddc8a7db0502b8797521f",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=214864",
+    "site_full": "www.businesskorea.co.kr",
+    "site": "businesskorea.co.kr",
+    "site_section": "https://businesskorea.co.kr/index2.html",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Businesskorea",
+    "title": "Intel Forms AI Alliance with Naver to Counter Nvidia - Businesskorea",
+    "title_full": "Intel Forms AI Alliance with Naver to Counter Nvidia - Businesskorea",
+    "published": "2024-04-12T03:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "KR",
+    "main_image": "https://www.businesskorea.co.kr/news/thumbnail/202404/214864_216122_3533_v150.jpg",
+    "performance_score": 0,
+    "domain_rank": 13691,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a24517d049a48d920edddc8a7db0502b8797521f",
+  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=214864",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jasmine Choi",
+  "published": "2024-04-12T03:43:00.000+03:00",
+  "title": "Intel Forms AI Alliance with Naver to Counter Nvidia - Businesskorea",
+  "text": "U.S.-based semiconductor company Intel has declared a counteroffensive in the AI semiconductor market led by Nvidia. Intel plans to create an open platform for AI development that rivals Nvidia’s semiconductors and AI development platform, aiming to form a new alliance system. For this purpose, Intel has teamed up with Naver to push for joint research and the construction of infrastructure for training large language models (LLMs). On April 11, Intel held an Intel Vision media round table at the FKI Tower Ruby Hall in Yeouido, Seoul, introducing its cooperation with Naver on AI software development and its latest AI semiconductor, “Gaudi3.” This was an opportunity to share with the Korean press the content of “Intel Vision 2024,” an event held for customers and partners in Arizona in the U.S. on April 8 and 9. The plan first involves creating an open platform for AI development to solidify a “break away from Nvidia alliance front.” Nvidia has maintained its monopoly in the AI semiconductor market by making its free AI development platform “CUDA,” introduced in 2006, only operable on its own semiconductors. Nearly all developers from big tech companies have been using CUDA to create AI, speeding up AI development across companies and effectively leaving the AI semiconductor market under an Nvidia monopoly. Intel has chosen Naver as a key ally to create an open AI development platform. Naver, which has developed and operates its own AI model “HyperClova X,” has primarily used Nvidia semiconductors and CUDA up to now. They plan to establish an “AI Joint Research Center (NICL: NAVER Cloud·Intel·Co-Lab)” to conduct joint research and development on generative AI models and applications using Intel’s AI chip “Gaudi 2.” They also aim to proceed with the construction of LLMs using Intel AI accelerators. More than 20 domestic research labs and startups, including KAIST, Seoul National University, and POSTECH, will also contribute. Lee Dong-soo, Director of HyperScale AI at Naver Cloud, stated, “Intel has a variety of hardware ready to use, and we will explore those possibilities,” highlighting that “the improvement in performance relative to power and Intel’s extensive experience in data center operations will be distinctive points of collaboration.” In response to a question about whether the development of the “Maha-1” inference chip with Samsung Electronics overlaps with the cooperation with Intel, he answered, “Both Samsung and Intel are our valuable partners,” and “collaboration with Samsung is a separate matter.” Intel also introduced its latest AI chip, “Gaudi 3,” which can replace Nvidia’s GPUs. It can reduce training time by 50% and improve inference throughput by 50% compared to Nvidia’s H100 flagship AI semiconductor. Additionally, its power efficiency has improved by 40%. Intel plans to start mass production of Gaudi3 in the third quarter (July to September) of this year, which will be included in customer systems from Dell, HPE, Lenovo, and Supermicro. However, it seems challenging for Intel to catch up with Nvidia’s stronghold in the short term. Nvidia’s AI chips operate almost as an industry standard, and companies like OpenAI, Google, and Apple are actively venturing into designing their own AI semiconductors. When asked about Intel’s target market share in the AI market after the launch of Gaudi3, Intel responded, “It's difficult to disclose to the public.” [pr@businesskorea.co.kr](mailto:pr@businesskorea.co.kr)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "intel forms ai alliance",
+        "sentiment": "negative"
+      },
+      {
+        "name": "naver",
+        "sentiment": "negative"
+      },
+      {
+        "name": "intel",
+        "sentiment": "negative"
+      },
+      {
+        "name": "nvidia",
+        "sentiment": "none"
+      },
+      {
+        "name": "intel vision",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "businesskorea u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "u.s.",
+        "sentiment": "none"
+      },
+      {
+        "name": "yeouido",
+        "sentiment": "none"
+      },
+      {
+        "name": "seoul",
+        "sentiment": "none"
+      },
+      {
+        "name": "fki tower ruby hall",
+        "sentiment": "none"
+      },
+      {
+        "name": "arizona",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-04-12T04:48:15.762+03:00",
+  "updated": "2024-04-12T04:48:15.762+03:00"
+}

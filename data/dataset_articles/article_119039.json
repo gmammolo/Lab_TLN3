@@ -1,0 +1,151 @@
+{
+  "thread": {
+    "uuid": "a66f2c78bc5e140878d2d27892b07a81f2cf6299",
+    "url": "https://www.abendzeitung-muenchen.de/bayern/zahlreiche-unfaelle-auf-glatten-strassen-art-1094287",
+    "site_full": "www.abendzeitung-muenchen.de",
+    "site": "abendzeitung-muenchen.de",
+    "site_section": "https://abendzeitung-muenchen.de/thema",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Hier finden Sie alle Themenseiten von A bis Z | Abendzeitung München",
+    "site_title": "Abendzeitung: Aktuelle News aus und für München | Abendzeitung München",
+    "title": "Zahlreiche Unfälle auf glatten Straßen",
+    "title_full": "Zahlreiche Unfälle auf glatten Straßen",
+    "published": "2025-11-20T10:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.abendzeitung-muenchen.de/storage/image/7/3/4/7/1627437_winterwetter-in-bayern_social_1F7IY9_IZmbH1.jpg",
+    "performance_score": 0,
+    "domain_rank": 29991,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a66f2c78bc5e140878d2d27892b07a81f2cf6299",
+  "url": "https://www.abendzeitung-muenchen.de/bayern/zahlreiche-unfaelle-auf-glatten-strassen-art-1094287",
+  "ord_in_thread": 0,
+  "author": "dpa",
+  "published": "2025-11-20T10:18:00.000+02:00",
+  "title": "Zahlreiche Unfälle auf glatten Straßen",
+  "text": "Zahlreiche Unfälle auf glatten Straßen\nAuf glatten Straßen haben sich in Niederbayern seit dem Morgen viele witterungsbedingte Unfälle ereignet. Im Einsatzbereich des Präsidiums seien mindestens 50 Unfälle gezählt worden, sagte eine Polizeisprecherin. Demnach gab es Blechschäden, Lastwagen und Autos standen quer und blieben liegen.\nBetroffen ist etwa der Raum Passau, wo nach Angaben eines Polizeisprechers auch Schulbusse nicht weiter kamen. Auch rund um Deggendorf und Straubing ereigneten sich der Sprecherin zufolge seit etwa 6.00 Uhr vermehrt Unfälle. Schwerverletzte habe es zunächst nicht gegeben.\nDWD: glatte Straßen in weiten Teilen Bayerns\nMit frostigen Temperaturen und Schnee kann es auf den Straßen in Bayern glatt werden. Vor allem am Morgen sei in Lagen oberhalb von 400 Metern Vorsicht geboten, hatte der Deutsche Wetterdienst (DWD) mitgeteilt. Im Bergland und bei Schneeschauern riet der DWD, auch tagsüber auf Glätte zu achten.\nHinweis: Diese Meldung ist Teil eines automatisierten Angebots der nach strengen journalistischen Regeln arbeitenden Deutschen Presse-Agentur (dpa). Sie wird von der AZ-Onlineredaktion nicht bearbeitet oder geprüft. Fragen und Hinweise bitte an feedback@az-muenchen.de\n- Themen:\n-\nDeutscher Wetterdienst",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Weather"
+  ],
+  "topics": [
+    "Disaster and Accident->accident and emergency incident",
+    "Disaster and Accident->transportation accident and incident",
+    "Weather->weather warning",
+    "Weather->weather phenomena"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Niederbayern",
+        "sentiment": "none"
+      },
+      {
+        "name": "Deggendorf",
+        "sentiment": "none"
+      },
+      {
+        "name": "Straubing",
+        "sentiment": "none"
+      },
+      {
+        "name": "Bayerns",
+        "sentiment": "none"
+      },
+      {
+        "name": "Passau",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Deutsche Wetterdienst",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "DWD",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "dpa",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T10:33:32.482+02:00",
+  "updated": "2025-11-21T11:14:18.000+02:00"
+}

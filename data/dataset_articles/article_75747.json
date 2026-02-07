@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "11678aeba43f59eca708d6de6338dc82aaf67221",
+    "url": "https://tiinside.com.br/09/01/2025/sistemas-microsoft-cisco-e-windows-tem-vulnerabilidades-criticas-aponta-a-redbelt",
+    "site_full": "tiinside.com.br",
+    "site": "tiinside.com.br",
+    "site_section": "https://www.tiinside.com.br",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Home | TI INSIDE Online",
+    "title": "Sistemas Microsoft, Cisco e Windows têm vulnerabilidades críticas, aponta a Redbelt",
+    "title_full": "Sistemas Microsoft, Cisco e Windows têm vulnerabilidades críticas, aponta a Redbelt",
+    "published": "2025-01-09T23:30:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 74326,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "11678aeba43f59eca708d6de6338dc82aaf67221",
+  "url": "https://tiinside.com.br/09/01/2025/sistemas-microsoft-cisco-e-windows-tem-vulnerabilidades-criticas-aponta-a-redbelt",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Redação",
+  "published": "2025-01-09T23:30:00.000+02:00",
+  "title": "Sistemas Microsoft, Cisco e Windows têm vulnerabilidades críticas, aponta a Redbelt",
+  "text": "A segurança cibernética está no centro das atenções em um momento em que as ameaças digitais evoluem em ritmo acelerado. Em seu mais recente relatório mensal, a Redbelt Security, consultoria especializada em cibersegurança, divulga uma curadoria detalhada que revela as principais vulnerabilidades exploradas por cibercriminosos no último mês.\nEste levantamento não apenas destaca os riscos enfrentados por empresas de todos os portes, mas também reforça a necessidade de práticas proativas para mitigar os danos potenciais.\nAs vulnerabilidades recentemente identificadas são:\n• Hackers usam arquivos corrompidos para burlar as defesas de antivírus e e-mail – Pesquisadores de segurança cibernética chamaram a atenção para uma nova campanha de phishing que aproveita documentos corrompidos do Microsoft Office e arquivos ZIP como forma de contornar as defesas de e-mail. A atividade maliciosa envolve o envio de e-mails contendo arquivos ZIP ou anexos do Office que são intencionalmente corrompidos de forma que não possam ser verificados por ferramentas de segurança. Essas mensagens visam induzir os usuários a abrir os anexos com falsas promessas de benefícios e bônus dos funcionários. O objetivo final desses ataques é enganar os usuários para que abram documentos com armadilhas, que incorporam códigos QR que, quando digitalizados, redirecionam as vítimas para sites fraudulentos para implantação de malware ou páginas de login falsas para roubo de credenciais.\n• Nova técnica de malware pode explorar o Windows UI Framework para burlar ferramentas de EDR – Uma técnica recém-desenvolvida aproveita uma estrutura de acessibilidade do Windows chamada UIA (Automação da Interface do Usuário) para executar uma ampla gama de atividades maliciosas sem alertar soluções de EDR (detecção e resposta de ponto de extremidade). Pior ainda, os invasores locais podem aproveitar esse ponto cego de segurança para executar comandos e ler/gravar mensagens de/para aplicativos de mensagens como Slack e WhatsApp. Além disso, também pode ser potencialmente armado para manipular elementos da interface do usuário em uma rede.\n• Invasores exploram o Microsoft Teams e o AnyDesk para implantar o malware DarkGate – Uma nova campanha de engenharia social alavancou o Microsoft Teams como uma forma de facilitar a implantação de um malware conhecido chamado DarkGate. Embora o ataque tenha sido bloqueado antes que qualquer atividade de exfiltração de dados pudesse ocorrer, as descobertas são um sinal de como os agentes de ameaças estão usando um conjunto diversificado de rotas de acesso iniciais para propagação de malware.\nRecomenda-se que as organizações habilitem a autenticação multifator (MFA), coloquem ferramentas de acesso remoto aprovadas na lista de permissões, bloqueiem aplicativos não verificados e examinem minuciosamente os provedores de suporte técnico terceirizados para eliminar o risco de vishing.\n• 390.000 credenciais do WordPress comprometidas em ataque via GitHub – Mais de 390.000 credenciais do WordPress foram comprometidas em uma campanha maliciosa que explorou vulnerabilidades associadas a repositórios do GitHub. Um repositório específico, agora removido, promovia uma ferramenta WordPress projetada para publicar postagens no sistema de gerenciamento de conteúdo (CMS). No entanto, essa ferramenta foi utilizada para exfiltrar credenciais, afetando usuários de forma massiva. Essa atividade é parte de uma campanha de ataque mais ampla conduzida por um agente de ameaças conhecido como MUT-1244 (abreviação de \"Misteriosa Ameaça Não Atribuída\"), identificado pelo Datadog Security Labs.\nA campanha envolveu técnicas de phishing e o uso de repositórios GitHub comprometidos que hospedavam códigos de prova de conceito (PoC) para explorar vulnerabilidades conhecidas. Um dos projetos utilizados, chamado yawpp no GitHub, permitiu o envio das credenciais extraídas para uma conta no Dropbox controlada pelos invasores. Esse comprometimento afetou até mesmo agentes de ameaça não relacionados, que obtiveram acesso às credenciais por meios ilícitos, aumentando o alcance do ataque.\n• Cisco alerta sobre exploração da vulnerabilidade ASA WebVPN – A Cisco emitiu uma atualização para alertar seus clientes sobre a exploração ativa de uma vulnerabilidade identificada há mais de uma década, que afeta o Adaptive Security Appliance (ASA). A falha, rastreada como CVE-2014-2120 (pontuação CVSS: 4,3), está relacionada à validação insuficiente de entradas na página de login do WebVPN no ASA. Essa brecha pode permitir que invasores remotos não autenticados conduzam ataques de script entre sites (XSS) contra usuários-alvo do dispositivo. Em uma revisão publicada em dezembro, a Cisco destacou que identificou \"tentativas adicionais de exploração\" dessa vulnerabilidade. Aos usuários do Cisco ASA, a recomendação é clara: mantenham seus dispositivos sempre atualizados para mitigar os riscos associados.\nDiante desse cenário, a consultoria enfatiza que as empresas precisam enxergar a segurança cibernética não apenas como uma defesa contra ameaças, mas como um elemento central de sua estratégia de negócios. Isso requer um investimento contínuo em soluções tecnológicas de ponta, combinadas com a capacitação de equipes para lidar com cenários cada vez mais complexos. Além disso, é essencial adotar uma abordagem holística, que integre ferramentas avançadas, processos automatizados e práticas de governança voltadas à proteção de dados.\nCom o suporte de especialistas em cibersegurança, as organizações podem antecipar riscos, fortalecer sua resiliência e, ao mesmo tempo, transformar os desafios do ambiente digital em vantagens competitivas no mercado global.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:59:37.325+02:00",
+  "updated": "2025-01-10T01:59:37.325+02:00"
+}

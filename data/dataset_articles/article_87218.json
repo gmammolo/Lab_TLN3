@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "01333c23ae40c81224e5d2a62e7c8e73b8ec48be",
+    "url": "https://stackoverflow.com/questions/77883193/why-wont-imblearn-import",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/feeds",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Stack Overflow",
+    "title": "Why won't imblearn import?",
+    "title_full": "Why won't imblearn import?",
+    "published": "2024-01-26T00:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "01333c23ae40c81224e5d2a62e7c8e73b8ec48be",
+  "url": "https://stackoverflow.com/questions/77883193/why-wont-imblearn-import",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "John Smith",
+  "published": "2024-01-26T00:22:00.000+02:00",
+  "title": "Why won't imblearn import?",
+  "text": "I have successfully installed this package in a Jupyter notebook in GCP in the past multiple times. Now I am getting the following error:\nTraceback (most recent call last):\nFile \"/opt/conda/lib/python3.7/site-packages/IPython/core/interactiveshell.py\", line 3553, in run_code exec(code_obj, self.user_global_ns, self.user_ns)\nFile \"/tmp/ipykernel_1/3172500498.py\", line 1, in import imblearn\nFile \"/opt/conda/lib/python3.7/site-packages/imblearn/ init .py\", line 52, in from . import (\nFile \"/opt/conda/lib/python3.7/site-packages/imblearn/ensemble/ init .py\", line 6, in from ._bagging import BalancedBaggingClassifier\nFile \"/opt/conda/lib/python3.7/site-packages/imblearn/ensemble/_bagging.py\", line 30, in from ..pipeline import Pipeline\nFile \"/opt/conda/lib/python3.7/site-packages/imblearn/pipeline.py\", line 22, in from .utils._metadata_requests import (\nFile \"/opt/conda/lib/python3.7/site-packages/imblearn/utils/_metadata_requests.py\", line 1492 def process_routing(_obj, _method, /, **kwargs): ^ SyntaxError: invalid syntax\nI have tried restarting the kernel. I have tried \"pip install -U imbalanced-learn\" follow by \"conda install -c conda-forge imbalanced-learn\". I have tried using an older version of scipy. I am out of ideas\nEdit: It looks like a new version of imblearn was launced yesterday. Trying %pip install imblearn==0.11.0 does not work because \"version does not exist,\" but installing imbalanced-learn==0.11.0 fixed the problem",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology",
+    "Health"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "gcp",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:24:40.917+02:00",
+  "updated": "2024-01-26T09:19:59.095+02:00"
+}

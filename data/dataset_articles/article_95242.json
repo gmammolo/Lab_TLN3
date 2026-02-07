@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "d66d73bbf1c91c548523c5db6c7cd06dd64c54fc",
+    "url": "https://www.thestar.com.my/sport/rugby/2024/09/06/rugby-slipper-set-to-equal-australia-caps-record-against-argentina",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media",
+      "top_news"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Rugby: Rugby-Slipper set to equal Australia caps record against Argentina | The Star",
+    "title_full": "Rugby: Rugby-Slipper set to equal Australia caps record against Argentina | The Star",
+    "published": "2024-09-05T23:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/09/06/2898411.jpg",
+    "performance_score": 0,
+    "domain_rank": 2239,
+    "domain_rank_updated": "2024-09-03T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d66d73bbf1c91c548523c5db6c7cd06dd64c54fc",
+  "url": "https://www.thestar.com.my/sport/rugby/2024/09/06/rugby-slipper-set-to-equal-australia-caps-record-against-argentina",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "The Star Online",
+  "published": "2024-09-05T23:11:00.000+03:00",
+  "title": "Rugby: Rugby-Slipper set to equal Australia caps record against Argentina | The Star",
+  "text": "(Reuters) - James Slipper is in line to equal Australia’s record for the most test caps after being picked on Thursday to play against Argentina in their Rugby Championship clash in Santa Fe on Saturday.\nThe veteran prop was named among the replacements for the match, giving him the opportunity for a 139th cap to draw level with former captain and scrumhalf George Gregan.\nThere were three changes to the starting line-up from last weekend’s 20-19 victory over Argentina in La Plata with Ben Donaldson taking over at flyhalf from Noah Lolesio after kicking the winning penalty at La Plata.\nAndrew Kellaway moves off the wing to replace Tom Wright at fullback, allowing Max Jorgensen to slot in at right wing as he starts a test for the first time days after turning 20 years old.\nIn the second row, Jeremy Williams comes in for Lukhan Salakaia-Loto.\nSlipper returns to the match-day squad after missing last weekend’s win for the birth of his second child.\nThe 35-year-old prop's selection was virtually assured following a head knock suffered by fellow loosehead Isaac Kailea last weekend.\n\"It’s a tremendous achievement for James to equal the record of the most capped Wallaby,\" Australia coach Joe Schmidt said in a statement on Thursday.\n\"He’s the ultimate team man and I know the whole group will do everything they can to make it a memorable milestone.\"\nTeam:\n15-Andrew Kellaway, 14-Max Jorgensen, 13-Len Ikitau, 12-Hamish Steward, 11-Marika Koroibete, 10-Ben Donaldson, 9-Jake Gordon, 8-Harry Wilson, 7-Carlo Tizzano, 6-Rob Valetini, 5-Jeremy Williams, 4-Nick Frost, 3-Taniela Tupou, 2-Matt Faessler, 1-Angus Bell\nReplacements: 16-Josh Nasser, 17-James Slipper, 18-Allan Alaalatoa, 19-Josh Canham, 20-Langi Gleeson, 21-Tate McDermott, 22-Tom Lynagh, 23-Josh Flook.\n(Writing by Mark Gleeson in Cape Town; Editing by Ed Osmond)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Sport"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jeremy williams",
+        "sentiment": "none"
+      },
+      {
+        "name": "george gregan",
+        "sentiment": "none"
+      },
+      {
+        "name": "james slipper",
+        "sentiment": "none"
+      },
+      {
+        "name": "tom wright",
+        "sentiment": "none"
+      },
+      {
+        "name": "ben donaldson",
+        "sentiment": "none"
+      },
+      {
+        "name": "noah lolesio",
+        "sentiment": "none"
+      },
+      {
+        "name": "max jorgensen",
+        "sentiment": "none"
+      },
+      {
+        "name": "andrew kellaway",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "rugby union",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "reuters",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "wales",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-09-06T00:47:33.274+03:00",
+  "updated": "2024-09-06T03:51:51.701+03:00"
+}

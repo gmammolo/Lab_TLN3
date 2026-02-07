@@ -1,0 +1,134 @@
+{
+  "thread": {
+    "uuid": "c734d0b5c88fb0e7047b461cc61b6b241352d1d7",
+    "url": "https://www.news.de/technik/858863401/libarchive-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-und-unix-vom-20-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "IT-Sicherheit: Linux, UNIX und Windows gefährdet - IT-Sicherheitslücke bei libarchive mit hohem Risiko! Warnung erhält Update",
+    "title_full": "IT-Sicherheit: Linux, UNIX und Windows gefährdet - IT-Sicherheitslücke bei libarchive mit hohem Risiko! Warnung erhält Update",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771955/images/8a/9d/807393d1e6472837e598ed2cd9b4/nopic/no_pic/1200/675/1/1/-/4/1024/576/-/-/aktuelle-it-sicherheitshinweise-auf-newsde-symbolbild_857771955_1200x675_a224e6a4c9bc462ed594d8126e48e44e.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c734d0b5c88fb0e7047b461cc61b6b241352d1d7",
+  "url": "https://www.news.de/technik/858863401/libarchive-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-und-unix-vom-20-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "IT-Sicherheit: Linux, UNIX und Windows gefährdet - IT-Sicherheitslücke bei libarchive mit hohem Risiko! Warnung erhält Update",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 20.08.2025 ein Update zu einer am 07.08.2025 bekanntgewordenen Sicherheitslücke für libarchive herausgegeben. Betroffen von der Sicherheitslücke sind die Betriebssysteme Linux, UNIX und Windows sowie die Produkte Red Hat Enterprise Linux, Fedora Linux, SUSE Linux, Oracle Linux, IGEL OS, FreeBSD Project FreeBSD OS, Open Source libarchive und Securepoint UTM.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: SUSE Security Update SUSE-SU-2025:02718-2 (Stand: 20.08.2025). Weitere nützliche Quellen werden weiter unten in diesem Artikel aufgeführt.\nSicherheitshinweis für libarchive - Risiko: hoch\nRisikostufe: 4 (hoch)\nCVSS Base Score: 9,8\nCVSS Temporal Score: 8,5\nRemoteangriff: Ja\nZur Einschätzung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um Gegenmaßnahmen besser priorisieren zu können. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Beim Temporal Score fließen über die Zeit veränderbare Rahmenbedingungen in die Bewertung ein. Das Risiko der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 9,8 als \"hoch\" eingestuft.\nlibarchive Bug: Schwachstelle ermöglicht Denial of Service und potenziell Codeausführung\nlibarchive ist eine C Bibliothek und ein Kommandozeilen-Tool zum Lesen und Bearbeiten von tar, cpio, zip, ISO und anderen Formaten.FreeBSD ist ein Open Source Betriebssystem aus der BSD Familie und gehört damit zu den Unix Derivaten.\nEin entfernter, anonymer Angreifer kann eine Schwachstelle in libarchive und FreeBSD Project FreeBSD OS ausnutzen, um beliebigen Programmcode auszuführen, und potenziell um einen Denial of Service Angriff durchzuführen.\nKlassifiziert wurde die Schwachstelle mithilfe des CVE-Referenziersystems (Common Vulnerabilities and Exposures) durch die individuelle Seriennummer CVE-2025-5914.\nVon der libarchive-Sicherheitslücke betroffene Systeme im Überblick\nBetriebssysteme\nLinux, UNIX, Windows\nProdukte\nRed Hat Enterprise Linux (cpe:/o:redhat:enterprise_linux)\nFedora Linux (cpe:/o:fedoraproject:fedora)\nSUSE Linux (cpe:/o:suse:suse_linux)\nOracle Linux (cpe:/o:oracle:linux)\nIGEL OS (cpe:/o:igel:os)\nFreeBSD Project FreeBSD OS <13.5-STABLE (cpe:/o:freebsd:freebsd)\nFreeBSD Project FreeBSD OS 13.5-STABLE (cpe:/o:freebsd:freebsd)\nOpen Source libarchive <3.8.0 (cpe:/a:libarchive:libarchive)\nOpen Source libarchive 3.8.0 (cpe:/a:libarchive:libarchive)\nFreeBSD Project FreeBSD OS <14.3-STABLE (cpe:/o:freebsd:freebsd)\nFreeBSD Project FreeBSD OS 14.3-STABLE (cpe:/o:freebsd:freebsd)\nSecurepoint UTM <14.0.8.2 (cpe:/o:securepoint:unified_threat_management)\nSecurepoint UTM 14.0.8.2 (cpe:/o:securepoint:unified_threat_management)\nAllgemeine Maßnahmen zum Umgang mit IT-Schwachstellen\n- Anwender der betroffenen Anwendungen sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten neue Sicherheitsupdates verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten regelmäßig prüfen, wann das herstellende Unternehmen ein neues Sicherheitsupdate zur Verfügung stellt.\nQuellen zu Updates, Patches und Workarounds\nAn dieser Stelle finden Sie weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nSUSE Security Update SUSE-SU-2025:02718-2 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-August/022239.html\nOracle Linux Security Advisory ELSA-2025-14135 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-14135.html\nOracle Linux Security Advisory ELSA-2025-14130 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-14130.html\nOracle Linux Security Advisory ELSA-2025-14137 vom 2025-08-20 (20.08.2025)\nWeitere Informationen finden Sie unter: https://linux.oracle.com/errata/ELSA-2025-14137.html\nRed Hat Security Advisory RHSA-2025:14142 vom 2025-08-20 (19.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14142\nRed Hat Security Advisory RHSA-2025:14141 vom 2025-08-20 (19.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14141\nRed Hat Security Advisory RHSA-2025:14137 vom 2025-08-20 (19.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14137\nRed Hat Security Advisory RHSA-2025:14135 vom 2025-08-20 (19.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14135\nRed Hat Security Advisory RHSA-2025:14130 vom 2025-08-20 (19.08.2025)\nWeitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2025:14130\nSecurepoint UTM Changelog - Build 14.0.8.2 vom 2025-08-18 (18.08.2025)\nWeitere Informationen finden Sie unter: https://wiki.securepoint.de/UTM/Changelog\nFedora Security Advisory FEDORA-2025-47E73AAAEA vom 2025-08-18 (18.08.2025)\nWeitere Informationen finden Sie unter: https://bodhi.fedoraproject.org/updates/FEDORA-2025-47e73aaaea\nIGEL Security Notice ISN-2025-34 vom 2025-08-14 (14.08.2025)\nWeitere Informationen finden Sie unter: https://kb.igel.com/en/security-safety/current/isn-2025-34-libarchive-vulnerability\nNIST CVE-2025-5914 (07.08.2025)\nWeitere Informationen finden Sie unter: https://nvd.nist.gov/vuln/detail/CVE-2025-5914\nFreeBSD Security Advisory vom 2025-08-07 (07.08.2025)\nWeitere Informationen finden Sie unter: https://security.FreeBSD.org/advisories/FreeBSD-SA-25:07.libarchive.asc\nVersionshistorie dieser Sicherheitswarnung\nDies ist die 5. Version des vorliegenden IT-Sicherheitshinweises für libarchive. Sollten weitere Updates bekanntgegeben werden, wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.\n07.08.2025 - Initiale Fassung\n14.08.2025 - Neue Updates von IGEL aufgenommen\n18.08.2025 - Neue Updates von Fedora und Securepoint aufgenommen\n19.08.2025 - Neue Updates von Red Hat aufgenommen\n20.08.2025 - Neue Updates von Oracle Linux und SUSE aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://security.FreeBSD.org/advisories/FreeBSD-SA-25:07.libarchive.asc",
+    "https://twitter.com/news_de",
+    "https://kb.igel.com/en/security-safety/current/isn-2025-34-libarchive-vulnerability",
+    "https://wiki.securepoint.de/UTM/Changelog",
+    "https://nvd.nist.gov/vuln/detail/CVE-2025-5914",
+    "https://linux.oracle.com/errata/ELSA-2025-14130.html",
+    "https://bodhi.fedoraproject.org/updates/FEDORA-2025-47e73aaaea",
+    "https://pin.it/11NQyAf",
+    "https://www.facebook.com/News.de",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-August/022239.html",
+    "https://access.redhat.com/errata/RHSA-2025:14142",
+    "https://access.redhat.com/errata/RHSA-2025:14141",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://linux.oracle.com/errata/ELSA-2025-14137.html",
+    "https://access.redhat.com/errata/RHSA-2025:14130",
+    "https://access.redhat.com/errata/RHSA-2025:14137",
+    "https://linux.oracle.com/errata/ELSA-2025-14135.html",
+    "https://access.redhat.com/errata/RHSA-2025:14135",
+    "https://www.linux.oracle.com/errata/ELSA-2025-14135.html",
+    "https://www.security.FreeBSD.org/advisories/FreeBSD-SA-25:07.libarchive.asc",
+    "https://www.nvd.nist.gov/vuln/detail/CVE-2025-5914",
+    "https://www.access.redhat.com/errata/RHSA-2025:14135",
+    "https://www.access.redhat.com/errata/RHSA-2025:14142",
+    "https://facebook.com/News.de",
+    "https://www.pin.it/11NQyAf",
+    "https://www.access.redhat.com/errata/RHSA-2025:14141",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-August/022239.html",
+    "https://www.twitter.com/news_de",
+    "https://www.linux.oracle.com/errata/ELSA-2025-14137.html",
+    "https://www.access.redhat.com/errata/RHSA-2025:14130",
+    "https://www.access.redhat.com/errata/RHSA-2025:14137",
+    "https://www.kb.igel.com/en/security-safety/current/isn-2025-34-libarchive-vulnerability",
+    "https://www.linux.oracle.com/errata/ELSA-2025-14130.html",
+    "https://www.wiki.securepoint.de/UTM/Changelog",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://www.bodhi.fedoraproject.org/updates/FEDORA-2025-47e73aaaea"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:31.171+03:00",
+  "updated": "2025-08-22T14:06:55.000+03:00"
+}

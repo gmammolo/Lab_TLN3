@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "f90fb6c8e95693668c50022ee31742ae3ee83255",
+    "url": "https://www.scworld.com/news/ransomhub-affiliates-scramble-amid-apparent-internal-conflict",
+    "site_full": "www.scworld.com",
+    "site": "scworld.com",
+    "site_section": "https://news.google.com/search?q=themselves%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [],
+    "section_title": "Google News - Search",
+    "site_title": "Cybersecurity News, Awards, Webinars, eSummits, Research | SC Media",
+    "title": "RansomHub affiliates scramble amid apparent internal conflict",
+    "title_full": "RansomHub affiliates scramble amid apparent internal conflict",
+    "published": "2025-04-10T00:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://files.cyberriskalliance.com/wp-content/uploads/2025/04/AdobeStock_260343019.jpg",
+    "performance_score": 0,
+    "domain_rank": 10053,
+    "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f90fb6c8e95693668c50022ee31742ae3ee83255",
+  "url": "https://www.scworld.com/news/ransomhub-affiliates-scramble-amid-apparent-internal-conflict",
+  "ord_in_thread": 0,
+  "author": "Laura French",
+  "published": "2025-04-10T00:11:00.000+03:00",
+  "title": "RansomHub affiliates scramble amid apparent internal conflict",
+  "text": "most prolific ransomware groupof 2024 following the disruption of LockBit and ALPHV/BlackCat, apparently faced “a series of internal disagreements and disunity” at the beginning of April,\nGuidePoint’s Research and Intelligence Team (GRIT) reportedon Tuesday.An “unknown number of affiliates” were cut off from RansomHub’s communication channels with victims on April 1 due to the internal conflict, leading the cybercriminals to move negotiations to other channels, including the platforms of other RaaS groups, according to GRIT.Meanwhile, some members aired their confusion on the dark web cybercrime forum RAMP, where a rival ransomware group called DragonForce claimed that RansomHub had partnered with them and migrated their infrastructure. GuidePoint noted that DragonForce may simply be taking the opportunity to muddy the waters and market themselves amid the turmoil, although DragonForce did take over another RaaS operation called BlackLock last month after its\ndata leak site was compromisedby Resecurity researchers.“This incident can bring to light the notion that there really is ‘no honor among thieves,’” noted GuidePoint Security Principal Threat Intelligence Consultant Justin Timothy, in an email to SC Media.Supporting the theory that RansomHub is facing setbacks due to internal conflict is the fact that the group’s data leak site has been inactive since March 31.“It is not entirely unusual for data leak sites to experience short durations of downtime due to hosting instabilities associated with the dark web, however this downtime coupled with the internal strife that we are seeing from RansomHub could be further indication of the group’s internal administration deteriorating,” Timothy said.Ironically, RansomHub gained much of its success and notoriety through recruiting disgruntled affiliates from other groups like ALPHV/BlackCat, which reportedly\npulled an exit scamon its own affiliates when it dismantled last year. Most notably, RansomHub recruited the threat actor known as “notchy” to\nobtain data from the Change Healthcare breachafter ALPHV/BlackCat allegedly ran with a $22 million ransom.Additionally, RansomHub has marketed its affiliate program by offering favorable revenue cuts and allowing ransom payments to go directly to affiliates, presenting itself as a more trustworthy and affiliate-friendly RaaS group, GRIT noted.“While information continues to emerge, we cannot help but note the irony of a group which rose to prominence by promising stability and security for affiliates appearing to have failed or betrayed those same affiliates within a year,” the GRIT researchers wrote.As the situation unfolds, RansomHub victims also face confusion as they are suddenly directed to new communication channels by threat actors. Timothy said organizations that fall victim to ransomware should have second thoughts about negotiating with these groups.“Because of this, responders themselves may have even less trust in RaaS operations if a ransom payment is made and a decryptor/data deletion is promised. These events highlight that the ransomware actors are criminals at the end of the day and inherently untrustworthy,” Timothy said.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->organised crime",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->psychology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.guidepointsecurity.com/blog/ransomsnub-ransomhubs-affiliate-confusion/",
+    "https://www.guidepointsecurity.com/blog/ransomsnub-ransomhubs-affiliate-confusion",
+    "https://guidepointsecurity.com/blog/ransomsnub-ransomhubs-affiliate-confusion/"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-04-10T00:16:57.821+03:00",
+  "updated": "2025-04-10T00:16:57.821+03:00"
+}

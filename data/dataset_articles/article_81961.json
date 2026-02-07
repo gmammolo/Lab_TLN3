@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "bba504612769c6a7d5159ab2232ff3cbcac9dcfd",
+    "url": "https://www.hackster.io/news/an-innovative-diy-watch-that-you-may-actually-want-to-wear-0bccb32576ff",
+    "site_full": "www.hackster.io",
+    "site": "hackster.io",
+    "site_section": "https://www.hackster.io/news?ref=topnav",
+    "site_categories": [
+      "woodworking",
+      "hobbies_and_interests"
+    ],
+    "section_title": "Hackster News - Hackster.io",
+    "title": "An Innovative DIY Watch That You May Actually Want to Wear - Hackster.io",
+    "title_full": "An Innovative DIY Watch That You May Actually Want to Wear - Hackster.io",
+    "published": "2024-10-18T00:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://hackster.imgix.net/uploads/attachments/1769212/_9oLxuwD6x2.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+    "performance_score": 0,
+    "domain_rank": 4769,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bba504612769c6a7d5159ab2232ff3cbcac9dcfd",
+  "url": "https://www.hackster.io/news/an-innovative-diy-watch-that-you-may-actually-want-to-wear-0bccb32576ff",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cameron Coward",
+  "published": "2024-10-18T00:23:00.000+03:00",
+  "title": "An Innovative DIY Watch That You May Actually Want to Wear - Hackster.io",
+  "text": "We’ve covered a lot of watch projects here on the Hackster blog. But, if we’re being honest, not many of them were designs that an average person would want to wear. Style and features are definitely factors, but bulk is arguably the biggest problem with DIY designs. The miniaturization needed to shove a bunch of tech into a tiny watch package requires resources that are out of the reach of most hobbyists. But Drfailov managed to pull it off and built this impressive ESP32-based watch that you may actually want to wear .\nDrfailov’s DRM Watch 3 looks fantastic. It is, admittedly, quite wide, but that’s a result of the screen Drfailov chose and that screen is what makes the watch so appealing. However, Drfailov’s packaging is extremely impressive and this watch is pretty darn slim. And it is a nice-looking watch that doesn’t at all give off “DIY” vibes — if we had told you that this was a consumer device that just hit the market, you would have believed us.\nThe key component is that awesome display, which is a 2.7” Sharp Memory Display that combines some of the best features of LCDs and e-ink displays. Sharp Memory Displays just recently started gaining traction in the maker community over the past couple of years. They use very little power and are quite readable in sunlight (like an e-ink display), but refresh at a fast rate (like an LCD). For devices that need to keep power consumption at a minimum without sacrificing refresh rate, they’re a great choice. They also have a distinct black-on-gray appearance that looks neat.\nMost Sharp Memory Displays, including this one, don’t have a backlight and so Drfailov had to add one. He made it using an electroluminescent panel cut to size to match the footprint of the display.\nThat display-backlight sandwich fits on top of the custom PCB that is densely packed with all of the components necessary to make the watch work. That includes, most importantly, an ESP32-S2 microcontroller. The ESP32-S2 has Wi-Fi for connecting to networks and Bluetooth for connecting to a user’s smartphone. Power comes from a 450mAh lithium battery and Drfailov says that it is good for about two weeks of use between charges.\nThe enclosure is 3D-printable, but the front panel can also be CNC-machined out of aluminum, steel, or more exotic metals for a premium appearance.\nwearables smartwatch Cameron Coward Follow Writer for Hackster News. Proud husband and dog dad. Maker and serial hobbyist. Check out my YouTube channel: Serial Hobbyism",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.instructables.com/DIY-ESP32-Wearable-DRM-Watch-3/",
+    "https://instructables.com/DIY-ESP32-Wearable-DRM-Watch-3/",
+    "https://www.instructables.com/DIY-ESP32-Wearable-DRM-Watch-3"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:56:41.516+03:00",
+  "updated": "2024-10-18T00:56:41.516+03:00"
+}

@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "50ab6c5ea0a4506d9cf558803243f7eb46e7ad38",
+    "url": "https://olhardigital.com.br/2024/08/15/reviews/aplicativo-secreto-em-smartphones-android-pode-expor-usuarios",
+    "site_full": "olhardigital.com.br",
+    "site": "olhardigital.com.br",
+    "site_section": "https://olhardigital.com.br",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Olhar Digital - O futuro passa primeiro aqui",
+    "title": "Aplicativo secreto em smartphones Android pode expor usuários",
+    "title_full": "Aplicativo secreto em smartphones Android pode expor usuários",
+    "published": "2024-08-15T23:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BR",
+    "main_image": "https://olhardigital.com.br/wp-content/uploads/2024/08/shutterstock_2393466515.jpg",
+    "performance_score": 0,
+    "domain_rank": 16859,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "50ab6c5ea0a4506d9cf558803243f7eb46e7ad38",
+  "url": "https://olhardigital.com.br/2024/08/15/reviews/aplicativo-secreto-em-smartphones-android-pode-expor-usuarios",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ana Luiza Figueiredo",
+  "published": "2024-08-15T23:27:00.000+03:00",
+  "title": "Aplicativo secreto em smartphones Android pode expor usuários",
+  "text": "Uma empresa de segurança cibernética descobriu que o [software](https://olhardigital.com.br/tag/software/) principal do Google para alguns celulares [Android](https://olhardigital.com.br/tag/android/) inclui um aplicativo oculto e inseguro. Esse recurso pode ser ativado para permitir controle remoto ou espionagem dos usuários. A descoberta foi feita em dispositivos usados por um contratante de inteligência nos Estados Unidos. Segundo os pesquisadores da iVerify, o recurso parece ter sido criado para dar aos funcionários de lojas que vendem celulares [Google Pixel](https://olhardigital.com.br/tag/google-pixel/) e outros modelos acesso profundo aos dispositivos. Esse acesso permitiria demonstrações de funcionamento para os clientes. A iVerify compartilhou suas descobertas com o jornal [The Washington Post](https://www.washingtonpost.com/technology/2024/08/15/google-sold-android-phones-with-hidden-insecure-feature-companies-find/). A descoberta e a falta de explicações do Google sobre o assunto alarmaram a Palantir Technologies, uma plataforma de análise de dados que atua como contratante de inteligência. Como resultado, a empresa decidiu suspender a emissão de celulares Android para seus funcionários. Dane Stuckey, diretor de segurança da informação da Palantir, expressou preocupação com a presença de software inseguro e não verificado em seus dispositivos. A empresa de segurança iVerify afirmou que entrou em contato com o Vulnerabilidade do Android ao aplicativo Showcase.apk - O aplicativo Showcase.apk geralmente permanece inativo, mas a iVerify conseguiu ativá-lo em um dispositivo e acredita que hackers habilidosos também poderiam fazer isso remotamente. - O aplicativo não pode ser removido dos celulares através do processo normal de desinstalação. - Quando ativo, o aplicativo baixa instruções de um site hospedado na Amazon Web Services, mas utiliza uma conexão insegura “http”, o que possibilita a interceptação dessas comunicações e a substituição por instruções maliciosas. - A iVerify destacou que essa vulnerabilidade deixa milhões de dispositivos Android Pixel suscetíveis a ataques que permitiriam a injeção de código malicioso. - Os pesquisadores compararam a instalação automática do Showcase.apk com a falha global recente em computadores [Windows](https://olhardigital.com.br/tag/windows/)que executam o software de segurança CrowdStrike. - Como outros programas de segurança, o CrowdStrike está profundamente embutido no sistema, e um erro pode causar danos significativos. Resposta do Google Ed Fernandez, porta-voz do Google, afirmou ao The Washington Post que a empresa não havia detectado ataques utilizando o Showcase.apk e que a exploração desse aplicativo seria improvável, pois exigiria tanto o acesso físico ao dispositivo quanto a senha do usuário. Fernandez também mencionou que o software foi originalmente criado para dispositivos de demonstração em lojas da Verizon e que não está mais em uso. Incertezas e medidas finais A Palantir destacou que o que mais incomodou foi o fato de o Showcase estar presente nos celulares Pixel fabricados pelo próprio Google. Esses dispositivos são conhecidos por receber atualizações de segurança imediatamente, ao contrário de modelos Android fabricados por outras empresas, como a Samsung, que podem demorar. A iVerify mencionou que o aplicativo parece ter sido desenvolvido por uma empresa da Pensilvânia chamada Smith Micro Software, que escreve pacotes de software para ferramentas de acesso remoto e controle parental. Até o momento, a Smith Micro não respondeu aos contatos.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.washingtonpost.com/technology/2024/08/15/google-sold-android-phones-with-hidden-insecure-feature-companies-find/).",
+    "https://washingtonpost.com/technology/2024/08/15/google-sold-android-phones-with-hidden-insecure-feature-companies-find/)."
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T00:09:53.189+03:00",
+  "updated": "2024-08-16T00:09:53.189+03:00"
+}

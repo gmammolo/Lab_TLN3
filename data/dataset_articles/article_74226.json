@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "1fd48707afe000413ab7231a6dc99d2c3d41652c",
+    "url": "https://www.infosecurity-magazine.com/news/ransomware-groups-cloud-services",
+    "site_full": "www.infosecurity-magazine.com",
+    "site": "infosecurity-magazine.com",
+    "site_section": "https://www.infosecurity-magazine.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "\r\n\tInfosecurity Magazine - Information Security & IT Security News and Resources\r\n",
+    "title": "Ransomware Groups Use Cloud Services For Data Exfiltration - Infosecurity Magazine",
+    "title_full": "Ransomware Groups Use Cloud Services For Data Exfiltration - Infosecurity Magazine",
+    "published": "2024-11-15T12:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.infosecurity-magazine.com/webpage/og/20ec2657-e6b6-41f8-8e48-497e3231a756.jpg",
+    "performance_score": 0,
+    "domain_rank": 5450,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1fd48707afe000413ab7231a6dc99d2c3d41652c",
+  "url": "https://www.infosecurity-magazine.com/news/ransomware-groups-cloud-services",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Kevin Poireault",
+  "published": "2024-11-15T12:00:00.000+02:00",
+  "title": "Ransomware Groups Use Cloud Services For Data Exfiltration - Infosecurity Magazine",
+  "text": "Cloud ransomware attacks have become a common approach from malicious actors to compromise the IT systems of their targets, according to SentinelOne.\nAttackers are increasingly leverage cloud providers’ services to directly compromise their victims or exfiltrate data, according to a new report by SentinelLabs.\nOn the one hand, they target cloud-based storage services to compromise and extort victims. On the other, they use cloud services to exfiltrate the data they intend to ransom.\nAlex Delamotte, a threat researcher at SentinelLabs, the cybersecurity provider’s research branch, published The State of Cloud Ransomware in 2024 on November 14.\nAmazon’s Simple Storage Service and Microsoft Azure Blob Storage Targeted Cloud services provide an advantage over endpoint and web server-based services by having a smaller attack surface.\nHowever, the ubiquitous use of cloud services makes them attractive to attackers, who have developed new approaches to compromise them.\nDespite being designed to securely store, manage, and retrieve large volumes of unstructured data at scale, cloud-based storage services, such as the Amazon Web Services (AWS) Simple Storage Service (S3) or Microsoft Azure Blob Storage, have become prime targets.\nS3 buckets are one of the most referenced targets of malicious activity.\n“The attacker takes advantage of an overly permissive S3 bucket where they have write-level access, which is often the result of misconfiguration or accessed in the targeted environment through other means, such as valid credentials,” Delamotte explained.\nOne technique exploits data retention measures implemented by cloud service providers (CSPs).\nFor example, AWS Key Management Service (KMS) defines a seven-day window between a key delete request and its permanent deletion, providing users with time to detect and rectify a cryptographic ransom attack against S3 instances.\nAttackers are able to schedule a KMS key for deletion and be subject to the seven-day window before the key is permanently deleted in the victim’s environment.\nThey can leverage this in order to threaten victims with data deletion.\nAnother technique targets Amazon Elastic Block Store (EBS) volumes, which are highly available, durable block storage devices that you can attach to Amazon EC2 (Elastic Compute Cloud) instances, through a similar approach.\nTypically, the attacker creates a new KMS key, creates a snapshot of the EBS volumes, encrypts the volumes and then deletes the original, unencrypted volume.\n“This technique is still subject to the seven-day key deletion policy, which provides a window of opportunity for the customer to remediate before the key is deleted forever,” Delamotte added.\nLeveraging Cloud Services to Exfiltrate Data Additionally, several security providers have observed threat actors using cloud services to exfiltrate the data they intend to ransom.\n“In September 2024, modePUSH reported that the BianLian and Rhysida ransomware groups are now using Azure Storage Explorer to exfiltrate data from victim environments instead of historically popular tools like MEGAsync and rclone,” reads the SentinelLabs report.\n“In October 2024, Trend Micro reported that a ransomware actor mimicking the notorious LockBit ransomware group used samples that leverage Amazon’s S3 storage to exfiltrate data stolen from the targeted Windows or macOS systems.”\nSentinelOne’s Mitigation Recommendations To mitigate cloud-focused ransomware attacks, SentinelOne recommends two essential security measures:\nUse a cloud security posture management (CSPM) solution to discover and assess cloud environments and alert of issues such as misconfiguration and overly permissive storage buckets Always enforce good identity management practices, such as requiring multifactor authentication (MFA) on all admin accounts and deploy runtime protection against all cloud workloads and resources Read now: Top 10 Infrastructure Elements of Ransomware-as-a-Service",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fransomware-groups-cloud-services%2f",
+    "https://x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fransomware-groups-cloud-services%2f",
+    "https://www.infosecurityeurope.com/en-gb/blog/threat-vectors/top-10-infrastructure-ransomware-raas.html",
+    "https://www.x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fransomware-groups-cloud-services%2f",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://x.com/intent/tweet",
+    "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fransomware-groups-cloud-services%2f",
+    "https://infosecurityeurope.com/en-gb/blog/threat-vectors/top-10-infrastructure-ransomware-raas.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Alex Delamotte",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "1fd48707afe000413ab7231a6dc99d2c3d41652c",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T14:05:32.564+02:00",
+  "updated": "2024-11-15T14:05:32.564+02:00"
+}

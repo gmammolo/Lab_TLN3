@@ -1,0 +1,107 @@
+{
+  "thread": {
+    "uuid": "654938722177ade66eb38486af2da8951bc45760",
+    "url": "https://www.epochtimes.com/gb/25/8/14/n14573390.htm",
+    "site_full": "www.epochtimes.com",
+    "site": "epochtimes.com",
+    "site_section": "http://www.epochtimes.com/gb/xml/n24hr.rss",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "24小时全球新闻滚动 | 大纪元",
+    "site_title": "大紀元 | 大紀元新聞網",
+    "title": "消息：华为芯片不力 DeepSeek新模型推迟发布",
+    "title_full": "消息：华为芯片不力 DeepSeek新模型推迟发布",
+    "published": "2025-08-14T10:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://i.epochtimes.com/assets/uploads/2025/02/id14446206-747913-700x359.jpg",
+    "performance_score": 0,
+    "domain_rank": 9833,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "654938722177ade66eb38486af2da8951bc45760",
+  "url": "https://www.epochtimes.com/gb/25/8/14/n14573390.htm",
+  "ord_in_thread": 0,
+  "author": "djy",
+  "published": "2025-08-14T10:40:00.000+03:00",
+  "title": "消息：华为芯片不力 DeepSeek新模型推迟发布",
+  "text": "【大纪元2025年08月14日讯】（大纪元记者王君宜综合报导）最新消息指出，中国人工智能新创公司DeepSeek（深度求索）因在使用华为芯片进行训练时遭遇技术故障，被迫推迟最新R2模型的发布。此事凸显北京在推进本土化AI发展方面仍面临严峻挑战。\n据《金融时报》引述三位知情人士透露，DeepSeek在今年1月推出R1模型后，应监管部门“鼓励”，改用华为昇腾（Ascend）处理器取代美国英伟达（Nvidia，辉达）系统。\n但在R2训练过程中，昇腾芯片反复出现稳定性与性能问题，最终DeepSeek只能采取“训练用英伟达、推理用华为”的折衷方案，原定5月的发布被迫延后，错失市场时机。\n训练是指通过大量数据让模型学习并优化参数的过程；推理则是利用已完成训练的模型生成结果或预测，例如聊天机器人的回复。\n报导称，华为曾派遣工程师团队驻扎DeepSeek办公室协助开发，但仍未能在昇腾芯片上完成一次成功的完整训练。DeepSeek仍在与华为合作，尝试让R2模型在推理阶段完全适配昇腾芯片。\n知情人士表示，DeepSeek创办人梁文峰对R2研发进度不满，并推动加大资源投入，以打造能保持领先优势的先进模型。\n英伟达H20在华发展情势\n英伟达近日与美国政府达成协议，同意将其H20芯片在华销售收入的15%上缴美方，以换取出口许可。该公司强调，若完全退出中国市场及开发者社群，将削弱美国的全球经济竞争力与科技影响力。\n然而，中共网信办上月末约谈英伟达，要求解释H20芯片是否存在可远端追踪或关闭的“后门”安全风险，并提交相关证明材料。\n英伟达于8月6日发表声明，明确否认旗下GPU芯片含有后门功能、遥控关机开关或间谍软件。\n路透社报导指出，中共当局虽未正式全面禁止H20销售，但已明令要求腾讯、字节跳动、百度等主要网络企业在使用H20时需提交“合理说明”，尤其涉及政府或敏感用途时。\n报导指出，尽管中国市场仍对H20有需求，持续的政治与监管压力可能促使企业减少采购量。\n责任编辑：李琳#",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Politics->government",
+    "Politics->regulation of industry",
+    "Politics->economic policy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blogs.nvidia.com/blog/no-backdoors-no-kill-switches-no-spyware/",
+    "https://blogs.nvidia.com/blog/no-backdoors-no-kill-switches-no-spyware",
+    "https://www.blogs.nvidia.com/blog/no-backdoors-no-kill-switches-no-spyware/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:48:40.189+03:00",
+  "updated": "2025-08-15T11:07:08.000+03:00"
+}

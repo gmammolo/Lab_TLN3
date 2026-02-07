@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "d26b0d8c3acaf36579af19a09250e9cbe7d0775f",
+    "url": "https://kulturegeek.fr/news-326893/gpt-4-5-disponible-chatgpt-sameliore-nouvelle",
+    "site_full": "kulturegeek.fr",
+    "site": "kulturegeek.fr",
+    "site_section": "https://www.kulturegeek.fr",
+    "site_categories": [
+      "media",
+      "tech"
+    ],
+    "section_title": "KultureGeek - Actualité High-Tech, Culture Geek et comparateur de prix",
+    "site_title": null,
+    "title": "GPT-4.5 est disponible : ChatGPT s'améliore une nouvelle fois",
+    "title_full": "GPT-4.5 est disponible : ChatGPT s'améliore une nouvelle fois",
+    "published": "2025-02-28T00:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 164526,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d26b0d8c3acaf36579af19a09250e9cbe7d0775f",
+  "url": "https://kulturegeek.fr/news-326893/gpt-4-5-disponible-chatgpt-sameliore-nouvelle",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jean-Baptiste A.",
+  "published": "2025-02-28T00:34:00.000+02:00",
+  "title": "GPT-4.5 est disponible : ChatGPT s'améliore une nouvelle fois",
+  "text": "OpenAI a annoncé la sortie de son nouveau modèle linguistique GPT-4.5, qui se veut le plus intelligent à jour ce jour. GPT-4.5 repose sur GPT-4o, qu’il a enrichi en augmentant l’échelle de son pré-entraînement. Bien qu’il ne soit pas un modèle de pointe, le nouveau modèle se distingue par une connaissance plus étendue du monde, des capacités d’écriture améliorées et une personnalité affinée par rapport à son prédécesseur.\nDes performances en légère amélioration pour GPT-4.5 Les premiers résultats des benchmarks montrent que GPT-4.5 constitue une mise à jour modeste par rapport à GPT-4o . Sur le benchmark SWE-bench Verified, le modèle a atteint 38 %, soit une amélioration de 2 à 7 % par rapport à GPT-4o, mais reste à 30 % derrière les performances basées sur o3 , le modèle de recherche approfondie d’OpenAI. À titre de comparaison, le modèle Claude 3.7 Sonnet d’Anthropic a atteint un score de 62,3 % sur ce même benchmark.\nSur le benchmark SimpleQA Accuracy, GPT-4.5 a obtenu un score de 62,5 %, bien au-dessus des 38,2 % de GPT-4o. Par ailleurs, sur le benchmark Hallucination Rate (qui se focalise sur les hallucinations de l’intelligence artificielle), GPT-4.5 a obtenu le meilleur score parmi les modèles linguistiques d’OpenAI, indiquant ainsi une réduction des erreurs des contenus hallucinés.\nLe modèle GPT-4.5 a également été évalué sur une nouvelle métrique appelée SWE-Lancer, développée par OpenAI. Ce benchmark évalue la performance des modèles sur des tâches réelles d’ingénierie logicielle. Le modèle a résolu 20 % des tâches pour ingénieur et 44 % des tâches pour manager, marquant ainsi une légère amélioration par rapport au modèle précédent, o1 .\nEn matière de sécurité, GPT-4.5 a été classé comme représentant un risque moyen par le Safety Advisory Group d’OpenAI. Il a également obtenu des résultats faibles pour la cybersécurité et l’autonomie des modèles.\nDisponible dès maintenant GPT-4.5 est désormais disponible pour les utilisateurs de ChatGPT Pro (l’abonnement coûte 200$/mois). Il prend en charge des fonctionnalités telles que la recherche, l’envoi de fichiers et d’images, ainsi que des outils de canvas. Des fonctionnalités multimodales, comme le mode vocal, la vidéo et le partage d’écran, devraient être intégrées dans les prochaines versions. GPT-4.5 sera accessible la semaine prochaine pour les utilisateurs de ChatGPT Plus et Teams.\nLes développeurs payants peuvent également utiliser GPT-4.5 via l’API Chat Completions, l’API Assistants et l’API Batch, avec des fonctions telles que l’appel de fonctions, les sorties structurées et le streaming.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://openai.com/index/introducing-gpt-4-5/",
+    "https://openai.com/index/introducing-gpt-4-5",
+    "https://www.openai.com/index/introducing-gpt-4-5/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:49:49.551+02:00",
+  "updated": "2025-02-28T00:49:49.551+02:00"
+}

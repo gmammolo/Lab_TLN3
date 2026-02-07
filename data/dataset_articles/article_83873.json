@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "7e1e031082308bc58545fcd5c9b408d3af7f53bd",
+    "url": "https://www.askwoody.com/2025/apple-backports-fixes",
+    "site_full": "www.askwoody.com",
+    "site": "askwoody.com",
+    "site_section": "https://www.askwoody.com",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "AskWoody",
+    "site_title": null,
+    "title": "Apple backports fixes",
+    "title_full": "Apple backports fixes",
+    "published": "2025-04-03T00:43:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 61504,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7e1e031082308bc58545fcd5c9b408d3af7f53bd",
+  "url": "https://www.askwoody.com/2025/apple-backports-fixes",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-04-03T00:43:00.000+03:00",
+  "title": "Apple backports fixes",
+  "text": "Apple released several updates on March 31, including several backports to older versions of iOS and iPadOS. These fixes retroactively addressed three actively exploited zero-day vulnerabilities affecting legacy versions of its operating systems.\nCVE-2025-24200: ” This issue is fixed in iPadOS 17.7.5, iOS 18.3.1 and iPadOS 18.3.1. A physical attack may disable USB Restricted Mode on a locked device. Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals .”\nThat means businesses, journalists, and other highly targeted individuals. It was originally patched on February 10 in iOS 18.3.1, iPadOS 18.3.1, and iPad 17.7.5, but the vulnerability remained unresolved in older operating systems until now.\nAnother bug, CVE-2025-24201, was patched in iOS 16.7.11, iPadOS 16.7.11, iOS 15.8.4, and iPadOS 15.8.4 and is targeting flaws in WebKit and browsers. It’s been backported to iOS and iPadOS 15 and 16.\nFor more information, see this post in our forums.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->financial and economic news"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://support.apple.com/en-us/100100",
+    "https://www.support.apple.com/en-us/100100"
+  ],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Apple",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "AAPL",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "USB Restricted Mode",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "CVE-2025-24201",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "WebKit",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T01:12:59.631+03:00",
+  "updated": "2025-04-03T01:12:59.631+03:00"
+}

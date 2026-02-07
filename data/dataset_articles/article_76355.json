@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "e9f43af1e6d3fbbedcd5fe37893b65e0685d248f",
+    "url": "https://www.socialsamosa.com/news-2/apple-denies-siri-data-advertising-8607070",
+    "site_full": "www.socialsamosa.com",
+    "site": "socialsamosa.com",
+    "site_section": "https://www.socialsamosa.com/news-2",
+    "site_categories": [
+      "marketing",
+      "business",
+      "society"
+    ],
+    "section_title": " News",
+    "title": "Apple denies using Siri data for advertising amid privacy concerns",
+    "title_full": "Apple denies using Siri data for advertising amid privacy concerns",
+    "published": "2025-01-10T10:14:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://img-cdn.thepublive.com/fit-in/1200x675/socialsamosa/media/media_files/2025/01/10/Yo4irR7fL8yqe0MDgla7.png",
+    "performance_score": 0,
+    "domain_rank": 90765,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e9f43af1e6d3fbbedcd5fe37893b65e0685d248f",
+  "url": "https://www.socialsamosa.com/news-2/apple-denies-siri-data-advertising-8607070",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Social Samosa",
+  "published": "2025-01-10T10:14:00.000+02:00",
+  "title": "Apple denies using Siri data for advertising amid privacy concerns",
+  "text": "Apple has denied claims that it allows advertisers to target users based on Siri recordings, issuing a statement on Wednesday explaining how Siri manages user data. According to Apple, Siri data has never been used to create marketing profiles, sold to third parties, or made available for advertising. The company emphasised its ongoing efforts to enhance Siri&#x27;s privacy protections. The rumors resurfaced following Apple&quot;s agreement to a $95 million settlement related to a lawsuit about Siri recording conversations that were potentially overheard by human reviewers. The settlement stems from a 2019 report by The Guardian, which revealed that Apple contractors analysed anonymised Siri recordings to determine whether the voice assistant was activated intentionally. Some of these recordings included sensitive discussions. Apple apologised after the report and updated its policies, opting not to retain audio recordings by default and limiting access to data for users who opted in. Despite Apple&quot;s assurances, some plaintiffs in earlier lawsuits alleged they received ads for brands they had only mentioned in conversations, raising concerns about data use. In response, Apple reiterated that audio recordings are retained only if users explicitly opt-in and are solely used for improving Siri. Users can opt out of this feature at any time. Theories about tech companies using voice recordings for ad targeting have also implicated companies like Facebook and Google. Investigations, including one in 2018, found no evidence of microphone-based spying but revealed that some apps recorded user activity and shared it with third parties. Advertisers also leverage other sources of data, such as location tracking, shared network activity, and purchasing habits, to create targeted ads, which could explain coincidental ad appearances.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->corporate governance and csr",
+    "Economy, Business and Finance->financial and economic news"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Siri",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Apple",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:23:10.993+02:00",
+  "updated": "2025-01-10T10:23:10.993+02:00"
+}

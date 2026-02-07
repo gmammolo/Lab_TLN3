@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "eaed5bf7425db3309c616c2a86af33ab85636d9c",
+    "url": "https://www.fudzilla.com/news/61579-china-turns-off-nvidia-over-loudmouth-us-trade-chief",
+    "site_full": "www.fudzilla.com",
+    "site": "fudzilla.com",
+    "site_section": "http://www.fudzilla.com/?format=feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Fudzilla.com - Home",
+    "site_title": "Fudzilla.com - Home",
+    "title": "China turns off Nvidia over loudmouth US trade chief",
+    "title_full": "China turns off Nvidia over loudmouth US trade chief",
+    "published": "2025-08-21T10:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.fudzilla.com/media/k2/items/cache/45ebe3e924fcad53b757d1f093eac8de_XS.jpg",
+    "performance_score": 0,
+    "domain_rank": 21153,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eaed5bf7425db3309c616c2a86af33ab85636d9c",
+  "url": "https://www.fudzilla.com/news/61579-china-turns-off-nvidia-over-loudmouth-us-trade-chief",
+  "ord_in_thread": 0,
+  "author": "nick [AT] fudzilla [DOT] com (Nick Farrell)",
+  "published": "2025-08-21T10:22:00.000+03:00",
+  "title": "China turns off Nvidia over loudmouth US trade chief",
+  "text": "The processor, which was supposed to be Nvidia’s workaround for US export restrictions, has now become collateral damage in the latest tit for tat between Washington and Beijing over AI and semiconductors.\nAccording to those familiar with the matter, regulators from the Cyberspace Administration of China, the National Development and Reform Commission and the Ministry of Industry and Information Technology decided to act after US commerce secretary Howard Lutnick [pictured] spouted off to CNBC on 15 July.\nLutnick said: “We don’t sell them our best stuff, not our second-best stuff, not even our third-best. You want to sell the Chinese enough that their developers get addicted to the American technology stack, that’s the thinking.”\nBeijing’s top brass found the comments “insulting” and promptly began strong arming local tech firms to avoid Nvidia’s chips, with the H20 singled out for immediate snubbing.\nThat led major Chinese firms to cancel or drastically scale back their H20 orders, even after Nvidia chief executive Jensen Huang had toured Beijing in July to reassure clients and beg for market share.\nNvidia, still under US bans from flogging its most powerful AI kit in China, had convinced its foundry partner TSMC to reopen H20 production lines following a warm reception during Huang’s visit. The chip giant probably didn’t expect the whole plan to get kneecapped by an American politician mouthing off.\nBeijing has been pushing for homegrown semiconductors for years, but companies like ByteDance and Alibaba long argued they couldn't keep up with AI demands without Nvidia’s tech. Now, they’re rethinking that position, particularly for AI inference tasks, which are less demanding than training and rely more on availability than raw horsepower.\nThat rethink follows real world testing of chips from Huawei and Cambricon, which stepped up during the initial US ban in April.\n“Lutnick’s speech gives the coalition one more reason to intensify its efforts to push tech firms to use China’s own chips,” said a source close to the regulators.\nThe CAC issued informal “window guidance” to major platforms, citing national security and telling them to freeze H20 purchases. ByteDance and Alibaba were among those directly hit, with Nvidia summoned by CAC officials on 31 July to answer for alleged “serious security issues.”\nThese supposedly include location tracking features and the ability to shut down the chips remotely, accusations Nvidia denied outright, calling the claims baseless.\nThe MIIT reinforced CAC’s warnings through more private channels, while the NDRC added its own message urging tech companies to steer clear of all Nvidia products, not just the H20.\nThe NDRC has long been charged with promoting domestic chip supremacy and this time they are doubling down. The pressure from the CAC, which has the power to ruin a company’s day with a single phone call, has left local firms little room to ignore the guidance, even if it’s technically informal.\nOther departments in China, such as the ministries of commerce and foreign affairs, have taken a more conciliatory tone toward Nvidia. They had welcomed Huang as a gesture of goodwill during ongoing trade negotiations with the US, keen to appear reasonable to foreign businesses.\nBut the internal split suggests that while Beijing wants foreign investment, it is not willing to be humiliated by Washington’s posturing.\nOne person close to the situation told the Financial Times: “A lot of uncertainties remain depending on trade negotiations and Washington’s next moves. The fact that all current restrictive guidance from various regulators remains informal provides some room for future changes.”\nSome Chinese tech firms are also pausing to see if a downgraded version of Nvidia’s Blackwell chip, which might outperform the H20, will become export legal under Trump’s new tariff regime.\nThere’s even talk among Beijing’s policy elites of banning foreign chips for inference workloads, though no one expects that to happen soon due to a lack of domestic supply. Several new Chinese chip fabs are expected to come online next year to close that gap.\nChina’s foreign ministry stuck to the usual line: “As a matter of principle, science, technology, and economic and trade issues should not be politicised, instrumentalised, or weaponised. Containment and suppression will not hold back China’s development.”\nNvidia insisted the H20 isn’t for military or government infrastructure. “China won’t rely on American chips for government operations, just like the US government would not rely on chips from China. However, allowing US chips for beneficial commercial business use is good for everyone.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Politics",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->foreign exchange market",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Politics->economic sanction",
+    "Politics->international relations",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biotechnology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Howard Lutnick",
+        "sentiment": "none"
+      },
+      {
+        "name": "Jensen Huang",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "National Development and Reform Commission",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Nvidia",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "NVDA",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "CNBC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:40:26.500+03:00",
+  "updated": "2025-08-21T12:44:41.000+03:00"
+}

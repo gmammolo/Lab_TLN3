@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "39cf43c8c81fc85ac7b43e5185be7839d57d9dfd",
+    "url": "https://english.news.cn/20250103/1f28bcd86cdb4c499da7851d2054d79f/c.html",
+    "site_full": "english.news.cn",
+    "site": "news.cn",
+    "site_section": "https://english.news.cn/list/latestnews.htm",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Latest news | English.news.cn",
+    "title": "Over 200 flights delayed at Delhi airport due to foggy weather conditions-Xinhua",
+    "title_full": "Over 200 flights delayed at Delhi airport due to foggy weather conditions-Xinhua",
+    "published": "2025-01-03T15:25:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 1030,
+    "domain_rank_updated": "2024-12-30T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "39cf43c8c81fc85ac7b43e5185be7839d57d9dfd",
+  "url": "https://english.news.cn/20250103/1f28bcd86cdb4c499da7851d2054d79f/c.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Xinhua",
+  "published": "2025-01-03T15:25:00.000+02:00",
+  "title": "Over 200 flights delayed at Delhi airport due to foggy weather conditions-Xinhua",
+  "text": "NEW DELHI, Jan. 3 (Xinhua) -- Dense fog enveloped various parts of northern India Friday amid a cold wave, impacting flight and train operations.\nMultiple local media reports said over 200 flights were delayed at India Gandhi International Airport in the national capital of Delhi.\nOwing to the poor weather conditions, the Delhi airport issued an advisory about the possibility of delays in flight operations throughout the day.\n\"While landing and takeoffs continue at Delhi Airport, flights that are not CAT III compliant may get affected. Passengers are requested to contact the airline concerned for updated flight information,\" Delhi International Airport Ltd (DIAL) wrote on social media Friday morning.\nFlights of many airlines, including SpiceJet, Indigo and Air India, were affected due to low visibility. Another private airline Indigo urged its passengers to opt for an alternative or refund in case their flight has been cancelled.\nApart from flight disruptions, the Indian railways reported that at least 24 trains, including major long-distance services, were running late due to the dense fog. Some trains were delayed by more than 4.5 hours.\nThe India Meteorological Department Friday said dense fog and cold day conditions are likely to continue over parts of northwest and central India during the next two days and improve thereafter.\nThe temperature in Delhi on Friday morning was 9.6 degrees Celsius, making it the fifth cold day in a row for the national capital. ■",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Human Interest",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather phenomena",
+    "Social Issue->social condition",
+    "Social Issue->demographics",
+    "Social Issue->population and census"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.youtube.com/user/ChinaViewTV",
+    "https://www.facebook.com/XinhuaNewsAgency/",
+    "https://twitter.com/XHNews",
+    "https://youtube.com/user/ChinaViewTV",
+    "https://www.twitter.com/XHNews",
+    "https://facebook.com/XinhuaNewsAgency/",
+    "https://www.facebook.com/XinhuaNewsAgency"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Xinhua",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Delhi International Airport Ltd",
+        "sentiment": "none"
+      },
+      {
+        "name": "SpiceJet",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Gandhi International Airport",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "39cf43c8c81fc85ac7b43e5185be7839d57d9dfd",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2025-01-03T15:45:42.271+02:00",
+  "updated": "2025-01-03T15:45:42.271+02:00"
+}

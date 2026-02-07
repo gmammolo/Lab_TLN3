@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "ffb67284085cd006fa495733aa43664d3082dd15",
+    "url": "https://www.data.jma.go.jp/developer/xml/data/20250828075502_0_VPFT50_260000.xml",
+    "site_full": "www.data.jma.go.jp",
+    "site": "jma.go.jp",
+    "site_section": "https://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+    "site_categories": [],
+    "section_title": "高頻度（随時）",
+    "site_title": "気象庁 Japan Meteorological Agency",
+    "title": "熱中症警戒アラート",
+    "title_full": "熱中症警戒アラート",
+    "published": "2025-08-28T10:55:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4014,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ffb67284085cd006fa495733aa43664d3082dd15",
+  "url": "https://www.data.jma.go.jp/developer/xml/data/20250828075502_0_VPFT50_260000.xml",
+  "ord_in_thread": 0,
+  "author": "環境省 気象庁",
+  "published": "2025-08-28T10:55:00.000+03:00",
+  "title": "熱中症警戒アラート",
+  "text": "同一現象用平文情報 1.0_0 <Text type=\"本文\">京都府では、明日（２９日）は、気温が著しく高く熱中症になりやすい危険な暑さになることが予想されます。熱中症予防のための行動をとってください。 ＜熱中症予防のための行動＞ ・屋内では、エアコンを適切に使用し、涼しい環境で過ごしてください。 ・屋外への外出は、なるべく短時間にする、暑い時間を避けるなどを心がけてください。また、日傘や帽子を活用してください。 ・屋内・屋外を問わず、こまめに水分補給・塩分補給をしてください。 ・高齢者、子ども、持病のある方、からだに障害のある方、肥満の方等の熱中症になりやすい方々は、特に熱中症予防のための行動をとってください。また、身近な方からも、熱中症になりやすい方々へ、見守り・声かけをしてください。 ・施設の管理者やイベント主催者等は、暑さ指数を確認の上、施設の利用者やイベント参加者等に対して、熱中症予防に関する呼びかけなどを行ってください。 ［明日（２９日）の日最高暑さ指数（ＷＢＧＴ）（予測）］ 間人３１、宮津３３、舞鶴３２、福知山３１、美山３１、園部３０、京都３２、京田辺３１ 暑さ指数（ＷＢＧＴ：Ｗｅｔ Ｂｕｌｂ Ｇｌｏｂｅ Ｔｅｍｐｅｒａｔｕｒｅ）は気温、湿度、日射量などから計算される、熱中症の発生リスクを示した指標です。 全国の情報提供地点における暑さ指数は、環境省の「熱中症予防情報サイト」で提供しています。お近くの地点における暑さ指数を「熱中症予防情報サイト」で確認し、熱中症予防のための行動をとってください。 ［暑さ指数（ＷＢＧＴ）の目安］ 　３１以上：危険 　２８以上３１未満：厳重警戒 　２５以上２８未満：警戒 　２５未満：注意 ［明日（２９日）の予想最高気温］ 京都３６度、舞鶴３６度 この情報は暑さ指数（ＷＢＧＴ）を３３以上と予測したときに発表する、自分の身を守るための気づきを促す情報です。予測対象日の前日１７時頃または当日５時頃に発表します。 なお、予測対象日の前日１７時頃に情報（第１号）を発表した地域に対しては、当日５時頃における最新の予測が３３未満に低下した場合でも情報（第２号）を発表し、熱中症への注意を呼びかけます。</Text>",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "japanese",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Weather",
+    "Social Issue"
+  ],
+  "topics": [
+    "Health->health care approach",
+    "Health->public health",
+    "Health->communicable disease",
+    "Weather->weather warning",
+    "Social Issue->social services",
+    "Social Issue->communities",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://xml.kishou.go.jp/jmaxml1/addition1/",
+    "http://xml.kishou.go.jp/jmaxml1/",
+    "http://xml.kishou.go.jp/jmaxml1/addition1",
+    "http://www.xml.kishou.go.jp/jmaxml1/addition1/",
+    "http://xml.kishou.go.jp/jmaxml1",
+    "http://www.xml.kishou.go.jp/jmaxml1/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T11:00:16.213+03:00",
+  "updated": "2025-08-28T11:03:44.000+03:00"
+}

@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "874291805f61618aeace8abcdefe4add0afac44e",
+    "url": "https://spectrum.ieee.org/math-ai",
+    "site_full": "spectrum.ieee.org",
+    "site": "ieee.org",
+    "site_section": "https://artificialintelligencezone.com/today",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Artificial Intelligence Zone",
+    "site_title": null,
+    "title": "AI Solves Million-Step Math Problems",
+    "title_full": "AI Solves Million-Step Math Problems",
+    "published": "2025-02-27T16:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://spectrum.ieee.org/media-library/an-illustration-shows-four-colorful-steps-positioned-against-a-background-of-graph-paper-a-line-that-goes-from-step-to-step-has.jpg?id=56594189&width=1200&height=600&coordinates=0%2C600%2C0%2C601",
+    "performance_score": 0,
+    "domain_rank": 271,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 9
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "874291805f61618aeace8abcdefe4add0afac44e",
+  "url": "https://spectrum.ieee.org/math-ai",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Charles Q Choi",
+  "published": "2025-02-27T16:00:00.000+02:00",
+  "title": "AI Solves Million-Step Math Problems",
+  "text": "Artificial intelligence systems have made breakthrough after breakthrough mastering chess, in which games typically last about 40 moves. Now, to help solve the world’s toughest math problems, researchers have developed a new AI model that finds complex solutions requiring thousands to millions of steps. They suggest the new algorithms they built for the task might one day help detect events such as hurricanes and financial crashes that are rare but have disastrous impacts when they do happen.\nScientists are increasingly exploring how well AI can solve math problems. For example, Google DeepMind’s AlphaProof performed as well as a silver medalist in the 2024 International Mathematical Olympiad, a high-school level math competition, and OpenAI’s o3 system recently debuted with a strong showing on benchmark problems in math, science, and computer programming.\nIn a new study, which has not yet been peer reviewed, researchers at the California Institute of Technology and their colleagues tackled more challenging math problems, the kind that have perplexed professional mathematicians for decades.\n“When it comes to the kind of problems you might find in math olympiads, they’re typically proofs involving 30 or 40 steps, on the same order of magnitude as an average game of chess,” says Sergei Gukov, a professor of theoretical physics and mathematics at the California Institute of Technology, in Pasadena. “We’re focusing on sophisticated research-level math problems with solutions involving thousands or millions or even billions of steps.”\nUltimately, “I’m hoping that we’ll be able to solve Millennium Prize problems using AI,” Gukov says, referring to a contest involving the most difficult mathematical problems in the world. “This is probably too optimistic on my part, but it’s good to have some north stars. At the moment, we’re trying to focus on problems one level down instead, the kind that have remained open for many years.”\nAI Tackles the Andrews-Curtis Conjecture\nIn the new study, Gukov and his colleagues focused on the Andrews-Curtis conjecture, a combinatorial group theory problem first proposed 60 years ago. “Combinatorial group theory is about transformations of objects,” Gukov says. “Think about a Rubik’s cube. It’s a very simple group with basic operations and transformations—you can rotate different planes of a Rubik’s cube vertically and horizontally. The Andrews-Curtis conjecture is like a Rubik’s cube on steroids—instead of a 3 by 3 by 3 group, it’s more like a 100 by 100 by 100 group.”\nAlthough the researchers did not prove the main conjecture, their new system disproved related families of problems known as potential counterexamples that had remained open for about 25 years. These counterexamples are essentially mathematical cases that would disprove the conjecture. Ruling out these counterexamples increases the likelihood that the conjecture is true.\nTo attack these problems, Gukov and his colleagues adopted a strategy where they looked for unexpected, convoluted solutions. “If you were to ask DeepSeek or o3 or ChatGPT or similar models to solve any of the problems we studied, they wouldn’t be able find answers,” he says. “They’re good at producing solutions that are expected or typical, at parroting what’s seen before. They’re meant to be general-purpose models. We’re looking at long sequences of steps that are hard to find, that are outliers among the statistical distribution of solutions.”\nTo develop these “super-moves,” as the researchers call them, Gukov and his colleagues used the approach known as reinforcement learning. They first gave the AI easy problems to solve, and then gave it progressively more difficult problems. The scientists looked for strategies that didn’t require large amounts of computing power; Gukov says that all the training was done on a single [GPU](https://spectrum.ieee.org/frontier-exascale-supercomputer).\nGukov notes that in reinforcement learning research, people typically use the same 10 to 15 algorithms. “What I find most exciting is that by thinking about solving these problems with these very long horizons, we developed new algorithms for AI,” he says.\nPotential Applications Beyond Mathematics\nThese new algorithms “might have many applications for them outside of pure mathematics,” Gukov says. “They can find outliers, anomalies, black swans—events that are very, very rare, but can have very heavy price tags if they do happen.” The rarity of these events has made them difficult for AI to accurately forecast—their unusual nature means there is little historical data for predictive models to learn from. The ability to forecast the most likely and catastrophic of these scenarios could help societies prepare optimal mitigation strategies.\nGukov’s team is now investigating other longstanding math problems to help them develop the algorithms. They detailed [their findings](https://github.com/shehper/AC-Solver) 13 February in a [study](https://arxiv.org/abs/2408.15332v2) on the ArXiv preprint server.\n[MIT and IBM Find Clever AI Ways Around Brute-Force Math ›](https://spectrum.ieee.org/mathematical-model-ai)[AI Language Models Are Struggling to “Get” Math ›](https://spectrum.ieee.org/large-language-models-math)[Posits, a New Kind of Number, Improves the Math of AI ›](https://spectrum.ieee.org/floating-point-numbers-posits-processor)\n[Charles Q. Choi](https://spectrum.ieee.org/u/charles-q-choi)\n[Charles Q. Choi](https://www.linkedin.com/in/charlesqchoi) is a science reporter who contributes regularly to IEEE Spectrum. He has written for Scientific American, The New York Times, Wired, and Science, among others.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->mathematics",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social problem",
+    "Social Issue->communities",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+    "https://arxiv.org/abs/2408.15332v2",
+    "https://openai.com/index/openai-o3-mini/",
+    "https://www.nytimes.com/2024/12/20/technology/openai-new-ai-math-science.html",
+    "https://en.wikipedia.org/wiki/Andrews%E2%80%93Curtis_conjecture",
+    "https://www.claymath.org/millennium-problems/",
+    "https://github.com/shehper/AC-Solver",
+    "http://theory.caltech.edu/~gukov/",
+    "https://www.linkedin.com/in/charlesqchoi",
+    "https://claymath.org/millennium-problems/",
+    "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level",
+    "https://openai.com/index/openai-o3-mini",
+    "https://www.en.wikipedia.org/wiki/Andrews%E2%80%93Curtis_conjecture",
+    "https://www.deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+    "https://www.github.com/shehper/AC-Solver",
+    "http://theory.caltech.edu/~gukov",
+    "https://www.openai.com/index/openai-o3-mini/",
+    "https://linkedin.com/in/charlesqchoi",
+    "https://nytimes.com/2024/12/20/technology/openai-new-ai-math-science.html",
+    "https://www.arxiv.org/abs/2408.15332v2",
+    "https://www.claymath.org/millennium-problems",
+    "http://www.theory.caltech.edu/~gukov/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "California Institute of Technology",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:24:40.784+02:00",
+  "updated": "2025-02-28T01:28:59.228+02:00"
+}

@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "e13060488d7765f9b0d057ae3d4e5befe1aa893c",
+    "url": "https://forums.zotero.org/discussion/119874/bug-report-integration-libreoffice-writer-and-zotero-7-makes-zotero-crash",
+    "site_full": "forums.zotero.org",
+    "site": "zotero.org",
+    "site_section": "https://forums.zotero.org/discussions",
+    "site_categories": [],
+    "section_title": "Recent Discussions - Zotero Forums",
+    "title": "[Bug report] Integration libreoffice writer and Zotero 7 makes zotero crash - Zotero Forums",
+    "title_full": "[Bug report] Integration libreoffice writer and Zotero 7 makes zotero crash - Zotero Forums",
+    "published": "2024-11-21T23:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2060,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e13060488d7765f9b0d057ae3d4e5befe1aa893c",
+  "url": "https://forums.zotero.org/discussion/119874/bug-report-integration-libreoffice-writer-and-zotero-7-makes-zotero-crash",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-21T23:44:00.000+02:00",
+  "title": "[Bug report] Integration libreoffice writer and Zotero 7 makes zotero crash - Zotero Forums",
+  "text": "[Bug report] Integration libreoffice writer and Zotero 7 makes zotero crash\nHi!\nID report: 1371703748\nExpected behaviour: having zotero 7 and libreoffice with the integration plugin\n1. Open Zotero.\n2. Open libreroffice.\n3. Click \"add citation\" (or any other zotero button).\n4. Zotero crashes.\nI catched this error in the terminal: /app/bin/zotero: línea 20: 5 Violación de segmento (`core' generado) \"$CALLDIR/zotero-bin\" -app \"$CALLDIR/app/application.ini\" \"$@\"\nBoth apps are flatpaks in Linux OS. Also tried with flatpak zotero + regular libreoffice. Same result. Libreoffice version: 24.8.3.2\nThank you in advance\nID report: 1371703748\nExpected behaviour: having zotero 7 and libreoffice with the integration plugin\n1. Open Zotero.\n2. Open libreroffice.\n3. Click \"add citation\" (or any other zotero button).\n4. Zotero crashes.\nI catched this error in the terminal: /app/bin/zotero: línea 20: 5 Violación de segmento (`core' generado) \"$CALLDIR/zotero-bin\" -app \"$CALLDIR/app/application.ini\" \"$@\"\nBoth apps are flatpaks in Linux OS. Also tried with flatpak zotero + regular libreoffice. Same result. Libreoffice version: 24.8.3.2\nThank you in advance",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T04:55:55.102+02:00",
+  "updated": "2024-11-22T04:55:55.102+02:00"
+}

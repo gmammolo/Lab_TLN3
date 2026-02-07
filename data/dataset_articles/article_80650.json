@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "68533bd56a5b4705063f183374661fd5d640f5b8",
+    "url": "https://dev.to/gabrielpenteado/css-grid-is-a-powerful-tool-to-create-layouts-2o75",
+    "site_full": "dev.to",
+    "site": "dev.to",
+    "site_section": "https://www.dev.to",
+    "site_categories": [
+      "javascript",
+      "tech",
+      "databases"
+    ],
+    "section_title": "DEV Community",
+    "title": "CSS Grid is a powerful tool to create layouts - DEV Community",
+    "title_full": "CSS Grid is a powerful tool to create layouts - DEV Community",
+    "published": "2024-01-06T01:31:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a9sJhIFZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/21t4y2vie2duvf9rsufh.png",
+    "performance_score": 0,
+    "domain_rank": 1892,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "68533bd56a5b4705063f183374661fd5d640f5b8",
+  "url": "https://dev.to/gabrielpenteado/css-grid-is-a-powerful-tool-to-create-layouts-2o75",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@",
+  "published": "2024-01-06T01:31:00.000+02:00",
+  "title": "CSS Grid is a powerful tool to create layouts - DEV Community",
+  "text": "In this post I will show you how you can make entire interfaces with a property of the CSS Grid. [ ](#css-grid-terminology) CSS Grid Terminology First let's take a look quickly about CSS Grid terminology. Grid Container : The element on which grid is applied. The grid container is the parent of grid items. Grid Item : All directly nested elements of a grid container. Grid Cell : Every column in every row is a grid cell.CSS Grid can handle columns and rows, it is a 2-dimensional system. [ ](#the-grid-container-property) The Grid container property grid-template-areas: With this property we define the names of the grid areas and reference them with the grid-area property. [ ](#the-grid-item-property) The Grid item property grid-area: With this property you give a name to an item so that it can be referenced in the grid-template-areas template. [ ](#creating-a-template) Creating a template. In the body of the HTML file, we have a div element with class container. This is the parent element. Inside of the container we created four children elements (header, section, aside and footer) each with class grid-item. With the CSS file we set layout with Grid. First, we define the div with class container as a grid container. After, using the property grid-template-areas we make the grid template by referencing the names of each grid-area property. Repeating the name of a grid-area causes the content to span those cells. A period (.) makes a empty grid cell. And none signifies no grid areas are defined. This is a template with four columns and four rows. The header spans all four columns in the first row. The footer spans all four columns in the last row. The main spans the first three columns in the second and third rows. And the aside spans the last column of lines two and three. We also define a gap: 5px; and the height: 100vh; The result is shown in the figure below: Its possible to change the size of each grid-item with the properties of the grid container: grid-template-columns and grid-template-rows. The CSS grid is a powerful tool to create entire layouts in a simple and effective way. Thank you for reading. If you liked this article shared it! I appreciate your feedback.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-06T04:32:24.842+02:00",
+  "updated": "2024-01-06T07:29:14.733+02:00"
+}

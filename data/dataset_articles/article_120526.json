@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "5e9256fd619cad95a2f7e69508aa875c9e0ccb68",
+    "url": "https://winaero.com/windows-11-build-23612-dev-adds-dynamic-weather-to-the-lock-screen/",
+    "site_full": "winaero.com",
+    "site": "winaero.com",
+    "site_section": "https://winaero.com",
+    "site_categories": [],
+    "section_title": "Winaero - At the edge of tweaking",
+    "title": "Windows 11 Build 23612 (Dev) adds dynamic weather to the Lock screen",
+    "title_full": "Windows 11 Build 23612 (Dev) adds dynamic weather to the Lock screen",
+    "published": "2024-01-03T21:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://winaero.com/blog/wp-content/uploads/2024/01/richer-weather-lock-screen-example.jpg",
+    "performance_score": 0,
+    "domain_rank": 15720,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5e9256fd619cad95a2f7e69508aa875c9e0ccb68",
+  "url": "https://winaero.com/windows-11-build-23612-dev-adds-dynamic-weather-to-the-lock-screen/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@winreview",
+  "published": "2024-01-03T21:06:00.000+02:00",
+  "title": "Windows 11 Build 23612 (Dev) adds dynamic weather to the Lock screen",
+  "text": "The first Dev channel build of this year, Windows 11 Build 23612, adds richer weather experience on the lock screen, several Voice Access improvements, fixes the Start menu, File Explorer and Widgets. Advertisеment What's new in Windows 11 Build 23612 (Dev) Richer weather experience on the lock screen The lock screen will now display more detailed weather information. Hovering your mouse over the card will reveal more information, and clicking on it will open Microsoft Edge with a full weather forecast from MSN Weather. This change is enabled by default for Dev Channel Insiders using US English. Make sure that under Settings > Personalization > Lock Screen > Lock screen status, the Weather option is selected. If you do not want to see this block, then select the “Nothing” option. It does not depend on the selected lock screen personalization option, regardless of what you set there, Spotlight, Photos or Slideshow. Note. This change is only available to users using the system in English (US), which means that not all Insiders on the Dev channel will see it. Microsoft wants to gather feedback from a small group of users before the change is rolled out to all Insiders. Voice Access Enhanced language support Enhanced language support: We have expanded voice access to include additional languages such as French (France), French (Canada), German, Spanish (Spain), and Spanish (Mexico). Upon activating voice access for the first time, you will be prompted to download a speech model to enable on-device recognition of voice data. If voice access cannot find a speech model that matches your display language, you can still choose to proceed and use voice access in English (United States). You can easily switch to a different language by navigating to Settings > Language on the voice access bar. Support for multiple displays You can now use all voice access features on multiple displays, including overlays of numbers and grids, which were previously only available on the primary display. The grid overlay feature has been enhanced to allow interaction not only with the current screen but also the ability to swiftly switch to another display. You can also use the drag and drop feature to move files, apps, and documents between displays. After invoking the grid overlay, use the alphabet or NATO phonetic in your command to quickly shift focus to another display. For example, \"B\" or \"Bravo\" would both be valid, as illustrated in the above screenshot. You can also use the accelerated command \"mouse grid ..\" to swiftly move your mouse to a specific point on a specific display. As shown in the above screenshot, we used \"mousegrid A 114.\" Voice shortcuts Introducing voice shortcuts or custom commands, allowing you to create your own unique commands. Currently available when using voice access in English. Creating commands that map to a single action, such as opening a URL, or a series of actions performed in sequence is simple. To begin, say \"what can I say\" and click on the \"Voice shortcuts\" tab in the left panel, or use the command \"show voice shortcuts\" to directly access the voice shortcuts page. Then, click on the \"Create Command\" button to initiate the process. Create a command using your voice or any other input method. Provide a name, select one or multiple actions, fill in the necessary information, and then click \"Create.\" Your command is now ready for use. You can view all the voice shortcuts you have created either from the command help page or by using the command \"show voice shortcuts\". Fixes Start Menu Fixed an issue that caused the text input indicator to float when opening the Start menu. File Explorer - Made a change to address an issue where the space between icons on the desktop was becoming too large. - Fixed an issue where explorer.exe could crash when opening the context menu in Explorer if multiple files are selected. Widgets - Fixed an issue that caused the panel to delay loading when re-enabling the Microsoft Start ribbon. - Fixed an issue where enabling or disabling the Microsoft Start ribbon would not automatically close and reopen the widget panel. Note. Some of the fixes listed above may be included in cumulative updates for release versions of Windows 11. Known Issues Copilot for Windows When you first launch or after updating Copilot, when using Voice Control, you must use the Show grid command to then move to the Ask me anything field. Widgets - Notifications from the Microsoft Start ribbon still appear on the taskbar even if the ribbon is disabled. - Navigation using the keyboard from widget settings pages to the main settings section does not work. - Some pages use incorrect spacing and fonts. Support us Winaero greatly relies on your support. You can help the site keep bringing you interesting and useful content and software by using these options: If you like this article, please share it using the buttons below. It won't take a lot from you, but it will help us grow. Thanks for your support! Advertisеment",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Weather"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "dev channel insiders",
+        "sentiment": "none"
+      },
+      {
+        "name": "msn",
+        "sentiment": "none"
+      },
+      {
+        "name": "voice access",
+        "sentiment": "none"
+      },
+      {
+        "name": "microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "us",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-03T22:03:01.980+02:00",
+  "updated": "2024-01-03T22:03:01.980+02:00"
+}

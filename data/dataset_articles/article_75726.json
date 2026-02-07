@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "ca243f448648f43956b1476ab5349e005fa5b725",
+    "url": "https://www.incibe.es/node/542131",
+    "site_full": "www.incibe.es",
+    "site": "incibe.es",
+    "site_section": "https://incibe.es/rss.xml",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "INCIBE",
+    "title": "Dos nuevos avisos de seguridad",
+    "title_full": "Dos nuevos avisos de seguridad",
+    "published": "2025-01-09T11:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 21031,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ca243f448648f43956b1476ab5349e005fa5b725",
+  "url": "https://www.incibe.es/node/542131",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-09T11:27:00.000+02:00",
+  "title": "Dos nuevos avisos de seguridad",
+  "text": "Dos nuevos avisos de seguridad\n<a href=\"https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-de-ivanti-1\">Múltiples vulnerabilidades en productos de Ivanti\n</a>\nIvanti Connect Secure:\n- CVE-2025-0282: desde 22.7R2 hasta 22.7R2.4.\n- CVE-2025-0283:\n- 22.7R2.4 y anteriores.\n- 9.1R18.9 y anteriores.\nIvanti Policy Secure:\n- CVE-2025-0282: desde 22.7R1 hasta 22.7R1.2.\n- CVE-2025-0283: 22.7R1.2 y anteriores.\nIvanti Neurons for ZTA gateways:\n- CVE-2025-0282: desde 22.7R2 hasta 22.7R2.3.\n- CVE-2025-0283: 22.7R2.3 y anteriores.\nIvanti ha publicado 2 vulnerabilidades de severidades crítica y alta que afectan a Ivanti Connect Secure, Policy Secure y ZTA gateways, y podrían provocar la ejecución remota de código no autenticado o que un atacante local autenticado aumente los privilegios.\nEn el momento de la divulgación de este aviso, la empresa afectada tiene conocimiento de que una cantidad limitada de dispositivos Ivanti Connect Secure de clientes están siendo explotados por la vulnerabilidad crítica CVE-2025-0282.\nActualizar a la versión 22.7R2.5 ya disponible en el portal Ivanti Connect Secure e Ivanti Neurons for ZTA gateways.\nPara el producto Ivanti Policy Secure, el parche está previsto que esté disponible el 21 de enero.\nLa vulnerabilidad crítica CVE-2025-0282 es debida a un desbordamiento de búfer basado en pila en Ivanti Connect Secure, Ivanti Policy Secure e Ivanti Neurons para ZTA gateways. Esta vulnerabilidad permite que un atacante remoto, no autenticado, logre la ejecución remota de código.\nLa vulnerabilidad de severidad alta tiene asignado el identificador CVE-2025-0283.\n<a href=\"https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-mediatek\">Múltiples vulnerabilidades en productos MediaTek\n</a>\nLa vulnerabilidad crítica, que afecta a las versiones de software de Modem LR12A, LR13, NR15, NR16.R1.MP, NR16.R1.MP1MP2.MP, NR16.R2.MP, está presente en los siguientes chipsets:\n- MT2735;\n- MT6767;\n- MT6768;\n- MT6769;\n- MT6769K;\n- MT6769S;\n- MT6769T;\n- MT6769Z;\n- MT6779;\n- MT6781;\n- MT6783;\n- MT6785;\n- MT6785T;\n- MT6785U;\n- MT6789;\n- MT6833P;\n- MT6853;\n- MT6853T;\n- MT6855;\n- MT6855T;\n- MT6873;\n- MT6875;\n- MT6875T;\n- MT6877;\n- MT6877T;\n- MT6877TT;\n- MT6880;\n- MT6880T;\n- MT6880U;\n- MT6883;\n- MT6885;\n- MT6889;\n- MT6890;\n- MT6891;\n- MT6893;\n- MT8666;\n- MT8673;\n- MT8675;\n- MT8765;\n- MT8766;\n- MT8768;\n- MT8771;\n- MT8781;\n- MT8786;\n- MT8788;\n- MT8788E;\n- MT8789;\n- MT8791T;\n- MT8795T;\n- MT8797;\n- MT8798.\nLa publicación de actualizaciones de seguridad de MediaTek, correspondiente al mes de enero, consta de 13 vulnerabilidades, calificadas: 1 como crítica, 7 altas y 5 medias.\nLas vulnerabilidades han sido resuelta en la última versión de software disponible.\nLa vulnerabilidad crítica, se debe a una escritura fuera de los límites provocada por una comprobación de límites omitida. Esto podría conducir a una ejecución remota de código. Para explotar esta vulnerabilidad no son necesarios privilegios de ejecución adicionales ni la interacción por parte del usuario. Se ha asignado el identificador CVE-2024-20154 para esta vulnerabilidad.\nLos códigos CVE asignados a las vulnerabilidades no críticas reportadas, pueden consultarse el enlace de las referencias.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ivanti Connect Secure",
+        "sentiment": "none"
+      },
+      {
+        "name": "Ivanti Policy Secure",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T01:36:37.075+02:00",
+  "updated": "2025-01-10T01:36:37.075+02:00"
+}

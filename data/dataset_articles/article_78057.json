@@ -1,0 +1,139 @@
+{
+  "thread": {
+    "uuid": "5eb6b546f935998312a0ba123d2b9827dbca349d",
+    "url": "https://www.indiatoday.in/technology/news/story/leaked-grok-chats-on-google-expose-wild-ai-requests-from-making-drugs-and-bombs-to-killing-elon-musk-2774617-2025-08-21",
+    "site_full": "www.indiatoday.in",
+    "site": "indiatoday.in",
+    "site_section": "https://indiatoday.in",
+    "site_categories": [
+      "religion",
+      "media",
+      "catholicism",
+      "top_news_in",
+      "top_news_ph",
+      "top_news_kw",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_za",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - India Today",
+    "site_title": "Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - India Today",
+    "title": "Leaked Grok chats on Google expose wild AI requests, from making drugs and bombs to killing Elon Musk",
+    "title_full": "Leaked Grok chats on Google expose wild AI requests, from making drugs and bombs to killing Elon Musk",
+    "published": "2025-08-21T10:39:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202508/grok-ai-072524241-16x9_0.jpg?VersionId=Zwxx35.wwkAKHiqF33jAxJmyB5kZ.MoA",
+    "performance_score": 0,
+    "domain_rank": 1806,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5eb6b546f935998312a0ba123d2b9827dbca349d",
+  "url": "https://www.indiatoday.in/technology/news/story/leaked-grok-chats-on-google-expose-wild-ai-requests-from-making-drugs-and-bombs-to-killing-elon-musk-2774617-2025-08-21",
+  "ord_in_thread": 0,
+  "author": "@indiatoday",
+  "published": "2025-08-21T10:39:00.000+03:00",
+  "title": "Leaked Grok chats on Google expose wild AI requests, from making drugs and bombs to killing Elon Musk",
+  "text": "Leaked Grok chats on Google expose wild AI requests, from making drugs and bombs to killing Elon Musk\nThousands of Grok chatbot conversations have been leaked through Google search, exposing sensitive data and even dangerous AI instructions, after xAI's sharing feature quietly made them public without users' knowledge.\nElon Musk’s artificial intelligence start-up xAI is facing scrutiny after thousands of conversations with its chatbot Grok were found to be publicly available through Google search, exposing everything from mundane tasks to alarming requests. According to a report by Forbes, Grok users who hit the “share” button on their chats were unknowingly publishing those conversations to a public webpage. Each shared exchange generated a unique URL which, without a disclaimer, was also made visible to search engines such as Google, Bing and DuckDuckGo.\nThat has resulted in more than 370,000 Grok conversations being indexed online, ranging from everyday uses like drafting tweets to darker prompts including methods for making fentanyl and bombs, coding malware, and even a detailed plan for assassinating Musk himself.\nSome of the indexed chats also revealed sensitive personal information. Forbes apparently reviewed cases where users shared names, private details, passwords, and uploaded files including spreadsheets and images. Others involved medical and psychological queries that users may have assumed were private.\nSome conversations also contained racist or explicit content, and others directly violated xAI’s rules that ban the creation of weapons or content promoting harm. Despite this, Grok’s own instructions on making illicit drugs, planning suicide, and developing malware were published via the share function and indexed on Google.\nThe revelation comes months after OpenAI faced backlash when some ChatGPT conversations showed up in search results. OpenAI quickly reversed course, with chief information security officer Dane Stuckey calling it “a short-lived experiment” that risked exposing unintended information. At the time, Musk mocked OpenAI and claimed Grok had no such feature, posting “Grok ftw” on X.\nThe revelations about Grok and ChatGPT’s leaked chats highlight a wider dilemma in how people are beginning to use AI. Increasingly, conversations with chatbots go far beyond drafting emails or writing code, they are becoming deeply personal. Across Reddit and Instagram, users describe turning to ChatGPT for “voice journaling,” using it as a patient listener for relationship struggles, grief, or daily anxieties. Many say it feels like a safe space where they can unload without judgement.\nBut this intimacy brings risks. OpenAI CEO Sam Altman has openly cautioned against treating ChatGPT as a therapist, noting that such exchanges are not protected by legal or medical privilege. Deleted conversations may still be retrievable, and a Stanford study recently warned that AI “therapists” often mishandle sensitive situations, sometimes reinforcing harmful stereotypes or offering unsafe guidance.\nAltman has also acknowledged the powerful emotional bonds forming between people and chatbots, describing them as stronger than past attachments to technology. That dependency, he argues, is an ethical challenge that society is only beginning to grapple with.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Science and Technology->biomedical science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Elon Mus",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Bing",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [
+      "top_news_in",
+      "top_news_ph",
+      "top_news_kw",
+      "top_news_iq",
+      "top_news_nz",
+      "top_news_pk",
+      "top_news_ae",
+      "top_news_za",
+      "top_news_qa",
+      "top_news_sg",
+      "top_news_sa",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:16:00.502+03:00",
+  "updated": "2025-08-22T12:06:26.000+03:00"
+}

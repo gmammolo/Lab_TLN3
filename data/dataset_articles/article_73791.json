@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "ed79b81027dc997ea9ebb9b644c4a243c7f9d500",
+    "url": "https://lwn.net/Articles/998236",
+    "site_full": "lwn.net",
+    "site": "lwn.net",
+    "site_section": "https://lwn.net/headlines/Comments",
+    "site_categories": [
+      "unix",
+      "tech"
+    ],
+    "section_title": "LWN.net comments",
+    "title": "PyPI dropped existing support for digital attestations",
+    "title_full": "PyPI dropped existing support for digital attestations",
+    "published": "2024-11-15T04:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3605,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ed79b81027dc997ea9ebb9b644c4a243c7f9d500",
+  "url": "https://lwn.net/Articles/998236",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "bignose",
+  "published": "2024-11-15T04:22:00.000+02:00",
+  "title": "PyPI dropped existing support for digital attestations",
+  "text": "PyPI dropped existing support for digital attestations\nPyPI dropped existing support for digital attestationsPosted Nov 15, 2024 2:22 UTC (Fri) by bignose (subscriber, #40)\nIn reply to:\n[PyPI dropped existing support for digital attestations](/Articles/998235/)by Cyberax\nParent article:\n[PyPI now supports digital attestations](/Articles/998215/)\n> Right here:\nhttps://docs.pypi.org/trusted-publishers/internals/\nThat does not show any existing Trusted Providers with user control over their identity, as I asked for. (Because it does not show any Trusted Providers at all.)\nThe issue I'm raising is not \"how do I, a hosting provider, create a new Trusted Provider and get it accepted by PyPI?\".\nThe issue I'm raising is: there was community-controlled, user-sovereign identity. Flawed, of course, but it was ours, not a closed platform. In 2023 it was taken away (for problems that, I've repeatedly said, were real and needed to be addressed).\nApparently that was removed without any community-controlled, user-sovereign replacement. And still I don't see any that PyPI has, in fact, accepted. Where are they? If they don't exist, yet the one we had was removed, then *that's* the issue I'm pointing to.\nRemoving support for the existing community-controlled, user-sovereign identity, and expecting that people will just use the closed-platform providers, sucks the urgency to come up with a proper community controlled replacement because most people will just accept the closed web solution. Which is how it becomes worse, not better.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://docs.pypi.org/trusted-publishers/internals/",
+    "https://docs.pypi.org/trusted-publishers/internals",
+    "https://www.docs.pypi.org/trusted-publishers/internals/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T05:00:27.695+02:00",
+  "updated": "2024-11-15T05:00:27.695+02:00"
+}

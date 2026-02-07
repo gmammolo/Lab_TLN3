@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "e417bb1aa2582e061f239d11c0ea354281638338",
+    "url": "https://www.heise.de/en/opinion/Opinion-on-the-end-of-Windows-10-Impudence-as-a-service-10234738.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/en",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "heise online – IT news, guides and background information | heise online",
+    "title": "Opinion on the end of Windows 10: Impudence as a service | heise online",
+    "title_full": "Opinion on the end of Windows 10: Impudence as a service | heise online",
+    "published": "2025-01-10T08:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/7/6/0/9/3/Windows-Update-2ef4154879f7a3b6.png",
+    "performance_score": 0,
+    "domain_rank": 925,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e417bb1aa2582e061f239d11c0ea354281638338",
+  "url": "https://www.heise.de/en/opinion/Opinion-on-the-end-of-Windows-10-Impudence-as-a-service-10234738.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nils Kaczenski",
+  "published": "2025-01-10T08:18:00.000+02:00",
+  "title": "Opinion on the end of Windows 10: Impudence as a service | heise online",
+  "text": "Contents Opinion on the end of Windows 10: Impudence as a service After the last Windows is before the next Windows New hardware is needed Small favor for the hardware partners Postponement for money No alternative to switching Promised yesterday, broken today A missed opportunity Before the launch of Windows 10 in July 2015, Microsoft announced dazzling visions for its client operating system. There was talk of continuous updates and a \"Windows as a service\" to keep the client up to date at all times. For a short time, the company even went so far as to announce that the switch from Windows 8 to Windows 10 would be the last classic version change, after which Windows would keep itself up to date for all time.\nAnzeige An opinion by Nils Kaczenski Nils Kaczenski is Head of Consulting at the system house ATD in Braunschweig. He has been involved with Windows and IT security for almost 30 years. He is known in the IT community as a Microsoft MVP, blogger and speaker.\nSoon afterwards, however, plagued admins had other songs to sing. Not only did the cost of constant updates increase, but Microsoft also announced a completely new maintenance model every few months and also limited its support commitments. In the summer of 2021, the company then let the cat out of the bag, announcing a new major version with Windows 11 and nonchalantly letting it be known that Windows 10 would be over four years later.\nAfter the last Windows is before the next Windows That time is now approaching: Windows 10 will receive its last updates on October 14, 2025, after which gaps and bugs will remain uncorrected. Anyone who has been in the industry for any length of time will vividly remember the end of support dates for Windows XP (2014) and Windows 7 (2020), which also required a lot of effort to switch and entailed enormous risks if nothing was done. This time, however, the situation appears to be even trickier: If market researchers are to be believed, far fewer users have already made the switch to the secure successor Windows 11 than was the case with the last switchovers. In the media hype at the beginning of 2025, for example, there was talk of 32 million outdated PCs in Germany alone . Even if this figure sounds too high, we are talking about an enormous number of computers that will need an update by the fall.\nAfter almost ten years of practice with numerous minor versions of Windows 10, the upgrade process has lost its horror for many admins. In most cases, the update runs smoothly, the applications continue to work and all user data remains in place. However, there are always exceptions, and they occur so often that the prospect of a mass upgrade is no cause for rejoicing. The sheer number of Windows computers scales the risk: even a sensational upgrade success rate of 98 percent means a failure of 600,000 devices on 30 million PCs.\nNew hardware is needed So it's no wonder that Microsoft and its partners have been beating the advertising drum for months to persuade customers to switch to Windows 11 as soon as possible. The more the work is spread out over time, the easier it is to fix bugs. But this time there is an additional hurdle that did not exist with the last forced upgrades. Companies and users will now have to replace computers on a large scale whose performance would actually still be perfectly adequate. Microsoft has artificially limited the selection of hardware that is supposed to be suitable for Windows 11. Many devices that run the current Windows 10 without complaint and with good performance will not be able to be updated.\nAnzeige Officially, Microsoft cites new security features that do not work with older hardware as the reason for this. Only CPUs that are on extensive positive lists are considered compatible. For Intel processors, this starts with Generation 8 (sold since mid-2017) and for AMD from Ryzen Generation 2 (available since 2018). The exceptions show that this selection is more arbitrary than technically justified. For example, Microsoft has included the CPUs of its Surface Studio devices on the list, even though they belong to Intel Generation 7. And for test purposes and virtual desktops, the restrictions can even be switched off completely so that Windows 11 runs without complaint even on older or simpler CPUs.\nSmall favor for the hardware partners The suspicion arises that Microsoft wanted to do a favor for its hardware partners, many of whom are struggling with sluggish PC sales. The home office boom at the start of the coronavirus pandemic forced many companies to suddenly invest in mobile PC hardware, which even emptied the second-hand market for months. IT budgets have not yet recovered from this. The pressure to replace older hardware for Windows 11 is therefore only right for manufacturers.\nFor Microsoft, this also means a way to earn money from Windows at all, as Windows has not been making any money in the consumer market for a long time apart from the OEM licenses for new hardware. Giving the upgrades away for free was therefore only a logical step. The one-year time limit on the free offer was never meant seriously. However, the simple calculation is that when users buy a new computer, they also buy a new Windows.\nPostponement for money In larger networks, however, replacing the client operating system is often an undertaking that takes many months. Some customers will not be able to do this by October. To ensure that these companies are not exposed to a rapidly growing threat from security vulnerabilities that are discovered but not closed, they can receive further update support in exchange for money. This option was also available at the end of Windows 7 five years ago, and the model is the same this time: companies can buy up to three years of update support for Windows 10, but have to pay for each computer individually. The standard price is a good 60 US dollars for the first year and doubles in each of the next two years. If companies need more time to make the switch, they will pay up to 420 US dollars per PC.\nUnlike five years ago, private individuals will also be able to postpone the end of Windows 10 for a fee. They will then pay 30 euros per device for one year, but will also only receive a one-year deferral. After all, Microsoft will continue to keep the Defender malware protection under Windows 10 up to date until at least October 2028. So the manufacturer doesn't seem entirely comfortable with the idea of leaving millions of Windows computers unprotected.\nCompanies have no serious alternative to switching from Windows 10 to Windows 11. Continuing to use the old system without updates is out of the question. The risk of being attacked without protection after just a few days is too great; this realization is also shared by admins. Isolating Windows 10 from the network for old applications and operating it as an island is only something for individual cases. However, such scenarios are likely to be rare, as old programs usually require much older versions of Windows, which are already running in isolation anyway.\nNo alternative to switching Switching to Linux or another operating system – is just as hopeless, at least as a short-term option. Too much company software is dependent on Windows and cannot simply be replaced. Such a project would quickly become much larger than the Windows upgrade, even if a few old computers have to be replaced. Thanks to web applications, dependency on Windows is much lower today than it was ten years ago, but it is still high enough for Microsoft to rely on it.\nWhen it comes to Windows upgrades, on the other hand, web and cloud applications are now so advanced that companies will grumble about the switch, but will ultimately carry it out on time. Settings and user data are rarely stored locally, so the effort is still great, but the risk is manageable.\nPromised yesterday, broken today Ending support for an operating system that has been around for ten years is perfectly okay. Especially if you announce this years in advance with detailed roadmaps, as Microsoft has done. It is good for the security and stability of IT infrastructures if the basis is technically up to date.\nHowever, this approach has a stale aftertaste when this old operating system is launched on the market with the argument that it keeps itself up to date as a service. This was one of the outstanding security features of Windows 10 in 2015, and the effort required by companies was enormous, as the regular Windows updates were anything but effortless. To now come along and force an old-style version change on the grounds that security makes it necessary is a strong move.\nA missed opportunity It is even downright brazen that Windows 11 arbitrarily turns older hardware into electronic waste. The claim that the old PCs are not secure enough is a pretext. The CPU exclusions are nothing but an economic stimulus program for hardware manufacturers, for Microsoft itself and for its partners. There would have been nothing wrong with continuing to operate the old systems with adapted features, as has been the case up to now.\nIt is therefore foreseeable that the second-hand market will soon be flooded with devices that nobody can do anything with. For a few months, shady traders will sell these old devices to unknowing customers, on which Windows 11 does not run – or only with hacks that stop working after a short time. As many outdated computers become botnet zombies, it is not only the defrauded customers who suffer the damage.\nThe end of support is also a lesson for the Microsoft-critical IT community. There was and still is a lot of complaining – and not without good reason. In some cases, there were even prominent calls for politicians to put a stop to the company's unfair behavior. At the same time, however, this would have been a great opportunity to create an easily accessible Windows alternative. The technology is there, but unfortunately the community is too fragmented to pull together. If there are hundreds of alternatives, all aimed at nerds, then there is effectively no alternative. Even if no one is directly to blame, it's a shame about the missed opportunity.\n( vbr )\nDon't miss any news – follow us on Facebook , LinkedIn or Mastodon .\nThis article was originally published in German . It was translated with technical assistance and editorially reviewed before publication.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.linkedin.com/company/104691972",
+    "https://www.facebook.com/heiseonlineEnglish",
+    "https://facebook.com/heiseonlineEnglish",
+    "https://linkedin.com/company/104691972"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:46:15.600+02:00",
+  "updated": "2025-01-10T10:46:15.600+02:00"
+}

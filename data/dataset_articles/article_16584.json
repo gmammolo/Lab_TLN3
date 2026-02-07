@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "1e846f18b3e286a0c45372236610b6d2c3a2d39b",
+    "url": "http://tech.caijing.com.cn/20250612/5095399.shtml",
+    "site_full": "tech.caijing.com.cn",
+    "site": "caijing.com.cn",
+    "site_section": "http://tech.caijing.com.cn",
+    "site_categories": [
+      "financial_news",
+      "tech",
+      "finance"
+    ],
+    "section_title": "财经网 - CAIJING.COM.CN",
+    "site_title": null,
+    "title": "夸克发布首个高考志愿大模型，算力投入增加100倍_业界_科技频道首页_财经网 - CAIJING.COM.CN",
+    "title_full": "夸克发布首个高考志愿大模型，算力投入增加100倍_业界_科技频道首页_财经网 - CAIJING.COM.CN",
+    "published": "2025-06-12T10:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 12685,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1e846f18b3e286a0c45372236610b6d2c3a2d39b",
+  "url": "http://tech.caijing.com.cn/20250612/5095399.shtml",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-06-12T10:02:00.000+03:00",
+  "title": "夸克发布首个高考志愿大模型，算力投入增加100倍_业界_科技频道首页_财经网 - CAIJING.COM.CN",
+  "text": "6月12日，夸克发布2025年高考志愿填报产品，推出“高考深度搜索”、“志愿报告”、“智能选志愿”三大核心功能。产品依托于国内首个自研高考志愿大模型和专业的高考知识库，实现了从复杂问题询问到志愿报告输出的整个辅助决策流程。\n 其中，“志愿报告”是国内唯一可以生成完整报告的智能Agent，目前已开放试用。考生只需完善12个信息点（涵盖院校偏好、专业兴趣、升学与职业规划等），便可建立个人信息档案。点击“领取报告”后，Agent会通过“任务规划—执行—检查—反思”的链式推理流程，模拟一位资深志愿填报专家的决策过程，为考生输出一份包括填报策略、志愿表、院校专业推荐说明等的完整报告。\n整个过程，通常需要耗时5-10分钟左右，为了确保产品能够满足海量用户的生成需求，夸克今年将算力投入扩大了100倍，并继续坚持免费提供服务。\n “高考深度搜索”专为处理个性化、开放式提问设计，能够理解复杂问题和拆解用户需求，并给出专业、可执行的建议，解决传统搜索难以胜任的问题。\n“智能选志愿”功能是考生使用最频繁的功能。在输入省份、科目、成绩和排名后，系统会自动推荐冲稳保三种方案，考生还可以进一步明确自己的个性化需求，进行筛选。在融入AI能力后，可以直接呈现目标院校/专业的特色优势，方便考生快速了解。\n夸克高考志愿大模型为这些产品提供了推理支持。这是专为志愿填报任务而设计的垂类模型，以通义千问为底座，训练过程高度还原了专家的思考路径。在模型训练阶段，夸克算法团队邀请了上百名高考志愿规划师参与，将人类专家的思考过程转化为数万条高质量推理数据。模型产出的志愿方案再由专家多维评估，逐项打分形成反馈闭环。通过持续迭代，模型逐步获得了“像志愿专家一样思考”的能力。\n为了确保高考志愿大模型依赖的数据准确、实时、权威，夸克构建了一套结构严谨的“高考知识库”。知识库覆盖全国2900多所高校、近1600个本科专业，并进一步拓展至高校毕业生就业去向、新兴产业趋势以及各城市的产业结构等维度。\n截至目前，夸克高考产品已累计服务超过1.2亿考生和家长，其中超过50%来自三线及以下城市。为此，夸克今年将继续推行“暖芒公益”计划，为更多偏远地区高中提供志愿工具使用和志愿填报的指导。\n编辑：胡磊",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Education",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Education->college and university",
+    "Education->entrance examination",
+    "Education->educational testing and examinations",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific innovation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-06-12T11:08:20.314+03:00",
+  "updated": "2025-06-12T08:12:48.000+00:00"
+}

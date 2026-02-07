@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "659065efda90a3fb6681fcee0551634073699e50",
+    "url": "https://www.appinn.com/windows11-kb5063878/",
+    "site_full": "www.appinn.com",
+    "site": "appinn.com",
+    "site_section": "https://www.appinn.com/feed",
+    "site_categories": [
+      "business_software",
+      "tech",
+      "business",
+      "shareware_freeware",
+      "email"
+    ],
+    "section_title": "小众软件",
+    "site_title": "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件",
+    "title": "微软8月份更新 Win11，真把用户的 1TB 硬盘炸了？还能抢救吗？KB5063878",
+    "title_full": "微软8月份更新 Win11，真把用户的 1TB 硬盘炸了？还能抢救吗？KB5063878",
+    "published": "2025-08-21T12:04:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-21T164602.329.jpg",
+    "performance_score": 0,
+    "domain_rank": 37997,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "659065efda90a3fb6681fcee0551634073699e50",
+  "url": "https://www.appinn.com/windows11-kb5063878/",
+  "ord_in_thread": 0,
+  "author": "青小蛙",
+  "published": "2025-08-21T12:04:00.000+03:00",
+  "title": "微软8月份更新 Win11，真把用户的 1TB 硬盘炸了？还能抢救吗？KB5063878",
+  "text": "这件事居然是真的，但是！大写的别慌！\n别慌\n- Windows 10 更新后硬盘没事，有别的问题，影响不大\n- Windows 11 的8月份更新可能导致硬盘问题是真的\n- 这属于一个非常个别的情况，大多数人不会遇到这种情况\n- 唯一确认引发硬盘故障（包括SSD消失、数据损坏和分区变RAW）的更新，是针对 Windows 11 24H2 版本的补丁 KB5063878\n- 如果你更新了 KB5063878，建议卸载，以防万一。\n更新之后，你的操作系统版本将变为 26100.4946。\n（下图为青小蛙的开发人员渠道 Windows 11，要新好多）\n这两天群里在流传着一张包了浆的图片：\n说实话，看到这张图青小蛙内心是毫无波澜的，因为…我也不知道更新没更新，谁记得住这堆数字啊。\n但是，8月份更新有印象啊，前几天我刚刚更新了（Win10），还能看到，并且还有一个可选更新：\n仔细对照数字，应该…中招了…了吗？\n青小蛙从多个媒体（ Windows Latest、Windows Central、TechRadar、Ars Technica、Toms’Hardware、clearphish、borncity、Ghacks、BleepingComputer）确认，Windows 10 应该是没事的。\n具体的问题\n当你的 Windows 11 24H2 系统安装了 KB5063878 更新之后：\n- 如果此时当 SSD 已满 60% 以上\n- 并且连续写入大约 50 GB 或更多数据时\n- 一些用户会遇到 SSD 故障。\n条件还蛮苛刻的，所以，先别慌。\n先暂停你的 Windows 11 更新：\n彻底关闭 Windows 11 更新\n三种方式：\n1. 使用本地服务关闭\n- 按 Win + R 打开运行窗口，输入 services.msc 并按回车。\n- 在服务列表中找到 Windows Update，双击打开其属性。\n- 将启动类型设置为 禁用，然后点击 应用 和 确定。\n2. 使用组策略编辑器关闭\n- 按 Win + R 打开运行窗口，输入 gpedit.msc 并按回车。\n- 导航到 计算机配置 > 管理模板 > Windows 组件 > Windows 更新。\n- 双击 配置自动更新，选择 已禁用，然后点击 应用 和 确定。\n3. 使用注册表编辑器关闭\n- 按 Win + R 打开运行窗口，输入 regedit 并按回车。\n- 导航到 HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows。\n- 右键点击 Windows 文件夹，选择 新建 > 项，命名为 WindowsUpdate。\n- 在 WindowsUpdate 文件夹中，右键点击空白处，选择 新建 > DWORD（32位）值，命名为 NoAutoUpdate。\n- 双击 NoAutoUpdate，将数值数据设置为 1，然后点击 确定。\n但是呢，不太建议彻底关闭…\n总结：\n1. 影响的补丁\n- KB5063878（Windows 11 24H2，OS Build 26100.4946版本）这是唯一被确认导致硬盘物理故障的安全更新补丁。\n2. 故障表现\n- 部分用户在安装该补丁后，遇到NVMe SSD或部分硬盘“消失”现象。\n- 出现情况包括：驱动器从系统中消失、分区变为RAW、数据不可访问、文件系统损坏。\n- 该问题主要发生在高负载写入情况下（如大型游戏大文件更新超过50GB）。\n- 主要影响使用Phison NAND控制器的SSD，但也有少数案例涉及其他型号固态或机械硬盘。\n- 设备重启后，部分驱动器可短暂恢复，但仍存在数据丢失和无法恢复的风险。\n3. 影响范围\n- 目前确认该故障主要局限于Windows 11 24H2版本。\n- Windows 10及非24H2版Windows 11未被确认出现此类硬盘物理故障。\n4. 微软应对\n- 微软已确认存在该问题，正在与SSD硬件厂商合作进行紧急调查。\n- 尚未发布针对SSD硬件故障的完整解决补丁。\n- 用户被建议避免在高密度写入时安装该更新，并密切关注微软后续修复通知。\n5. 非硬盘故障问题澄清\n- Windows 10多个版本及部分Windows 11版本的8月更新也存在安装失败与恢复功能失效问题，但这些属于软件层面故障，不涉及硬盘物理损坏。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social problem",
+    "Social Issue->communities",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:41:29.196+03:00",
+  "updated": "2025-08-21T12:45:00.000+03:00"
+}

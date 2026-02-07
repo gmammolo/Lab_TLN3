@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "636c0ab040d1a4d4a2eec12f3350bd8799b99f3c",
+    "url": "https://vulners.com/ibm/86392777B3631C1B446F75DF907FEBDB029491FAC07F35461B1E472F475E589A",
+    "site_full": "vulners.com",
+    "site": "vulners.com",
+    "site_section": "https://vulners.com/rss.xml",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Vulners.com RSS Feed",
+    "title": "Security Bulletin: IBM Technical Support Appliance - possible excessive CPU usage or denial of service",
+    "title_full": "Security Bulletin: IBM Technical Support Appliance - possible excessive CPU usage or denial of service",
+    "published": "2024-11-22T03:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://vulners.com/static/img/ibm.png",
+    "performance_score": 0,
+    "domain_rank": 153429,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "636c0ab040d1a4d4a2eec12f3350bd8799b99f3c",
+  "url": "https://vulners.com/ibm/86392777B3631C1B446F75DF907FEBDB029491FAC07F35461B1E472F475E589A",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "IBM",
+  "published": "2024-11-22T03:46:00.000+02:00",
+  "title": "Security Bulletin: IBM Technical Support Appliance - possible excessive CPU usage or denial of service",
+  "text": "CVSS3\nAttack Vector\nNETWORK\nAttack Complexity\nLOW\nPrivileges Required\nNONE\nUser Interaction\nNONE\nScope\nUNCHANGED\nConfidentiality Impact\nNONE\nIntegrity Impact\nNONE\nAvailability Impact\nHIGH\nCVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H\nAI Score\nConfidence\nHigh\nDNS protocol allows teh IBM Technical Suport Appliance to resolve hostnames to their corresponding IP address.\n**CVEID:**CVE-2023-4408 **DESCRIPTION:**ISC BIND is vulnerable to a denial of service, caused by an error when parsing large DNS messages. By flooding the target server with queries, a remote attacker could exploit this vulnerability to cause excessive CPU load. **CWE:**CWE-770: Allocation of Resources Without Limits or Throttling **CVSS Source:**IBM X-Force **CVSS Base score:**7.5 CVSS Vector:(CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H)\n**CVEID:**CVE-2023-50387 **DESCRIPTION:**ISC BIND is vulnerable to a denial of service, caused by an error when processing responses coming from specially crafted DNSSEC-signed zones. By flooding the target server with queries, a remote attacker could exploit this vulnerability to cause CPU exhaustion on a DNSSEC-validating resolver. **CWE:**CWE-400: Uncontrolled Resource Consumption **CVSS Source:**IBM X-Force **CVSS Base score:**7.5 CVSS Vector:(CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H)\n**CVEID:**CVE-2023-50868 **DESCRIPTION:**ISC BIND is vulnerable to a denial of service, caused by an error when preparing an NSEC3 closest encloser proof. By flooding the target resolver with queries, a remote attacker could exploit this vulnerability to cause CPU exhaustion on a DNSSEC-validating resolver. **CWE:**CWE-20: Improper Input Validation **CVSS Source:**IBM X-Force **CVSS Base score:**7.5 CVSS Vector:(CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H)\nAffected Product(s) | Version(s) |\n---|---|\nTechnical Support Appliance | All |\nUpdate the IBM Technical Support Appliance to 3.0.1. Refer to the online support documentation on how to perform an update.\nNone\nVendor | Product | Version | CPE |\n---|---|---|---|\n|\nCVSS3\nAttack Vector\nNETWORK\nAttack Complexity\nLOW\nPrivileges Required\nNONE\nUser Interaction\nNONE\nScope\nUNCHANGED\nConfidentiality Impact\nNONE\nIntegrity Impact\nNONE\nAvailability Impact\nHIGH\nCVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H\nAI Score\nConfidence\nHigh",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Business and Market Analysis",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "IBM",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T05:13:49.874+02:00",
+  "updated": "2024-11-22T05:13:49.874+02:00"
+}

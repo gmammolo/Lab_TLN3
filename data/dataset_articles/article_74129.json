@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "99cf05fb3b40007790ae5a3884ba40513522c200",
+    "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20241115/gran-golpe-iptv-desactiva-principal-canal-pirata-ver-futbol-gratis-espana-emitia-telegram/901409954_0.html",
+    "site_full": "www.elespanol.com",
+    "site": "elespanol.com",
+    "site_section": "https://www.elespanol.com/",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "EL ESPAÑOL - Diario digital, plural, libre, indomable, tuyo",
+    "title": "Gran golpe a la IPTV en España: desactivado el principal canal pirata para ver fútbol gratis que emitía los partidos en Telegram",
+    "title_full": "Gran golpe a la IPTV en España: desactivado el principal canal pirata para ver fútbol gratis que emitía los partidos en Telegram",
+    "published": "2024-11-15T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://s1.elespanol.com/2024/11/15/elandroidelibre/noticias-y-novedades/901420248_250902309_1706x960.jpg",
+    "performance_score": 0,
+    "domain_rank": 2223,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "99cf05fb3b40007790ae5a3884ba40513522c200",
+  "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20241115/gran-golpe-iptv-desactiva-principal-canal-pirata-ver-futbol-gratis-espana-emitia-telegram/901409954_0.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Manuel Ramírez",
+  "published": "2024-11-15T02:00:00.000+02:00",
+  "title": "Gran golpe a la IPTV en España: desactivado el principal canal pirata para ver fútbol gratis que emitía los partidos en Telegram",
+  "text": "Jazztel propuso una iniciativa hace días para ofrecer canales gratis y así mejorar su oferta televisiva para que muchos se lo piensen antes de pasarse a ver contenido pirata por IPTV. Y es que actualmente este tipo de streaming está en alza, aunque ahora va a ser más difícil ver los partidos de primera y segunda división sin pagar un euro después de que la Guardia Civil haya desactivado el canal de streaming más importante de España .\nSe le conocía como 'Cristal Azul' , y ofrecía partidos de fútbol de pago de forma totalmente gratuita a unos 78.000 usuarios y con un perjuicio ocasionado de más de 42 millones de euros. La investigación se llevó a cabo por la denuncia conjunta presentada por LaLiga y Movistar, que se ha convertido en la investigación del presunto auto: un hombre de 37 años en el marco de la operación a la que se ha denominado 'Corsario Azul'.\nEn esta investigación aparece la app de mensajería Telegram como el canal elegido para la retransmisión de los partidos de primera y segunda división de España de forma totalmente gratuita; justo hace bien poco la app de mensajería ha tenido que empezar a colaborar con las autoridades después de los acontecimientos a los que se enfrentó su CEO, Pavel Durov, que fue arrestado en Francia por unos días .\nKodi El Androide libre\nTodo tiene que ver con KODI, un reproductor extensamente utilizado que se encarga de organizar y reproducir vídeos, imágenes y audios de la propia librería audiovisual del usuario o de streaming por Internet. Los investigadores de la Guardia Civil detectaron que una de las extensiones creada por un desarrollador externo permitía reproducir los partidos de fútbol totalmente gratis.\nTodo llevó al rastreo del código fuente del 'add on' y una serie de búsquedas de información que determinó que los partidos de fútbol se transmitían desde Telegram . Se realizó una investigación sobre el código fuente de la extensión de KODI en el que aparecían una serie de pseudónimos.\nUnsplash El Androide Libre\nGolpe a las IPTV piratas: un nuevo tipo de bloqueo más peligroso ya está en pruebas, y España lo estaría probando Descargada la extensión, se concluyó que pertenecía a un usuario concreto para pasar a su identificación completa del autor al cotejar los datos con las bases policiales. La operación culminó con la investigación de un varón de 37 años por un delito relativo al mercado y los consumidores con un fraude de más de 42 millones de euros, la eliminación de los canales de Telegram en los que se reproducían los partidos y el código usado para la extensión utilizada por KODI.\nPiratas informáticos Contenidos digitales Piratería España NEWSLETTER - TECNOLOGÍA Recibe de lunes a viernes las noticias clave sobre tecnología Apuntarme De conformidad con el RGPD y la LOPDGDD, EL LEÓN DE EL ESPAÑOL PUBLICACIONES, S.A. tratará los datos facilitados con la finalidad de remitirle noticias de actualidad.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "mensajería Telegram",
+        "sentiment": "none"
+      },
+      {
+        "name": "Guardia Civil",
+        "sentiment": "none"
+      },
+      {
+        "name": "IPTV",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T13:15:46.087+02:00",
+  "updated": "2024-11-15T13:15:46.087+02:00"
+}

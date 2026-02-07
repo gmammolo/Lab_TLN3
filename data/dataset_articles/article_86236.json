@@ -1,0 +1,165 @@
+{
+  "thread": {
+    "uuid": "b62dc45be2f81dfaabb75f06ccf4f59dacc10f61",
+    "url": "https://www.vol.at/nvidia-kauft-ki-chip-entwickler-groq-fuer-20-mrd-dollar/9889676",
+    "site_full": "www.vol.at",
+    "site": "vol.at",
+    "site_section": "https://osterreich24.com/time",
+    "site_categories": [
+      "media",
+      "top_news_at",
+      "top_news"
+    ],
+    "section_title": "Letzte Nachrichten - Osterreich24.com",
+    "site_title": "VOL.AT | Nachrichten aus Vorarlberg, Österreich und der Welt",
+    "title": "Nvidia kauft KI-Chip-Entwickler Groq für 20 Mrd. Dollar - VOL.AT",
+    "title_full": "Nvidia kauft KI-Chip-Entwickler Groq für 20 Mrd. Dollar - VOL.AT",
+    "published": "2025-12-25T08:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AT",
+    "main_image": "https://www.vol.at/wp-content/themes/vodl/assets/logo/og-logo.png",
+    "performance_score": 0,
+    "domain_rank": 16349,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b62dc45be2f81dfaabb75f06ccf4f59dacc10f61",
+  "url": "https://www.vol.at/nvidia-kauft-ki-chip-entwickler-groq-fuer-20-mrd-dollar/9889676",
+  "ord_in_thread": 0,
+  "author": "importer",
+  "published": "2025-12-25T08:34:00.000+02:00",
+  "title": "Nvidia kauft KI-Chip-Entwickler Groq für 20 Mrd. Dollar - VOL.AT",
+  "text": "Nvidia will einem Medienbericht zufolge für 20 Mrd. Dollar (16,97 Mrd. Euro) den Entwickler von KI-Beschleunigerchips Groq übernehmen. Das berichtete der US-Sender CNBC am Mittwoch. Die Übernahme solle in bar erfolgen. Die Transaktion wäre die größte Übernahme von Nvidia seit dem 6,9 Mrd. Dollar schweren Kauf von Mellanox Technologies. Groq ist ein von Jonathan Ross gegründetes Chip-Start-up, das sich auf KI-Inferenzchips spezialisiert hat.\nself all Open preferences. Nach einer Finanzierungsrunde über 750 Mio. Dollar im September hatte sich die Bewertung des Unternehmens auf 6,9 Mrd. Dollar mehr als verdoppelt. Das junge Cloud-Geschäft von Groq sei jedoch nicht Teil der Transaktion, hieß es in dem Bericht unter Berufung auf einen Investor. Groq werde seine Geldgeber noch im Laufe des Tages über die Vereinbarung informieren. Stellungnahmen von Nvidia und Groq ⁠lagen zunächst nicht vor.\nself all Open preferences. self all Open preferences. (APA/Reuters)",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->mergers and acquisitions",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://mocafirst.at/?id=1000004_2000335",
+    "https://mocafirst.at/?id=1000004_2000319",
+    "https://mocafirst.at/?id=1000004_2000316",
+    "https://mocafirst.at/?id=1000004_2000328",
+    "https://www.mocafirst.at/?id=1000004_2000335",
+    "https://www.mocafirst.at/?id=1000004_2000316",
+    "https://www.mocafirst.at/?id=1000004_2000328",
+    "https://mocafirst.at/",
+    "https://www.mocafirst.at/?id=1000004_2000319"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jonathan Ross",
+        "sentiment": "none"
+      },
+      {
+        "name": "Groq",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Nvidia",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "NVDA",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Mellanox Technologies",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "MLNX",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "Reuters",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "TRI",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "CNBC",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "APA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_at",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T08:51:39.659+02:00",
+  "updated": "2025-12-26T09:08:14.000+02:00"
+}

@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "2b606a34b7853447cac8ed79190f2aa05cda904c",
+    "url": "https://www.neowin.net/news/microsoft-to-force-install-new-outlook-on-windows-10-shares-powershellregistry-workaround",
+    "site_full": "www.neowin.net",
+    "site": "neowin.net",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Microsoft to force-install New Outlook on Windows 10, shares PowerShell/Registry workaround",
+    "title_full": "Microsoft to force-install New Outlook on Windows 10, shares PowerShell/Registry workaround",
+    "published": "2025-01-10T10:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.neowin.com/news/images/uploaded/2024/10/1730335832_outlook_story.jpg",
+    "performance_score": 0,
+    "domain_rank": 3667,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2b606a34b7853447cac8ed79190f2aa05cda904c",
+  "url": "https://www.neowin.net/news/microsoft-to-force-install-new-outlook-on-windows-10-shares-powershellregistry-workaround",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@",
+  "published": "2025-01-10T10:04:00.000+02:00",
+  "title": "Microsoft to force-install New Outlook on Windows 10, shares PowerShell/Registry workaround",
+  "text": "Microsoft at the moment is having a difficult time moving users over to new products. First, it is trying people to get on Windows 11 from Windows 10 the latter of which is reaching [end-of-support status this year](https://www.neowin.net/news/dell-amd-give-a-reason-why-microsoft-officially-recommends-a-new-pc-to-update-to-windows-11/) quashing recent rumors of [system requirements relaxation](https://www.neowin.net/news/microsoft-confirms-its-not-lowering-windows-11-system-requirements-for-unsupported-hardware/).\nSecond, the tech giant is also trying to make people like its New Outlook for Windows app. It recently announced that Microsoft 365 (M365) Enterprise users will be migrated to [New Outlook in April 2026](https://www.neowin.net/news/microsoft-365-enterprise-users-to-be-automatically-switched-to-new-outlook-in-april-2026/).\nFollowing that, the company today announced that the New Outlook for Windows app will be automatically installed on Windows 10 devices as well, like it has been [doing on Windows 11](https://www.neowin.net/news/microsoft-might-automatically-install-the-new-outlook-on-your-windows-11-23h2-pc/). Microsoft published the message on the Microsoft 365 Admin Center under message ID MC976059 where it has added details about the development.\nIt says:\nNew Outlook for Windows will be automatically installed on Windows 10 devices as part of an upcoming monthly security release.\n[When this will happen:]\nAvailable as part of:\n- the optional Windows 10 release on January 28, 2025.\n- the monthly security update release for Windows 10 on February 11, 2025.\n[How this affects your organization:]\nNew Outlook exists as an installed app on the device. For instance, it can be found in the Apps section of the Start Menu. It does not replace existing (classic) Outlook or change any configurations / user defaults. Both (classic) Outlook and New Outlook for Windows can run side by side.\nThus the New Outlook for Windows app will be initially installed on Windows 10 systems opting for the optional C release for this month and the wider rollout to all devices will be happening next month via February Patch Tuesday (B-release).\nAs mentioned above, Microsoft is trying hard to win hearts. The company is adding much-needed features to the app like [PST support](https://www.neowin.net/news/microsoft-adding-pst-features-support-to-new-outlook-for-windows-and-mac-in-early-2025/) as well as [better offline features](https://www.neowin.net/news/microsoft-improving-new-outlook-for-windows-offline-mode-again-with-a-new-feature/).\nAll is not bad though as Microsoft has also issued guidance on how to uninstall it using PowerShell and Registry workaround. You can [find it here](https://learn.microsoft.com/en-us/microsoft-365-apps/outlook/get-started/control-install#block-new-outlook-preinstall-on-windows) on Microsoft's official site.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business strategy and marketing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://learn.microsoft.com/en-us/microsoft-365-apps/outlook/get-started/control-install#block-new-outlook-preinstall-on-windows",
+    "https://www.learn.microsoft.com/en-us/microsoft-365-apps/outlook/get-started/control-install#block-new-outlook-preinstall-on-windows"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T10:57:02.425+02:00",
+  "updated": "2025-01-10T10:57:02.425+02:00"
+}

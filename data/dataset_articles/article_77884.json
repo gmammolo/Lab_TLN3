@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "eac7aa67d6f7456741467286b042e24daab3dcbb",
+    "url": "https://www.pro-linux.de/sicherheit/2/94219/sicherheit-mehrere-probleme-in-mozilla-thunderbird.html",
+    "site_full": "www.pro-linux.de",
+    "site": "pro-linux.de",
+    "site_section": "https://www.pro-linux.de/rss/index5.xml",
+    "site_categories": [
+      "unix",
+      "tech"
+    ],
+    "section_title": "Pro-Linux Security",
+    "site_title": "Pro-Linux",
+    "title": "Mehrere Probleme in mozilla-thunderbird (Slackware)",
+    "title_full": "Mehrere Probleme in mozilla-thunderbird (Slackware)",
+    "published": "2025-08-21T07:48:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 55529,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "eac7aa67d6f7456741467286b042e24daab3dcbb",
+  "url": "https://www.pro-linux.de/sicherheit/2/94219/sicherheit-mehrere-probleme-in-mozilla-thunderbird.html",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-21T07:48:00.000+03:00",
+  "title": "Mehrere Probleme in mozilla-thunderbird (Slackware)",
+  "text": "Lesezeichen hinzufügen\nOriginalnachricht\n-----BEGIN PGP SIGNED MESSAGE-----Hash: SHA1[slackware-security] mozilla-thunderbird (SSA:2025-232-01)New mozilla-thunderbird packages are available for Slackware 15.0 and -currentto fix security issues.Here are the details from the Slackware 15.0 ChangeLog:+--------------------------+patches/packages/mozilla-thunderbird-140.2.0esr-i686-1_slack15.0.txz: Upgraded. This release contains security fixes and improvements. For more information, see: https://www.mozilla.org/en-US/thunderbird/140.2.0esr/releasenotes/ https://www.mozilla.org/en-US/security/advisories/mfsa2025-72/ https://www.cve.org/CVERecord?id=CVE-2025-9179 https://www.cve.org/CVERecord?id=CVE-2025-9180 https://www.cve.org/CVERecord?id=CVE-2025-9181 https://www.cve.org/CVERecord?id=CVE-2025-9182 https://www.cve.org/CVERecord?id=CVE-2025-9184 https://www.cve.org/CVERecord?id=CVE-2025-9185 (* Security fix *)+--------------------------+Where to find the new packages:+-----------------------------+Thanks to the friendly folks at the OSU Open Source Lab(http://osuosl.org) for donating FTP and rsync hostingto the Slackware project! :-)Also see the \"Get Slack\" section on http://slackware.com foradditional mirror sites near you.Updated package for Slackware 15.0:mozilla-thunderbird-140.2.0esr-i686-1_slack15.0.txzUpdated package for Slackware x86_64 15.0:mozilla-thunderbird-140.2.0esr-x86_64-1_slack15.0.txzUpdated package for Slackware -current:mozilla-thunderbird-140.2.0esr-i686-1.txzUpdated package for Slackware x86_64 -current:mozilla-thunderbird-140.2.0esr-x86_64-1.txzMD5 signatures:+-------------+Slackware 15.0 package:56109cd84b1d4ff297b4c3eb1d90d3b9 mozilla-thunderbird-140.2.0esr-i686-1_slack15.0.txzSlackware x86_64 15.0 package:d9cb68ea9c624ef58fea86ae6c39d556 mozilla-thunderbird-140.2.0esr-x86_64-1_slack15.0.txzSlackware -current package:cfa301332c6f4c0bc69f642405e42027 xap/mozilla-thunderbird-140.2.0esr-i686-1.txzSlackware x86_64 -current package:fdd57650569959b5a48f007933b63674 xap/mozilla-thunderbird-140.2.0esr-x86_64-1.txzInstallation instructions:+------------------------+Upgrade the package as root:# upgradepkg mozilla-thunderbird-140.2.0esr-i686-1_slack15.0.txz+-----+Slackware Linux Security Teamhttp://slackware.com/gpg-keysecurity@slackware.com+------------------------------------------------------------------------+| To leave the slackware-security mailing list: |+------------------------------------------------------------------------+| Send an email to majordomo@slackware.com with this text in the body of || the email message: || || unsubscribe slackware-security || || You will get a confirmation message back containing instructions to || complete the process. Please do not reply to this email address. |+------------------------------------------------------------------------+-----BEGIN PGP SIGNATURE-----iF0EARECAB0WIQTsVknaQB4iq/pnNu9qRGPAQBAiMwUCaKZfnwAKCRBqRGPAQBAiMwlXAJoCy6iG1v+3dIHg8MfC/T8AXcmrDACeM97clmsha/WHY+gRJl77MnbHFd4==kW4Z-----END PGP SIGNATURE-----",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:06:08.182+03:00",
+  "updated": "2025-08-21T10:10:54.000+03:00"
+}

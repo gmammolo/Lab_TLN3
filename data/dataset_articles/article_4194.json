@@ -1,0 +1,160 @@
+{
+  "thread": {
+    "uuid": "b9d30ca2f93c3adeb07eb0b75a1a579f7d7a7851",
+    "url": "https://www.levante-emv.com/tendencias21/2026/01/22/ia-forense-genealogia-genetica-resuelven-125956359.html",
+    "site_full": "www.levante-emv.com",
+    "site": "levante-emv.com",
+    "site_section": "https://www.levante-emv.com/lo-ultimo",
+    "site_categories": [
+      "media",
+      "top_news_es",
+      "top_news",
+      "arts, culture and entertainment",
+      "economy, business and finance",
+      "disaster and accident",
+      "lifestyle and leisure",
+      "crime, law and justice",
+      "politics",
+      "sport"
+    ],
+    "section_title": "Últimas noticias de hoy en Valencia con el Levante-EMV",
+    "site_title": "Levante-EMV: Noticias de Valencia, Castellón, Alicante, Comunidad Valenciana, Deportes, España",
+    "title": "La IA forense y la genealogía genética resuelven casos imposibles para la investigación criminal",
+    "title_full": "La IA forense y la genealogía genética resuelven casos imposibles para la investigación criminal",
+    "published": "2026-01-22T12:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://estaticos-cdn.prensaiberica.es/clip/89698129-ea28-425c-a3be-4f2512d9c49d_16-9-discover-aspect-ratio_default_0_x1011y378.jpg",
+    "performance_score": 0,
+    "domain_rank": 25917,
+    "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b9d30ca2f93c3adeb07eb0b75a1a579f7d7a7851",
+  "url": "https://www.levante-emv.com/tendencias21/2026/01/22/ia-forense-genealogia-genetica-resuelven-125956359.html",
+  "ord_in_thread": 0,
+  "author": "EDUARDO MARTÍNEZ DE LA FE/T21",
+  "published": "2026-01-22T12:11:00.000+02:00",
+  "title": "La IA forense y la genealogía genética resuelven casos imposibles para la investigación criminal",
+  "text": "Un policía retirado, 13 asesinatos, 50 violaciones y más de 40 años de impunidad: el asesino en serie de Golden State Killer cayó cuando su ADN entró en una base de datos para curiosos de sus raíces familiares, no para criminales. Desde entonces, la genealogía genética y otras IA forenses están reescribiendo lo que significa un “caso imposible” en la investigación criminal. Durante más de cuatro décadas, Joseph DeAngel o fue conocido como el \"el asesino de Golden State \", acusado de trece asesinatos y más de cincuenta violaciones en California cometidas entre 1974 y 1986. Era un ex policía de 72 años que vivía tranquilamente como mecánico de camiones, completamente invisible a la justicia.\nSu arresto en abril de 2018 no fue gracias a una corazonada, un análisis forense tradicional, o un detective brillante. Fue resultado de un método entonces casi desconocido: la inteligencia artificial combinada con datos genéticos públicos . Y esto cambió para siempre la investigación criminal.\nEl giro decisivo: Genealogía Genética La policía tenía desde hacía años el perfil de ADN del asesino de Golden State en archivos de crímenes. El problema era evidente: sin un sospechoso para comparar, ese genoma era prácticamente inútil en las bases de datos forenses tradicionales.\nEn diciembre de 2017, los investigadores cargaron el perfil de ADN en GEDmatch , una plataforma genealógica pública accesible para cualquiera. GEDmatch analiza aproximadamente 700.000 marcadores genéticos —infinitamente más detallados que los sistemas forenses tradicionales—, permitiendo identificar parientes distantes del perpetrador incluso cuando éste no figuraba en ninguna base de datos criminal.\nEl algoritmo identificó entre 10 y 20 individuos que compartían patrones genéticos con DeAngelo. Estos eran parientes lejanos, personas que simplemente habían compartido su ADN, una pista para descubrir sus raíces familiares. Fue el primer eslabón en una cadena que terminaría en la cárcel.\nResumen gráfico de la potencia de la IA para resolver casos imposibles. / IA/T21\nHerramientas de IA que resuelven crímenes: guía rápida para no perderse entre balas, píxeles y algoritmos 1. RECONOCIMIENTO FACIAL: del boceto al rostro real\nEl problema : Un testigo describe al delincuente. La policía hace un boceto. ¿Cuántas personas podrían coincidir con esa descripción? La solución : Redes neuronales profundas convierten bocetos dibujados a mano en imágenes fotorrealistas. El sistema SketchScan alcanza 98,5% de precisión transformando un dibujo tosco en una imagen que puede compararse contra bases de datos de identificación. Caso real : En España, la Policía Nacional mejoró videos nocturnos del asesinato de Samuel Luiz (2021) usando IA para convertir oscuridad en luz, permitiendo identificar a los agresores. Limitación crítica : Nunca puede ser base única para arresto. Solo es una herramienta generadora de pistas que requiere investigación corroboradora. 2. NIBIN: La red balística que conecta crímenes\nEl problema : Un arma se utiliza en múltiples crímenes en ciudades distintas. ¿Cómo conectarlos? La solución : El NIBIN (National Integrated Ballistic Information Network) captura imágenes digitales de vainas y balas, analizando las microrrayaduras únicas que cada arma deja. Desde su creación en 1999, ha generado más de 137.000 pistas investigativas. Caso real : En Baltimore (2015-2020), la pandilla \"Triple C\" fue investigada usando conexiones balísticas de NIBIN , vinculando crímenes separados en semanas. Lo que NO hace : NIBIN solo genera candidatos. Los investigadores deben verificar manualmente cada coincidencia. 3. APRENDIZAJE AUTOMÁTICO EN RESIDUO DE DISPARO: Identificar munición desde moléculas\nEl problema : ¿Qué tipo específico de munición fue disparada? Sin la bala, es imposible saberlo con métodos tradicionales. La solución : Investigadores de Northumbria University utilizaron aprendizaje automático para analizar la composición química del residuo de disparo y predecir qué munición fue usada originalmente. Lograron 0.982 de correlación , una precisión extraordinaria en forense. Aplicación : En casos con múltiples tipos de munición o donde la munición desaparece, este análisis químico es la única pista. Estado : Aún en validación forense operativa. Requiere más investigación antes de ser admisible universalmente en tribunal. 4. VIDEO INTELIGENTE: encontrar agujas en un pajar\nEl problema : Una ciudad tiene miles de cámaras generando petabytes de metraje. Revisar todo manualmente requeriría años. La solución : herramientas como las Redes neuronales convolucionales analizan video automáticamente para rastrear el movimiento de una persona específica entre múltiples cámaras, detectar comportamiento anómalo (merodeo prolongado, revisión repetida de puertas), generar cronogramas de movimiento e Identificar patrones de actividad criminal recurrente Eficiencia : Lo que requeriría meses de revisión manual se completa en horas. 5. ANÁLISIS DE LENGUAJE NATURAL: detectar mentiras en palabras\nEl problema : Los testigos mienten . ¿Cómo saber cuándo? La solución : Modelos de procesamiento del lenguaje natural (NLP) analizan transcripciones de interrogatorios para detectar Patrones de evasión verbal, cambios en nivel de confianza, inconsistencias entre múltiples declaraciones y lenguaje defensivo o contradictorio Limitación : Genera hipótesis, no prueba. Un investigador debe siempre evaluar el contexto y la validez. 6. BASES DE DATOS ACREDITADAS: la infraestructura real\nLa base de datos policial de identificadores obtenidos a partir de ADN se ha convertido en una pieza estructural de la investigación criminal en España: solo en 2023 se incorporaron 12.598 nuevos perfiles genéticos de personas, y el sistema acumula ya más de 440.000 perfiles de interés penal procedentes de Policía Nacional, Guardia Civil y otros cuerpos autonómicos ABIS (Automatic Biometric Identification System) español, desde agosto 2023, ha contribuido a identificación en 40% de las 400+ investigaciones procesadas. LA FÓRMULA QUE FUNCIONA\nNinguna herramienta aislada resuelve crímenes. La fórmula es: Datos + Algoritmo + Investigador Humano + Verificación Experta = Justicia Cada paso requiere verificación humana. Cada resultado debe ser evaluado críticamente. La IA amplifica la capacidad investigativa, pero no reemplaza el pensamiento humano. Lo que ha cambiado es la velocidad y escala. Lo que tomaba años ahora toma semanas. Lo que era imposible procesar ahora es manejable. Esa es la verdadera revolución. La triangulación: de parientes a culpable Un equipo de investigadores trabajó con la genealogista Barbara Rae-Venter para construir árboles familiares . Mediante un proceso llamado \"triangulación\", comparaban qué segmentos específicos de ADN eran compartidos entre múltiples parientes. Fue matemática pura: si dos primos compartían un segmento genético pero un tercero no, ese segmento tenía que provenir de una rama específica del árbol genealógico.\nLos investigadores construyeron aproximadamente 25 árboles genealógicos distintos. Uno de ellos contenía casi 1.000 personas. Luego aplicaron filtros simples: edad (aproximada), género, ubicación geográfica durante los años de los crímenes. Poco a poco, eliminaron sospechosos. Después de meses de trabajo, solo quedaba un nombre: Joseph DeAngelo.\nLo que sucedió después fue casi rutinario. Los investigadores recolectaron ADN del coche y la basura de DeAngelo. En cuatro horas —algo inaudito apenas una década antes — los resultados coincidieron definitivamente. El puzzle estaba resuelto.\nMás allá de un caso Desde el arresto de DeAngelo, la genealogía genética se ha utilizado en cientos de casos . Restos humanos sin identificar que llevaban décadas en archivos ahora tienen nombre. Crímenes que parecían condenados al misterio tienen culpables.\nSin embargo, esto no es magia. No es IA \"inteligente\" en el sentido romántico. Son algoritmos organizando información de forma que los humanos no pueden procesar manualmente por limitaciones de tiempo. Son máquinas haciendo lo que saben hacer bien: comparar patrones a velocidad industrial. Son investigadores humanos haciendo lo que saben hacer bien: pensar críticamente, verificar, investigar.\nEl asesino de Golden State fue capturado cuando la tecnología encontró lo que la investigación humana no había podido hallar en 40 años: la conexión correcta, el patrón invisible en los datos públicos.\nLa pregunta ya no es si la IA puede resolver casos. Ya lo hace. La pregunta ahora es cómo hacerlo éticamente, protegiendo privacidad, evitando sesgos, y garantizando que cada resultado sea verificado críticamente antes de convertirse en justicia.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->court",
+    "Crime, Law and Justice->investigation (criminal)",
+    "Crime, Law and Justice->homicide",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://ieeexplore.ieee.org/document/10987486/",
+    "https://latimes.com/california/story/2020-12-08/man-in-the-window",
+    "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo#Investigation",
+    "https://frisson.com.co/index.php/2024/06/24/la-policia-espanola-ya-usa-en-sus-investigaciones-un-sistema-automatico-de-reconocimiento-facial/",
+    "https://www.gedmatch.com/",
+    "https://www.npr.org/sections/thetwo-way/2018/04/27/606624218",
+    "https://www.bbc.com/news/world-us-canada-53226327",
+    "https://www.jatit.org/volumes/Vol103No12/4Vol103No12.pdf",
+    "https://bcit.ca/news/stories/using-investigative-genetic-genealogy-to-solve-cold-cases/",
+    "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo",
+    "https://cordis.europa.eu/article/id/314302-ai-system-finds-and-predicts-criminal-patterns-in-vast-troves-of-surveillance-footage",
+    "https://crimegunintelcenters.org/nibin-entry-correlation-and-crime-gun-tracing/",
+    "https://phys.org/news/2018-11-artificial-intelligence-previously-unsolvable-cases.html",
+    "https://leadsonline.com/blog/leveraging-technology-to-combat-crime/",
+    "https://pubs.rsc.org/en/content/articlelanding/2019/an/c8an01841c",
+    "https://www.interior.gob.es/opencms/pdf/archivos-y-documentacion/documentacion-y-publicaciones/publicaciones-descargables/publicaciones-periodicas/Base-de-datos-policial-de-identificadores-obtenidos-a-partir-de-ADN.-Memoria/Base_de_datos_policial_identificadores_ADN_Memoria_2023_126200173_web.pdf",
+    "https://pubmed.ncbi.nlm.nih.gov/38376954/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10876674/",
+    "https://www.pubmed.ncbi.nlm.nih.gov/38376954/",
+    "https://interior.gob.es/opencms/pdf/archivos-y-documentacion/documentacion-y-publicaciones/publicaciones-descargables/publicaciones-periodicas/Base-de-datos-policial-de-identificadores-obtenidos-a-partir-de-ADN.-Memoria/Base_de_datos_policial_identificadores_ADN_Memoria_2023_126200173_web.pdf",
+    "https://www.frisson.com.co/index.php/2024/06/24/la-policia-espanola-ya-usa-en-sus-investigaciones-un-sistema-automatico-de-reconocimiento-facial/",
+    "https://jatit.org/volumes/Vol103No12/4Vol103No12.pdf",
+    "https://npr.org/sections/thetwo-way/2018/04/27/606624218",
+    "https://www.latimes.com/california/story/2020-12-08/man-in-the-window",
+    "https://www.gedmatch.com",
+    "https://leadsonline.com/blog/leveraging-technology-to-combat-crime",
+    "https://www.leadsonline.com/blog/leveraging-technology-to-combat-crime/",
+    "https://bbc.com/news/world-us-canada-53226327",
+    "https://frisson.com.co/index.php/2024/06/24/la-policia-espanola-ya-usa-en-sus-investigaciones-un-sistema-automatico-de-reconocimiento-facial",
+    "https://www.ieeexplore.ieee.org/document/10987486/",
+    "https://www.pubs.rsc.org/en/content/articlelanding/2019/an/c8an01841c",
+    "https://ieeexplore.ieee.org/document/10987486",
+    "https://www.en.wikipedia.org/wiki/Joseph_James_DeAngelo",
+    "https://www.crimegunintelcenters.org/nibin-entry-correlation-and-crime-gun-tracing/",
+    "https://www.pmc.ncbi.nlm.nih.gov/articles/PMC10876674/",
+    "https://www.bcit.ca/news/stories/using-investigative-genetic-genealogy-to-solve-cold-cases/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10876674",
+    "https://www.cordis.europa.eu/article/id/314302-ai-system-finds-and-predicts-criminal-patterns-in-vast-troves-of-surveillance-footage",
+    "https://crimegunintelcenters.org/nibin-entry-correlation-and-crime-gun-tracing",
+    "https://bcit.ca/news/stories/using-investigative-genetic-genealogy-to-solve-cold-cases",
+    "https://www.en.wikipedia.org/wiki/Joseph_James_DeAngelo#Investigation",
+    "https://www.phys.org/news/2018-11-artificial-intelligence-previously-unsolvable-cases.html",
+    "https://pubmed.ncbi.nlm.nih.gov/38376954",
+    "https://gedmatch.com/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Joseph DeAngel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "California",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_es",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-22T12:22:41.744+02:00",
+  "updated": "2026-01-23T13:10:43.000+02:00"
+}

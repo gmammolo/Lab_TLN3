@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "f5e48287745d3ffb096af4020180f0ec33ba7105",
+    "url": "https://dev.to/opensauced/5-ways-programmers-can-use-ai-tools-to-improve-their-lives-200g",
+    "site_full": "dev.to",
+    "site": "dev.to",
+    "site_section": "https://dev.to/feed",
+    "site_categories": [
+      "javascript",
+      "tech",
+      "databases"
+    ],
+    "section_title": "DEV Community",
+    "title": "5 Ways Programmers Can Use AI Tools to Improve Their Lives - DEV Community",
+    "title_full": "5 Ways Programmers Can Use AI Tools to Improve Their Lives - DEV Community",
+    "published": "2023-12-29T00:10:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gJNNQxXS--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fvn1k24xyvd4u101i35p.png",
+    "performance_score": 0,
+    "domain_rank": 1888,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f5e48287745d3ffb096af4020180f0ec33ba7105",
+  "url": "https://dev.to/opensauced/5-ways-programmers-can-use-ai-tools-to-improve-their-lives-200g",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@",
+  "published": "2023-12-29T00:10:00.000+02:00",
+  "title": "5 Ways Programmers Can Use AI Tools to Improve Their Lives - DEV Community",
+  "text": "During the end of 2022, we had a significant development in AI and human history, which was the birth of GPT products through ChatGPT and their availability for public use. Such tools and developments in AI impacted people's lives and minds, and a whole hype was born around this topic. Developers created new tools on top of it. Researchers from different fields started a new research phase. Entrepreneurs started companies based on ChatGPT products. Today, I will show you seven use cases of ChatGPT-like tools for programming and how they could help you be a better and faster programmer. [ ](#how-does-it-work) How does it work? Before jumping into the use case we are exploring in this article, I would like to highlight the main principles of ChatGPT-like tools: they have limited information and are just math! What does that mean? ChatGPT and other AI tools work by calculating the possibility of the answer to the prompt you are giving and generating a result based on that. The ChatGPT-like tool should have seen the issue before or been trained on large amounts of data to perform well; otherwise, it would take a lot of work to get the expected results. By training, we mean providing previous inputs to process and parse into its knowledge base. Therefore, those tools are better with the foundations and struggle with recent technologies; by recent, we mean anything after the period used for training the AI tools. Now, let's jump to the cases I am discussing; you will notice in the article that I use multiple tools for different purposes. These tools will enable you to think and explore more. Even though the tools are developed on the same foundation model, they perform differently based on the domain they are trained for and the prompts. [ ](#case-1-patterns-and-regex) Case 1: Patterns and RegEx One of the cases where ChatGPT would help you in programming is RegEx. For those who do not know, RegEx means regular expressions, a sequence of characters that specify a pattern to match. For example, if you want to find numbers in a text, you could use RegEx syntax (\\d+) to find and replace them. As for these patterns, since it's been around in the programming world for a long time, ChatGPT Would be a great tool to find patterns for specific tests, explain them, and even help you understand your patterns. I have used this while trying to find a tailwind anti-pattern in the code of OpenSauced; here are the steps that I have followed to do that and create a pull request based on that: - I asked ChatGPT to get the RegEx I needed, - Searched for that by using the VS Code find tool, - I opened the results in a file (I did this from VS Code; it has such a feature!) - Then, I cleaned the file by using another RegEx. Doing this without ChatGPT is possible, but I need to think about the best RegEx pattern and work until I find it, yet ChatGPT did that in a few seconds. Here is an example of the ChatGPT prompt and the result: write a regex that has the following: check the begining of the line check if the begining is empty check if there is a number followed with two dots check if there is a new line after that line Result: // ChatGPT To match a regex pattern that checks the beginning of a line, checks if the beginning is empty, checks if there is a number followed by two dots, and checks if there is a newline after that line, you can use the following regex: regexCopy code ^(?=\\s*\\d+\\.\\.\\s*$) Here's a breakdown of the regex pattern: 1. ^ - Anchors the regex to the beginning of the line. 2. (?= - Starts a positive lookahead assertion, which is used for checking without consuming characters. 3. \\s* - Matches zero or more whitespace characters. 4. \\d+ - Matches one or more digits (a number). 5. \\.\\. - Matches two dots. 6. \\s* - Matches zero or more whitespace characters. 7. $ - Anchors the regex to the end of the line. 8. ) - Ends the positive lookahead assertion. This regex pattern will only match lines that meet the specified criteria: an empty line that contains only a number followed by two dots and is followed by a newline. [ ](#case-2-parsing-unstructured-data) Case 2: Parsing Unstructured Data Sometimes, when you program, you need to get structured data from an unstructured one or even scrap some data from a text. You must be able to use it in your project or website. You might find it easier to structure the data by using ChatGPT. I followed this when I wanted to write a JSON file out of a YouTube list; instead of doing a complex programming solution that might take half an hour, my go-to solution was ChatGPT. I had to get the data from YouTube, which was semi-structured; I asked ChatGPT to convert it to JSON to use on [hadithtech.com](//hadithtech.com) website and Hola! the [PR](https://app.opensauced.pizza/feed/858) is ready! It only takes a few seconds to do that. If it were not for ChatGPT, it would take more time. Here is the data that I got from YouTube: Here is the result from ChatGPT: [ ](#case-3-a-pair-programming-friend) Case 3: A pair programming friend This is one of the most interesting cases. Here, you will need to think about ChatGPT-like tools as your friend or assistant, but at the same time, you will need to trust your judgment and yourself. [ ](#refactor) Refactor If you are an open source maintainer, you probably do code reviews a lot. You may need to check if a code is good or has any concerns. You could use copilot chat, ask it directly about a code, and get the results based on that. I did that with the next code and got a good result that you could see. Here is an example code: let focusOnHighlighCreationInput: NodeJS.Timeout; if (window.innerWidth > 768) { focusOnHighlighCreationInput = setInterval(() => { const highlightCreationInput = document.getElementById(\"highlight-create-input\"); if (newHighlight && highlightCreationInput) { highlightCreationInput.click(); highlightCreationInput.focus(); clearInterval(focusOnHighlighCreationInput); } }, 1000); } else { // for mobile. No need to focus on input, just click on the button as it opens up a form anyway. focusOnHighlighCreationInput = setInterval(() => { const mobileHighlightCreateButton = document.getElementById(\"mobile-highlight-create-button\"); if (newHighlight && mobileHighlightCreateButton) { mobileHighlightCreateButton.click(); clearInterval(focusOnHighlighCreationInput); } }, 1000); } As you can notice in the code above, there is repatriation in the logic and code, which might need to get refactored. But before going to that, I asked Copilot chat about its opinion on this, and here is the result: The prompt: Should we refactor this code and why? The result: Yes, this code can be refactored for several reasons: Code Duplication: The setInterval function and the clearInterval function are duplicated in both the if and else blocks. This can be abstracted into a separate function. Separation of Concerns: The code is directly manipulating the DOM and handling UI logic. This is not recommended in React. Instead, state and props should be used to handle UI changes. Performance: Using setInterval and document.getElementById repeatedly can be performance-intensive. It's better to use event listeners or React's lifecycle methods or hooks. As you can see, Copilot detected the issues, suggested that we go further, and asked to refactor the code, which gave satisfying results in less than a minute. I then asked Copilot chat to fix the code: The prompts: refactor the selected code to have less code and use DRY principle The results: let focusOnHighlighCreationInput: NodeJS.Timeout; const focusOrClickElement = (elementId: string, isMobile: boolean) => { focusOnHighlighCreationInput = setInterval(() => { const element = document.getElementById(elementId); if (newHighlight && element) { element.click(); if (!isMobile) { element.focus(); } clearInterval(focusOnHighlighCreationInput); } }, 1000); } if (window.innerWidth > 768) { focusOrClickElement(\"highlight-create-input\", false); } else { // for mobile. No need to focus on input, just click on the button as it opens up a form anyway. focusOrClickElement(\"mobile-highlight-create-button\", true); } I was almost satisfied with this result, but the last part of the if statement could be done better. For that, I wrote another prompt to push Copilot to get rid of that code, and here is the result: Prompt: could we get rid off the last if statement and include that in the code directly? The output code: // Determine the element id and whether to focus based on the window width const elementId = window.innerWidth > 768 ? \"highlight-create-input\" : \"mobile-highlight-create-button\"; const shouldFocus = window.innerWidth > 768; handleHighlightCreation(elementId, shouldFocus); With this result, I felt satisfied and could code faster with Copilot chat. The only struggle someone would find here is understanding the code and detecting which code needs refactoring. [ ](#explaining-code) Explaining code This is when you think about ChatGPT as a friend. Instead of asking ChatGPT to write a code, you might need to understand a code written in some language to use the logic or learn from it. For that, you can use the ChatGPT-like tools to help you with it and be able to provide relative information based on your needs and requirements. This will help you to learn faster and get the results in a short time. If you are an open-source contributor, you might wonder how to understand a function or might need to get some help for understanding that, yet the people are in different time zones or busy, for you might ask the Copilot Chat or ChatGPT-like tools to explain a specific function and give you some details. This would increase the development speed and eliminate the delay that might happen due to the communication. As an example, I used Copilot chat to explain the code written in the previous example in two sentences, and here is the result: The highlighted TypeScript/React code defines a function handleHighlightCreation that sets up an interval to check for a new highlight and a specific HTML element every second. If both exist, it simulates a click event on the element, optionally focuses on it (based on the shouldFocus argument), and then clears the interval. From there, you can continue to ask questions to clarify until you get the answer you need. One popular prompt people use when asking ChatGPT to explain something is, “Explain this to me like I’m five,” for a simplified version of the explanation. [ ](#security-checks) Security checks This would feel more like code explaining, but when you specify the domain, it would help you to get more specific answers that might fit your needs. Security checks would be an interesting case for the AI tools; the only thing here is that it depends on the knowledge base that we have; as for this, you can use the GitHub Copilot chat inside your editor and select a text and ask questions that you need to figure out or get an insight about it like: - Would this code have a memory leak? - Does this code have any security issues? - Give me an example of SQL injection for this code. Such prompts would be helpful for you to use when you write code and to get input about how to fix that. Even though AI tools might not give you the best solution or answer, it will be helpful to guide you. The examples I provided above rely on [Bassem Dghaidi](https://www.youtube.com/watch?v=CXEJ5FhHIfo), a senior software engineer at GitHub, a workshop provided during Universe 2023, and a video about it. [ ](#case-4-documentation-suggestions) Case 4: Documentation suggestions When you write a code, you might need to write the documentation related to it or even update it for future usage; the value is remembering what you did and delivering a message quickly. The only issue is that writing good docs is hard and time-consuming. For that reason, you might rely on ChatGPT, where you give it a function and ask for the documentation related to it, so it will help you write the docs and have a great result. This will not only help you develop your project but also empower other people to use the project. A few weeks ago, we hosted an extended AI-related [Twitter space](https://twitter.com/saucedopen/status/1734596509792895372). (Feel free to listen to it if you have not yet). During the space, one of the guests suggested improvement in AI would require us, as developers, to write great documentation to be used in the model training to provide clean training data and extract better results. Another use case would be asking ChatGPT to evaluate your documentation. Ask if there's a way to simplify. Ask if there is a code sample that would be useful or to help you create an example that a global audience can understand by removing jargon. Our Developer Experience Lead, Bekah Hawrot Weigel, has used ChatGPT to repurpose documentation into other forms like drafts of guides. Another few companies use similar tools to have a QnA bot for their documentation like [Kapa.ai], which is used to learn from the documentation and tutorials and provide support for developers to understand the documentation and answer their questions. All of these tools and ideas would help developers and no code contributors take part in developing open-source projects and add value to them. [ ](#case-5-pull-request-descriptions) Case 5: Pull Request Descriptions One of the most important aspects of open source contributions is communication between the team. The pull request description would be the way to do that through the code. Writing a great description could be hard work after working on your code. This skill requires a concise and articulate description so the reviewer understands what your PR has done and accomplished. As for this, you could use the AI tools, which would help you; instead of checking the code yourself, you can ask the tools to provide the description, and your job is to check if it's correct or not. This will make things easier for you. To do this, you could use a couple of great software here, I am going to explain three interesting ones, [GitHub Copilot](https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/copilot-pull-request-summaries/creating-a-pull-request-summary-with-github-copilot) [Codium.ai](https://github.com/Codium-ai/pr-agent) - [OpenSauced.ai](//OpenSauced.ai)extension In the previous options, you could notice that Codium.Ai and OpenSauced.ai are open-source options, and Copilot is focused on enterprises. Both OpenSauced and Codium have leveraged OpenAI APIs. As for the OpenSauced extension, we use the commit messages and the diff between the changes to generate the summary of the PRs. Then, we add that summary to the PR immediately. Such a feature would make writing the PR summary take less than a minute and save you time. At OpenSauced, we value the open-source community. We have developed the Chrome extension to help you while you contribute to open source through providing, refactoring, code explanation, and test tools in the PR review and writing the tests for the code, and even cover almost all of the use cases that we have mentioned in this article if you have not used it, we encourage you to download the extension from opensauced.ai. A screenshot from OpenSauced.ai chrome extension In the end, remember that those tools would only make sense if you had insight or an idea about what you are writing and will require you to vet the output when you get it. Therefore, we still need human input to get the best result. Do you have other cases of AI usage in programming that we did not cover? Please share that in the comments!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "http://www.youtube.com/watch?v=CXEJ5FhHIfo),",
+    "https://twitter.com/saucedopen/status/1734596509792895372).",
+    "https://app.opensauced.pizza/feed/858)",
+    "https://github.com/Codium-ai/pr-agent)",
+    "https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/copilot-pull-request-summaries/creating-a-pull-request-summary-with-github-copilot)",
+    "https://www.docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/copilot-pull-request-summaries/creating-a-pull-request-summary-with-github-copilot)",
+    "http://youtube.com/watch?v=CXEJ5FhHIfo),",
+    "https://www.twitter.com/saucedopen/status/1734596509792895372).",
+    "https://www.app.opensauced.pizza/feed/858)",
+    "http://www.youtube.com/watch",
+    "https://www.github.com/Codium-ai/pr-agent)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "ways programmers can use ai tools",
+        "sentiment": "negative"
+      },
+      {
+        "name": "gpt",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T02:50:48.429+02:00",
+  "updated": "2023-12-29T07:28:50.037+02:00"
+}

@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "6c86284eee157bcaf6780c7a73f6c2e7aec38804",
+    "url": "https://countryherald.com/news/maryland-freeze-warning-could-you-get-frostbite-next-week/",
+    "site_full": "countryherald.com",
+    "site": "countryherald.com",
+    "site_section": "https://countryherald.com/category/news/feed/",
+    "site_categories": [],
+    "section_title": "News Archives - Country Herald",
+    "site_title": "Home - Country Herald",
+    "title": "Maryland Freeze Warning: Could You Get Frostbite Next Week?",
+    "title_full": "Maryland Freeze Warning: Could You Get Frostbite Next Week?",
+    "published": "2025-11-20T11:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://countryherald.com/wp-content/uploads/2025/11/be9eb0e1-b93f-4b78-b92e-58db3365838c8-1024x683.png",
+    "performance_score": 0,
+    "domain_rank": 645532,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6c86284eee157bcaf6780c7a73f6c2e7aec38804",
+  "url": "https://countryherald.com/news/maryland-freeze-warning-could-you-get-frostbite-next-week/",
+  "ord_in_thread": 0,
+  "author": "County Herald Weather Center",
+  "published": "2025-11-20T11:04:00.000+02:00",
+  "title": "Maryland Freeze Warning: Could You Get Frostbite Next Week?",
+  "text": "Baltimore, MD – Maryland may face a punch of early-winter cold as Thanksgiving week approaches, raising concerns about frostbite and hypothermia, according to newly updated guidance from the National Oceanic and Atmospheric Administration (NOAA). The Nov. 19 temperature outlook signals a major pattern shift beginning November 25, bringing colder-than-normal air across the Mid-Atlantic through early December.\nAccording to NOAA, the looming cold is being driven by the ongoing La Niña pattern, the Madden–Julian Oscillation, and the possibility of a rare late-November sudden stratospheric warming event. These combined influences may steer Arctic air into the North-Central and Eastern U.S., placing Maryland directly in the below-normal temperature zone.\nWith families preparing for Thanksgiving travel, outdoor shopping, and holiday events across Baltimore and surrounding counties, health officials warn that frostbite and hypothermia can develop quicker than many residents expect — especially with wind chill added to the cold.\nKey frostbite symptoms include:\n• Numbness or loss of feeling\n• Tingling or prickling sensations\n• Cold, hard, waxy-looking skin\n• Skin discoloration (red, white, blue, gray, or purple)\n• Blisters that may develop after rewarming\nTen important signs of hypothermia:\nShivering, slurred speech, shallow breathing, weak pulse, confusion, memory loss, severe fatigue, stumbling or clumsiness, drowsiness, and — in severe cases — loss of consciousness. Infants may show bright red, cold skin and unusually low energy.\nNOAA urges Maryland residents to wear warm layers, cover exposed skin, and limit outdoor exposure during the coldest periods of the holiday week. Anyone showing signs of frostbite or hypothermia should seek immediate medical attention and warm affected areas with warm — not hot — water or gentle body heat.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Health"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena",
+    "Health->injury",
+    "Health->medical condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Mid-Atlantic",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "National Oceanic and Atmospheric Administration",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "NOAA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Bourbonnais",
+        "Kankakee",
+        "Bradley"
+      ],
+      "state": [
+        "Illinois"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T11:05:31.816+02:00",
+  "updated": "2025-11-20T11:10:59.000+02:00"
+}

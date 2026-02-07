@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "b90e5518362a2a39c61085a33ff41959ba1ca183",
+    "url": "https://www.wareable.com/health-and-wellbeing/google-pixel-watch-3-loss-of-pulse-detection-fda-approval",
+    "site_full": "www.wareable.com",
+    "site": "wareable.com",
+    "site_section": "https://www.wareable.com/garmin",
+    "site_categories": [
+      "tech",
+      "entertainment"
+    ],
+    "section_title": "Garmin Archives - Wareable",
+    "site_title": null,
+    "title": "Life-saving Google Pixel Watch 3 health feature finally arrives in the US",
+    "title_full": "Life-saving Google Pixel Watch 3 health feature finally arrives in the US",
+    "published": "2025-02-27T23:19:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.wareable.com/wp-content/uploads/sites/6/2025/02/loss-of-pulse.jpg",
+    "performance_score": 0,
+    "domain_rank": 11116,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b90e5518362a2a39c61085a33ff41959ba1ca183",
+  "url": "https://www.wareable.com/health-and-wellbeing/google-pixel-watch-3-loss-of-pulse-detection-fda-approval",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Conor Allison",
+  "published": "2025-02-27T23:19:00.000+02:00",
+  "title": "Life-saving Google Pixel Watch 3 health feature finally arrives in the US",
+  "text": "Nearly six months after the Pixel Watch 3 first went on sale, Google has received FDA approval for its Loss of Pulse Detection feature.\nSince the device’s September launch, the feature has been available to users in Europe. However, regulatory approval across the pond now means counterparts in the US will finally have the potentially life-saving feature on their wrists, with Google noting the rollout will begin at the end of March.\nFor the uninitiated, ‘Loss of Pulse Detection’ was announced as an exclusive health feature for the latest smartwatch generation in August. And despite very much sounding like a way of simply detecting when a user has died—which wouldn’t be very much help to anybody—it actually represents some novel and vital work from Google.\nEngineered into the Pixel Watch 3’s optical sensor, it works by continuously scanning for acute medical emergencies where the user’s heart has stopped beating.\nIf the watch thinks the wearer’s heart has ceased, it will begin escalating alerts to the user, beginning with vibrations and notifications. If there’s no response, an audible alarm and countdown (slightly ominous) are then delivered, followed by the watch automatically contacting the emergency services and sending the user’s location.\nAn essential tool for when nobody’s around to help\nAs Jake Sunshine, a Google Research Scientist, told us when the feature first arrived in Europe, the safety feature is designed to help users in instances of cardiac emergencies when they are alone.\n“We’ve all seen situations where someone loses their pulse in public, perhaps on a sports field. It’s crucial that people get help as quickly as possible,” he told PULSE by Wareable.\n“Unfortunately, more than half of these incidents, particularly when caused by cardiac arrest, happen in situations where there’s no one around to help.\n“This is a significant issue globally, so we developed a system that can identify when someone might be experiencing a loss of pulse and quickly get them help.”\nGoogle has indicated that the feature will continue to expand to more regions as and when the respective regulatory bodies approve it.\nAnd though it’s arrived later than planned in the US, it will no doubt become a staple of the brand’s smartwatch safety features for years to come—and one that will almost certainly save lives.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health"
+  ],
+  "topics": [
+    "Science and Technology->medical research",
+    "Science and Technology->technology and engineering",
+    "Health->health care approach",
+    "Health->medical service"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blog.google/feed/pixel-watch-3-loss-of-pulse-detection-fda/",
+    "https://wareable.substack.com/p/google-research-scientist-on-developing",
+    "https://www.wareable.substack.com/p/google-research-scientist-on-developing",
+    "https://blog.google/feed/pixel-watch-3-loss-of-pulse-detection-fda",
+    "https://www.blog.google/feed/pixel-watch-3-loss-of-pulse-detection-fda/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "FDA",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Google",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Europe",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:07:16.170+02:00",
+  "updated": "2025-02-28T00:07:16.170+02:00"
+}

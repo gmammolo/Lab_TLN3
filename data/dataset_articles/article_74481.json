@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "106f0864f0b7dcb549fee98259ea1f716730f188",
+    "url": "https://analyticsindiamag.com/ai-origins-evolution/indian-developers-arent-using-ai-tools-enough",
+    "site_full": "analyticsindiamag.com",
+    "site": "analyticsindiamag.com",
+    "site_section": "https://www.analyticsindiamag.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "AIM | Artificial Intelligence, And Its Commercial, Social And Political Impact",
+    "title": "Indian Developers Aren’t Using AI Tools Enough",
+    "title_full": "Indian Developers Aren’t Using AI Tools Enough",
+    "published": "2024-11-15T13:19:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 10479,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "106f0864f0b7dcb549fee98259ea1f716730f188",
+  "url": "https://analyticsindiamag.com/ai-origins-evolution/indian-developers-arent-using-ai-tools-enough",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mohit Pandey",
+  "published": "2024-11-15T13:19:00.000+02:00",
+  "title": "Indian Developers Aren’t Using AI Tools Enough",
+  "text": "The affordability of such tools has emerged as one of the key reasons behind their low adoption in India. The Cost Barrier During a discussion with AIM, Jarvislabs.ai founder Vishnu Subramanian pointed out that many university students are still using the free version of ChatGPT because of the “frugal mentality” of Indians. For developers in the US, $20 a month seems like a decent price. For those in India, however, it comes across as a pricey deal, even if it could boost their careers 10 times faster. “Once I see that my mindset is pulling me backwards, I started changing it,” Subramanian said. While revealing that computer scientist Andrej Karpathy’s posts on ChatGPT, Cursor, and Claude got him interested in using these AI tools, he stressed that other Indian developers should do the same. Why Some Developers Can’t Use AI Tools at Work During a Reddit discussion among the Indian developer community, it was revealed that most of them still code manually despite the availability of AI coding tools for the job. While several professionals found these tools useful, a notable segment of the community was critical of them, raising concerns about over-reliance, reduced skill development, and privacy issues. According to a recent survey by GitHub , 56% of Indian developers said using AI tools helps them boost their chances for employment owing to the skills they develop. Moreover, around 80% of them said that the code quality has improved because of AI tools. Despite this, several Indian companies advise against , or sometimes even ban, the use of AI coding tools, discouraging developers from adopting them. According to the survey, only 40% of companies have been promoting the use of AI coding tools. A major reason behind Indian companies’ cautious approach to using AI coding tools is privacy. Many fear that these tools, especially those developed by large corporations, might expose sensitive or proprietary code to third parties. Even though AI tool providers like GitHub Copilot assert that enterprise versions don’t store proprietary code, the mistrust remains. This concern is not unfounded, as developers in industries handling confidential data may prefer to avoid tools that could potentially compromise their security. This, coupled with the narrative claiming “companies would replace Indian software developers with AI coding tools to cut costs” has contributed to a growing sense of dislike among the developer community towards such tools. When it comes to adoption, however, GitHub CEO Thomas Dohmke said Indian developers are one of the largest user bases of Copilot and contributors on GitHub. This is why many companies are also building coding tools that allow developers to code in natural languages, including several Indian languages. For instance, GitHub Copilot charges $10 per month after a one month free trial. Cursor AI is free for most use cases, but the Pro version costs $20 per month with unlimited completions and 500 fast premium requests using GPT-4 or Claude-3.5 Sonnet. Meanwhile, Claude Pro Version also costs $20 per month. ChatGPT Plus, which is the paid version of OpenAI’s model, is $20 per month and Gemini Code Assist’s Standard subscription is $22.80 per user per month. While Meta’s Code Llama is open source and free to use, it has to be implemented within the workflow after fine-tuning, which makes it a little harder for developers to adopt. What Industry Leaders Think Siddharth Sharma, former CTO of Shaadi.com, revealed in a post on X that he cancelled his Cursor subscription when he realised that “AI tools were generating verbose, inelegant code that was negatively influencing his thought process”. “In general, I found the LLM never pointed to a refactoring that would make the code less verbose. And this was painful as it happened. And it is going to be 10 times more painful in teams and large codebases and so on,” he added. In contrast, Sergey Brin, co-founder and former president of Alphabet, believes developers are not using AI coding tools enough . Meanwhile, Adarsh Shirawalmath , the founder of Tensoic AI, told AIM while his team is using such tools internally, he feels discussions about them are useless. “It’s better to stick to one tool that we know is good, such as Cursor. Though there are some better IDEs out there, I personally don’t have the bandwidth to experiment with them,” Shirawalmath added. He believes that such tools can be expensive for university students. Adithya S Kolavi , AI researcher and founder of CognitiveLab, informed AIM that many of his peers have started using Cursor and highly recommend it. “I personally haven’t switched because I’m too comfortable with my current development setup, and I generally use Claude to generate code,” he added. This seems to be the case for several Indic developers, who, once they start using a specific AI tool, do not experiment so quickly with others as the cost, along with the time spent on learning them, might seem too high. Amartya Jha , co-founder & CEO of CodeAnt AI, told AIM that tools like GitHub Copilot have seen some uptake in code generation, especially in tech-first B2B enterprises and mid-market companies. However, in India, many businesses are tech-enabled rather than tech-driven. Even within B2B or B2C, code generation tools have limited penetration. “A common concern is measuring developer productivity gains. Since these tools often work within IDEs, management struggles to get a holistic view of productivity improvements. Plus, as team sizes scale to over 200 developers, costs skyrocket—often averaging $40,000. This price point is tough to justify given typical budgets for developer productivity tools,” Jha further said. Risk of Over-Reliance “Earlier I used to read so much on Stack Overflow and try out multiple methods myself…Now I just tell AI to write something for me,” said a developer. Several developers have expressed concerns over how over-reliance on AI tools could potentially lead to erosion of foundational programming skills, causing them to reconsider using such tools for the sake of maintaining their competency. Another developer highlighted the effect of extensively using AI coding assistants. “I became a terrible programmer. I suck at conditions now, I used to be super good at them, but now I make mistakes and take a lot of time to figure them out,” he added. This user noticed a sharp decline in his problem-solving abilities. He was heavily relying on AI to think of solutions instead of building a deeper understanding of code structure. Another developer highlighted the loss of “collateral knowledge”. In the past, solving one problem would lead to exposure to other related issues, which enriched developers’ coding knowledge. Now, the immediate, perfect solutions provided by AI skip that learning process, potentially stunting skill development in the long run. In contrast, we’ve seen rapid adoption of AI-driven code quality and security tools for two main reasons. First, these tools quantify the number of critical software bugs and vulnerabilities they prevent, which directly impacts development and auditing costs. Second, they often support on-premises deployment, making them attractive to large companies prioritising security. A hybrid approach seems like a logical solution, combining AI assistance with traditional problem-solving methods like reading documentation or consulting Stack Overflow. As a developer on Reddit said, “Use only these tools, and you miss much. Use none, and you miss the way. Balance, my friend, is the key to all.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://in.linkedin.com/in/adarshxs",
+    "https://in.linkedin.com/in/vishnusubramanian",
+    "https://www.linkedin.com/in/anurag-parekh-69341922a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "https://www.reddit.com/r/developersIndia/comments/1fy7jk5/how_many_of_you_guys_manually_write_code_these/",
+    "https://in.linkedin.com/in/adithya-s-kolavi",
+    "https://www.linkedin.com/in/amartya-jha/",
+    "https://x.com/_svs_/status/1846855012862824820?t=s49oaxCaKj6vyAkmL7Niew&s=03",
+    "https://github.blog/news-insights/research/survey-ai-wave-grows/",
+    "https://www.github.blog/news-insights/research/survey-ai-wave-grows/",
+    "https://github.blog/news-insights/research/survey-ai-wave-grows",
+    "https://www.in.linkedin.com/in/adithya-s-kolavi",
+    "https://linkedin.com/in/anurag-parekh-69341922a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "https://www.linkedin.com/in/anurag-parekh-69341922a/",
+    "https://www.in.linkedin.com/in/vishnusubramanian",
+    "https://www.in.linkedin.com/in/adarshxs",
+    "https://www.x.com/_svs_/status/1846855012862824820?t=s49oaxCaKj6vyAkmL7Niew&s=03",
+    "https://x.com/_svs_/status/1846855012862824820",
+    "https://www.linkedin.com/in/amartya-jha",
+    "https://reddit.com/r/developersIndia/comments/1fy7jk5/how_many_of_you_guys_manually_write_code_these/",
+    "https://linkedin.com/in/amartya-jha/",
+    "https://www.reddit.com/r/developersIndia/comments/1fy7jk5/how_many_of_you_guys_manually_write_code_these"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Anurag Parekh",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Vishnu Subramanian",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "Gujarat",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:07:13.329+02:00",
+  "updated": "2024-11-15T19:53:41.519+02:00"
+}

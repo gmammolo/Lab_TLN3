@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "7bfcc65b3683520b20b4c01a523fa9edfa715fa9",
+    "url": "https://scienmag.com/ancient-texts-decoded-by-neural-networks",
+    "site_full": "scienmag.com",
+    "site": "scienmag.com",
+    "site_section": "https://www.scienmag.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Scienmag &#124; Science Magazine : Latest Discoveries in Cancer, Medicine, Health, Space, Technology, Chemistry &#038; Biology",
+    "site_title": "Scienmag &#124; Science Magazine : Latest Discoveries in Cancer, Medicine, Health, Space, Technology, Chemistry &#038; Biology",
+    "title": "Ancient Texts Decoded by Neural Networks",
+    "title_full": "Ancient Texts Decoded by Neural Networks",
+    "published": "2025-07-24T04:34:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 73347,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7bfcc65b3683520b20b4c01a523fa9edfa715fa9",
+  "url": "https://scienmag.com/ancient-texts-decoded-by-neural-networks",
+  "ord_in_thread": 0,
+  "author": "SCIENMAG",
+  "published": "2025-07-24T04:34:00.000+03:00",
+  "title": "Ancient Texts Decoded by Neural Networks",
+  "text": "In a groundbreaking fusion of ancient history and cutting-edge artificial intelligence, researchers have unveiled Aeneas, a sophisticated machine learning model designed to revolutionize the study of Latin inscriptions. This technological marvel aims to assist historians by restoring fragmented texts, dating undocumented carvings, and pinpointing their geographic origins within the vast expanse of the Roman Empire. The advent of Aeneas heralds a new era for digital humanities, where deep learning meets millennia-old stone, unearthing insights previously buried under the patina of time.\nThe impetus for Aeneas stems from recent strides in machine learning, particularly the proliferation of transformer architectures, which have excelled in natural language processing. Unlike conventional approaches that often rely on rigid rule-based systems or manual curation, Aeneas integrates both textual data and visual imagery, harnessing a multimodal framework that taps into the physicality of inscriptions. This allows the system to engage with nuances such as the carving style, material wear, and layout—factors that are crucial in epigraphic interpretation.\nCentral to Aeneas’s success is the Latin Epigraphic Dataset (LED), meticulously compiled from leading epigraphic repositories including the Epigraphic Database Roma (EDR), Epigraphic Database Heidelberg (EDH), and the Electronic Archive of Greek and Latin Epigraphy (EDCS_ETL). This formidable dataset encompasses over 16 million characters sourced from inscriptions spanning an extensive timeline, approximately 800 BCE to 800 CE, and covering diverse Roman provinces. The careful curation involved normalizing metadata, standardizing ancient provincial nomenclature, and retaining the original epigraphic conventions, such as editors’ restoration brackets and placeholders for missing characters, to preserve historical authenticity and challenge the model’s learning capacity.\nImportantly, the dataset also includes a limited but representative selection of inscription images. These visual data underwent rigorous preprocessing, including the exclusion of non-photographic artefacts, the removal of blurry frames using Laplacian variance analysis, and conversion to greyscale, ensuring uniformity suitable for deep learning. However, only about 5% of textual inscriptions are accompanied by images, presenting limitations that highlight the scarcity of multimodal epigraphic data, a bottleneck that Aeneas’s creators aim to alleviate with future dataset expansions.\nAeneas is architected to undertake four principal epigraphic tasks: fixed-length text restoration, restoration of missing sequences with unknown length, geographical attribution, and chronological dating. To do this, it processes sequences up to 768 characters long, marked with placeholder symbols denoting absent or uncertain text portions, and pairs these with corresponding inscription images. The model’s transformer-based design enables it to capture both linguistic context and subtle visual cues, such as inscriptive style or stone type, thereby enhancing its predictive accuracy beyond traditional text-only analyses.\nNotably, the system confronts the challenge of editorial circularity, a phenomenon in which previous human restorations—especially the expansion of abbreviations and speculative text restorations—might inadvertently bias model training. While expansions were removed from the dataset to avoid outright replication of editorial interpolations, conjectured restorations marked by square brackets were retained to maximize the quantity of learning material. Trials showed that excluding these conjectures diminished model performance, indicating that including carefully curbed editorial input strikes a balance between dataset richness and bias mitigation.\nBeyond raw algorithmic prowess, Aeneas boasts a contextualization mechanism that retrieves historically and linguistically relevant parallel inscriptions, serving as a research assistant that extends beyond mere pattern matching. An extensive historian–AI evaluation involving 23 epigraphers validated this feature: participants found that Aeneas’s suggested parallels dramatically reduced the time taken to identify contextual analogues from days to mere minutes, facilitating more profound and nuanced historical interpretations. The experts reported significant increases in confidence—up to nearly 70%—when equipped with Aeneas’s parallels and predictive suggestions, underscoring its potential as a collaborative tool complementing expert judgment.\nHowever, Aeneas is not without constraints. Its effectiveness correlates strongly with the data density of specific regions and periods. For example, the model excels in attributing inscriptions from central Roman provinces such as Roma and Africa Proconsularis due to abundant high-quality data. Conversely, regions like Sicily and Sardinia, where inscriptions are sparse and data coverage is patchy, exhibit notably decreased attribution accuracy. Furthermore, the model’s ability to date inscriptions peaks around 200 CE, aligning with a historically prolific phase of Latin epigraphy and rich dataset representation, while earlier periods with scarcer and less precisely dated texts yield more ambiguous results.\nThe model’s multimodal approach also ushers in novel investigative avenues beyond textual analysis. Image saliency maps reveal that Aeneas leverages architectural and iconographic elements, such as altar shapes or carving techniques, to substantiate its geographical predictions. This capacity to incorporate visual context mimics expert epigraphers’ archaeological acumen, enabling the model to identify subtler markers of provenance that escape pure linguistic scrutiny. Such integrations hint at the transformative potential of combining AI with traditional epigraphic methodologies.\nOne illustrative case study involves an inscribed limestone altar dedicated to the Deae Aufaniae in Germania superior, dating to 211 CE. Aeneas accurately restores missing text fragments, assigns precise chronological dates within tight brackets, and situates the inscription geographically with remarkable precision. Moreover, through its parallel retrieval function, the model identifies related altars and formulaic expressions spanning contiguous Roman provinces, emulating and extending human scholarly insight. This exemplifies how Aeneas can uncover epigraphic networks and shared cultural practices previously obscured by fragmented or dispersed evidence.\nBeyond research, Aeneas is paving the way for educational innovation. Collaborations with educational institutions in Belgium have produced curricula integrating Aeneas as a pedagogical tool, enabling high school and university students to engage directly with ancient Latin inscriptions mediated by AI. This approach cultivates digital literacy alongside classical scholarship, aligned with contemporary frameworks such as the European Digital Competence Framework and UNESCO’s AI competency standards, fostering critical engagement with both AI technologies and historical sources.\nLooking ahead, the team behind Aeneas envisions enriching its capabilities via integration with large-scale dialogue models. Such enhancements could facilitate interactive research workflows, allowing historians to query the system dynamically and receive transparent, explainable insights. The researchers also highlight the need for improved methods to handle chronological uncertainty inherent in ancient data, advocating for evaluation metrics that accommodate variable date ranges rather than rigid point estimates.\nFundamental to the project’s ethos is an ethical commitment. Recognizing the risk of AI reinforcing biases or misclassifying sensitive historical contexts, the developers stress the indispensability of human oversight and caution against blind reliance on automated interpretations. Their interdisciplinary collaboration espouses responsible AI deployment, championing tools that augment rather than replace the nuanced judgment of humanities scholars, and emphasize inclusivity by highlighting epigraphy’s potential to illuminate marginalized voices in the ancient world.\nIn sum, Aeneas stands as a landmark achievement at the intersection of artificial intelligence and historical inquiry. Through sophisticated multimodal learning, expansive datasets, and human-centric evaluations, it charts a transformative path for epigraphy and ancient studies. By marrying the computational rigor of machine learning with the interpretive subtleties of scholarly expertise, Aeneas exemplifies how AI can deepen our dialogue with the past, unlocking the silent stories etched in stone through the ages.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Arts, Culture and Entertainment",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->history",
+    "Arts, Culture and Entertainment->visual arts",
+    "Arts, Culture and Entertainment->mass media",
+    "Arts, Culture and Entertainment->culture"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Aeneas",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-24T07:42:24.566+03:00",
+  "updated": "2025-07-24T07:47:16.000+03:00"
+}

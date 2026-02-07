@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "4999ad5c76c6032628fc382c00555fd533019d69",
+    "url": "https://wonderfulengineering.com/elon-musk-agrees-that-weve-exhausted-ai-training-data",
+    "site_full": "wonderfulengineering.com",
+    "site": "wonderfulengineering.com",
+    "site_section": "https://www.wonderfulengineering.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Wonderful Engineering - Engineering and Tech News",
+    "title": "Elon Musk Agrees That We've Exhausted AI Training Data",
+    "title_full": "Elon Musk Agrees That We've Exhausted AI Training Data",
+    "published": "2025-01-09T22:19:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 30364,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4999ad5c76c6032628fc382c00555fd533019d69",
+  "url": "https://wonderfulengineering.com/elon-musk-agrees-that-weve-exhausted-ai-training-data",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Shaheer Shahzad",
+  "published": "2025-01-09T22:19:00.000+02:00",
+  "title": "Elon Musk Agrees That We've Exhausted AI Training Data",
+  "text": "The growing consensus among AI experts that the data available for training AI models is now at its limit has been joined by Elon Musk. Musk said in a live-streamed conversation with Stagwell chairman Mark Penn on X that we’ve now ‘basically exhausted the cumulative sum of human knowledge … in AI training.’ “Last year that happened.”\nThe phenomenon was mirrored by insights from former OpenAI chief scientist Ilya Sutskever, who described it as ‘peak data’ at the NeurIPS conference in December and was echoed by Musk, founder of the AI company xAI. As the lack of new, untapped real world data forces a paradigm shift in AI model development, the industry is turning to synthetic data — data created by AI itself. Musk explained that the only way to supplement [real world data] is with synthetic data, where the AI creates [training data]. He also pointed out that AI could learn to grade its synthetic outputs.\nAlready, several tech giants like Microsoft, Meta, OpenAI, and Anthropic are using synthetic data to train advanced AI models. For example, Microsoft’s Phi-4 and Google’s Gemma models are trained on synthetic data. AI-generated data also helped Anthropic’s Claude 3.5 Sonnet and Meta’s Llama series.\nThe advantages of synthetic data include cost efficiency. Writer’s AI startup, Writer, built its Palmyra X 004 model almost entirely on synthetic data for $700,000, compared to $4.6 million for a similarly scaled OpenAI model. The approach, however, has its drawbacks. Synthetic data can cause ‘model collapse,’ where AI becomes less creative and more biased over time, research suggests. Synthetic data that is flawed can lead models trained on it to perpetuate and amplify these issues, rendering the models unreliable and ineffective. In the years to come, synthetic data will be a key challenge to navigate as AI evolves, to ensure balanced, innovative, and trustworthy systems.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Politics->civil rights",
+    "Politics->political development",
+    "Politics->government"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Ilya Sutskever",
+        "sentiment": "none"
+      },
+      {
+        "name": "Mark Penn",
+        "sentiment": "none"
+      },
+      {
+        "name": "Musk",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T07:15:21.614+02:00",
+  "updated": "2025-01-10T07:15:21.614+02:00"
+}

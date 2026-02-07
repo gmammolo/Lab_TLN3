@@ -1,0 +1,64 @@
+{
+  "thread": {
+    "uuid": "7f83b78807eed33a151e6f28d8e6f147f6c5dcc9",
+    "url": "https://communityhub.sage.com/ca/sage_50/f/soutien-technique/231254/synchronisation",
+    "site_full": "communityhub.sage.com",
+    "site": "sage.com",
+    "site_section": "https://www.sagecity.com/rss",
+    "site_categories": [],
+    "section_title": "",
+    "title": "Forum Post: RE: Synchronisation",
+    "title_full": "Forum Post: RE: Synchronisation",
+    "published": "2024-08-15T23:07:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3148,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "7f83b78807eed33a151e6f28d8e6f147f6c5dcc9",
+  "url": "https://communityhub.sage.com/ca/sage_50/f/soutien-technique/231254/synchronisation",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Erzsi_I",
+  "published": "2024-08-15T23:07:00.000+03:00",
+  "title": "Forum Post: RE: Synchronisation",
+  "text": "Pourquoi, le logiciel ne synchronise pas avec l'autre qui travaille sur le logiciel sur le même client.\nOn se retrouve avec des transaction ayant le même numéro ce qui provoque des gros problèmes.\nPourquoi, le logiciel ne synchronise pas avec l'autre qui travaille sur le logiciel sur le même client.\nOn se retrouve avec des transaction ayant le même numéro ce qui provoque des gros problèmes.\nBonjour\n[Claude Josee goudreault](/members/claude-josee-goudreault) ,\nMerci pour votre question. Voici quelques étapes qui pourraient vous aider :\nVérifiez la connexion réseau : Si vous travaillez sur un réseau local, assurez-vous que tous les postes sont correctement connectés au serveur où est hébergée la base de données Sage 50. Un problème de synchronisation peut survenir si un poste perd la connexion au serveur.\nMettez à jour les logiciels : Assurez-vous que toutes les instances de Sage 50 sont à jour avec la même version du logiciel pour éviter les conflits de données.\nVérifiez les paramètres de synchronisation : Si vous utilisez l'accès aux données à distance, assurez-vous que la synchronisation est correctement configurée. Consultez l'article suivant pour plus de détails :\nProblèmes de synchronisation des transactions.\nConflit de numéros de transaction : Si vous constatez des transactions avec le même numéro, il est possible que cela soit dû à une mauvaise synchronisation. Dans ce cas,\nvérifier l'intégrité de la base de données peut être une bonne étape.\nSi ces étapes ne résolvent pas le problème, veuillez nous en informer pour que nous puissions vous orienter vers des solutions plus spécifiques.\nJ'espère que cela vous aide !\nBien cordialement,\nErzsi\nSi cela vous aide, veuillez le marquer comme vérifié :)\nBonjour\n[Claude Josee goudreault](/members/claude-josee-goudreault) ,\nMerci pour votre question. Voici quelques étapes qui pourraient vous aider :\nVérifiez la connexion réseau : Si vous travaillez sur un réseau local, assurez-vous que tous les postes sont correctement connectés au serveur où est hébergée la base de données Sage 50. Un problème de synchronisation peut survenir si un poste perd la connexion au serveur.\nMettez à jour les logiciels : Assurez-vous que toutes les instances de Sage 50 sont à jour avec la même version du logiciel pour éviter les conflits de données.\nVérifiez les paramètres de synchronisation : Si vous utilisez l'accès aux données à distance, assurez-vous que la synchronisation est correctement configurée. Consultez l'article suivant pour plus de détails :\nProblèmes de synchronisation des transactions.\nConflit de numéros de transaction : Si vous constatez des transactions avec le même numéro, il est possible que cela soit dû à une mauvaise synchronisation. Dans ce cas,\nvérifier l'intégrité de la base de données peut être une bonne étape.\nSi ces étapes ne résolvent pas le problème, veuillez nous en informer pour que nous puissions vous orienter vers des solutions plus spécifiques.\nJ'espère que cela vous aide !\nBien cordialement,\nErzsi\nSi cela vous aide, veuillez le marquer comme vérifié :)\n*Community Hub is the new name for Sage City",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Business and Market Analysis",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T00:36:29.910+03:00",
+  "updated": "2024-08-16T00:36:29.910+03:00"
+}

@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "c8a4e6bdf89ae5ee2b62e2db203bffb4ba21a4c0",
+    "url": "https://ai.ettoday.net/news/3019554",
+    "site_full": "ai.ettoday.net",
+    "site": "ettoday.net",
+    "site_section": "https://ettoday.net/news/20231215/2643878.htm?from=rss",
+    "site_categories": [
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "高雄員警性侵按摩女　賠百萬和解金仍遭撤職 | ETtoday社會新聞 | ETtoday新聞雲",
+    "site_title": "ETtoday AI科技｜掌握AI科技與3C新知｜ETtoday新聞雲",
+    "title": "數十萬筆Grok對話遭外流　敏感內容Google一搜全現形",
+    "title_full": "數十萬筆Grok對話遭外流　敏感內容Google一搜全現形",
+    "published": "2025-08-21T10:44:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://cdn2.ettoday.net/images/8296/e8296586.jpg",
+    "performance_score": 0,
+    "domain_rank": 8489,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c8a4e6bdf89ae5ee2b62e2db203bffb4ba21a4c0",
+  "url": "https://ai.ettoday.net/news/3019554",
+  "ord_in_thread": 0,
+  "author": "ETtoday AI科技",
+  "published": "2025-08-21T10:44:00.000+03:00",
+  "title": "數十萬筆Grok對話遭外流　敏感內容Google一搜全現形",
+  "text": "▲xAI創辦人馬斯克。（圖／路透）\n記者吳立言／綜合報導\n據《Forbes》報導，馬斯克創辦的xAI旗下聊天機器人Grok，用戶透過「分享」功能生成的對話網址，遭Google、Bing等搜尋引擎收錄，導致數十萬筆聊天紀錄可被直接檢索。\n報導指出，當用戶在Grok介面點擊「分享」，系統會產生一組獨立網址，用於寄送郵件或張貼社群。但這些網址屬公開頁面，現已被搜尋引擎自動索引。結果是，任何人僅需輸入關鍵字，即能找到原本屬於私人對話的內容。\n被收錄的對話涵蓋範圍廣泛，部分涉及敏感甚至違法議題，包括製作毒品、炸彈教學與自殺方法，甚至傳出包含針對馬斯克的暗殺計畫。雖然xAI規範明訂不得利用Grok生成涉及大規模殺傷性武器、化學或生物危害的內容，但仍有用戶利用分享機制讓相關紀錄浮上檯面。\n此情況引發外界高度關注。因為這並非首例，稍早OpenAI的ChatGPT也曾因分享連結被索引，導致聊天紀錄短暫出現在Google搜尋結果。當時OpenAI將其解釋為「短期實驗」，並隨即停止該功能。\n對於這波Grok對話外流事件，xAI目前尚未正式回應。外界也持續追問，xAI何時開始允許搜尋引擎收錄對話分享頁，並將如何處理後續隱私與資安疑慮。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+    "https://forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations/",
+    "https://www.forbes.com/sites/iainmartin/2025/08/20/elon-musks-xai-published-hundreds-of-thousands-of-grok-chatbot-conversations"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:09:33.579+03:00",
+  "updated": "2025-08-22T12:09:32.000+03:00"
+}

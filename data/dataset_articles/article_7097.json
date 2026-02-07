@@ -1,0 +1,137 @@
+{
+  "thread": {
+    "uuid": "d45e2f1fb06dc71117cf11538c3b1b0ad17d7148",
+    "url": "https://www.waz.de/panorama/article410867076/winter-wetter-news-aktuell-live-europa-deutschland-verkehr-vorhersage.html",
+    "site_full": "www.waz.de",
+    "site": "waz.de",
+    "site_section": "https://press24.net/time",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news",
+      "arts, culture and entertainment",
+      "lifestyle and leisure",
+      "crime, law and justice",
+      "economy, business and finance",
+      "disaster and accident",
+      "politics",
+      "sport"
+    ],
+    "section_title": "Letzte Nachrichten - Press24.net",
+    "site_title": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "title": "Winter-Chaos: Krankenhäuser melden Anstieg der Patientenzahlen",
+    "title_full": "Winter-Chaos: Krankenhäuser melden Anstieg der Patientenzahlen",
+    "published": "2026-01-08T07:43:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 15294,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d45e2f1fb06dc71117cf11538c3b1b0ad17d7148",
+  "url": "https://www.waz.de/panorama/article410867076/winter-wetter-news-aktuell-live-europa-deutschland-verkehr-vorhersage.html",
+  "ord_in_thread": 0,
+  "author": "FUNKE Mediengruppe",
+  "published": "2026-01-08T07:43:00.000+02:00",
+  "title": "Winter-Chaos: Krankenhäuser melden Anstieg der Patientenzahlen",
+  "text": "Zunehmende Belastung in den Krankenhäusern und teils lahmgelegter Zugverkehr in den Niederlanden – der Winter hat Europa fest im Griff. Auch in weiten Teilen Deutschlands sorgt das Wetter für glatte Straßen und reichlich Schnee.\nWir berichten im Blog live über das Winter-Wetter in Deutschland und Europa.\nfmg mit dpa/afp/kna/epd",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena",
+    "Disaster and Accident->emergency response"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Niederlanden",
+        "sentiment": "none"
+      },
+      {
+        "name": "Deutschlands",
+        "sentiment": "none"
+      },
+      {
+        "name": "Europa",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dpa",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "DPA",
+            "exchange": "LON"
+          }
+        ]
+      },
+      {
+        "name": "afp",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "AFP",
+            "exchange": "ASX"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T07:50:12.488+02:00",
+  "updated": "2026-01-09T08:08:15.000+02:00"
+}

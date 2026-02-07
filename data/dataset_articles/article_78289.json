@@ -1,0 +1,113 @@
+{
+  "thread": {
+    "uuid": "903cce4cfc8f5ba27af59eebbbc0f2fae685efcf",
+    "url": "https://informationsecuritybuzz.com/russian-espionage-group-exploits-old-cisco-flaw-to-target-critical-infrastructure/",
+    "site_full": "informationsecuritybuzz.com",
+    "site": "informationsecuritybuzz.com",
+    "site_section": "https://informationsecuritybuzz.com/feed",
+    "site_categories": [],
+    "section_title": "Information Security Buzz",
+    "site_title": "Information Security Buzz",
+    "title": "Russian Espionage Group Exploits Old Cisco Flaw to Target Critical Infrastructure",
+    "title_full": "Russian Espionage Group Exploits Old Cisco Flaw to Target Critical Infrastructure",
+    "published": "2025-08-21T10:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://informationsecuritybuzz.com/wp-content/uploads/Russian-Espionage-Cisco-Flaw.jpg",
+    "performance_score": 0,
+    "domain_rank": 108866,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "903cce4cfc8f5ba27af59eebbbc0f2fae685efcf",
+  "url": "https://informationsecuritybuzz.com/russian-espionage-group-exploits-old-cisco-flaw-to-target-critical-infrastructure/",
+  "ord_in_thread": 0,
+  "author": "Kirsten Doyle",
+  "published": "2025-08-21T10:11:00.000+03:00",
+  "title": "Russian Espionage Group Exploits Old Cisco Flaw to Target Critical Infrastructure",
+  "text": "The FBI and Cisco Talos have issued fresh warnings about a Russian cyber espionage campaign that has quietly compromised network devices around the world. The threat actor, tracked as Static Tundra, is linked to the Federal Security Service’s (FSB) Center 16 unit and has been active for more than a decade.\nAt the heart of its operations is an old weakness. Static Tundra continues to exploit CVE-2018-0171, a seven-year-old vulnerability in Cisco’s Smart Install feature. Cisco patched the flaw in 2018. Yet unpatched and end-of-life devices remain exposed. They are still being targeted.\nCisco Talos describes Static Tundra as “a Russian state-sponsored cyber espionage group specializing in network device exploitation to support long-term intrusion campaigns.”\nNotable Persistence\nThe group’s persistence is notable. Using custom tooling, legacy protocols, and implants like the infamous SYNful Knock, it can remain inside target networks for years without detection.\nThe FBI’s latest alert says: “The FBI detected Russian FSB cyber actors exploiting Simple Network Management Protocol (SNMP) and end-of-life networking devices running an unpatched vulnerability (CVE-2018-0171) in Cisco Smart Install (SMI) to broadly target entities in the United States and globally.”\nThe campaign is widespread. Victims include telecommunications, higher education, and manufacturing sectors across North America, Europe, Africa, and Asia. Static Tundra also escalated operations against Ukraine at the onset of the war, expanding into multiple verticals. Cisco notes that the group adapts to Russia’s shifting strategic priorities.\nPersistence is achieved in several ways. Compromised SNMP community strings. Modified configurations. Privileged local accounts. Implants that survive reboots. In some cases, traffic of interest is redirected through GRE tunnels for later analysis. The goal is intelligence gathering. Slow, methodical, long-term espionage.\nThe FBI warns that the FSB actors “collected configuration files for thousands of networking devices associated with US entities across critical infrastructure sectors. On some vulnerable devices, the actors modified configuration files to enable unauthorized access.” That access allowed reconnaissance into protocols and applications tied to industrial control systems.\nThe overlap between Static Tundra and earlier clusters like Energetic Bear and Dragonfly is clear. Cisco assesses with “high confidence” that the group is tied to FSB Center 16. The FBI confirms the same unit “has compromised networking devices globally, particularly devices accepting legacy unencrypted protocols like SMI and SNMP versions 1 and 2.”\nThe advice has not changed. Patch aggressively. Replace what cannot be patched. Disable Smart Install. Harden configurations. Encrypt management traffic. Avoid default or weak credentials. Monitor for unusual changes in logs, configs, or traffic flows. Cisco Talos researchers warns: “Threat actors will continue to abuse devices which remain unpatched and have Smart Install enabled.”\nThe FBI directs organizations to evaluate routers and other networking devices for any signs of tampering before filing reports through the Internet Crime Complaint Center. Cisco Talos has also published detection guides and scripts to help identify compromised devices, including those carrying the SYNful Knock implant.\nThis is not just a Russian problem. Other state-sponsored groups are pursuing the same access. Old network devices are attractive targets: often forgotten, rarely patched, and yet critical to enterprise and industrial operations.\nThe threat has been well understood for years. The warnings have been clear. Now the evidence is mounting again.\nReducing the Attack Surface\nErnest Lefner, Chief Product Officer at Gluware says the Static Tundra campaign highlights a simple truth: the most effective defense against state-sponsored exploitation of aging, unpatched devices is not a single patch or product—it’s disciplined lifecycle and vulnerability management. “Organizations that continue to run end-of-life infrastructure are leaving doors open that sophisticated adversaries are eager to walk through.”\nAutomation is the key to closing those doors at scale, Lefner adds. “Enterprise capable automation enables IT teams to continuously assess device posture, automate patch deployment, and enforce lifecycle policies across complex, multi-vendor networks. Instead of waiting for the next CVE to make headlines, automated lifecycle management ensures that unsupported devices are flagged and phased out before they become liabilities, and vulnerabilities are remediated as part of a repeatable, policy-driven process.”\nHe offers advice to CIOs: operationalizing lifecycle and vulnerability management through automation not only reduces attack surface but also shifts security posture from reactive to proactive. “It’s a strategic investment that keeps the business resilient, compliant, and out of harm’s way.”\nA Seven-Year-Old Vulnerability\nEnd of life devices are often removed from core observation, especially when tied to sunsetting applications and services, adds Trey Ford, Chief Strategy and Trust Officer at Bugcrowd.\n“Vulnerability management SLAs must apply to the company’s entire attack surface – this FBI Alert underscores the importance of both maintaining a current inventory (knowing what’s available to attackers), and how important continued vigilance of patching currency and configuration management remains until the devices is taken offline.”\nFord says the impacted CVE (CVE-2018-0171) is a high-scoring RCE exploit. ”While some environments (like manufacturing, telecommunications, and other critical infrastructure) may face production delays for planned patching cycles, seeing a seven-year delay for this kind of vulnerability to be widely exploited is a bit surprising.”\nThe Extraordinary Longevity of Unpatched Flaws\nThe Static Tundra campaign has been systematically exploiting CVE-2018-0171, comments Mayuresh Dani, Security Research Manager at Qualys. “It is a seven-year-old critical vulnerability in Cisco’s Smart Install (SMI) feature that allows unauthenticated, remote threat actors to execute arbitrary code on affected devices.”\nThis campaign cements recent threat research that 40% of vulnerabilities exploited by threat actors in 2024 were from 2020 or earlier, with 10% dating back to 2016 or earlier, Dani adds.\n“Some exploited vulnerabilities even date back to the 1990s, demonstrating the extraordinary longevity of unpatched security flaws! Since these devices are out of support, they no longer receive security updates, leaving newly discovered vulnerabilities permanently unaddressed. This creates persistent attack vectors that threat actors can exploit indefinitely. Moreover, legacy systems are often harder to monitor and secure, making it difficult to inventory and detect compromises.”\nDani advises customers to:\n- Maintain inventories of network infrastructure, including identification of devices approaching or at end-of-life status. Create a replacement roadmap for devices approaching or at EOL.\n- Prioritize vulnerabilities affecting internet-facing devices or critical infrastructure devices.\n- Periodically review important settings and disable remote management completely.\n- Disable the use of legacy SMI protocols and other legacy, unsecure protocols such as SNMP v1/v2.\nInformation Security Buzz News Editor\nKirsten Doyle has been in the technology journalism and editing space for nearly 24 years, during which time she has developed a great love for all aspects of technology, as well as words themselves. Her experience spans B2B tech, with a lot of focus on cybersecurity, cloud, enterprise, digital transformation, and data centre. Her specialties are in news, thought leadership, features, white papers, and PR writing, and she is an experienced editor for both print and online publications.\nThe opinions expressed in this post belong to the individual contributors and do not necessarily reflect the views of Information Security Buzz.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "War, Conflict and Unrest"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "War, Conflict and Unrest->cyber warfare"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ic3.gov/PSA/2025/PSA250820",
+    "https://blog.talosintelligence.com/static-tundra/",
+    "https://blog.talosintelligence.com/static-tundra",
+    "https://ic3.gov/PSA/2025/PSA250820",
+    "https://www.blog.talosintelligence.com/static-tundra/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Cisco Talos",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "FBI",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "903cce4cfc8f5ba27af59eebbbc0f2fae685efcf",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:04:11.650+03:00",
+  "updated": "2025-08-21T12:11:33.000+03:00"
+}

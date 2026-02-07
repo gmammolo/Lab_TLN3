@@ -1,0 +1,78 @@
+{
+  "thread": {
+    "uuid": "73b880700fdcfc61b33a9b994ae0aca495e181da",
+    "url": "https://hznews.hangzhou.com.cn/jingji/content/2025-04/03/content_8966000.htm",
+    "site_full": "hznews.hangzhou.com.cn",
+    "site": "hangzhou.com.cn",
+    "site_section": "https://hznews.hangzhou.com.cn",
+    "site_categories": [
+      "social"
+    ],
+    "section_title": "杭州新闻中心-杭州网",
+    "site_title": null,
+    "title": "杭州科技企业为何集体押注大模型开源？",
+    "title_full": "杭州科技企业为何集体押注大模型开源？",
+    "published": "2025-04-03T01:49:25.514+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 17485,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "73b880700fdcfc61b33a9b994ae0aca495e181da",
+  "url": "https://hznews.hangzhou.com.cn/jingji/content/2025-04/03/content_8966000.htm",
+  "ord_in_thread": 0,
+  "author": "汪浩",
+  "published": "2025-04-03T01:49:25.514+03:00",
+  "title": "杭州科技企业为何集体押注大模型开源？",
+  "text": "首页/\n城市/\n新政/\n经济/\n社会/\n文化/\n体育+/\n科教卫\n霸榜全球开源模型前三\n杭州日报讯 4月2日，全球AI开源圈炸锅了——杭州的3个大模型直接包揽Hugging Face榜单前三！阿里通义千问Qwen2.5-Omni凭“能看能听能说”的全模态能力登顶全球开源模型榜首，深度求索DeepSeek的V3-0324在代码生成上碾压GPT-4.5，群核科技的SpatialLM把三维空间认知玩出了花。\n如今，杭州已经成了全球范围内少有的，同时拥有3个世界顶级开源模型的城市。在达摩院首席科学家赵德丽看来，大模型开源是杭州从这一轮AI技术变革浪潮中脱颖而出的关键，“3年时间，杭州用别人几乎十分之一的算力成本，跑出了10倍的模型迭代速度。”\n技术突破与生态构建双轮驱动\n在近期的开源大模型领域，DeepSeek和通义千问Qwen表现尤为突出。DeepSeek推出的DeepSeek-V3-0324在3月26日凌晨进行了迭代更新，带来了推理能力、代码生成、中文写作和搜索能力的显著提升。官方报告显示，该模型不仅全面超越了Claude-3.7-Sonnet和Qwen-Max等优质模型，还在数学和代码类评测集上胜过了GPT-4.5。经过测试，其代码能力超过了DeepSeek-R1。\n阿里巴巴在其后24小时内开源了其首个端到端全模态大模型通义千问Qwen2.5-Omni-7B。这个模型能够同时处理文本、图像、音频和视频等多种输入，并实时生成文本和自然语音合成输出。用户可以像打电话或视频通话一样与通义千问Qwen聊天，甚至能识别音视频中人物的情绪。在复杂任务中，通义千问Qwen2.5-Omni-7B能提供更智能、更自然的反馈与决策。在权威的多模态融合任务OmniBench等测评中，通义千问Qwen2.5-Omni-7B刷新了业界纪录，全维度超越了Google的Gemini-1.5-Pro等同类模型，从开源到登上榜单第一仅用了不到一周时间。\n相比之下，SpatialLM是一个相对较新的模型。它来自因“杭州六小龙”而声名鹊起的群核科技。尽管在大模型领域资历尚浅，但SpatialLM从发布、开源到登上榜单只用了不到10天的时间。\n硬核实力与接地气智慧的结合\n杭州搞开源，背后是实打实的硬核实力与接地气的智慧。\n在算力层面，杭州走的是“农村包围城市”的路线。阿里巴巴豪掷3800亿元人民币用于AI基础设施建设，通过领先的云计算技术，进一步榨干GPU集群的性能，大幅提升算力效率。深度求索则以“四两拨千斤”的巧劲，用十分之一的算力实现了超越GPT-4.5的性能，就像别人开着豪车堵在路上，而它骑着共享单车却率先抵达终点。\n在场景应用上，杭州玩的是“田忌赛马”的策略。通义千问Qwen在直播间帮商家写段子、SpatialLM给机器人装上“空间定位仪”，有鹿机器人直接用通义千问Qwen-7B给扫地机器人装上“最强大脑”。这些看似“土味”的应用，却让模型在实际运用中越练越强，数据反馈越积越厚，形成了技术迭代的良性循环。\n杭州的开源文化更带着股“江湖豪气”。魔搭社区广纳了4万多个模型，谁都能下、谁都能改。阿里云是国内最早开源自研大模型的大厂，也是全球唯一全方位开源的云计算厂商。自2023年8月以来，通义千问累计开源200余个模型，Qwen系列的全球下载量突破2亿，衍生模型数量突破10万个，超越Meta的Llama系列，成为世界最大的生成式语言模型族群。这种“你开源，我共建”的模式，不仅让技术普惠成为现实，更让杭州在全球AI开源生态中稳稳占据了C位。\n杭州改写了全球AI的游戏规则\n如今，杭州的开源“打法”，正在彻底改写全球AI游戏规则。它不仅让高高在上的技术变得触手可及，还让整个产业生态发生了翻天覆地的变化。\n首先是“降维打击式普惠”，让技术门槛直接“坍塌”。印度程序员用DeepSeek-R1开发医疗影像诊断工具；非洲创业者用它构建本土语言助手；越南的开发者用通义千问模型开发出最优的越南语大模型，甚至连孟加拉国的小团队都能基于通义千问模型开发出本地化的教育应用。\n其次是“产业洗牌式重构”。传统软件公司不再靠堆人头搞开发，阿里云的智能体生态让“调用AI的效率”直接影响了企业竞争力。通义千问在全球开源社区有10万余个衍生模型，涉及各种应用场景和领域，让企业有更好的基础模型进行业务再创新。\n最后是“跨国抱团式创新”。杭州的开源生态让全球技术合作变得比竞争还热闹。例如，苹果与阿里合作，将提供更懂中国用户需求的AI功能和服务；DeepSeek蒸馏了4个通义千问小尺寸模型，将R1的能力迁移到小模型上与开源社区共享。这种技术协作不仅加速了模型迭代，还让全球开发者共同受益。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->biotechnology",
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T01:49:25.514+03:00",
+  "updated": "2025-04-03T01:49:25.514+03:00"
+}

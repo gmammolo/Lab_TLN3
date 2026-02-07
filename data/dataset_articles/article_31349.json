@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "cf70581d4a74415b452a116c6f0c842dba45308e",
+    "url": "https://cybersecuritynews.com/new-nailaolocker-ransomware",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://golf.einnews.com/live_feed",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "New NailaoLocker Ransomware Attacking European Healthcare",
+    "title_full": "New NailaoLocker Ransomware Attacking European Healthcare",
+    "published": "2025-02-20T22:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrUswIpkU8vtTQ_OenBcWSSfnaX0GaG5Km5Fj8OCih3HFVV7smKk0o0IQ227DTxaDiNdfCLHlWJ_XRg6nF5w9aUmkvdv2LAw2Y4Ya44PWcXMkCfLh-tKAqizU9PUYIc8UUqR-Z3zoMnOm3jdzKZI2NuEL4R_0xLHqXV4lYIlpvUJ-iKJUNXl9YYmSGVDc/s16000/New%20NailaoLocker%20Ransomware%20Attacking%20European%20Healthcare.webp",
+    "performance_score": 0,
+    "domain_rank": 47328,
+    "domain_rank_updated": "2025-02-17T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cf70581d4a74415b452a116c6f0c842dba45308e",
+  "url": "https://cybersecuritynews.com/new-nailaolocker-ransomware",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tushar Subhra Dutta",
+  "published": "2025-02-20T22:11:00.000+02:00",
+  "title": "New NailaoLocker Ransomware Attacking European Healthcare",
+  "text": "European healthcare organizations are facing a sophisticated cyber threat from a newly identified ransomware strain called NailaoLocker, deployed as part of a campaign tracked as Green Nailao by Orange Cyberdefense CERT.\nThe attacks, first detected between June and October 2024, exploit vulnerabilities in Check Point VPN appliances and leverage advanced backdoors like ShadowPad and PlugX to infiltrate networks.\nThe campaign combines cyberespionage tools with ransomware payloads.\nWhile researchers at Orange Cyberdefense detected that this combination create a hybrid threat which threaten both data security and operational continuity in critical healthcare infrastructure.\nTechnical Mechanism and Attack Workflow The Green Nailao campaign begins with attackers exploiting CVE-2024-24919, a critical vulnerability in Check Point Security Gateways enabling unauthorized access to VPN credentials.\nOnce inside, threat actors conduct lateral movement via RDP and deploy a three-stage execution chain involving legitimate binaries, malicious DLLs, and encrypted payloads.\nA key component is the NailaoLoader, a DLL sideloaded via legitimate executables like usysdiag.exe (signed by Beijing Huorong Network Technology).\nThe loader decrypts the ransomware payload ( usysdiag.exe.dat ) using a custom algorithm:-\ndecrypted_byte = ((encrypted_byte + 0x4B) ^ 0x3F) - 0x4B\nThis routine, observed across multiple samples, removes the .dat file after decryption to hinder forensic analysis.\nThe decrypted NailaoLocker executable then creates a mutex ( Global\\lockv7 ) to ensure singular execution and begins encrypting files using AES-256-CTR, appending the .locked extension.\nNailaoLocker Execution Flow (Source – Orange Cyberdefense) Unlike sophisticated ransomware strains, NailaoLocker exhibits operational shortcomings: it ignores network shares, fails to terminate processes locking files, and leaves diagnostic logs in %ALLUSERPROFILE%\\unlock_please_view_this_file_ .\nThese logs inadvertently aid incident responders in identifying encryption failures.\nThe ransomware drops a ransom note directing victims to contact a ProtonMail address and demands payment in Bitcoin.\nRansom note example left by NailaoLocker (Source – Orange Cyberdefense) Infrastructure analysis reveals spoofed TLS certificates mimicking Intel and Dell, with C2 servers hosted on VULTR. Notably, the campaign uses compromised IoT devices in Sweden and Proton VPN exit nodes for anonymization.\nThe Green Nailao campaign bears hallmarks of Chinese cyberespionage groups, particularly through its use of ShadowPad, a backdoor predominantly linked to China-nexus APTs.\nForensic overlaps with clusters like BRONZE UNIVERSITY and Cluster Alpha (noted by Sophos in 2023) further reinforce this attribution. However, the addition of ransomware introduces atypical objectives.\nAnalysts hypothesize the ransomware may serve dual purposes: masking data exfiltration or funding broader espionage activities. Notably, the attackers accessed Active Directory’s ntds.dit database, suggesting intent to harvest credentials for future operations.\nThis aligns with historical patterns of Chinese APTs targeting healthcare sectors for geopolitical intelligence.\nOrganizations are urged to patch Check Point appliances immediately and monitor for DLL sideloading patterns.\nOrange Cyberdefense recommends implementing behavioral detection for AES-256-CTR encryption processes and blocking TLS certificates mismatching legitimate corporate issuers.\nFor healthcare entities, enforcing Zero Trust architectures and segmenting critical systems remain vital to mitigating cascading impacts.\nFree Webinar: Better SOC with Interactive Malware Sandbox for Incident Response and Threat Hunting – Register Here",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Health",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Health->health organisation",
+    "Science and Technology->medical research",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.orangecyberdefense.com/global/blog/cert-news/meet-nailaolocker-a-ransomware-distributed-in-europe-by-shadowpad-and-plugx-backdoors",
+    "https://anyrun.webinargeek.com/better-soc-with-interactive-malware-sandbox-practical-use-cases?cst=csn",
+    "https://anyrun.webinargeek.com/better-soc-with-interactive-malware-sandbox-practical-use-cases",
+    "https://orangecyberdefense.com/global/blog/cert-news/meet-nailaolocker-a-ransomware-distributed-in-europe-by-shadowpad-and-plugx-backdoors",
+    "https://www.anyrun.webinargeek.com/better-soc-with-interactive-malware-sandbox-practical-use-cases?cst=csn"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Orange Cyberdefense",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "cf70581d4a74415b452a116c6f0c842dba45308e",
+    "first_syndicated": true
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-21T00:59:36.687+02:00",
+  "updated": "2025-02-21T02:10:12.993+02:00"
+}

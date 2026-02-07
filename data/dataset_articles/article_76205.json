@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "99f07fd71bb595c2796de04f5e18539803b9fede",
+    "url": "https://lemmy.ml/post/24620622",
+    "site_full": "lemmy.ml",
+    "site": "lemmy.ml",
+    "site_section": "https://lemmy.ml/feeds/local.xml?sort=Active",
+    "site_categories": [],
+    "section_title": "Lemmy - Local",
+    "title": "Hi everyone! How are you all doing tonight? I just had a frustrating experience trying to set up a free #domain or #subdomain for my #SelfHosted services. Unfortunately, I can't use my",
+    "title_full": "Hi everyone! How are you all doing tonight? I just had a frustrating experience trying to set up a free #domain or #subdomain for my #SelfHosted services. Unfortunately, I can't use my",
+    "published": "2025-01-10T06:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MX",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 51725,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "99f07fd71bb595c2796de04f5e18539803b9fede",
+  "url": "https://lemmy.ml/post/24620622",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "https://caneandable.social/users/RareBird15",
+  "published": "2025-01-10T06:11:00.000+02:00",
+  "title": "Hi everyone! How are you all doing tonight? I just had a frustrating experience trying to set up a free #domain or #subdomain for my #SelfHosted services. Unfortunately, I can't use my",
+  "text": "Hi everyone! How are you all doing tonight? I just had a frustrating experience trying to set up a free #domain or #subdomain for my #SelfHosted services. Unfortunately, I can’t use my laniecarmelo.tech domain because its current configuration doesn’t allow me to add subdomains.\nI discovered EU.org, which offers free domains, and decided to give it a try. However, they require you to have authoritative #DNS #nameservers before requesting a domain. I tried using #Cloudflare, but it wasn’t authoritative. Then I looked into Hostry.com, Hurricane Electric DNS, and FreeDNS.\nHostry requires you to add DNS records for your domain before using their service—but how can I do that when my domain doesn’t exist yet? 🤦♀️ As for FreeDNS and Hurricane Electric, both have inaccessible #CAPTCHAs on their registration forms with no audio alternatives! 😡\nAt this point, I’m so frustrated that I’ve decided to take a break from figuring this out. If anyone has tips for setting up a free domain or knows of accessible DNS services, I’d really appreciate your advice! 🙏\n#Accessibility #TechFrustration #WebHosting #BlindTech #blind #DisabilityInTech #tech #Technology #SelfHosting\n@selfhost @selfhosting @selfhosted @mastoblind @main\nlog in or registerto comment.\n@RareBird15@selfhost@selfhosting@selfhosted@mastoblind@mainAlso, having to add NS entries before registering the domain is the usual way. Most registrars even check that on registration, I’d say\n@RareBird15@selfhost@selfhosting@selfhosted@mastoblind@main\nI’m assuming by “current configuration” you have a DNS host that doesn’t allow adding NS records? One thing you might be able to do is create records like:host1.subdomain.laniecarmelo.tech A 1.2.3.4\nhost2.subdomain.laniecarmelo.tech A 1.2.3.5In my DNS host I can create a host1.subdomain A record without creating an actual subdomain (e.g. creating a subdomain.laniecarmelo.tech NS record).\n@virtuous_sloth@selfhost@selfhosting@selfhosted@mastoblind@mainNo, my situation is weird. My domain is hosted onPorkbun.combut its nameservers point toVultr.com, where my WordPress install is hosted on a friend’s server. Porkbun won’t let me edit DNS records or do much of anything with my domain unless I change back to the default nameservers, which would break my WordPress setup.@RareBird15@selfhost@selfhosting@selfhosted@mastoblind@main\nah, gotcha. I do hope that you find a solution.\nThis seems overly complicated. Why not just get a domain on cloud flare for $10? Are free domains even a thing outside github pages\niirc, cloudflare domains are literally at cost.\nI’ve only hosted public sites for a year or so but cloudflare, cloudflare proxy, pointing at my servers is very easy :)\n.coms are the cheapest at 10.44 I think",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Social Issue->communities",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": true,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Hurricane Electric",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T08:42:36.840+02:00",
+  "updated": "2025-01-10T08:42:36.840+02:00"
+}

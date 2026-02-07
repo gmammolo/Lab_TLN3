@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "2658c73d5c07cc7e42257a658864cf36fbbe39ac",
+    "url": "https://www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations",
+    "site_full": "www.theregister.com",
+    "site": "theregister.com",
+    "site_section": "https://www.theregister.com/headlines.atom",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "The Register",
+    "title": "Microsoft Power Pages misconfigs exposing sensitive data • The Register",
+    "title_full": "Microsoft Power Pages misconfigs exposing sensitive data • The Register",
+    "published": "2024-11-15T08:32:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://regmedia.co.uk/2021/06/21/shutterstock_cloud_security.jpg",
+    "performance_score": 0,
+    "domain_rank": 694,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2658c73d5c07cc7e42257a658864cf36fbbe39ac",
+  "url": "https://www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jessica Lyons",
+  "published": "2024-11-15T08:32:00.000+02:00",
+  "title": "Microsoft Power Pages misconfigs exposing sensitive data • The Register",
+  "text": "Private businesses and public-sector organizations are unwittingly exposing millions of people's sensitive information to the public internet because they misconfigure Microsoft’s Power Pages website creation program.\nSo says Aaron Costello, chief of SaaS security research at security-for- SaaS vendor AppOmni, who uncovered the issue in September.\nIn a post published Thursday, Costello details how he uncovered \"significant amounts of data\" – both internal org files and personal identifiable information (PII) – left out in the open for anyone to take a look at thanks to misconfigured access controls in websites built using Power Pages.\nIt's a big deal because more than 250 million users use Power Pages – a Microsoft website design service - each month.\n\"In one case, a large shared business service provider for the [UK National Health Service] NHS was leaking the information of over 1.1 million NHS employees, with large portions of the data including email addresses, telephone numbers, and even home addresses of the employees,\" he wrote.\nThat leak has been plugged and the employees' details are no longer exposed.\nWhen asked about other organizations' leaking data, Costello declined to name names. \"Several million records of sensitive data were found exposed to the public internet from authorized testing alone, and both private organizations and government entities are known to be affected, including those in technology, health, and finance,\" he told The Register .\n\"It's clear that organizations need to prioritize security when managing external-facing websites, and balance ease of use with security in SaaS platforms – these are the applications holding the bulk of confidential corporate data today, and attackers are targeting them as a way in to enterprise networks,\" Costello added.\nPower Pages is a low-code, software-as-a-service platform that makes it easy for organizations to build external-facing websites on Microsoft infrastructure. The tool includes preconfigured role-based access controls and three out-of-the-box roles that may not be deleted or deactivated.\nTwo of these roles are especially important to exploit this security oversight: \"anonymous users,\" which represents everyone who has not authenticated to the site, and \"authenticated users\" - anyone logged into the site.\nThe latter is relevant because many organizations allow anyone to register for an account on a website created using Power Pages. Those who register become an \"authenticated user,\" with the elevated permissions that come with that role.\nThe problem is that many companies treat the \"authenticated user\" role as belonging to someone inside the organization and grant permissions accordingly – even for outsiders who register for their websites.\n\"This is of key significance … as organizations are far more likely to grant excessive permissions to a role that they believe is internal in nature,\" Costello wrote. In other words, Power Pages users who allow public registration, need to treat \"authenticated users\" just as if they were an \"anonymous user\" outside the organization.\nFiddly access controls are hard to nail Power Pages also uses a layered approach to access controls. If you think about its four layers as a pyramid, then the bottom – foundation level –is the site-level access controls, which control site authentication settings and determine which tables and columns in the database are accessible through the public web API. Any of those database resources marked as Web API accessible are at risk of being leaked to unauthorized viewers.\nThe next level up on the Power Pages management security pyramid is a Table Permissions section, and this is where the site administrator defines:\nTable – The name of the table to which access is granted; Role(s) – The roles to which this access is granted; Permission To – The CRUD operations that an authorized user may perform, which include \"read,\" \"update,\" \"append,\" \"append to,\" \"create,\" and \"delete\" data; Access Type – A list of options from which only one may be selected, which determines which records a user can access from the table. \"Nearly all\" of the data leaks that Costello said he's spotted are due to overly permissive table access control definitions. For instance, he's seen sites where public registration is enabled and the access type is set to \"global access\" – which, as the name the suggests, grants access to all rows within a table.\nThousands of orgs at risk of knowledge base data leaks via ServiceNow misconfigurations Microsoft slips Task Manager and processor count fixes into Patch Tuesday Admins can give thanks this November for dollops of Microsoft patches Fortinet patches VPN app flaw that could give rogue users, malware a privilege boost After the table permissions are determined, Power Pages applies any column access controls as another layer of security. This uses data masking to protect sensitive information and allows customers to obfuscate certain columns that match a regex pattern from users without the correct roles.\nThat arrangement could see an organization could use masking to prevent an unauthenticated user from seeing a column that stores people's home addresses.\nHowever, setting up these masking rules is a complex, lengthy process. Because of this, many orgs simply skip it. \"Throughout the entirety of my testing, not a single implementation of column-level security was present to prevent access to sensitive columns,\" Costello noted.\nThe primary types of misconfiguration noted by Costello were: Exposing too many or even all columns to the Web API; Allowing open registration and external authentication (that is, giving authenticated users elevated access when they may actually be anonymous); Granting global access for anonymous users; and not enabling column security.\nHe also provides a proof-of-concept (POC) of how these misconfigured access controls could be exploited to access sensitive information – but adds that a proxy tool such as Burp Suite is required to exploit Power Page’s problems.\nBurp Suite sits between the user's browser and the website being probed, intercepting HTTP requests and allowing the user to modify them. In this case, it allowed Costello – posing as a would-be attacker – to capture and modify a request, identify exposed tables, and find columns containing sensitive data.\nMicrosoft does alert users via banners and other warnings when it detects potentially dangerous configurations, such as those exposing data to the public internet. Still, \"the most effective way to resolve this issue in its entirety is to remove excessive levels of access to external users,\" Costello wrote.\nThe Register sought comment from Microsoft and had not received a response at the time of publication. ®\nGet our Tech Resources",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://www.microsoft.com/en-us/power-platform/blog/power-pages/microsoft-power-pages-is-bringing-the-new-standard-in-secure-ai-powered-capabilities/",
+    "https://learn.microsoft.com/en-us/power-platform/admin/security-roles-privileges",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://learn.microsoft.com/en-us/power-pages/security/table-permissions",
+    "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://appomni.com/ao-labs/microsoft-power-pages-data-exposure-reviewed/",
+    "https://learn.microsoft.com/en-us/power-platform/admin/field-level-security",
+    "https://www.microsoft.com/en-us/power-platform/blog/power-pages/microsoft-power-pages-is-bringing-the-new-standard-in-secure-ai-powered-capabilities",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://www.appomni.com/ao-labs/microsoft-power-pages-data-exposure-reviewed/",
+    "https://www.learn.microsoft.com/en-us/power-platform/admin/field-level-security",
+    "https://pubads.g.doubleclick.net/gampad/ad",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+    "https://www.learn.microsoft.com/en-us/power-pages/security/table-permissions",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+    "https://appomni.com/ao-labs/microsoft-power-pages-data-exposure-reviewed",
+    "https://pubads.g.doubleclick.net/gampad/jump",
+    "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+    "https://microsoft.com/en-us/power-platform/blog/power-pages/microsoft-power-pages-is-bringing-the-new-standard-in-secure-ai-powered-capabilities/",
+    "https://www.learn.microsoft.com/en-us/power-platform/admin/security-roles-privileges",
+    "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Aaron Costello",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      },
+      {
+        "name": "UK National Health Service",
+        "sentiment": "none"
+      },
+      {
+        "name": "NHS",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T09:09:54.223+02:00",
+  "updated": "2024-11-18T19:45:24.001+02:00"
+}

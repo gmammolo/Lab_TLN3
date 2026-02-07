@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "67fcd7e2c9a6c2a4476cd47e974debba1a53af76",
+    "url": "https://community.spiceworks.com/t/chromebooks-coming-back-from-dell-repair-with-older-os-version/1142559",
+    "site_full": "community.spiceworks.com",
+    "site": "spiceworks.com",
+    "site_section": "https://community.spiceworks.com/posts.rss",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Spiceworks Community - Latest posts",
+    "title": "Chromebooks coming back from Dell Repair with older OS Version",
+    "title_full": "Chromebooks coming back from Dell Repair with older OS Version",
+    "published": "2024-11-15T15:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/spiceworks/original/4X/6/5/1/65136d73c86ddfebe9ab49db98ecece514100dd8.png",
+    "performance_score": 0,
+    "domain_rank": 3246,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "67fcd7e2c9a6c2a4476cd47e974debba1a53af76",
+  "url": "https://community.spiceworks.com/t/chromebooks-coming-back-from-dell-repair-with-older-os-version/1142559",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@david-scammell David Scammell",
+  "published": "2024-11-15T15:49:00.000+02:00",
+  "title": "Chromebooks coming back from Dell Repair with older OS Version",
+  "text": "For discussion: Is it just me or are others noticing an issue with their Chromebooks coming back from Dell Repair with an older version of ChromeOS?\nFor instance, our Chromebooks should currently be between 130.x (the latest) and 128.x. However, they come back from repair with 105.x. Really? How old is that? That’s 25 versions back and if versions are released very 4 weeks, that 100 weeks old. Ugh!!!\nEven though I have explicitly asked in my tickets that if they reimage, to please use the most current version of the Stable Channel, it still comes back with version 105? That means I have to waste my time and re-image every single device that comes back from Dell Repair and in our school district, that is a lot of devices since I usually have about 50 or more Chromebooks per batch of repairs. We have even complained to our Dell reps, but no change. Does Dell really not care?\nAs background, I have our Chromebooks forcing updates to the current stable channel on a regular basis. Therefore, most of our Chromebooks are either the current major version or 1-2 major versions back. This is important since ChromeOS major versions (e.g., 130.x.xxxx.xxx) are really only supported for 3 periods of 4 weeks (see diagram below). This means if the current OS is 130.x, then version 127.x is unsupported, and major versions are updated every 4 weeks. And Dell Repair is sending me my devices back with version 105??? If unsupported, test taking software doesn’t work and many school apps will not work, making these devices useless until we re-image with a newer version.\nThe diagram below shows the lifespan of each milestone branch:\nAnd don’t get me started about the Trackpad issues on Dell 3100 and 3110 Chromebooks. There should be a recall, but that’s a different topic/thread.\nAnyone else noticing this issue with Dell Repair? Your thoughts? Are there any 3rd party repair companies that will beat Dell’s warranty repair cost and hopefully, their performance (or lack thereof)?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Dell Repair",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T16:36:24.107+02:00",
+  "updated": "2024-11-15T16:36:24.107+02:00"
+}

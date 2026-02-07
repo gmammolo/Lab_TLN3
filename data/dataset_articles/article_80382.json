@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "98a7a898a66ace95076556f314b298181a2c57bf",
+    "url": "https://forums.qrz.com/index.php?threads/esa-geo-satellite-opportunity-includes-north-america.890912/",
+    "site_full": "forums.qrz.com",
+    "site": "qrz.com",
+    "site_section": "https://forums.qrz.com/index.php?forums/-/index.rss",
+    "site_categories": [
+      "illegal_content"
+    ],
+    "section_title": "QRZ Forums",
+    "title": "ESA GEO SATELLITE OPPORTUNITY INCLUDES NORTH AMERICA",
+    "title_full": "ESA GEO SATELLITE OPPORTUNITY INCLUDES NORTH AMERICA",
+    "published": "2024-01-06T01:36:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://forums.qrz.com/styles/default/xenforo/avatars/avatar_m.png",
+    "performance_score": 0,
+    "domain_rank": 6327,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "98a7a898a66ace95076556f314b298181a2c57bf",
+  "url": "https://forums.qrz.com/index.php?threads/esa-geo-satellite-opportunity-includes-north-america.890912/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "W",
+  "published": "2024-01-06T01:36:00.000+02:00",
+  "title": "ESA GEO SATELLITE OPPORTUNITY INCLUDES NORTH AMERICA",
+  "text": "Thanks to Ron @W6RZ for first posting the AMSAT-UK presentation video on QRZ Sat forum today. IMO this is quite encouraging and exciting news. Apparently despite persistent naysayers to the contrary there are some open minded, optimistic, and competent radio amateurs in positions of influence that are making progress with this idea. As an American it ought to be agitating that visible leadership for this comes from elsewhere. I especially appreciated the first slide that outlines innovations radio amateurs have contributed to the art of satellite communications. Hope you enjoy watching and reading more about it. 73, John, WØPV ------------------------------------------------------------------------------------------ EUROPEAN SPACE AGENCY GEO SATELLITE OPPORTUNITY At the recent RSGB Convention / AMSAT-UK Colloquium at Milton Keynes, Frank Zeppenfeldt, PD0AP, from the European Space Agency Satellite Communications Group, made a presentation on the subject of a future ESA backed amateur satellite mission to GEO. Frank has obtained funding of 250,000 Euro to investigate the possibility of an Amateur satellite or payload to be placed in GEO orbit. The presentation emphasises innovation and microwave communications. Franks full presentation is available on YouTube and here at the AMSAT-DL colloquium: As a member of the UK microwave / Satellite community, we would like to invite you to contribute to the design concept of this mission. We would welcome any thoughts you may have via e-mail etc and we will add those to the overall discussion. In a follow up Teams meeting on Wed 1st Nov between Frank and AMSAT-UK, it became clear that an ideal solution from an ESA perspective should provide a service to amateurs in Canada as well as Europe. - Canada is an ESA co-operating state. Note that any GEO covering part or all of Canada will also cover a significant proportion of The USA. AMSAT-UK is working to identify a suitable range of GEO slots which meet this requirement. What is needed, is a proposal for 2 or 3 ideas for what this GEO mission (most likely a hosted payload) should include. See notes / Franks presentation. AMSAT-UK aims to respond with some proposals by Dec 4th. These do not need great detail, but should justify bands used and other ideas. For Example. What bands should be included. - This project is not aimed as a QO-100 replacement. Is 24G and up practical? Can a ground station generate enough power economically with today's available technology for an uplink on 24/47/76G Given a resource in space, is there an 'easy' entry level on say 24G - RX or TX so we can attract new microwave operators. Should the transponder/s be old style bent pipe configurations or contain on board processing to decode RX signals then encode the downlink? What digital protocols are appropriate for the above? Is 5.6G viable as an uplink given the WiFi presence? Any observations on 6cm interference would be valuable. Note: The antennas on the satellite will likely have a min gain of 20dB as this covers the visible portion of the Earth from geostationary orbit. In recent discussions with BATC etc we have concluded that a 10G downlink should be the baseline to take advantage of the large existing userbase and that a minimum power output onboard needs to be 10W into a 20dB antenna. If the proposals are considered substantial enough for further discussion, we have suggested a meeting at the ESA technical centre in The Netherlands around end Feb / March next year. This 2 day (?) event would be funded by ESA probably via A-UK. If this meeting happens, then representatives from A-UK BATC and UK microwave group could attend along with other groups from The EU and USA so we can take the project forward. Frank anticipates doing some initial prototyping and then present the findings to a meeting of GEO platform operators next year. Hopefully this will find a commercial partner with a platform going to an appropriate GEO slot. If any of this is of interest, please let us know your thoughts. This is a rare opportunity. I hope you can give it your support. Regards David G0MRF / Noel G8GTZ Comment Nov 19th 2023 - We would like to engage in this conversation and will contact David G0MRF and others since we just incorporated AMSAT-CA (Amateur Radio Satellites and Systems - Canada). More news on this to follow soon !!!!! - VE4SW",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "ron @w6rz",
+        "sentiment": "negative"
+      },
+      {
+        "name": "frank zeppenfeldt",
+        "sentiment": "none"
+      },
+      {
+        "name": "john",
+        "sentiment": "none"
+      },
+      {
+        "name": "milton keynes",
+        "sentiment": "none"
+      },
+      {
+        "name": "frank",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "amsat",
+        "sentiment": "negative"
+      },
+      {
+        "name": "esa",
+        "sentiment": "none"
+      },
+      {
+        "name": "european space agency satellite communications group",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "uk",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-06T02:30:47.270+02:00",
+  "updated": "2024-01-06T02:30:47.270+02:00"
+}

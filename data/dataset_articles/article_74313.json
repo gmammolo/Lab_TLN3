@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "2bdab67c50af1339b34dc45b02755d778c843c03",
+    "url": "https://www.csirtcv.gva.es/sci-inyeccion-de-comandos-en-productos-de-cisco",
+    "site_full": "www.csirtcv.gva.es",
+    "site": "gva.es",
+    "site_section": "https://www.csirtcv.gva.es",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Inicio - CSIRT-CV",
+    "title": "[SCI] Inyección de comandos en productos de Cisco",
+    "title_full": "[SCI] Inyección de comandos en productos de Cisco",
+    "published": "2024-11-15T12:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 5145,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2bdab67c50af1339b34dc45b02755d778c843c03",
+  "url": "https://www.csirtcv.gva.es/sci-inyeccion-de-comandos-en-productos-de-cisco",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Industriales CSIRT-CV",
+  "published": "2024-11-15T12:38:00.000+02:00",
+  "title": "[SCI] Inyección de comandos en productos de Cisco",
+  "text": "Introducción\nDJ Cole, investigador de Cisco, descubrió durante unas pruebas internas de seguridad una vulnerabilidad de severidad crítica que afecta a la interfaz web de gestión del software Cisco Unified Industrial Wireless para puntos de acceso Cisco Ultra-Reliable Wireless Backhaul (URWB). [1]\nAnálisis\nLas vulnerabilidades críticas encontradas son las siguientes:\nCVE-2024-20418 – Neutralización indebida de elementos especiales utilizados en un comando (inyección de comandos)(CWE-77) :\nEsta vulnerabilidad se origina por una validación incorrecta de la entrada a la interfaz web de gestión de URWB. Un atacante podría explotar esta vulnerabilidad enviando peticiones HTTP maliciosas a dicha interfaz, lo que podría permitir la ejecución de comandos arbitrarios con privilegios de root en el sistema operativo subyacente del dispositivo afectado. La serie de productos afectados es:\nLas versiones 17.15, 17.14 y anteriores de Cisco Unified Industrial Wireless Software están afectadas por esta vulnerabilidad.\nEsta vulnerabilidad afecta a los siguientes productos Cisco si ejecutan una versión vulnerable y tienen habilitado el modo operativo URWB:\nPuntos de acceso de alta resistencia Catalyst IW9165D, Puntos de acceso y clientes inalámbricos ruguerizados Catalyst IW9165E, Puntos de acceso de alta resistencia Catalyst IW9167E. Recomendaciones\nActualizar Cisco Unified Industrial Wireless Software a la versión 17.15.1.\nReferencias\n[1] Cisco Unified Industrial Wireless Software for Ultra-Reliable Wireless Backhaul Access Point Command Injection Vulnerability",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-backhaul-ap-cmdinj-R7E28Ecs",
+    "https://www.sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-backhaul-ap-cmdinj-R7E28Ecs"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "DJ Cole",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Cisco Unified Industrial Wireless Software",
+        "sentiment": "none"
+      },
+      {
+        "name": "Cisco Ultra-Reliable Wireless Backhaul",
+        "sentiment": "none"
+      },
+      {
+        "name": "URWB",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T15:18:37.227+02:00",
+  "updated": "2024-11-15T15:18:37.227+02:00"
+}

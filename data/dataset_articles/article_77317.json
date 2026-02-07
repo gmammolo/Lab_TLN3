@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "bb3f06d5b172cd75c1506c21d3df51723d7047ce",
+    "url": "https://www.zaobao.com.sg/realtime/china/story20250814-7354025",
+    "site_full": "www.zaobao.com.sg",
+    "site": "zaobao.com.sg",
+    "site_section": "https://www.zaobao.com.sg/realtime",
+    "site_categories": [
+      "media",
+      "top_news_sg",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "即时新闻 | 联合早报",
+    "site_title": "联合早报 | 联合早报",
+    "title": "消息：DeepSeek新模型因华为晶片问题推迟发布 | 联合早报",
+    "title_full": "消息：DeepSeek新模型因华为晶片问题推迟发布 | 联合早报",
+    "published": "2025-08-14T10:58:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://cassette.sphdigital.com.sg/image/zaobao/282ca69d3c0c5814fe49c1c52e229ae15507e9becdc516ca39d664dae48c6834",
+    "performance_score": 4,
+    "domain_rank": 11973,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 44,
+        "comments": 47,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bb3f06d5b172cd75c1506c21d3df51723d7047ce",
+  "url": "https://www.zaobao.com.sg/realtime/china/story20250814-7354025",
+  "ord_in_thread": 0,
+  "author": "联合早报",
+  "published": "2025-08-14T10:58:00.000+03:00",
+  "title": "消息：DeepSeek新模型因华为晶片问题推迟发布 | 联合早报",
+  "text": "英国媒体称，中国人工智能起步公司深度求索（DeepSeek）的R2模型，因使用华为晶片训练遇到问题而推迟发布。\n路透社引述英国《金融时报》报道，多名消息人士称，DeepSeek在1月发布R1型号后，被当局鼓励使用华为晶片，而非英伟达的产品，但却因华为晶片的技术问题，推迟了R2新模型的发布，这凸显北京试图取代美国技术的局限性。\n另据腾讯科技报道，市场再度传出DeepSeek R2即将发布的消息，预计时间窗口为8月15日至30日。\n接近DeepSeek的人士星期三（8月13日）回应称，相关消息不实，DeepSeek-R2在8月内并无发布计划。DeepSeek内部人士也告诉澎湃新闻，相关发布计划不属实。\n报道称，这已是DeepSeek今年内第二次传出新模型发布消息后又归于沉寂；DeepSeek近半年的动态重心并非推出全新一代模型，而是对现有产品线进行“小步快跑”式的迭代优化。\n路透社今年2月引述知情人士称，DeepSeek在1月推出引起全球关注的R1大模型之后，正加快推出新一代大模型R2。公司原计划在5月初发布R2，后又希望尽早推出，具体时间尚未透露。另外，DeepSeek希望新模型在代码生成方面表现更佳，并具备在英语之外的语言中进行推理的能力。\nDeepSeek最近一次版本升级为5月29日推出的DeepSeek-R1-0528。与之前的DeepSeek-R1相比，DeepSeek-R1-0528仍然使用2024年12月发布的DeepSeek V3 Base模型作为基座，但在后训练过程中投入了更多算力，提升了模型的思维深度与推理能力。\n大数据服务商QuestMobile的数据显示，虽然DeepSeek仍是中国用户量最多的人工智能工具平台，但它的移动端月活跃用户规模已经从3月的1亿9400万人下降至6月的1亿6300万人。Semianalysis的统计数据则显示，DeepSeek的使用率已由年初高点的7.5%下滑至7月的3%。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biotechnology",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->financial and economic news",
+    "Social Issue->demographics",
+    "Social Issue->social networking",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_sg",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:12:00.018+03:00",
+  "updated": "2025-08-15T12:04:33.000+03:00"
+}

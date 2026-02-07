@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "14d8411a35cfc8c27949a1511949742c0175c404",
+    "url": "https://news.itmo.ru/en/science/photonics/news/14191",
+    "site_full": "news.itmo.ru",
+    "site": "itmo.ru",
+    "site_section": "https://en.itmo.ru",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "ITMO University",
+    "site_title": null,
+    "title": "ITMO Physicists Simplify Thin Film Anodization for Allergy Diagnostics",
+    "title_full": "ITMO Physicists Simplify Thin Film Anodization for Allergy Diagnostics",
+    "published": "2025-02-27T20:56:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://news.itmo.ru/images/news/big/p14191.jpg",
+    "performance_score": 0,
+    "domain_rank": 20635,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "14d8411a35cfc8c27949a1511949742c0175c404",
+  "url": "https://news.itmo.ru/en/science/photonics/news/14191",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alena Mamaeva",
+  "published": "2025-02-27T20:56:00.000+02:00",
+  "title": "ITMO Physicists Simplify Thin Film Anodization for Allergy Diagnostics",
+  "text": "Anodization is a method of creating thin films of anodic aluminum oxide on the surface of optical elements. Such films have several advantages over the dielectric films currently used in optics: thanks to the residual aluminum layer beneath the oxide film, the spectral range in which optical elements can be used becomes wider, ranging from ultraviolet to infrared. This property is useful for creating beam splitters – devices that split light beams in laser systems, spectral devices, and interferometers.\nWith anodization, the surface of optical elements is also protected from scratches, while the luminescence of various objects increases inside the oxide’s pores and on its surface. The latter effect can be used to diagnose allergies: they are indicated by elevated immunoglobulin levels in the blood; if aluminum layers are taught to catch immunoglobulin, then the changed luminescence levels can be a way to diagnose this condition.\nTypically, researchers use foil to acquire anodic aluminum oxide films – this way, the films turn out consistent and have a minimal number of defects. However, the process requires a lot of time and resources: first, the foil has to be cleaned, polished in a solution using electricity, and calcined at 600 degrees Celsius in order to remove all of the imperfections and stresses in the metal. After that, the foil is placed into an electrolyte with another electrode and connected to a current. In total, the anodization takes seven hours and results in a thin film of anodic aluminum oxide on the substrate.\nAccording to Igor Nikitin, the paper’s first author and a research engineer at the Center of Optical Information Technologies, there is an alternative anodization method that doesn’t involve complex manipulations with the foil: coating a substrate with a thin film in a vacuum chamber with subsequent anodization.\n“This method is faster, but it hasn’t been popular because many parameters can affect the speed of anodization, including the temperature and acidity of the electrolyte, as well as its flow rate through the electrochemical cell. When we are talking about micron thicknesses of the oxide film, the influence of these factors isn’t as noticeable, but when the films are hundreds of nanometers thin, it becomes significant. At the same time, it doesn’t really help to control for voltage or current because the anodization parameters change in each case. That’s why I thought that if we need structures with specific optical properties, we should monitor them specifically. With our method, it’s possible to control the anodization process based on the refraction coefficient of the aluminum film on a substrate with an oxide layer on the surface. We can stop the process when the oxide layer reaches a certain thickness – the refraction coefficient will fall to a specified value. Apart from adding this increased control capacity of the film’s optical properties, we have accelerated the process: instead of it taking seven hours, I can now grow a 160 nm-thick anodic aluminum oxide film in just two minutes,” explains Igor Nikitin.\nCommonly, inorganic electrolytes are used for anodization, but the team from ITMO chose the organic oxalic acid instead. The substance’s components entered the film’s structure, producing luminescence centers that can transfer energy to other luminescent objects, thus multiplying their glow. This feature can be used in biosensors and immunoluminometric analysis – for instance, to diagnose allergies.\n“Back in the day, clinicians would test for allergies by making small cuts on a patient’s skin and applying droplets of allergens onto them; if there was a reaction, it identified an allergy. Now, immunoluminometric analysis is used instead: a patient’s biosample, such as blood, is put on a substrate and illuminated by a laser; based on its response, the doctor can tell if there is an allergy. The issue is that the luminescent response is hard to see with the naked eye without advanced photodetectors, which is why the substrate is enriched with gold or silver nanoparticles – and this makes diagnostics quite expensive. Thin anodic aluminum oxide films are a more affordable amplifier. Their luminescence centers transfer energy to organic molecules, which start glowing five times more intensely. This would make it easier for the doctor to detect an allergic reaction without causing any discomfort to the patient,” says Igor Nikitin.\nAdditionally, the new method can be used to create thin films for simple and inexpensive beam splitters with a specific intensity ratio of the separated beams, as well as solar cells. Currently, solar cells use a coating of indium-tin oxide, which allows light to enter the cell while also conducting charge via its semiconductor layer. In the future, the expensive oxide of rare earth metals could be replaced with more affordable structures based on thin anodic aluminum oxide films.\nNext, the researchers are planning to redesign the electrochemical cell in order to control the temperature, acidity, and flow rate of the electrolyte, which are important anodization factors. This will allow them to control even more of the process.\nThis project is supported by the Russian Science Foundation (grant No. 23-72-00045).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->physics",
+    "Science and Technology->medical research"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://rscf.ru/project/23-72-00045/",
+    "https://www.rscf.ru/project/23-72-00045/",
+    "https://rscf.ru/project/23-72-00045"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:35:52.923+02:00",
+  "updated": "2025-02-28T01:35:52.923+02:00"
+}

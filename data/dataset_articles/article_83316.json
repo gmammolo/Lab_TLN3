@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "6dc82e7a7bbb48013e7aa42bee211beef0e557be",
+    "url": "https://www.androidpolice.com/waze-android-auto-hud-support",
+    "site_full": "www.androidpolice.com",
+    "site": "androidpolice.com",
+    "site_section": "https://www.androidpolice.com/feed",
+    "site_categories": [
+      "media",
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": " Android Police ",
+    "site_title": null,
+    "title": "Waze's latest update moves your maps right into your line of sight",
+    "title_full": "Waze's latest update moves your maps right into your line of sight",
+    "published": "2025-02-28T00:52:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/01/my-journey-from-google-maps-to-waze-why-i-switched.jpg",
+    "performance_score": 0,
+    "domain_rank": 2923,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6dc82e7a7bbb48013e7aa42bee211beef0e557be",
+  "url": "https://www.androidpolice.com/waze-android-auto-hud-support",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Will Sattelberg",
+  "published": "2025-02-28T00:52:00.000+02:00",
+  "title": "Waze's latest update moves your maps right into your line of sight",
+  "text": "As obvious as Google Maps can feel on an Android device, Waze is a pretty excellent alternative. The app — which Google acquired back in 2013 — has won its audience over through crowdsourcing, custom voice directions, and a friendly UI, and it's fairly similar in terms of feature parity with its parent company's main navigation service. With its latest update, Waze is delivering the perfect upgrade for anyone with a new vehicle that could make your next road trip a whole lot more manageable.\nWaze 5.4 includes support for displaying your route within a car's heads-up display, as spotted by Reddit user u/misterperfectman (via 9to5Google). With this update, which is rolling out to both Android and iOS devices, Waze within Android Auto (or CarPlay, if you've abandoned Android for Apple's latest iPhones) can now relocate its navigation to the instrument cluster behind your steering wheel, rather than forcing it to stick to the infotainment system on the middle of the dash. Of course, that's only in supported vehicles where traditional gauges have been swapped out for an extra screen.\nWaze's latest update feels a little more comfortable on the driver\nEven if a decade's worth of muscle memory might win out here\nAlthough this is in CarPlay, I can confirm Android Auto support as well.\nLuckily, I happen to drive one of those vehicles. While my Play Store version of the app has yet to receive this new update, I grabbed the latest beta APK from APK Mirror and put it to the test. Indeed, once Android Auto was active on my Galaxy S25 Ultra, I was able to bring Waze up on my Chevy Colorado's HUD as one of the main screens available. My vehicle offers traditional Google Maps through on-board Android Automotive, as well a maps display synced with Android Auto or CarPlay — whichever is available — and, in my case, it worked practically immediately.\nAs with other supported navigation apps, you can swap between your installed platforms depending on which service you prefer. Opening Google Maps within Android Auto swapped my HUD's display to Google Maps; tapping on the Waze icon pushed it back. My dashboard looks slightly different from the images shared by Redditors and on display in this article, though that's purely based on how each automaker designs their unique software experience.\nNo matter what make or model you're driving, if your vehicle is supported, you should see the same basic information on your HUD: your ongoing route, turn-by-turn directions, and basic ETA information. Unlike support for digital car keys, this feature seems much more widespread. In addition to the BMW iX1 driven by our Reddit poster, comments in the thread have spotted it in other vehicles from BMW, Ford, Volvo, and Polestar (which, as 9to5Google points out, already supported this through the native Waze app), alongside my own Colorado. As expected, though, you'll still need to use the main infotainment screen to report road hazards.\nRelated\nAndroid Automotive picks up 70+ new apps, but only for when you're parked\nRoblox in the car, anyone?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Lifestyle and Leisure"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Lifestyle and Leisure->trend",
+    "Lifestyle and Leisure->lifestyle",
+    "Lifestyle and Leisure->travel and tourism"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.reddit.com/r/waze/comments/1iyize8/waze_now_shows_on_my_instrument_cluster_after/",
+    "https://www.apkmirror.com/apk/waze/waze-gps-maps-traffic-alerts-live-navigation/waze-navigation-live-traffic-5-4-5-0-release/",
+    "https://9to5google.com/2025/02/27/waze-update-instrument-cluster-display/",
+    "https://www.9to5google.com/2025/02/27/waze-update-instrument-cluster-display/",
+    "https://9to5google.com/2025/02/27/waze-update-instrument-cluster-display",
+    "https://www.apkmirror.com/apk/waze/waze-gps-maps-traffic-alerts-live-navigation/waze-navigation-live-traffic-5-4-5-0-release",
+    "https://reddit.com/r/waze/comments/1iyize8/waze_now_shows_on_my_instrument_cluster_after/",
+    "https://apkmirror.com/apk/waze/waze-gps-maps-traffic-alerts-live-navigation/waze-navigation-live-traffic-5-4-5-0-release/",
+    "https://www.reddit.com/r/waze/comments/1iyize8/waze_now_shows_on_my_instrument_cluster_after"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Waze",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Reddit",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:13:18.427+02:00",
+  "updated": "2025-02-28T01:13:18.427+02:00"
+}

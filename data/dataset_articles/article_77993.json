@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "ef43b64a6cb70a7e232440283d34cd1b9355a2cd",
+    "url": "https://www.dday.it/redazione/54128/esim-da-viaggio-sotto-accusa-ip-che-vanno-in-cina-comunicazioni-oscure-e-rivenditori-con-poteri-di-troppo",
+    "site_full": "www.dday.it",
+    "site": "dday.it",
+    "site_section": "https://titoli.net/time",
+    "site_categories": [
+      "television",
+      "entertainment"
+    ],
+    "section_title": "Ultime notizie - Titoli.net",
+    "site_title": "DDay.it",
+    "title": "eSIM da viaggio sotto accusa: IP che vanno in Cina, comunicazioni oscure e rivenditori con poteri di troppo",
+    "title_full": "eSIM da viaggio sotto accusa: IP che vanno in Cina, comunicazioni oscure e rivenditori con poteri di troppo",
+    "published": "2025-08-21T10:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://cdn.dday.it/system/uploads/news/main_image/54128/social_9cba8b_cove_rDepositphotos_692893090_XL_copia.jpg",
+    "performance_score": 0,
+    "domain_rank": 19553,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ef43b64a6cb70a7e232440283d34cd1b9355a2cd",
+  "url": "https://www.dday.it/redazione/54128/esim-da-viaggio-sotto-accusa-ip-che-vanno-in-cina-comunicazioni-oscure-e-rivenditori-con-poteri-di-troppo",
+  "ord_in_thread": 0,
+  "author": "@digital_day",
+  "published": "2025-08-21T10:29:00.000+03:00",
+  "title": "eSIM da viaggio sotto accusa: IP che vanno in Cina, comunicazioni oscure e rivenditori con poteri di troppo",
+  "text": "Il settore delle eSIM da viaggio è in continua crescita con sempre più operatori che entrano nel mercato e un numero maggiore di utenti che viene a conoscenza e inizia a utilizzare questo servizio.\nTuttavia, per quanto comode ed efficaci, queste particolari eSIM presentano diverse ambiguità, vulnerabilità e problemi di sicurezza non da poco che possono avere ripercussioni sugli utenti.\nRevolut entra nel mondo delle eSIM con un'offerta solo dati internazionale\nA mettere in luce tali aspetti è stato uno studio condotto dalla no-profit USENIX che, tra le varie cose, organizza annualmente un convegno proprio sulla sicurezza informatica.\nI ricercatori hanno acquistato e testato 25 eSIM di diversi rivenditori internazionali, tra cui i celebri Airalo, Holafy e Saily.\nLo studio è composto di una sezione più tecnica relativa alla rete internet e un’altra in cui ci si focalizza sulla rete di rivenditori, ed è proprio in quest’ultima che emergono le maggiori criticità.\nL’utente è negli USA? E allora l’IP è cinese\nIl primo test ha riguardato l’indirizzo IP univoco assegnato all’utente. Lo studio è stato effettuato negli Stati Uniti, tuttavia solamente 14 provider su 25 localizzavano lì il dispositivo, di cui solo uno mostrava la posizione effettiva dell’utente.\nAl contrario, tutti gli altri assegnavano al dispositivo un indirizzo IP di un operatore estero, facendo così risultare l’utente al di fuori del reale Paese.\nTra questi c’è anche la famosa Holafy che utilizza IP di China Telecom (paese che non c'entra nulla con l'azienda, che è irlandese). Anche il suo endpoint per installare la eSIM rimanda all’operatore cinese (rsp1.cmlink.com), indicando che attraverso i relativi server transitano i dati degli utenti, all’oscuro di tutto.\nCome mai avviene ciò? Provider come Holafy non hanno le proprie eSIM ma le acquistano da operatori infrastrutturati di tutto il mondo ed evidentemente China Telecom è uno di questi, magari il più economico, anche per i piani dedicati all’uso solo negli Stati Uniti.\nL’utente medio non andrà mai a controllare quale IP gli è stato assegnato tuttavia, ignaro di questo, la cattiva localizzazione può avere effetti negativi sulla navigazione web. Alcuni siti potrebbero mostrare contenuti cinesi anziché statunitensi, specialmente se il GPS è disattivato.\nL’unico lato positivo che si può vedere a ciò è che si tratta sostanzialmente di una VPN integrata: i ricercatori sono riusciti infatti ad accedere a ViuTV, piattaforma streaming non raggiungibile dagli Stati Uniti.\nFine del limbo per le CDN: AGCOM le equipara agli operatori di rete elettronica per l’efficacia di Piracy Shield\nIl problema, oltre ad una latenza più alta, è anche dal punto di vista della privacy: il traffico degli utenti transita per diversi Paesi senza che ne siano consapevoli.\nLe eSIM hanno vita propria\nSuccessivamente, i ricercatori hanno approfondito il concetto di “Comunicazione Proattiva”, ovvero la capacità di una SIM/eSIM di effettuare azioni o trasmettere dati senza il controllo dell’utente.\nSi tratta ovviamente di una tecnologia lecita, fondamentale per l’autenticazione sulla rete ad esempio, ma che in questi casi sembra riguardare anche altro.\nLa eSIM di Access, ad esempio, ha iniziato improvvisamente la comunicazione verso un server di Singapore nonostante l'utente fosse localizzato negli USA. Holafy, invece, ha ricevuto un SMS da un numero di Hong Kong.\nLe motivazioni di ciò sono oscure e fanno emergere, ancora una volta, l’estrema ambiguità di questo settore.\nTutti possono diventare rivenditori di eSIM e facendolo si ha accesso a dati “interessanti” sui clienti\nNella seconda parte dello studio ci si è concentrati su oneri e onori dei rivenditori di questi servizi di eSIM. Diverse piattaforme infatti prevedono delle soluzioni chiavi in mano per permettere a chiunque (letteralmente) di iniziare a vendere eSIM da viaggio. Ci sono anche siti web e applicazioni già pronti, solo da personalizzare con il proprio marchio.\nAlcune aziende sono più rigide e impongono agli aspiranti reseller di firmare un accordo di riservatezza (NDA) per tenere nascoste, ad esempio, le condizioni di vendita, altre invece sono più libere e blande nei requisiti.\nÈ il caso di eSIMaccess e Telnyx che per la registrazione richiedono solamente un indirizzo email e un metodo di pagamento. Inseriti tali dati è possibile iniziare a comprare eSIM all’ingrosso e rivenderle al pubblico.\nAi rivenditori, eSIMaccess permette di vedere lo stato delle eSIM fornite ai clienti ma anche, effettuando una richiesta ai server, ottenere il codice univoco IMSI e il PIN di tutte le SIM.\nCon Telnyx, invece, si ha a disposizione la localizzazione del dispositivo con una precisione di circa 800 metri.\nIn entrambi i casi stiamo parlando di informazioni basilari normalmente disponibili agli operatori di telefonia, il problema è che qui lo sono anche ai rivenditori. Essi ne hanno più facile accesso e controllo (un MNO non si metterà a spulciare le localizzazione degli utenti) e minori garanzie. Un utente può aspettarsi che l’operatore conosca questi dati, ma non un rivenditore.\nNel caso di Telnyx, il reseller può anche impostare un indirizzo IP pubblico, ovvero accessibile dall’esterno. Facendo ciò all'oscuro dell'utente, quest'ultimo può diventare vulnerabile ad attacchi informatici da terzi.\nIl prossimo passo per le eSIM da viaggio? Più trasparenza\nLo studio in questione si conclude con alcune riflessioni su come aumentare la sicurezza del settore delle eSIM, specialmente di quelle dedicate al roaming e rilasciate da rivenditori terzi.\nUna delle prime cose è proprio mettere dei paletti ai reseller e alle informazioni a cui possono avere accesso, dato che alcune, come la localizzazione, non sono fondamentali per lo svolgimento della loro attività. Servono anche chiari contratti di riservatezza e un controllo costante da parte del fornitore.\nPerché non è una buona idea mettere sui social la foto della carta d’imbarco\nAgli utenti dovrebbero essere fornite informazioni più trasparenti su chi può avere accesso ai propri dati personali e quali informazioni può vedere, in aggiunta a note sull’instradamento del traffico.\nOvviamente non è detto che tutti i provider e rivenditori attuino i comportamenti sopracitati e lo facciano sempre, potrebbero essere dei casi isolati che dipendono dal fornitore di quella specifica eSIM.\nPer tutelarsi è bene scegliere venditori solidi, e non piccoli negozietti o addirittura singoli agenti di viaggio, che magari abbiano un pizzico di trasparenza in più rispetto ad altri.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Politics",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Politics->government policy",
+    "Politics->international relations",
+    "Politics->regulation of industry",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf",
+    "https://usenix.org/system/files/usenixsecurity25-motallebighomi.pdf"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "USA",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T10:35:13.766+03:00",
+  "updated": "2025-08-21T10:40:48.000+03:00"
+}

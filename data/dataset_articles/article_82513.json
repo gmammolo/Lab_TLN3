@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "dfb8a0a33d8ccc98ab66acad1241d295279fea2c",
+    "url": "https://news.knowledia.com/US/en/articles/how-meta-uses-llms-to-improve-incident-response-and-how-you-can-too-ecdf7a616016b9d40b473117683d65ae245eb6c9",
+    "site_full": "news.knowledia.com",
+    "site": "knowledia.com",
+    "site_section": "https://news.knowledia.com/au/en",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Knowledia News",
+    "title": "How Meta Uses LLMs to Improve Incident Response (and how you can too) - Parity",
+    "title_full": "How Meta Uses LLMs to Improve Incident Response (and how you can too) - Parity",
+    "published": "2024-10-18T01:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 71826,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "dfb8a0a33d8ccc98ab66acad1241d295279fea2c",
+  "url": "https://news.knowledia.com/US/en/articles/how-meta-uses-llms-to-improve-incident-response-and-how-you-can-too-ecdf7a616016b9d40b473117683d65ae245eb6c9",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-10-18T01:57:00.000+03:00",
+  "title": "How Meta Uses LLMs to Improve Incident Response (and how you can too) - Parity",
+  "text": "How Meta Uses LLMs to Improve Incident Response (and how you can too) - Meta used LLMs to root cause incidents with 42% accuracy. Here's how they did it and how you can do it too. Meta used LLMs to root cause incidents with 42% accuracy. Here's how they did it and how you can do it too.\nIn June, Meta released an article titled Leveraging AI for efficient incident response on their engineering blog. In this article, engineers outline how they leveraged large language models to improve Meta's incident response capabilities. The headline metric from this report: Meta was able to use LLMs to successfully root cause incidents with 42% accuracy in their web monorepo. This means that nearly half the time, the mean time to resolution (MTTR) can potentially be reduced from hours to seconds. Seeing one of the largest and most complex engineering organizations in the world use generative AI for incident response so successfully gives us hope that we can bring the same benefit to all engineering teams with Parity . Let's dive into how Meta accomplished these results and what we can learn from it.\nMeta's Incident Management at Scale\nIt can be hard to appreciate the scale and velocity of code changes at a company the size of Meta. They are shipping thousands of changes per day almost entirely within a single monorepo . Meta literally re-engineered Mercurial to keep up with the speed at which their codebase was growing (really fun read and nugget of open source history). At this scale, investigating outages becomes a massive undertaking. \"Hey did anyone ship anything recently\" in #engineering probably doesn't cut it as a response process.\nMeta has invested in sophisticated incident response tools to make the life of on-call engineers easier. All of that tooling is built to solve the same problem any engineer at any organization aims to solve: what's going wrong, why is it going wrong, and how do we fix it. Generative AI has clear potential to improve MTTR and incident management processes across the board, and Meta charts one of the potential paths to doing so.\nMeta's Approach to LLMs for Incident Response\nMeta's approach to LLMs for incident…",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response",
+    "https://tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T02:37:57.964+03:00",
+  "updated": "2024-10-18T02:37:57.964+03:00"
+}

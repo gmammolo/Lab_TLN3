@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "bdff47d9a8bc78517d90b777620d983dd406e7fb",
+    "url": "https://www.storm.mg/article/11060273",
+    "site_full": "www.storm.mg",
+    "site": "storm.mg",
+    "site_section": "https://storm.mg",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "風傳媒｜Storm.mg",
+    "site_title": "風傳媒 | Storm.mg",
+    "title": "愛國晶片好難用，華為派人救火也沒效！金融時報：「深度求索」被迫採用昇騰晶片，訓練新模型卡關",
+    "title_full": "愛國晶片好難用，華為派人救火也沒效！金融時報：「深度求索」被迫採用昇騰晶片，訓練新模型卡關",
+    "published": "2025-08-14T10:11:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://images.storm.mg/cloud?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2074188%2F51uSnPBGs9kt6Q2H5OslOuNcryFo1QvIMItypClQ.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
+    "performance_score": 0,
+    "domain_rank": 20260,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bdff47d9a8bc78517d90b777620d983dd406e7fb",
+  "url": "https://www.storm.mg/article/11060273",
+  "ord_in_thread": 0,
+  "author": "風傳媒",
+  "published": "2025-08-14T10:11:00.000+03:00",
+  "title": "愛國晶片好難用，華為派人救火也沒效！金融時報：「深度求索」被迫採用昇騰晶片，訓練新模型卡關",
+  "text": "在美中科技戰的背景下，中國傾全國之力發展半導體自主化，但英國《金融時報》14日指出，被譽為ChatGPT挑戰者的中國AI新創公司「深度求索」（DeepSeek），其備受期待的第二代大型語言模型（R2）驚傳開發延遲。核心原因可能是採用華為自產的昇騰（Ascend）AI晶片，才會再訓練時遭遇難以克服的技術瓶頸，打亂DeepSeek的產品發布節奏。英國《金融時報》稱，這凸顯了中國想用國產晶片取代輝達（Nvidia）的產品，仍有漫漫長路要走。\n《金融時報》（Financial Times）引述三位知情人士說法，指出DeepSeek在今年1月發表其初代模型後，便受到中國官方的「鼓勵」，希望他們能採用華為的昇騰處理器來開發下一代模型，而非依賴受美國出口管制的輝達晶片。然而DeepSeek在利用昇騰晶片進行R2模型的「訓練」的過程中，卻持續遭遇技術性問題。\n消息人士透露，這些技術障礙是導致R2模型嚴重推遲的主因，也讓DeepSeek在與阿里巴巴的「通義千問」、百度的「文心一言」等對手的競爭中，暫時處於下風。為了挽救頹勢，DeepSeek最終被迫做出妥協：回到使用輝達晶片完成最關鍵的訓練階段，而將華為的昇騰晶片用於相對要求較低的「推理」環節（利用已經訓練好的模型來執行任務）。\n華為工程師親赴救火 仍難力挽狂瀾\n這起開發困境的背後，並非DeepSeek單打獨鬥。兩名知情人士表示，為了協助DeepSeek順利使用其AI晶片，華為甚至派遣了一支工程師團隊進駐DeepSeek的辦公室，提供現場技術支援。儘管有「原廠」專家親自坐鎮，DeepSeek依然無法藉助昇騰晶片完成一次完整的模型訓練。這項挫敗清楚地表明，華為的產品在穩定性、晶片間的互聯速度以及軟體配套上，與輝達相比仍有明顯的差距。\n《金融時報》稍早才報導，北京當局已開始要求中國科技公司必須為採購輝達降規版晶片H20提出「正當理由」，意在鼓勵企業轉向華為或寒武紀（Cambricon）等國產替代方案。然而，業界普遍的反應是，國產晶片仍有待磨練。\n除了晶片問題，另一位知情人士補充說，R2模型的更新所需進行的「數據標註」（Data Labeling）工作，耗時也比預期更長，這也是導致延遲的原因之一。中國媒體則指出，R2模型的發表雖然延遲，但最快仍將在未來幾週內發布。\nDeepSeek被迎頭趕上\n消息人士指出，DeepSeek的創辦人梁文峰已經表達對R2模型開發進度的不滿。這場延遲風波，也讓外界開始重新審視AI領域的競爭格局。加州大學柏克萊分校的AI研究員李維克・古普塔（Ritwik Gupta）表示：「模型本身就像是商品，可以輕易被替換。」許多開發者正轉向使用阿里巴巴強大且靈活的「通義千問3」（Qwen3）模型，長期追蹤華為AI生態系的古普塔表示，華為在使用昇騰晶片進行模型訓練方面，正經歷「成長的痛苦」，但他預期華為最終仍能突破難關。\n面對美中之間的科技角力，輝達的角色也顯得微妙。該公司近期同意向美國政府支付其在中國銷售降規版晶片H20的部分收入，以換取繼續向中國市場供貨的許可。輝達對此表示：「開發者將在建立成功的AI生態系中扮演關鍵角色。放棄整個市場和開發者，只會損害美國的經濟與國家安全。」",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092",
+    "https://ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:17:19.788+03:00",
+  "updated": "2025-08-15T11:04:23.000+03:00"
+}

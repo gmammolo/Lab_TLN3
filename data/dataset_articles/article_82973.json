@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "140454984fdc9560b6a14c79c3146a138f905908",
+    "url": "https://www.beckershospitalreview.com/radiology/ai-tool-trained-on-radiologist-eye-movement.html",
+    "site_full": "www.beckershospitalreview.com",
+    "site": "beckershospitalreview.com",
+    "site_section": "https://www.beckershospitalreview.com/radiology",
+    "site_categories": [
+      "pets",
+      "veterinary_medicine"
+    ],
+    "section_title": "Radiology",
+    "site_title": null,
+    "title": "AI tool trained on radiologist eye movement",
+    "title_full": "AI tool trained on radiologist eye movement",
+    "published": "2025-02-27T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+    "performance_score": 0,
+    "domain_rank": 3823,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "140454984fdc9560b6a14c79c3146a138f905908",
+  "url": "https://www.beckershospitalreview.com/radiology/ai-tool-trained-on-radiologist-eye-movement.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Elizabeth Gregerson",
+  "published": "2025-02-27T02:00:00.000+02:00",
+  "title": "AI tool trained on radiologist eye movement",
+  "text": "Researchers have trained an AI framework to read chest X-rays by mimicking the eye movements of radiologists, according to a paper published Dec. 12 in Artificial Intelligence in Medicine.\nThe framework is called ItpCtrl-AI, which stands for interpretable and controllable artificial intelligence, and is \"transparent and highly accurate,\" according to a Feb. 25 news release from Fayetteville-based University of Arkansas.\nA heat map was created from recordings of radiologists' eye movements as they reviewed chest X-rays. The heat map was then used to teach the AI tool where to search for abnormalities, the release said.\nThe researchers are now working with Houston-based University of Texas MD Anderson Cancer Center to train ItpCtrl-AI on CT scan interpretation.\nRead the full study here.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->medical research",
+    "Health->medical test"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sciencedirect.com/science/article/abs/pii/S0933365724002963",
+    "https://arkansasresearch.uark.edu/new-ai-tool-mimics-radiologist-gaze-to-read-chest-x-rays/",
+    "https://sciencedirect.com/science/article/abs/pii/S0933365724002963",
+    "https://arkansasresearch.uark.edu/new-ai-tool-mimics-radiologist-gaze-to-read-chest-x-rays",
+    "https://www.arkansasresearch.uark.edu/new-ai-tool-mimics-radiologist-gaze-to-read-chest-x-rays/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "University of Texas MD Anderson Cancer Center",
+        "sentiment": "none"
+      },
+      {
+        "name": "University of Arkansas",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:35:26.770+02:00",
+  "updated": "2025-02-28T00:35:26.770+02:00"
+}

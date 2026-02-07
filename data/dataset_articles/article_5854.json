@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "0672cae32a932a213311caf22b1098ee4b8b4d05",
+    "url": "https://biggo.com/news/202601291824_Google-Android-Data-Settlement-135-Million",
+    "site_full": "biggo.com",
+    "site": "biggo.com",
+    "site_section": "https://biggo.com/news",
+    "site_categories": [
+      "economy, business and finance",
+      "science and technology"
+    ],
+    "section_title": "BigGo News",
+    "site_title": "BigGo - Price Smart Search Engine",
+    "title": "Google to Pay $135 Million in Android Data Settlement, Users Eligible for Up to $100 Each",
+    "title_full": "Google to Pay $135 Million in Android Data Settlement, Users Eligible for Up to $100 Each",
+    "published": "2026-01-29T20:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.bgo.one/news-image/ai_generated/2026-01/202601291824_Google-Android-Data-Settlement-135-Million_20260130_023107.jpg",
+    "performance_score": 0,
+    "domain_rank": 53958,
+    "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0672cae32a932a213311caf22b1098ee4b8b4d05",
+  "url": "https://biggo.com/news/202601291824_Google-Android-Data-Settlement-135-Million",
+  "ord_in_thread": 0,
+  "author": "@BigGo_global",
+  "published": "2026-01-29T20:24:00.000+02:00",
+  "title": "Google to Pay $135 Million in Android Data Settlement, Users Eligible for Up to $100 Each",
+  "text": "In a significant legal development, Google has agreed to a substantial settlement to resolve a class-action lawsuit concerning its data collection practices on Android devices. The case, which centers on allegations of unauthorized cellular data harvesting, could see millions of users receive compensation and prompts changes to how Android handles user consent and data transparency.\nThe Core of the Lawsuit and Google's Settlement\nThe lawsuit, filed in 2020, accused Google of a specific form of data collection. Plaintiffs argued that Android devices were quietly transferring user data over cellular network connections without proper consent. Crucially, the legal claim was framed not just as a privacy violation, but as an \"unlawful taking\" of users' property—namely, the cellular data plans they purchase from mobile carriers. The alleged activity occurred even when Google's apps were not actively in use, location services were disabled, and devices were locked. While Google has agreed to the $135 million settlement to resolve the matter, the company has consistently denied any wrongdoing related to these accusations.\nDetails of the Proposed Settlement Terms\nA preliminary settlement agreement was filed in a San Jose, California court on the night of January 29, 2026, and now awaits final approval from a judge. The settlement includes both financial and operational components for Google. Financially, a $135 million fund will be established to provide recovery payouts to eligible class members. Operationally, Google has committed to several changes aimed at increasing user control and transparency. These include making it easier for users to stop cellular data transfers through a new settings toggle, explicitly asking for user consent to transfer data during initial device setup, and updating the Google Play Terms of Service to clearly disclose these types of data transfers.\nSettlement Overview\n- Total Settlement Amount: $135 million USD\n- Maximum Individual Payout: Up to $100 USD per eligible user\n- Filing Date: Preliminary agreement filed January 29, 2026\n- Google's Stance: Denies wrongdoing; settlement is to resolve the litigation.\nWho is Eligible and What They Can Receive\nThe class of users eligible to file a claim is broadly defined. It includes anyone in the United States, with the notable exception of California residents, who used an Android mobile device on a cellular network as early as November 12, 2017. California users are excluded because they were part of a separate, state-specific class action that resulted in a larger settlement of over $314 million last year, which Google is reportedly appealing. Eligible users who submit a claim can receive a payout of up to $100 each. However, the final individual amount may be lower depending on the total number of valid claims submitted against the $135 million fund.\nEligibility Criteria\n- Geography: United States (excluding California residents)\n- Device: Android mobile device\n- Activity: Used the device on a cellular network\n- Timeframe: On or after November 12, 2017\n- Note: California residents were part of a separate 2025 state settlement.\nBroader Context and Google's Recent Legal Challenges\nThis settlement is the second major class-action agreement Google has entered in a matter of days, highlighting ongoing legal scrutiny of its data practices. Just a few days prior, the company agreed to a $68 million settlement in a separate lawsuit that accused its Google Assistant feature of recording user conversations without permission to inform targeted advertising. In that case, as with the Android data suit, Google denied any wrongdoing. These back-to-back settlements suggest a pattern of Google opting to resolve costly and protracted litigation, even as it maintains its official stance on the allegations.\nOperational Changes Google Agreed To\n- Implement a clearer settings toggle to stop cellular data transfers.\n- Obtain explicit user consent for cellular data transfer during device setup.\n- Update Google Play Terms of Service to disclose data transfer practices.\nThe Path Forward and Implications for Users\nFor now, the settlement remains preliminary. A judge must review and grant final approval before the claims process can begin. If approved, it will mark the end of this particular legal battle but will likely keep the spotlight on how tech giants handle user data and consent. The mandated changes to Android's setup and settings could empower users with more direct control over their cellular data usage. For millions of Android users, the coming months may bring an opportunity to file for a share of the settlement, serving as a tangible, if modest, consequence for the alleged data practices.",
+  "summary": "In a significant legal development, Google has agreed to a substantial settlement to resolve a class-action lawsuit concerning its data collection practices on Android devices. Crucially, the legal claim was framed not just as a privacy violation, but as an \"unlawful taking\" of users' property—namely, the cellular data plans they purchase from mobile carriers. California users are excluded because they were part of a separate, state-specific class action that resulted in a larger settlement of over $314 million last year, which Google is reportedly appealing.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business governance",
+    "Crime, Law and Justice->law",
+    "Crime, Law and Justice->data breach",
+    "Crime, Law and Justice->civil law"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "GOOG",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-29T21:01:24.063+02:00",
+  "updated": "2026-01-29T21:06:26.000+02:00"
+}

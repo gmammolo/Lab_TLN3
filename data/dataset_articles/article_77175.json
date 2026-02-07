@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "fbdb515d18af0f53d2a721554079f1fb6b6a7413",
+    "url": "http://cn.chinadaily.com.cn/a/202507/17/WS689d8edba3104ba1353fccc7.html",
+    "site_full": "cn.chinadaily.com.cn",
+    "site": "chinadaily.com.cn",
+    "site_section": "http://tech.chinadaily.com.cn",
+    "site_categories": [
+      "japan",
+      "travel"
+    ],
+    "section_title": "科技频道 - 中国日报网",
+    "site_title": "China Daily Website - Connecting China Connecting the World",
+    "title": "AI输出\"偏见\"，人类能否信任它的\"三观\"？ - 中国日报网",
+    "title_full": "AI输出\"偏见\"，人类能否信任它的\"三观\"？ - 中国日报网",
+    "published": "2025-07-17T03:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 657,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fbdb515d18af0f53d2a721554079f1fb6b6a7413",
+  "url": "http://cn.chinadaily.com.cn/a/202507/17/WS689d8edba3104ba1353fccc7.html",
+  "ord_in_thread": 0,
+  "author": "张瑨瑄",
+  "published": "2025-07-17T03:00:00.000+03:00",
+  "title": "AI输出\"偏见\"，人类能否信任它的\"三观\"？ - 中国日报网",
+  "text": "人工智能（AI）已成为我们不可分割的“伙伴”。从聊天机器人、语音助手到自动翻译，AI不断介入人与人之间的交流和理解。然而，它能做到“客观中立”吗？\n据美国《麻省理工科技评论》官网报道，一项国际研究指出，大语言模型（LLM）正悄无声息地传播全球各地的刻板印象。从性别歧视、文化偏见，到语言不平等，AI正在把人类的“偏见行李”打包、升级，并以看似权威的方式输出到世界各地。\n这不禁让人深思：如果AI模型承载的是带有偏见的“人类共识”，我们能否信任它们的“世界观”？\nAI让偏见“跨文化漂移”\n这项研究由开源AI公司Hugging Face首席伦理科学家玛格丽特·米切尔领导。他们发起了名为SHADES的项目，收录了300多条全球刻板印象，涵盖性别、年龄、国籍等多个维度。研究人员使用16种语言设计交互式提示，并测试了数种主流语言模型对这些偏见的反应。\n结果显示，AI模型对刻板印象的再现具有明显差异化特征。这些AI模型不仅表现出“金发女郎不聪明”“工程师是男性”等常见英语地区刻板印象，在阿拉伯语、西班牙语、印地语等语言环境中，也表现出对“女性更喜爱粉色”“南亚人保守”“拉美人狡猾”等偏见。\n据Rest of World网站报道，一些图像生成模型在输入“非洲村庄”关键词时，频繁输出“茅草屋”“赤脚孩童”等刻板印象图像，而在输入“欧洲科学家”时，则清一色为白人男性、穿白大褂、身处实验室。这些视觉偏见已被部分学校课件、初创企业官网不加甄别地直接采用，进一步固化了对他者文化的单一想象。\n西班牙《世界报》6月刊文指出，除了放大不同文化的刻板印象外，语言模型有时还会用伪科学或伪历史来为自己辩护。在面对不太常见的刻板印象时，模型往往会调动它“更熟悉”的其他偏见进行回应，反而偏离主题。此外，当关于刻板印象的提示是正面的时，模型的表现往往更差，更容易将偏见误当作客观事实表达出来。\n“这意味着，AI不仅被动继承了人类偏见，更无意中推动了‘文化漂移’，将特定社会背景下的偏见当作普遍规则输出。”米切尔表示。\n小语种群体受到隐形歧视\n除了刻板印象的跨文化传播，AI系统在处理不同语言和文化时还暴露出“隐形歧视”的问题。\n据报道，美国斯坦福大学“以人为本”AI研究所的研究表明，尽管这些模型声称支持多语言，但在面对低资源语言（如斯瓦希里语、菲律宾语、马拉地语等）时，表现却远不及主流高资源语言，甚至容易产生负面刻板印象。\n研究分析了多语言模型在训练数据匮乏、文化语境缺失等方面的局限性，称其存在“多语言性诅咒”现象，即模型在兼顾多语言时，难以深入理解和准确表达低资源语言的文化和语义细节，导致输出错误或带有偏见。\n斯坦福大学团队强调，当前大多数训练数据以英语和西方文化为核心，缺乏对非主流语言及其文化背景的深入理解。这不仅影响模型的准确性，也在无形中强化了语言和文化的不平等，使得使用这些低资源语言的人群难以公平受益于AI技术。\n“目前全球约有7000种语言，但只有不到5%在互联网中得到有效代表。”研究人员表示，“‘资源匮乏’不仅仅是一个数据问题，而是一种根植于社会的问题。”这意味着，AI研发在数据、人才、资源和权利方面存在结构性不公。\n美国《商业内幕》杂志也援引哥伦比亚大学社会学副教授劳拉·尼尔森的观点指出，当前最受欢迎的聊天机器人大多由美国公司开发，训练数据以英语为主，深受西方文化偏见影响。\n破解AI的文化偏见难题\n面对AI跨文化偏见的现实影响，全球研究机构和企业开始提出系统性的应对路径。\n今年4月，斯坦福大学“以人为本”AI研究所在其发布的一份白皮书中建议，应加强对低资源语言与文化的AI投资，特别是建立本地语言语料库，让AI能真正“理解”这些语言背后的语义与文化背景。例如，去年11月，非洲电信公司Orange就与OpenAI和Meta合作，用沃洛夫语、普拉尔语等地区语言训练AI模型，加速提升非洲的数字包容性。\n与此同时，模型评估机制也在变得更为精细与开放。Hugging Face团队开发的SHADES数据集，已成为多家公司检测和纠正AI模型文化偏见的重要工具。这套数据帮助团队识别模型在哪些语言和语境中容易自动触发刻板印象，从而优化训练数据和算法。\n在国际政策层面，欧盟《AI法案》要求“高风险”AI系统必须在投放前后进行合规评估，包括对非歧视性与基本权利影响的审查，以及提供必要的透明度与人类监督机制。联合国教科文组织早在2021年发布的《AI伦理建议书》也明确指出，AI系统应“保障文化多样性与包容性”，倡导各国建立法律与制度来确保AI的开发尊重文化差异，并纳入人文维度的衡量。\nAI本质上是一面“镜子”，映照并复制着我们输入给它的偏见与价值观。它所呈现的“世界观”并非自主生成，而是由人类赋予。如果人们希望AI真正服务于一个多元化的人类社会，就不能让它仅仅反映单一的声音与文化。\n◎本报记者 张佳欣",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Social Issue->discrimination",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->gender",
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->psychology",
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->corruption"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "fake_news"
+    ],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:41:16.782+03:00",
+  "updated": "2025-08-14T10:46:02.000+03:00"
+}

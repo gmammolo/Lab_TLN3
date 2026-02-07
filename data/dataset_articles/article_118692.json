@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "05693574f89876e9a12589f261fe5d2bc609b7c3",
+    "url": "https://www.europapress.es/castilla-y-leon/noticia-gobierno-extiende-alerta-nevadas-soria-ademas-leon-palencia-burgos-avisa-afecciones-trafico-20251120072957.html",
+    "site_full": "www.europapress.es",
+    "site": "europapress.es",
+    "site_section": "https://www.europapress.es/noticias",
+    "site_categories": [
+      "media",
+      "top_news_es",
+      "top_news_pe",
+      "top_news"
+    ],
+    "section_title": "\r\n\t Últimas Noticias - EUROPA PRESS\r\n",
+    "site_title": "Europa Press -  Agencia de noticias",
+    "title": "El Gobierno extiende la alerta por nevadas a Soria además de León, Palencia y Burgos y avisa de afecciones al tráfico",
+    "title_full": "El Gobierno extiende la alerta por nevadas a Soria además de León, Palencia y Burgos y avisa de afecciones al tráfico",
+    "published": "2025-11-20T08:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://img.europapress.es/fotoweb/fotonoticia_20251120072957_1200.jpg",
+    "performance_score": 0,
+    "domain_rank": 4744,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "05693574f89876e9a12589f261fe5d2bc609b7c3",
+  "url": "https://www.europapress.es/castilla-y-leon/noticia-gobierno-extiende-alerta-nevadas-soria-ademas-leon-palencia-burgos-avisa-afecciones-trafico-20251120072957.html",
+  "ord_in_thread": 0,
+  "author": "Europa Press Castilla y León",
+  "published": "2025-11-20T08:29:00.000+02:00",
+  "title": "El Gobierno extiende la alerta por nevadas a Soria además de León, Palencia y Burgos y avisa de afecciones al tráfico",
+  "text": "VALLADOLID, 20 Nov. (EUROPA PRESS) -\n La Delegación del Gobierno en Castilla y León ha extendido la alerta por nevadas a la provincia de Soria, con \"especial atención\" a la zona cercana a La Rioja, además de a León, Palencia y Burgos y ha avisado de afecciones al tráfico, por lo que ha aconsejado consultar la información meteorológica y el estado en el que se encuentran las carreteras.\n La Agencia Estatal de Meteorología (Aemet) ha activado avisos por nieve en la provincia de Léon, con temperaturas mínimas de hasta -3ºC en las provincias de Soria y Ávila y ha advertido de acumulados significativos de nieve en montañas del norte a últimas horas.\n Según la información de Aemet y la Delegación del Gobierno, además del aviso amarillo por precipitaciones de hasta 15 centímetros hasta las 0.00 horas de este miércoles, el jueves se activa el naranja por posibilidad de que se acumulen 20 centímetros en 24 horas, fundamentalmente en la Cordillera Cantábrica.\n De la misma forma, durante la jornada del jueves se activa el aviso amarillo a partir de las 0.00 horas en la Cantábrica en Burgos y Palencia (se esperan acumulaciones de 10 centímetros) y la Ibérica burgalesa (donde la previsión indica 5 centímetros). A partir de las 18.00 horas se activa también en el Norte de Burgos, Condado de Treviño y la Meseta burgalesa, con una previsión de 2 centímetros de acumulación de nieve.\n La Delegación del Gobierno ha advertido de que las precipitaciones pueden afectar a la circulación no solo de las vías comarcales y locales, sino a las carreteras de alta capacidad -autopistas y autovías-, por ello señala que es \"imprescindible\" conocer el estado de las carreteras antes de emprender un viaje.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Weather"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Léon",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Cantábrica",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Agencia Estatal de Meteorología",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Aemet",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_es",
+      "top_news_pe",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T08:38:04.130+02:00",
+  "updated": "2025-11-21T09:08:12.000+02:00"
+}

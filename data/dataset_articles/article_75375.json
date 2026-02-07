@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "0ce2489181e9f7ce0a238fa8b47b76b6c533609b",
+    "url": "https://icoholder.com/en/news/apple-security-flaws-put-crypto-users-data-at-risk-update-urged",
+    "site_full": "icoholder.com",
+    "site": "icoholder.com",
+    "site_section": "https://icoholder.com/en/news",
+    "site_categories": [
+      "real_estate",
+      "buying_selling_homes"
+    ],
+    "section_title": "IcoHolder News Section: Stay Updated on Market Trends",
+    "title": "Apple Security Flaws Put Crypto Users’ Data at Risk: Update Urged",
+    "title_full": "Apple Security Flaws Put Crypto Users’ Data at Risk: Update Urged",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 32285,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0ce2489181e9f7ce0a238fa8b47b76b6c533609b",
+  "url": "https://icoholder.com/en/news/apple-security-flaws-put-crypto-users-data-at-risk-update-urged",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T02:00:00.000+02:00",
+  "title": "Apple Security Flaws Put Crypto Users’ Data at Risk: Update Urged",
+  "text": "Apple Security Flaws Put Crypto Users’ Data at Risk: Update Urged\nNovember 22, 2024\n[ BACK TO NEWS](/en/news)\nApple confirms critical vulnerabilities affecting cryptocurrency security. Users urged to update devices to protect data from potential exploitation - IcoHolder.\nApple has confirmed a severe security vulnerability affecting various devices, which could allow attackers to exploit web-based JavaScript to execute remote code. This flaw, detailed in a recent Apple security disclosure, is primarily connected to JavaScriptCore and WebKit software—essential components for processing web content on Apple devices. The company is urging users to update their devices promptly to mitigate any risk to sensitive information, including cryptocurrency assets.\nThe vulnerability, identified by Google’s Threat Analysis Group, allows “maliciously crafted web content” to execute cross-site scripting attacks, potentially putting users' data at risk. Apple revealed that the vulnerability may have been actively exploited on Intel-based Mac systems, raising significant concerns over data security.\nThis flaw isn’t restricted to Macs; Apple also confirmed that iPhone and iPad users are at risk. If users access harmful websites, the vulnerability in JavaScriptCore could result in arbitrary code execution. Apple’s latest software update is designed to patch this flaw, addressing a critical need to protect users from potential attacks.\nJeremiah O’Connor, Chief Technology Officer at crypto cybersecurity firm Trugard, warned that unpatched devices could expose sensitive data, such as private keys and passwords stored in browsers, heightening the risk of cryptocurrency theft. “Attackers could gain access to sensitive data, which poses significant risks to crypto users,” O’Connor stated, emphasizing the urgency for users to update their systems.\nThe crypto community reacted swiftly to the security alert. Changpeng Zhao, former CEO of Binance, took to social media to warn Intel-based Mac users, underscoring the importance of updating devices to ensure security. “If you use a MacBook with an Intel-based chip, update ASAP!” Zhao tweeted, urging the community to stay vigilant.\nThe vulnerability follows previous reports highlighting flaws in Apple’s M-series chips (M1, M2, and M3). These chips have a prefetching process vulnerability—a feature aimed at improving performance—that can potentially store sensitive data in the processor’s cache, enabling attackers to reconstruct cryptographic keys. While software updates can address the JavaScriptCore vulnerability, chip-level issues cannot be easily fixed, often requiring users to choose between performance and security.\nThe rise of malware targeting Apple users has underscored the growing need for cybersecurity in the cryptocurrency space. In August, cybersecurity firm Cado Security warned about a new variant named “Cthulhu Stealer,” specifically designed to target Apple users and steal data from cryptocurrency wallets. This malware, which disguises itself as legitimate software like CleanMyMac or Adobe GenP, is delivered as an Apple disk image (DMG). When users download and open this file, they are prompted to enter their password, allowing the malware to run JavaScript and AppleScript commands, even requesting a second password to target Ethereum wallet MetaMask.\nApple’s recent updates to macOS aim to enhance security by tightening Gatekeeper protections, making it more challenging for malware like Cthulhu Stealer to bypass security protocols and target crypto wallets. While macOS has traditionally been seen as a secure operating system, recent trends in malware development suggest that [Apple ](https://icoholder.com/blog/bitcoin-etfs-impact-on-market-liquidity-etf-approval-process/)users are increasingly at risk, especially those handling digital assets.\nApple’s disclosure of these vulnerabilities marks a critical moment in the intersection of cybersecurity and cryptocurrency, emphasizing the need for regular software updates to protect user data. As the digital landscape evolves, crypto users are encouraged to remain vigilant, updating their systems promptly to safeguard against new threats.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Google",
+        "sentiment": "none"
+      },
+      {
+        "name": "Apple",
+        "sentiment": "none"
+      },
+      {
+        "name": "Intel",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T14:32:00.821+02:00",
+  "updated": "2024-11-22T14:32:00.821+02:00"
+}

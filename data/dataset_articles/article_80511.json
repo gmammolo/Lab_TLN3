@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "89458f5a4bc3f1f0b34c2b52fb8eda53c074fbb0",
+    "url": "https://indianexpress.com/article/cities/mumbai/tata-cancer-hospital-artificial-intelligence-detection-scans-9097088/",
+    "site_full": "indianexpress.com",
+    "site": "indianexpress.com",
+    "site_section": "https://indianexpress.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports | The Indian Express",
+    "title": "Tata Cancer Hospital teaches AI how to detect cancer from scans. Why this is a key step forward | Mumbai News - The Indian Express",
+    "title_full": "Tata Cancer Hospital teaches AI how to detect cancer from scans. Why this is a key step forward | Mumbai News - The Indian Express",
+    "published": "2024-01-06T00:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IN",
+    "main_image": "https://images.indianexpress.com/2024/01/tata-cancer-hospital.jpg",
+    "performance_score": 0,
+    "domain_rank": 970,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "89458f5a4bc3f1f0b34c2b52fb8eda53c074fbb0",
+  "url": "https://indianexpress.com/article/cities/mumbai/tata-cancer-hospital-artificial-intelligence-detection-scans-9097088/",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rupsa Chakraborty",
+  "published": "2024-01-06T00:49:00.000+02:00",
+  "title": "Tata Cancer Hospital teaches AI how to detect cancer from scans. Why this is a key step forward | Mumbai News - The Indian Express",
+  "text": "Consider this scenario: With a simple click, doctors will be able to assess the hardness, texture and elasticity of tumours, including gaining insights into the likelihood of a patient’s survival and responsiveness to [chemotherapy](https://indianexpress.com/article/cities/mumbai/tata-memorial-hospital-indias-first-oral-chemo-drug-leukaemia-9087942/). Once the stuff of sci-fi, an initiative by [Mumbai](https://indianexpress.com/section/cities/mumbai/)’s [Tata Memorial Hospital](https://indianexpress.com/article/cities/mumbai/cancer-care-tata-hospital-unveil-worlds-largest-nuclear-therapeutic-facility-9089817/), India’s largest [cancer](https://indianexpress.com/about/cancer/) hospital, is doing just that — deploying deep learning to teach Artificial Intelligence (AI) how to diagnose cancer early on. This detection tool, doctors say, will also help avoid unnecessary chemotherapy for predicted non-responders. With the hospital’s Bioimaging Bank having integrated 60,000 digital scans of cancer patients over the past year, it has laid the groundwork to develop a cancer-specific algorithm. The hospital has also started using AI to reduce radiation exposure in paediatric patients undergoing CT scans. Dr Sudeep Gupta, the director of Tata Memorial Centre, said, “Cancer cases are expected to double from 13 lakh to over 26 lakh in the next decade. This increase necessitates specialised manpower for early diagnosis. Cancer can be cured in many cases if detected early and treated swiftly.” And this is exactly where AI comes in, since it utilises radiomics — a technique capable of extracting essential information from medical scans that is not easily discernible by the human eye. “Advanced algorithms and deep learning to analyse medical data can help detect cancer early on,” said Dr Gupta. Tata Memorial Hospital started the Bioimaging Bank in 2023, in collaboration with the Indian Institute of Technology-Bombay (IIT-B) and start-ups. The All India Institute of Medical Sciences (AIIMS) and Rajiv Gandhi Cancer Institute and Research Centre (RGCIRC) in [Delhi](https://indianexpress.com/section/cities/delhi/), and the Postgraduate Institute of Medical Education and Research (PGIMER) in [Chandigarh](https://indianexpress.com/section/cities/chandigarh/) are contributing medical scans to assist with the deep learning efforts. Dr Gupta said the project involves storing slides from medical tests to help diagnose the disease and develop treatments. Since the human eye cannot always detect tumours, identification of factors like texture analysis, elastography (to check organ stiffness) and tumour hardness is beyond human capability. In contrast, the biobank will be able to predict tumour prognosis directly from images with the help of specialised algorithms, known as prognostication or prediction algorithms. “These algorithms can anticipate the tumours’ aggressiveness, immunosynthesis rate (the speed of the immune system’s immune response) and the chances of a patient’s survival from CT or MRI scans itself. However, the final diagnosis and treatment will be made by an experienced doctor,” said Dr Gupta. So how exactly will this algorithm work? AI works on how the human brain processes information from different sources. To diagnose cancer, AI will analyse radiological and pathological images. AI systems use machine learning to learn from vast data sets and become increasingly proficient in recognising unique features associated with different types of cancer. This technology will allow assessment of changes in tissues and potential malignancies, which in turn will help in early detection of cancer. Dr Suyash Kulkarni, the head of Department of Radiodiagnosis at Tata Memorial Centre, told [The Indian Express](https://indianexpress.com), “The radiology team will conduct comprehensive imaging, generating long-term data on the patient’s behaviour, treatment response, disease recurrence, response to recurrence and overall survival. Leveraging this rich data set, they will utilise AI and machine learning protocols to develop predictive models to determine tumour survival and to determine the level of aggressiveness required in a patient’s treatment.” He added, “The image bank is collecting tumour images, before segmenting and annotating them. The segmentation involves outlining tumours and identifying areas with different features before annotating them as malignant, inflammatory or edematous (abnormally swollen with fluid). We can correlate biopsy results, histopathology (study of tissue diseases) reports, immunohistochemistry (a staining technique to detect certain cancers) reports and genomic sequences with images and clinical data to develop diverse algorithms.” Dr Kulkarni said technical partners, like IIT-Bombay, will provide graphics processing units for algorithm testing, enhancing system intelligence through machine learning. He added, “The thousands of breast cancer scans collected by the Bioimaging Bank will help us develop predictive and diagnostic models. Ranging from 10,000 to 50,000 across diverse sites, these images, along with metadata and pathological data, will undergo AI and machine learning analysis.” Giving an example of the “impactful” algorithm the hospital aims to develop, Dr Kulkarni said, “We have achieved 40% reduction in radiation by enhancing images using AI algorithms. This ensures a significant decrease in radiation exposure for children, while maintaining an impeccable diagnostic quality.” In another initiative, started on a pilot basis, the department is using a specific algorithm in the ICU for thoracic radiology, which focuses on imaging and diagnosing conditions related specifically to the chest. AI provides immediate diagnosis, which has proven to be 98% accurate after doctors cross-checked the data. “This specialised tool interprets digital chest X-rays, and identifies pathologies like nodules and pneumothorax. When an MRI is done in the ICU, the AI algorithm automatically provides a diagnosis, which is validated by our radiologists. Once again, this early diagnosis helps save time,” he said. Researchers anticipate that the AI tool will revolutionise cancer detection, expediting patient access to treatment and streamlining CT scan analyses. This becomes significant given the nationwide surge in cancer cases, particularly in rural areas with limited healthcare access. Dr Gupta, however, envisions a future where AI will detect cancer with a simple click, eliminating the need for extensive tests. “This technology will enable even general practitioners to diagnose complex cancers and significantly enhance precision in cancer solutions. Through continuous learning, AI can enhance accuracy, ensure timely cancer diagnoses, improve patient outcomes and aid healthcare professionals in decision-making processes,” he said. Still, increased use of AI tools raises the question of elimination of experienced healthcare providers. “Human touch in medical expertise, nuanced judgement and patient interaction is irreplaceable. Collaborative efforts between AI and medical professionals are needed to prioritise enhancing efficiency, accuracy and patient care. Rigorous regulatory scrutiny will ensure responsible implementation of AI, which should address concerns and keep the use of AI in healthcare ethical,” said Dr Gupta.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Health",
+    "Science and Technology",
+    "Education"
+  ],
+  "external_links": [
+    "https://indianexpress.com),",
+    "https://www.indianexpress.com),"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "tata cancer hospital",
+        "sentiment": "negative"
+      },
+      {
+        "name": "mumbai news",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "tata memorial hospital",
+        "sentiment": "none"
+      },
+      {
+        "name": "bioimaging bank",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "mumbai",
+        "sentiment": "none"
+      },
+      {
+        "name": "india",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-06T03:27:57.084+02:00",
+  "updated": "2024-01-06T03:27:57.084+02:00"
+}

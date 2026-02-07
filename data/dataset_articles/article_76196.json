@@ -1,0 +1,70 @@
+{
+  "thread": {
+    "uuid": "084bf7aa2c6fc301caf8819b338335cd8a6b1783",
+    "url": "https://universal-blue.discourse.group/t/bazzite-installer-borked-cant-uninstall-former-os-properly-gpu-keeps-crashing/6208",
+    "site_full": "universal-blue.discourse.group",
+    "site": "discourse.group",
+    "site_section": "https://universal-blue.discourse.group/hot.rss",
+    "site_categories": [],
+    "section_title": "Welcome to Universal Blue! :wave:",
+    "title": "Bazzite installer borked? Can't uninstall former OS properly, Gpu keeps crashing",
+    "title_full": "Bazzite installer borked? Can't uninstall former OS properly, Gpu keeps crashing",
+    "published": "2025-01-10T04:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/free1/uploads/univeral_blue/original/2X/e/e39f7d1952979cf23b0f8d634e025fb38da50026.png",
+    "performance_score": 0,
+    "domain_rank": 10688,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "084bf7aa2c6fc301caf8819b338335cd8a6b1783",
+  "url": "https://universal-blue.discourse.group/t/bazzite-installer-borked-cant-uninstall-former-os-properly-gpu-keeps-crashing/6208",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "fuutralala",
+  "published": "2025-01-10T04:16:00.000+02:00",
+  "title": "Bazzite installer borked? Can't uninstall former OS properly, Gpu keeps crashing",
+  "text": "I installed Bazzite a few days ago because i kept having GPU related crashes in pop_os that do not happen on a windows partition.\nI run an application (e.g. discord, steam or literally anything else) and my gpu will crash out in a few seconds, maybe 30-60mins if i have something running in firefox. None of the suggested combinations of shift, alt, ctrl and diverse f keys do anything to bring it back.\nSince i now got the same crashes under Bazzite i thought i’d investigate whats the matter there. I didn’t come closer to a solution but towards some interesting information.\nSo everytime i try to install Bazzite it creates a home folder called “bazzite-pop_os” unless i force it from btrfs to ext4 which is odd because i didn’t know bazzite is based on pop and i wasn’t able to find anything on the internet in that regard.\nUsername in my terminal also is “fuutralala@pop-os”. My journalctl logs as pop_os, and now i slowly get to the suspicion that bazzite is either not able to properly uninstall pop or it’s based on pop and doesn’t tell us.\nAnyone got any suggestion what to do? I mean i could always go back to windows which i would like to avoid. To rma my GPU wouldn’t be the solution either because that already happened and as stated before, none of these crashes happen on windows.\nI can’t speak to your GPU crashers but the hostname thing is likely your home router caching the hostname from your last OS and assigning it to your new install.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T08:30:38.437+02:00",
+  "updated": "2025-01-10T08:30:38.437+02:00"
+}

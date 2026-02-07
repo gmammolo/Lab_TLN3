@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "3f56b1fa19cbc23c7a29ab44d2979e996ab2a3d6",
+    "url": "https://hbswk.hbs.edu/item/post-crowdstrike-six-questions-to-test-your-companys-operational-resilience",
+    "site_full": "hbswk.hbs.edu",
+    "site": "hbs.edu",
+    "site_section": "http://hbsworkingknowledge.hbs.edu/rss/rss.xml",
+    "site_categories": [
+      "javascript",
+      "tech"
+    ],
+    "section_title": "HBS Working Knowledge",
+    "title": "Post-CrowdStrike, Six Questions to Test Your Company's Operational Resilience",
+    "title_full": "Post-CrowdStrike, Six Questions to Test Your Company's Operational Resilience",
+    "published": "2024-08-15T23:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://d3vgmmrg377kge.cloudfront.net/Style%20Library/api/resize.aspx?imgpath=https://hbswk.hbs.edu/PublishingImages/Gibson_Lynch_Crowdstrike_1280x720.jpg&amp;w=1200&amp;h=630",
+    "performance_score": 0,
+    "domain_rank": 1024,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 43
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3f56b1fa19cbc23c7a29ab44d2979e996ab2a3d6",
+  "url": "https://hbswk.hbs.edu/item/post-crowdstrike-six-questions-to-test-your-companys-operational-resilience",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Hise Gibson and Anita Lynch",
+  "published": "2024-08-15T23:00:00.000+03:00",
+  "title": "Post-CrowdStrike, Six Questions to Test Your Company's Operational Resilience",
+  "text": "When cybersecurity firm CrowdStrike distributed a faulty software update in July, it impacted a staggering 8.5 million devices. The crisis rippled through commercial airline operations, package delivery logistics, ecommerce, and health care, to name a few.\nThis incident serves as a stark reminder that business disruptions are not just potential threats, but common occurrences that demand immediate attention from CEOs, C-suite teams, and boards. It's time for leaders to take stock of their companies’ operational resilience—their ability to withstand disruptions and crises.\n“Preparation for a crisis is just as crucial as the response.”\nOver 60 percent of tech outages result in at least $100,000 in total losses, and 15 percent cost upward of $1 million, according to the Uptime Institute, a technology trade group. In severe events, 25 percent of businesses won't reopen their doors after a disaster, according to the Federal Emergency Management Agency (FEMA). Some research reports estimate that the cost of the CrowdStrike event could exceed $1 billion.\nPreparation for a crisis is just as crucial as the response. We recommend that leaders start with their organization’s people, processes, and technology. Here are six essential questions for leaders to ask as they evaluate the operational resilience of this triad:\nAre we sufficiently prepared for problems when they arise?:\n- People: Long before any disaster, it’s crucial for companies to establish a well-trained crisis management team. They will be responsible for designing and maintaining the business continuity and disaster recovery management plan, ensuring a robust and effective response to potential disasters.\n- Process: Maintaining the plan iteratively and conducting test runs for worst-case scenarios such as losing access to crucial functional systems is not just a one-time task, but an ongoing process. This approach fosters a culture of continuous improvement and preparedness, ensuring that the company is always ready to respond to potential disruptions.\n- Technology: Simulate different types of outages and validate the full stack of technology infrastructure to find out if your business could support continuous operations during an actual disruption.\nAre there clear roles and responsibilities for business continuity?\n- People: Clearly define and communicate roles and responsibilities for different disruption scenarios to ensure everyone on the disaster team knows their duties during a crisis. In particular, the team will need primary and backup responsibilities, and guidelines on decision-making. These areas of accountability will help keep the business running.\n- Process: Routinely practice with the actual team. Incorporate unanticipated, random complications and consider scheduling exercises during peak and non-peak business hours. Ensure the dissemination of clear crisis management procedures to provide structured and effective responses during disruptions to all team members and give feedback after the trial runs.\n- Technology: Use necessary technological tools to support assigned roles in crisis management, ensuring seamless operation and coordination, such as different modes of communication and documentation on and off the primary network.\nWhat are our risks involving automated software updates?\n- People: Train product, technology, and security teams to understand and manage the risks of continuous integration and continuous delivery (CI/CD), the kind of automated software update approach that helped the CrowdStrike outage spread. If your company works closely with vendors, as most do, it’s important to understand their risks, as well as those of partners and customers.\n- Process: Implement a robust vendor management process for critical systems that considers business continuity risk, ensuring transparency, and mutual understanding of the software delivery process. For example, the product, technology, and security teams should be able to find out whether software updates will be or should be rolled out in waves and where this might present a comfortable or uncomfortable level of risk to the business.\n- Technology: Find technologies that give these teams visibility and control over the software supply chain and application security, enabling them to mitigate risks associated with CI/CD.\nAre we prepared for an investigation to correct errors when things inevitably go wrong?\n- People: Make your skilled personnel available if a large-scale investigation arises, including those involving federal authorities.\n- Process: Structure documentation, processes, and communications to effectively support investigations when errors occur. Ensure there is a way to capture, retain, and document decisions and actions with a secure chain of custody plan. Practice this through simulations or so-called “tabletop” exercises.\n- Technology: Equip your organization with capabilities to trace and provide necessary information during investigations, facilitating quick and accurate error correction.\nWho is accountable, and what resources should we provide for our future recovery?\n- People: Establish clear accountability and governance structures, including appropriate legal counsel. Consider where it is needed and proper to have insurance, such as Directors and Officers (D&O) liability coverage, for people in critical roles.\n- Process: Regularly review and update governance structures and business continuity plan documentation, including contracts with vendors and insurers, to reflect evolving risk exposure and infrastructure needs.\n- Technology: Similar to how you would test your tech systems, review your agreements under different scenarios and implications to ensure they would hold up. Also, make sure there are redundant systems to track the terms of vital agreements and contracts.\nHow would we communicate with customers, stakeholders, and investors?\n- People: Communications may fall to people will little experience in outreach. Ensure communication teams and their backups are aligned and trained to handle crisis communication effectively and manage public relations under pressure.\n- Process: Develop a well-defined communication plan that includes benchmarks and standards for timely and transparent outreach during crises. The Securities and Exchange Commission requires companies to disclose material events within four days. Determine whether this is the acceptable benchmark or if disclosure should happen sooner.\n- Technology: Ensure that the modes of communication and supporting technologies are sufficient to maintain the trust and transparency desired by all stakeholders during disruptions.\nContinuous improvement in preparedness and response plans is essential. Accountability, transparency, and effective communication can significantly mitigate risks and enhance operational resilience.\n“As more businesses rely on cloud servers in an automated world, more companies will live and die based on their ability to bounce back from a crisis.”\nDemand for digital transformation and artificial intelligence (AI) will raise the stakes for strategic data and platform management, exposing more companies to risk if they’re not proactive. And as more businesses rely on cloud servers in an automated world, more companies will live and die based on their ability to bounce back from a crisis.\nBy focusing on the people, process, and technology framework, we can better prepare for, respond to, and recover from disruptions, ensuring our business operations' ongoing resilience and success.\nHise O. Gibson is a senior lecturer in the Technology and Operations Management Unit. Anita Lynch is an executive fellow at the Digital Data Design Institute at Harvard, and a board member of the Nasdaq US Exchanges.\nYou Might Also Like:\nWhy Companies Shouldn't Delay Software Updates—Even After CrowdStrike's Flaw How Workplace Wellness Programs Can Give Employees the Energy Boost They Need Digital Transformation: A New Roadmap for Success\nFeedback or ideas to share? Email the Working Knowledge team at .\nImage: Image by HBSWK with assets from AdobeStock/Dave Willman and AdobeStock/kesornphoto",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "fema",
+        "sentiment": "none"
+      },
+      {
+        "name": "uptime institute",
+        "sentiment": "none"
+      },
+      {
+        "name": "federal emergency management agency",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T01:07:39.687+03:00",
+  "updated": "2024-08-16T01:07:39.687+03:00"
+}

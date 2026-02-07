@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "bd7a464ceba423d8b814f8d8aa7c4d56d35d851f",
+    "url": "https://biggo.com/news/202508140753_Syncthing_2.0_Drops_Platform_Support",
+    "site_full": "biggo.com",
+    "site": "biggo.com",
+    "site_section": "https://biggo.com/news",
+    "site_categories": [],
+    "section_title": "BigGo News",
+    "site_title": "BigGo - Price Smart Search Engine",
+    "title": "Syncthing 2.0 Drops Support for Multiple Platforms Due to SQLite Migration",
+    "title_full": "Syncthing 2.0 Drops Support for Multiple Platforms Due to SQLite Migration",
+    "published": "2025-08-14T10:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "TW",
+    "main_image": "https://img.bgo.one/news-image/44873043_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 87147,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bd7a464ceba423d8b814f8d8aa7c4d56d35d851f",
+  "url": "https://biggo.com/news/202508140753_Syncthing_2.0_Drops_Platform_Support",
+  "ord_in_thread": 0,
+  "author": "@BigGo_global",
+  "published": "2025-08-14T10:53:00.000+03:00",
+  "title": "Syncthing 2.0 Drops Support for Multiple Platforms Due to SQLite Migration",
+  "text": "Syncthing, the popular open-source file synchronization tool, has released version 2.0 with significant changes that have sparked community discussions. While the update brings improvements like a new SQLite database backend and enhanced logging, it also removes support for several platforms, raising concerns among users about the project's direction.\nPlatform Support Reduction Raises Questions\nThe most controversial change in Syncthing 2.0 is the removal of prebuilt binaries for multiple platforms, including DragonFly BSD, Solaris, NetBSD, and notably Windows ARM32. This decision stems from complications with cross-compiling SQLite, the new database backend that replaces LevelDB.\nCommunity members have expressed surprise at dropping Windows ARM32 support, especially given the industry's shift toward ARM processors. However, the development team clarifies that Windows ARM64 remains supported, and 32-bit ARM support is being phased out by Microsoft itself in future Windows 11 releases.\nThe choice of SQLite implementation has also drawn scrutiny. Users questioned why the team selected the CGO-based github.com/mattn/go-sqlite3 over the pure Go modernc.org/sqlite, which would avoid cross-compilation issues. Performance appears to be the deciding factor, as the CGO version offers better speed despite the compilation complexities.\nPlatforms No Longer Receiving Prebuilt Binaries\n- DragonFly BSD (amd64)\n- Illumos/Solaris (amd64)\n- Linux (ppc64)\n- NetBSD (all architectures)\n- OpenBSD (386 and ARM)\n- Windows (ARM 32-bit)\nNote: Windows ARM64 support continues\nDatabase Migration and Performance Improvements\nThe switch from LevelDB to SQLite represents a fundamental change in how Syncthing stores data. Users report that the migration process can be lengthy for larger setups, but the new database promises easier maintenance and fewer bugs. The update also introduces automatic cleanup of deleted files after six months, addressing long-standing storage concerns.\nMultiple performance enhancements accompany the database change. The removal of rolling hash detection for shifted data, while eliminating a feature, actually improves scanning and syncing efficiency. The system now uses multiple connections by default between version 2 devices, with three connections handling different types of data exchange.\nKey Technical Changes in Version 2.0\n- Database Backend: LevelDB → SQLite\n- Default Connections: Single → Three connections (1 for metadata, 2 for data)\n- Deleted File Retention: Forever → 6 months (configurable)\n- Rolling Hash Detection: Removed for better performance\n- Logging System: Restructured with per-package log levels\n- Cryptographic Keys: Switched to Ed25519 for sync connections\nAndroid Ecosystem Remains Active\nDespite official Android support ending previously due to Google's platform restrictions, the Android ecosystem continues thriving through community forks. The Syncthing-Android fork maintains active development and is available through both F-Droid and the Google Play Store, ensuring mobile users aren't left behind.\nCompatibility and Migration Considerations\nVersion 2.0 maintains protocol compatibility with version 1.x, allowing gradual migration across different devices. This backward compatibility provides users flexibility in upgrading their Syncthing installations without requiring simultaneous updates across all devices.\nThe community's response reflects both appreciation for Syncthing's continued development and concern about reduced platform support. Many users praise the software's reliability and privacy-focused approach, with some reporting years of trouble-free operation across multiple devices.\nSyncthing 2.0 represents a significant evolution that prioritizes performance and maintainability over broad platform support. While some users may need to compile from source or seek alternatives, the core functionality improvements suggest a more robust foundation for future development.\nReference: v2.0.0",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business strategy and marketing"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/syncthing/syncthing/releases/tag/v2.0.0",
+    "https://www.github.com/syncthing/syncthing/releases/tag/v2.0.0"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "MSFT",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:39:17.026+03:00",
+  "updated": "2025-08-14T11:51:36.000+03:00"
+}

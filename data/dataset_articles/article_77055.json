@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "d0ce76edeb3ea1044ee72469f28f4dbea72f613a",
+    "url": "https://www.163.com/dy/article/K6UAFTUN0511DSSR.html",
+    "site_full": "www.163.com",
+    "site": "163.com",
+    "site_section": "http://news.163.com/",
+    "site_categories": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "section_title": "网易新闻",
+    "site_title": "网易",
+    "title": "AI图像水印失守！开源工具5分钟内抹除所有水印|相位|像素|检测器|ai图像_网易订阅",
+    "title_full": "AI图像水印失守！开源工具5分钟内抹除所有水印|相位|像素|检测器|ai图像_网易订阅",
+    "published": "2025-08-14T10:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 273,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d0ce76edeb3ea1044ee72469f28f4dbea72f613a",
+  "url": "https://www.163.com/dy/article/K6UAFTUN0511DSSR.html",
+  "ord_in_thread": 0,
+  "author": "网易",
+  "published": "2025-08-14T10:06:00.000+03:00",
+  "title": "AI图像水印失守！开源工具5分钟内抹除所有水印|相位|像素|检测器|ai图像_网易订阅",
+  "text": "henry 发自 凹非寺\n量子位 | 公众号 QbitAI\nAI图像的水印技术要变天了！\n一款全新的去水印技术—— UnMarker ，能在 5分钟内 去除市面上 几乎所有 的AI图像水印。\n其中，谷歌水印工具HiDDeN已被 完全破解 ，SynthID也已被攻破79%！\nUnMarker在高效去除水印的同时，还保持了 较高的图像质量。\n目前，UnMarker已经在GitHub上免费开源，用户仅凭 消费级显卡 就可实现本地部署。\nUnMarker的出现，让原本被视为有效对抗AI造假的水印技术变得 不再可靠\nUnMarker创作者Andre Kassis表示：\n我就想知道，这些水印技术是否真像他们说得那么厉害。\nAI图像水印技术\n想知道UnMarker是怎么去除AI图像水印的，有必要先了解一下AI图像的水印是怎么回事。\n与一般直接在图片上打上品牌名的 显性水印 （Visible Watermark）不同，AI图像的水印主要是藏在 频谱特征 等图像深层信息中的 隐性水印 （Invisible Watermark）。\n频谱特征描述的是图像中像素值彼此之间的变化方式，由 频谱幅度（Magnitude） 频谱相位（Phase） 两个要素构成。\n当前，水印技术主要通过 修改频谱幅度这一频谱特征，在图像中嵌入隐性水印。\n举例来说，在下面人类和熊的两张图片中，虽然内容截然不同，但它们的 频谱幅度 分布模式却非常相似 ，而频谱相位却差别较大。\n由此，对内容高度敏感，在不同图像之间变化巨大的频谱相位就 不适合 作为可靠的通用载体来嵌入水印。\n相反，对具体的像素位置依赖性较低的频谱幅度成为了嵌入水印的 绝佳载体 ，其对裁剪、模糊、压缩等常见操作具有抵抗力，具备较好的鲁棒性。\n同时，我们还可以观察到图像的主体（人物和熊）与频谱幅度图中心的蓝色区域相对应，而图像的背景则对应着四周的橙色区域。\n这是因为，主体中平滑的区域，如衣物和毛发，拥有大片相同的色彩，导致 像素值变化较慢 ，属于频谱中的 低频部分\n而细节丰富的区域，如轮廓和纹理， 像素值变化较快 属于频谱中的高频部分。\n在Google的水印技术SynthID中，水印信息就被嵌入在图片的低频部分。\n不过，水印嵌入有时候会改变图像的输出，如下图所示。\n（注：上图从上到下按逆时针方向分别是：Google Imagen、Google SynthID，以及使用UnMarker去除水印后的图片）\n值得一提的是，在UnMarker之前，水印检测器并非通用工具。\n每一种水印都有自己专属的检测器，以及用来寻找该水印隐藏的频谱模式。\n而UnMarker以其强大的通用性，在不同的水印中实现了一种“通吃”的方法。\n那么，UnMarker是怎么去水印的呢？\n新的水印Killer\n就像上面提到的，不可见的水印存在于频谱幅度中。\n于是，UnMarker就专门针对这一点进行攻击。它忽略图像的像素值，直接修改整个图像的频谱信息，从而有效扰乱水印。\n正如Andre Kassis所说的：\nUnMarker并不试图寻找水印隐藏的位置，也不精准定位水印编码的频谱特征。它只需扰乱图像，就能去除水印。\n这种 忽略像素层，专攻频谱特征 的方式使UnMarker不限于单一种类的水印去除，能够应对多种水印。\n实验表明，根据AI图片使用的水印方法不同，UnMarker能移除 57% 100% 的可检测水印。\n其中HiDDeN和Yu2两种水印能被完全破解，而在Google SynthID中，UnMarker也成功移除了79%的水印。\n在一些较新的水印技术，如StegaStamp和Tree-Ring Watermarks中，UnMarker依旧表现不俗，能去除60%的水印。\n不过，UnMarker也非完美无缺，在去除水印的同时，往往也会对图像造成一些轻微的改动（如果你仔细观察上面女生的头发）。\n针对这一问题，Kassis表示，稍微裁剪图像可以取得更佳的去水印效果。\n在论文中，UnMarker被部署在一张40GB显存的Nvidia A100 GPU上，而据Kassis透露，在经过一些针对性的调整后，UnMarker应该也能在Nvidia RTX 5090这样的消费级显卡上运行。\n这将大大降低普通用户部署的成本和门槛。\nOne more thing\n最近，微软一项覆盖全球12500名参与者的研究表明，人们识别AI图像的平均 成功率仅为62%\n不客气地说，也就比瞎猜好一点。\n为了在“乱花渐欲迷人眼”的图像世界中“去伪存真”，水印作为一种解决方案就被提上了台前。\n例如，欧盟的《人工智能法案》要求大多数AI图像生成工具必须加入水印，许多拥有AI图像生成器的公司已经实施了水印，或计划在不久后实施。\n但就在大家寄望于水印技术的时候，像UnMarker这样的去水印技术已悄然登场。\n[1]https://spectrum.ieee.org/ai-watermark-remover?utm_source=homepage&utm_medium=hero&utm_campaign=2025-08-11&utm_content=hero1\n[2]https://github.com/andrekassis/ai-watermark\n[3]https://arxiv.org/pdf/2405.08363\n[4]https://x.com/yyolk/status/1948824571987329166\n— 完 —\n量子位 QbitAI · 头条号签约\n关注我们，第一时间获知前沿科技动态",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biomedical science",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->computing and information technology",
+    "Social Issue->social problem",
+    "Social Issue->discrimination",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://spectrum.ieee.org/ai-watermark-remover?utm_source=homepage&utm_medium=hero&utm_campaign=2025-08-11&utm_content=hero1",
+    "https://github.com/andrekassis/ai-watermark",
+    "https://arxiv.org/pdf/2405.08363",
+    "https://x.com/yyolk/status/1948824571987329166",
+    "https://www.spectrum.ieee.org/ai-watermark-remover?utm_source=homepage&utm_medium=hero&utm_campaign=2025-08-11&utm_content=hero1",
+    "https://www.github.com/andrekassis/ai-watermark",
+    "https://www.x.com/yyolk/status/1948824571987329166",
+    "https://spectrum.ieee.org/ai-watermark-remover",
+    "https://www.arxiv.org/pdf/2405.08363"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_vn",
+      "top_news_th",
+      "top_news_nz",
+      "top_news_rs",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news_hk",
+      "top_news_my",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:13:34.384+03:00",
+  "updated": "2025-08-15T11:04:24.000+03:00"
+}

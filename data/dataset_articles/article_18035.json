@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "85673290fd35b0a96b89101f932551ef3dbb4db1",
+    "url": "https://www.diariouno.com.ar/sociedad/aysam-informo-que-la-tormenta-una-planta-potabilizadora-fue-afectada-n1409540",
+    "site_full": "www.diariouno.com.ar",
+    "site": "diariouno.com.ar",
+    "site_section": "https://www.diariouno.com.ar",
+    "site_categories": [
+      "media",
+      "top_news_cl",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ar",
+      "top_news"
+    ],
+    "section_title": "Diario UNO",
+    "site_title": null,
+    "title": "AYSAM informó que por la tormenta una planta potabilizadora fue afectada",
+    "title_full": "AYSAM informó que por la tormenta una planta potabilizadora fue afectada",
+    "published": "2025-03-06T01:02:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://media.diariouno.com.ar/p/6cdaa75d0c8592c543adb591893dfd65/adjuntos/298/imagenes/009/358/0009358408/1200x675/smart/aguas-mendocinasjpg.jpg",
+    "performance_score": 0,
+    "domain_rank": 38687,
+    "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "85673290fd35b0a96b89101f932551ef3dbb4db1",
+  "url": "https://www.diariouno.com.ar/sociedad/aysam-informo-que-la-tormenta-una-planta-potabilizadora-fue-afectada-n1409540",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "diariouno",
+  "published": "2025-03-06T01:02:00.000+02:00",
+  "title": "AYSAM informó que por la tormenta una planta potabilizadora fue afectada",
+  "text": "Aguas Mendocinas (AYSAM) informó que las tormentas de este miércoles por la tarde afectaron la planta potabilizadora de Agua de las Avispas y Potrerillos, en Luján de Cuyo, que puede resentir el normal abastecimiento del Gran Mendoza.\nAguas Mendocinas (AYSAM) informó que las tormentas de este miércoles por la tarde afectaron la planta potabilizadora de Agua de las Avispas y Potrerillos, en Luján de Cuyo, que puede resentir el normal abastecimiento del Gran Mendoza.\nDesde la empresa pública solicitaron hacer un uso responsable y solidario del agua potable, para que el servicio se afecte lo menos posible.\nLas tormentas afectaron a Maipú, Junín, Tupungato y Luján de Cuyo.\nEl Servicio Meteorológico Nacional (SMN) mantiene para esta tarde y noche alerta amarilla por tormentas eléctricas en el Gran Mendoza, exceptuando Luján de Cuyo y Las Heras, la zona Este, Tupungato, Tunuyán, San Carlos y San Rafael.\nSegún la institución encargada de informar el tiempo y el clima en todo el país, el alerta amarilla indica posibles fenómenos meteorológicos con capacidad de daño y riesgo de interrupción momentánea de actividades cotidianas.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Disaster and Accident",
+    "Health"
+  ],
+  "topics": [
+    "Environment->water pollution",
+    "Disaster and Accident->natural disaster",
+    "Health->health facility",
+    "Health->public health"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.smn.gob.ar/alertas",
+    "https://smn.gob.ar/alertas"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Tunuyán",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Servicio Meteorológico Nacional",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "SMN",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-06T01:26:47.038+02:00",
+  "updated": "2025-03-06T01:26:47.038+02:00"
+}

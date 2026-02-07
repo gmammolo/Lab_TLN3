@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "346dae38cee5d525a9ebd7ff4bb133177c74702c",
+    "url": "https://www.freebuf.com/articles/444273.html",
+    "site_full": "www.freebuf.com",
+    "site": "freebuf.com",
+    "site_section": "https://www.freebuf.com/rss",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "FreeBuf网络安全行业门户",
+    "site_title": "FreeBuf网络安全行业门户",
+    "title": "加一个字母就可以绕过AI围栏，新的漏洞：TokenBreak",
+    "title_full": "加一个字母就可以绕过AI围栏，新的漏洞：TokenBreak",
+    "published": "2025-08-14T08:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 35210,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "346dae38cee5d525a9ebd7ff4bb133177c74702c",
+  "url": "https://www.freebuf.com/articles/444273.html",
+  "ord_in_thread": 0,
+  "author": "所属地 上海",
+  "published": "2025-08-14T08:13:00.000+03:00",
+  "title": "加一个字母就可以绕过AI围栏，新的漏洞：TokenBreak",
+  "text": "提示词注入攻击已经成为大模型及应用的主要威胁，攻防仍在继续，就象打地鼠，你来我往。当前对提示词的主要防护方法是检测，而检测的主要方法，是BERT模型，因为BERT模型相对小一些，用于分类比较合适，性能好。整体检测的过程类似下图，Defentse Model用于检测，如果检测到注入，就阻断（图中右下），如果检测不到，就放行，图中右上。\n发现漏洞\n最近，HiddenLayer 的安全研究团队发现了一种绕过文本分类模型（用于检测恶意输入，例如即时注入、恶意内容或垃圾邮件）的方法。这种名为 TokenBreak 的新型漏洞利用了模型对文本进行标记的方式。该团队通过以特定方式添加字母来巧妙地改变输入单词，从而能够在规避保护模型检测的同时，保留目标单词的含义。这项研究发现，只需在某些单词前添加字符即可实现提示注入。最初的成功源于经典的“ignore previous instructions and… ”，后来改为“ignore previous finstructions and… ”。没错，只加了一个f,这一简单的修改使得提示绕过了防御模型，同时仍然保持了其对目标LLM的有效性。与完全扰乱输入提示并破坏两种模型理解的攻击不同，TokenBreak 会在防御模型和目标LLM之间造成理解上的分歧，使其成为针对生产LLM系统的实际攻击。\n进一步测试\n发现这项技术后，我们的团队想看看这是否是一种可移植的绕过方法，因此我们开始针对 HuggingFace 上托管的大量文本分类模型进行测试，并将整个过程自动化，以便能够将大量示例提示与各种模型进行测试。研究范围进一步扩大，不仅测试了提示注入模型，还测试了恶意代码和垃圾邮件检测模型。这种绕过方法似乎对许多模型都有效，但并非所有模型都有效。在测试过程中，我们能够根据模型系列准确预测模型是否容易受到 TokenBreak 攻击。实际检测的成功率\n我们发现 BERT、DistilBERT 和 RoBERTa 等模型容易受到攻击，而 DeBERTa-v2 和 v3 模型则不易受到攻击。\n一个实际的例子\n经过严格的测试，我们证明 TokenBreak 能够成功在文本分类模型中引发假阴性结果。为了验证这是否是一种切实可行的攻击技术，我们尝试回答以下问题：\n- 原始提示是否被保护模型检测到？\n- 被操纵的提示是否会被保护模型检测到？\n- 目标是否理解所操纵的提示？\n我们使用BPE标记化策略的保护模型对此进行了测试，以了解目标如何处理被操纵的提示。在这三种情况下，保护模型都检测到了原始提示，而没有检测到被操纵的提示：注意，此表格从翻译图上已经看不出差别，但从英文图上，第一行，就改了两个字母:the ->gthe, above->habove。\n为什么这样做有效？\n原因何在？因为模型系列和 token 化技术是成对出现的。\n我们研究的一项重要发现是，使用 Unigram 分词策略的模型不易受到此类攻击。这归功于分词器的工作方式，这里简要分析了分词器之间的差异以及导致模型分类差异的原因：BPEBPE 分词采用训练语料库中独特的单词集及其频率计数来创建基础词汇表。在此基础上，它选取出现频率最高的相邻符号对，并不断合并它们以创建新的分词，直到达到词汇表的大小。合并过程会被保存，以便模型在推理过程中接收输入时，能够利用此过程从单词的开头开始将单词拆分为分词。在我们的示例中，字符f、i和n经常相邻出现，因此这些字符将组成一个分词。这种分词策略使模型将fin 指令拆分为三个独立的分词：fin、struct和ions。WordPieceWordPiece 分词算法与 BPE 类似。然而，它不是简单地合并频繁出现的相邻符号对来形成基础词汇表，而是合并相邻符号以创建一个它认为在概率上对提升模型语言理解能力影响最大的分词。此过程重复进行，直到达到指定的词汇量。与保存合并规则不同，WordPiece 仅保存词汇表并在推理过程中使用，以便模型在接收输入时知道如何使用已知最长的子词，从单词的开头开始将单词拆分为分词。在我们的示例中，字符f、i、n和s经常相邻出现，因此会被合并，从而使模型将fin 指令拆分为三个独立的分词：fins、truct和ions。 UnigramUnigram 分词算法的工作原理与 BPE 和 WordPiece 不同。Unigram 并非通过合并符号来构建词汇表，而是先从庞大的词汇表开始，然后逐步精简。精简过程通过计算移除一个分词对模型性能的负面影响，并逐渐移除最不实用的分词，直到达到指定的词汇量。重要的是，Unigram 并非像 BPE 和 WordPiece 那样从左到右对模型输入进行分词，而是使用概率来计算对每个输入词进行分词的最佳方式，因此，在我们的示例中，模型将指令保留为一个分词。综上,Unigram保留了原始的分词方式，使分类模型仍然有效。而BPE和WordPiece修改了分词，使得分类模型失效。而在指令送入目标大模型时，大模型忽略了新增的字符，保留了攻击的含意。以下是一些模型的分词方式，可以参考使用。\n总结\n基于以上分析，在使用文本分类模型用于提示词检测的时候，优先选择Unigram类的模型。但攻防还在继续，今天的正确不代表明天仍然正确。\n论文链接：\n如需授权、对文章有疑问或需删除稿件，请联系 FreeBuf 客服小蜜蜂（微信：freebee1024）",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:35:17.690+03:00",
+  "updated": "2025-08-14T10:39:21.000+03:00"
+}

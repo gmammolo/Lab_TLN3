@@ -1,0 +1,124 @@
+{
+  "thread": {
+    "uuid": "425e42996887e339617722e31e7119c77bdcb500",
+    "url": "https://www.schwarzwaelder-bote.de/inhalt.glaetteunfall-nahe-rottenburg-mehrere-schwerverletzte-bei-frontalkollision.f70d1f4d-31ee-41b1-b406-7f9a8581a37c.html",
+    "site_full": "www.schwarzwaelder-bote.de",
+    "site": "schwarzwaelder-bote.de",
+    "site_section": "https://www.schwarzwaelder-bote.de/.rss.feed",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news",
+      "economy, business and finance",
+      "arts, culture and entertainment",
+      "sport",
+      "lifestyle and leisure",
+      "politics",
+      "disaster and accident",
+      "crime, law and justice"
+    ],
+    "section_title": "Schwarzwälder Bote - Lokal",
+    "site_title": "Lokal - Schwarzwälder Bote",
+    "title": "Glätteunfall nahe Rottenburg: Mehrere Schwerverletzte bei Frontalkollision",
+    "title_full": "Glätteunfall nahe Rottenburg: Mehrere Schwerverletzte bei Frontalkollision",
+    "published": "2026-01-08T08:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.schwarzwaelder-bote.de/media.media.e7ad9e17-7990-45c0-bd18-54aab950688e.16x9_1024.jpg",
+    "performance_score": 1,
+    "domain_rank": 34947,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 13,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "425e42996887e339617722e31e7119c77bdcb500",
+  "url": "https://www.schwarzwaelder-bote.de/inhalt.glaetteunfall-nahe-rottenburg-mehrere-schwerverletzte-bei-frontalkollision.f70d1f4d-31ee-41b1-b406-7f9a8581a37c.html",
+  "ord_in_thread": 0,
+  "author": "(red/pz)",
+  "published": "2026-01-08T08:33:00.000+02:00",
+  "title": "Glätteunfall nahe Rottenburg: Mehrere Schwerverletzte bei Frontalkollision",
+  "text": "Ein 24-jähriger Audi-Fahrer ist am Mittwochnachmittag nahe Ofterdingen bei winterlichen Straßenverhältnissen ins Rutschen geraten und in den Gegenverkehr geprallt. Vier seiner Mitfahrer wurden schwer verletzt.\nBei einer Frontalkollision am Mittwochnachmittag auf der L 385 bei Rottenburg sind mehrere Personen zum Teil schwer verletzt worden.\nDen derzeitigen verkehrspolizeilichen Ermittlungen zufolge fuhr ein 24 Jahre alter Mann mit einem Audi gegen 15.40 Uhr auf der Landesstraße von Ofterdingen herkommend in Richtung Dettingen. Kurz vor einer scharfen Rechtskurve bremste der Fahrer ab, worauf der Wagen aufgrund von Glätte auf die Gegenfahrspur rutschte und dort frontal mit einem entgegenkommenden Ford eines 63-Jährigen kollidierte.\nBeim Zusammenstoß erlitt der 24-Jährige ersten Erkenntnissen zufolge leichte Verletzungen. Vier im Audi mitfahrende Personen im Alter zwischen 23 und 26 Jahren wurden nach derzeitigem Kenntnisstand schwer verletzt. Alle Verletzten wurden vom Rettungsdienst in umliegende Kliniken gebracht. Der Ford-Fahrer war unverletzt geblieben.\nDer Gesamtschaden an den beiden Autos, die abgeschleppt werden mussten, dürfte sich auf circa 20.000 Euro belaufen.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->transportation accident and incident"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Landesstraße von Ofterdingen",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rottenburg",
+        "sentiment": "none"
+      },
+      {
+        "name": "Dettingen",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Audi",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "VWAGY",
+            "exchange": "OTCMKTS"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T08:46:24.865+02:00",
+  "updated": "2026-01-09T09:07:13.000+02:00"
+}

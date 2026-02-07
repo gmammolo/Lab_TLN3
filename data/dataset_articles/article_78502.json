@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "e7948b03624299501c077d73b10fdbda144656a9",
+    "url": "https://pplware.sapo.pt/internet/seguranca/ha-uma-falha-grave-no-plex-e-hora-de-atualizar-rapidamente/",
+    "site_full": "pplware.sapo.pt",
+    "site": "sapo.pt",
+    "site_section": "https://sapo.pt/noticias/tecnologia",
+    "site_categories": [
+      "tech",
+      "top_news_br",
+      "top_news_ch",
+      "top_news_pt",
+      "top_news"
+    ],
+    "section_title": "Tecnologia - Not&iacute;cias de tecnologia atualizadas ao minuto - SAPO",
+    "site_title": "Pplware | Notícias de Tecnologia",
+    "title": "Há uma falha grave no Plex! É hora de atualizar rapidamente",
+    "title_full": "Há uma falha grave no Plex! É hora de atualizar rapidamente",
+    "published": "2025-08-21T12:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "PT",
+    "main_image": "https://pplware.sapo.pt/wp-content/uploads/2022/08/plex_password_1.jpg",
+    "performance_score": 0,
+    "domain_rank": 1991,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [
+      "NLA"
+    ],
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 8
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e7948b03624299501c077d73b10fdbda144656a9",
+  "url": "https://pplware.sapo.pt/internet/seguranca/ha-uma-falha-grave-no-plex-e-hora-de-atualizar-rapidamente/",
+  "ord_in_thread": 0,
+  "author": "Pedro Simões",
+  "published": "2025-08-21T12:30:00.000+03:00",
+  "title": "Há uma falha grave no Plex! É hora de atualizar rapidamente",
+  "text": "A segurança é um tema que pode surgir de qualquer lado. Estamos constantemente expostos e isso pode ser um problema. Uma vulnerabilidade de segurança acaba de ser descoberta no Plex. Para proteger os seus utilizadores, o Plex lançou com urgência um patch de segurança.\nPlex lança atualização de emergência O Plex , a popular plataforma de servidores de media , foi atingido por uma vulnerabilidade. Um utilizador descobriu uma falha de segurança nas \"versões 1.41.7. x a 1.42.0. x do Plex Media Server \", informou o Plex. O utilizador que fez a descoberta contactou o Plex através do programa de recompensas por bugs , que oferece recompensas pela localização de bugs.\nPouco depois, a Plex contactou todos os utilizadores afetados por e-mail. O e-mail refere que a Plex \"conseguiu corrigir o problema, lançar uma atualização do servidor e continuar a reforçar a nossa segurança e defesas \". Como a Plex sublinha no seu comunicado, a violação afetou versões mais antigas do software, com alguns meses ou semanas de duração.\nA plataforma recomenda que todos os utilizadores afetados \"atualizem o seu Plex Media Server para a versão mais recente o mais rapidamente possível \". O Plex sublinha que a nova versão do software, iteração 1.42.1.10060 ou posterior, já está disponível. Está disponível no site do Plex, na página de downloads .\nInstalar o patch Plex rapidamente A empresa tem tido o cuidado de não divulgar detalhes sobre a falha. O Plex provavelmente quer impedir que os criminosos tentem explorá-la em ataques antes que todos os utilizadores tenham a oportunidade de instalar o patch. Recomendamos vivamente que instale a atualização antes que os hackers encontrem uma forma de explorar a falha analisando o código no patch. É raro o Plex contactar os seus utilizadores para solicitar a instalação de uma atualização de segurança para uma falha específica, pelo que se pode presumir que a situação é crítica.\nRecorde-se que uma vulnerabilidade no Plex esteve na origem do ciberataque de 2022 ao gestor de palavras-passe LastPass. Para invadir o sistema da empresa, os atacantes invadiram um dos computadores privados dos engenheiros, explorando uma falha de software que datava de 2020. O engenheiro aparentemente esqueceu-se de atualizar o seu software durante anos.\nCorrigida pelo Plex, a falha permitia que \"um atacante com acesso à conta Plex do administrador do servidor carregasse um ficheiro malicioso através da funcionalidade de carregamento da câmara e o executasse no servidor de multimédia\". O caso ilustra a importância de manter o Plex, bem como todo o seu software e sistemas operativos, atualizados.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "portuguese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_br",
+      "top_news_ch",
+      "top_news_pt",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:52:50.857+03:00",
+  "updated": "2025-08-22T13:09:45.000+03:00"
+}

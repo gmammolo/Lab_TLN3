@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "9b658a634cb98c4187a567774a190727c3ce0f6f",
+    "url": "https://www.hackster.io/news/this-open-source-pick-and-place-machine-is-inexpensive-yet-highly-capable-8a9e39e8edbe",
+    "site_full": "www.hackster.io",
+    "site": "hackster.io",
+    "site_section": "https://www.hackster.io/news.atom",
+    "site_categories": [
+      "hobbies_and_interests",
+      "tech"
+    ],
+    "section_title": "Hackster News - Hackster.io",
+    "title": "This Open Source Pick-and-Place Machine Is Inexpensive, Yet Highly Capable - Hackster.io",
+    "title_full": "This Open Source Pick-and-Place Machine Is Inexpensive, Yet Highly Capable - Hackster.io",
+    "published": "2024-04-11T22:46:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://hackster.imgix.net/uploads/attachments/1703307/_XBtJUdwAWw.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min",
+    "performance_score": 0,
+    "domain_rank": 4682,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9b658a634cb98c4187a567774a190727c3ce0f6f",
+  "url": "https://www.hackster.io/news/this-open-source-pick-and-place-machine-is-inexpensive-yet-highly-capable-8a9e39e8edbe",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Evan Rust",
+  "published": "2024-04-11T22:46:00.000+03:00",
+  "title": "This Open Source Pick-and-Place Machine Is Inexpensive, Yet Highly Capable - Hackster.io",
+  "text": "Why use a pick-and-place machine? The time involved in designing, manufacturing, and assembling a PCB can be immense, as each step requires precision and validation to eliminate mistakes that could lead to a non-functional product. And although nearly everyone outsources their PCB fabrication to specialty companies due to their low cost, assembly is different, as it can be very expensive depending on the quantity and type of components required.\nFor individuals, assembling by-hand is fine, since a pair of tweezers, a magnifying glass, and some solder can drastically reduce cost at the expense of more time-consuming labor. But for larger volumes, assembly is handled by large machines that grab each component and precisely position it onto the PCB's pads. This has the effect of not only speeding up production, but also removing several sources of human error such as incorrect orientation or using a part with the wrong value.\nOpenPnP and PixiePlacer Unlike its commercial counterparts, the OpenPnP project aims to enable people to create their own CNC machines and give them the ability to pick-and-place components with ease, or even convert existing hardware to have an expanded feature set compared to the stock version. The PixiePlacer is one such custom machine that was designed with the goal of being used for mid-scale manufacturing at a reasonable price-point.\nThe features In terms of surface area, the PixiePlacer has a usable bed size of 655mm by 520mm, making it great for populating large PCB panels simultaneously. The toolhead is a dual nozzle design where each one can move along the Z-axis independently and even change out the type of nozzle automatically based on the component being placed. The left and right sides of the machine have spaces for adding up to 20 automatic component feeders each, and the toolhead is able to accurately tell their orientations thanks to a dual-camera computer vision system.\nMovement and motion control The CNC's gantry system is made up of just three linear axes. Because of its rectangular shape, the Y-axis is driven along two parallel rails with a single stepper motor, drive shaft, and dual sets of pulleys and timing belts. The middle X-axis, however, is a single rail and motor that slides the toolhead left and right. Finally, the toolhead's two nozzles move vertically thanks to another stepper motor and belt. In addition to driving the motors, the Marlin motion controller board is also responsible for toggling the nozzles, camera illumination LEDs, and the vacuum pump via a set of relays.\nCameras Even with an ideal machine, the inconsistent nature of component reels means that some form of computer vision is almost always needed to avoid costly errors when placing parts. PixiePlacer contains a pair of cameras to combat this. The downward facing one sits just behind the toolhead and looks at the PCB to determine pad placement and orientation. Meanwhile, the other camera, mounted just underneath the bed, faces upwards and looks at components to see if they require rotation before placement begins.\nUpcoming improvements The PixiePlacer is already quite capable, but the developer behind it is currently working on a couple new features that would bring even more to the table. The main one is the \"Automagic Pixiefeeder,\" which lets users load the component tape reel and then allow OpenPnP to advance the tape when needed via a motor. Secondary to the feeder is a solder paste dispensing head that could remove the need for stencils by simply applying a small dot of paste onto exposed pads wherever needed.\nMore information can be found here on the PixiePlacer's GitHub repository .\nrobotics sensor 3d printing pcb cnc Evan Rust Follow IoT, web, and embedded systems enthusiast. Contact me for product reviews or custom project requests.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://github.com/PixiePlacer/PixiePlacer",
+    "https://www.github.com/PixiePlacer/PixiePlacer"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "cnc",
+        "sentiment": "none"
+      },
+      {
+        "name": "pcb",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T00:13:26.240+03:00",
+  "updated": "2024-04-12T00:13:26.240+03:00"
+}

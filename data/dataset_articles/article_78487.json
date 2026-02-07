@@ -1,0 +1,147 @@
+{
+  "thread": {
+    "uuid": "6a8f42a3c58e5bb22490978c308dbe48e4bed099",
+    "url": "https://joshwand1.substack.com/p/agentsmd-gets-it-wrong-in-2-ways",
+    "site_full": "joshwand1.substack.com",
+    "site": "substack.com",
+    "site_section": "https://hn.algolia.com/latest.atom",
+    "site_categories": [],
+    "section_title": "HN's home page",
+    "site_title": "Home | Substack",
+    "title": "AGENTS.md gets it wrong in 2 ways - Josh Wand's Substack",
+    "title_full": "AGENTS.md gets it wrong in 2 ways - Josh Wand's Substack",
+    "published": "2025-08-21T06:10:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://substackcdn.com/image/fetch/$s_!wbJS!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0199d4e9-5c15-48b0-8e54-a47fcd83bbbe_1865x1526.png",
+    "performance_score": 0,
+    "domain_rank": 260,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6a8f42a3c58e5bb22490978c308dbe48e4bed099",
+  "url": "https://joshwand1.substack.com/p/agentsmd-gets-it-wrong-in-2-ways",
+  "ord_in_thread": 0,
+  "author": "Josh Wand",
+  "published": "2025-08-21T06:10:00.000+03:00",
+  "title": "AGENTS.md gets it wrong in 2 ways - Josh Wand's Substack",
+  "text": "A new proposed standard for coding agent rules has been making the rounds: AGENTS.md . There's not a lot to it—it's a single text file (mostly) to be included as context to your conversations with LLM coding agents.\nVarious tool vendors have had competing ideas about how to structure rules —some have that same single text file, just with a different name, some let you reference/import other text files from the main file, others let the LLM pick which rules to use based on the content of the conversation.\nI think this new \"standard\" gets several things wrong:\nA single text file (with directory-based overrides) is the wrong abstraction\nIts suggestions on content are woefully inadequate\nThe Wrong Abstraction\nThe proposed standard is a single markdown text file named AGENTS.md, that can be overridden/supplemented by additional AGENTS.md in subdirectories.\nA single text file is not navigable\nTo be useful in anything but a tiny project, more context is needed at the global level than can be easily maintained in a single text file. Even the examples they give are realistically too big to fit easily in a single human-maintainable file:\nProject overview\nBuild and test commands\nCode style guidelines\nTesting instructions\nSecurity considerations\nA much better approach taken by many tools is to let you break up the content into smaller, self-contained, single-purpose files. (Why shouldn't our documentation-writing structure should follow the same principles as our code-writing structure?) This makes the rules much easier to read and maintain.\nExamples: Claude Code's format lets you import other files by reference; Cursor lets you define any number of rules files with suggestions on when they should be referenced .\nNested AGENTS.md makes some big assumptions\nFor monorepos, AGENTS.md allows you to use nested AGENTS.md files in each package directory:\nAgents automatically read the nearest file in the directory tree, so the closest one takes precedence and every subproject can ship tailored instructions.\nWhat if instructions conflict?\nThe closest AGENTS.md to the edited file wins; explicit user chat prompts override everything.\nThis makes a whole bunch of assumptions:\nThere’s only one file being edited\nThere’s a file being edited at all!\nThe scope of a single rules file corresponds to the directory it lives in (consider: /frontend/users , /backend/users )\nThere’s no ambiguity or impedance mismatch between the nested rules files (parent: \"write only functional tests!\" child: \"write only unit tests!\")\nThere’s also one really big unstated and almost certainly false assumption—that the agent can be relied upon to absolutely follow such guidelines about which rules to follow or tool calls to make. This is especially true in the case of this FAQ:\nWill the agent run testing commands found in AGENTS.md automatically?\nYes—if you list them. The agent will attempt to execute relevant programmatic checks and fix failures before finishing the task.\nNo agent will reliably follow any such instructions —even assuming there is no ambiguity—nor is such behavior enforceable by the orchestrator managing the agent.\nA better approach: imports and hooks\nClaude and Cursor make some good attempts at more adaptable rule inclusion, via references, file globs, and tool-like rule descriptions, but if we take a very small step upward in the abstraction tree, aren't these rule systems just a startup hook about what context to inject into a system message?\nClaude Code has a comprehensive hooks system , that while encompassing more than the rules use case, can certainly be leveraged to do more complex, project-specific calculus about what rules to include.\nI, however use Cursor, which lacks hooks functionality, so I have to take matters into my own hands to force it to run.\nI have a system of memory and rules that I use, which has many individual files for various purposes, and a global rules repo that I symlink into Cursor’s rules directory.\nOne of the first entries in my global rules is as follows:\nYOUR FIRST TWO TURNS: Your first response must always be a tool call to read the memory (`.mr` command). Your second response must always be a tool call to read the output (\"repomix-output.md\").\nI use the excellent repomix tool to compile the essential portion of my memory structure and read it into context. (That .mr command is defined elsewhere, as npx repomix --quiet --include _memory/ --ignore _memory/knowledgeBase --style markdown .)\n(Note to self: I need make this load the rest of the rules, too, since Cursor requires hacks to ensure \"always\" rules are actually \"always\" imported.\nFurther hooks possibilities\nIn the grand scheme of things this is pretty basic usage. There are lots more possibilities with running commands in hooks than I currently use.\nOne could:\nMaintain a better map structure of path to common rules ( {\"/frontend/users\": \"users.md\",\"/backend/users\": \"users.md\"} )\nAs in my example above, when working on a cross-cutting concern like a domain object, load the business, architecture, and coding rules and context that apply to that concern, regardless of which component you invoked it from\nUse additional environment context to determine which context to load—recent git changes, PR contents, bug details from your issue tracker, relevant wiki pages, etc.\nPass all these details to another LLM to have *it* decide what context to include\nInvoke the LLM-based context generation after the first user message to take into account your current intent\nThe context engineering possibilities are endless!\nWhat is the right context, though?\nThe examples given on the AGENTS.md site, and most examples that I find around the web about the content of AGENTS.md and similar, mostly restrict themselves to coding style, conventions, build instructions, and micro-level architecture considerations (\"use react hooks\").\nThe slightly more advanced rulesets attempt to provide sound programming principles , or define the desired coding/testing workflow .\nBut there’s so much more project-specific guidance that’s helpful to include, depending on the type of task you’re working on, that few people think to include. More importantly, I'm referring to context that the AI can't infer from reading the code .\nTo give an example, perhaps you’ve experienced the phenomenon where the agent will code something that’s either:\nFar too complicated and robust for your project\nHacky \"simplest thing that could possibly work\" duct-tape solution\nWhat's missing here is a view on where you are in your project's lifecycle —MVP? Mature product? Just a POC that will only ever run on your own machine?\nOr maybe you're implementing a new feature. Some things that AI can't determine from reading the code:\nWhere are your users located?\nWhat are the different personas that have to be taken into account?\nWhat the heck is a (your domain object here) and how does it interact with outside data sources?\nWhat's the larger process or business context of the user flow you're implementing?\nWhat's more important for this particular feature set: latency or resiliency?\nI always like to say:\nThe AI can't read your mind.\nor, alternately:\nThe AI can't read the room.\nNow, different kinds of real-world business context are going to be required for different types of tasks. If you're writing test cases, you don't need to know your competitive advantage, but you sure do need to know the nature of the data and where it comes from. If you're planning a new feature or making a UI, you might not need to know your SQL standards, but you probably need to know who your users are.\nHere's another way of thinking about it:\nYes, the AI is a junior engineer. If you've worked on a team building software, you've surely experienced one or more of the following:\nAs a junior, you plowed ahead with some incorrect assumptions that your senior or PM had to correct\nAs a lead or PM, you've inadvertently underspecified a request, and the dev has come back with questions (or worse, they didn't).\nThis is why in a team of any size, there are onboarding docs, reference materials, decision logs, design docs, process standards, and a process for how a new dev comes up to speed on all the different aspects of the project. Inevitably, there are gaps, or things get out of date, and you end up feeling the consequences of it when things don't work as expected.\nIf you want good output, you need to onboard the LLM \"junior dev\" in each and every conversation.\nI have a separate post coming soon about how I think this knowledge/context base should be structured, but you can also take a peek at the memory section of my coding-agent-rules github repo .\nCoda: open questions\nTwo quick notes/questions:\nDespite my pontificating, and endless threads on HN and Reddit, I've yet to find actual research or benchmarks on whether these kinds of rules and context engineering are actually effective/useful for coding agent tasks?\nIs anybody trying project-specific fine-tuning or LORAs, instead of rules in the system/user messages?\nShare this post\nJosh Wand's Substack AGENTS.md gets it wrong in 2 ways\nCopy link\nFacebook\nEmail\nNotes More\nShare",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific standards",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business reporting and performance",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Social Issue->demographics",
+    "Social Issue->values",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://docs.cursor.com/en/context/rules",
+    "https://docs.anthropic.com/en/docs/claude-code/memory#claude-md-imports",
+    "https://agents.md/#examples",
+    "https://docs.cline.bot/features/cline-rules",
+    "https://docs.cursor.com/en/context/rules#rule-anatomy",
+    "https://docs.anthropic.com/en/docs/claude-code/hooks-guide",
+    "https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516",
+    "https://github.com/joshwand/coding-agent-rules/tree/main?tab=readme-ov-file#installation",
+    "https://cursor.directory/rules",
+    "https://github.com/joshwand/coding-agent-rules/blob/9b39ee71eaba84628a9aef47aa2c78a63f4ae848/rules_manager.py#L14",
+    "https://docs.augmentcode.com/setup-augment/guidelines",
+    "https://agents.md/",
+    "https://repomix.com/guide/",
+    "https://github.com/joshwand/coding-agent-rules",
+    "https://docs.roocode.com/features/custom-instructions",
+    "https://gist.github.com/ruvnet/7d4e1d5c9233ab0a1d2a66bf5ec3e58f",
+    "https://docs.windsurf.com/windsurf/cascade/memories",
+    "https://developers.google.com/gemini-code-assist/docs/agent-mode#agent-mode-context",
+    "https://github.com/joshwand/coding-agent-rules/blob/main/memory.md",
+    "https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions",
+    "https://www.agents.md/",
+    "https://www.docs.roocode.com/features/custom-instructions",
+    "https://www.github.com/joshwand/coding-agent-rules/tree/main?tab=readme-ov-file#installation",
+    "https://www.github.com/joshwand/coding-agent-rules",
+    "https://www.github.com/joshwand/coding-agent-rules/blob/main/memory.md",
+    "https://www.docs.cursor.com/en/context/rules",
+    "https://repomix.com/guide",
+    "https://www.github.com/joshwand/coding-agent-rules/blob/9b39ee71eaba84628a9aef47aa2c78a63f4ae848/rules_manager.py#L14",
+    "https://www.agents.md/#examples",
+    "https://www.developers.google.com/gemini-code-assist/docs/agent-mode#agent-mode-context",
+    "https://www.cursor.directory/rules",
+    "https://www.forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516",
+    "https://www.docs.windsurf.com/windsurf/cascade/memories",
+    "https://www.docs.cline.bot/features/cline-rules",
+    "https://www.docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions",
+    "https://www.docs.anthropic.com/en/docs/claude-code/hooks-guide",
+    "https://www.docs.augmentcode.com/setup-augment/guidelines",
+    "https://www.docs.cursor.com/en/context/rules#rule-anatomy",
+    "https://www.gist.github.com/ruvnet/7d4e1d5c9233ab0a1d2a66bf5ec3e58f",
+    "https://agents.md",
+    "https://www.repomix.com/guide/",
+    "https://www.docs.anthropic.com/en/docs/claude-code/memory#claude-md-imports",
+    "https://github.com/joshwand/coding-agent-rules/tree/main"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Josh Wand",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "fake_news"
+    ],
+    "top_news": [],
+    "bias": "left",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T08:19:02.358+03:00",
+  "updated": "2025-08-21T08:23:12.000+03:00"
+}

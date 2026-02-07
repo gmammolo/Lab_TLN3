@@ -1,0 +1,89 @@
+{
+  "thread": {
+    "uuid": "74389d54464eb7bf0f75c5e9a35f96d0d40197ab",
+    "url": "https://askubuntu.com/questions/1403817/i-cant-turn-on-bluetooth-in-ubuntu-22-04-lts",
+    "site_full": "askubuntu.com",
+    "site": "askubuntu.com",
+    "site_section": "http://askubuntu.com/feeds",
+    "site_categories": [],
+    "section_title": "Recent Questions - Ask Ubuntu",
+    "title": "I can't turn on Bluetooth in Ubuntu 22.04 LTS",
+    "title_full": "I can't turn on Bluetooth in Ubuntu 22.04 LTS",
+    "published": "2024-08-30T11:57:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+    "performance_score": 0,
+    "domain_rank": 2528,
+    "domain_rank_updated": "2024-08-27T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 32
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "74389d54464eb7bf0f75c5e9a35f96d0d40197ab",
+  "url": "https://askubuntu.com/questions/1403817/i-cant-turn-on-bluetooth-in-ubuntu-22-04-lts",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "DSKTP DSKTP",
+  "published": "2024-08-30T11:57:00.000+03:00",
+  "title": "I can't turn on Bluetooth in Ubuntu 22.04 LTS",
+  "text": "Just installed a fresh copy of Ubuntu 22.04 LTS on my Lenovo laptop and the entire Bluetooth system doesn't work (I mean the toggle doesn't work). I'm getting the message shown in the below screenshot:\nHere is the output of\nlspci -knn | grep Net -A3; lsusb; dmesg | grep -i blue:\n09:00.0 Network controller [0280]: Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter [168c:0036] (rev 01) Subsystem: Lenovo QCA9565 / AR9565 Wireless Network Adapter [17aa:4026] Kernel driver in use: ath9 Kernel modules: ath9k Bus 001 Device 002: ID 8087:8001 Intel Corp. Integrated Hub Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub Bus 002 Device 004: ID 0cf3:3004 Qualcomm Atheros Communications AR3012 Bluetooth 4.0 Bus 002 Device 003: ID 13d3:5727 IMC Networks Lenovo EasyCamera Bus 002 Device 002: ID 1c4f:0c07 SiGma Micro USB Keyboard Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub dmesg: read kernel buffer failed: Operation not permitted\nI tried everything, but can't make it work. Am I missing something?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Lifestyle and Leisure"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "lenovo",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "intel corp",
+        "sentiment": "none"
+      },
+      {
+        "name": "qualcomm atheros communications",
+        "sentiment": "none"
+      },
+      {
+        "name": "integrated hub",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "ubuntu",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null
+  },
+  "rating": null,
+  "crawled": "2024-08-30T12:09:09.054+03:00",
+  "updated": "2024-08-30T12:09:09.054+03:00"
+}

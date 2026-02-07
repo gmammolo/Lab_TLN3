@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "922b992066c0aee5e00c6128f94c316defab6596",
+    "url": "https://www.swissinfo.ch/spa/al-menos-14-heridos-en-un-nuevo-ataque-nocturno-ruso-contra-járkov/89502252",
+    "site_full": "www.swissinfo.ch",
+    "site": "swissinfo.ch",
+    "site_section": "https://www.swissinfo.ch/spa",
+    "site_categories": [
+      "media",
+      "top_news_ch",
+      "top_news"
+    ],
+    "section_title": "Suiza, noticias y perspectivas - SWI swissinfo.ch",
+    "site_title": "Switzerland - News and perspectives - SWI swissinfo.ch",
+    "title": "Al menos 14 heridos en un nuevo ataque nocturno ruso contra Járkov - SWI swissinfo.ch",
+    "title_full": "Al menos 14 heridos en un nuevo ataque nocturno ruso contra Járkov - SWI swissinfo.ch",
+    "published": "2025-06-12T09:15:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CH",
+    "main_image": "https://www.swissinfo.ch/spa/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1744361540",
+    "performance_score": 0,
+    "domain_rank": 1962,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "922b992066c0aee5e00c6128f94c316defab6596",
+  "url": "https://www.swissinfo.ch/spa/al-menos-14-heridos-en-un-nuevo-ataque-nocturno-ruso-contra-járkov/89502252",
+  "ord_in_thread": 0,
+  "author": "SWI swissinfo.ch",
+  "published": "2025-06-12T09:15:00.000+03:00",
+  "title": "Al menos 14 heridos en un nuevo ataque nocturno ruso contra Járkov - SWI swissinfo.ch",
+  "text": "Al menos 14 heridos en un nuevo ataque nocturno ruso contra Járkov\nKiev, 12 jun (EFE).- Al menos 14 civiles resultaron heridos este jueves en un ataque nocturno con drones rusos contra la ciudad de Járkov, en el noreste de Ucrania, y la segunda más grande del país después de Kiev, un día después de que murieran tres personas y otras 60 fueran heridas en circunstancias similares.\n«Por la noche, el enemigo atacó Járkov con drones. Se produjeron incendios en los distritos de Saltivski, Slobodski y Shevchenkivski de la ciudad; ardieron viviendas, locales comerciales y coches. 14 personas fueron heridas, incluidos cuatro niños», informaron los servicios de emergencia del Estado en Telegram.\nLas labores de rescate y de apagado de incendios todavía continúan.\nEn la noche del martes al miércoles los ataques con drones causaron la muerte de tres personas, una mujer de 47 años y dos varones de 65, y otras 60 resultaron heridas, entre ellas un niño de cinco años.EFE\ncph-mg/ig",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "War, Conflict and Unrest",
+    "Politics",
+    "Social Issue"
+  ],
+  "topics": [
+    "War, Conflict and Unrest->armed conflict",
+    "Politics->political crisis",
+    "Politics->human rights",
+    "Social Issue->discrimination",
+    "Social Issue->communities",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Járkov\nKiev",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "EFE",
+        "sentiment": "negative",
+        "tickers": [
+          {
+            "ticker": "EFE",
+            "exchange": "ASX"
+          }
+        ]
+      },
+      {
+        "name": "Estado",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_ch",
+      "top_news"
+    ],
+    "bias": "center"
+  },
+  "rating": null,
+  "crawled": "2025-06-12T10:22:02.148+03:00",
+  "updated": "2025-06-13T08:04:58.000+00:00"
+}

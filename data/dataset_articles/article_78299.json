@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "d300cf3c34cefb9f205feecc909cf1e1555638f9",
+    "url": "https://habr.com/ru/news/939220/",
+    "site_full": "habr.com",
+    "site": "habr.com",
+    "site_section": "https://habr.com/ru/news",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "IT-новости: главные новости технологий &#x2F; Хабр",
+    "site_title": "Publications &#x2F; My feed &#x2F; Habr",
+    "title": "В российских приложениях каршеринга и кикшеринга нашли более 400 уязвимостей",
+    "title_full": "В российских приложениях каршеринга и кикшеринга нашли более 400 уязвимостей",
+    "published": "2025-08-21T09:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://habrastorage.org/getpro/habr/upload_files/ffd/dc0/f3f/ffddc0f3f0ffb1a98e247570f51b4a6b.jpeg",
+    "performance_score": 0,
+    "domain_rank": 1737,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d300cf3c34cefb9f205feecc909cf1e1555638f9",
+  "url": "https://habr.com/ru/news/939220/",
+  "ord_in_thread": 0,
+  "author": "maybe_elf",
+  "published": "2025-08-21T09:27:00.000+03:00",
+  "title": "В российских приложениях каршеринга и кикшеринга нашли более 400 уязвимостей",
+  "text": "В 13 российских приложений для аренды автомобилей и самокатов обнаружено более 400 уязвимостей, которые создают риск утечки данных пользователей. Об этом сообщили эксперты по кибербезопасности компании Appsec Solutions, специализирующейся на автоматическом поиске подобных ошибок.\n25 из найденных уязвимостей были классифицированы как критически опасные. Это означает, что злоумышленники могли получить доступ к конфиденциальной информации пользователей, в том числе фотографиям паспортов и водительских прав, данным банковских карт, привязанных для автоматической оплаты, историям геолокаций и передвижений.\nКак выяснили аналитики, проблемы связаны с неправильным хранением данных, иногда в открытом виде без надлежащего шифрования; отсутствием защиты от взломанных устройств (нет функций, препятствующих запуску приложений на джейлбрейкнутых смартфонах); ошибками в коде, позволяющим проводить атаки на серверы или клиентскую часть приложения.\nЭксперты напомнили, что утечка чувствительных данных может привести к мошенничеству, краже личных данных и шантажу.\nСпециалисты по безопасности посоветовали регулярно обновлять приложения до последней версии, по возможности использовать двухфакторную аутентификацию, сторониться публичных Wi-Fi сетей при использовании сервисов.\nВ Appsec Solutions не раскрыли названия конкретных сервисов, но отметили, что все они доступны в App Store, RuStore и Google Play. Эксперты уведомили все затронутые компании о найденных уязвимостях.\nМежду тем исследователь в области информационной безопасности рассказал, что сотни серверов TeslaMate, расположенные по всему миру, открыто передают данные автомобилей Tesla без какой-либо защиты. В итоге вся телеметрия оказывается в открытом доступе. Эти данные включают точные координаты и маршруты поездок, а также графики владельцев машин, их адреса и время подзарядок.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Social Issue->social problem",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific research"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.vedomosti.ru/technology/articles/2025/08/20/1132822-v-prilozheniyah-dlya-arendi-avtomobilei-i-samokatov-nashli-400-uyazvimostei",
+    "https://vedomosti.ru/technology/articles/2025/08/20/1132822-v-prilozheniyah-dlya-arendi-avtomobilei-i-samokatov-nashli-400-uyazvimostei"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:06:24.308+03:00",
+  "updated": "2025-08-21T12:10:48.000+03:00"
+}

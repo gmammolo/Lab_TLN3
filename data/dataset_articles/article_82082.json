@@ -1,0 +1,82 @@
+{
+  "thread": {
+    "uuid": "2b05b2c38e90dc45496f0f017cf50265bc25dc38",
+    "url": "https://financefeeds.com/decentralized-storage-protocol-walrus-launches-public-testnet",
+    "site_full": "financefeeds.com",
+    "site": "financefeeds.com",
+    "site_section": "https://www.financefeeds.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "FinanceFeeds - The World’s Premier News Source For The Global Online Trading Industry.",
+    "title": "Decentralized Storage Protocol Walrus Launches Public Testnet",
+    "title_full": "Decentralized Storage Protocol Walrus Launches Public Testnet",
+    "published": "2024-10-17T21:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 33892,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2b05b2c38e90dc45496f0f017cf50265bc25dc38",
+  "url": "https://financefeeds.com/decentralized-storage-protocol-walrus-launches-public-testnet",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "chainwire",
+  "published": "2024-10-17T21:45:00.000+03:00",
+  "title": "Decentralized Storage Protocol Walrus Launches Public Testnet",
+  "text": "Akord, a web3 platform for securing and managing data, also begins its migration to Walrus Protocol.\nMysten Labs, the web3 infrastructure company, today announced that following a successful Devnet, Walrus Protocol, a decentralized storage network, has launched its public Testnet.\nWalrus Protocol stores and delivers large data files, including rich media content, audio files, video, images, PDFs and more, from any web2 or web3-based source. These large files, known as blobs, are stored quickly and efficiently by Walrus, whose storage is resilient, scalable, programmable, and secure. Walrus’s public Testnet, and its Testnet token, WAL, are served by Sui as the coordination layer. Sui provides a dedicated management architecture for Walrus to store its global state and metadata offering speedy consensus, composability, and the opportunity to integrate storage into smart contracts on Sui. Walrus’s Testnet launch will include:\nAPI endpoints that support deletable blobs, meaning data can be deleted. Dedicated Walrus explorer, allowing users to search data quickly and comprehensively, built by Stakestab Inc, maker of Suiscan & Blockberry API Platform. Full tokenomics ecosystem for the Walrus token, WAL, including epoch management, staking and unstaking, and rewards, as well as the WAL token faucet for developers. WAL staking app, developed by Mysten Labs. “As blockchain projects aim to become more decentralized, it has been apparent for quite some time that a decentralized storage network was needed for networks of all kinds, L1s and L2s, to support end-user applications with rich media and larger storage needs,” said George Danezis, Chief Scientist and Co-Founder at Mysten Labs. “Walrus Testnet going live is a pivotal moment in that journey. With Akord and Decrypt beginning the migration over to Walrus, we’ll begin to see that a decentralized storage network can be used to bring various applications to a mass audience.”\nCoinciding with the launch of Walrus’s public Testnet, Akord, a secure storage and collaboration platform, providing user-friendly, cost-effective, and decentralized storage solutions for any digital asset, announces its migration from Arweave to Walrus. Akord is set to migrate to Walrus within the next week. The move comes on the heels of Decrypt Media’s recent announcement of its plans to integrate with Walrus, making the publication the first media outlet to commit to storing media articles and video content on Walrus.\n“At Akord, our mission is to create a platform that empowers individuals and businesses with meaningful data ownership – the ability to secure data publicly and tokenize it, or store it privately with end-to-end encryption, controlling the keys and access,” said Pascal Barry, CEO of Akord. “Migrating to Walrus allows us to offer our existing customers a more cost-effective, versatile and performant solution, as well as giving us the opportunity to realize our mission at a much larger scale.”\nPowered by a system that divides large data files into smaller fragments, referred to as ‘ Red Stuff ,’ Walrus distributes slivers of data files across various storage nodes. This process ensures that even if some pieces go missing, the whole of the data can still be reconstructed. This approach reduces the need for data redundancy, allowing the network to grow seamlessly while ensuring fast and reliable access to data. Walrus introduces advanced storage verification through proofs and attestations, incentivizing nodes to store slivers of each file. Instead of verifying individual files, Walrus assesses the entire storage node, significantly lowering the cost of proving data storage.\nWalrus, whose original contributor is Mysten Labs, launched on Devnet in June 2024. Its whitepaper was available as of September 2024, presented by Janet Wu, Head of Product, Platform, at Mysten Labs, at Sui’s Singapore Builder House Event. Walrus Mainnet is slated to launch in 2025.\nAbout Mysten Labs\nMysten Labs is a team of leading distributed systems, programming languages, and cryptography experts whose founders were senior executives of Meta’s Novi Research and lead architects of the Diem blockchain and Move programming language. The mission of Mysten Labs is to create foundational infrastructure for web3. Learn more: https://mystenlabs.com .\nAbout Walrus\nWalrus is a next-generation decentralized storage network for data and rich media content such as large text files, videos, images, and audio. Leveraging innovations in erasure coding, Walrus offers exceptional data availability and robustness with minimal replication overhead for cost efficiency. Powered by Sui as the coordination layer, Walrus scales to hundreds or thousands of networked decentralized storage nodes without compromising performance. Learn more: https://www.walrus.xyz/ .\nAbout Akord\nThe Akord platform is built on a digital vault protocol that offers file management, end-to-end encryption, file sharing, access control, minting and token gated access. The platform consists of an app, API, SDK and CLI with a strong focus on user and developer experience. Learn more: https://akord.com/\nThe subject matter and the content of this article are solely the views of the author. FinanceFeeds does not bear any legal responsibility for the content of this article and they do not reflect the viewpoint of FinanceFeeds or its editorial staff. The information does not constitute investment or financial advice or an offer to invest.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://mystenlabs.com",
+    "https://docs.walrus.site/walrus.pdf",
+    "https://www.walrus.xyz/",
+    "https://akord.com/",
+    "http://www.youtube.com/watch?v=4_b8vfcSSa4",
+    "https://walrus.xyz/",
+    "https://www.walrus.xyz",
+    "https://www.akord.com/",
+    "http://youtube.com/watch?v=4_b8vfcSSa4",
+    "https://www.docs.walrus.site/walrus.pdf",
+    "http://www.youtube.com/watch",
+    "https://akord.com",
+    "https://www.mystenlabs.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:13:57.657+03:00",
+  "updated": "2024-10-18T01:13:57.657+03:00"
+}

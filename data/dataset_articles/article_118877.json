@@ -1,0 +1,106 @@
+{
+  "thread": {
+    "uuid": "bb987c986092be2e8361fb853a69472cd2be4f81",
+    "url": "https://www.azcentral.com/videos/news/local/phoenix-weather/2025/11/19/rain-hail-lightning-hit-west-phoenix-during-torrential-rainfall/87363705007",
+    "site_full": "www.azcentral.com",
+    "site": "azcentral.com",
+    "site_section": "https://lavozarizona.com/local",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Phoenix, Arizona, News, including Weather - The Arizona Republic",
+    "site_title": "Your browser is not supported | azcentral.com",
+    "title": "Rain, hail, lightning hit west Phoenix during torrential rainfall",
+    "title_full": "Rain, hail, lightning hit west Phoenix during torrential rainfall",
+    "published": "2025-11-19T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4789,
+    "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bb987c986092be2e8361fb853a69472cd2be4f81",
+  "url": "https://www.azcentral.com/videos/news/local/phoenix-weather/2025/11/19/rain-hail-lightning-hit-west-phoenix-during-torrential-rainfall/87363705007",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-11-19T02:00:00.000+02:00",
+  "title": "Rain, hail, lightning hit west Phoenix during torrential rainfall",
+  "text": "Firefighters on scene at Desert Sky Mall after ceiling collapses",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Weather->weather phenomena",
+    "Disaster and Accident->fire",
+    "Disaster and Accident->structural failure",
+    "Disaster and Accident->emergency response"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Desert Sky Mall",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Phoenix"
+      ],
+      "state": [
+        "Arizona"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-11-20T07:57:31.392+02:00",
+  "updated": "2025-11-20T08:01:55.000+02:00"
+}

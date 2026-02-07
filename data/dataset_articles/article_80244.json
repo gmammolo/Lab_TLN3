@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "716dccef6c898ab5a75ebfbdf34ffd0260ea48af",
+    "url": "https://eterdelta.itch.io/the-captcha-game/devlog/661134/the-captcha-game-v110-update-notes",
+    "site_full": "eterdelta.itch.io",
+    "site": "itch.io",
+    "site_section": "https://itch.io/devlogs.xml",
+    "site_categories": [],
+    "section_title": " Devlogs  - itch.io",
+    "title": "The Captcha Game - v1.1.0 Update Notes",
+    "title_full": "The Captcha Game - v1.1.0 Update Notes",
+    "published": "2024-01-06T01:28:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.itch.zone/aW1nLzE0MjY4MjA2LnBuZw==/original/8qluLR.png",
+    "performance_score": 0,
+    "domain_rank": 1136,
+    "domain_rank_updated": "2024-01-02T12:06:49.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "716dccef6c898ab5a75ebfbdf34ffd0260ea48af",
+  "url": "https://eterdelta.itch.io/the-captcha-game/devlog/661134/the-captcha-game-v110-update-notes",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@EterDelta",
+  "published": "2024-01-06T01:28:00.000+02:00",
+  "title": "The Captcha Game - v1.1.0 Update Notes",
+  "text": "The Captcha Game - v1.1.0 Update Notes\nRelease Date: 05/01/2024\n---\nHello everyone! Delta here (@.@)/\nI'm thrilled to release an interesting update for The Captcha Game!\nThanks to your amazing support, this game has grown incredibly popular in recent weeks, among different languages and platforms, all thanks to you.\nBecause of this, I've listened to feedback from all the community and worked on additions, a bunch of changes, and bug fixes.\nSo let's get started.\n---\nWhat's New in Version 1.1.0:\nAdditions:\nNew Challenge - Pong:\nA new challenge has been added to the list, the Pong!\nIn this edition of the classic game you will face a bot, on a normal size board. Your goal is to score a ball.\nThe game can present the following parameters randomly:\n- The paddle the player will use (Colored in blue).\n- The number of balls in the board (1 to 3).\nFullscreen Mode Support:\nA custom button to enter and exit full screen mode in the game has been added. It is located in the lower left corner of the screen, and can be used at any time.\nChanges:\nThe game had a massive difficulty reduction in general, while maintaining its frustrating essence.\nTarget Challenges Reduction:\nThe number of challenges required to complete the game has been reduced from 24 to 22.\nChallenges Rework:\nMultiple challenges have received a nerf based on community feedback, the affected ones are:\n- Sequence Challenge: The maximum length for the pattern has been reduced from 8 to 6. The saturation of the pads light has also been increased.\n- Jitter Click Challenge: The generated clicks now adhere to a maximum ratio of 10cps. Previously it was 12cps, giving some players a disadvantage over the time.\n- Bar Challenge: The size of the bar (or pendulum) stop zone has been increased by 25% internally.\nBug Fixes:\n- Fixed one of the riddles statement logic. This made it impossible to solve.\n- Fixed a bug where low-end PCs didn't spawn bugs correctly on the Bug Challenge.\nLeave a comment\nLog in with itch.io to leave a comment.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-06T01:55:21.218+02:00",
+  "updated": "2024-01-06T01:55:21.218+02:00"
+}

@@ -1,0 +1,112 @@
+{
+  "thread": {
+    "uuid": "92b32120800d2f04f6fae35b5b7d3679d6cc9b8a",
+    "url": "https://www.darkreading.com/ics-ot-security/pwn2own-2024-teslas-hacked-dozens-new-zero-days-evs",
+    "site_full": "www.darkreading.com",
+    "site": "darkreading.com",
+    "site_section": "https://www.darkreading.com:443/rss.xml",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "darkreading",
+    "title": "Pwn2Own 2024: Tesla Hacks, Dozens of Zero-Days in Electrical Vehicles",
+    "title_full": "Pwn2Own 2024: Tesla Hacks, Dozens of Zero-Days in Electrical Vehicles",
+    "published": "2024-01-25T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltce2b4c072a59ccf1/64f155bff169c5360a886d59/Electric-vehicle_Rosemary_Roberts_Alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop",
+    "performance_score": 0,
+    "domain_rank": 3763,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 25
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "92b32120800d2f04f6fae35b5b7d3679d6cc9b8a",
+  "url": "https://www.darkreading.com/ics-ot-security/pwn2own-2024-teslas-hacked-dozens-new-zero-days-evs",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Nate Nelson, Contributing Writer",
+  "published": "2024-01-25T02:00:00.000+02:00",
+  "title": "Pwn2Own 2024: Tesla Hacks, Dozens of Zero-Days in Electrical Vehicles",
+  "text": "In just two days at Pwn2Own 2024 in Tokyo, researchers have compromised a bevy of electric vehicle chargers, operating systems, Tesla components, and unearthed dozens of zero-day vulnerabilities along the way.\nLast year's Pwn2Own in Vancouver flirted with cars as an attack surface, adding Teslas into the mix alongside competitions to hack more traditional servers, enterprise applications, browsers, and the like. But this year's event went full pedal to the metal, and the results have been enlightening. On the first day alone, contestants demonstrated 24 unique zero-days, earning them $722,500 in winnings. Day two saw 20 new exploits, and the final, third day promises nine more still.\n\"Vehicles are increasingly becoming a complex system of systems,\" says Dustin Childs, head of threat awareness for Trend Micro's Zero Day Initiative (ZDI), the group hosting the event. \"There hasn't been a lot of research into this area in the past, and based on our experience, that lack of external scrutiny means there could be a lot of security issues.\"\nHacking Into Teslas The headline-grabbing event at last year's Pwn2Own was when a team from Toulouse-based Synacktiv managed to breach a Tesla Model 3 in under two minutes .\nThis year, Synacktiv has returned with exploits of the Ubiquiti Connect and JuiceBox 40 Smart EV charging stations, the ChargePoint Home Flex (an at-home EV charging tool), and the self-explanatory Automotive Grade Linux. Its most notable achievements, though, have been a three-bug exploit chain against Tesla's modem, and a two-bug chain against its infotainment system, each earning a $100,000 cash prize.\nAccording to the rules of the event, vendors have 90 days to remediate their security flaws before they're allowed to be publicly disclosed. But in an email from Tokyo, the Synacktiv crackers gave Dark Reading a high-level overview of what the attacks looked like:\n\"The attack is sent from a GSM antenna emulating a fake BTS (rogue telecom operator). A first vulnerability gives root access to the modem card of the Tesla,\" they wrote. \"A second attack jumps from the modem to the infotainment system. And bypassing the security features on this process, it's possible to access multiple equipment on the car such as the headlights, the windshield wipers, or to open the trunk and the doors.\"\nWith Teslas, says Synacktiv CEO Renaud Feil, \"it's a two-sided coin. It's a car that has a huge attack surface — everything is IT in a Tesla. But they also have a strong security team and they try to pay a lot of attention to security. So it's a huge target, but it's a difficult target.\"\nModern Cars at a Crossroads \"The attack surface of the car it's growing, and it's getting more and more interesting, because manufacturers are adding wireless connectivities, and applications that allow you to access the car remotely over the Internet,\" Feil says.\nKen Tindell, chief technology officer of Canis Automotive Labs, seconds the point. \"What is really interesting is how so much reuse of mainstream computing in cars brings along all the security problems of mainstream computing into cars.\"\n\"Cars have had this two worlds thing for at least 20 years,\" he explains. First, \"you've got mainstream computing (done not very well) in the infotainment system. We've had this in cars for a while, and it's been the source of a huge number of vulnerabilities — in Bluetooth, Wi-Fi, and so on. And then you've got the control electronics, and the two are very separate domains. Of course, you get problems when that infotainment then starts to touch the CAN bus that's talking to the brakes, headlights, and stuff like that.\"\nIt's a conundrum that should be familiar to OT practitioners: managing IT equipment alongside safety-critical machinery, in such a way that the two can work together without spreading the former's nuisances to the latter. And, of course, the disparate product life cycles between IT and OT tech — cars lasting far longer than, say, laptops — which only serves to make the gap even less wieldy.\nWhat Car Security Might Look Like For an image of where vehicle cybersecurity is going, one might start at infotainment — the biggest, most obvious attack surface in cars today. Here, there have been two schools of thought developing.\n\"One is: Let's just not bother, because you'll never keep up considering the product cycles in cars. Apple CarPlay and Android Auto — that is the way forward. So the car manufacturer provides a screen, and then your phone provides the infotainment stuff,\" Tindell explains. \"I think that's a good approach, because your phone clearly is your responsibility, Apple keeps it up to date, it's all patched, and then your car is just providing a screen.\"\n\"The other school of thought is to let these big companies take control of the key functions of your cars. License an operating system from Google, and now it's the Google CarPlay equivalent, but directly wired into the car,\" he says. With a company like Google in charge, \"there is an update mechanism for it, just like it updates their Pixel phones. The question is, in 10 years time, are you still going to get updates for your car once Google gets bored and tries to shut it down?\"\nBut even if manufacturers do manage to squeeze one part of the attack surface (unlikely) or outsource the responsibility of overseeing it to third parties (imperfectly), Pwn2Own 2024 has demonstrated that they'll still have vastly more problems yet to account for: EV chargers to modems, operating systems, and more.\nWhere the Industry Has to Go To Tindell, what's really important is to keep the mainstream computing firewalled off from the control systems, so that there's a choke point. \"Unfortunately, some of the choke points so far haven't been very well-developed, and you can crack them on the end of a chain of exploits,\" he adds.\n\"I think they know what to do,\" Synacktiv's Feil says. \"It's the same process that applies to the rest of the IT industry: invest in cybersecurity, do some audits, hack your stuff until it gets very hard to hack.\"\nGetting manufacturers to that point, he believes, might require some outside intervention. \"The industry has been able to push back to restrict regulation,\" Feil says. \"Their narrative is: We are having a tough time, because everyone is asking us to switch to electric cars, and it may affect our bottom line heavily. But they must show that they are doing something when it comes to cybersecurity.\"",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "external_links": [
+    "https://www.zerodayinitiative.com/blog/2024/1/24/pwn2own-automotive-2024-day-one-results",
+    "https://www.zerodayinitiative.com/blog/2024/1/24/pwn2own-automotive-2024-day-two-results",
+    "https://zerodayinitiative.com/blog/2024/1/24/pwn2own-automotive-2024-day-two-results",
+    "https://zerodayinitiative.com/blog/2024/1/24/pwn2own-automotive-2024-day-one-results"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "teslas",
+        "sentiment": "none"
+      },
+      {
+        "name": "tesla",
+        "sentiment": "none"
+      },
+      {
+        "name": "dustin childs",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "tesla hacks",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "tokyo",
+        "sentiment": "none"
+      },
+      {
+        "name": "zero-days",
+        "sentiment": "none"
+      },
+      {
+        "name": "vancouver",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:09:48.335+02:00",
+  "updated": "2024-01-26T00:09:48.335+02:00"
+}

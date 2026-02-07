@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "0eabf42290254e1ceae90dff81717734d85c4bc4",
+    "url": "https://archive.li/2024.10.17-221330/https://levelup.gitconnected.com/how-i-automated-my-entire-morning-routine-with-julia-programming-ed3142c4a60f",
+    "site_full": "archive.li",
+    "site": "archive.li",
+    "site_section": "https://archive.li/rss",
+    "site_categories": [
+      "tech",
+      "business"
+    ],
+    "section_title": "archive.li",
+    "title": "How I Automated My Entire Morning Routine with Julia Programming | by Gabe Araujo, M.Sc. | Oct, 2024 | Level Up Coding",
+    "title_full": "How I Automated My Entire Morning Routine with Julia Programming | by Gabe Araujo, M.Sc. | Oct, 2024 | Level Up Coding",
+    "published": "2024-10-18T01:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://archive.li/GPEko/f0dea94a1893f10a69b6af006d2495a7004939d0/scr.png",
+    "performance_score": 0,
+    "domain_rank": 19243,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0eabf42290254e1ceae90dff81717734d85c4bc4",
+  "url": "https://archive.li/2024.10.17-221330/https://levelup.gitconnected.com/how-i-automated-my-entire-morning-routine-with-julia-programming-ed3142c4a60f",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Gabe Araujo, M.Sc.",
+  "published": "2024-10-18T01:13:00.000+03:00",
+  "title": "How I Automated My Entire Morning Routine with Julia Programming | by Gabe Araujo, M.Sc. | Oct, 2024 | Level Up Coding",
+  "text": "How I Automated My Entire Morning Routine with Julia Programming\nImagine waking up to a fully automated morning. Your coffee is brewing, your favorite news articles are ready for reading, and your to-do list is neatly organized before you’ve even brushed your teeth. Sounds like magic, right? Well, I made this happen using Julia, a powerful programming language that excels at fast data manipulation and automating tedious tasks. Let me share with you how I automated my entire morning routine — and show you some Julia code along the way!\nStep 1: Scheduling the Coffee Machine\nThe first step was to automate my coffee. I bought a smart coffee maker that has WiFi capabilities and could be integrated with a custom script via API. To make it work, I used Julia’s\nHTTP.jl\nto send commands to the coffee machine.Here’s how I did it:\nusing HTTP\nfunction start_coffee()\n# Replace with the correct URL of your coffee maker's API\ncoffee_machine_url = \"http://192.168.1.100/start\"\nresponse = HTTP.post(coffee_machine_url, [])\nif response.status == 200\nprintln(\"Coffee is brewing!\")\nelse\nprintln(\"Failed to start the coffee maker.\")\nend\nend\n# Start brewing coffee at 7 AM every day\n@async sleep(60*60*7 - time()) start_coffee()\nThis script sends a POST request to my coffee machine at exactly 7 AM every morning to start brewing. The\n@async\nmacro ensures that the script doesn’t block other tasks while it waits.Step 2: Setting Up My Morning Playlist\nI like to start my morning with some upbeat music. I used Spotify’s API along with Julia’s\nSpotify.jl\nwrapper to automatically start my \"Morning Routine\" playlist.Here’s the code snippet that made it possible:\nusing Spotify\nfunction play_morning_playlist()\n# Authentication tokens for Spotify\naccess_token = \"YOUR_ACCESS_TOKEN\"\nplaylist_id = \"37i9dQZF1DX4fpCWaHOned\" # Replace with your playlist\ndevice_id = \"YOUR_DEVICE_ID\"\n# Set the playlist to play\nSpotify.play(access_token, device_id, playlist_id)\nprintln(\"Your morning playlist is now playing!\")\nend\n# Play the playlist at 7:15 AM\n@async sleep(60*60*7 + 15*60 - time()) play_morning_playlist()\nThis code interacts with Spotify’s API to start my favorite morning playlist on a connected device (like my smart speaker). I use\n@async\nagain to manage timing without blocking other tasks.Step 3: Reading the News\nAfter coffee and music, I like to read the news. I automated fetching the top headlines using\nHTTP.jl\nand JSON.jl\nto get data from an open news API and then print it out in a concise way.Here’s how I did it:\nusing HTTP, JSON\nfunction fetch_top_news()\nnews_url = \"https://newsapi.org/v2/top-headlines?country=us&apiKey=YOUR_API_KEY\"\nresponse = HTTP.get(news_url)\ndata = JSON.parse(String(response.body))\nfor article in data[\"articles\"][1:5]\nprintln(article[\"title\"])\nend\nend\n# Fetch and print news headlines at 7:30 AM\n@async sleep(60*60*7 + 30*60 - time()) fetch_top_news()\nThis script fetches the top five news headlines and prints them to my terminal at 7:30 AM. With the power of Julia, this task takes less than a few seconds, providing me with a quick glance at the world before I start my day.\nStep 4: Generating My To-Do List\nLast but not least, I automated my to-do list. Every morning at 7:45 AM, Julia scripts gather tasks from Trello and emails them to me using SMTP.\nusing SMTPClient, JSON, HTTP\nfunction send_daily_todo()\n# Fetch tasks from Trello API\ntrello_url = \"https://api.trello.com/1/boards/YOUR_BOARD_ID/cards?key=YOUR_API_KEY&token=YOUR_TOKEN\"\nresponse = HTTP.get(trello_url)\ndata = JSON.parse(String(response.body))\ntasks = [card[\"name\"] for card in data]\n# Generate to-do list content\nemail_content = join(tasks, \"\\n\")\n# Send the email with to-do list\nclient = SMTPClient(\"smtp.gmail.com\"; port=587, username=\"your_email@gmail.com\", password=\"your_password\")\nSMTPClient.send(client, \"your_email@gmail.com\", \"my_email@gmail.com\", \"Today's To-Do List\", email_content)\nprintln(\"Your to-do list has been emailed to you!\")\nend\n# Send the daily to-do list email at 7:45 AM\n@async sleep(60*60*7 + 45*60 - time()) send_daily_todo()\nUsing\nSMTPClient.jl\n, I sent my daily tasks directly to my inbox—no need to go to Trello. I simply see what needs to be done while sipping my coffee.Wrapping It All Up\nJulia made it possible for me to automate my morning routine with just a few scripts. Now, every day I wake up to freshly brewed coffee, uplifting music, curated news, and a pre-organized to-do list, all without lifting a finger.\nThe beauty of using Julia for this was not just the efficiency of its performance, but also how fun and approachable it was to write these simple yet powerful automation scripts. If you’re looking for a lightweight yet powerful solution to make your life easier, Julia is worth considering.\nWhat’s Next?\nNow that my mornings are running on autopilot, I’m looking to expand automation to other parts of my day — perhaps monitoring my health metrics or planning dinner based on what’s in the fridge. With Julia, the possibilities are endless.\nIf you’ve got any ideas or want to share how you’re automating parts of your life, feel free to leave a comment below! Let’s make mornings enjoyable again — one line of code at a time.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Lifestyle and Leisure",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "http://192.168.1.100/start",
+    "https://newsapi.org/v2/top-headlines?country=us&apiKey=YOUR_API_KEY",
+    "https://api.trello.com/1/boards/YOUR_BOARD_ID/cards?key=YOUR_API_KEY&token=YOUR_TOKEN",
+    "http://www.192.168.1.100/start",
+    "https://api.trello.com/1/boards/YOUR_BOARD_ID/cards",
+    "https://newsapi.org/v2/top-headlines",
+    "https://www.newsapi.org/v2/top-headlines?country=us&apiKey=YOUR_API_KEY",
+    "https://www.api.trello.com/1/boards/YOUR_BOARD_ID/cards?key=YOUR_API_KEY&token=YOUR_TOKEN"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:27:08.843+03:00",
+  "updated": "2024-10-18T01:27:08.843+03:00"
+}

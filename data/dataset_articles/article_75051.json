@@ -1,0 +1,67 @@
+{
+  "thread": {
+    "uuid": "a58100e3a96880a62fbe7779429220fe1153f606",
+    "url": "https://forum.pjrc.com/index.php?threads/st7789_t3-example-wont-compile-with-teensy-4-1.76152",
+    "site_full": "forum.pjrc.com",
+    "site": "pjrc.com",
+    "site_section": "https://forum.pjrc.com/external.php?type=RSS2",
+    "site_categories": [],
+    "section_title": "Teensy Forum",
+    "title": "ST7789_t3 Example Won't Compile With Teensy 4.1",
+    "title_full": "ST7789_t3 Example Won't Compile With Teensy 4.1",
+    "published": "2024-11-22T07:04:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 19267,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a58100e3a96880a62fbe7779429220fe1153f606",
+  "url": "https://forum.pjrc.com/index.php?threads/st7789_t3-example-wont-compile-with-teensy-4-1.76152",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "mgaert (invalid@example.com)",
+  "published": "2024-11-22T07:04:00.000+02:00",
+  "title": "ST7789_t3 Example Won't Compile With Teensy 4.1",
+  "text": "I presume this is an easy answer because I didn't find anyone else with this problem. Just trying to compile the basic 'graphicstest.ino' in the PaulStoffregen/ST7789_t3 examples. This is with Arduino IDE. The compiler finds ST7789_t3 and ST7789_t3.cpp in the Arduino Libraries, where I put them. The basic error is\nThat error is repeated for all the vars in:\nI assume this code was not specifically written for T4.1 so I added the following to the defined code:\nwhich didn't help.\nThat is the only change I made to the example code and libraries.\nWhat the heck am I missing?\nThank you!\nCode:\nerror: '_cs' was not declared in this scope; did you mean 'cs'?\n_cs = cs;\nThat error is repeated for all the vars in:\nCode:\n#if defined(__MK20DX128__) || defined(__MK20DX256__) || defined(__MK64FX512__) || defined(__MK66FX1M0__)\nuint8_t _cs, _rs, _rst, _sid, _sclk;\nuint8_t colstart, rowstart;\nuint8_t pcs_data, pcs_command;\nuint32_t ctar;\nvolatile uint8_t *datapin, *clkpin, *cspin, *rspin;\n#endif\nI assume this code was not specifically written for T4.1 so I added the following to the defined code:\nCode:\n|| defined(__IMXRT1060RM__)\nwhich didn't help.\nThat is the only change I made to the example code and libraries.\nWhat the heck am I missing?\nThank you!",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Education"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T10:15:13.554+02:00",
+  "updated": "2024-11-22T10:15:13.554+02:00"
+}

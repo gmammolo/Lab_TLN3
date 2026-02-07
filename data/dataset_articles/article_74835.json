@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "57314a9b80218b341d08d1662a600e1e8db6cc8f",
+    "url": "https://gigazine.net/news/20241122-openai-erases-evidence",
+    "site_full": "gigazine.net",
+    "site": "gigazine.net",
+    "site_section": "https://gigazine.net",
+    "site_categories": [
+      "media",
+      "top_news_jp",
+      "top_news"
+    ],
+    "section_title": "GIGAZINE（ギガジン） - 縄文人のDNAを受け継いだ日本人はBMIが高いとの研究結果、狩猟採集民のDNAが現代では健康リスクになっている可能性",
+    "title": "OpenAIが著作権訴訟の証拠データを誤って消去していたことを明かす",
+    "title_full": "OpenAIが著作権訴訟の証拠データを誤って消去していたことを明かす",
+    "published": "2024-11-22T05:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "https://i.gzn.jp/img/2024/11/22/openai-erases-evidence/00.jpg",
+    "performance_score": 0,
+    "domain_rank": 8506,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "57314a9b80218b341d08d1662a600e1e8db6cc8f",
+  "url": "https://gigazine.net/news/20241122-openai-erases-evidence",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "GIGAZINE",
+  "published": "2024-11-22T05:46:00.000+02:00",
+  "title": "OpenAIが著作権訴訟の証拠データを誤って消去していたことを明かす",
+  "text": "OpenAIが著作権訴訟の証拠データを誤って消去していたことを明かす\nOpenAIは、「生成AIモデルのトレーニングにコンテンツを利用した」と主張するアメリカの大手日刊紙「[ニューヨーク・タイムズ](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA)」による著作権侵害に関する訴訟に直面しています。しかし2024年11月20日にOpenAIが裁判所に提出した書類の中でOpenAIは、この裁判に関する証拠のデータを誤ってすべて消去してしまったことを明かしています。\ngov.uscourts.nysd.612697.328.1.pdf\n(PDFファイル)[https://docs.google.com/viewerng/viewer?url=https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf](https://docs.google.com/viewerng/viewer?url=https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf)\ngov.uscourts.nysd.612697.210.2.pdf\n(PDFファイル)[https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf](https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf)\nOpenAI accidentally deleted potential evidence in NY Times copyright lawsuit | TechCrunch\n[https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/](https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/)\nOpenAI accidentally erases potential evidence in training data lawsuit - The Verge\n[https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)\nニューヨーク・タイムズは2023年12月に「ChatGPTやCopilotといった生成AIのベースとなる大規模言語モデルはニューヨーク・タイムズのコンテンツをトレーニングに利用しており、ニューヨーク・タイムズの表現スタイルを模倣した出力が可能になり、ニューヨーク・タイムズと直接競合するコンテンツを生み出すようになっている」「この結果ニューヨーク・タイムズのと読者の関係が損なわれ、購読料・ライセンス料・広告収益・アフィリエイト収入といった収入源が奪われただけでなく、質の高いジャーナリズムの提供を脅かしている」として、OpenAIとMicrosoftを著作権侵害で訴えました。\n[大手日刊紙のニューヨーク・タイムズがOpenAIとMicrosoftを著作権侵害で提訴 - GIGAZINE](https://gigazine.net/news/20231228-new-york-times-sues-openai-microsoft/)\nニューヨーク・タイムズとの裁判が続く中でOpenAIは、AIトレーニングセットに含まれる著作権で保護されたコンテンツを検索できる2台の仮想マシンをニューヨーク・タイムズ側に提供しています。OpenAIによると、2024年11月1日以降、ニューヨーク・タイムズの弁護士は専門家と共に150時間以上を費やしてトレーニングデータの検索を実施しているとのこと。\nしかし、OpenAIは2024年11月20日にニューヨーク南部地区地方裁判所に提出した書類の中で「自社のエンジニアが2024年11月14日に、仮想マシンの1つに保存されているニューヨーク・タイムズによる検索データをすべて消去してしまった」と報告しました。\nOpenAIはただちにデータの復旧を行いましたが、回収できたデータにはフォルダ構造とファイル名に深刻な問題が発生していました。OpenAIは「復旧したデータでは、ニューヨーク・タイムズの記事がOpenAIのAIモデルの構築にどのように使用されたかを適切に把握することは困難です」と述べています。なお、OpenAIはアクシデントの発生原因や消去されたデータの詳細について明らかにしていません。\nOpenAIはこのデータ消去について「不具合によるもの」と説明しており、ニューヨーク・タイムズも「削除を意図的なものと断定する証拠はありません」と語っています。それでもニューヨーク・タイムズは「回復できたデータはほとんど使用不能で、専門家と弁護士による1週間分の作業をやり直す必要があります。今回のデータ消去は、仕事をゼロから作り直すことに膨大な時間を使うことを余儀なくされるものです」と批判しています。\nなお、記事作成時点でOpenAIの広報担当者はコメントを残していません。\n・関連記事\n[大手日刊紙のニューヨーク・タイムズがOpenAIとMicrosoftを著作権侵害で提訴 - GIGAZINE](https://gigazine.net/news/20231228-new-york-times-sues-openai-microsoft)\n[報道機関によるOpenAIへの著作権訴訟が棄却される - GIGAZINE](https://gigazine.net/news/20241108-openai-raw-story-alternet)\n[ウォール・ストリート・ジャーナルの親会社がAI検索サービス「Perplexity」を著作権違反で訴える、Perplexityはライセンス契約の提案を無視 - GIGAZINE](https://gigazine.net/news/20241022-news-corp-sue-perplexity)\n[OpenAIの著作権訴訟でChatGPTのトレーニングデータが一部の人間に開示されることが決定、オフライン・記録機器持ち込み禁止の厳重警備体制 - GIGAZINE](https://gigazine.net/news/20240925-openai-train-data-inspected)\n[俳優労働組合SAG-AFTRAや世界最大の出版社が「AIをトレーニングするためにクリエイティブ作品を無許可で使用してはならない」とする公開書簡に署名 - GIGAZINE](https://gigazine.net/news/20241023-statement-on-ai-training)\n[ニューヨーク・タイムズがAIスタートアップのPerplexityにコンテンツへのアクセスと利用を停止することを要求 - GIGAZINE](https://gigazine.net/news/20241016-nyt-perplexity-cease-desist-notice-ai)\n・関連コンテンツ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/",
+    "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf",
+    "https://docs.google.com/viewerng/viewer?url=https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA",
+    "https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+    "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf",
+    "https://www.docs.google.com/viewerng/viewer?url=https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf",
+    "https://docs.google.com/viewerng/viewer",
+    "https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit",
+    "https://www.techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/",
+    "https://theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+    "https://www.ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T05:47:58.762+02:00",
+  "updated": "2024-11-22T05:47:58.762+02:00"
+}

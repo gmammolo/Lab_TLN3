@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "1a2edd7c1b9a7aee89dfbe2286deb88ee0ac565a",
+    "url": "https://www.phonandroid.com/cette-faille-de-7-zip-est-bien-plus-grave-quon-veut-nous-le-faire-croire-faites-la-mise-a-jour-du-logiciel-immediatement.html",
+    "site_full": "www.phonandroid.com",
+    "site": "phonandroid.com",
+    "site_section": "https://www.phonandroid.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "PhonAndroid &#8211; toute l&#039;actualité high-tech et nouvelles technologies",
+    "site_title": "PhonAndroid &#8211; toute l&#039;actualité high-tech et nouvelles technologies",
+    "title": "Cette faille de 7-Zip est bien plus grave qu'on veut nous le faire croire, faites la mise à jour du logiciel immédiatement",
+    "title_full": "Cette faille de 7-Zip est bien plus grave qu'on veut nous le faire croire, faites la mise à jour du logiciel immédiatement",
+    "published": "2025-08-14T10:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://wp-pa.phonandroid.com/uploads/2025/08/Faille-7-Zip.jpg",
+    "performance_score": 0,
+    "domain_rank": 21960,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1a2edd7c1b9a7aee89dfbe2286deb88ee0ac565a",
+  "url": "https://www.phonandroid.com/cette-faille-de-7-zip-est-bien-plus-grave-quon-veut-nous-le-faire-croire-faites-la-mise-a-jour-du-logiciel-immediatement.html",
+  "ord_in_thread": 0,
+  "author": "Thomas Povéda",
+  "published": "2025-08-14T10:14:00.000+03:00",
+  "title": "Cette faille de 7-Zip est bien plus grave qu'on veut nous le faire croire, faites la mise à jour du logiciel immédiatement",
+  "text": "Un expert en cybersécurité explique pourquoi une faille de 7-Zip jugée mineure est en réalité dangereuse pour les utilisateurs. Heureusement, un correctif est disponible. N'attendez pas pour l'installer.\nCrédits : 123RF À un moment ou un autre, tous les logiciels présentent des vulnérabilités . Parfois dès leur lancement, souvent après une mise à jour. Quelle que soit son origine, le but est toujours de la combler via le déploiement d'un correctif.\nPour savoir à quel point il est urgent de le faire, les experts attribuent un score à chaque faille. Appelé CVSS (Common Vulnerability Scoring System), c'est une échelle allant de 0,1 à 10. Suivant la note, on parle de sévérité faible, moyenne, haute ou critique.\nUn score CVSS bas ne signifie pas qu'il faut négliger la correction de la faille. Juste que s'il y en a une autre plus grave, c'est sur elle que les développeurs se pencheront en premier. Globalement, le système fonctionne, mais il arrive parfois que les spécialistes ne soient pas d'accord sur la note définie.\nLe chercheur en cybersécurité Landon l'a fait savoir sur Seclists à propos de la faille CVE-2025-55188 découverte par ses soins dans le programme de compression de fichiers 7-Zip. Elle a reçu un score CVSS de 2,7 (faible sévérité), alors que selon lui, son exploitation par une personne mal intentionnée peut faire des ravages .\nMettez le logiciel 7-Zip à jour, cette faille peut avoir des conséquences désastreuses Pour faire simple, la vulnérabilité permet à un attaquant de rediriger les fichiers présents dans archive 7-Zip où il veut lors de son extraction . Il peut par exemple placer un programme malveillant dans les fichiers système de Windows, ou remplacer l'un d'eux par un autre, accordant au pirate des accès qu'il ne devrait pas avoir. Cela nécessite de remplir certaines conditions, mais ça reste possible.\nSur Linux en revanche, il n'y a pas de garde-fou. Vous décompressez une archive que l'on vous a envoyé en pensant qu'elle est sans risque, et son contenu va se loger dans des endroits sensibles. Au pire, le pirate peut alors prendre le contrôle de votre machine , au mieux empêcher le fonctionnement d'un service.\nEn résumé, c'est le même genre de faille que celle découverte récemment dans WinRAR , autre célèbre logiciel de compression/décompression. Comme pour ce dernier, la dernière version de 7-Zip corrige heureusement le tir : installez la version 25.01 du programme et vous serez tranquille.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->scientific standards",
+    "Social Issue->social condition",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://seclists.org/oss-sec/2025/q3/82",
+    "https://www.seclists.org/oss-sec/2025/q3/82"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T10:47:32.669+03:00",
+  "updated": "2025-08-14T10:57:39.000+03:00"
+}

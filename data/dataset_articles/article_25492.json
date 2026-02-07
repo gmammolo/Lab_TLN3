@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "6dff17aef54666fccac230dba5c0f074e6294893",
+    "url": "https://www.thestar.com.my/news/world/2025/03/13/int039l-amber-jewelry-fair-showcases-baltic-amber",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://world.einnews.com/ajax/headlines",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": null,
+    "title": "Int'l amber, jewelry fair showcases Baltic amber | The Star",
+    "title_full": "Int'l amber, jewelry fair showcases Baltic amber | The Star",
+    "published": "2025-03-13T02:45:18.602+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+    "performance_score": 0,
+    "domain_rank": 2092,
+    "domain_rank_updated": "2025-03-10T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6dff17aef54666fccac230dba5c0f074e6294893",
+  "url": "https://www.thestar.com.my/news/world/2025/03/13/int039l-amber-jewelry-fair-showcases-baltic-amber",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Cui Li,Zhang Zhang",
+  "published": "2025-03-13T02:45:18.602+02:00",
+  "title": "Int'l amber, jewelry fair showcases Baltic amber | The Star",
+  "text": "WARSAW, March 12 (Xinhua) -- The AMBERIF Spring 2025 trade fair, a leading European event for jewelry and amber, opened Wednesday in Gdansk, Poland, attracting global exhibitors and designers.\nRunning through March 14, the event highlights Baltic amber craftsmanship, with a fashion and jewelry showcase on opening day and a public open day for art students on Friday.\nAMBERIF strengthens Gdansk's legacy as a global amber hub, blending commerce with centuries-old tradition.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Environment",
+    "Health",
+    "Social Issue"
+  ],
+  "topics": [
+    "Social Issue->demographics",
+    "Social Issue->social services",
+    "Social Issue->diversity, equity and inclusion"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-13T02:45:18.602+02:00",
+  "updated": "2025-03-13T02:45:18.602+02:00"
+}

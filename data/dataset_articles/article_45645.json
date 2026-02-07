@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "9614d81c908c06cd1a3730f9b24f8ed4bc98b2ae",
+    "url": "https://gigazine.net/gsc_news/en/20250724-ai-consult-health-care-copilot/",
+    "site_full": "gigazine.net",
+    "site": "gigazine.net",
+    "site_section": "https://gigazine.net/news/c29",
+    "site_categories": [
+      "media",
+      "top_news_jp",
+      "top_news"
+    ],
+    "section_title": "AIを使う医者は診断ミスが16％減るというOpenAIの研究結果 - GIGAZINE",
+    "site_title": "GIGAZINE（ギガジン）",
+    "title": "OpenAI research reveals that doctors who use AI make 16% fewer diagnostic errors - GIGAZINE",
+    "title_full": "OpenAI research reveals that doctors who use AI make 16% fewer diagnostic errors - GIGAZINE",
+    "published": "2025-07-24T07:48:17.750+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "https://i.gzn.jp/img/2025/07/24/ai-consult-health-care-copilot/00.jpg",
+    "performance_score": 0,
+    "domain_rank": 8748,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9614d81c908c06cd1a3730f9b24f8ed4bc98b2ae",
+  "url": "https://gigazine.net/gsc_news/en/20250724-ai-consult-health-care-copilot/",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-07-24T07:48:17.750+03:00",
+  "title": "OpenAI research reveals that doctors who use AI make 16% fewer diagnostic errors - GIGAZINE",
+  "text": "OpenAI research reveals that doctors who use AI make 16% fewer diagnostic errors\nA study on AI Consult, an AI system for healthcare that only activates when there is a possibility of an error, found that doctors using the AI system made 16% fewer diagnostic errors than those who did not. OpenAI reported the findings.\nPioneering an AI clinical copilot with Penda Health | OpenAI\nhttps://openai.com/index/ai-clinical-copilot-penda-health/\nOpenAI has partnered with\nPenda Health, a medical service provider in Kenya, to provide AI Consult, an AI system that identifies important points where mistakes are likely to occur during examinations and informs doctors, to multiple medical institutions.\nClinicians see patients of all ages and with all kinds of illnesses in the same day, which requires a wide range of knowledge, but this complexity makes medical errors common. AI Consult helps with this, integrating into the electronic health record systems doctors use to flag mistakes in diagnosis, medication misadministration and incorrect patient instructions.\nOpenAI selected 39,849 consultations from 15 clinics to investigate how AI Consult was helping them. Of the total, 20,859 consultations used AI Consult, and 18,990 did not. 108 doctors participated in the study, evaluating 5,666 randomly selected consultations and their documentation to identify errors.\nThe evaluation criteria were 'medical history,' 'appropriateness of examination,' 'accuracy of diagnosis,' and 'accuracy of treatment.' In all four of these areas, doctors who used AI made less mistakes than those who did not. Overall, the study showed that the introduction of AI Consult prevented 22,000 diagnostic errors and 29,000 treatment errors per year.\nDoctors who used AI Consult said things like, 'The quality of patient care has improved,' 'It helped me make the right clinical decisions,' and 'It was also an excellent learning tool.'\nWhen Penda Health introduced AI Consult, they provided one-on-one training and educated doctors on how to use it properly. This led doctors to proactively check error messages that were often overlooked as unimportant in the early stages of the implementation.\nIn addition, additional training and feedback was provided to the AI Consult, which had received general training, to ensure that it was adapted to the culture of Penda Health. For example, in the initial settings, an error message was displayed when a child's blood pressure was not measured, but because Penda Health does not regularly measure children's blood pressure, this error message was erased.\nBased on these results, OpenAI points out that the challenge in integrating AI with real-world systems will not be the performance of the models, but filling the gap with real-world use cases.\nOpenAI said, 'Concerted efforts across the medical AI ecosystem are essential to closing the gap between models and implementation. As we continue to research and expand AI systems, we hope that AI will become a trusted part of standard medical care and that this effort will provide inspiration and practical guidance for advancing the use of AI.'\nRelated Posts:\nin Software, Posted by log1p_kr",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health",
+    "Human Interest"
+  ],
+  "topics": [
+    "Science and Technology->medical research",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biotechnology",
+    "Health->medical profession",
+    "Health->health treatment and procedure",
+    "Health->medical test",
+    "Human Interest->record and achievement"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.pendahealth.com/",
+    "https://openai.com/index/ai-clinical-copilot-penda-health/",
+    "https://www.pendahealth.com",
+    "https://openai.com/index/ai-clinical-copilot-penda-health",
+    "https://www.openai.com/index/ai-clinical-copilot-penda-health/",
+    "https://pendahealth.com/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Penda Health",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_jp",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-07-24T07:48:17.750+03:00",
+  "updated": "2025-07-25T08:07:11.000+03:00"
+}

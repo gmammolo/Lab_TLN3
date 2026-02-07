@@ -1,0 +1,103 @@
+{
+  "thread": {
+    "uuid": "559b7aa656e1df8ea48d9f4ed56b939495ec0fa1",
+    "url": "https://www.it-connect.fr/cybersecurite-quelles-sont-les-vulnerabilites-les-plus-exploitees-par-les-pirates-en-2023",
+    "site_full": "www.it-connect.fr",
+    "site": "it-connect.fr",
+    "site_section": "https://www.it-connect.fr/test-nipogi-ak1-plus-mini-pc",
+    "site_categories": [
+      "windows",
+      "unix",
+      "tech"
+    ],
+    "section_title": "Test NiPoGi AK1 Plus - Mini-PC - 16 Go RAM - 512 Go SSD",
+    "title": "Cybers\\u00e9curit\\u00e9 : quelles sont les vuln\\u00e9rabilit\\u00e9s les plus exploit\\u00e9es par les pirates en 2023 ?",
+    "title_full": "Cybers\\u00e9curit\\u00e9 : quelles sont les vuln\\u00e9rabilit\\u00e9s les plus exploit\\u00e9es par les pirates en 2023 ?",
+    "published": "2024-11-15T08:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://www.it-connect.fr/wp-content-itc/uploads/2024/11/Top-2023-des-failles-de-securite-les-plus-exploitees.jpg",
+    "performance_score": 0,
+    "domain_rank": 180390,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "559b7aa656e1df8ea48d9f4ed56b939495ec0fa1",
+  "url": "https://www.it-connect.fr/cybersecurite-quelles-sont-les-vulnerabilites-les-plus-exploitees-par-les-pirates-en-2023",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Florian BURNEL",
+  "published": "2024-11-15T08:06:00.000+02:00",
+  "title": "Cybers\\u00e9curit\\u00e9 : quelles sont les vuln\\u00e9rabilit\\u00e9s les plus exploit\\u00e9es par les pirates en 2023 ?",
+  "text": "Cybersécurité : quelles sont les vulnérabilités les plus exploitées par les pirates en 2023 ? Quelles sont les vulnérabilités les plus exploitées par les pirates au cours de l'année 2023 ? C'est la question à laquelle répond le nouveau rapport publié par la CISA, le FBI, la NSA et l'alliance des Five Eyes. Faisons le point. Un nouveau rapport élaboré par plusieurs agences spécialisées dans la cybersécurité et le renseignement permet de connaître le \"Top 2023\" des vulnérabilités les plus exploitées par les cybercriminels. Il est le fruit du travail des agences américaines CISA, FBI et NSA et d'autres partenaires mondiaux, notamment dans le cadre de l'alliance des Five Eyes (États-Unis, Royaume-Uni, Canada, Australie, Nouvelle-Zélande). \"En 2023, les cyberacteurs malveillants ont exploité davantage de vulnérabilités de type « zero-day » pour compromettre les réseaux d'entreprise qu'en 2022, ce qui leur a permis de mener des cyberopérations des cibles de plus haute priorité.\", peut-on lire dans les premières pages du document. Il est également précisé que la majorité des failles les plus exploitées en 2023 ont d'abord été exploitées en tant que faille zero-day. Le top 2023 des vulnérabilités exploitées par les cybercriminels Sans plus attendre, découvrons ce fameux classement : CVE | Éditeur | Produit | Type de faiblesse | | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966)[CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198)[CVE-2023-20273](https://www.cve.org/CVERecord?id=CVE-2023-20273)[CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997)[CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362)[CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515)[CVE-2021- 44228](https://www.cve.org/CVERecord?id=CVE-2021-44228)(Log4Shell)[CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868)[CVE-2022-47966](https://www.cve.org/CVERecord?id=CVE-2022-47966)[CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350)[CVE-2020-1472](https://www.cve.org/CVERecord?id=CVE-2020-1472)[CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793)[CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397)[CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103)Ces vulnérabilités sont présentes dans les produits de multiples éditeurs, aussi bien au niveau des systèmes d'exploitation, des applications que des équipements réseaux. Sans surprise, il n'y a que des produits populaires et très répandus dans les entreprises à l'échelle mondiale. Tout au long de l'année, avec nos articles, nous vous alertons sur les vulnérabilités importantes, dont certaines sont aujourd'hui dans ce « classement ». A titre d'exemple : [Plus de 640 serveurs Citrix compromis en exploitant la faille de sécurité CVE-2023-3519](https://www.it-connect.fr/plus-de-640-serveurs-citrix-compromis-en-exploitant-la-faille-de-securite-cve-2023-3519/)[Le ransomware LockBit exploite la faille de sécurité Citrix Bleed (CVE-2023-4966)](https://www.it-connect.fr/ransomware-lockbit-faille-citrix-bleed-cve-2023-4966/)[Un correctif pour les failles dans Cisco IOS XE utilisées pour pirater plus de 50 000 équipements (CVE-2023-20198 et CVE-2023-20273)](https://www.it-connect.fr/un-correctif-pour-les-failles-dans-cisco-ios-xe-utilisees-pour-pirater-plus-de-50-000-equipements/)[Faille VPN-SSL Fortinet (CVE-2023-27997) : plus de 300 000 firewalls exposés sur Internet sont vulnérables !](https://www.it-connect.fr/faille-vpn-ssl-fortinet-plus-de-300-000-firewalls-exposes-sur-internet-sont-vulnerables/) Si votre système d'information est toujours vulnérable à une ou plusieurs de ces failles de sécurité, il est urgent de vous protéger... Vous pouvez accéder à ce rapport au format PDF en cliquant sur [ce lien](https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf). Vous y retrouverez notamment un second tableau avec une liste de 15 autres vulnérabilités exploitées fréquemment par les pirates en 2023. Cela nous donne au total une liste de 30 vulnérabilités à considérer comme dangereuses et qui doivent être traitées en priorité.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cve.org/CVERecord?id=CVE-2021-44228)(Log4Shell)",
+    "https://www.cve.org/CVERecord?id=CVE-2023-23397)",
+    "https://www.cve.org/CVERecord?id=CVE-2023-2868)",
+    "https://www.cve.org/CVERecord?id=CVE-2023-20198)",
+    "https://www.cve.org/CVERecord?id=CVE-2023-49103)Ces",
+    "https://www.cve.org/CVERecord?id=CVE-2023-22515)",
+    "https://www.cve.org/CVERecord?id=CVE-2022-47966)",
+    "https://www.cve.org/CVERecord?id=CVE-2023-34362)",
+    "https://www.cve.org/CVERecord?id=CVE-2023-4966)",
+    "https://www.cve.org/CVERecord?id=CVE-2023-27350)",
+    "https://www.cve.org/CVERecord?id=CVE-2020-1472)",
+    "https://www.cve.org/CVERecord?id=CVE-2023-27997)",
+    "https://www.cve.org/CVERecord?id=CVE-2023-42793)",
+    "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf).",
+    "https://www.cve.org/CVERecord?id=CVE-2023-20273)",
+    "https://cve.org/CVERecord?id=CVE-2023-20273)",
+    "https://cve.org/CVERecord?id=CVE-2023-49103)Ces",
+    "https://cve.org/CVERecord?id=CVE-2023-2868)",
+    "https://cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf).",
+    "https://cve.org/CVERecord?id=CVE-2020-1472)",
+    "https://cve.org/CVERecord?id=CVE-2023-27350)",
+    "https://cve.org/CVERecord?id=CVE-2023-20198)",
+    "https://cve.org/CVERecord?id=CVE-2021-44228)(Log4Shell)",
+    "https://cve.org/CVERecord?id=CVE-2023-42793)",
+    "https://cve.org/CVERecord?id=CVE-2023-27997)",
+    "https://cve.org/CVERecord?id=CVE-2023-23397)",
+    "https://cve.org/CVERecord?id=CVE-2023-22515)",
+    "https://cve.org/CVERecord?id=CVE-2023-34362)",
+    "https://www.cve.org/CVERecord",
+    "https://cve.org/CVERecord?id=CVE-2023-4966)",
+    "https://cve.org/CVERecord?id=CVE-2022-47966)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T11:29:55.680+02:00",
+  "updated": "2024-11-15T11:29:55.680+02:00"
+}

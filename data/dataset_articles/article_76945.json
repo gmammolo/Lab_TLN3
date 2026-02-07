@@ -1,0 +1,125 @@
+{
+  "thread": {
+    "uuid": "3a8f02427ccfec27834c95ada620dc523176b3b1",
+    "url": "https://www.inkl.com/news/australiana-images-made-by-ai-are-racist-and-full-of-tired-cliches-new-study-shows",
+    "site_full": "www.inkl.com",
+    "site": "inkl.com",
+    "site_section": "https://news.google.com/search?q=about%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "inkl – The world’s news at your fingertips",
+    "title": "'Australiana' images made by AI are racist and full of…",
+    "title_full": "'Australiana' images made by AI are racist and full of…",
+    "published": "2025-08-14T09:14:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.inkl.com/s3/article/lead_image/22388882/file-20250814-56-6oy1ff.jpg",
+    "performance_score": 0,
+    "domain_rank": 12587,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3a8f02427ccfec27834c95ada620dc523176b3b1",
+  "url": "https://www.inkl.com/news/australiana-images-made-by-ai-are-racist-and-full-of-tired-cliches-new-study-shows",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-08-14T09:14:00.000+03:00",
+  "title": "'Australiana' images made by AI are racist and full of…",
+  "text": "Big tech company hype sells generative artificial intelligence (AI) as intelligent, creative, desirable, inevitable, and about to radically reshape the future in many ways.\nPublished by Oxford University Press, our new research on how generative AI depicts Australian themes directly challenges this perception.\nWe found when generative AIs produce images of Australia and Australians, these outputs are riddled with bias. They reproduce sexist and racist caricatures more at home in the country’s imagined monocultural past.\nBasic prompts, tired tropes\nIn May 2024, we asked: what do Australians and Australia look like according to generative AI?\nTo answer this question, we entered 55 different text prompts into five of the most popular image-producing generative AI tools: Adobe Firefly, Dream Studio, Dall-E 3, Meta AI and Midjourney.\nThe prompts were as short as possible to see what the underlying ideas of Australia looked like, and what words might produce significant shifts in representation.\nWe didn’t alter the default settings on these tools, and collected the first image or images returned. Some prompts were refused, producing no results. (Requests with the words “child” or “children” were more likely to be refused, clearly marking children as a risk category for some AI tool providers.)\nOverall, we ended up with a set of about 700 images.\nThey produced ideals suggestive of travelling back through time to an imagined Australian past, relying on tired tropes like red dirt, Uluru, the outback, untamed wildlife, and bronzed Aussies on beaches.\nWe paid particular attention to images of Australian families and childhoods as signifiers of a broader narrative about “desirable” Australians and cultural norms.\nAccording to generative AI, the idealised Australian family was overwhelmingly white by default, suburban, heteronormative and very much anchored in a settler colonial past.\n‘An Australian father’ with an iguana\nThe images generated from prompts about families and relationships gave a clear window into the biases baked into these generative AI tools.\n“An Australian mother” typically resulted in white, blonde women wearing neutral colours and peacefully holding babies in benign domestic settings.\nThe only exception to this was Firefly which produced images of exclusively Asian women, outside domestic settings and sometimes with no obvious visual links to motherhood at all.\nNotably, none of the images generated of Australian women depicted First Nations Australian mothers, unless explicitly prompted. For AI, whiteness is the default for mothering in an Australian context.\nSimilarly, “Australian fathers” were all white. Instead of domestic settings, they were more commonly found outdoors, engaged in physical activity with children, or sometimes strangely pictured holding wildlife instead of children.\nOne such father was even toting an iguana – an animal not native to Australia – so we can only guess at the data responsible for this and other glaring glitches found in our image sets.\nAlarming levels of racist stereotypes\nPrompts to include visual data of Aboriginal Australians surfaced some concerning images, often with regressive visuals of “wild”, “uncivilised” and sometimes even “hostile native” tropes.\nThis was alarmingly apparent in images of “typical Aboriginal Australian families” which we have chosen not to publish. Not only do they perpetuate problematic racial biases, but they also may be based on data and imagery of deceased individuals that rightfully belongs to First Nations people.\nRead more:\nHow AI images are ‘flattening’ Indigenous cultures – creating a new form of tech colonialism\nBut the racial stereotyping was also acutely present in prompts about housing.\nAcross all AI tools, there was a marked difference between an “Australian’s house” – presumably from a white, suburban setting and inhabited by the mothers, fathers and their families depicted above – and an “Aboriginal Australian’s house”.\nFor example, when prompted for an “Australian’s house”, Meta AI generated a suburban brick house with a well-kept garden, swimming pool and lush green lawn.\nWhen we then asked for an “Aboriginal Australian’s house”, the generator came up with a grass-roofed hut in red dirt, adorned with “Aboriginal-style” art motifs on the exterior walls and with a fire pit out the front.\nThe differences between the two images are striking. They came up repeatedly across all the image generators we tested.\nThese representations clearly do not respect the idea of Indigenous Data Sovereignty for Aboriginal and Torres Straight Islander peoples, where they would get to own their own data and control access to it.\nRead more:\nAI affects everyone – including Indigenous people. It’s time we have a say in how it's built\nHas anything improved?\nMany of the AI tools we used have updated their underlying models since our research was first conducted.\nOn August 7, OpenAI released their most recent flagship model, GPT-5.\nTo check whether the latest generation of AI is better at avoiding bias, we asked ChatGPT5 to “draw” two images: “an Australian’s house” and “an Aboriginal Australian’s house”.\nThe first showed a photorealistic image of a fairly typical redbrick suburban family home. In contrast, the second image was more cartoonish, showing a hut in the outback with a fire burning and Aboriginal-style dot painting imagery in the sky.\nThese results, generated just a couple of days ago, speak volumes.\nWhy this matters\nGenerative AI tools are everywhere. They are part of social media platforms, baked into mobile phones and educational platforms, Microsoft Office, Photoshop, Canva and most other popular creative and office software.\nIn short, they are unavoidable.\nOur research shows generative AI tools will readily produce content rife with inaccurate stereotypes when asked for basic depictions of Australians.\nGiven how widely they are used, it’s concerning that AI is producing caricatures of Australia and visualising Australians in reductive, sexist and racist ways.\nGiven the ways these AI tools are trained on tagged data, reducing cultures to clichés may well be a feature rather than a bug for generative AI systems.\nTama Leaver receives funding from the Australian Research Council. He is a chief investigator in the ARC Centre of Excellence for the Digital Child.\nSuzanne Srdarov receives funding from the Australian Research Council. She is a research fellow in the ARC Centre of Excellence for the Digital Child.\nThis article was originally published on The Conversation. Read the original article.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Politics"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->racism",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->social problem",
+    "Politics->political dissent",
+    "Politics->censorship and freedom of speech",
+    "Politics->civil rights"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://theconversation.com/ai-affects-everyone-including-indigenous-people-its-time-we-have-a-say-in-how-its-built-239605",
+    "https://doi.org/10.1093/9780198945215.003.0150",
+    "https://doi.org/10.5204/mcj.3004",
+    "https://theconversation.com",
+    "https://theconversation.com/australiana-images-made-by-ai-are-racist-and-full-of-tired-cliches-new-study-shows-263117",
+    "https://doi.org/10.5204/mcj.3123",
+    "https://www.sbs.com.au/nitv/article/indigenous-cultural-protocols-what-the-media-needs-to-do-when-depicting-deceased-persons/97xq2otnt",
+    "https://doi.org/10.54760/001c.133656",
+    "https://theconversation.com/how-ai-images-are-flattening-indigenous-cultures-creating-a-new-form-of-tech-colonialism-246972",
+    "https://openai.com/index/introducing-gpt-5/",
+    "https://www.openai.com/index/introducing-gpt-5/",
+    "https://www.theconversation.com",
+    "https://www.theconversation.com/australiana-images-made-by-ai-are-racist-and-full-of-tired-cliches-new-study-shows-263117",
+    "https://www.theconversation.com/ai-affects-everyone-including-indigenous-people-its-time-we-have-a-say-in-how-its-built-239605",
+    "https://www.doi.org/10.1093/9780198945215.003.0150",
+    "https://www.theconversation.com/how-ai-images-are-flattening-indigenous-cultures-creating-a-new-form-of-tech-colonialism-246972",
+    "https://www.doi.org/10.5204/mcj.3123",
+    "https://sbs.com.au/nitv/article/indigenous-cultural-protocols-what-the-media-needs-to-do-when-depicting-deceased-persons/97xq2otnt",
+    "https://www.doi.org/10.54760/001c.133656",
+    "https://openai.com/index/introducing-gpt-5",
+    "https://www.doi.org/10.5204/mcj.3004"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Oxford University Press",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "3a8f02427ccfec27834c95ada620dc523176b3b1",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:43:58.730+03:00",
+  "updated": "2025-08-14T09:48:54.000+03:00"
+}

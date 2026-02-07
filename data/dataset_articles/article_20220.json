@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "23623b612768ba641dd31f04c4379ffa8c7aa367",
+    "url": "https://news.az/news/catastrophic-flooding-threatens-western-washington",
+    "site_full": "news.az",
+    "site": "news.az",
+    "site_section": "https://news.az/",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "News.az - Latest news from Azerbaijan",
+    "site_title": "News.az - Latest news from Azerbaijan",
+    "title": "Catastrophic flooding threatens Western Washington",
+    "title_full": "Catastrophic flooding threatens Western Washington",
+    "published": "2025-12-11T08:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AZ",
+    "main_image": "https://news.az/photos/2025/12/1765435208.webp",
+    "performance_score": 0,
+    "domain_rank": 150497,
+    "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "23623b612768ba641dd31f04c4379ffa8c7aa367",
+  "url": "https://news.az/news/catastrophic-flooding-threatens-western-washington",
+  "ord_in_thread": 0,
+  "author": "Mehman",
+  "published": "2025-12-11T08:39:00.000+02:00",
+  "title": "Catastrophic flooding threatens Western Washington",
+  "text": "Areas facing “considerable” flooding extend from Bellingham to south of Olympia, News.Az reports, citing foreign media.\nThe most severe, “catastrophic” flooding is predicted from Mount Vernon through Everett and into regions east of Redmond.\nThe National Weather Service warns that catastrophic flooding could pose a significant threat to life and property, with a high likelihood of levees being overtopped and landslides occurring in steep terrain. Meteorologist Steve Reedy added that record-breaking floods could destroy roads and structures, necessitating evacuations and rescues of people and property.\n“I’ve been working here at the Seattle office for 12 years and I have never seen anything like this,” Reedy said.\nReedy said this flood outlook is cause for serious concern for people living near a river. And while he said he is less concerned about urban areas, he said any drain that gets clogged could still quickly result in flooding. He advises residents to monitor local news, follow updates from the National Weather Service, and pay close attention to the instructions of local law enforcement.\n“We’re already getting word of evacuations going into place,” Reedy said. “Heed your local law enforcement. If they say it’s time to move to higher ground, they’re not kidding around.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Environment->climate change",
+    "Environment->water",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.seattletimes.com/seattle-news/weather/catastrophic-flooding-expected-in-king-snohomish-skagit-counties/",
+    "https://www.seattletimes.com/seattle-news/weather/catastrophic-flooding-expected-in-king-snohomish-skagit-counties",
+    "https://seattletimes.com/seattle-news/weather/catastrophic-flooding-expected-in-king-snohomish-skagit-counties/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Steve Reedy",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "National Weather Service",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-11T09:00:57.727+02:00",
+  "updated": "2025-12-11T09:08:42.000+02:00"
+}

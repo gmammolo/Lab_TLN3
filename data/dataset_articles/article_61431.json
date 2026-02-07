@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "344cc49d0a2dccda98203d7cd731422fb545e8f2",
+    "url": "https://e2e.ti.com/support/microcontrollers/arm-based-microcontrollers-group/arm-based-microcontrollers/f/arm-based-microcontrollers-forum/1380634/ek-tm4c123gxl-spi-with-tm4c123gxl",
+    "site_full": "e2e.ti.com",
+    "site": "ti.com",
+    "site_section": "https://e2e.ti.com/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "",
+    "title": "Forum Post: EK-TM4C123GXL: SPI with TM4C123GXL",
+    "title_full": "Forum Post: EK-TM4C123GXL: SPI with TM4C123GXL",
+    "published": "2024-06-27T23:40:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 1587,
+    "domain_rank_updated": "2024-06-25T13:08:38.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "344cc49d0a2dccda98203d7cd731422fb545e8f2",
+  "url": "https://e2e.ti.com/support/microcontrollers/arm-based-microcontrollers-group/arm-based-microcontrollers/f/arm-based-microcontrollers-forum/1380634/ek-tm4c123gxl-spi-with-tm4c123gxl",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Jonathan Navor",
+  "published": "2024-06-27T23:40:00.000+03:00",
+  "title": "Forum Post: EK-TM4C123GXL: SPI with TM4C123GXL",
+  "text": "Part Number: EK-TM4C123GXL\nTool/software:\nHi Experts,\nGood day! Posting on behalf of my customer.\nI am contacting you because I have a problem wanting to make SPI communication using the EK-TM4C123GXL board.\nwhen I'm configuring the SPI\nvoid spiInitial()\n{\n // Habilitar el módulo SSI0 (equivalente al USCI en MSP430)\n SysCtlPeripheralEnable(SYSCTL_PERIPH_SSI0);\n // Configurar el SSI0 como maestro\n SSIConfigSetExpClk(SSI0_BASE, SysCtlClockGet(), SSI_FRF_MOTO_MODE_0, SSI_MODE_MASTER, 12 , 8);\n // Habilitar el SSI0\n SSIEnable(SSI0_BASE);\n // Configurar los pines GPIO para SPI (SCK, MOSI, MISO)\n GPIOPinConfigure(GPIO_PA2_SSI0CLK);\n GPIOPinConfigure(GPIO_PA5_SSI0TX);\n GPIOPinConfigure(GPIO_PA4_SSI0RX);\n GPIOPinTypeSSI(GPIO_PORTA_BASE, GPIO_PIN_2 | GPIO_PIN_5 | GPIO_PIN_4);\n}\nenter the function\nGPIOPinConfigure(GPIO_PA2_SSI0CLK);\nand stay in an infinite loop\nstatic void\nFaultISR(void)\n{\n //\n // Enter an infinite loop.\n //\n while(1)\n {\n }\n}\nI know this because I did the debug.\nSo I don't know why it does this, I looked for information about it but I can't find an error when configuring\nRegards,\nJonathan",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident",
+    "Politics",
+    "Social Issue"
+  ],
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "jonathan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "usci",
+        "sentiment": "none"
+      },
+      {
+        "name": "mosi",
+        "sentiment": "none"
+      },
+      {
+        "name": "gpio",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-06-28T00:01:07.607+03:00",
+  "updated": "2024-06-28T01:11:19.836+03:00"
+}

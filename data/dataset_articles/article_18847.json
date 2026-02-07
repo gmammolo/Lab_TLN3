@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "c7bcc12bfe66006dd3ff2f68041af5f3b1f025a3",
+    "url": "https://www.thestar.com.my/news/nation/2025/03/06/15000-tonnes-of-e-waste-worth-over-rm55mil-uncovered-in-recent-ops-hazard-says-minister",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://news.google.com/search?q=were%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+    "site_categories": [
+      "media",
+      "top_news_sa",
+      "top_news_my",
+      "top_news_ph",
+      "top_news_sg",
+      "top_news"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": null,
+    "title": "15,000 tonnes of e-waste worth over RM55mil uncovered in recent Ops Hazard, says minister | The Star",
+    "title_full": "15,000 tonnes of e-waste worth over RM55mil uncovered in recent Ops Hazard, says minister | The Star",
+    "published": "2025-03-06T06:32:36.300+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "MY",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2025/03/06/3199254.jpg",
+    "performance_score": 0,
+    "domain_rank": 2086,
+    "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 1,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c7bcc12bfe66006dd3ff2f68041af5f3b1f025a3",
+  "url": "https://www.thestar.com.my/news/nation/2025/03/06/15000-tonnes-of-e-waste-worth-over-rm55mil-uncovered-in-recent-ops-hazard-says-minister",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "BENJAMIN LEE, TARRENCE TAN, RAHIMY RAHIM and RAGANANTHINI VETHASALAM",
+  "published": "2025-03-06T06:32:36.300+02:00",
+  "title": "15,000 tonnes of e-waste worth over RM55mil uncovered in recent Ops Hazard, says minister | The Star",
+  "text": "KUALA LUMPUR: Over 15,000 metric tonnes of e-waste, estimated to be worth at least RM55mil, was uncovered as part of the recent Ops Hazard operations last month, says Nik Nazmi Nik Ahmad.\nThe Natural Resources and Environmental Sustainability Minister revealed that the operation had successfully seized 15,764.9 metric tonnes of e-waste from raids on 47 different premises across the country.\nHe said that of the 47 premises, 30 were operating illegally, seven were scrap goods premises, six were licensed under the Environment Department (DOE), three were licensed under the local authorities, and one was an illegal warehouse.\nNik Nazmi added that premises inspected during the raids, which were carried out in collaboration with the police and DOE, were scattered in areas outside and inside industrial areas.\n“Most of them were operating illegally without a licence from local authorities and were mostly run by foreign nationals who employed undocumented migrants or workers abusing work permits.\n“As a result, 37 of the premises were subjected to Operation Equipment Seizure (POK) under Section 38(1)(a) of Environmental Quality Act 1974 (AKAS 1974) for operating machinery without any control devices,” he told the Dewan Rakyat on Thursday (Mar 6).\nHe added that 59 notice orders and 27 compounds were also issued to the premises for various offences under the Environmental Quality (Scheduled Waste) Regulations 2005.\nAnother 52 investigation papers were opened by the police for further legal action.\nHe also revealed that 329 containers filled with e-waste had been uncovered at Malaysia's ports in 2024 by enforcement officers, a massive tenfold increase from the 32 found in 2023.\nHe added that 11 such containers had been detained at Malaysia's ports is since February of this year.\n“This spike in containers identified and confiscated were due to better coordination with the Customs Department and non-governmental organisations like the Basel Action Network (BAN).\n“Customs provided us better ability to screen for e-waste while BAN helped notify us whenever they discovered a ship with e-waste filled containers exiting developed countries for our shores,\" Nik Nazmi said.\nHe added that his ministry was currently reviewing several proposals to help better crackdown on e-waste in the country.\nAmong these included, delegating powers under AKAS 19 ZZ z74 to the police for environmental crimes; and including environmental crimes under the Anti-Money Laundering Act (AMLA) 2001 and Prevention of Crime Act 1959 (POCA).\nThe ministry is also looking to amend the Port Authorities Act 1963 and Free Zones Regulations 1991 to take action against shipping agents making false declarations.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Environment",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Environment->hazardous materials",
+    "Environment->waste materials",
+    "Economy, Business and Finance->financial service",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->energy and resource",
+    "Social Issue->social condition",
+    "Social Issue->welfare",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Nik Nazmi Nik Ahmad",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-06T06:32:36.300+02:00",
+  "updated": "2025-03-06T06:32:36.300+02:00"
+}

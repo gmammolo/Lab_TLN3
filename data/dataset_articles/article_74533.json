@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "d514fb104ff6cb5a3a51a4076f95d1a5f3e12544",
+    "url": "https://www.elprogreso.es/gl/articulo/sociedad/filtran-datos-489-millones-usuarios-instagram/202411151549071804761.html",
+    "site_full": "www.elprogreso.es",
+    "site": "elprogreso.es",
+    "site_section": "https://www.elprogreso.es/gl/rss",
+    "site_categories": [
+      "world_soccer",
+      "sports"
+    ],
+    "section_title": "",
+    "title": "Se filtran datos de 489 millones de usuarios de Instagram",
+    "title_full": "Se filtran datos de 489 millones de usuarios de Instagram",
+    "published": "2024-11-15T14:49:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "ES",
+    "main_image": "https://www.elprogreso.es/media/elprogreso/images/2024/11/15/2024111515441684301.jpg",
+    "performance_score": 0,
+    "domain_rank": 70609,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d514fb104ff6cb5a3a51a4076f95d1a5f3e12544",
+  "url": "https://www.elprogreso.es/gl/articulo/sociedad/filtran-datos-489-millones-usuarios-instagram/202411151549071804761.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Adrián López",
+  "published": "2024-11-15T14:49:00.000+02:00",
+  "title": "Se filtran datos de 489 millones de usuarios de Instagram",
+  "text": "El pasado 10 de noviembre, un ciberatacante anunció en un foro especializado la venta de un enorme conjunto de datos que, según sus palabras, incluiría registros de 489 millones de usuarios de Instagram. Este incidente afectaría a una cuarta parte de los usuarios activos de la plataforma, que cuenta con más de 2.000 millones de usuarios mensuales.\n¿Cómo obtuvo los datos?\nEl atacante habría utilizado técnicas de raspado de datos o web scraping, obteniendo información de perfiles públicos y, aparentemente, accediendo a detalles que no deberían ser visibles mediante las API de Instagram. Entre los datos filtrados, se incluyen:\n- Nombre completo y nombre de usuario.\n- Dirección de correo electrónico.\n- Biografía y URL externa del perfil.\n- Número de seguidores y seguidos.\n- Ubicación.\n- Fecha de creación de la cuenta.\n- Categoría de la cuenta (como influencer o empresa).\n- ID de usuario.\nInvestigadores de Cybernews han examinado una muestra de los registros publicados y concluyen que los perfiles parecen auténticos. Sin embargo, las direcciones de correo incluidas no coinciden con datos filtrados previamente, lo que podría indicar que la información es reciente o, alternativamente, falsa.\nUn investigador de Cybernews explicó que las API públicas de Instagram no deberían permitir el acceso a correos electrónicos privados, lo que sugiere una posible exposición de una API privada o una vulnerabilidad conocida como Broken Object Level Authorization.\n¿Qué implica esta filtración?\nCon estos datos, los ciberdelincuentes podrían llevar a cabo ataques de suplantación de identidad y otras estrategias de ingeniería social. Perfiles empresariales e influencers con gran número de seguidores serían especialmente vulnerables.\nAunque el scraping no es ilegal en todos los países, infringe las políticas de Meta, que prohíben el uso de herramientas automatizadas para extraer información sin permiso. Meta asegura tener un equipo dedicado a prevenir el mal uso de datos externos, pero esta brecha pone en evidencia los retos constantes para proteger la privacidad de los usuarios.\nRecordando el caso de Facebook en 2021\nNo es la primera vez que una plataforma de Meta enfrenta una fuga masiva de datos. En 2021, un incidente similar afectó a más de 533 millones de usuarios de Facebook. En aquella ocasión, los datos expuestos incluían números de teléfono, nombres completos y localizaciones, utilizados por los hackers para campañas de spam y fraude.\nComprueba si estas afectado\nDesde hace años, existe un método para saber si tu correo o contraseñas se han expuesto en este tipo de filtraciones masivas: Have I been Pwned. La web fue creada por un reputado analista de seguridad y trabajador de Microsoft que asegura no guardar los registros de las búsquedas que se hacen. Este site obtiene copias de todas las filtraciones y ofrece un buscador para que puedas comprobar si tus datos han sido también incluidos.\n¿Cómo protegerse?\nPara minimizar el impacto de este tipo de ataques, considera los siguientes consejos:\n- Configura la privacidad de tu perfil: Reduce la información visible públicamente en tus cuentas sociales.\n- Utiliza contraseñas únicas y robustas: Combina caracteres, números y símbolos para evitar accesos no autorizados.\n- Activa la autenticación en dos pasos: Añade una capa adicional de seguridad a tus cuentas.\n- Desconfía de correos sospechosos: Evita hacer clic en enlaces de mensajes o correos no solicitados.\n- Mantén tus aplicaciones actualizadas: Las actualizaciones incluyen parches de seguridad que corrigen posibles vulnerabilidades.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://haveibeenpwned.com/",
+    "https://haveibeenpwned.com",
+    "https://www.haveibeenpwned.com/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "URL",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:37:47.284+02:00",
+  "updated": "2024-11-15T17:37:47.284+02:00"
+}

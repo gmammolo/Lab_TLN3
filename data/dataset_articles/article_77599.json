@@ -1,0 +1,131 @@
+{
+  "thread": {
+    "uuid": "67f52e40c07bdc21cfd188dff094656ca6789845",
+    "url": "https://news.qq.com/rain/a/20250814A05FFN00?suid=&media_id=",
+    "site_full": "news.qq.com",
+    "site": "qq.com",
+    "site_section": "https://r.inews.qq.com/news_feed/hot_module_list?chlid=news_news_tech&devid=0_d5a8c9a119785&qimei36=1692693554279&source=pc",
+    "site_categories": [
+      "tech",
+      "email",
+      "top_news_pk",
+      "top_news_id",
+      "top_news_th",
+      "top_news_kr",
+      "top_news_eg",
+      "top_news_sa",
+      "top_news_vn",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_ae",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_iq",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": null,
+    "title": "被曝蒸馏DeepSeek还造假，欧版OpenAI塌房了_腾讯新闻",
+    "title_full": "被曝蒸馏DeepSeek还造假，欧版OpenAI塌房了_腾讯新闻",
+    "published": "2025-08-14T12:06:23.650+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "https://inews.gtimg.com/news_ls/O5CdTFECafIZWfvY9kckLDgu1gW3NEfxIHV2xVDq-MQ9UAA_640330/0",
+    "performance_score": 0,
+    "domain_rank": 51,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "67f52e40c07bdc21cfd188dff094656ca6789845",
+  "url": "https://news.qq.com/rain/a/20250814A05FFN00?suid=&media_id=",
+  "ord_in_thread": 0,
+  "author": "腾讯网",
+  "published": "2025-08-14T12:06:23.650+03:00",
+  "title": "被曝蒸馏DeepSeek还造假，欧版OpenAI塌房了_腾讯新闻",
+  "text": "henry 发自 凹非寺量子位 | 公众号 QbitAI离职掀桌！Mistral被曝“蒸馏”DeepSeek。网友在推特上爆料，一位Mistral离职女员工群发邮件，直指公司多项黑幕。其中最劲爆的就是：Mistral最新模型疑似直接蒸馏自DeepSeek，却对外包装成RL成功案例，并刻意歪曲基准测试结果。说到Mistral，这家公司被誉为欧洲版OpenAI，是全球开...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->scientific research",
+    "Science and Technology->technology and engineering",
+    "Crime, Law and Justice->corporate crime",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->discrimination"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_pk",
+      "top_news_id",
+      "top_news_th",
+      "top_news_kr",
+      "top_news_eg",
+      "top_news_sa",
+      "top_news_vn",
+      "top_news_nz",
+      "top_news_au",
+      "top_news_sg",
+      "top_news_ph",
+      "top_news_ae",
+      "top_news_hk",
+      "top_news_my",
+      "top_news_iq",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T12:06:23.650+03:00",
+  "updated": "2025-08-15T13:04:48.000+03:00"
+}

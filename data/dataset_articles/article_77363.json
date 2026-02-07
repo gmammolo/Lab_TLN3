@@ -1,0 +1,95 @@
+{
+  "thread": {
+    "uuid": "c36d079a677d9427e40f7330bc69234cb481e527",
+    "url": "https://www.csoonline.com/article/4039582/fido-ausgehebelt.html",
+    "site_full": "www.csoonline.com",
+    "site": "csoonline.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "site_title": "CSO Online | Security at the speed of business",
+    "title": "FIDO ausgehebelt | CSO Online",
+    "title_full": "FIDO ausgehebelt | CSO Online",
+    "published": "2025-08-14T07:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.csoonline.com/wp-content/uploads/2025/08/4039582-0-94408200-1755155907-ymgerman_shutterstock_1022739901_16z9_NR.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "performance_score": 0,
+    "domain_rank": 2787,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c36d079a677d9427e40f7330bc69234cb481e527",
+  "url": "https://www.csoonline.com/article/4039582/fido-ausgehebelt.html",
+  "ord_in_thread": 0,
+  "author": "Redaktion CSO",
+  "published": "2025-08-14T07:09:00.000+03:00",
+  "title": "FIDO ausgehebelt | CSO Online",
+  "text": "Sicherheitsforscher haben einen Weg gefunden, FIDO-basierte Authentifizierungen zu umgehen.\nBestimmte Implementierungen der FIDO-Authentifizierung – insbesondere Windows Hello for Business – können laut Proofpoint anfällig für Downgrade-Angriffe sein. ymgerman | shutterstock.com\nDer FIDO-Standard gilt allgemein als sicher und benutzerfreundlich. Er kommt für passwortlose Authentifizierung zum Einsatz und gilt als wirksames Mittel gegen Phishing-Versuche. Research-Experten des Sicherheitsanbieters Proofpoint haben nun allerdings eine neue Möglichkeit aufgetan, um die Authentifizierung auf FIDO-Basis auszuhebeln. Dazu entwickelten die Experten eine Downgrade-Angriffstechnik, die sie am Beispiel von Microsoft Entra ID durchgespielt haben .\nSo läuft der FIDO-Downgrade-Angriff ab Phishing-Kampagnen scheitern für gewöhnlich an Konten, die mit FIDO-Passkeys abgesichert sind. Allerdings sind laut Proofpoint bestimmte FIDO-Implementierungen anfällig für Downgrade-Angriffe. Bei dieser Form der Attacke sollen die Benutzer dazu gebracht werden, auf eine weniger sichere Authentifizierungsmethode zurückzugreifen.\nDer Ansatzpunkt für die Forscher war dabei der Fakt, dass nicht alle Webbrowser FIDO-Passkeys unterstützen – beispielsweise Safari unter Windows. Laut Proofpoint lässt sich diese funktionale Lücke von Angreifern ausnutzen. “Ein Cyberkrimineller kann einen Adversary-in-the-Middle- (AiTM-) Angriff anpassen, um einen nicht unterstützten Benutzeragenten vorzutäuschen, der von einer FIDO-Implementierung nicht erkannt wird. Anschließend wäre der Benutzer gezwungen, sich über eine weniger sichere Methode zu authentifizieren”, schreibt der Sicherheitsanbieter in einer Pressemitteilung.\nUm zu demonstrieren, wie sich das in der Praxis auszunutzen ließe, haben die Proofpoint-Spezialisten ein Phishlet für das AiTM-Framework Evilginx entwickelt. Hierbei handelt es sich um eine Konfigurationsdatei, die im Rahmen von Phishing-Kits zum Einsatz kommt, um Websites zu fälschen sowie Login-Daten und Session-Token abzugreifen. Möglich wird die Angriffssequenz laut Proofpoint, weil Benutzerkonten mit FIDO-Authentifizierung in aller Regel alternative Anmeldemethoden als Fallback-Lösung nutzen – meistens Multi-Faktor Authentifizierung ( MFA ).\nDie Angriffssequenz läuft den Sicherheitsexperten zufolge folgendermaßen ab:\nEin Phishing-Link wird dem Angriffsziel zugestellt – etwa per E-Mail, SMS oder OAuth-Anfrage. Erfolgt der Klick auf den schadhaften Link, wird ein Fehler bei der Authentifizierung gemeldet und eine alternative Anmeldemethode vorgeschlagen. Greift der angegriffene Benutzer darauf zurück und meldet sich über das Fake-Interface an, werden seine Login-Daten und Session Cookies abgegriffen. Das ermöglicht dem Angreifer, die Sitzung zu kapern und das Konto des Ziels zu übernehmen. Datenexfiltrationen oder lateralen Bewegungen innerhalb der betroffenen Umgebung sind damit Tür und Tor geöffnet. Obwohl es laut Proofpoint bislang keine Anhaltspunkte dafür gibt, dass diese Angriffstechnik bereits von Cyberkriminellen in der Praxis genutzt wird, stuft der Sicherheitsanbieter Downgrade-Angriffe als signifikante neue Bedrohung ein. Die Experten warnen: “Weil immer mehr Organisationen ‘Phishing-resistente’ Authentifizierungsmethoden wie FIDO einführen, könnten Angreifer künftig FIDO-Authentifizierungs-Downgrades in ihre Kill Chains integrieren.” (fm)\nSie wollen weitere interessante Beiträge rund um das Thema IT-Sicherheit lesen? Unser kostenloser Newsletter liefert Ihnen alles, was Sicherheitsentscheider und -experten wissen sollten, direkt in Ihre Inbox.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": false,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.proofpoint.com/us/blog/threat-insight/dont-phish-let-me-down-fido-authentication-downgrade",
+    "https://ssl-idgbusiness.met.vgwort.de/na/b96be2e9af034d848f448f4df4077689",
+    "https://www.ssl-idgbusiness.met.vgwort.de/na/b96be2e9af034d848f448f4df4077689",
+    "https://proofpoint.com/us/blog/threat-insight/dont-phish-let-me-down-fido-authentication-downgrade"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:25:26.338+03:00",
+  "updated": "2025-08-14T11:29:13.000+03:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "bca3158c5380068684c45e3987790ceb31b7ecd0",
+    "url": "https://www.techspot.com/news/105673-official-bing-wallpaper-app-does-nasty-malware-like.html",
+    "site_full": "www.techspot.com",
+    "site": "techspot.com",
+    "site_section": "http://www.techspot.com/backend.xml",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TechSpot",
+    "title": "The official \"Bing Wallpaper app\" does some nasty, malware-like things to Windows | TechSpot",
+    "title_full": "The official \"Bing Wallpaper app\" does some nasty, malware-like things to Windows | TechSpot",
+    "published": "2024-11-22T00:50:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.techspot.com/images2/news/bigimage/2024/11/2024-11-21-image-25.jpg",
+    "performance_score": 0,
+    "domain_rank": 2576,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bca3158c5380068684c45e3987790ceb31b7ecd0",
+  "url": "https://www.techspot.com/news/105673-official-bing-wallpaper-app-does-nasty-malware-like.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alfonso Maruccia",
+  "published": "2024-11-22T00:50:00.000+02:00",
+  "title": "The official \"Bing Wallpaper app\" does some nasty, malware-like things to Windows | TechSpot",
+  "text": "WTF?! Microsoft recently released the Bing Wallpaper app on the Windows Store, offering users a new, official way to change your desktop wallpaper on a daily basis. The app includes a collection of images from around the world that have been featured on the Bing homepage, but it apparently also brings a series of very questionable hidden perks after being installed on a Windows PC.\nSome third-party software companies behave like true malware sellers, packing their products with really questionable functionality and hidden payloads. When Microsoft shows the same behavior, however, Windows users tend to react swiftly and in an extremely negative way.\nAccording to Windows dev and \"reverse engineer by night\" Rafael Rivera, Bing Wallpaper is an absolute nightmare for the user's security and privacy. The app automatically installs Bing Visual Search and includes code to decrypt cookies saved in other browsers, Rivera said , and it also brings a \"free\" geolocation web API to the system.\nCool wallpaper, not so cool app...\nThe developer discovered \"many\" nasty tricks Microsoft integrated in Bing Wallpapers, which include trying to change the browser's settings and set Edge as the default system browser. If the default browser isn't Edge, the app will open the default browser after some time asking to enable the previously installed Microsoft Bing Search for Chrome extension.\nRivera provided a list of the forcefully installed extensions users need to block in Chrome or Firefox. The developer straight up defined Bing Wallpaper as a malicious app, pointing to the app's server configuration for people interested in further investigating this malware. There's also a registry key that can apparently force the app to \"nuke itself,\" which sounds like a very nice option to have at this point.\n// Related Stories Microsoft Rewards offers $1 million grand prize in latest sweepstakes to users of Bing, Edge Pegasus spyware target expands beyond activists and journalists, found on everyday users' devices\nNetizens welcomed the Bing Wallpaper \"malware\" with open arms, and now they are sharing some very nice comments on Microsoft's latest attempt to bother the Windows userbase. People are saying that this sounds exactly like a thing Microsoft would do, while someone is even evoking a class action lawsuit against the company. If the wallpaper is free, one user said, you are likely the product.\nAt this point, Bing Wallpaper can be considered unwanted, hostile adware at best. Dynamic wallpapers and related desktop customization features are readily available with other, adware-free apps and proper Win32 programs like Dynamic Wallpaper, Wallpaper Engine, and many more. Windows 11 even includes a native feature to change the desktop background every day, so there really is no need to install \"official\" Bing apps to get the job done.\n48 comments 356 likes and shares",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://bingwallpaper.microsoft.com/api/BWC/getServerConfig",
+    "https://x.com/WithinRafael/status/1858772145779995119",
+    "https://x.com/WithinRafael/status/1858946712582451672",
+    "https://www.reddit.com/r/windows/comments/1gw4vim/microsofts_new_bing_wallpaper_app_is_malware/",
+    "https://x.com/WithinRafael/status/1858769565054062772",
+    "https://www.reddit.com/r/windows/comments/1gw4vim/microsofts_new_bing_wallpaper_app_is_malware",
+    "https://www.x.com/WithinRafael/status/1858772145779995119",
+    "https://www.x.com/WithinRafael/status/1858769565054062772",
+    "https://www.bingwallpaper.microsoft.com/api/BWC/getServerConfig",
+    "https://reddit.com/r/windows/comments/1gw4vim/microsofts_new_bing_wallpaper_app_is_malware/",
+    "https://www.x.com/WithinRafael/status/1858946712582451672"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Bing Wallpaper",
+        "sentiment": "none"
+      },
+      {
+        "name": "Rafael Rivera",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T00:59:40.049+02:00",
+  "updated": "2024-12-07T17:26:10.209+02:00"
+}

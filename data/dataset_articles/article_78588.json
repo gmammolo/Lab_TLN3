@@ -1,0 +1,115 @@
+{
+  "thread": {
+    "uuid": "f44938d41b8a8cb9c86f31b8dfddd423195c1eb5",
+    "url": "https://www.news.de/technik/858857992/linux-kernel-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-vom-19-08-2025/1/",
+    "site_full": "www.news.de",
+    "site": "news.de",
+    "site_section": "https://news.de/rss/364371192/technik",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news"
+    ],
+    "section_title": "",
+    "site_title": "news.de - mehr als Nachrichten und News, die Sie bewegen",
+    "title": "IT-Sicherheit: Linux gefährdet - Update für IT-Sicherheitshinweis zu Linux Kernel (Risiko: mittel)",
+    "title_full": "IT-Sicherheit: Linux gefährdet - Update für IT-Sicherheitshinweis zu Linux Kernel (Risiko: mittel)",
+    "published": "2025-08-21T12:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://media.news.de/images/857771892/images/01/9b/fee50905f5bfef0e0b4d5bad0e61/nopic/no_pic/1200/675/1/1/138/3/746/419/-/-/fuer-linux-liegt-ein-it-sicherheitshinweis-vor-symbolbild_857771892_1200x675_fd1cd8a2d8cf57864fe4f88f4a054dc7.jpg",
+    "performance_score": 0,
+    "domain_rank": 26236,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f44938d41b8a8cb9c86f31b8dfddd423195c1eb5",
+  "url": "https://www.news.de/technik/858857992/linux-kernel-gefaehrdet-bsi-meldung-zur-it-sicherheit-update-zu-bekannten-schwachstellen-bei-linux-vom-19-08-2025/1/",
+  "ord_in_thread": 0,
+  "author": "kns/roj/news.de",
+  "published": "2025-08-21T12:35:00.000+03:00",
+  "title": "IT-Sicherheit: Linux gefährdet - Update für IT-Sicherheitshinweis zu Linux Kernel (Risiko: mittel)",
+  "text": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 19.08.2025 ein Update zu einer am 29.07.2025 bekanntgewordenen Sicherheitslücke für Linux Kernel veröffentlicht. Betroffen von der Sicherheitslücke sind das Betriebssystem Linux sowie die Produkte Debian Linux, SUSE Linux und Open Source Linux Kernel.\nDie neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: SUSE Security Update SUSE-SU-2025:02923-1 (Stand: 20.08.2025). Weitere nützliche Quellen werden weiter unten in diesem Artikel aufgeführt.\nSicherheitshinweis für Linux Kernel - Risiko: mittel\nRisikostufe: 3 (mittel)\nCVSS Base Score: 7,1\nCVSS Temporal Score: 6,2\nRemoteangriff: Nein\nZur Einschätzung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um eine darauf aufbauende Prioritätenliste zur Einleitung von Gegenmaßnahmen zu erstellen. Für die Schweregrade einer Schwachstelle werden die Attribute \"keine\", \"niedrig\", \"mittel\", \"hoch\" und \"kritisch\" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Der Temporal Score berücksichtigt darüber hinaus zeitliche Veränderungen hinsichtlich der Gefahrenlage. Der Schweregrad der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 7,1 als \"mittel\" eingestuft.\nLinux Kernel Bug: Schwachstelle ermöglicht Manipulation und Dos\nDer Kernel stellt den Kern des Linux Betriebssystems dar.\nEin lokaler Angreifer kann diese Schwachstelle im Linux Kernel ausnutzen, um Daten zu manipulieren oder einen Denial of Service zu verursachen.\nDie Verwundbarkeit wird mit der eindeutigen CVE-Seriennummer (Common Vulnerabilities and Exposures) CVE-2025-38498 gehandelt.\nVon der Sicherheitslücke betroffene Systeme im Überblick\nBetriebssystem\nLinux\nProdukte\nDebian Linux (cpe:/o:debian:debian_linux)\nSUSE Linux (cpe:/o:suse:suse_linux)\nOpen Source Linux Kernel (cpe:/o:linux:linux_kernel)\nAllgemeine Empfehlungen zum Umgang mit IT-Schwachstellen\n- Anwender der betroffenen Anwendungen sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten Sicherheitspatches verfügbar sein, installieren Sie diese zeitnah.\n- Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.\n- Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten die genannten Quellen regelmäßig daraufhin prüfen, ob ein neues Sicherheitsupdate zur Verfügung steht.\nQuellen zu Updates, Patches und Workarounds\nAn dieser Stelle befinden sich weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.\nSUSE Security Update SUSE-SU-2025:02923-1 vom 2025-08-20 (19.08.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-August/022237.html\nSUSE Security Update SUSE-SU-2025:02853-1 vom 2025-08-18 (18.08.2025)\nWeitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2025-August/022200.html\nDebian Security Advisory DSA-5973 vom 2025-08-12 (12.08.2025)\nWeitere Informationen finden Sie unter: https://lists.debian.org/debian-security-announce/2025/msg00137.html\nLinux Kernel CVE Announcement CVE-2025-38498 (29.07.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/2025073029-CVE-2025-38498-e3ab@gregkh/\nKernel CVE Announce Mailingliste (29.07.2025)\nWeitere Informationen finden Sie unter: https://lore.kernel.org/linux-cve-announce/\nVersionshistorie dieses Sicherheitshinweises\nDies ist die 5. Version des vorliegenden IT-Sicherheitshinweises für Linux Kernel. Sollten weitere Updates bekanntgegeben werden, wird dieser Text aktualisiert. Änderungen oder Ergänzungen können Sie in dieser Versionshistorie nachlesen.\n29.07.2025 - Initiale Fassung\n30.07.2025 - Referenz(en) aufgenommen: EUVD-2025-23147\n12.08.2025 - Neue Updates von Debian aufgenommen\n18.08.2025 - Neue Updates von SUSE aufgenommen\n19.08.2025 - Neue Updates von SUSE aufgenommen\n+++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten generiert und wird je nach Warnlage datengetrieben aktualisiert. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++\nFolgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.\nkns/roj/news.de\nErfahren Sie hier mehr über die journalistischen Standards und die Redaktion von news.de.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.facebook.com/News.de",
+    "https://lore.kernel.org/linux-cve-announce/2025073029-CVE-2025-38498-e3ab@gregkh/",
+    "https://twitter.com/news_de",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-August/022237.html",
+    "https://lists.debian.org/debian-security-announce/2025/msg00137.html",
+    "https://www.youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA",
+    "https://lists.suse.com/pipermail/sle-security-updates/2025-August/022200.html",
+    "https://lore.kernel.org/linux-cve-announce/",
+    "https://pin.it/11NQyAf",
+    "https://www.lists.debian.org/debian-security-announce/2025/msg00137.html",
+    "https://www.lore.kernel.org/linux-cve-announce/2025073029-CVE-2025-38498-e3ab@gregkh/",
+    "https://facebook.com/News.de",
+    "https://www.pin.it/11NQyAf",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-August/022200.html",
+    "https://www.twitter.com/news_de",
+    "https://www.lists.suse.com/pipermail/sle-security-updates/2025-August/022237.html",
+    "https://lore.kernel.org/linux-cve-announce",
+    "https://www.lore.kernel.org/linux-cve-announce/",
+    "https://lore.kernel.org/linux-cve-announce/2025073029-CVE-2025-38498-e3ab@gregkh",
+    "https://youtube.com/channel/UCOzsvCb0KteNrzUboTonVYA"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:08:33.731+03:00",
+  "updated": "2025-08-22T14:05:54.000+03:00"
+}

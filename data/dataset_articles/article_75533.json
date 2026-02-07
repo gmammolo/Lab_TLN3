@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "f10d74f502b5af316b4877e9b5e034db2d9def4b",
+    "url": "https://community.netgear.com/t5/ReadyNAS-Storage-Apps-Old-Legacy/ReadyNAS-RNDP6000-RND-6B-stuck-at-quot-ReadyNAS-quot-state-when/m-p/2405741",
+    "site_full": "community.netgear.com",
+    "site": "netgear.com",
+    "site_section": "https://community.netgear.com/t5/netgear-forum/ct-p/en-netgear",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "\n\tNETGEAR Forum - NETGEAR Communities\n",
+    "title": "Re: ReadyNAS RNDP6000 RND-6B stuck at \"ReadyNAS\" s... - NETGEAR Communities",
+    "title_full": "Re: ReadyNAS RNDP6000 RND-6B stuck at \"ReadyNAS\" s... - NETGEAR Communities",
+    "published": "2024-11-22T10:58:00.000+02:00",
+    "replies_count": 1,
+    "participants_count": 2,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://community.netgear.com/html/assets/img11.jpg",
+    "performance_score": 0,
+    "domain_rank": 3091,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f10d74f502b5af316b4877e9b5e034db2d9def4b",
+  "url": "https://community.netgear.com/t5/ReadyNAS-Storage-Apps-Old-Legacy/ReadyNAS-RNDP6000-RND-6B-stuck-at-quot-ReadyNAS-quot-state-when/m-p/2405741",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "viktor77796",
+  "published": "2024-11-22T10:58:00.000+02:00",
+  "title": "Re: ReadyNAS RNDP6000 RND-6B stuck at \"ReadyNAS\" s... - NETGEAR Communities",
+  "text": "Good day!\nThere is a problem - ReadyNAS RNDP6000 RND-6B freezes at \"ReadyNAS\" state when turned on.\nAccording to the owner of the device, first the raid disappeared, then the disks were disconnected, and then everything froze. There was no upgrade from OS 4 to 6.\nActions taken:\n1) Test replacement of the power supply to ATX with 300W did not help\n2) The RAM was replaced - did not help\n3) Replacing the 2032 battery - did not help\n4) Cleaning the cooler and replacing thermal paste - did not help\n5) A factory reset is not performed according to the instructions, the system does not react to it in any way\nAmong the anomalies and nuances:\n1) On the Flame6 ver: 1.1 motherboard, the red LED1 light is on. I did not find information on this motherboard and, accordingly, documentation to understand the reason.\n2) Also, when starting up, the LAN1,2 light does not light up, so I also cannot access the device via the network.\n3) The Backup light is on.\nPlease tell me in which direction to dig on this problem?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T16:05:35.057+02:00",
+  "updated": "2024-11-22T16:05:35.057+02:00"
+}

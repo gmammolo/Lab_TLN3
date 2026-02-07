@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "64d22551119433a36191c7337f80191a1be5ad60",
+    "url": "https://www.technadu.com/casino-spam-hidden-malicious-wordpress-code-manipulating-search-engine-algorithms/556164",
+    "site_full": "www.technadu.com",
+    "site": "technadu.com",
+    "site_section": "https://www.technadu.com",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "TechNadu - Territory of Tech",
+    "title": "Casino Spam Hidden Malicious WordPress Code, Manipulating Search Engine Algorithms",
+    "title_full": "Casino Spam Hidden Malicious WordPress Code, Manipulating Search Engine Algorithms",
+    "published": "2024-11-15T09:34:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 46661,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "64d22551119433a36191c7337f80191a1be5ad60",
+  "url": "https://www.technadu.com/casino-spam-hidden-malicious-wordpress-code-manipulating-search-engine-algorithms/556164",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Lore Apostol",
+  "published": "2024-11-15T09:34:00.000+02:00",
+  "title": "Casino Spam Hidden Malicious WordPress Code, Manipulating Search Engine Algorithms",
+  "text": "Attackers compromised WordPress websites via subtle SEO poisoning tactics. The website hosted spam pages with casino-related links, while the malware targeted only bots and crawlers. Hiding the malware in an \"include\" statement within the WordPress theme helped evade standard detection protocols. A WordPress website was found to be hosting a cleverly disguised spam doorway aimed at manipulating search engine algorithms without affecting actual visitors. This incident sheds light on an emerging trend where attackers use subtle yet sophisticated SEO poisoning tactics.\nThe latest report from Sucuri says the victim's site was manipulated to host spam pages with casino-related links, originating from Indonesia. The malware was concealed using a simple \"include\" statement within the WordPress theme, referencing a malicious file positioned above the webroot.\nThis strategic placement allowed the malware to evade standard detection protocols, presenting significant challenges in identifying and removing the threat.\nCasino Spam pages | Source: Sucuri Such doorways are a form of blackhat SEO, redirecting search engine traffic to spam sites to boost their ranking. Remarkably, this particular malware targeted only bots and crawlers, meaning it operated under the radar, unseen by human visitors.\nThis approach not only enhances the effectiveness of the spam but also complicates detection efforts, as human users are less likely to report unseen spam.\nSpam Website | Source: Sucuri By maintaining the victim's domain name, the affected website inadvertently appeared to host a legitimate casino site, with hardcoded links directing traffic to spam domains. The tactic helps maintain the malware's presence while avoiding the scrutiny of human users.\nUpon investigation, it was confirmed that core WordPress files remained unaltered. The culprit was identified within the functions.php file of the theme, recently modified to include a seemingly innocuous statement. This minor addition was pivotal in executing the spam doorway operation.\nThe malware executes by defining a bot function that checks for known bot names within the User-Agent header. If a bot is detected, the script pulls malicious content from a Pastebin, effectively diverting bots to spam pages.\nBy staying on top of software updates, regularly changing WordPress admin passwords, installing a web application firewall, and limiting access to the WordPress dashboard, you can safeguard your site from these harmful strategies.\nRecently, Sucuri security researchers observed a very difficult-to-eliminate malware campaign affecting WordPress websites by deploying a stealthy backdoor, while more than 6,000 WordPress websites were compromised in October by malicious plugin campaigns that pushed infostealers .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blog.sucuri.net/2024/11/simple-include-statement-hides-casino-spam.html",
+    "https://www.blog.sucuri.net/2024/11/simple-include-statement-hides-casino-spam.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T14:25:23.328+02:00",
+  "updated": "2024-11-15T14:25:23.328+02:00"
+}

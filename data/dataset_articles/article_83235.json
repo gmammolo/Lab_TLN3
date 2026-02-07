@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "36a7515857ac0d50675cd9679b2edc9136e1e75f",
+    "url": "https://hardwareand.co/actualites/breves/blackwell-libere-delivre-les-ecrans-noirs-vous-n-les-verrez-plus-jamaaaais?akengage_cid=15578",
+    "site_full": "hardwareand.co",
+    "site": "hardwareand.co",
+    "site_section": "https://hardwareand.co",
+    "site_categories": [],
+    "section_title": "Hardware &amp; Co",
+    "site_title": null,
+    "title": "Blackwell libéré, délivré, les écrans noirs vous n'les verrez plus jamaaaais ! - Hardware & Co",
+    "title_full": "Blackwell libéré, délivré, les écrans noirs vous n'les verrez plus jamaaaais ! - Hardware & Co",
+    "published": "2025-02-27T22:43:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://hardwareand.co/images/thumb/nvidia-rtx-5080-fe_thumb.webp",
+    "performance_score": 0,
+    "domain_rank": 64098,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "36a7515857ac0d50675cd9679b2edc9136e1e75f",
+  "url": "https://hardwareand.co/actualites/breves/blackwell-libere-delivre-les-ecrans-noirs-vous-n-les-verrez-plus-jamaaaais?akengage_cid=15578",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "David Sergent",
+  "published": "2025-02-27T22:43:00.000+02:00",
+  "title": "Blackwell libéré, délivré, les écrans noirs vous n'les verrez plus jamaaaais ! - Hardware & Co",
+  "text": "Thibaut vous en parlait hier, et c'est déjà fait ! NVIDIA indiquait avoir résolu (à priori) les soucis d'écrans noirs subis par certains acheteurs de GeForce RTX 50, et assurait que des nouveaux pilotes réglant le problème sortiraient avant la fin de la semaine. Nous sommes jeudi et c'est déjà chose faite, puisque voici les GeForce 572.60 WHQL lâchés dans l'arène.\nSi vous subissiez ce souci d'écrans noirs, espérons que vous avez été plus patients que ce pauvre Ron Swanson.\nNVIDIA ne s'étend pas en revanche sur une explication détaillée de la cause de ces écrans noirs et se contente, dans son Release Notes, d'indiquer que trois références d'écrans noirs auraient été corrigés :\n• [GeForce RTX 50 series] Various black screen issues [5088957] [5100062] [5089089]\nCes nouveaux pilotes 572.60 corrigent également quelques autres bugs généraux \"hors jeux\", ainsi qu'un autre lié à l'utilisation de SteamVR, qui pouvait générer des saccades en jeu avec les cartes Blackwell.\nCes 572.60 WHQL apportent également une petite nouveauté sur un jeu sorti en 2021 : NARAKA: BLADEPOINT. Le jeu supporte désormais officiellement le DLSS 4 avec cette nouvelle mouture donc si par hasard vous êtes un inconditionnel de ce titre, ou que cela vous donne envie de vous y essayer avec votre toute fraiche GeForce RTX 50 par exemple, n'hésitez pas à les installer nom de diou, problème d'écrans noirs ou non. Le changelog ne l'indique pas clairement, sûrement un oubli, mais il y aurait également au programme les dernières petites optimisations de rigueur pour le lancement de Monster Hunter: Wilds demain.\nLa page de téléchargement des pilotes graphiques GeForce chez NVIDIA",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->media and entertainment industry"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.nvidia.com/en-in/geforce/drivers/",
+    "https://us.download.nvidia.com/Windows/572.60/572.60-win11-win10-release-notes.pdf",
+    "https://www.nvidia.com/en-in/geforce/drivers",
+    "https://www.us.download.nvidia.com/Windows/572.60/572.60-win11-win10-release-notes.pdf",
+    "https://nvidia.com/en-in/geforce/drivers/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:05:20.811+02:00",
+  "updated": "2025-02-28T01:05:20.811+02:00"
+}

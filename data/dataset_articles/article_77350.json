@@ -1,0 +1,126 @@
+{
+  "thread": {
+    "uuid": "3bf2eadff7d03c090e54c3a16e9828648259a119",
+    "url": "https://www.trendingtopics.eu/deepseek-r2-modell",
+    "site_full": "www.trendingtopics.eu",
+    "site": "trendingtopics.eu",
+    "site_section": "https://press24.net/gallery",
+    "site_categories": [
+      "under_construction"
+    ],
+    "section_title": "Galerien und Videos - Press24.net",
+    "site_title": "Trending Topics | Magazin für Startups, Innovation &amp; Nachhaltigkeit",
+    "title": "DeepSeeks R2-Modell soll sich wegen Problemen mit Huawei-Chips verzögern",
+    "title_full": "DeepSeeks R2-Modell soll sich wegen Problemen mit Huawei-Chips verzögern",
+    "published": "2025-08-14T10:02:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.trendingtopics.eu/wp-content/uploads/2025/08/Huawei_Ascend_Chips.jpg",
+    "performance_score": 0,
+    "domain_rank": 75825,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3bf2eadff7d03c090e54c3a16e9828648259a119",
+  "url": "https://www.trendingtopics.eu/deepseek-r2-modell",
+  "ord_in_thread": 0,
+  "author": "Jakob Steinschaden, co-written by Newsrooms.AI",
+  "published": "2025-08-14T10:02:00.000+03:00",
+  "title": "DeepSeeks R2-Modell soll sich wegen Problemen mit Huawei-Chips verzögern",
+  "text": "DeepSeeks R2-Modell soll sich wegen Problemen mit Huawei-Chips verzögern\nDas chinesische KI-Unternehmen DeepSeek verschiebt die Veröffentlichung seines neuen Modells, nachdem es nicht gelungen ist, dieses mit Huawei-Chips zu trainieren, berichtet die Financial Times. Diese Entwicklung unterstreicht die Grenzen von Pekings Bemühungen, US-Technologie zu ersetzen. Laut drei mit der Angelegenheit vertrauten Personen wurde DeepSeek von den Behörden ermutigt, „Huaweis Ascend-Prozessor anstelle von Nvidias Systemen zu verwenden“, nachdem das Unternehmen im Jänner sein R1-Modell auf den Markt gebracht hatte.\nWährend des Trainingsprozesses für das R2-Modell mit Ascend-Chips soll das chinesische Startup auf anhaltende technische Probleme gestoßen sein. Dies zwingt DeepSeek dazu, für das Training Nvidia-Chips und für die Inferenz – also die Anwendung des trainierten Modells – Huaweis Hardware einzusetzen. Trotz der Unterstützung durch ein Team von Huawei-Ingenieuren, das ins Büro von DeepSeek entsandt wurde, konnte das Unternehmen keinen erfolgreichen Trainingslauf auf dem Ascend-Chip durchführen. Die technischen Schwierigkeiten seien der Hauptgrund für die Verzögerung der ursprünglich für Mai geplanten Markteinführung, so der Bericht.\nChinas Streben nach technologischer Unabhängigkeit\nDeepSeeks Probleme verdeutlichen, wie chinesische Chips bei kritischen Aufgaben noch immer hinter ihren US-amerikanischen Konkurrenten zurückbleiben. Dies stellt eine erhebliche Herausforderung für Chinas Bestreben dar, technologisch unabhängig zu werden. Wie die Financial Times diese Woche berichtet, verlangt Peking von chinesischen Technologieunternehmen, ihre Bestellungen von Nvidias H20-Chips zu rechtfertigen – ein Schritt, um sie zur Nutzung von Alternativen von Huawei und Cambricon zu bewegen. Brancheninsider weisen darauf hin, dass die chinesischen Chips im Vergleich zu Nvidias Produkten unter Stabilitätsproblemen, langsamerer Chip-Konnektivität und minderwertiger Software leiden.\nFür DeepSeek bedeutet diese Verzögerung einen Wettbewerbsnachteil gegenüber Konkurrenten wie Alibaba mit seinem Qwen3-Modell. Währenddessen bleibt Nvidia, ein Chiphersteller im Zentrum des geopolitischen Konflikts zwischen Peking und Washington, ein wichtiger Akteur auf dem chinesischen Markt. Das Unternehmen hat kürzlich zugestimmt, der US-Regierung einen Teil seiner Einnahmen in China abzutreten, um den Verkauf seiner H20-Chips an das Land wieder aufnehmen zu können.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Social Issue->social problem",
+    "Social Issue->social networking",
+    "Social Issue->demographics"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092",
+    "https://ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [
+      {
+        "name": "Pekings",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Huaweis Hardware",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Financial Times",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Nvidia-Chips",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "DeepSeek",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:20:59.175+03:00",
+  "updated": "2025-08-14T11:32:34.000+03:00"
+}

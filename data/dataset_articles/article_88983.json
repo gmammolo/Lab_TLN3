@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "1d7a6ac84c4ebc3f86178e8a6039d22502728f81",
+    "url": "https://universal-blue.discourse.group/t/does-ujust-setup-virtualization-command-doesnt-work/2512",
+    "site_full": "universal-blue.discourse.group",
+    "site": "discourse.group",
+    "site_section": "https://universal-blue.discourse.group/posts.rss",
+    "site_categories": [],
+    "section_title": "Universal Blue - Latest posts",
+    "title": "Does \"ujust setup-virtualization\" command doesnt work?",
+    "title_full": "Does \"ujust setup-virtualization\" command doesnt work?",
+    "published": "2024-08-15T22:33:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://canada1.discourse-cdn.com/free1/uploads/univeral_blue/original/2X/e/e39f7d1952979cf23b0f8d634e025fb38da50026.png",
+    "performance_score": 0,
+    "domain_rank": 30782,
+    "domain_rank_updated": "2024-08-13T00:00:00.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1d7a6ac84c4ebc3f86178e8a6039d22502728f81",
+  "url": "https://universal-blue.discourse.group/t/does-ujust-setup-virtualization-command-doesnt-work/2512",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@Clint_Anderson1 Clint Anderson",
+  "published": "2024-08-15T22:33:00.000+03:00",
+  "title": "Does \"ujust setup-virtualization\" command doesnt work?",
+  "text": "Wanted to setup a VM with “ujust setup-virtualization” but after i tried to “Enable Virtualization” nothing happens?\nUpdate within the hour or two and it should be fixed.\nI’m having the same issue. What caused the recipe to break?\nRecent commits that changed the recipe slightly broke it, but it has been fixed recently and Bazzite is currently building right now.\nBeing new to Bazzite, do I simply use the command ujust update to update things?\nYup that will update your system.\nEdit: bad news the fix isn’t in the image yet but there is a temp workaround.\nThe new commit used a different method to check if virt-manager was installed, however it turns out it was unreliable and did not work on all installations (it worked on my main machine i tested it on, but didnt work for other people)\nvirt-manager\nI PRed a fix for it last night however, a new image has not been successfully built with the fix due to package skews.\nYou can use this command temporarily to setup virtualization\ncurl -Lo /tmp/virt.just https://raw.githubusercontent.com/ublue-os/bazzite/main/system_files/desktop/shared/usr/share/ublue-os/just/84-bazzite-virt.just ; just -f /tmp/virt.just setup-virtualization\nIt will download the newerst 84-bazzite-virt.just and run setup-virtualization on that.\n84-bazzite-virt.just\nsetup-virtualization\nmaybe dumb suggestion but is libvirt popular enough that maybe it should just be included in the base image with like, guestfstools or something\ni don’t THINK it interferes with other solutions like virtualbox/vmware/etc",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://raw.githubusercontent.com/ublue-os/bazzite/main/system_files/desktop/shared/usr/share/ublue-os/just/84-bazzite-virt.just",
+    "https://www.raw.githubusercontent.com/ublue-os/bazzite/main/system_files/desktop/shared/usr/share/ublue-os/just/84-bazzite-virt.just"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "bazzite",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "name": "bazzite",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": null,
+  "rating": null,
+  "crawled": "2024-08-16T00:20:19.510+03:00",
+  "updated": "2024-08-16T00:20:19.510+03:00"
+}

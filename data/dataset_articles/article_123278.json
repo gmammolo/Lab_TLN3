@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "5ef326bb804b7b4763b2c025f5def7dd25a992ab",
+    "url": "https://editorialge.com/us-china-ai-weather-model/",
+    "site_full": "editorialge.com",
+    "site": "editorialge.com",
+    "site_section": "https://editorialge.com/medical-tourism-hotspots-in-ukraine",
+    "site_categories": [],
+    "section_title": "Uncover 7 Hidden Medical Tourism Hotspots In Ukraine Today!",
+    "site_title": "Discover the Latest Entertainment, Zodiac, Offbeat, Career, Biz, Gaming and Practical Life Facts at Editorialge",
+    "title": "US China AI weather model: NOAA and CMA expand forecasts",
+    "title_full": "US China AI weather model: NOAA and CMA expand forecasts",
+    "published": "2025-12-20T10:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://editorialge.com/wp-content/uploads/2025/12/us-china-ai-weather-model.jpg",
+    "performance_score": 0,
+    "domain_rank": 116075,
+    "domain_rank_updated": "2025-12-14T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5ef326bb804b7b4763b2c025f5def7dd25a992ab",
+  "url": "https://editorialge.com/us-china-ai-weather-model/",
+  "ord_in_thread": 0,
+  "author": "@editorialge",
+  "published": "2025-12-20T10:23:00.000+02:00",
+  "title": "US China AI weather model: NOAA and CMA expand forecasts",
+  "text": "US-China AI weather model efforts are accelerating as NOAA begins operational use of new AI-based global forecast systems in mid-December 2025, while China’s meteorological agency expands AI forecasting and an AI service platform to deliver faster, scenario-based guidance.\nNOAA puts new AI global forecasting systems into operations\nThe U.S. National Weather Service, through NOAA’s National Centers for Environmental Prediction (NCEP), is rolling out a new set of AI-driven global forecast tools designed to run alongside established physics-based forecasting.\nThe operational change is centered on three systems: the Artificial Intelligence Global Forecast System (AIGFS) v1.0, the Artificial Intelligence Global Ensemble Forecast System (AIGEFS) v1.0, and the Hybrid Global Ensemble Forecast System (HGEFS) v1.0. These systems are set to become operational with the 1200 UTC cycle on December 17, 2025, following an evaluation window that began earlier in December.\nIn practical terms, this matters because global models help shape many daily forecasts, from storm track guidance to broad-scale temperature and precipitation outlooks that feed downstream tools. The new systems also reflect a growing strategy among meteorological agencies: use AI for speed and efficiency, and use hybrid ensembles to reduce uncertainty and improve risk guidance.\nAIGFS is designed for deterministic forecasting—one best-estimate run—while AIGEFS is an ensemble system intended to represent uncertainty by running multiple members. The hybrid HGEFS combines the AI ensemble with an existing operational ensemble, creating a larger combined set of forecasts.\nNOAA’s service notice outlines several key operational characteristics:\n- AIGEFS includes 31 ensemble members.\n- HGEFS is a 62-member hybrid ensemble, built by combining 31 AI members with 31 members from an operational global ensemble system (GEFSv12).\n- Output is distributed in GRIB2 format using standard operational naming conventions and identifiers, reflecting that these AI systems are being integrated into the same production pipelines used by traditional models.\n- Data distribution is set up through NOAA’s operational online systems rather than older FTP-based delivery methods.\nThese details are not just administrative. For emergency managers, researchers, and private-sector weather users, the difference between deterministic and ensemble guidance can shape decisions such as evacuation planning, pre-positioning utility crews, or adjusting shipping routes. A larger ensemble can also improve probabilistic products like “chance of heavy rain” or “risk of extreme cold,” because those products depend heavily on how many plausible scenarios the model system can represent.\nAnother core detail in NOAA’s documentation is that AIGFS and AIGEFS are based on the GraphCast approach and were developed with NOAA partners across research and innovation groups.\nChina expands Fenghe, Fenglei, and Fengqing for AI forecasting and services\nChina’s meteorological agency has been building a parallel AI stack that includes both (1) AI forecast models and (2) a platform meant to translate forecasts into practical, user-facing guidance.\nA major step highlighted in late 2025 is the release of “Fenghe,” described as China’s first AI-powered meteorological service system. It is positioned as a tool that can interpret service requests, generate meteorological service content, and support decision advice across weather-sensitive activities.\nChina’s agency describes Fenghe as consisting of five modules:\n- Meteorological Knowledge Center\n- Model Square\n- Meteorological AI Toolbox\n- Intelligent Agent Factory\n- Evaluation Laboratory\nIn addition, the system is described as using a “1+1+N” technology framework. In plain language, that means: a base model that blends general AI capability with meteorological knowledge, a development platform that can connect tools and real-time data, and then many specialized agents built for particular scenarios and user groups. The public description also notes incremental pre-training on a large meteorological text corpus to improve domain understanding.\nChina’s approach also emphasizes connecting service-layer AI to operational AI forecast models, including:\n- CMA-AIM-Nowcast-Fenglei (an AI nowcasting system)\n- CMA-AIM-GFS-Fengqing (an AI global forecast model)\nChina’s meteorological agency previously stated that Fenglei v1.0 and Fengqing v1.0 entered official operation starting September 10, 2024 after operational evaluation.\nWhile Fenghe focuses on service delivery and user interaction, Fenglei and Fengqing focus on forecast production. China’s published descriptions of these tools have highlighted speed and coverage as priorities, including rapid generation of national-scale nowcasting products and fast global forecast generation for multi-day outlooks.\nOne reason this layered approach is significant is that forecasts often fail to change outcomes unless they are delivered in a form people can act on. Systems like Fenghe appear designed to respond to practical questions—such as travel planning, logistics, or risk warnings—rather than simply outputting raw maps and data.\nWhat “AI weather models” actually change, and why hybrid ensembles are central\nAI-based forecasting has moved from research demonstrations into daily operations because it offers a very specific set of advantages: it can produce forecast guidance much faster and often with far lower computing requirements than traditional numerical weather prediction.\nTraditional weather models simulate the atmosphere using physics equations. They are powerful, but they require large supercomputers and long runtimes, especially at high resolution or with large ensembles. AI models learn relationships from vast historical datasets and can generate forecasts quickly once trained.\nNOAA’s documentation for its hybrid ensemble work describes why this matters operationally: computing limits have historically constrained ensemble size, but AI-based systems open the possibility of running larger ensembles and combining them with physics-based ensembles to improve overall performance.\nA major thread in NOAA’s materials is the use of GraphCast-based approaches tuned with NOAA data. For example, NOAA’s technical work describes using NOAA’s assimilation datasets to fine-tune training and generate practical, operationally relevant forecasts. NOAA documentation also highlights very rapid forecast generation on modern GPU hardware for multi-day forecasts, reflecting the speed advantage AI can bring.\nHybrid ensembles are central because ensembles are how weather services express uncertainty. Instead of one forecast, you get many plausible versions of the future atmosphere. When agencies blend an AI ensemble with a physics-based ensemble, they can:\n- Increase the number of scenarios considered\n- Compare different model “worldviews” (AI-learned patterns vs. physics-based dynamics)\n- Improve probability-based guidance used by emergency\nmanagement and industry\nThe “hybrid” concept is also appearing internationally. Europe’s ECMWF, for example, has put an ensemble AI forecasting system into operations to run alongside its physics-based system, while also emphasizing that physics-based systems remain indispensable for certain high-resolution and coupled Earth-system needs.\nHow operational AI systems compare at a glance?\n| System (Agency) | Primary purpose | Operational timing (publicly stated) | Ensemble size | Typical update cycle | Notable point |\n| AIGFS v1.0 (NOAA/NWS) | Global deterministic AI forecast | Operational starting Dec. 17, 2025 (1200 UTC cycle) | 1 | Multiple daily cycles | Built on GraphCast approach and integrated into NCEP operations |\n| AIGEFS v1.0 (NOAA/NWS) | Global AI ensemble forecast | Operational starting Dec. 17, 2025 | 31 | Multiple daily cycles | Designed to support uncertainty guidance |\n| HGEFS v1.0 (NOAA/NWS) | Hybrid ensemble (AI + physics) | Operational starting Dec. 17, 2025 | 62 | Multiple daily cycles | Combines AI ensemble with GEFSv12 members |\n| Fenglei v1.0 (CMA) | AI nowcasting/echo forecasting | Official operation from Sept. 10, 2024 | Not stated publicly as an ensemble | Rapid refresh | Focused on near-term, fast-update products |\n| Fengqing v1.0+ (CMA) | AI global forecast model | Official operation from Sept. 10, 2024 | Not stated publicly as an ensemble | Regular global cycles | Later updates describe added precipitation features and comparable precipitation scores in stated checks |\n| Fenghe (CMA) | AI meteorological service platform | Released Oct. 28, 2025 | N/A | On-demand queries | Designed to answer scenario-based weather service requests |\nWhat it means for forecasts, public safety, and the next phase of competition?\nThe operational expansion of AI forecasting does not automatically mean “better forecasts everywhere.” Instead, it signals a shift in how agencies build forecast systems: more models, faster guidance, larger ensembles, and service platforms that can turn raw forecasts into decisions.\nSeveral near-term impacts stand out\nFirst, faster model runtimes can support more frequent updates and quicker internal testing during fast-evolving events. This can be valuable when severe storms, atmospheric rivers, or rapidly changing wind patterns create narrow windows for action. In those moments, minutes and hours matter.\nSecond, expanding ensembles supports probability-based decision-making. Emergency management increasingly relies on “reasonable worst-case” planning, and that depends on understanding the range of plausible outcomes—not just the single most likely path.\nThird, more operational AI models can change how national services allocate computing resources. If AI can generate useful global guidance quickly, agencies may be able to devote more of their supercomputing time to high-resolution regional models, specialized hazard systems, and data assimilation improvements that feed both AI and physics-based systems.\nThere are also limitations and open questions.\nOne challenge is how AI systems behave in rare extremes. Extreme events are often underrepresented in historical training data, and unusual combinations of conditions can test any data-driven model. That is one reason agencies are keeping physics-based models in the loop and building hybrid systems.\nAnother challenge is verification and trust. Operational forecasting requires constant monitoring: if a model’s skill changes, biases emerge, or specific hazards degrade, agencies need fast detection and clear user communication. Public service platforms like Fenghe also raise new questions about how “decision advice” is framed—especially in high-impact situations where official warnings are governed by strict protocols.\nInternationally, the operationalization of AI ensembles by major agencies suggests that competition is no longer just about who has the best AI research paper. It is about who can build the most reliable operational pipeline: training data, validation, version control, production delivery, and communication products that users actually understand.\nKey milestones in operational AI forecasting (publicly stated)\n| Date | Milestone | What changed |\n| Sept. 10, 2024 | China’s Fenglei v1.0 and Fengqing v1.0 enter official operation | AI nowcasting and AI global forecasting move into operations after evaluation |\n| Oct. 28, 2025 | China releases Fenghe | AI service platform launched with modules for tools, agents, and evaluation |\n| July 1, 2025 | ECMWF operationalizes AIFS ENS | 51-member AI ensemble runs alongside physics-based forecasting |\n| Dec. 17, 2025 | NOAA operationalizes AIGFS/AIGEFS/HGEFS | AI deterministic, AI ensemble, and hybrid ensemble integrated into NCEP operations |\nWhat comes next for the US-China AI weather model push?\nThe latest operational steps by NOAA and China’s meteorological agency show that AI forecasting is becoming a standard part of national weather infrastructure, not an experiment on the side.\nOver the next year, the biggest signals to watch will be practical and measurable:\n- Whether AI and hybrid ensembles improve high-impact probabilities for heavy rain, wind, and temperature extremes across multiple seasons\n- How quickly agencies iterate model versions while maintaining stability and transparency\n- Whether service platforms can deliver clearer, more actionable guidance without overstepping official warning processes\n- How global collaboration and competition shape access to models, datasets, and evaluation benchmarks\nFor the public, the main takeaway is simple: the forecast products people rely on—apps, warnings, travel guidance, and emergency planning—are increasingly being shaped by a blend of physics-based modeling and AI systems built to deliver faster, more probabilistic insight.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Weather"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->meteorology",
+    "Weather->weather forecast"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.google.com/search?q=ai+forecasting&oq=AI+forecasting&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBggGEEUYPTIGCAcQRRg90gEHNjQ1ajBqN6gCCLACAfEFgODSwSG3rBbxBYDg0sEht6wW&sourceid=chrome&ie=UTF-8",
+    "https://google.com/search?q=ai+forecasting&oq=AI+forecasting&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBggGEEUYPTIGCAcQRRg90gEHNjQ1ajBqN6gCCLACAfEFgODSwSG3rBbxBYDg0sEht6wW&sourceid=chrome&ie=UTF-8",
+    "https://www.google.com/search"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "NOAA",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-20T10:38:23.532+02:00",
+  "updated": "2025-12-20T10:45:01.000+02:00"
+}

@@ -1,0 +1,77 @@
+{
+  "thread": {
+    "uuid": "238f5e2ac0860bf7f783cf6ccbad230c9aa47fe2",
+    "url": "https://stackoverflow.com/questions/77883157/error-when-trying-to-mutate-a-dataframe-containing-lists",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/feeds",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Stack Overflow",
+    "title": "Error when trying to mutate a dataframe containing lists",
+    "title_full": "Error when trying to mutate a dataframe containing lists",
+    "published": "2024-01-25T23:57:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2024-01-23T12:06:23.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "238f5e2ac0860bf7f783cf6ccbad230c9aa47fe2",
+  "url": "https://stackoverflow.com/questions/77883157/error-when-trying-to-mutate-a-dataframe-containing-lists",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Thefriendly Plague Doctor Thefriendly Plague Doctor",
+  "published": "2024-01-25T23:57:00.000+02:00",
+  "title": "Error when trying to mutate a dataframe containing lists",
+  "text": "I have a dataframe containing lists, which looks similar to the following with the exception that the original has a lot more elements and rows:\np stim time list(\"001\", 240, 258) list(c(289.88, 294.830, 289.88, 894.83)) list(c(889.88, 894.830)) list(\"001\", 240, 258) list(c(299.88, 896.830, 200.88, 894.83)) list(c(989.88, 354.850)) etc\nThis information came from a series of files. I am trying to get this information into a .txt file. I am using mutate in an attempt to coerce the dataframe to display something similar to the following:\n$stim [1] 289.88, 294.830, 289.88, 894.83 $stim [1] 299.88, 896.830, 200.88, 894.83\nHere is the code I am using to do this:\nlibrary(raveio) base :: setwd(\"filepath\") filenames <- base::list.files( path = (\"filepath\"), recursive = TRUE, pattern = \"*.mat\" ) #CONVERT DATA TO LIST mylist <- lapply(filenames, function(x) read_mat(x)) #CONVERT LIST TO DATAFRAME library(tidyverse) mydata <- map_dfr(mylist, ~as.data.frame(t(.))) df <- mydata%>% mutate(across(everything(), ~sapply(.,paste0, collpase = \",\"))) #WRITE DATA TO .txt FILE sink(\"mydata.txt\") print(df) sink()\nEverything works perfectly until I run the mutate function. Then, I get the following error:\nError in `mutate()`: ℹ In argument: `across(everything(), ~sapply(., paste0, collpase = \",\"))`. Caused by error in `across()`: ! Can't compute column `time`. Caused by error in `dplyr_internal_error()`: Run `rlang::last_trace()` to see where the error occurred.\nI realize that I am probably taking a very roundabout way to do all this, but historically, it's what has worked for my purposes. How do I go about resolving the error in the mutate function?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Human Interest",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-01-26T00:01:30.185+02:00",
+  "updated": "2024-01-26T07:15:30.797+02:00"
+}

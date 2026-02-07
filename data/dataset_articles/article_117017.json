@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "2f7080fc661e95e9d699a9bc36346440d4e9b437",
+    "url": "https://www.data.jma.go.jp/developer/xml/data/20250828065137_0_VPFJ50_050000.xml",
+    "site_full": "www.data.jma.go.jp",
+    "site": "jma.go.jp",
+    "site_section": "https://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+    "site_categories": [],
+    "section_title": "高頻度（随時）",
+    "site_title": "気象庁 Japan Meteorological Agency",
+    "title": "府県気象情報",
+    "title_full": "府県気象情報",
+    "published": "2025-08-28T09:51:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4014,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2f7080fc661e95e9d699a9bc36346440d4e9b437",
+  "url": "https://www.data.jma.go.jp/developer/xml/data/20250828065137_0_VPFJ50_050000.xml",
+  "ord_in_thread": 0,
+  "author": "秋田地方気象台",
+  "published": "2025-08-28T09:51:00.000+03:00",
+  "title": "府県気象情報",
+  "text": "1.0_0 秋田県では、前線や暖かく湿った空気の影響により、大雨となる所がある見込みです。２９日夜のはじめ頃から３０日にかけて、大雨による土砂災害や低い土地の浸水、河川の増水に注意・警戒してください。また、落雷や突風、ひょうに注意してください。 <Text type=\"本文\">［気象概況］ 　２９日は低気圧が日本海を東に進み、夜には温暖前線が北日本にのびるでしょう。３０日は低気圧と前線が北日本を通過する見込みです。低気圧や前線に向かって暖かく湿った空気が流れ込むため、東北地方では大気の状態が不安定となるでしょう。 　このため、秋田県では、雷を伴って激しい雨が降り、大雨となる所がある見込みです。雨雲が予想以上に発達した場合には、更に雨量が多くなるため、警報級の大雨となる可能性があります。 ［雨の予想］ ２９日に予想される１時間降水量は多い所で、 　　沿岸　３０ミリ 　　内陸　３０ミリ ２９日１８時から３０日１８時までに予想される２４時間降水量は多い所で、 　　沿岸　８０ミリ 　　内陸　８０ミリ ［防災事項］ 　秋田県では、２９日夜のはじめ頃から３０日にかけて、大雨による土砂災害や低い土地の浸水、河川の増水に注意・警戒してください。また、２９日夜のはじめ頃から３０日にかけて、落雷や突風、ひょうによる農作物や農業施設等への被害に注意してください。 ［補足事項］ 今後発表する防災気象情報に留意してください。 土砂災害や浸水害、洪水害のキキクル（危険度分布）に関しては「気象庁ホームページ」などを確認してください。 次の「大雨と雷及びひょうに関する秋田県気象情報」は、２９日６時頃に発表する予定です。</Text>",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "japanese",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident",
+    "Social Issue"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster",
+    "Social Issue->demographics",
+    "Social Issue->social problem",
+    "Social Issue->population and census"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "http://xml.kishou.go.jp/jmaxml1/addition1/",
+    "http://xml.kishou.go.jp/jmaxml1/",
+    "http://xml.kishou.go.jp/jmaxml1/addition1",
+    "http://www.xml.kishou.go.jp/jmaxml1/addition1/",
+    "http://xml.kishou.go.jp/jmaxml1",
+    "http://www.xml.kishou.go.jp/jmaxml1/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": null,
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": "gov_news",
+      "city": [],
+      "state": [],
+      "country": [],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-28T09:58:21.001+03:00",
+  "updated": "2025-08-28T10:04:25.000+03:00"
+}

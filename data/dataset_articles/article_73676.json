@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "27e79fb708c19dbb7ef8821af283e8411af073a0",
+    "url": "https://news.knowledia.com/au/en/articles/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-8d40dfde109ebe88ce003273498fc9bbf4f9cc31",
+    "site_full": "news.knowledia.com",
+    "site": "knowledia.com",
+    "site_section": "https://news.knowledia.com/au/en",
+    "site_categories": [
+      "uncategorized"
+    ],
+    "section_title": "Knowledia News",
+    "title": "Misconfigurations in Microsoft Power Pages could expose millions of sensitive records",
+    "title_full": "Misconfigurations in Microsoft Power Pages could expose millions of sensitive records",
+    "published": "2024-11-15T01:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 73965,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "27e79fb708c19dbb7ef8821af283e8411af073a0",
+  "url": "https://news.knowledia.com/au/en/articles/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-8d40dfde109ebe88ce003273498fc9bbf4f9cc31",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Solomon Klappholz",
+  "published": "2024-11-15T01:33:00.000+02:00",
+  "title": "Misconfigurations in Microsoft Power Pages could expose millions of sensitive records",
+  "text": "The issue has already meant the personal information of over 1.1 million NHS workers was exposed to the public internet A data exposure issue stemming from misconfigured access controls in Microsoft Power Pages has left several millions of records exposed to unauthorized users, new research reveals.\nAaron Costello, chief of SaaS security and research at AppOmni, detailed how Microsoft's website building platform could be granting anonymous users permissions to access sensitive PII.\nIn September 2024, Costello said he uncovered \"significant amounts of data being exposed to the public internet as a result of misconfigured access controls in Microsoft Power Page websites.\"\nMicrosoft Power Pages is a low-code SaaS platform used by over 250 million people a month to build websites, according to AppOmni, which lets users build externally facing websites on Microsoft's infrastructure.\n\"The main benefits of Power Pages over traditional custom web development include out-of-the-box (OOB) role based access control (RBAC), the automatic ability to use Microsoft's Dataverse as a database, and a drag-and-drop interface using pre-built components which greatly reduces the need for custom code.\"\nCostello warned, however, that the easy deployments enabled by Power Pages could come at the expense of security if the platform is not managed correctly, stating that he has discovered several million records of sensitive data exposed to the public internet during his testing.\nCostello noted one case where a large shared business service provider for the NHS was found to have leaked information of over 1.1 million NHS employees.\nGet the ITPro. daily newsletter Receive our latest news, industry updates, featured resources and more. Sign up today to receive our…\nSolomon Klappholz",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Health",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.itpro.com/security/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records",
+    "https://itpro.com/security/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T02:17:08.620+02:00",
+  "updated": "2024-11-15T02:17:08.620+02:00"
+}

@@ -1,0 +1,79 @@
+{
+  "thread": {
+    "uuid": "522d18ec5d8970e1e6dd97c3f56de707ae2eed7c",
+    "url": "https://phandroid.com/2024/04/11/google-finally-announces-the-first-android-15-beta",
+    "site_full": "phandroid.com",
+    "site": "phandroid.com",
+    "site_section": "http://phandroid.com/feed/",
+    "site_categories": [
+      "cell_phones",
+      "tech"
+    ],
+    "section_title": "Phandroid",
+    "title": "Google Finally Announces the First Android 15 Beta",
+    "title_full": "Google Finally Announces the First Android 15 Beta",
+    "published": "2024-04-11T23:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://phandroid.com/wp-content/uploads/2024/03/android-logo-phone.jpg",
+    "performance_score": 0,
+    "domain_rank": 15212,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "522d18ec5d8970e1e6dd97c3f56de707ae2eed7c",
+  "url": "https://phandroid.com/2024/04/11/google-finally-announces-the-first-android-15-beta",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mike Viray",
+  "published": "2024-04-11T23:06:00.000+03:00",
+  "title": "Google Finally Announces the First Android 15 Beta",
+  "text": "After a few months in its developer preview phase, Android 15’s first beta version is finally here – Google has just announced the availability of the beta version, which can be accessed by both developers and early adopters, provided that they enrol their device for the beta program. While we won’t know more about Android 15 until Google I/O, we do have an idea of what to expect at the moment.\nFor one, apps for Android 15 will be displayed edge-to-edge by default, so developers no longer have to call additional classes to show their content beyond system bars (fingers crossed that this finally addresses full-screen displays in games). Of course, Android 15 will also feature improvements for performance – this comes in the form of OS-level support for app archiving (as well as unarchiving), allowing users to free up space on their device from apps that they seldom use.\nREAD:\nAndroid 15 Developer Preview 2 released: Here are the changes\nFor privacy and security, the Android 15 beta will come with an OS-level API for end-to-to-end encryption for contact keys, which will allow users to securely manage and verify other people’s contact details. Additionally, Android TalkBack now supports Braille displays that use human interface devices via USB and bluetooth for better accessibility.\nOf course, there’s a lot more to discover with the first official beta for Android 15, but these are just some of the backend workings that we can expect within Android’s next big upgrade.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "google",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T01:18:54.248+03:00",
+  "updated": "2024-04-12T01:18:54.248+03:00"
+}

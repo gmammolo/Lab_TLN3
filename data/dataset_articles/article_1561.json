@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "856d6e87a50794996f77bcea7916e474f1e4ce77",
+    "url": "https://www.comparitech.com/news/hesperia-unified-school-district-discloses-data-breach-claimed-by-lockbit-ransomware-gang",
+    "site_full": "www.comparitech.com",
+    "site": "comparitech.com",
+    "site_section": "https://comparitech.com/wp-json/wp/v2/posts/474393",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": null,
+    "title": "Hesperia Unified School District discloses data breach claimed by LockBit ransomware gang",
+    "title_full": "Hesperia Unified School District discloses data breach claimed by LockBit ransomware gang",
+    "published": "2024-06-13T22:53:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 4644,
+    "domain_rank_updated": "2024-06-11T13:07:50.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "856d6e87a50794996f77bcea7916e474f1e4ce77",
+  "url": "https://www.comparitech.com/news/hesperia-unified-school-district-discloses-data-breach-claimed-by-lockbit-ransomware-gang",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Paul Bischoff",
+  "published": "2024-06-13T22:53:00.000+03:00",
+  "title": "Hesperia Unified School District discloses data breach claimed by LockBit ransomware gang",
+  "text": "Hesperia Unified School District in San Bernardino County, California today notified an undisclosed number of people about a May 2024 data breach that compromised names, Social Security numbers, and driver’s license numbers.\nRansomware group LockBit claimed responsibility for the attack and gave the school district until June 3, 2024 to pay an undisclosed sum of money.\nThe schools’ notification ( PDF ) specifically states employee information might have been accessed by an unauthorized party, so student data might not be impacted. In addition to the data mentioned above, some files contained health insurance and medical information.\nWe don’t yet know how many people are affected by the breach, whether the school district has paid or will pay the ransom, which systems were affected, or how attackers breached the district’s network.\nComparitech contacted Hesperia Unified School District for comment and will update this article if it responds.\nWe recommend victims take advantage of the free credit monitoring and ID theft protection offered by the school district via Experian. Monitor your credit report, bank statements, and medical bills for signs of fraud.\nWho is LockBit? LockBit is one of the most prolific ransomware gangs of recent years after first appearing in 2019. The group is most likely based in Russia.\nLockBit often extorts victims twice: once for a decryption key to restore systems that its malware has encrypted, and again in exchange for not selling or publicly releasing stolen data.\nComparitech has logged 45 confirmed attacks claimed by LockBit so far this year, affecting 165,367 records. 11 of those attacks were against the education sector, six of which occurred in the United States:\nClackamas Community College Groton Public Schools Central School District 13J Township of Union Public Schools Ewing Marion Kauffman School Hesperia Unified School District LockBit has claimed a further 360 unconfirmed attacks this year, 21 of which are on the education sector.\nIn 2023, LockBit was also responsible for attacks on White Settlement Independent School District, Olympia Community Unit School District 16, University of Health Sciences and Pharmacy, Hillsborough County Public Schools, Fauquier County Public Schools, Río Hondo College, William Jewell College, Greensboro College, Atlanta Technical College, and Virginia Union University.\nRansomware attacks on US education In addition to data theft, ransomware attacks can lock up critical computer systems and networks, forcing schools to resort to pen and paper, and in some cases even cancel classes until systems are restored.\nComparitech has logged 20 confirmed ransomware attacks on US schools and colleges so far in 2024, affecting 24,054 records. In 2023, we recorded 109 such attacks, affecting 2,014,576 records.\nAbout Hesperia Unified School District Formed in 1987, the San Bernardino County school district consists of three high schools, three middle schools, 12 middle schools, five charter schools, two continuation schools, three choice schools, two alternative schools, and one adult education school. It has about 22,000 students and 1,150 staff, according to external sources.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Education",
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "webz_reporter": false,
+  "external_links": [
+    "https://oag.ca.gov/system/files/HUSD%20-%20CA%20AG%20Attachment_0.pdf",
+    "https://www.oag.ca.gov/system/files/HUSD%20-%20CA%20AG%20Attachment_0.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "hesperia unified school district",
+        "sentiment": "negative"
+      },
+      {
+        "name": "comparitech",
+        "sentiment": "none"
+      },
+      {
+        "name": "social security",
+        "sentiment": "none"
+      },
+      {
+        "name": "lockbit",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "san bernardino county",
+        "sentiment": "none"
+      },
+      {
+        "name": "california",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "rating": null,
+  "crawled": "2024-06-14T00:44:46.493+03:00",
+  "updated": "2024-06-14T00:44:46.493+03:00"
+}

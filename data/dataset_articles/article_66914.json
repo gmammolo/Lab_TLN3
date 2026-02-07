@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "94b0c1e6db5c24d095d416b8220c23810e1fc55b",
+    "url": "https://stackoverflow.com/questions/77729318/my-below-powershell-script-display-mail-contacts-but-does-not-display-active-dir",
+    "site_full": "stackoverflow.com",
+    "site": "stackoverflow.com",
+    "site_section": "https://stackoverflow.com/feeds",
+    "site_categories": [
+      "tech",
+      "non_standard_content",
+      "adult"
+    ],
+    "section_title": "Recent Questions - Stack Overflow",
+    "title": "My below Powershell script display mail contacts but does NOT display Active Directory nested distribution groups. I do not know why",
+    "title_full": "My below Powershell script display mail contacts but does NOT display Active Directory nested distribution groups. I do not know why",
+    "published": "2023-12-29T06:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": null,
+    "main_image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "performance_score": 0,
+    "domain_rank": 190,
+    "domain_rank_updated": "2023-12-26T12:06:20.000+02:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "94b0c1e6db5c24d095d416b8220c23810e1fc55b",
+  "url": "https://stackoverflow.com/questions/77729318/my-below-powershell-script-display-mail-contacts-but-does-not-display-active-dir",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "User",
+  "published": "2023-12-29T06:24:00.000+02:00",
+  "title": "My below Powershell script display mail contacts but does NOT display Active Directory nested distribution groups. I do not know why",
+  "text": "As far as I know, you cannot directly retrieve nested distribution group names with the Exchange cmdlet Get-DistributionGroupMember . It can retrieve the members of a distribution group, but it does not include members from nested groups.\nA possible approach is to use Get-ADGroup from the ActiveDirectory module to retrieve AD groups, including nested groups, and then Get-ADGroupMember $myGroup -Recursive to retrieve all members of the specified group.\n# Import-Module Activedirectory $group = Get-ADGroup 'XXX' if($group){ $nestedGroups = Get-ADGroupMember $group -Recursive | Where-Object {$_.objectClass -eq 'group'} $nestedGroups | ForEach-Object {Write-Output \"Nested Group: $($_.Name)\"} }\n4 Here's a similar discussion that shows a slightly different approach to recursively get all mailbox members of the nested groups within a specific group that might come handy.\nReferences:\nGet-ADGroup ActiveDirectory Module Get-ADGroupMember Recursively query all members within nested dynamic distribution groups of a regular distribution group",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Religion and Belief",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "external_links": [
+    "http://ABC.DEF.com/PowerShell/",
+    "http://ABC.DEF.com/PowerShell",
+    "http://www.ABC.DEF.com/PowerShell/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "powershell",
+        "sentiment": "negative"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2023-12-29T06:52:39.197+02:00",
+  "updated": "2024-01-10T13:49:03.923+02:00"
+}

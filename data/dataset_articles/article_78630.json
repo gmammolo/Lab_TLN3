@@ -1,0 +1,93 @@
+{
+  "thread": {
+    "uuid": "25667e8b1f1eb06092f46cf552eb3202ac28989a",
+    "url": "https://www.infosecurity-magazine.com/news/promptfix-attacks-supercharge/",
+    "site_full": "www.infosecurity-magazine.com",
+    "site": "infosecurity-magazine.com",
+    "site_section": "https://www.infosecurity-magazine.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "\r\n\tInfosecurity Magazine - Information Security & IT Security News and Resources\r\n",
+    "site_title": "Infosecurity Magazine - Information Security & IT Security News and Resources",
+    "title": "\"PromptFix\" Attacks Could Supercharge Agentic AI Threats",
+    "title_full": "\"PromptFix\" Attacks Could Supercharge Agentic AI Threats",
+    "published": "2025-08-21T13:11:11.654+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.infosecurity-magazine.com/webpage/og/4e3279f2-933a-4ae1-8a4f-2ebced1892d2.jpg",
+    "performance_score": 0,
+    "domain_rank": 5550,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "25667e8b1f1eb06092f46cf552eb3202ac28989a",
+  "url": "https://www.infosecurity-magazine.com/news/promptfix-attacks-supercharge/",
+  "ord_in_thread": 0,
+  "author": "Phil Muncaster",
+  "published": "2025-08-21T13:11:11.654+03:00",
+  "title": "\"PromptFix\" Attacks Could Supercharge Agentic AI Threats",
+  "text": "Researchers have engineered a new version of the ClickFix social engineering technique using prompt injection to trick agentic AI into performing a range of malicious actions.\nGuardio dubbed this “PromptFix” – a variation on the ClickFix attacks that use a fake error or verification message to manipulate victims into copying and pasting a malicious script and then running it.\nIt uses prompt injection techniques to present attacker instructions to the AI agent inside an invisible text box.\n“Why would the AI treat these as commands? In prompt injections, the attacker relies on the model’s inability to fully distinguish between instructions and regular content within the same prompt, hoping to slip malicious commands past sanitation checks,” Guardio explained.\n“With PromptFix, the approach is different. We don’t try to glitch the model into obedience. Instead, we mislead it using techniques borrowed from the human social engineering playbook – appealing directly to its core design goal: to help its human quickly, completely, and without hesitation.”\nRead more on ClickFix: ClickFix Attacks Surge 517% in 2025\nIn a test scenario, the research team posed as a scammer that sends a fake message to a victim from their ‘doctor,’ with a link to ‘recent blood test results.’ The AI browses to the link, encounters a CAPTCHA and uncovers the hidden prompt injection instructions which engineer it to cause a drive-by download attack.\n“The injected narrative tells the AI Agent this is a special ‘AI-friendly’ captcha it can solve on behalf of its human. All it needs to do is click the button. And so, it clicks,” Guardio explained.\n“In our controlled demo, the button downloaded a harmless file. Still, it could just as easily have been a malicious payload, triggering a classic drive-by download and planting malware on the human’s machine without their knowledge.”\nThe security vendor warned that similar techniques could be used to send emails containing personal details, grant file-sharing permissions to cloud storage accounts or execute other potentially malicious actions.\n“In effect, the attacker is now in control of your AI, and by extension, of you,” it said.\nAgentic AI Is Too Easily Tricked\nGuardio also tried other scenarios using Perplexity’s AI-powered browser Comet, to see if it could trick the AI agent into performing malicious tasks.\nUnfortunately, the research team was successful in getting it to buy an item from a scam e-commerce site they set up and clicking on a link to a genuine phishing site in an email they sent.\nThese attacks exploit AI’s tendency to act without full context, trust too easily and follow instructions without applying human skepticism, Guardio said.\n“The scam no longer needs to trick you. It only needs to trick your AI. When that happens, you’re still the one who pays the price,” it added.\n“This is Scamlexity: a complex new era of scams, where AI convenience collides with a new, invisible scam surface and humans become the collateral damage.”\nLionel Litty, chief security architect at Menlo Security, agreed that AI agents are both gullible and servile.\n“In an adversarial setting, where an AI agent may be exposed to untrusted input, this is an explosive combination,” he added.\n“Unfortunately, the web in 2025 is very much an adversarial setting.”\nImage credit: gguy / Shutterstock.com",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social problem",
+    "Social Issue->social networking"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "25667e8b1f1eb06092f46cf552eb3202ac28989a",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T13:11:11.654+03:00",
+  "updated": "2025-08-21T13:15:10.000+03:00"
+}

@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "9a24855316616e4de2add0bf00360bbe974a1c44",
+    "url": "https://betanews.com/2024/11/22/why-zero-trust-cant-be-fully-trusted",
+    "site_full": "betanews.com",
+    "site": "betanews.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "windows",
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Why zero trust can't be fully trusted",
+    "title_full": "Why zero trust can't be fully trusted",
+    "published": "2024-11-22T14:19:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://betanews.com/wp-content/uploads/2021/04/Zero-Trust-50x50.jpg",
+    "performance_score": 0,
+    "domain_rank": 3966,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "9a24855316616e4de2add0bf00360bbe974a1c44",
+  "url": "https://betanews.com/2024/11/22/why-zero-trust-cant-be-fully-trusted",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-11-22T14:19:00.000+02:00",
+  "title": "Why zero trust can't be fully trusted",
+  "text": "Despite its promise, the Zero Trust approach to cybersecurity is often more notional than actual in its deployment. Many companies today are far from getting the most of what a truly Zero Trust system can offer. Gartner estimates that only 10 percent of large organizations will have a mature and comprehensive Zero Trust system by 2026 . What’s more, continual reliance on human operators means that by default Zero Trust systems can only be as dependable as the people using them. This awkward fact should be kept in view before we put too much faith in systems that are described as ‘Zero Trust’. However, Zero Trust can be made to live up to its name with the addition of new tools that remove the vulnerabilities of the standard approach to using this system.\nZero Trust works by enforcing a blanket rule that all access requests must be authenticated. Unfortunately, the promise of ‘never trust, always verify’ falls apart when human beings enter the picture. Human beings configure the security tools, make judgments where an exception may be needed, and assemble the underlying IT infrastructure. All of that adds up to a lot of trust in human operators and a major caveat for Zero Trust.\nEmbedding Zero Trust from top to bottom\nAt a time when social engineering attacks are becoming increasingly sophisticated , in part driven by advances in AI, humans offer too large a vulnerability for hackers to exploit. It’s time for companies to move from mitigating the risk of human interference to eliminating it.\nThis means incorporating new tools such as security protections that are rooted within endpoint hardware and the underlying fabric of computing infrastructure. For instance, modern CPU and SoC platforms provide trusted execution environments (TEEs) which can be used to enforce isolated memory regions; these environments can be verified cryptographically even by remote attestation.\nNew paradigm chip architectures enable you to compartmentalize systems into autonomous trust domains (or ‘realms’) to limit the damage in the event of a breach. Additionally, systems such as hardware-verified boot, firmware integrity checks, and automatic emergency recovery provide security functions that are embedded at the level of hardware.\nRelying exclusively on software safeguards alone cannot provide the same level of protection as hardware-enforced security. This is in part due to the fact that software-based solutions rely on administrators configuring the policies for Zero Trust. The unavoidable reality of human error makes purely software-based solutions an unnecessary gamble when security architecture can be built in at the level of hardware.\nEnlisting AI for further support\nBeyond hardware-enforced security, a further step towards removing human error from the equation is to incorporate AI-driven policy engines. AI can ingest flows of attestation measurements and environmental telemetry from hardware root-of-trust components. The AI system can then enforce a host of Zero Trust controls including fine-grained microsegmentation, cryptographic segmentation, and least privilege access. Combining hardware solutions with AI minimizes human involvement and software vulnerabilities through automated policy enforcement and real-time threat detection.\nIt is even possible to create a security architecture that is non-configurable by human administrators to completely screen out the possibility of a misconfiguration. On a human level, true Zero Trust means peace of mind. It relieves administrators from second guessing whether a human-generated exploit is lurking in the reeds. A foundation of hardware-rooted AI security is the missing ingredient in what can truly be described as Zero Trust.\nSetting the stage for true Zero Trust\nZero Trust security is an ideal that has been underserved by reliance on software and human operators. However, by building in hardware-enforced security and AI-driven policy engines, it is now possible for Zero Trust to live up to its promise. Businesses today are too reliant on digital environments to risk the hidden vulnerabilities of Zero Trust in its default form. An overhaul at the level of hardware, paired with AI-driven controls and threat detection are what’s needed to close the gap between the concept and the reality of true Zero Trust.\nImage credit : Olivier26 / depositphotos.com\nCamellia Chan is CEO and Co-Founder of Flexxon .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.gartner.com/en/newsroom/press-releases/2023-03-28-gartner-unveils-top-8-cybersecurity-predictions-for-2023-2024",
+    "https://www.ey.com/en_us/consulting/human-risk-in-cybersecurity",
+    "https://depositphotos.com/",
+    "https://www.flexxon.com/",
+    "https://depositphotos.com/portfolio-1202020.html",
+    "https://depositphotos.com",
+    "https://ey.com/en_us/consulting/human-risk-in-cybersecurity",
+    "https://www.depositphotos.com/portfolio-1202020.html",
+    "https://www.depositphotos.com/",
+    "https://gartner.com/en/newsroom/press-releases/2023-03-28-gartner-unveils-top-8-cybersecurity-predictions-for-2023-2024",
+    "https://flexxon.com/",
+    "https://www.flexxon.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Gartner",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T14:58:02.638+02:00",
+  "updated": "2024-11-23T02:51:30.741+02:00"
+}

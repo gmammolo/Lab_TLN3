@@ -1,0 +1,101 @@
+{
+  "thread": {
+    "uuid": "0fe1e2cbec98c62bd1202e1f41bf407f431c17e0",
+    "url": "https://finance.ifeng.com/c/8pMxQcmeTSs",
+    "site_full": "finance.ifeng.com",
+    "site": "ifeng.com",
+    "site_section": "https://finance.ifeng.com/shanklist/5-305847-/",
+    "site_categories": [
+      "javascript",
+      "tech",
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "人工智能_科技_手机凤凰网",
+    "site_title": null,
+    "title": "刚刚，高中辍学生创办的AI公司，被英伟达花1400亿收购了_凤凰网",
+    "title_full": "刚刚，高中辍学生创办的AI公司，被英伟达花1400亿收购了_凤凰网",
+    "published": "2025-12-25T08:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 2669,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0fe1e2cbec98c62bd1202e1f41bf407f431c17e0",
+  "url": "https://finance.ifeng.com/c/8pMxQcmeTSs",
+  "ord_in_thread": 0,
+  "author": null,
+  "published": "2025-12-25T08:27:00.000+02:00",
+  "title": "刚刚，高中辍学生创办的AI公司，被英伟达花1400亿收购了_凤凰网",
+  "text": "就在刚刚，英伟达已经和 AI 芯片初创公司 Groq 达成了一笔重磅交易，涉及金额高达 200 亿美元（折合人民币 1405 亿元）。\n根据 Groq 官方声明，这次交易的核心内容是英伟达获得了 Groq 推理技术的授权，Groq 创始人兼 CEO Jonathan Ross、总裁 Sunny Madra 以及其他高管将加入英伟达，协助推动授权技术的落地。\n与此同时，Groq 还将继续作为「独立公司」运营，新 CEO 由现任 CFO Simon Edwards 担任。\n听起来像是技术合作加人才引进，但 Groq 的投资方、Disruptive 公司 CEO Alex Davis 却向外媒 CNBC 表示，英伟达获得了 Groq 的全部资产，只是初具规模的 GroqCloud 云业务不包括在交易中。\n黄仁勋本人也在给员工的邮件里玩了个太极，他说「虽然我们正在吸纳 Groq 的优秀员工并获得其知识产权授权，但我们并没有收购 Groq 整家公司」。\n所以这到底算收购还是授权？\n答案可能是：英伟达花 200 亿美元把 Groq 的核心技术、专利和关键人才都拿走了，但留了个空壳公司继续运营云业务。\n要理解英伟达为啥愿意砸这么多钱，得先搞清楚 Groq 到底是个什么来头。\nGroq 成立于 2016 年，创始人 Jonathan Ross 的履历相当传奇。他高中辍学，没正经读完大学，却在 Google 设计出了第一代 TPU 芯片的核心架构。\nTPU 就是 Google 用来跑 AI 模型的定制芯片，现在被不少公司当作英伟达 GPU 的替代方案。\n2016 年，Ross 带着 Google TPU 团队 10 个核心成员中的 7 个人集体出走，创立了 Groq。\nGroq 的名字来源于「Grain of Quantum」(量子之粒)，既暗指要搞定「量子级别」的海量数据，也在宣告：芯片领域，小体量也能有大杀器。\n它的核心杀器，是专为 AI 推理设计的 ASIC 芯片 LPU（语言处理单元）。和英伟达的 GPU 相比，LPU 在处理大语言模型推理时有个杀手锏：延迟超低、吞吐量超高。\n说得更通俗点：同样跑一个 AI 模型，Groq 的芯片能比 GPU 更快给出响应，而且更省电。在某些测试场景下，Groq 芯片的推理速度能甩开 GPU 好几条街。\n今年 9 月，Groq 刚完成 7.5 亿美元融资，估值 69 亿美元，投资方包括贝莱德、三星、思科这些大佬，Groq 今年的营收目标是 5 亿美元，发展势头相当猛。\n过去几年，AI 行业的重心主要在训练侧，大家比拼的是谁能训练出更强的模型。但现在风向变了，推理市场的需求正在爆发式增长。\n插个小科普，简单来说，训练就是喂大量数据让模型学习，推理则是训练好的模型在实际应用中产生响应，比如你问 ChatGPT 一个问题，它生成回答的过程就是推理。\n此外，推理和训练对硬件的需求不太一样。\n训练需要超强算力，一次性跑很久都正常。但推理讲究的是低延迟和持续响应效率，用户可不想问个问题等半天才出结果。\nGroq 的 LPU 恰好就是针对推理场景优化的，这正是英伟达想要补齐的短板。\n与此同时，以 Groq 为代表的 AI 初创公司可能都面临类似的困境：技术虽然有亮点，发展势头也很猛，但在英伟达庞大的生态壁垒面前，想真正打开市场太难了。\n在这种情况下，被英伟达收购或许反而是最好的归宿。至少技术能得到应用，团队能拿到丰厚回报，总好过在市场上苦苦挣扎。\n有意思的是，这种「技术授权+挖团队」的玩法，英伟达已经越来越熟练了。\n就在今年 9 月，英伟达刚用差不多 9 亿美元的代价，雇佣了 AI 硬件初创公司 Enfabrica 的 CEO Rochan Sankar 及其团队，同样是获得技术授权而非直接收购公司。\n这种操作模式其实挺聪明。\n相比直接收购整家公司，技术授权加挖团队的方式能更快速地整合核心能力，避免收购后冗长的整合期。而且留个空壳公司继续运营，还能维持市场多样性的表象，不至于被指控垄断。\nMeta、Google、微软这些科技巨头最近也都在用类似套路抢 AI 人才。\n比如，我们熟知的 Meta 今年就花大价钱从数据标注公司 Scale AI 挖走了 CEO Alexandr Wang 并拿下技术授权。\n黄仁勋显然把这套玩法研究透了。\n他在邮件里直接说，要把 Groq 的低延迟处理器整合进 NVIDIA AI 工厂架构，让平台能支持更广泛的 AI 推理和实时工作负载。翻译过来就是：我要把你们的技术装进我的生态里，继续卖我的整体解决方案。\n且由于 AI 热潮让英伟达的 GPU 卖到供不应求，钱多到花不完，黄仁勋的投资动作也越来越激进。\n今年 9 月，英伟达表示要向 OpenAI 投资最多 1000 亿美元，条件是 OpenAI 承诺部署至少 10 吉瓦的英伟达硬件。虽然这笔投资还没正式落地，但谈判仍在进行中。\n同月，英伟达还宣布向老对手英特尔投资 50 亿美元。\n除了这些大手笔，英伟达还投资了一堆 AI 基础设施公司，比如能源公司 Crusoe、AI 模型开发商 Cohere、云服务商 CoreWeave 等等。整个 AI 生态链，英伟达恨不得每个环节都插一脚。\nGroq 的结局已经给后来者上了一课。\n在这个赛道上，你最好的归宿可能不是上市敲钟，而是被巨头看上，拿一笔丰厚的收购款体面退场。\n“特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。\nNotice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services.”\n责任编辑：王睿 PT139 举报 打开 app 阅读更多精彩内容 热点新闻",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "topics": [
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->mergers and acquisitions",
+    "Economy, Business and Finance->corporate news and profiles",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific innovation"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T08:51:43.783+02:00",
+  "updated": "2025-12-26T09:04:21.000+02:00"
+}

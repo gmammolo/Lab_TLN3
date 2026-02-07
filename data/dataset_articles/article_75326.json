@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "075d1c1e441f12bdef4e76995170179d60b15436",
+    "url": "https://www.okx.com/learn/what-is-a-rug-pull-scam",
+    "site_full": "www.okx.com",
+    "site": "okx.com",
+    "site_section": "https://www.okx.com/learn",
+    "site_categories": [],
+    "section_title": "Learn about Bitcoin, Crypto, Trading, NFTs &amp; Web3 | OKX",
+    "title": "What rug pull scams are and how to avoid them",
+    "title_full": "What rug pull scams are and how to avoid them",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://www.okx.com/cdn/assets/plugins/contentful/4nqoo8goeymu/gwJdtsA2lpaRuBjTZSI1J/183239b7a45f7b376650295ec447ac85/Trade_Responsibly_1600x844.png",
+    "performance_score": 0,
+    "domain_rank": 7538,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "075d1c1e441f12bdef4e76995170179d60b15436",
+  "url": "https://www.okx.com/learn/what-is-a-rug-pull-scam",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "OKX",
+  "published": "2024-11-22T02:00:00.000+02:00",
+  "title": "What rug pull scams are and how to avoid them",
+  "text": "In November 2024, a 12-year old trader made headlines after attempting a crypto [rug pull](/learn/crypto-promotional-scams) on a [memecoin](/learn/solana-memecoins-utility) he created, called Gen Z Quant (QUANT), during a live stream.\nThe trader launched QUANT on the popular Solana-based platform [Pump.fun](/learn/what-is-pump-fun-how-to-create-memecoin). The token quickly gained traction as its price surged. During a live stream, the trader expressed surprise at the growth before dumping his holdings — 51 million QUANT tokens — for 128 Solana (SOL), equivalent to $30,000.Despite his attempts to exit the market, the crypto community rallied behind the token, pushing its price up by an astonishing 77,000%. QUANT briefly reached a market cap of $82.3 million, peaking at $0.08 before retracing to $50 million. Ironically, the trader’s holdings would have been worth $4 million had he not sold them prematurely.\nThe incident sparked mixed reactions from the crypto community. Some thought the community’s actions were a kind of poetic justice for rug pullers, while others criticized the situation. They wondered how traders let a child trick them.\nIn any case, rug pulls are harmful to the crypto community, and create fear, uncertainty, and doubt (FUD). In this article, we’ll explore rug pulls in detail and detail how to keep your digital assets safe.\nTL;DR\nRug pulls happen when crypto project creators cash out and abandon the project, leaving traders with worthless tokens.\nRed flags of potential rug pulls include anonymous developers, lack of transparency or a clear roadmap, unrealistic returns, and poor liquidity.\nYou can research development teams, analyze tokenomics, verify audits, and use reputable platforms to protect yourself.\nScammers trap traders using pump-and-dump schemes, exit scams, and liquidity scams. They also often manipulate contracts to restrict selling.\nUse rug pull detection tools like TokenSniffer, Honeypot, and RugDoc to analyze token contracts, assess risks, and avoid scams.\nWhat is a rug pull?\nA rug pull is a deceptive maneuver where developers of a cryptocurrency project abruptly withdraw their support and funds, leaving traders with worthless tokens. Developers launch a new cryptocurrency or [decentralized finance (DeFi) project](/learn/defi-explained), often accompanied by aggressive marketing to attract traders. They establish a liquidity pool on [decentralized exchanges (DEXs)](/learn/best-decentralized-exchanges) like [Uniswap](/learn/what-is-uniswap), Pump.fun or PancakeSwap, allowing traders to acquire the new token.\nEnticed by promises of high rewards, traders purchased the token, increasing its value and liquidity. Once a substantial amount of money is pooled, the developers withdraw all funds, causing the token’s value to plummet and leaving traders with significant losses.\nRug pull examples\nOneCoin: Launched in 2014, OneCoin was promoted as a revolutionary cryptocurrency. However, the \"blockchain\" OneCoin was on was nothing more than an Excel sheet. It turned out to be a Ponzi scam, resulting in participants losing over $4 billion.\nSquid Game Token: In 2021, capitalizing on the popular Netflix series, developers introduced the Squid Game Token. The token’s value skyrocketed, but traders soon found they couldn’t sell their holdings. Eventually, the developers vanished with approximately $3.3 million, leaving participants empty-handed.\nRecognizing red flags\nAnonymous developers: Projects with unknown or unverified team members can be risky.\nLack of transparency: Absence of clear information about the project’s goals, roadmap, or tokenomics.\nUnrealistic returns: Promises of guaranteed high returns in a short period should be approached with skepticism.\nNo external audits: Reputable projects often undergo third-party audits to ensure security and legitimacy.\nUnderstanding and spotting rug pulls can help keep your crypto safe from scammers.\nHow does a rug pull work?\nRug pulls can manifest in various ways, primarily through pump-and-dump schemes, exit scams, and liquidity scams.\nPump-and-dump schemes\nScammers artificially inflate the token’s price through coordinated buying and spreading positive news. The surge in price creates a [fear of missing out (FOMO)](/learn/what-is-fomo) among traders, leading them to buy in at elevated prices. Scammers sell their holdings when the price peaks, crashing the price and causing new traders to lose money.\nExit scams\nDevelopers launch a seemingly legitimate project, often with a detailed roadmap and whitepaper. They raise funds through token sales or Initial Coin Offerings (ICOs). After collecting substantial funds, the developers abandon the project and disappear with their own gains, leaving users stranded.\nLiquidity scams\nScammers create a new token and pair it with a base cryptocurrency like [Ethereum (ETH)](/price/ethereum-eth) on a DEX. They establish a liquidity pool, allowing individuals to trade the new token. Through aggressive marketing, they lure traders to buy the token, increasing its value and liquidity. Once sufficient funds are built up, the developers withdraw all liquidity, causing the token’s value to plummet and leaving traders with worthless assets.\nDEXs platforms allow you to trade tokens without intermediaries. While this promotes freedom, it also enables scammers to list fraudulent tokens easily. That's why it’s important to [do your own research](/learn/dyor) before trading on DEXs.\n[Smart contracts](/learn/what-are-smart-contracts) with the terms directly written into code can be manipulated by malicious developers. For example, they might include functions that prevent traders from selling the token, trapping their funds. This is also known as a [honeypot scam](/learn/crypto-investment-withdrawal-scams).\nWhat are the red flags of a potential rug pull?\nIt’s important to be aware of the red flags when it comes to rug pulls. Not only will this spare you the stress of having to deal with losing your tokens, it can also make you a better trader.\nAnonymous developers\nProjects led by unidentified or pseudonymous teams can be risky. Transparency about the team’s identity and experience builds trust. For instance, the Squid Game token scam involved anonymous developers who vanished with traders’ money.\nLack of a clear roadmap\nLegitimate projects provide a detailed plan outlining their goals and development stages. The absence of a roadmap or unclear goals can be a red flag. A clear roadmap typically indicates a project’s commitment to long-term success.\nUnrealistic returns\nBe careful of promises of high or guaranteed returns. Scammers often lure traders with the prospect of quick gains. Remember, if it sounds too good to be true, it probably is.\nPoor liquidity\nLow liquidity means difficulty in buying or selling tokens without affecting their price. Scammers may create tokens with limited liquidity to control the market and execute a rug pull. Always check the liquidity pool of a token before committing funds.\nNo external audit\nReputable projects undergo third-party audits to validate the security and integrity of their code. The absence of an audit or reliance on an unknown auditor can be a red flag. An audit provides an extra layer of security for participants.\nSuspicious tokenomics\nPay attention to the token distribution. If developers hold a significant portion of the tokens, they could dump them, causing the price to plummet. Balanced tokenomics are essential for a project’s stability.\nMarketing hype with low substance\nExcessive marketing without a working product or clear utility can be a warning sign. Scammers often use hype to quickly attract traders. Look for projects that focus on development and community engagement over flashy promotions.\nHow to protect yourself from a rug pull\nKeep these steps in mind to protect yourself from rug pulls.\nConduct thorough research\nInvestigate the team: Make sure the project’s developers are transparent about their identities and have credible backgrounds. Anonymous teams can be a red flag.\nAnalyze the whitepaper: A comprehensive\n[whitepaper](/learn/what-is-bitcoin-white-paper)should clearly outline the project’s goals, technology, and roadmap. Vague or poorly written documents may indicate a lack of substance.\nExamine tokenomics\nDistribution: Assess how tokens are allocated. If a small group holds a large percentage, they could potentially control the market.\nLiquidity: Check the liquidity pool. Low liquidity can make it difficult to sell tokens and may be a tactic used in rug pulls.\nVerify external audits\nProjects should undergo third-party audits to ensure the security of their code. The absence of an audit or reliance on an unknown auditor can be worrying.\nUse trusted platforms\nEngage with well-established exchanges and platforms known for their security measures. These platforms often have vetting processes that can help filter out fraudulent projects.\nBe wary of unrealistic promises\nIf a project guarantees high returns with minimal risk, approach it with caution. Such promises are often used to lure unsuspecting traders.\nCheck out the community engagement\nActive and transparent communication from the development team is a positive sign. Engage with the community to measure the project’s legitimacy.\nStart small\nWhen exploring new projects, consider starting small with your initial commitment of funds. This approach limits potential losses if the project turns out to be fraudulent.\nWhat are some tools to detect rug pulls?\nBesides spotting red flags, there are [rug pull detection tools](/learn/how-scam-detection-tools-protect-crypto) you can use. These tools help analyze token contracts, assess risks, and provide insights that protect you from scams.\nTokenSniffer\nThis tool lets you quickly and easily check smart contracts. Enter a token’s contract address and get a detailed analysis. It spots suspicious code patterns, similarities to known scams, and issues like locked liquidity or excessive token ownership. This helps traders to know the risks before getting involved in a project.\nHoneypot.is\nScammers sometimes create tokens that you can buy but can’t sell, known as honeypots. Honeypot.is tests smart contracts by simulating buy-and-sell transactions to make sure there are no hidden restrictions. This tool is handy for spotting projects designed to trap your tokens.\nRugDoc\nRugDoc reviews crypto projects, giving risk ratings. It offers tools like a Honeypot Checker and educational guides to help you understand scams and make informed decisions.\nDe.Fi Scanner\nThe De.Fi Scanner is a multi-chain tool that scans smart contracts for risks. It provides a security score so traders can evaluate project risks.\nThe final word\nRug pulls are one of the most harmful scams in the crypto world, leaving traders with worthless tokens and significant losses. These scams exploit the nature of [DEX platforms](/learn/best-decentralized-exchanges), letting malicious developers make fake tokens, inflate their value, and take the money.\nTo protect yourself, watch for red flags like anonymous developers, unrealistic promises, lack of audits, and poor liquidity. Remember to do your research, check the project's tokenomics, and verify its credibility. And, always do due diligence before adding a new token to your [wallet.](/web3)\nFAQs\nA rug pull is when crypto developers attract participants to a project to inflate the project token's price, before selling their own holdings and abandoning the project, leaving users with worthless tokens.\nWatch out for red flags such as anonymous developers, unclear roadmaps, unrealistic promises of returns, and no external audits.\nTokenSniffer, Honeypot.is, and RugDoc analyze token contracts and risks. They help you assess a project’s legitimacy.\nResearch thoroughly, check audits, and verify tokenomics. Use trusted platforms and start with a small commitment of funds when exploring new projects.\n[www.okx.com](/).\n© 2024 OKX. This article may be reproduced or distributed in its entirety, or excerpts of 100 words or less of this article may be used, provided such use is non-commercial. Any reproduction or distribution of the entire article must also prominently state: “This article is © 2024 OKX and is used with permission.” Permitted excerpts must cite to the name of the article and include attribution, for example “Article Name, [author name if applicable], © 2024 OKX.” No derivative works or other uses of this article are permitted.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Solana",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T13:55:38.956+02:00",
+  "updated": "2024-11-22T13:55:38.956+02:00"
+}

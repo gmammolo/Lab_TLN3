@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "ca8345f2b3cc8509949e7e311ae66c6804b16038",
+    "url": "https://www.theverge.com/2024/10/17/24272971/adobe-illustrator-sneaks-experimental-tech-demo-rotate-vector",
+    "site_full": "www.theverge.com",
+    "site": "theverge.com",
+    "site_section": "https://www.theverge.com/rss/index.xml",
+    "site_categories": [
+      "tech",
+      "top_news_za",
+      "top_news_sg",
+      "top_news_gb",
+      "top_news_ca",
+      "top_news_au",
+      "top_news_us",
+      "top_news_dk",
+      "top_news_pk",
+      "top_news_ph",
+      "top_news_nz"
+    ],
+    "section_title": "The Verge -  All Posts",
+    "title": "Adobe demos Illustrator tools that rotate vectors and finish sketches - The Verge",
+    "title_full": "Adobe demos Illustrator tools that rotate vectors and finish sketches - The Verge",
+    "published": "2024-10-18T00:23:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.vox-cdn.com/thumbor/JB96pfBmJ1jOyc61G1DV2gLIHnE=/0x0:1242x823/1200x628/filters:focal(621x412:622x413)/cdn.vox-cdn.com/uploads/chorus_asset/file/25685408/Screenshot_2024_10_17_at_16.20.20.png",
+    "performance_score": 0,
+    "domain_rank": 198,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ca8345f2b3cc8509949e7e311ae66c6804b16038",
+  "url": "https://www.theverge.com/2024/10/17/24272971/adobe-illustrator-sneaks-experimental-tech-demo-rotate-vector",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "theverge.com",
+  "published": "2024-10-18T00:23:00.000+03:00",
+  "title": "Adobe demos Illustrator tools that rotate vectors and finish sketches - The Verge",
+  "text": "Adobe has been working on some experimental tech that could help speed up concept and planning work for graphic designers and audio engineers. Some of the “sneaks” previewed during Adobe’s MAX event include tools that can turn sketches into a variety of polished designs, and a feature for rotating 2D art as if it were a 3D object.\n“Project Turntable” is capable of the latter. The tool allows users to click a button and then drag a slider along to automatically view and snap a vector image into a different viewing perspective — something that would typically require an artist to redraw the image entirely from scratch. The examples demonstrated at the event retained their original designs when rotated without warping into a new overall shape. For example, the dragon’s yellow underbelly and tail remained in the same position throughout all the changes.\nHere’s an example of Project Turntable in action, rotating a flat 2D image of a bread basket. GIF: Adobe If you prefer to work in physical mediums like pencil and paper, “Project Remix A Lot” can digitize those designs for you. The feature provides a “Sketch to layout” button that takes a rough design and uses generative AI to transform it into an editable digital image. Once a design is complete, users can also click the “Layout variations” button to automatically resize the final image into a selection of different sizing formats that are better suited for social media posts or blog headers.\nTerrible at graphic design? Just throw together a rough sketch of what you need and Project Remix A Lot can do the rest. GIF: Adobe We should note that these experimental tools aren’t guaranteed to be developed into publicly available features — Adobe mostly uses its sneaks program to preview the cutting-edge tech it’s working on and gauge the demand for such features. But many popular features like Photoshop’s Remove tool and Adobe’s Fresco painting app made their first appearance as sneaks, so there’s a good chance we may see these in Illustrator one day.\nOutside of vector art, Adobe also demonstrated “Project Hi-Fi,” a Photoshop plugin that uses a portion of the user’s workspace as a reference to guide AI image generation. It works a bit like Adobe’s structure reference feature for Firefly, only with more scope for customization.\nAnd for audio engineers, “Project Super Sonic” allows you to generate sample sound effects using prompts or by clicking on an object in a silent video, like a flowing stream or ferns in a jungle. The tool itself can recognize what the user is selecting and work out what it should sound like, so you don’t have to go manually hunting through audio libraries. Users can also adjust the timing of these sound effects using their own voice, providing more control than a text description.\nThese are just a few of the sneaks projects that Adobe has announced this year, alongside tools for creating image mashups , identifying who owns an image both online and on real-world objects , and removing distractions from videos . You can read more about each sneak preview in detail over on Adobe’s blog .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://youtu.be/UGgdC3RvyMQ?feature=shared",
+    "https://youtu.be/gfct0aH2COw?feature=shared&t=42",
+    "https://blog.adobe.com/en/publish/2024/10/16/new-adobe-max-sneaks-transform-photo-video-audio-3d-creation",
+    "https://www.blog.adobe.com/en/publish/2024/10/16/new-adobe-max-sneaks-transform-photo-video-audio-3d-creation",
+    "https://youtu.be/UGgdC3RvyMQ",
+    "https://www.youtu.be/gfct0aH2COw?feature=shared&t=42",
+    "https://www.youtu.be/UGgdC3RvyMQ?feature=shared",
+    "https://youtu.be/gfct0aH2COw"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T01:06:22.190+03:00",
+  "updated": "2024-10-18T01:06:22.190+03:00"
+}

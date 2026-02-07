@@ -1,0 +1,91 @@
+{
+  "thread": {
+    "uuid": "83a06d4c09ce34917c847bb043c7608c7c1e9056",
+    "url": "https://cryptohead.io/news/moneros-51-scare-triggers-big-talk-of-blockchain-redesign/",
+    "site_full": "cryptohead.io",
+    "site": "cryptohead.io",
+    "site_section": "https://cryptohead.io",
+    "site_categories": [],
+    "section_title": "Crypto Head - The Home of Crypto Enthusiasts",
+    "site_title": "Crypto Head - The Home of Crypto Enthusiasts",
+    "title": "Monero's 51% Scare Triggers Big Talk of Blockchain Redesign - Crypto Head",
+    "title_full": "Monero's 51% Scare Triggers Big Talk of Blockchain Redesign - Crypto Head",
+    "published": "2025-08-21T03:54:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cryptohead.io/wp-content/uploads/2023/10/Most-Secure-Crypto-Currencies-1024x613.jpeg",
+    "performance_score": 0,
+    "domain_rank": 187882,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "83a06d4c09ce34917c847bb043c7608c7c1e9056",
+  "url": "https://cryptohead.io/news/moneros-51-scare-triggers-big-talk-of-blockchain-redesign/",
+  "ord_in_thread": 0,
+  "author": "@Silentpoettt",
+  "published": "2025-08-21T03:54:00.000+03:00",
+  "title": "Monero's 51% Scare Triggers Big Talk of Blockchain Redesign - Crypto Head",
+  "text": "Key Takeaways:\n- Monero is considering a masternode-based second layer to counter 51% attacks after a mining pool allegedly gained majority hashrate control.\n- The proposed system would introduce staked masternodes for added security and governance, inspired by Dash’s ChainLocks.\n- Community debate persists over Qubic’s actual dominance, with some accusing developers of downplaying the threat and others pushing for hybrid consensus changes.\nMonero is facing heightened scrutiny after reports suggested that Qubic, a mining pool tied to an AI-focused blockchain, briefly controlled over 50% of the network’s hashrate.\nThis raised fears of a potential 51% attack, where a single entity could manipulate transactions and undermine network integrity.\nAlthough some community members dispute whether Qubic ever held true majority control, the situation prompted Kraken to temporarily halt Monero deposits and later impose stricter confirmation requirements.\nTo address these concerns, the Monero community is exploring significant changes to its proof-of-work (PoW) consensus model.\nOne leading proposal is the introduction of a masternode-based second layer, similar to systems used by Dash and Firo.\nMasternodes, which require collateral staking, could help decentralize decision-making, secure the blockchain against reorganizations, and add governance features.\nSupporters argue that integrating mechanisms like Dash’s ChainLocks would make it nearly impossible for malicious actors to reorganize the chain, even with majority hashrate control.\nThe debate remains divisive, with questions about hashrate data accuracy and skepticism around Qubic’s influence.\nNonetheless, momentum is building toward a hybrid model combining PoW with governance and economic incentives to strengthen Monero’s long-term resilience.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Economy, Business and Finance->investment and opinion pieces",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->financial service"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T09:42:25.284+03:00",
+  "updated": "2025-08-21T09:46:23.000+03:00"
+}

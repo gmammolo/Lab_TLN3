@@ -1,0 +1,98 @@
+{
+  "thread": {
+    "uuid": "5d9693f61acfb7566772884cfa29e6f5afd8d214",
+    "url": "https://finance.sina.com.cn/tech/digi/2025-12-25/doc-inhcywap3655346.shtml",
+    "site_full": "finance.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://www.sina.com.cn/",
+    "site_categories": [
+      "tech",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "æ–°æµªç½‘",
+    "site_title": "æ°æµªè´¢ç»_éèä¿¡æ¯æå¡å",
+    "title": "博世预告 AI 智能座舱：告别机械指令，让汽车听懂\"人话\"|博世|驾驶员|汽车_新浪科技_新浪网",
+    "title_full": "博世预告 AI 智能座舱：告别机械指令，让汽车听懂\"人话\"|博世|驾驶员|汽车_新浪科技_新浪网",
+    "published": "2025-12-25T08:26:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 548,
+    "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5d9693f61acfb7566772884cfa29e6f5afd8d214",
+  "url": "https://finance.sina.com.cn/tech/digi/2025-12-25/doc-inhcywap3655346.shtml",
+  "ord_in_thread": 0,
+  "author": "IT之家",
+  "published": "2025-12-25T08:26:00.000+02:00",
+  "title": "博世预告 AI 智能座舱：告别机械指令，让汽车听懂\"人话\"|博世|驾驶员|汽车_新浪科技_新浪网",
+  "text": "IT之家 12 月 25 日消息，汽车媒体 CarScoops 昨日（12 月 24 日）发布博文，报道称即将在 2026 年 1 月召开的 CES 展会上， 全球最大的汽车零部件供应商博世（Bosch）将发布全新 AI 智能座舱平台。\n图源：博世 该平台整合了英伟达的算力芯片与微软的软件生态，目标将汽车从单纯的交通工具升级为能够理解驾驶员习惯、偏好及情境的“自学习智能伙伴”。博世移动业务主席 Markus Heyn 强调， 这一扩展平台能让现有系统快速升级，从而显著提升驾乘的舒适性与安全性。\nIT之家援引博文介绍，这套 AI 系统的核心亮点在于其具备深度理解能力的语音助手。 与传统机械式响应指令不同，新系统能够预判驾驶员需求。\n例如，驾驶员只需自然地说出“我感觉有点冷”，无需任何额外的操作步骤，车辆便会自动开启座椅加热功能并调高风扇温度。这种基于视觉语言模型的交互方式，让人车对话更加自然流畅，具备了跨步骤推理的能力。\n在底层硬件方面，该系统搭载了英伟达的 Drive AGX Orin 片上系统（SoC），其算力高达每秒 200 万亿次运算（200 TOPS）。这枚芯片确保车辆在处理多任务时依然保持流畅与即时响应，负责处理实时的传感器数据，支持复杂的视觉与语言模型运行。\n博世还深化了与微软的合作，引入了 Microsoft Foundry 平台及 Microsoft 365 套件。在实际应用场景中，驾驶员可以通过简单的语音指令接入 Microsoft Teams 会议。更为人性化的是，系统在检测到会议开始后，会自动激活自适应巡航控制（ACC），主动接管部分驾驶任务，从而降低驾驶员的负荷并提升行车安全。",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-12-25T08:30:51.528+02:00",
+  "updated": "2025-12-26T09:07:48.000+02:00"
+}

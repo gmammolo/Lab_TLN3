@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "bafd1821a1ab1967f7cabc151dbe107a99a530a3",
+    "url": "https://itc.ua/en/news/first-rtx-5090-laptop-benchmarks-in-geekbench-6-unstable-results-and-a-loss-to-the-older-rtx-4090",
+    "site_full": "itc.ua",
+    "site": "itc.ua",
+    "site_section": "https://www.itc.ua",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Последние новости в сфере технологий, науки и кино на ITC.ua",
+    "title": "First RTX 5090 laptop benchmarks in Geekbench 6: unstable results and a loss to the older RTX 4090",
+    "title_full": "First RTX 5090 laptop benchmarks in Geekbench 6: unstable results and a loss to the older RTX 4090",
+    "published": "2025-01-10T10:11:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "UA",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 25378,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "bafd1821a1ab1967f7cabc151dbe107a99a530a3",
+  "url": "https://itc.ua/en/news/first-rtx-5090-laptop-benchmarks-in-geekbench-6-unstable-results-and-a-loss-to-the-older-rtx-4090",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Вадим Карпусь",
+  "published": "2025-01-10T10:11:00.000+02:00",
+  "title": "First RTX 5090 laptop benchmarks in Geekbench 6: unstable results and a loss to the older RTX 4090",
+  "text": "The first results of Nvidia RTX 5090 laptop benchmarks in Geekbench 6 have already been published online. They showed extremely unstable performance, which is not surprising given the early stage of hardware and testing software development.\nRTX 5090 for laptops was tested in the Vulkan Compute GPU benchmark in Geekbench. The laptop used for testing was an MSI Vector 17 HX AI laptop with a Core Ultra 9 275HX processor. The video card was tested five times for about ten minutes, which is usually enough to get stable results. However, in this case, many questions arose due to significant fluctuations in performance.\nTests Points Run 1 51831 Run 2 75544 Run 3 95291 Run 4 114821 Run 5 77989 The RTX 5090 test results ranged from 51831 to 114821 points. For comparison, the average RTX 4090 score for laptops in this test is about 167577 points. The fourth run showed twice the performance of the first, although the Windows power settings remained on a balanced profile. This suggests that other background tasks, changes to the performance profile, or disconnecting from the power supply could have affected the results.\nInterestingly, the results of the first four runs gradually increase, and then the fifth run shows a result almost the same as the second. It is possible that the user switched between different profiles between each run. However, it is not known for certain why these different results are observed.\nSuch a huge difference between test results can be caused by several factors:\nRaw drivers that do not provide stable performance. Given that the RTX 5090 mobile GPU is due out in March, Nvidia still has plenty of time to improve the drivers. The tester may have modified the performance profiles offered by MSI through its proprietary software. This can significantly affect the power distribution between the CPU, GPU, and other components. Different power limits during testing. The RTX 5090 operates in a power range of 95 to 150 watts, which can significantly affect performance. Limitations of Geekbench. Geekbench — is a synthetic benchmark where small changes to drivers can have a significant impact on the results. The test does not necessarily reflect real-world performance in complex scenarios such as gaming. In any case, we only have the test results and a limited amount of information about the testing conditions.\nHowever, we can estimate the technical characteristics of the mobile versions of the RTX 5090 and RTX 4090. The RTX 5090 based on Blackwell architecture has 82 streaming multiprocessors (SM) and 100496 CUDA cores. At the same time, the 4090 has 9728 CUDA cores and 76 SMs. When comparing performance in FP8 AI computing, the 4090 has up to 686 TOPS versus 912 TOPS of the 5090. Therefore, the new chip should be expected to deliver about 33% higher performance. However, the actual results will depend on drivers, thermal management, and optimization.\nThese first results do not allow us to draw any final conclusions about the performance of the RTX 5090. The instability of the tests is likely due to the raw drivers and early stage of development.\nSource: tomshardware",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-laptop-gpu-undergoes-multiple-benchmark-tests-flagship-mobile-gpu-yields-inconsistent-results",
+    "https://tomshardware.com/pc-components/gpus/nvidia-rtx-5090-laptop-gpu-undergoes-multiple-benchmark-tests-flagship-mobile-gpu-yields-inconsistent-results"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T12:43:59.045+02:00",
+  "updated": "2025-01-10T12:43:59.045+02:00"
+}

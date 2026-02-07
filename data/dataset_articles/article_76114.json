@@ -1,0 +1,114 @@
+{
+  "thread": {
+    "uuid": "548c74f94296bbeba78ad79faa617432f1ddcb34",
+    "url": "https://www.infobae.com/america/agencias/2025/01/10/informacion-japonesa-sobre-la-exploracion-de-marte-fue-filtrada-en-ciberataques",
+    "site_full": "www.infobae.com",
+    "site": "infobae.com",
+    "site_section": "https://www.infobae.com/america/agencias/",
+    "site_categories": [
+      "media",
+      "top_news_co",
+      "top_news_cl",
+      "top_news_il",
+      "top_news_es",
+      "top_news_pt",
+      "top_news_us",
+      "top_news_pe",
+      "top_news_mx",
+      "top_news_ar",
+      "top_news_ve",
+      "top_news"
+    ],
+    "section_title": "Últimas Noticias de Argentina y del Mundo - Infobae",
+    "title": "Información japonesa sobre la exploración de Marte fue filtrada en ciberataques - Infobae",
+    "title_full": "Información japonesa sobre la exploración de Marte fue filtrada en ciberataques - Infobae",
+    "published": "2025-01-10T06:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AR",
+    "main_image": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=2926",
+    "performance_score": 0,
+    "domain_rank": 1954,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "548c74f94296bbeba78ad79faa617432f1ddcb34",
+  "url": "https://www.infobae.com/america/agencias/2025/01/10/informacion-japonesa-sobre-la-exploracion-de-marte-fue-filtrada-en-ciberataques",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@infobae",
+  "published": "2025-01-10T06:00:00.000+02:00",
+  "title": "Información japonesa sobre la exploración de Marte fue filtrada en ciberataques - Infobae",
+  "text": "Tokio, 10 ene (EFE).- Información confidencial relacionada con el proyecto de exploración de Marte de la Agencia de Exploración Aeroespacial de Japón (JAXA) habría sido robada en los ciberataques sufridos en años recientes por la entidad.\nMás de 10.000 archivos con información altamente confidencial relacionada con el proyecto Martian Moons eXploration (MMX) y con otra misión sobre un viaje tripulado de exploración lunar fueron supuestamente filtrados en los ataques que sufrió de manera intermitente entre 2023 y 2024, según informó este viernes el diario japonés Yomiuri, que cita a fuentes cercanas a la investigación.\nEl objetivo del proyecto MMX es traer a la Tierra a través de una sonda no tripulada materiales como rocas y arena obtenidos en Fobos, una de las lunas de Marte, para poder entender mejor la formación del sistema solar, además de desarrollar tecnología relevante para enviar misiones tripuladas en el futuro.\nAparentemente, los piratas informáticos accedieron en repetidas ocasiones al servidor central de la JAXA aprovechando vulnerabilidades de la VPN, lo que les permitió hacerse con el control de unas 200 cuentas de empleados de la agencia y otras en Microsoft 365, un servicio en la nube utilizado por la organización, dijeron las fuentes.\nSe cree que información proporcionada a la JAXA por la empresa automotriz Toyota, el Ministerio de Defensa del país, la NASA de Estados Unidos y otras entidades que colaboran con la agencia se haya visto también comprometida en los ataques.\nSe sospecha que detrás de estos 'hackeos' podría estar el grupo de piratas informáticos chinos 'MirrorFace', con supuestos vínculos con el Gobierno chino, y del que se sabe que ejecutó 210 ciberataques contra organizaciones niponas entre 2019 y 2024 para conseguir información sobre la seguridad nacional y la tecnología avanzada del país, según ha revelado la Policía japonesa.\nEsta información podría interesar al Gobierno chino porque explorar Marte y sus lunas también está entre sus proyectos.\nLa JAXA ha evitado pronunciarse sobre el asunto para prevenir el mencionar detalles que puedan beneficiar a los 'hackers'. EFE",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "spanish",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->scientific exploration",
+    "Science and Technology->astronomy"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "EFE",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Agencia de Exploración Aeroespacial de Japón",
+        "sentiment": "none"
+      },
+      {
+        "name": "JAXA",
+        "sentiment": "none"
+      },
+      {
+        "name": "MMX",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Tierra",
+        "sentiment": "none"
+      },
+      {
+        "name": "Fobos",
+        "sentiment": "none"
+      },
+      {
+        "name": "Marte",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T07:06:29.871+02:00",
+  "updated": "2025-01-10T07:06:29.871+02:00"
+}

@@ -1,0 +1,94 @@
+{
+  "thread": {
+    "uuid": "e562d01ddcff6704c267f50e32afd8ec50344eeb",
+    "url": "https://www.ciodive.com/news/nvidia-blackwell-gpu-generative-ai-revenue-growth/741188",
+    "site_full": "www.ciodive.com",
+    "site": "ciodive.com",
+    "site_section": "https://thetechstreetnow.com/tech",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": " Techstreet Now - Technology News Today - Read Latest Tech News and updates from trusted sources across the globe  ",
+    "site_title": null,
+    "title": "Nvidia eyes everyday AI to sustain rapid revenue growth",
+    "title_full": "Nvidia eyes everyday AI to sustain rapid revenue growth",
+    "published": "2025-02-27T16:51:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://imgproxy.divecdn.com/6-5tzX_1FuvbKNQTfpG9tooPsPIkesetlB-UpyHxoHs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0OTQyNDA0LmpwZw==.webp",
+    "performance_score": 0,
+    "domain_rank": 21124,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e562d01ddcff6704c267f50e32afd8ec50344eeb",
+  "url": "https://www.ciodive.com/news/nvidia-blackwell-gpu-generative-ai-revenue-growth/741188",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Matt Ashare",
+  "published": "2025-02-27T16:51:00.000+02:00",
+  "title": "Nvidia eyes everyday AI to sustain rapid revenue growth",
+  "text": "feedback.\nDive Brief:\n- Nvidia is banking on everyday AI usage to maintain high levels of revenue growth as the technology is integrated into everyday processes, Jensen Huang said Wednesday, during the company’s\nQ4 2025 earnings call. - \"AI has gone mainstream and it's being integrated into every application,\" Huang said. \"AI is used in delivery services everywhere, shopping services everywhere. If you were to buy a quart of milk that's delivered to you, AI was involved.\"\n- The GPU chipmaker saw revenues nearly double year over year, growing 78% to $39.3 billion during the\nthree-month period ending Jan. 26. Fiscal year revenues increased 114% to $130.5 billion, as Nvidia ramped up production of theBlackwell GPU family introduced last year.\nDive Insight:\nNvidia rode a post-ChatGPT wave of generative AI enthusiasm through two years of sustained and rapid growth. Consumption of the GPU giant’s hardware has steadily snowballed since February 2023, when the company reported flat growth on $27 billion in fiscal year revenues.\nThe Nvidia name became synonymous with the frenzy and hype surrounding large language model technologies, as its revenues more than quadrupled in 24 months.\nA big chunk of the gains came from the largest cloud service providers.\nHyperscalers accounted for roughly half of $282 billion spent on data center hardware and software in 2024, a year that saw investments in infrastructure spike by 34% year over year, according to Synergy Research Group. Spending on AI hardware alone was an estimated $120 billion last year, IDC market research found.\nNvidia attributed roughly half of $35.6 billion in Q4 data center segment revenue to the large cloud service providers, noting sales had nearly doubled year on year.\n\"Large CSPs were some of the first to stand up Blackwell,\" Nvidia EVP and CFO Colette Kress said Wednesday, pointing to deployments in AWS, Azure, Google Cloud and Oracle Cloud Infrastructure to meet \"surging customer demand for AI.\"\nEnterprise customers accounted for the other half of data center hardware sales, as model fine-tuning, agentic workflows and GPU-accelerated data processing gained momentum, Kress said.\nAWS, Microsoft and Google are each planning to continue high levels of infrastructure spend to build out AI compute capacity this year, a trend that bodes well for the GPU business. But Nvidia is banking on enterprise consumption to drive revenue growth, too, as the company prepares to roll out a new chip configuration — Blackwell Ultra — during the second half of the year.\nHuang said he expects enterprise and industrial consumption of AI resources to overtake model training in the long term.\n“We have two additional scaling dimensions,” said Huang. “Post-training scaling, where reinforcement learning, fine-tuning and model distillation require orders of magnitude more compute than pretraining alone, [and] inference time scaling and reasoning, where a single query can demand 100x more compute.”",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Economy, Business and Finance->financial service"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.fool.com/earnings/call-transcripts/2025/02/26/nvidia-nvda-q4-2025-earnings-call-transcript/",
+    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025",
+    "https://www.fool.com/earnings/call-transcripts/2025/02/26/nvidia-nvda-q4-2025-earnings-call-transcript",
+    "https://fool.com/earnings/call-transcripts/2025/02/26/nvidia-nvda-q4-2025-earnings-call-transcript/",
+    "https://www.nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Jensen Huang",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "GPU",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T00:36:27.949+02:00",
+  "updated": "2025-02-28T00:36:27.949+02:00"
+}

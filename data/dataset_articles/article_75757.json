@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "4aa1c04dc9c4bf8cbafa0d86082c4dcd0ece5cfa",
+    "url": "https://www.devx.com/daily-news/multiple-vulnerabilities-found-in-mlops-platforms",
+    "site_full": "www.devx.com",
+    "site": "devx.com",
+    "site_section": "https://www.devx.com",
+    "site_categories": [
+      "java",
+      "tech",
+      "databases"
+    ],
+    "section_title": "DevX",
+    "title": "Multiple vulnerabilities found in MLOps platforms",
+    "title_full": "Multiple vulnerabilities found in MLOps platforms",
+    "published": "2025-01-09T21:46:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 20888,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "4aa1c04dc9c4bf8cbafa0d86082c4dcd0ece5cfa",
+  "url": "https://www.devx.com/daily-news/multiple-vulnerabilities-found-in-mlops-platforms",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rashan Dixon",
+  "published": "2025-01-09T21:46:00.000+02:00",
+  "title": "Multiple vulnerabilities found in MLOps platforms",
+  "text": "Researchers have identified multiple security vulnerabilities in popular machine learning operations (MLOps) platforms like Azure Machine Learning, BigML, and Google Cloud Vertex AI. These platforms are used by businesses to develop and deploy AI models for critical operations. According to a new research article by Security Intelligence, Azure Machine Learning can be compromised through device code phishing attacks.\nIn this scenario, attackers steal access tokens and exfiltrate models stored on the platform by exploiting weaknesses in identity management. BigML users face threats from exposed API keys found in public repositories. These keys could grant unauthorized access to private datasets if not rotated frequently, as they often lack expiration policies.\nGoogle Cloud Vertex AI is vulnerable to attacks involving phishing and privilege escalation.\nVulnerabilities in MLOps Platforms Attackers can extract GCloud tokens and access sensitive machine learning assets by leveraging compromised credentials to perform lateral movements within an organization’s cloud infrastructure .\nTo protect against these threats, security experts recommend several measures for each platform. For Azure Machine Learning , best practices include enabling multi-factor authentication (MFA), isolating networks, encrypting data, and enforcing role-based access control (RBAC). BigML users should apply MFA, rotate credentials frequently, and implement fine-grained access controls to restrict data exposure.\nFor Google Cloud Vertex AI, it is advised to follow the principle of least privilege, disable external IP addresses, enable detailed audit logs, and minimize service account permissions. As businesses increasingly rely on AI technologies , securing MLOps platforms against threats such as data theft, model extraction, and dataset poisoning becomes essential. Implementing proactive security configurations can strengthen defenses and safeguard sensitive AI assets from evolving cyber threats .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->scientific research",
+    "Economy, Business and Finance->computing and information technology",
+    "Economy, Business and Finance->business governance",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Security Intelligence",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T02:06:33.517+02:00",
+  "updated": "2025-01-10T02:06:33.517+02:00"
+}

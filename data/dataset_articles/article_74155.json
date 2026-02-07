@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "fe7d20f11ba59898414ebb893d9f63927e014be6",
+    "url": "https://www.itpro.com/security/cyber-attacks/breach-at-b2b-data-broker-exposes-over-100-million-records",
+    "site_full": "www.itpro.com",
+    "site": "itpro.com",
+    "site_section": "https://www.itpro.com/feeds/tag/security",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "",
+    "title": "Breach at B2B data broker DemandScience exposes over 100 million records | ITPro",
+    "title_full": "Breach at B2B data broker DemandScience exposes over 100 million records | ITPro",
+    "published": "2024-11-15T11:22:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.mos.cms.futurecdn.net/EnocAK4aQoN5TB3BzqPQtb-1200-80.jpg",
+    "performance_score": 0,
+    "domain_rank": 4248,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fe7d20f11ba59898414ebb893d9f63927e014be6",
+  "url": "https://www.itpro.com/security/cyber-attacks/breach-at-b2b-data-broker-exposes-over-100-million-records",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Solomon Klappholz",
+  "published": "2024-11-15T11:22:00.000+02:00",
+  "title": "Breach at B2B data broker DemandScience exposes over 100 million records | ITPro",
+  "text": "Over 100 million leaked records of business contact information listed on the dark web linked to B2B data aggregator DemandScience might have been stolen from a third party, the company has told ITPro .\nFormerly known as Pure Incubation, DemandScience is an AI-powered B2B demand generation company that helps organizations find potential customers for upcoming campaigns.\nThe firm scrapes the public internet , building an expansive database that marketers and advertisers can use to tailor their strategies and lead generation.\nOn 28 February 2024, a threat actor named ‘KryptonZambie’ listed Pure Incubation on BreachForums , claiming to have a stolen database containing 183 million records for sale.\nThe listing claimed the stolen information contained individuals’ first and last names, business email address, business address, business phone number , job title, and function, all available for $6,000.\nAt the time, the firm denied there was any evidence of a breach to media outlets , adding that its systems remained operational and its systems remained secure.\nThe company refused to confirm or deny if the leaked samples provided by the hacker were legitimate. A few months later in August, KryptonZambie made the stolen data cache available for a few dollars, effectively leaking it for free.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.bleepingcomputer.com/news/security/leaked-info-of-122-million-linked-to-b2b-data-aggregator-breach/",
+    "https://www.bleepingcomputer.com/news/security/leaked-info-of-122-million-linked-to-b2b-data-aggregator-breach",
+    "https://bleepingcomputer.com/news/security/leaked-info-of-122-million-linked-to-b2b-data-aggregator-breach/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T13:20:16.865+02:00",
+  "updated": "2024-11-15T19:52:19.264+02:00"
+}

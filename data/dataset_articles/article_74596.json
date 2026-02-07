@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "0807925bf2e9e255546ceffa0b96ebfcc67a6c55",
+    "url": "https://lwn.net/Articles/998294",
+    "site_full": "lwn.net",
+    "site": "lwn.net",
+    "site_section": "https://lwn.net/headlines/Comments",
+    "site_categories": [
+      "unix",
+      "tech"
+    ],
+    "section_title": "LWN.net comments",
+    "title": "Oh, great, yet another browser \"GUI\"",
+    "title_full": "Oh, great, yet another browser \"GUI\"",
+    "published": "2024-11-15T16:51:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 3605,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0807925bf2e9e255546ceffa0b96ebfcc67a6c55",
+  "url": "https://lwn.net/Articles/998294",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "raven667",
+  "published": "2024-11-15T16:51:00.000+02:00",
+  "title": "Oh, great, yet another browser \"GUI\"",
+  "text": "Oh, great, yet another browser \"GUI\"\nOh, great, yet another browser \"GUI\"\nPosted Nov 15, 2024 14:51 UTC (Fri) by raven667 (subscriber, #5198)In reply to:\n[Oh, great, yet another browser \"GUI\"](/Articles/998243/)by oldtomas\nParent article:\n[Anaconda’s new \"Web UI\" (Fedora Magazine)](/Articles/997927/)\nThis is all a tangent, but I've read a lot of what Alex Russel has to say about React and the whole client-side rendered JavaScript HTML/CSS ecosystem and how the uncritical adoption of this technology, lead by the advocacy of developers at Facebook, has done a disservice to the web by focusing so much of the development ecosystem around tools which are only really useful for a small number of cases encountered by large companies with large scale and large development teams, but because its \"what the big boys use\" it's become pervasive for general use cases that would be better served by a traditional Django/Rails app running on a server with normal HTML templates but instead are written as another React SPA doing everything over a REST API using micro-services on a Kubernetes cluster, which is an order of magnitude more complex to maintain.\n> To me, it looks as if, for some actors, the resulting user confusion is seen as an asset.\nI don't understand what their incentive has been for the endless rewrites, job security maybe. As far as the diversity of UI that seems to just be creativity without constraint of a HIG or an accepted community of practice for what is good that's consistent.\nThat all said, the use of a self-contained SPA WebUI that talks to a backend service for the Anaconda installer with a kiosk-mode Firefox for graphical display seems a perfectly reasonable use-case for SPA tech, especially since so much of the work is already done to support Cockpit, it's the traditional interactive forms-based client/server database apps which are a poor fit.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T18:23:02.137+02:00",
+  "updated": "2024-11-15T18:23:02.137+02:00"
+}

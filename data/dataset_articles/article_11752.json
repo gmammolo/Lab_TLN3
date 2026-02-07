@@ -1,0 +1,129 @@
+{
+  "thread": {
+    "uuid": "df3c6993a2178ebe5a64a4b9a9006aefb363982c",
+    "url": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/vgs-vgs-15122196.html",
+    "site_full": "www.tagesspiegel.de",
+    "site": "tagesspiegel.de",
+    "site_section": "https://www.tagesspiegel.de/",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news",
+      "arts, culture and entertainment",
+      "war, conflict and unrest",
+      "economy, business and finance",
+      "disaster and accident",
+      "lifestyle and leisure",
+      "crime, law and justice",
+      "politics",
+      "sport"
+    ],
+    "section_title": "Aktuelle News: Nachrichten aus Berlin und der Welt",
+    "site_title": "Aktuelle News: Nachrichten aus Berlin und der Welt",
+    "title": "Rettungsabgabe oder Insolvenz: Potsdamer Kleingärtner stehen vor gravierender Abstimmung",
+    "title_full": "Rettungsabgabe oder Insolvenz: Potsdamer Kleingärtner stehen vor gravierender Abstimmung",
+    "published": "2026-01-15T08:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://www.tagesspiegel.de/images/14146469/alternates/BASE_16_9_W1400/1768399247000/kleingarten-potsdam.jpeg",
+    "performance_score": 0,
+    "domain_rank": 3606,
+    "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "df3c6993a2178ebe5a64a4b9a9006aefb363982c",
+  "url": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/vgs-vgs-15122196.html",
+  "ord_in_thread": 0,
+  "author": "Henri Kramer",
+  "published": "2026-01-15T08:00:00.000+02:00",
+  "title": "Rettungsabgabe oder Insolvenz: Potsdamer Kleingärtner stehen vor gravierender Abstimmung",
+  "text": "Der Anwalt des Verbands der Gartenfreunde wirbt für die geplante 150-Euro-Rettungsumlage. In der Vergangenheit hatte es viel Ärger wegen eines solchen Vorgehens gegeben.\nVon Henri Kramer Stand: heute, 07:00 Uhr\nPotsdams Kleingartenwesen steckt in einer akuten Krise . Vor einer entscheidenden Mitgliederversammlung des Kreisverbands der Garten- und Siedlerfreunde (VGS) am kommenden Mittwoch hat der Anwalt des Verbands, der für rund 5400 Parzellen zuständig ist, einen eindringlichen Appell an die Vereinsvertreter gerichtet. Diese müssten höheren finanziellen Belastungen zustimmen, schreibt VGS-Jurist Torsten Engel – sonst drohe dem Verband das Aus und damit der Verlust zentraler Strukturen für tausende Pächter.\nshowPaywall: true isSubscriber: false isPaid: true",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "german",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->business restructuring",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Henri Kramer",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Potsdam",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Verbands der Gartenfreunde",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "VGS",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Kreisverbands der Garten - und Siedlerfreunde",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-15T08:10:13.587+02:00",
+  "updated": "2026-01-15T08:13:17.000+02:00"
+}

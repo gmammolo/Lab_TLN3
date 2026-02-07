@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "8b9a5486d602b6347323196197061acebff96634",
+    "url": "https://www.how2shout.com/news/whatsapp-strict-account-settings-spyware-protection.html",
+    "site_full": "www.how2shout.com",
+    "site": "how2shout.com",
+    "site_section": "https://www.how2shout.com/",
+    "site_categories": [
+      "cell_phones",
+      "tech",
+      "science and technology"
+    ],
+    "section_title": "H2S Media ‚Äì Your Guide to Tech, Health, Software &amp; Smart Computing! - H2S Media",
+    "site_title": "H2S Media – Your Guide to Tech, Software &amp; Smart Computing! - H2S Media",
+    "title": "WhatsApp Launches \"Strict Account Settings\" to Protect Journalists and Activists from Spyware - H2S Media",
+    "title_full": "WhatsApp Launches \"Strict Account Settings\" to Protect Journalists and Activists from Spyware - H2S Media",
+    "published": "2026-01-29T07:38:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.how2shout.com/wp-content/uploads/2026/01/WhatsApps-New-Lockdown-Mode-Shields-Journalists-from-Spies.webp",
+    "performance_score": 0,
+    "domain_rank": 185260,
+    "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8b9a5486d602b6347323196197061acebff96634",
+  "url": "https://www.how2shout.com/news/whatsapp-strict-account-settings-spyware-protection.html",
+  "ord_in_thread": 0,
+  "author": "Rajkumar Maurya",
+  "published": "2026-01-29T07:38:00.000+02:00",
+  "title": "WhatsApp Launches \"Strict Account Settings\" to Protect Journalists and Activists from Spyware - H2S Media",
+  "text": "WhatsApp announced Strict Account Settings on Monday, January 27, 2026‚Äîa new lockdown-style feature designed to protect high-risk users like journalists, human rights defenders, and public figures from sophisticated cyberattacks.\nThe feature is available to all WhatsApp users but is specifically designed for those facing advanced threats, including government-sponsored surveillance.\n‚ÄúWe will always defend that right to privacy for everyone, starting with default end-to-end encryption,‚Äù WhatsApp said in its official announcement. ‚ÄúBut we also know that a few of our users‚Äîlike journalists or public-facing figures‚Äîmay need extreme safeguards against rare and highly-sophisticated cyber attacks.‚Äù\nHow It Works\nWhen enabled, Strict Account Settings locks certain account configurations to their most restrictive levels and limits how WhatsApp functions in specific ways:\n- Blocks attachments and media from people not in your contacts\n- Restricts other features to minimize attack surface\nTo enable: go to Settings > Privacy > Advanced and toggle on Strict Account Settings. The feature is rolling out gradually over the coming weeks.\nTechnical Protections: Rust Implementation\nBeyond the user-facing setting, WhatsApp has also implemented a Rust-based media library to protect against malicious files. The system performs media format verification and consistency checks to prevent spyware from being delivered through the platform.\nWhatsApp stated this technology ‚Äúhelps keep your photos, videos, and messages safe from things like spyware, so you can share and chat with confidence.‚Äù\nWhy Now: Recent Spyware Scandals\nThe launch follows high-profile spyware incidents involving WhatsApp users:\nParagon Graphite (2025): In February 2025, WhatsApp notified approximately 90 users worldwide‚Äîincluding Francesco Cancellato, editor-in-chief of Italian investigative outlet Fanpage, and migrant rescue activists Luca Casarini and Giuseppe Caccia‚Äîthat their accounts had been targeted using Graphite spyware made by Israeli firm Paragon Solutions. Paragon subsequently terminated its contract with Italy after abuse allegations surfaced. The Italian government denied involvement.\nNSO Group Pegasus (2019): WhatsApp sued Israeli spyware maker NSO Group in October 2019 after discovering its Pegasus spyware was used to target approximately 1,400 users over a two-week period in April-May 2019. Victims included journalists, human rights activists, political dissidents, and diplomats across 51 countries. In May 2025, a California jury ordered NSO Group to pay WhatsApp $167.7 million in damages.",
+  "summary": "WhatsApp announced Strict Account Settings on Monday, January 27, 2026‚Äîa new lockdown-style feature designed to protect high-risk users like journalists, human rights defenders, and public figures from sophisticated cyberattacks. The feature is available to all WhatsApp users but is specifically designed for those facing advanced threats, including government-sponsored surveillance. ‚ÄúWe will always defend that right to privacy for everyone, starting with default end-to-end encryption,‚Äù WhatsApp said in its official announcement.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Crime, Law and Justice",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->surveillance",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blog.whatsapp.com/whatsapps-latest-privacy-protection-strict-account-settings",
+    "https://www.blog.whatsapp.com/whatsapps-latest-privacy-protection-strict-account-settings"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "WhatsApp",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-29T08:42:20.015+02:00",
+  "updated": "2026-01-29T08:47:06.000+02:00"
+}

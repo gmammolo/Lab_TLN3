@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "6c708c81d953ce463a4e729898ca0935e5965ab6",
+    "url": "https://www.digit.fyi/high-risk-sectors-have-the-most-critical-vulnerabilities",
+    "site_full": "www.digit.fyi",
+    "site": "digit.fyi",
+    "site_section": "https://www.digit.fyi",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Scotland&#039;s Biggest Technology Community | DIGIT | News &amp; Events",
+    "title": "High Risk Sectors Have the Most Critical Vulnerabilities",
+    "title_full": "High Risk Sectors Have the Most Critical Vulnerabilities",
+    "published": "2024-11-15T13:42:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 74043,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6c708c81d953ce463a4e729898ca0935e5965ab6",
+  "url": "https://www.digit.fyi/high-risk-sectors-have-the-most-critical-vulnerabilities",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "elizabeth",
+  "published": "2024-11-15T13:42:00.000+02:00",
+  "title": "High Risk Sectors Have the Most Critical Vulnerabilities",
+  "text": "Organisations are continually underestimating the security needs of sites containing fewer complex applications, new research from Black Duck reveals.\n\\nThe report , 2024 Software Vulnerability Snapshot , offers insights from over 200,000 dynamic application security testing (DAST) scans across around 13,000 applications in 19 industries.\n\\nThe report revealed the top three sectors with critical vulnerabilities, which include finance and insurance, healthcare and social assistance, and information services.\n\\n Top Sectors \\nSmall and medium-complexity sites tend to have more critical vulnerabilities than those with larger complexity, particularly in finance and insurance, which had the highest number of critical vulnerabilities (1,299). The sector, which is highly regulated, therefore still faces substantial risk, despite threat actors continually targeting this industry for maximum financial gain.\n\\nThe healthcare and social assistance sector was closely behind with 992 critical vulnerabilities, which raises concerns about patient data protection and compliance with regulation.\n\\nIn the UK, the NHS has been continually targeted, either directly through NHS councils , or through high-profile breaches of affiliate labs such as Synnovis .\n\\nData-centric industries are also in danger, as information services was the third highest sector in terms of critical vulnerabilities, with 446.\n\\n Top Vulnerabilities \\nIn terms of what these vulnerabilities looked like, Black Duck rounded the 96,917 vulnerabilities it identified into three critical categories.\n\\nCryptographic failures, or sensitive data exposure, accounted for 30,726 vulnerabilities, including nearly 5,000 critical risk instances.\n\\nThese affected 86% of clients, representing one of the most common and serious security issues across industries.\n\\n4,814 were identified as injection vulnerabilities, with over half of those classified as critical instances. These vulnerabilities, which include SQL Injection and Cross-Site Scripting (XSS), allow for the potential for data theft and compromised systems, posing a significant threat to security.\n\\nMisconfigurations to security systems affected nearly all (98%) of clients Black Duck scanned, with over 36,000 identified vulnerabilities. However, while many of these were deemed information by Black Duck, as in, no immediate action was indicated, they still represent significant potential for security risks.\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.blackduck.com/resources/analyst-reports/software-vulnerability-trends.html",
+    "https://blackduck.com/resources/analyst-reports/software-vulnerability-trends.html"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:01:53.255+02:00",
+  "updated": "2024-11-15T17:01:53.255+02:00"
+}

@@ -1,0 +1,104 @@
+{
+  "thread": {
+    "uuid": "e274f3d9f7848781c2e2bba68e2168fbea4dfba6",
+    "url": "https://cybersecuritynews.com/cisa-warns-of-n-able-n-central-vulnerabilities/",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://news.google.com/search?q=of%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "CISA Warns of N-able N-Central Deserialization and Injection Vulnerability Exploited in Attacks",
+    "title_full": "CISA Warns of N-able N-Central Deserialization and Injection Vulnerability Exploited in Attacks",
+    "published": "2025-08-14T11:31:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnmStAdDAlpxk0brFIiL_1iULAAvtbWFJ7xfnTzjp0NdPMqaaOVhchF6yh_DmzryYmzoDf9RpxJKyAE2M-XGrxtYwtaGlDq0AG_GCCtzPyztDu_BX_15BS0UN2IL5pGIfglKqheET_axNg8lVWUrONMQAKZA3f_NbQt0uJtmOV-USL7JfcdkjFIpORezE/s16000/CISA%20Warns%20of%20N-able%20N-Central%20Vulnerabilities.webp",
+    "performance_score": 0,
+    "domain_rank": 35499,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e274f3d9f7848781c2e2bba68e2168fbea4dfba6",
+  "url": "https://cybersecuritynews.com/cisa-warns-of-n-able-n-central-vulnerabilities/",
+  "ord_in_thread": 0,
+  "author": "Florence Nightingale",
+  "published": "2025-08-14T11:31:00.000+03:00",
+  "title": "CISA Warns of N-able N-Central Deserialization and Injection Vulnerability Exploited in Attacks",
+  "text": "CISA has issued urgent warnings regarding two critical security vulnerabilities in N-able N-Central remote monitoring and management (RMM) software that threat actors are actively exploiting.\nThe vulnerabilities, identified as CVE-2025-8875 and CVE-2025-8876, pose significant risks to organizations using this widely-deployed IT management platform.\nKey Takeaways\n1. Two critical N-able N-Central vulnerabilities were actively exploited for remote code execution.\n2. CISA deadline: August 20, 2025, for mandatory fixes.\n3. Update or discontinue use immediately.\nDeserialization Vulnerability The first vulnerability, CVE-2025-8875, represents an insecure deserialization vulnerability that could lead to arbitrary command execution on affected systems.\nDeserialization attacks occur when untrusted data is processed by an application’s deserialization mechanism, potentially allowing attackers to manipulate object states and execute malicious code.\nThis particular flaw in N-able N-Central’s architecture creates a pathway for remote attackers to gain unauthorized access and control over managed systems.\nThe technical nature of this vulnerability lies in the improper handling of serialized objects within the N-Central platform.\nWhen the application deserializes user-controlled input without proper validation, it creates an attack vector that sophisticated threat actors can exploit to bypass security controls and establish persistent access to target networks.\nThe Common Vulnerability Scoring System (CVSS) implications of this flaw make it a high-priority concern for security teams.\nCommand Injection Vulnerability The second vulnerability, CVE-2025-8876, involves a command injection vulnerability stemming from improper sanitization of user input within the N-Central application.\nCommand injection attacks allow malicious actors to execute arbitrary system commands by manipulating input fields that are processed by the underlying operating system without adequate filtering or validation.\nThis vulnerability specifically targets the input validation mechanisms within N-Central’s user interface, where insufficient input sanitization procedures fail to prevent the execution of injected shell commands.\nAttackers can potentially leverage this weakness to execute system-level commands, access sensitive files, modify system configurations, or install malicious software on compromised systems.\nMitigations CISA has established an aggressive remediation timeline, requiring organizations to implement mitigations by August 20, 2025, just one week after the vulnerabilities were added to the Known Exploited Vulnerabilities (KEV) catalog on August 13.\nThe urgency reflects the active exploitation of these vulnerabilities in real-world attack scenarios.\nOrganizations must immediately apply vendor-provided patches and mitigations, follow applicable Binding Operational Directive (BOD) 22-01 guidance for cloud services, or discontinue use of affected N-Central deployments if adequate mitigations remain unavailable.\nN-able has released version 2025.3.1 of N-Central to address these security issues.\nWhile the connection to ransomware campaigns remains unknown, the combination of deserialization and command injection vulnerabilities creates a potent attack surface that threat actors could exploit for initial access, lateral movement, and payload deployment across enterprise networks.\nBoost your SOC and help your team protect your business with free top-notch threat intelligence: Request TI Lookup Premium Trial .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Economy, Business and Finance"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Social Issue->social condition",
+    "Economy, Business and Finance->business governance",
+    "Economy, Business and Finance->computing and information technology"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://intelligence.any.run/plans/",
+    "https://www.intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "CISA",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "e274f3d9f7848781c2e2bba68e2168fbea4dfba6",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T11:44:55.009+03:00",
+  "updated": "2025-08-14T11:59:05.000+03:00"
+}

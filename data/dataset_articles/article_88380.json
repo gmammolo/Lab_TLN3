@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "48804d8e1db942a2f4c0a3386a0301a01ccabaf5",
+    "url": "https://serverfault.com/questions/829230/failed-to-start-raise-network-interfaces-on-ubuntu-16-04-01",
+    "site_full": "serverfault.com",
+    "site": "serverfault.com",
+    "site_section": "https://serverfault.com/feeds",
+    "site_categories": [],
+    "section_title": "Recent Questions - Server Fault",
+    "title": "Failed to start Raise network interfaces on ubuntu 16.04.01",
+    "title_full": "Failed to start Raise network interfaces on ubuntu 16.04.01",
+    "published": "2024-08-09T00:06:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.sstatic.net/Sites/serverfault/Img/apple-touch-icon@2.png?v=9b1f48ae296b",
+    "performance_score": 0,
+    "domain_rank": 3634,
+    "domain_rank_updated": "2024-08-06T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "48804d8e1db942a2f4c0a3386a0301a01ccabaf5",
+  "url": "https://serverfault.com/questions/829230/failed-to-start-raise-network-interfaces-on-ubuntu-16-04-01",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Merlin Merlin 2",
+  "published": "2024-08-09T00:06:00.000+03:00",
+  "title": "Failed to start Raise network interfaces on ubuntu 16.04.01",
+  "text": "I am running ubuntu 16.04 (fresh install) with the networking interface configured on dhcp inside virtualbox. This worked perfectly on that box until recently and works still perfect for another box.\nSuddently I am having trouble raising the network interface enp0s17. I have another interface configured with static IP that works OK.\n/etc/network/interfaces looks like this:\nsource /etc/network/interfaces.d/* # The loopback network interface auto lo iface lo inet loopback # The primary network interface auto enp0s8 enp0s17 iface enp0s17 inet dhcp iface enp0s8 inet static address 192.143.56.200 netmask 255.255.255.0 network 192.143.56.0 broadcast 192.143.56.255 dns-nameservers 192.143.56.1\nSyslog shows this:\nJan 29 07:17:36 rex dhclient[1091]: DHCPDISCOVER on enp0s17 to 255.255.255.255 port 67 interval 14 (xid=0xaf741468) Jan 29 07:17:36 rex sh[1079]: DHCPDISCOVER on enp0s17 to 255.255.255.255 port 67 interval 14 (xid=0xaf741468) Jan 29 07:17:50 rex systemd[1]: networking.service: Start operation timed out. Terminating. Jan 29 07:17:50 rex systemd[1]: Failed to start Raise network interfaces. Jan 29 07:17:50 rex systemd[1]: networking.service: Unit entered failed state. Jan 29 07:17:50 rex systemd[1]: networking.service: Failed with result 'timeout'. Jan 29 07:17:50 rex systemd[1]: Reached target Network.\nThe config looks OK to me and not different to the point where it used to work.\nWhat I did before is to configure iptables, but have deleted the rule and checked it if it is really deleted. The name of the interface seems to be OK:\nsudo ifconfig -a enp0s8 Link encap:Ethernet HWaddr 08:00:27:4f:d8:fb inet addr:192.143.56.200 Bcast:192.143.56.255 Mask:255.255.255.0 inet6 addr: fe80::a00:27ff:fe4f:d8fb/64 Scope:Link UP BROADCAST RUNNING MULTICAST MTU:1500 Metric:1 RX packets:4098 errors:0 dropped:0 overruns:0 frame:0 TX packets:3693 errors:0 dropped:0 overruns:0 carrier:0 collisions:0 txqueuelen:1000 RX bytes:303862 (303.8 KB) TX bytes:373908 (373.9 KB) enp0s17 Link encap:Ethernet HWaddr 08:00:27:1a:5e:6c inet6 addr: fe80::a00:27ff:fe1a:5e6c/64 Scope:Link UP BROADCAST RUNNING MULTICAST MTU:1500 Metric:1 RX packets:3 errors:0 dropped:0 overruns:0 frame:0 TX packets:59 errors:0 dropped:0 overruns:0 carrier:0 collisions:0 txqueuelen:1000 RX bytes:276 (276.0 B) TX bytes:18090 (18.0 KB)\nWhat could be the reason for this?",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-08-09T00:35:14.075+03:00",
+  "updated": "2024-08-09T00:35:14.075+03:00"
+}

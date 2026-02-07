@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "c7018f04e3f919b268a3b7b0844641463adabbe3",
+    "url": "https://community.sourcegraph.com/t/in-reference-to-rating-review-on-jetbrains/1414",
+    "site_full": "community.sourcegraph.com",
+    "site": "sourcegraph.com",
+    "site_section": "https://community.sourcegraph.com/posts.rss",
+    "site_categories": [],
+    "section_title": "Sourcegraph Forum - Latest posts",
+    "title": "In reference to rating/review on jetbrains",
+    "title_full": "In reference to rating/review on jetbrains",
+    "published": "2024-11-15T04:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/flex004/uploads/sourcegraph/original/2X/9/99c71f4692e765f41ea3cc0f6948faf434261d53.png",
+    "performance_score": 0,
+    "domain_rank": 29906,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "c7018f04e3f919b268a3b7b0844641463adabbe3",
+  "url": "https://community.sourcegraph.com/t/in-reference-to-rating-review-on-jetbrains/1414",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@bradselph susplayer32",
+  "published": "2024-11-15T04:20:00.000+02:00",
+  "title": "In reference to rating/review on jetbrains",
+  "text": "I was directed here to state my issue as I am in fact not on the nightly build, nor have I ever been on the nightly build. Yet, I am notified of an update every day as far as I can tell. There are days I don’t open the JetBrains IDE so for the most part, it’s every day that I happen to open and use the IDE. I’m prompted for a Cody update that a lot of time, requires me to go into the directory where it’s stored and forcibly delete the Java files for it to update, or uninstall the plugin, then reinstall it for it to actually update. Now, the last 2 updates, I did not have to do this so maybe that was an issue for me, or it was fixed.\njetbrains rating/review\nHey @bradselph\nThank you very much for the review. We really appreciate your feedback. Like Kalan replied, staying on Cody stable is the best option for a reliable and stable user experience.\nFor those willing to stay on the bleeding-edge of experimental features, the nightly release is the preferred option, but be informed that some bugs may appear and might distract the flow.\nHappy programming.\nIs this a joke or a bot? I’ve never been on a nightly build, yet I’m receiving nightly update notifications.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Kalan",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T07:07:41.510+02:00",
+  "updated": "2024-11-15T07:07:41.510+02:00"
+}

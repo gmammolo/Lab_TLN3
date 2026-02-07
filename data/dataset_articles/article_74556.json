@@ -1,0 +1,90 @@
+{
+  "thread": {
+    "uuid": "0cf78b994fdf9235b4258735aa933b121dfc7462",
+    "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks",
+    "site_full": "www.bleepingcomputer.com",
+    "site": "bleepingcomputer.com",
+    "site_section": "https://www.bleepingcomputer.com/feed/",
+    "site_categories": [
+      "windows",
+      "hacking",
+      "tech",
+      "shareware_freeware"
+    ],
+    "section_title": "BleepingComputer",
+    "title": "Palo Alto Networks warns of critical RCE zero-day exploited in attacks",
+    "title_full": "Palo Alto Networks warns of critical RCE zero-day exploited in attacks",
+    "published": "2024-11-15T16:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.bleepstatic.com/content/hl-images/2024/04/16/Palo_Alto_Networks.jpg",
+    "performance_score": 0,
+    "domain_rank": 1406,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "shares": 10
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0cf78b994fdf9235b4258735aa933b121dfc7462",
+  "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Bill Toulas",
+  "published": "2024-11-15T16:44:00.000+02:00",
+  "title": "Palo Alto Networks warns of critical RCE zero-day exploited in attacks",
+  "text": "Palo Alto Networks is warning that a critical zero-day vulnerability on Next-Generation Firewalls (NGFW) management interfaces, currently tracked as 'PAN-SA-2024-0015,' is actively being exploited in attacks.\nUpdate 11/18 - Palo Alto Networks released a new advisory about this issue and assigned it the identifier CVE-2024-0012.\nThe flaw was originally disclosed on November 8, 2024, with Palo Alto Networks warning customers to restrict access to their next-generation firewalls because of a \"potential\" remote code execution (RCE) vulnerability impacting them.\nNo signs of exploitation were detected at that time, but now, one week later, the situation has changed.\n\"Palo Alto Networks has observed threat activity exploiting an unauthenticated remote command execution vulnerability against a limited number of firewall management interfaces which are exposed to the Internet,\" warns an update on the advisory page .\n\"At this time, we believe devices whose access to the Management Interface is not secured as per our recommended best practice deployment guidelines are at increased risk,\" warns the vendor in the same bulletin.\nThe vulnerability, rated with a CVSS v4.0 score of 9.3 (\"critical\"), is remotely exploitable and requires no authentication or user interaction.\nOnce an internet-exposed interface is detected, the attacker can send a specially crafted request to gain unauthorized control over the firewall, potentially enabling them to alter rules, redirect or intercept network traffic, and turn off security protections.\nUnfortunately, the vendor does not have sufficient information to formulate a useful list of indicators of compromise at this time, but suggested the following mitigation steps:\nConfigure access to the firewall management interface so it is only accessible from trusted internal IP addresses. Block all internet access to the management interface to prevent exploitation. Place the management interface behind a secured network or VPN to ensure access is controlled and authenticated. Review and implement the security guidelines found here. Despite the dangerous RCE bug being discovered a week ago, Palo Alto Networks has not yet made security updates available to impacted clients.\n\"At this time, securing access to the management interface is the best recommended action,\" says Palo Alto Networks.\n\"As we investigate the threat activity, we are preparing to release fixes and threat prevention signatures as early as possible.\"\nThreat monitoring platform The Shadowserver Foundation reported earlier today that it sees approximately 8,700 exposed interfaces.\nThreat researcher Yutaka Sejiyama conducted his own scans on Shodan and told BleepingComputer that he observed 11,180 IP addresses exposed online associated with the Palo Alto management interface.\n\"As you know, the results from Shodan are not real-time information. However, during my investigation three days ago, I confirmed that 11,180 of these IPs were actually online,\" Sejiyama told BleepingComputer.\nAccording to Shodan, most of the devices are located in the United States, followed by India, Mexica, Thailand, and Indonesia.\nShodan map of exposed Palo Alto management interfaces\nSource: Shodan To ensure that you have applied the mitigations properly, visit the Assets section of the Palo Alto Networks Customer Support Portal to find a list of devices with Internet-facing management interfaces, and look for devices tagged with 'PAN-SA-2025-0015.'\nIf none showed up, the scan did not detect any internet-exposed management interfaces. If they do, admins should use the steps mentioned to secure devices.\nRelated Articles: Over 2,000 Palo Alto firewalls hacked using recently patched bugs\nPalo Alto Networks patches two firewall zero-days used in attacks\nJapan warns of IO-Data zero-day router flaws exploited in attacks\nHackers exploit critical bug in Array Networks SSL VPN products\nCritical RCE bug in VMware vCenter Server now exploited in attacks",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/Shadowserver/status/1857393718501810469",
+    "https://www.shodan.io/search?query=http.favicon.hash%3A602431586%2C873381299+http.title%3ALogin",
+    "https://security.paloaltonetworks.com/PAN-SA-2024-0015",
+    "https://shodan.io/search?query=http.favicon.hash%3A602431586%2C873381299+http.title%3ALogin",
+    "https://www.shodan.io/search",
+    "https://www.x.com/Shadowserver/status/1857393718501810469",
+    "https://www.security.paloaltonetworks.com/PAN-SA-2024-0015"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "CVSS",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Networks",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:57:29.507+02:00",
+  "updated": "2024-12-10T04:24:20.353+02:00"
+}

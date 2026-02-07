@@ -1,0 +1,83 @@
+{
+  "thread": {
+    "uuid": "5b580d648979657a36ee62f7d55d7b2f4df5ceca",
+    "url": "https://www.thestar.com.my/news/nation/2024/11/01/thunderstorms-expected-in-four-states-until-5pm",
+    "site_full": "www.thestar.com.my",
+    "site": "thestar.com.my",
+    "site_section": "https://www.thestar.com.my/news/nation",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Nation - News | The Star",
+    "title": "Thunderstorms expected in four states until 5pm | The Star",
+    "title_full": "Thunderstorms expected in four states until 5pm | The Star",
+    "published": "2024-11-01T10:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://apicms.thestar.com.my/uploads/images/2024/11/01/2995662.jpg",
+    "performance_score": 0,
+    "domain_rank": 2226,
+    "domain_rank_updated": "2024-10-28T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5b580d648979657a36ee62f7d55d7b2f4df5ceca",
+  "url": "https://www.thestar.com.my/news/nation/2024/11/01/thunderstorms-expected-in-four-states-until-5pm",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "NA",
+  "published": "2024-11-01T10:24:00.000+02:00",
+  "title": "Thunderstorms expected in four states until 5pm | The Star",
+  "text": "KUALA LUMPUR: Thunderstorms, heavy rain and strong winds are expected in four states until 5pm on Friday, according to the Malaysian Meteorological Department (MetMalaysia).\nIn a weather warning issued at 2pm on Friday (Nov 1), it said the conditions were expected in Pahang (Bentong), Negri Sembilan (Jelebu, Kuala Pilah, Rembau, Jempol and Tampin) and Melaka.\nMeanwhile, in Johor, similar conditions were expected in Tangkak, Kluang, Mersing, Pontian, Kulai, Kota Tinggi and Johor Baru. - Bernama\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Meteorological Department",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Pahang",
+        "sentiment": "none"
+      },
+      {
+        "name": "Johor",
+        "sentiment": "none"
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-01T10:58:34.323+02:00",
+  "updated": "2024-11-01T10:58:34.323+02:00"
+}

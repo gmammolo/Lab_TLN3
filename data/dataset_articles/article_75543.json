@@ -1,0 +1,68 @@
+{
+  "thread": {
+    "uuid": "362e56449bfc63f229726975d2eefbfd887eeb44",
+    "url": "https://community.sourcegraph.com/t/most-public-repos-no-longer-accessible-via-code-search/641",
+    "site_full": "community.sourcegraph.com",
+    "site": "sourcegraph.com",
+    "site_section": "https://community.sourcegraph.com/posts.rss",
+    "site_categories": [],
+    "section_title": "Sourcegraph Forum - Latest posts",
+    "title": "Most public repos no longer accessible via code search?",
+    "title_full": "Most public repos no longer accessible via code search?",
+    "published": "2024-11-21T23:23:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://global.discourse-cdn.com/flex004/uploads/sourcegraph/original/1X/a87e3fbbb00834f85ea74f315ed91d02ba773bc3.png",
+    "performance_score": 0,
+    "domain_rank": 30357,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "362e56449bfc63f229726975d2eefbfd887eeb44",
+  "url": "https://community.sourcegraph.com/t/most-public-repos-no-longer-accessible-via-code-search/641",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@jdorfman Justin Dorfman (Sourcegraph)",
+  "published": "2024-11-21T23:23:00.000+02:00",
+  "title": "Most public repos no longer accessible via code search?",
+  "text": "Pretty much every “non-popular” repo on github (repo with < 20 stars) is no longer accessible via code-search. Public SourceGraph code search does not find my public github repo anymore - #3 by user_56942_25821 is a related issue, but this was solved by the devs manually adding to the index rather than fixing for all repos.\nIs this a new systematic change, that we can only search popular repos? Do I need to upgrade to a pro plan in order to search all repos?\nI have same problem.\nHey @user_56942_25821\nYes we cleaned up our index and some repos that should have stayed got removed. If you have a list of repos you want re-added LMK and I can do that. cc @gscholer\nHi! I’ve noticed that this problem is still present: I cannot list repositories that have less than 30 stars when using the public search endpoint (Sourcegraph), not even newly created repoes. Is this a default in sourcegraph?\nHi @ettodei can you please list some of the repos you aren’t seeing?\n@jdorfman I cannot see GitHub - collective/collective.searchandreplace\nHey @gotcha\nShould be good to go: collective/collective.searchandreplace - Sourcegraph\nI also added the GitHub org (collective) to the whitelist so all repos should sync soon.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T01:42:18.009+02:00",
+  "updated": "2024-11-22T01:42:18.009+02:00"
+}

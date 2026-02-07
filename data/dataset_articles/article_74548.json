@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "e56e2ba1c5e1296c15b464dc132a7f405b7d40f1",
+    "url": "https://protos.com/how-to-stay-safe-on-chain-three-crypto-users-lose-876k-within-hours",
+    "site_full": "protos.com",
+    "site": "protos.com",
+    "site_section": "https://protos.com",
+    "site_categories": [],
+    "section_title": "Protos | Informed crypto news",
+    "title": "How to stay safe on-chain: Three crypto users lose $876K within hours",
+    "title_full": "How to stay safe on-chain: Three crypto users lose $876K within hours",
+    "published": "2024-11-15T16:24:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://protos-media.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/11/15133051/Protos-Artwork-SafeOnChain-SIMG.jpg",
+    "performance_score": 0,
+    "domain_rank": 38402,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "e56e2ba1c5e1296c15b464dc132a7f405b7d40f1",
+  "url": "https://protos.com/how-to-stay-safe-on-chain-three-crypto-users-lose-876k-within-hours",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mark Toon",
+  "published": "2024-11-15T16:24:00.000+02:00",
+  "title": "How to stay safe on-chain: Three crypto users lose $876K within hours",
+  "text": "How to stay safe on-chain: Three crypto users lose $876K within hours In just over 15 hours, three unlucky crypto users lost a total of $876,000 worth of assets to common on-chain scams. A combination of techniques, specifically ‘approval phishing’ and ‘address poisoning,’ were used in the scams, which were spotted by X (formerly Twitter) account Scam Sniffer. The first, and largest, of the thefts was caused by a user signing a malicious ‘permit’ transaction, allowing the scammer to steal 211 Lido-staked ether (stETH) worth $654,000. Read more: [Compound Finance and Celer Network websites compromised in ‘front-end’ attacks](https://protos.com/compound-finance-and-celer-network-websites-compromised-in-front-end-attacks/) Phishing with drainers [According](https://x.com/realScamSniffer/status/1857201292705476803) to Scam Sniffer, the address to which the victim had inadvertently granted approval to move their stETH was “a malicious contract disguised as a Token.” These dangerous permit or approval transactions are often presented to users by scam-as-as-service malware packages called wallet ‘drainers.’ The drainers are often disseminated via hacked X (formerly Twitter) accounts, which can be used to post FOMO-stoking airdrop or token launch announcements, before linking the victim to a wallet drainer script. Prolific blockchain detective ZachXBT [described](https://x.com/zachxbt/status/1666894383638011913) the typical workings of such groups, who take control of accounts via SIM-swapping, in a post on X last year. Another method is via so-called ‘front-end’ attacks, in which the genuine domains of crypto platforms are hijacked to craft malicious transactions and serve drainers to potential victims’ wallets. Drainer packages themselves are developed as a product or service to be used by the phishing scammers. A cut of each theft is automatically split between the drainer developers and the scammers that use them. This model has proven to be extremely profitable. In May, when a prolific drainer service known as Pink Drainer [announced](https://protos.com/pink-drainer-steps-back-from-the-grind-after-stealing-75m-from-victims/) its retirement after facilitating $75 million worth of thefts, crypto security firm SlowMist [identified](https://x.com/MistTrack_io/status/1791115454057951477) over $20 million held in related addresses. Inferno Drainer, which shut down a year ago, has been [cashing out](https://x.com/blockaid_/status/1855995321110729010) its ill-gotten gains recently, sending a total of [4,010 ETH](https://etherscan.io/txs?a=0x60662F4E7C970a7bDa368F04Fa0e3419E1AC0B51) (currently worth $12.4 million) to sanctioned crypto mixer Tornado Cash. Previous attempts to use alternative privacy tool Railgun were [blocked](https://x.com/MistTrack_io/status/1811050114842034278) by the team. Read more: [Pink Drainer ‘steps back from the grind’ after stealing $75M from victims](https://protos.com/pink-drainer-steps-back-from-the-grind-after-stealing-75m-from-victims/) Address poisoning scam The other two victims lost similar amounts ([111,500](https://x.com/realScamSniffer/status/1857338306931081505) and [111,726](https://x.com/realScamSniffer/status/1857349443567370679)) of the USDT stablecoin to ‘address poisoning,’ a type of scam which, while much simpler, proves equally dangerous. [Address poisoning](https://revoke.cash/learn/security/what-is-address-poisoning) relies on victims accidentally copy/pasting a scammer’s address from a ‘contaminated’ transaction history on a blockchain explorer such as Etherscan. Read more: [Refund of $70M ‘address poisoning’ scam ongoing, over 50% returned](https://protos.com/refund-of-70m-address-poisoning-scam-ongoing-over-50-returned/) Often, following sizable transfers, fake versions of common tokens will suddenly appear in a potential victim’s address, or appear as ‘spoofed’ transfers to accounts with similar leading and trailing characters to the genuine address (as can be seen in Scam Sniffer’s screenshot above). Despite efforts to [hide](https://x.com/etherscan/status/1645406189692526593) these misleading transactions by the explorer’s developers, losses are still common. For higher-value victims, scammers even opt to send genuine tokens as a workaround, putting real money on the line whilst hoping to hook a big win. Staying off the hook As always, double-check the URL or X account handles before clicking any links or connecting a crypto wallet. However, this may not be enough in the case that the genuine website or account has been compromised. Learn how [approvals and permits](https://revoke.cash/learn/approvals) work. It is important to maintain strict ‘approval hygiene,’ revoking any active approvals and avoiding setting or accepting ‘infinite’ approvals when prompted. Additionally, the use of built-in wallet address books can flag any unexpected addresses involved in a transaction which may be harder to spot by eye. These addresses can then be re-used instead of copying from a (potentially contaminated) transfer history. Don’t rush, and don’t sign anything you don’t understand Despite these well-known security measures, plenty of accidents still occur. Be it down to distraction, FOMO, rushing, or tiredness, it’s not difficult to imagine how even experienced crypto users fall for these scams on a regular basis. Scam Sniffer’s most recent [monthly round-up](https://x.com/realScamSniffer/status/1853736522052464833) identified “approximately 12K victims [who] lost $20.2 million to crypto phishing scams” in October, with four cases of over $1 million. Despite an overall total 56% lower than the previous month, the number of victims grew by 20%. Got a tip? Send us an email or ProtonMail. For more informed news, follow us on [X](https://twitter.com/protos), [Instagram](https://www.instagram.com/protosmedia/), [Bluesky](https://bsky.app/profile/protos.bsky.social), and [Google News](https://news.google.com/publications/CAAqBwgKMLmroQsw0bW5Aw), or subscribe to our [YouTube](https://youtube.com/protosmedia) channel.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://news.google.com/publications/CAAqBwgKMLmroQsw0bW5Aw),",
+    "https://x.com/realScamSniffer/status/1857349443567370679))",
+    "https://x.com/blockaid_/status/1855995321110729010)",
+    "https://etherscan.io/txs?a=0x60662F4E7C970a7bDa368F04Fa0e3419E1AC0B51)",
+    "https://bsky.app/profile/protos.bsky.social),",
+    "https://revoke.cash/learn/security/what-is-address-poisoning)",
+    "https://revoke.cash/learn/approvals)",
+    "https://twitter.com/protos),",
+    "https://x.com/realScamSniffer/status/1857338306931081505)",
+    "https://x.com/realScamSniffer/status/1857201292705476803)",
+    "https://www.instagram.com/protosmedia/),",
+    "https://x.com/MistTrack_io/status/1811050114842034278)",
+    "https://x.com/zachxbt/status/1666894383638011913)",
+    "https://youtube.com/protosmedia)",
+    "https://x.com/etherscan/status/1645406189692526593)",
+    "https://x.com/realScamSniffer/status/1853736522052464833)",
+    "https://x.com/MistTrack_io/status/1791115454057951477)",
+    "https://www.x.com/realScamSniffer/status/1853736522052464833)",
+    "https://www.x.com/realScamSniffer/status/1857349443567370679))",
+    "https://www.x.com/realScamSniffer/status/1857338306931081505)",
+    "https://www.revoke.cash/learn/approvals)",
+    "https://www.etherscan.io/txs?a=0x60662F4E7C970a7bDa368F04Fa0e3419E1AC0B51)",
+    "https://www.bsky.app/profile/protos.bsky.social),",
+    "https://instagram.com/protosmedia/),",
+    "https://www.twitter.com/protos),",
+    "https://www.x.com/blockaid_/status/1855995321110729010)",
+    "https://www.x.com/zachxbt/status/1666894383638011913)",
+    "https://www.x.com/MistTrack_io/status/1811050114842034278)",
+    "https://www.news.google.com/publications/CAAqBwgKMLmroQsw0bW5Aw),",
+    "https://www.x.com/etherscan/status/1645406189692526593)",
+    "https://www.revoke.cash/learn/security/what-is-address-poisoning)",
+    "https://etherscan.io/txs",
+    "https://www.x.com/realScamSniffer/status/1857201292705476803)",
+    "https://www.x.com/MistTrack_io/status/1791115454057951477)",
+    "https://www.youtube.com/protosmedia)"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Twitter",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:52:27.322+02:00",
+  "updated": "2024-11-15T17:52:27.322+02:00"
+}

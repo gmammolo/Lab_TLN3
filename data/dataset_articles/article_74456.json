@@ -1,0 +1,127 @@
+{
+  "thread": {
+    "uuid": "3af4758577d177a4388b6796601c47db00818219",
+    "url": "https://federalnewsnetwork.com/commentary/2024/11/microsofts-anticompetitive-behavior-weakens-its-customers-cybersecurity",
+    "site_full": "federalnewsnetwork.com",
+    "site": "federalnewsnetwork.com",
+    "site_section": "https://www.federalnewsnetwork.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Federal News Network - Helping feds meet their mission.",
+    "title": "Microsoft’s anticompetitive behavior weakens its customers’ cybersecurity",
+    "title_full": "Microsoft’s anticompetitive behavior weakens its customers’ cybersecurity",
+    "published": "2024-11-15T15:35:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 9930,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3af4758577d177a4388b6796601c47db00818219",
+  "url": "https://federalnewsnetwork.com/commentary/2024/11/microsofts-anticompetitive-behavior-weakens-its-customers-cybersecurity",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@FederalNewsNet",
+  "published": "2024-11-15T15:35:00.000+02:00",
+  "title": "Microsoft’s anticompetitive behavior weakens its customers’ cybersecurity",
+  "text": "“I just don’t trust what you’re saying.”\nThat was how Rep. Carlos Giminez (R-Fla.) captured the general sentiment when the House Homeland Security Committee questioned Microsoft Vice Chairman and President Brad Smith on the company’s “cascade of security failures.” During the high-profile hearing, real answers were few and far between.\nIt was a surprising spotlight on a company that has flown under the radar for decades. Many might recall the “Browser Wars” of the 1990s when Microsoft illegally leveraged its dominance in desktop operating systems to gain a foothold in internet browsers. As scrutiny of the company’s cyber practices heats up on Capitol Hill, more are realizing that Microsoft is using that same playbook today — but even they don’t recognize to what extent.\nDisguised as the invisible tech behemoth , Microsoft is leveraging its dominant position in desktop operating and productivity software to lock customers in the cloud. It’s a new take on the same problem, but now customers’ security is threatened. When Microsoft software is vulnerable, the global impact is almost incalculable.\nThe cloud was built to offer customers pay-as-you-go choice and flexibility. Instead, Microsoft is doubling down on the restrictive licensing models that made products like Windows and Office ubiquitous in the workplace to drive the growth of Azure and its other business units, including security.\nAt Azure’s launch, Microsoft’s “bring your own license” agreements allowed customers to use their existing Microsoft software licenses on other clouds, including the company’s major competitors — Alibaba, Amazon and Google. In 2019, Microsoft reversed course to compel customers to use Azure. There was suddenly no viable option for customers to run Microsoft software on another cloud without forfeiting their existing license for a new subscription.\nMicrosoft imposed these restrictions and began charging customers more to use major competitors over Azure. On average, Microsoft customers using alternative cloud providers pay 20% more than they did before 2019. One customer reported a $100 million increase . In Europe, an analysis showed customers pay more than €1 billion annually to run Microsoft software on the competitor cloud of their choice.\nMicrosoft also tied more software products to its Microsoft 365 cloud-based Office product and limited the integration capabilities of competing products despite no technical imperative. Today, the company has used its growing suite of interdependent products to successfully entrench itself in emerging technology sectors. For security, this is another threat. Microsoft has essentially removed the market mechanism for improving security in favor of creating dependency on its offerings.\nThe high-profile cyber hacks that led to the hearing underscore the risks of this approach. The Department of Homeland Security (DHS) Cyber Safety Review Board (CSRB) report on Microsoft’s Summer 2023 hack, which allowed Chinese actors access to government officials’ emails, found that licensing restrictions worsened the breach. The report prompted the question: How big is the government’s Microsoft problem?\nWhen asked by Rep. Delia Ramirez (D-Ill.) how Microsoft ensures its bundling practices do not limit the ability of customers to prioritize security, Smith said he was “not aware” of any practices that limit what its customers can do in terms of security protections.\nIn reality, Microsoft implements licensing tactics that create reliance on its technology and lock in customers — including the U.S. government — into an insecure environment that jeopardizes national security. This is a big problem, and these practices have limited customer choice and competition for years.\nIn the weeks following the House Homeland Security hearing, the European Commission (EC) charged Microsoft with antitrust violations for tying Teams with Office 365 and Microsoft 365 as part of an investigation that has been ongoing since 2023. The EC is also probing Microsoft for preventing customers from using competitors’ services, including cybersecurity solutions like identity and access management software.\nIn March 2023, German antitrust regulators opened an investigation into Microsoft’s disproportionate power across markets. Months later, the U.K. Competition and Markets Authority (CMA) announced a market investigation, including examining restrictive software licensing. In its June 2024 interim reports, the CMA announced its emerging view that “Microsoft’s licensing practices may affect customers’ choice of cloud provider.”\nTo date, Microsoft has not resolved these concerns. And why would they, when the company’s stock price has continued to climb and it is awarded large government contracts , or when the company escapes regulatory action by making closed door deals with a handful of providers — that cost them less than half CEO Satya Nadella’s yearly salary?\nRegulators must disincentivize this consistently bad behavior if a change is to be expected.\nIf left unchecked, Microsoft’s practices will become the industry standard, clearing the path for other providers to harm customers and weaken their defenses. Indeed, there are already indications that the model set by Microsoft has taken hold. Oracle forces customers into licensing agreements they do not need or want, and customers have raised alarms about Broadcom’s changes to the licensing terms of VMware products that limit affordable cloud services.\nGlobal regulators have begun to take notice of the impact of Microsoft’s licensing practices. It is now time for U.S. regulators to do the same: to examine Microsoft’s behavior more closely, listen to customers’ and providers’ experiences, and outline the impact on choice and competition in the cloudstack. Only then will the picture become clear — they just cannot trust what Microsoft is saying.\nRyan Triplette is the Executive Director of the Coalition for Fair Software Licensing, a North American-based initiative seeking to unlock greater customer choice, innovation and security in the cloud.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://homeland.house.gov/hearing/a-cascade-of-security-failures-assessing-microsoft-corporations-cybersecurity-shortfalls-and-the-implications-for-homeland-security/",
+    "https://www.theinformation.com/articles/eu-antitrust-cops-investigate-microsofts-security-software-practices",
+    "https://www.economist.com/briefing/2020/10/22/how-satya-nadella-turned-microsoft-around",
+    "https://www.theregister.com/2022/01/25/oracle_audits/",
+    "https://www.dhs.gov/news/2024/04/02/cyber-safety-review-board-releases-report-microsoft-online-exchange-incident-summer",
+    "https://www.theregister.com/2024/03/21/cispe_vmware_broadcom_license_warning/",
+    "https://www.justice.gov/archive/atr/public/press_releases/1998/1764.htm",
+    "https://www.gov.uk/government/news/cma-outlines-scope-of-market-investigation-into-cloud-services",
+    "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2023/28_03_2023_Microsoft.html",
+    "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3446",
+    "https://www.theatlantic.com/ideas/archive/2021/07/microsofts-antitrust/619599/",
+    "https://www.ofcom.org.uk/__data/assets/pdf_file/0031/256459/context-consulting-cloud-services-market-research-summary-of-findings.pdf",
+    "https://www.politico.com/news/2024/06/13/microsoft-executive-cyber-lapses-00163312",
+    "https://www.wired.com/story/the-us-government-has-a-microsoft-problem/#:~:text=As%20by%20far%20the%20biggest,keep%20up%20with%20evolving%20challenges.",
+    "https://www.documentcloud.org/documents/24699815-draft-dod-memo-microsoft-e5-licenses",
+    "https://cispe.cloud/website_cispe/wp-content/uploads/2023/06/Quantification-of-Cost-of-Unfair-Software-Licensing_Prof-Jenny_-June-2023_web.pdf",
+    "https://www.reuters.com/technology/microsoft-clinches-deal-settle-cispe-antitrust-complaint-2024-07-10/",
+    "https://justice.gov/archive/atr/public/press_releases/1998/1764.htm",
+    "https://homeland.house.gov/hearing/a-cascade-of-security-failures-assessing-microsoft-corporations-cybersecurity-shortfalls-and-the-implications-for-homeland-security",
+    "https://dhs.gov/news/2024/04/02/cyber-safety-review-board-releases-report-microsoft-online-exchange-incident-summer",
+    "https://theatlantic.com/ideas/archive/2021/07/microsofts-antitrust/619599/",
+    "https://theregister.com/2022/01/25/oracle_audits/",
+    "https://www.homeland.house.gov/hearing/a-cascade-of-security-failures-assessing-microsoft-corporations-cybersecurity-shortfalls-and-the-implications-for-homeland-security/",
+    "https://www.theatlantic.com/ideas/archive/2021/07/microsofts-antitrust/619599",
+    "https://www.reuters.com/technology/microsoft-clinches-deal-settle-cispe-antitrust-complaint-2024-07-10",
+    "https://gov.uk/government/news/cma-outlines-scope-of-market-investigation-into-cloud-services",
+    "https://www.ec.europa.eu/commission/presscorner/detail/en/ip_24_3446",
+    "https://economist.com/briefing/2020/10/22/how-satya-nadella-turned-microsoft-around",
+    "https://ofcom.org.uk/__data/assets/pdf_file/0031/256459/context-consulting-cloud-services-market-research-summary-of-findings.pdf",
+    "https://reuters.com/technology/microsoft-clinches-deal-settle-cispe-antitrust-complaint-2024-07-10/",
+    "https://politico.com/news/2024/06/13/microsoft-executive-cyber-lapses-00163312",
+    "https://bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2023/28_03_2023_Microsoft.html",
+    "https://documentcloud.org/documents/24699815-draft-dod-memo-microsoft-e5-licenses",
+    "https://theregister.com/2024/03/21/cispe_vmware_broadcom_license_warning/",
+    "https://theinformation.com/articles/eu-antitrust-cops-investigate-microsofts-security-software-practices",
+    "https://www.theregister.com/2024/03/21/cispe_vmware_broadcom_license_warning",
+    "https://wired.com/story/the-us-government-has-a-microsoft-problem/#:~:text=As%20by%20far%20the%20biggest,keep%20up%20with%20evolving%20challenges.",
+    "https://www.theregister.com/2022/01/25/oracle_audits",
+    "https://www.cispe.cloud/website_cispe/wp-content/uploads/2023/06/Quantification-of-Cost-of-Unfair-Software-Licensing_Prof-Jenny_-June-2023_web.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Carlos Giminez",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Brad Smith",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "negative"
+      },
+      {
+        "name": "House Homeland Security Committee",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T16:54:51.622+02:00",
+  "updated": "2024-11-15T16:54:51.622+02:00"
+}

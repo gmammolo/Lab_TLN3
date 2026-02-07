@@ -1,0 +1,144 @@
+{
+  "thread": {
+    "uuid": "91542883c470726df43dc4e577cec5ac7c09e905",
+    "url": "https://www.masslive.com/worcester/2025/03/174-employees-face-layoffs-as-worcester-communications-facility-closes.html",
+    "site_full": "www.masslive.com",
+    "site": "masslive.com",
+    "site_section": "https://www.masslive.com/arc/outboundfeeds/rss/?outputtype=xml",
+    "site_categories": [
+      "media",
+      "sports"
+    ],
+    "section_title": "",
+    "site_title": "Massachusetts Local News, Breaking News, Sports and Weather",
+    "title": "174 employees face layoffs as Worcester communications facility closes",
+    "title_full": "174 employees face layoffs as Worcester communications facility closes",
+    "published": "2025-03-28T16:22:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.masslive.com/resizer/v2/B2TJJDZBEJFQXFPXJTJU2BTRC4.png?auth=8bdacf6ce6b3c32558beae7098d75505a531d4932ed25d4f6408f1877db6016a&amp;width=1280&amp;quality=90",
+    "performance_score": 0,
+    "domain_rank": 2941,
+    "domain_rank_updated": "2025-03-24T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 6
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "91542883c470726df43dc4e577cec5ac7c09e905",
+  "url": "https://www.masslive.com/worcester/2025/03/174-employees-face-layoffs-as-worcester-communications-facility-closes.html",
+  "ord_in_thread": 0,
+  "author": "Adam Bass",
+  "published": "2025-03-28T16:22:00.000+03:00",
+  "title": "174 employees face layoffs as Worcester communications facility closes",
+  "text": "Charter Communications is shutting down its call center in Worcester, according to a Worker Adjustment and Retraining Notification Act (WARN) notice from the Massachusetts Department of Workforce Development.\nThe letter, dated March 26, reads that Charter Communications decided to close its Customer Operations department at 95 Higgins St. in Worcester. The 174 employees who work at the call center are anticipated to lose their jobs by June 26. It is possible that one or multiple employees will remain employed for a limited time to assist with administrative tasks related to the facility closure, the letter reads.\nDespite the closure of the call center, the letter reads that the entire facility at 95 Higgins St. will not be closed as a result of the call center’s closure.\nEmployees currently working at the call center are being given the option to relocate to other locations and are eligible to receive relocation benefits, according to reporting from the Telegram & Gazette. Current employees are also being offered severance benefits including salary continuation, continuation of the company contribution toward health insurance, and outplacement services, the Telegram & Gazette reported.\nCharter Communications is a broadband connectivity company that operates under the Spectrum brand.\nThe City of Worcester has been in negotiations with Charter for a new contract. The talks are still ongoing, and the closure of the call center will not affect them, according to Thomas Matthews, a spokesman for City Manager Eric D. Batista.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Labor",
+    "Social Issue"
+  ],
+  "topics": [
+    "Economy, Business and Finance->layoffs",
+    "Economy, Business and Finance->business governance",
+    "Labor->unemployment",
+    "Labor->employment",
+    "Labor->wages and benefits",
+    "Social Issue->demographics",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.telegram.com/story/business/2025/03/27/charter-communications-center-move-174-jobs/82689755007/?tbref=hp",
+    "https://corporate.charter.com/media-contacts",
+    "https://www.telegram.com/story/business/2025/03/27/charter-communications-center-move-174-jobs/82689755007/",
+    "https://www.corporate.charter.com/media-contacts",
+    "https://telegram.com/story/business/2025/03/27/charter-communications-center-move-174-jobs/82689755007/?tbref=hp"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Higgins St.",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Thomas Matthews",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Eric D. Batista",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "The City of Worcester",
+        "sentiment": "neutral"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Charter Communications",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "a Worker Adjustment and Retraining",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "the Massachusetts Department of Workforce Development",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Customer Operations",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "the Telegram & Gazette",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "Spectrum",
+        "sentiment": "negative",
+        "tickers": []
+      },
+      {
+        "name": "City",
+        "sentiment": "negative",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": []
+  },
+  "rating": null,
+  "crawled": "2025-03-28T17:02:08.869+03:00",
+  "updated": "2025-03-28T17:02:08.869+03:00"
+}

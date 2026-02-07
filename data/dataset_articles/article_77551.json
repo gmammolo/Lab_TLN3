@@ -1,0 +1,100 @@
+{
+  "thread": {
+    "uuid": "b70e2e2eba798e3fc397248d813f1051f4347563",
+    "url": "https://fr.ubunlog.com/Mozilla-met-en-garde-contre-une-attaque-de-phishing-contre-les-d%C3%A9veloppeurs-de-Firefox./",
+    "site_full": "fr.ubunlog.com",
+    "site": "ubunlog.com",
+    "site_section": "https://fr.ubunlog.com",
+    "site_categories": [],
+    "section_title": "Tout sur Ubuntu - Ubunlog",
+    "site_title": "Todo sobre Ubuntu - Ubunlog",
+    "title": "Mozilla met en garde contre une attaque de phishing contre les développeurs de Firefox",
+    "title_full": "Mozilla met en garde contre une attaque de phishing contre les développeurs de Firefox",
+    "published": "2025-08-13T20:01:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "FR",
+    "main_image": "https://ubunlog.com/wp-content/uploads/2019/11/Firefox-logo.jpg",
+    "performance_score": 0,
+    "domain_rank": 111269,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b70e2e2eba798e3fc397248d813f1051f4347563",
+  "url": "https://fr.ubunlog.com/Mozilla-met-en-garde-contre-une-attaque-de-phishing-contre-les-d%C3%A9veloppeurs-de-Firefox./",
+  "ord_in_thread": 0,
+  "author": "Darkcrizt",
+  "published": "2025-08-13T20:01:00.000+03:00",
+  "title": "Mozilla met en garde contre une attaque de phishing contre les développeurs de Firefox",
+  "text": "Il y a plusieurs jours Mozilla a émis un avertissement sérieux concernant une attaque de phishing qui affecte aux développeurs de modules complémentaires Firefox. Cet incident présente des similitudes avec les attaques récentes ciblant les responsables de paquets sur des référentiels tels que PyPI et NPM, où les attaquants ont utilisé de faux e-mails qui semblaient être des notifications légitimes.\nMessages envoyés aux collaborateurs à partir du catalogue de modules complémentaires sur addons.mozilla.org (AMO), invité à mettre à jour les informations de profil pour maintenir l'accès aux fonctions du catalogue. Cependant, Les liens comprenaient des formulaires de connexion qui menaient à un faux site, qui redirigeait les requêtes vers le domaine officiel, simulant un accès légitime.\nMozilla a souligné que les seuls domaines sûrs pour saisir les informations d'identification Ce sont mozilla.org et firefox.com, et toute variation, comme l'utilisation de « mozila » au lieu de « mozilla », doit être considérée comme suspecte. Le forum Mozilla a même commencé à recevoir des signalements de développeurs concernés, notamment concernant le module complémentaire « modern twp », qui a été compromis, sans plus de détails.\nComment éviter d'être victime de phishing sur AMO\nAfin de minimiser les problèmes, Mozilla a fait une publication, dans lequel il insiste sur le fait que la meilleure défense est la prudence. Dans votre message recommande de vérifier que tout e-mail provient de domaines Mozilla légitimes, confirmer qu'il passe les validations de sécurité techniques telles que SPF, DKIM et DMARC, et assurez-vous que les liens pointent uniquement vers des adresses officiellesNéanmoins, la solution la plus sûre consiste à accéder manuellement aux sites Mozilla à partir de votre navigateur plutôt que de cliquer sur les liens dans les e-mails.\nFermeture des opérations de Mozilla Chine\nEn parallèle à cette alerte de sécurité, Mozilla Chine a confirmé la fermeture de ses services. pour les utilisateurs de Firefox dans le pays. Depuis le 27 juillet, les inscriptions aux versions chinoises des comptes Firefox et de la communauté Firefox sont suspendues., ainsi que la publication de messages et de commentaires sur le forum.\nLa date clé sera le 29 septembre 2025, date à laquelle le service fermera officiellement et définitivement. À partir de ce moment, les informations de navigation ne seront plus synchronisées ni stockées. Les données déjà synchronisées continueront d'être stockées chiffrées sur les serveurs, mais ne seront plus mises à jour et seront supprimées à la même date.\nMozilla recommande aux utilisateurs de se connecter dès que possible pour garantir que tous les les informations importantes sont enregistrées localement sur leurs appareils. Un guide détaillé a également été mis à disposition pour sauvegarder les données avant la fermeture.\nLe site web communautaire Firefox en Chine (www.mozilla.com.cn) a également cessé d'accepter les inscriptions, les publications et les commentaires. Les membres disposant de contenus ou d'informations pertinents sur cette plateforme ont jusqu'au 29 septembre 2025 pour télécharger ou sauvegarder leurs informations, car le service sera définitivement fermé après cette date.\nEnfin, la page d'accueil de Firefox en Chine (home.firefoxchina.cn) cessera les mises à jour de contenu à partir du 29 septembre 2025 à 12h00. À partir de cette date, aucune nouvelle fonctionnalité ne sera proposée et le portail sera inactif, marquant ainsi la fin d'une ère commencée avec le lancement de Firefox à Pékin dans le pays.\nLes Les utilisateurs pourront toujours installer Firefox à partir des pages globales Mozilla et ses partenaires exportent des copies de sauvegarde de leurs données depuis leurs comptes chinois avant leur fermeture définitive. À l'avenir, l'assistance et la maintenance pour les utilisateurs chinois pourraient être assurées par un nouveau partenaire agréé.\nMerci pour votre soutien et votre amour indéfectibles pour Firefox et sa communauté. Nous sommes honorés et reconnaissants d'avoir grandi avec vous au fil des ans. Firefox va mettre en œuvre quelques changements en Chine, notamment la suppression des comptes Firefox Pass et des fonctionnalités de synchronisation, mais le navigateur continuera de fonctionner normalement et sera mis à jour.\nEnfin, si vous souhaitez en savoir plus, vous pouvez consulter les détails dans le lien suivant",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "french",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "topics": [
+    "Crime, Law and Justice->cyber crime",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Social Issue->discrimination",
+    "Social Issue->social networking",
+    "Social Issue->social problem"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [
+    "https://blog.mozilla.org/addons/2025/08/01/warning-phishing-campaign-detected/",
+    "https://www.firefox.com.cn/farewell/",
+    "https://www.blog.mozilla.org/addons/2025/08/01/warning-phishing-campaign-detected/",
+    "https://blog.mozilla.org/addons/2025/08/01/warning-phishing-campaign-detected",
+    "https://firefox.com.cn/farewell/",
+    "https://www.firefox.com.cn/farewell"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T12:02:18.544+03:00",
+  "updated": "2025-08-14T12:07:28.000+03:00"
+}

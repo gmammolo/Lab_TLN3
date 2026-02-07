@@ -1,0 +1,67 @@
+{
+  "thread": {
+    "uuid": "cee753690eef76a2beaf093d7e1af0b978ab6fe6",
+    "url": "https://discuss.huggingface.co/t/download-speeds-slow-on-the-popular-models/84840",
+    "site_full": "discuss.huggingface.co",
+    "site": "huggingface.co",
+    "site_section": "https://discuss.huggingface.co/posts.rss",
+    "site_categories": [],
+    "section_title": "Hugging Face Forums - Latest posts",
+    "title": "Download speeds slow on the popular Models",
+    "title_full": "Download speeds slow on the popular Models",
+    "published": "2024-11-22T01:39:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CO",
+    "main_image": "https://global.discourse-cdn.com/hellohellohello/original/2X/d/de4155eb4aa4108ecb32a1389d7cc37ae69f88b7.png",
+    "performance_score": 0,
+    "domain_rank": 1386,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cee753690eef76a2beaf093d7e1af0b978ab6fe6",
+  "url": "https://discuss.huggingface.co/t/download-speeds-slow-on-the-popular-models/84840",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "@fsommers Frank Sommers",
+  "published": "2024-11-22T01:39:00.000+02:00",
+  "title": "Download speeds slow on the popular Models",
+  "text": "First time installing any AI model and I’m basically just following a simple guide to get stable diffusion 1.5. However, I noticed once command prompt got to the point where it needs to download this model from huggingface, my download speeds drop from the usual 5 mB/s down to like 200 kB/s.\nI did some testing and went on the website itself trying to download the models through my browers and even then, I’m still hitting speeds of 200 kB/s. I noticed that basically every model I try to download on the most liked page was getting these speeds. However, I then tried picking some random models, on less liked pages and my speed shot up, back to my full speed of 5mB/s. Is hugging face throttling downloads on their most popular model/potentially unable to handle the download traffic for their most popular models?\nJust a little concerned about having to wait 6 hours to download any of the well known models. My internet could cut out at any time and maybe I’ll lose all the progress.\nI am getting this too, but its not limited to popular models, my speeds start around 10 mB/s then drop down to 500 kB/s. Upon cancelling and restarting the download i get a speed burst again.\nI’m not sure if it’s my line, an upstream line, or HF’s server, but my connection speed has been dropping at random times today. I’ve tried a few times and it usually works…\nDid others also notice a significant slow-down in download speeds? I’m getting around 10MB/s, which really messes up my workflow (where I’m downloading into virtual machines).",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T02:23:29.336+02:00",
+  "updated": "2024-11-22T02:23:29.336+02:00"
+}

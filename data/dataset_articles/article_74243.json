@@ -1,0 +1,71 @@
+{
+  "thread": {
+    "uuid": "6e99fc0cfa95364a8d075286571c29384abf95fd",
+    "url": "https://contra.com/p/6loFvZN7-twitter-most-likely-regrets-adding-follow",
+    "site_full": "contra.com",
+    "site": "contra.com",
+    "site_section": "https://hn.algolia.com/latest.atom",
+    "site_categories": [],
+    "section_title": "HN's home page",
+    "title": "Twitter (most likely) regrets adding Follow",
+    "title_full": "Twitter (most likely) regrets adding Follow",
+    "published": "2024-11-14T23:47:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "",
+    "main_image": "https://contra.com/api/@internal/open-graph-card/project/WyJQb3J0Zm9saW9Qcm9qZWN0Iiw0NTE2ODUyMV0=",
+    "performance_score": 0,
+    "domain_rank": 77944,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "6e99fc0cfa95364a8d075286571c29384abf95fd",
+  "url": "https://contra.com/p/6loFvZN7-twitter-most-likely-regrets-adding-follow",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Gajus Kuizinas",
+  "published": "2024-11-14T23:47:00.000+02:00",
+  "title": "Twitter (most likely) regrets adding Follow",
+  "text": "I follow 3,468 people on Twitter. https://x.com/kuizinas When I look at my feed, for the vast majority of people, I have no idea why I am following them. There was probably an interesting Tweet I saw from them, or maybe they were mentioned by someone as worth following, etc. Either way, I don't know why this tweet is on my feed. ... and that's a problem. Follow is a weak signal On platforms like Twitter, the primary action is to follow. This starts out well, because as you are getting familiar with the platform, you discover interesting people, you follow them – you know who is who and why you follow them. However, fast forward couple of years and thousands of follows, and your feed is a mix of strangers posting about crypto, crossfit, and whatever other passing trend. It's no longer interesting. It doesn't feel like a feed that's based on your current interests. Contrast \"Follow\" to adding someone to a list. Lists describe the context of why we are following someone. They can be broad (e.g. engineering, entertainment, politics), they can be narrow (e.g. classmates, coworkers), they can be temporal (e.g. 2024 node conference), etc. As your interests evolve, so do your lists. With lists, you also have the context of why you 'follow' someone – so if you see that now their feed is mostly Pepe the Frog, and you've added them because of interesting engineering tidbits, then you know you can remove them from the list without losing much. This is probably why the vast majority of people don't even use the \"Following\" feed. So if lists are so great, why isn't Twitter using them? Lists never had a chance If I had to guess, the primary reason lists never took off is because of low adoption. Low adoption because of bad UX. Have you tried adding someone to a list? Trying lists just once makes me never want to use it again: I need to leave the feed to go to the person's profile 2 clicks just to get to the list (lists are in an unknown order) After creating a list the user wasn't even added to the list 💩 If lists UI was made as simple as how Notion allows you to add tags, we most likely would have seen a far greater adoption of lists. Now, more than ever (thanks to AI), this process can be streamlined by: Sorting existing list suggestions based on the interaction context Suggesting new lists based on the interaction context All said and done, lists could be made as simple and enjoyable to use as \"Follow\" button. But why go through all of this? Lists is a treasure trove of data I already made a point for better end-user experience. However, there is a lot more to the value of lists – lists enable relevant recommendations. Suppose you have 3 users on platform that have their own private lists. John has a list \"Best designers on Earth\" Mike has a list \"Aspirational designers\" Tracy has a list \"People I want to work with\" Although each list has a unique name, they share one key feature: they overlap. In this hypothetical example, within a network of millions, we found three lists with overlapping members. The greater the overlap, the more likely it is that the intent behind each list is similar. Assuming an 80% overlap, with each list containing about 30 people, this is not an unlikely coincidence in a vast network where everyone creates lists. Thus, when several lists overlap significantly, we can reasonably infer that the individuals not yet included in each list are strong candidates for addition to the others. This is a pretty simple, but powerful insight. It means that just by giving people better tools to categorize their own content, we are able to extract insights that will allow to make their experience more relevant to their evolving interests. Social feeds and talent networks Lists have been an integral part of Contra experience for clients. We believe that this is one of the reasons why we have a superior dataset for making better talent recommendations. Meanwhile, Contra Community is our first step towards graduating to a talent network More to come, but my hope is that we can utilize lists to create a community feed that adopts in near real-time to your task at hand, whether that's education, entertainment, networking, or whatever else top of mind, and make it feel magic not just based on your current engagement, but based on the engagement of people in the overlapping lists. This is exciting. The best is yet to come.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Social Issue",
+    "Science and Technology",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/kuizinas",
+    "https://www.x.com/kuizinas"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T01:02:41.676+02:00",
+  "updated": "2024-11-15T01:02:41.676+02:00"
+}

@@ -1,0 +1,84 @@
+{
+  "thread": {
+    "uuid": "3b855bce8dcbe24fa1bf2a12fa04c0cdb5f2fc5c",
+    "url": "https://wccftech.com/openai-deleted-chatgpt-training-data",
+    "site_full": "wccftech.com",
+    "site": "wccftech.com",
+    "site_section": "https://en.gamerslive.fr",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Gamerslive.EN - English | Step into the gaming world !",
+    "title": "OpenAI Accidentally Deletes ChatGPT Training Data Amid Publisher Copyright Claims, Sparking Concerns Ove…",
+    "title_full": "OpenAI Accidentally Deletes ChatGPT Training Data Amid Publisher Copyright Claims, Sparking Concerns Ove…",
+    "published": "2024-11-22T08:29:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.wccftech.com/wp-content/uploads/2024/11/OpenAI.jpg",
+    "performance_score": 0,
+    "domain_rank": 4174,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "3b855bce8dcbe24fa1bf2a12fa04c0cdb5f2fc5c",
+  "url": "https://wccftech.com/openai-deleted-chatgpt-training-data",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ali Salman",
+  "published": "2024-11-22T08:29:00.000+02:00",
+  "title": "OpenAI Accidentally Deletes ChatGPT Training Data Amid Publisher Copyright Claims, Sparking Concerns Ove…",
+  "text": "OpenAI has been in a bit of controversy with the press, as The New York Times and the Daily News have sued the AI giant and its investors, claiming that ChatGPT was trained using their copyrighted content. The lawyers' research data, that went into training, was deleted by OpenAI engineers, supposedly by accident. The move potentially deleted the evidence The New York Times lawyers acquired against OpenAI. OpenAI claims it accidentally deleted the ChatGPT training data after publishers filed for copyright violations OpenAI is advancing rapidly in developing AI for businesses but faces obstacles to achieving a major breakthrough, while Apple's cautious approach is keeping Apple Intelligence steady. Each major tech giant aims to make a mark in the field and train its AI models using copyrighted data. We have previously covered how AI companies not only used the textual data, but also used YouTube videos, including MKBHD videos , to train their AI models. OpenAI previously agreed to open its AI platform for The New York Times and Daily News in an attempt for them to search for their own copyrighted material in the AI training sets. The publishers' experts spent a hefty amount of time curating the data that OpenAI had used to train ChatGPT since early November. While evidence could have supported the publishers' claims, OpenAI accidentally erased relevant data sets that went into training ChatGPT. Kyle Wiggers from TechCrunch states: Earlier this fall, OpenAI agreed to provide two virtual machines so that counsel for The Times and Daily News could perform searches for their copyrighted content in its AI training sets…In a letter, attorneys for the publishers say that they and experts they hired have spent over 150 hours since November 1 searching OpenAI’s training data. But on November 14, OpenAI engineers erased all the publishers’ search data stored on one of the virtual machines, according to the aforementioned letter, which was filed in the U.S. District Court for the Southern District of New York late Wednesday. To put it simply, OpenAI is accused of deleting the evidence or research conducted by the experts from The New York Times. You can check out the letter published online for more details. OpenAI was able to retrieve the deleted data but in a format that can not be used legally, making it unsuitable in the case of copyrighted material. It remains to be seen how the publishers will respond to the mishap and if any additional measures in the pipeline could allow them to proceed with their claims. As mentioned earlier, it remains to be seen how the legal teams pursue their case against OpenAI and possibly other tech giants for copyrighted material. We will keep you posted on the latest updates on the story, so be sure to stick around.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.0.pdf",
+    "https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/",
+    "https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit",
+    "https://www.techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/",
+    "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.0.pdf"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "New York Times",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Apple",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T08:32:44.583+02:00",
+  "updated": "2024-11-22T08:32:44.583+02:00"
+}

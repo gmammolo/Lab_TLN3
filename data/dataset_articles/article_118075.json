@@ -1,0 +1,119 @@
+{
+  "thread": {
+    "uuid": "0e8a8155c290eb8bf2f336eaf192d21813b5cca6",
+    "url": "https://www.bta.bg/en/news/sport/978926-poor-conditions-for-mountain-hiking-on-thursday-hurricane-force-winds-at-botev-",
+    "site_full": "www.bta.bg",
+    "site": "bta.bg",
+    "site_section": "https://www.bta.bg/en/news/culture",
+    "site_categories": [
+      "media",
+      "tennis",
+      "sports",
+      "top_news_bg",
+      "top_news"
+    ],
+    "section_title": "BTA :: Culture",
+    "site_title": "БТА :: Начало",
+    "title": "Poor Conditions for Mountain Hiking on Thursday, Hurricane-force Winds at Botev Peak",
+    "title_full": "Poor Conditions for Mountain Hiking on Thursday, Hurricane-force Winds at Botev Peak",
+    "published": "2025-10-02T09:35:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "BG",
+    "main_image": "https://www.bta.bg/upload/9510085/1000004506.jpg?l=750",
+    "performance_score": 0,
+    "domain_rank": 32878,
+    "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0e8a8155c290eb8bf2f336eaf192d21813b5cca6",
+  "url": "https://www.bta.bg/en/news/sport/978926-poor-conditions-for-mountain-hiking-on-thursday-hurricane-force-winds-at-botev-",
+  "ord_in_thread": 0,
+  "author": "Momchil Rusev",
+  "published": "2025-10-02T09:35:00.000+03:00",
+  "title": "Poor Conditions for Mountain Hiking on Thursday, Hurricane-force Winds at Botev Peak",
+  "text": "site.btaPoor Conditions for Mountain Hiking on Thursday, Hurricane-force Winds at Botev Peak\nThe conditions for mountain hiking are poor on Thursday morning, the Mountain Rescue Service with the Bulgarian Red Cross reported. Hurricane-force winds blow on Botev Peak.\nThe weather is cloudy, foggy with snowfall in the higher parts of the mountains. Temperatures at the resorts vary between 1C and 5C. The facilities are not operational.\nThe National Institute of Meteorology and Hydrology's mountain weather forecast for Thursday: cloudy, windy with rain showers and snow. Moderate to strong easterly-southeasterly wind. Wet snow will fall, snow cover will begin to form, and conditions will be favorable for accumulation on foliage, breaking branches and trees. Highs: around 5C at 1,200 metres, around minus 1 at 2,000 metres.\n/MR/\nnews.modal.header\nnews.modal.text",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Weather",
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Weather->weather warning",
+    "Disaster and Accident->emergency response",
+    "Disaster and Accident->natural disaster"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "National Institute of Meteorology and Hydrology",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Mountain Rescue Service",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Red Cross",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_bg",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-10-02T10:43:13.807+03:00",
+  "updated": "2025-10-02T10:47:34.000+03:00"
+}

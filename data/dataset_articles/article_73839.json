@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "ec948e4c579973df3bbe35ae1fa3c623e4cd4ae1",
+    "url": "https://jvn.jp/en/jp/JVN36791327",
+    "site_full": "jvn.jp",
+    "site": "jvn.jp",
+    "site_section": "https://jvn.jp/en/rss/jvn.rdf",
+    "site_categories": [],
+    "section_title": "JVNRSS Feed - Update Entry",
+    "title": "Multiple vulnerabilities in FitNesse",
+    "title_full": "Multiple vulnerabilities in FitNesse",
+    "published": "2024-11-14T20:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "JP",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 56649,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "ec948e4c579973df3bbe35ae1fa3c623e4cd4ae1",
+  "url": "https://jvn.jp/en/jp/JVN36791327",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "jvn@jvn.jp",
+  "published": "2024-11-14T20:00:00.000+02:00",
+  "title": "Multiple vulnerabilities in FitNesse",
+  "text": "Published:2024/11/15 Last Updated:2024/11/15\nJVN#36791327\nMultiple vulnerabilities in FitNesse\nOverview\nFitNesse provided by unclebob contains multiple vulnerabilities.\nProducts Affected\n- FitNesse releases prior to 20241026\nDescription\nFitNesse provided by unclebob contains multiple vulnerabilities listed below due to responder plugin configuration.\nImpact\n- An arbitrary script may be executed on the web browser of the user who is using the product (CVE-2024-39610)\n- An attacker may be able to know whether a file exists at a specific path, and/or obtain some part of the file contents under specific conditions (CVE-2024-42499)\nSolution\nUpdate the software\nUpdate the software to the latest version according to the information provided by the developer.\nThe developer fixed the vulnerability in the following version:\n- FitNesse release 20241026\nVendor Status\nVendor | Link |\nunclebob |\n|\nFitNess Official releaseReferences\nJPCERT/CC Addendum\nVulnerability Analysis by JPCERT/CC\nCredit\nTakeshi Kaneko of GMO Cybersecurity by Ierae, Inc. reported these vulnerabilities to IPA.\nJPCERT/CC coordinated with the developer under Information Security Early Warning Partnership.\nOther Information\nJPCERT Alert |\n|\nJPCERT Reports |\n|\nCERT Advisory |\n|\nCPNI Advisory |\n|\nTRnotes |\n|\nCVE |\n|",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://fitnesse.org/FitNesseDownload",
+    "https://www.fitnesse.org/FitNesseDownload"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Takeshi Kaneko",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T06:08:58.531+02:00",
+  "updated": "2024-11-15T06:08:58.531+02:00"
+}

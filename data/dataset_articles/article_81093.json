@@ -1,0 +1,111 @@
+{
+  "thread": {
+    "uuid": "a634c6b953c1a5b61f8109c19943282dba4a5802",
+    "url": "https://thenewstack.io/rust-gets-security-wasi-0-2-support-productivity-boost",
+    "site_full": "thenewstack.io",
+    "site": "thenewstack.io",
+    "site_section": "https://thenewstack.io/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "The New Stack",
+    "title": "Rust Gets Security, WASI 0.2 Support, Productivity Boost",
+    "title_full": "Rust Gets Security, WASI 0.2 Support, Productivity Boost",
+    "published": "2024-04-11T23:38:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IO",
+    "main_image": "https://cdn.thenewstack.io/media/2024/04/04664df4-david-boca-5ghpv7ol5ui-unsplash-1.jpg",
+    "performance_score": 0,
+    "domain_rank": 8455,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "a634c6b953c1a5b61f8109c19943282dba4a5802",
+  "url": "https://thenewstack.io/rust-gets-security-wasi-0-2-support-productivity-boost",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Darryl K. Taft",
+  "published": "2024-04-11T23:38:00.000+03:00",
+  "title": "Rust Gets Security, WASI 0.2 Support, Productivity Boost",
+  "text": "Rust Gets Security, WASI 0.2 Support, Productivity Boost\nAs the adoption of the\nRust programming language continues to rise, new challenges as well as advances have also arisen, including security issues, use with WebAssembly (WASM) and productivity benefits.\nThis week, the Rust team released Rust 1.77.2 to address a\ncritical vulnerability, identified as CVE-2024-24576. The vulnerability affects the Rust standard library on Windows when invoking batch files using the Command API with untrusted arguments. An attacker could potentially execute arbitrary shell commands by bypassing the argument escaping.\nThe vulnerability is considered critical for developers using batch files on Windows with untrusted arguments. No other platforms or use cases are affected. However, all Rust versions before 1.77.2 on Windows are affected if the code or its dependencies execute batch files with untrusted arguments.\nThe issue stems from the complex argument-splitting logic of cmd.exe on Windows, which required the standard library to implement custom escaping for arguments passed to batch files. However, the escaping logic was found to be insufficient, the Rust Security Response Working Group wrote in a\nsecurity advisory blog post.\nAs a mitigation, the Rust team improved the robustness of the escaping code and modified the Command API to return an InvalidInput error when it cannot safely escape an argument. The fix is included in Rust 1.77.2.\nRust for WebAssembly\nMeanwhile, the Rust team has begun implementing first-class support for WebAssembly System Interface (WASI) 0.2 in the form of a dedicated new target, wrote\nYosh Wuyts, a Rust developer advocate at Microsoft, in a post on the Rust Blog.\nThis is important because Rust continues to be one of the best programming languages for\nbuilding WebAssembly applications and supporting infrastructure.\nRust 1.78, which will be available on May 2, will introduce new\nwasm32-wasip1 (tier 2) and\nwasm32-wasip2 (tier 3) targets.\nwasm32-wasip1 is an effective rename of the existing wasm32-wasi target, freeing the target name up for an eventual WASI 1.0 release.\n“Starting [with] Rust 1.78, users of WASI 0.1 are encouraged to begin migrating to the new\nwasm32-wasip1 target before the existing\nwasm32-wasi target is removed in Rust 1.84 (January 5th, 2025),” Wuyts wrote.\nMoreover, “After nearly five years of work the\nWASI 0.2 specification was recently stabilized,” Wuyts noted. “This work builds on WebAssembly Components (think: strongly-typed ABI for Wasm), providing standard interfaces for things like asynchronous IO, networking, and HTTP. This will finally make it possible to write asynchronous networked services on top of WASI, something which wasn’t possible using WASI 0.1.”\nRust Provides Two Times the Productivity of C++\nMeanwhile, in a recent talk,\nLars Bergstrom, director of engineering at\nSpeaking at the\nRust Nation UK Conference in late March, Bergstrom said Google was “looking at comparing our rewrites of C++ code into Rust. And in every case, we’ve seen a decrease by more than 2x in the amount of effort required to both build the services in Rust, as well as maintain and update those services written in Rust. And so that’s a really huge thing for us because C++ code is very expensive…”\nIn February, Google\npledged $1 million to the Rust Foundation to improve the interoperability between the C++ and Rust programming languages. The goal of the effort is to get organizations to slowly migrate C++ code to Rust, according to The Rust Foundation.\n“While Rust may not be suitable for all product applications, prioritizing seamless interoperability with C++ will accelerate wider community adoption, thereby aligning with the industry goals of improving memory safety,” Bergstrom wrote in a\nblog post. In addition to being a director of engineering at Google, Bergstrom is both the Google director for the Android platform tools and libraries as well as the chair of the Rust Foundation Board.\nRust and Memory Safety\nBergstrom said the industry has grown aware of the challenges of using non-memory-safe languages, including\nwarnings from the White House.\n“Now, I do want to admit unsafe code, we need to do more about it,” he said. “But I worry about unsafe code in the same way that my Java teams worry about JNI [Java Native Interface] code, in the same way, that my teams who are writing web services worry about the virtual machine and runtime — we always need to be improving the quality of the entire software stack…”\nIn February, the White House\nOffice of the National Cyber Director (ONCD) issued a recommendation that software development organizations begin to use memory-safe languages such as Rust for application and systems development, citing Rust as “one example of a memory-safe programming language.”\nBusting Rust Myths\nLast year, Bergstrom and\nKathy Brennan, a low-level Operating Systems Sr. User Experience Researcher, wrote a blog post debunking and confirming many of the common myths about Rust based on surveys of Google’s Rust developers — which roughly aligned with his talk at the Rust Nation UK event.\nOne thing the post confirmed is that Rust enables developers to deliver high-quality code.\n“Android’s experience with Rust has been excellent. My team built the first major component keystore which is a medium-sized component with significant concurrency,” Bergstrom said in his talk. “We’re now three years in and it has been basically flawless. For those of you who haven’t worked in production commercial software, the words ‘basically flawless’ and systems code do not usually appear in the same sentence.”\nHe added that more than half of the developers surveyed found Rust code easier to review compared to code in other languages, and 85% felt more confident in the correctness of their team’s Rust code compared to code in other languages.\nBergstrom also noted that Rust is not difficult to learn — unlike its reputation as being hard.\nHe said surveys of Google developers show that it takes about two months for them to become sufficiently productive in Rust, similar to the time it takes for Java developers to become productive in\nKotlin — which is another effort Google is undergoing.\n“We have a similar migration going on in the Java ecosystem where we’re moving people from Java to Kotlin,” Bergstrom said. “And the number that we use at Google to reflect about how long it takes us to take a Java developer and get them contributing to Kotlin is eight weeks.”\nMoreover, Bergstrom noted that developers typically feel as productive in Rust as they were in their previous languages –C++, Java,\nPython, Go — within four months. ",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [
+    "https://www.blog.rust-lang.org/2024/04/09/cve-2024-24576.html",
+    "https://news.microsoft.com/",
+    "https://www.github.com/yoshuawuyts",
+    "https://youtube.com/thenewstack?sub_confirmation=1",
+    "https://rustfoundation.org/",
+    "https://linkedin.com/in/lars-a-bergstrom/",
+    "https://wasi.dev/",
+    "https://www.linkedin.com/in/lars-a-bergstrom",
+    "https://www.blog.rust-lang.org/2024/04/09/updates-to-rusts-wasi-targets.html",
+    "https://www.cve.org/CVERecord?id=CVE-2024-24576",
+    "https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html",
+    "https://www.security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html",
+    "https://cve.org/CVERecord?id=CVE-2024-24576",
+    "https://www.doc.rust-lang.org/std/process/struct.Command.html",
+    "https://www.linkedin.com/in/lars-a-bergstrom/",
+    "https://www.youtube.com/live/6mZRWFQRvmw",
+    "https://security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html",
+    "https://blog.rust-lang.org/2024/04/09/updates-to-rusts-wasi-targets.html",
+    "https://youtube.com/live/6mZRWFQRvmw?feature=shared&t=26575",
+    "https://doc.rust-lang.org/std/process/struct.Command.html",
+    "https://news.microsoft.com/?utm_content=inline+mention",
+    "https://twitter.com/knbrennan",
+    "https://github.com/yoshuawuyts",
+    "https://www.news.microsoft.com/?utm_content=inline+mention",
+    "https://www.youtube.com/live/6mZRWFQRvmw?feature=shared&t=26575",
+    "https://youtube.com/thenewstack",
+    "https://www.rustfoundation.org/",
+    "https://www.component-model.bytecodealliance.org/",
+    "https://www.twitter.com/knbrennan?lang=en",
+    "https://www.wasi.dev/",
+    "https://www.youtube.com/thenewstack?sub_confirmation=1",
+    "https://rustfoundation.org",
+    "https://component-model.bytecodealliance.org/",
+    "https://twitter.com/knbrennan?lang=en",
+    "https://www.cve.org/CVERecord",
+    "https://wasi.dev",
+    "https://component-model.bytecodealliance.org"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T01:58:33.301+03:00",
+  "updated": "2024-04-12T01:58:33.301+03:00"
+}

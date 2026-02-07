@@ -1,0 +1,109 @@
+{
+  "thread": {
+    "uuid": "5c04d813ac39c7514cf543e29ce328487e165ac9",
+    "url": "https://cybersecuritynews.com/breaking-windows-out-of-box-experience/",
+    "site_full": "cybersecuritynews.com",
+    "site": "cybersecuritynews.com",
+    "site_section": "https://news.google.com/search?q=of%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "Google News - Search",
+    "site_title": "Cyber Security News - Computer Security | Hacking News | Cyber Attack News",
+    "title": "Breaking Windows Out-of-Box-Experience to Gain Command Line Access to Windows Machine With Admin Privileges",
+    "title_full": "Breaking Windows Out-of-Box-Experience to Gain Command Line Access to Windows Machine With Admin Privileges",
+    "published": "2025-08-14T08:32:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYxDzftD0qwYHvUgTTX-yajuWPRGfPMKg56ZCWMQlo1XqdBdM3HsxS0oSzLQv6o0Wa0udcxP-jR3KPg1-EooZozHxsLaLPvHq1mYSCvYP4PGk8A-POkqIQFxDMIzKZn6G-_49n67BcJX8kRz_8yz9EfUYT_69PA4F3rvbLMsmyDkWYsAsjRexON2tgAFs/s16000/Breaking%20Windows%20Out-of-Box%20(1).webp",
+    "performance_score": 0,
+    "domain_rank": 35499,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "5c04d813ac39c7514cf543e29ce328487e165ac9",
+  "url": "https://cybersecuritynews.com/breaking-windows-out-of-box-experience/",
+  "ord_in_thread": 0,
+  "author": "Florence Nightingale",
+  "published": "2025-08-14T08:32:00.000+03:00",
+  "title": "Breaking Windows Out-of-Box-Experience to Gain Command Line Access to Windows Machine With Admin Privileges",
+  "text": "A new method has been identified to exploit Windows Out-of-Box-Experience (OOBE) that bypasses existing protections and grants administrative command line access to Windows machines.\nThis technique works even when Microsoft’s recommended security measure, the DisableCMDRequest.tag file, is implemented to block the well-known Shift + F10 keyboard shortcut vulnerability.\nThe discovery highlights persistent security gaps in Windows’ initial setup process that could allow unauthorized users to gain elevated privileges and create backdoor accounts on corporate devices.\nKey Takeaways\n1. New Win + R exploit bypasses Windows OOBE security protections.\n2. Grants full Administrator access via defaultuser0 account during setup.\n3. Microsoft won't fix; only mitigation is hiding Intune reset buttons.\nWin + R OOBE Bypass Kanbach reports that the method leverages the Win + R keyboard combination to spawn a hidden Run dialogue during the OOBE process, circumventing traditional security controls.\nUnlike the widely documented Shift + F10 technique, this approach requires a specific sequence of actions to execute successfully.\nThe exploitation process begins by opening an accessibility tool such as Magnify.exe to establish proper window focus.\nOnce the Magnify window is active, pressing Win + R launches the Run dialogue, though it remains hidden in the background.\nWin + R OOBE Bypass Users can reveal its presence by using Alt + Tab to cycle through available windows. The critical vulnerability lies in the fact that this dialogue operates under the context of defaultuser0, a temporary administrative account that Windows creates during OOBE with full local Administrator group privileges.\nTo escalate privileges further, attackers can type cmd.exe into the Run dialogue and press Ctrl + Shift + Enter to trigger User Account Control (UAC) consent elevation.\nWhen the UAC prompt appears and is accepted, an elevated command prompt opens with administrative privileges, enabling attackers to execute arbitrary system modifications, create backdoor accounts, or alter security configurations.\nMicrosoft’s Response This OOBE breakout method poses significant security risks, particularly in enterprise environments where users can initiate device resets through Microsoft Intune Company Portal.\nThe vulnerability allows low-privileged domain users to effectively gain local administrative access by simply performing a push-button reset and exploiting the OOBE interface.\nMicrosoft has declined to address this security issue, stating that OOBE inherently runs in an administrative session and that leaving devices unattended during setup is equivalent to leaving machines unlocked.\nThe company’s position treats this as an operational security concern rather than a software vulnerability requiring patching.\nThe primary mitigation strategy involves preventing users from accessing OOBE entirely by hiding the reset button in the Microsoft Intune admin center under Tenant administration > Customization.\nAdministrators should enable the Hide reset button on corporate Windows devices setting to prevent unauthorized device resets.\nHowever, this represents an incomplete solution that addresses symptoms rather than the underlying architectural security weakness in Windows’ setup process.\nBoost your SOC and help your team protect your business with free top-notch threat intelligence: Request TI Lookup Premium Trial .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Crime, Law and Justice->cyber crime"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://blog.kanbach.org/post/windows-oobe-breakout-revived/",
+    "https://intelligence.any.run/plans/",
+    "https://blog.kanbach.org/post/windows-oobe-breakout-revived",
+    "https://www.intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+    "https://www.blog.kanbach.org/post/windows-oobe-breakout-revived/"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": "MSFT",
+            "exchange": "NASDAQ"
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "5c04d813ac39c7514cf543e29ce328487e165ac9",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:14:12.370+03:00",
+  "updated": "2025-08-14T09:32:00.686+03:00"
+}

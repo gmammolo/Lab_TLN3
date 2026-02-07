@@ -1,0 +1,75 @@
+{
+  "thread": {
+    "uuid": "2cadc9b5b659be620a2320d37ab9975a88a01c6d",
+    "url": "https://www.tomshw.it/hardware/bing-wallpaper-e-un-vero-incubo-per-la-sicurezza-e-la-privacy-2024-11-22",
+    "site_full": "www.tomshw.it",
+    "site": "tomshw.it",
+    "site_section": "https://www.tomshw.it/feed",
+    "site_categories": [
+      "travel",
+      "italy"
+    ],
+    "section_title": "",
+    "title": "Bing Wallpaper è un vero incubo per la sicurezza e la privacy",
+    "title_full": "Bing Wallpaper è un vero incubo per la sicurezza e la privacy",
+    "published": "2024-11-22T12:06:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://www.tomshw.it/storage/media/2024/11/42057/Bing-Wallpaper.png",
+    "performance_score": 0,
+    "domain_rank": 27080,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2cadc9b5b659be620a2320d37ab9975a88a01c6d",
+  "url": "https://www.tomshw.it/hardware/bing-wallpaper-e-un-vero-incubo-per-la-sicurezza-e-la-privacy-2024-11-22",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Luca Zaninello (nello92luca@gmail.com)",
+  "published": "2024-11-22T12:06:00.000+02:00",
+  "title": "Bing Wallpaper è un vero incubo per la sicurezza e la privacy",
+  "text": "Microsoft ha recentemente lanciato una nuova applicazione chiamata Bing Wallpaper, disponibile sul Windows Store, che promette di cambiare automaticamente lo sfondo del desktop ogni giorno con immagini selezionate. Tuttavia, questa app sembra nascondere delle funzionalità decisamente invasive e problematiche per la sicurezza e la privacy degli utenti.\nSecondo l'analista e sviluppatore Rafael Rivera, noto per le sue competenze di \"reverse engineering\", l'app Bing Wallpaper rappresenta \"un incubo per la sicurezza degli utenti\". Rivera ha scoperto che l'applicazione installa automaticamente Bing Visual Search e contiene codice per decifrare i cookie salvati in altri browser. Include anche una API di geolocalizzazione, rendendola potenzialmente pericolosa.\nInoltre, Rivera ha rivelato che l'app cerca di modificare le impostazioni del browser degli utenti, tentando di impostare Edge come browser predefinito. Se non è possibile, apre il browser predefinito dell'utente chiedendo di abilitare l'estensione Microsoft Bing Search per Chrome, precedentemente installata.\nNei dettagli tecnici forniti da Rivera si include anche una lista di estensioni che gli utenti dovrebbero bloccare nei loro browser Chrome o Firefox, descrivendo Bing Wallpaper come un'applicazione \"malevola\". Inoltre, ha indicato una chiave di registro che potrebbe forzare l'applicazione a \"autodistruggersi\", una funzionalità curiosa che dimostra la gravità delle problematiche riscontrate.\nL'applicazione ha ricevuto un'accoglienza nettamente negativa da parte degli utenti, che hanno espresso commenti critici su X. Alcuni utenti hanno persino suggerito una possibile azione legale collettiva contro Microsoft, sottolineando che quando il servizio è gratuito, \"probabilmente il prodotto sei tu\".\nEssendo che Windows 11 include una funzione nativa per cambiare lo sfondo del desktop giornalmente, l'uso di applicazioni ufficiali come Bing Wallpaper appare non solo superfluo ma anche potenzialmente dannoso. Disponibili sul mercato vi sono numerose altre app e programmi privi di adware, come Dynamic Wallpaper, Wallpaper Engine, che offrono funzionalità simili senza compromettere la sicurezza degli utenti.\nUno degli aspetti più personalizzabili di un computer è senza dubbio il suo desktop, elemento che ci accoglie ogni volta che avviamo il sistema. La personalizzazione del desktop non è solo una questione estetica, bensì un riflesso della nostra personalità e delle nostre preferenze.\nAi tempi di Windows 95, la possibilità di cambiare lo sfondo era considerata una novità impressionante. Da allora, questa funzionalità è diventata standard in quasi tutti i sistemi operativi. Con l'avvento di internet e la facilità di accesso alle immagini, gli utenti hanno iniziato a personalizzare i loro desktop con foto personali, opere d'arte digitale e molto altro.\nNel contesto attuale, le applicazioni che cambiano automaticamente lo sfondo del desktop sfruttano questa tendenza all'individualizzazione. Questi programmi, attraverso algoritmi e selezioni curate, offrono agli utenti un nuovo panorama ogni giorno, senza che questi debbano sollevare un dito.\nÈ fondamentale, tuttavia, che tali applicazioni rispettino la privacy e la sicurezza degli utenti. Problemi relativi all’invasività di alcune app potrebbero lasciare gli utenti esposti a rischi non necessari. Pensare che qualcosa di apparentemente innocuo come un’applicazione per sfondi possa diventare uno strumento per compromettere la sicurezza personale è qualcosa che richiede una seria riflessione e vigilanza.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Microsoft",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T13:43:42.333+02:00",
+  "updated": "2024-11-22T13:43:42.333+02:00"
+}

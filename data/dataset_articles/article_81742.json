@@ -1,0 +1,69 @@
+{
+  "thread": {
+    "uuid": "042b6bed654c11ff517058453532370f7665d5c0",
+    "url": "https://www.nature.com/articles/d41586-024-03355-9",
+    "site_full": "www.nature.com",
+    "site": "nature.com",
+    "site_section": "http://feeds.nature.com/nature/rss/aop",
+    "site_categories": [
+      "shopping"
+    ],
+    "section_title": "Nature",
+    "title": "Scientific papers that mention AI get a citation boost",
+    "title_full": "Scientific papers that mention AI get a citation boost",
+    "published": "2024-10-17T08:00:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://media.nature.com/lw1200/magazine-assets/d41586-024-03355-9/d41586-024-03355-9_27702546.jpg",
+    "performance_score": 0,
+    "domain_rank": 108,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "042b6bed654c11ff517058453532370f7665d5c0",
+  "url": "https://www.nature.com/articles/d41586-024-03355-9",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Mariana Lenharo",
+  "published": "2024-10-17T08:00:00.000+03:00",
+  "title": "Scientific papers that mention AI get a citation boost",
+  "text": "Papers with titles or abstracts that mention certain artificial intelligence (AI) methods are more likely to be among the top 5% most-cited works in their field for a given year than are those that don’t reference those techniques, an analysis has found. These papers also tend to receive more citations from outside of their field than do studies that don’t refer to AI terms. But this ‘citation boost’ was not shared equally by all authors. The analysis also showed that researchers from groups that have historically been underrepresented in science don’t get the same bump in citations as their counterparts do when they use AI tools in their work — suggesting that AI could exacerbate existing inequalities . AI and science: what 1,600 researchers think AI and science: what 1,600 researchers think The findings emerged from a study that aimed to quantify the use and potential benefits of AI in scientific research. But the report, published last week in Nature Human Behaviour, also raises concerns. Scientists might be incentivized to use AI purely as a way to increase their citations — regardless of whether the AI tools improve the quality of the work, notes Lisa Messeri, an anthropologist of science and technology at Yale University in New Haven, Connecticut. “We want to make sure that, as we are [investing] in AI, we are not doing that at the deficit of other approaches,” she says. The study also provides a much-needed quantification of how AI is changing scientific research , says Dashun Wang, a co-author of the study, and a computational social scientist who studies the science of science at Northwestern University in Evanston, Illinois. “Now we finally have systematic data,” Wang says, which will be instrumental for addressing disparities related to the use of AI in science. Tracing AI’s rise To measure scientists’ engagement with AI, the authors identified AI-related terms — such as ‘machine learning’ and ‘deep neural network’ — in the abstracts and titles of almost 75 million papers, covering 19 disciplines, that were published from 1960 to 2019. Wang acknowledges that, because of the cut-off date, the study doesn’t capture recent developments in AI, including the rise of large language models such as ChatGPT, which are already changing how some researchers do science . According to the study, scientists in all 19 disciplines have ramped up their use of AI tools over the past two decades (see ‘AI use takes off’). But there is wide variation: computer science, mathematics and engineering have the highest rates of AI use, and history, art and political science have the lowest. The rates for geology, physics, chemistry and biology are in between. To estimate the potential benefits of AI for each discipline, the authors first identified research-related tasks that AI can perform. Then they tracked the rise of these capabilities over time by detecting certain verb–noun pairs, such as ‘analyse data’ and ‘generate image’, in publications about AI between 1960 and 2019. By looking at how much these terms in AI-related publications overlapped with the basic tasks of a given research field over time, the researchers were able to assess whether AI’s capabilities could meet the evolving needs of that field. Again, computer science, maths and engineering were associated with the highest potential benefits, and history, art and political science with the lowest. Marinka Zitnik, a specialist in biomedical informatics at Harvard Medical School in Boston, Massachusetts, says that the paper’s approach is interesting because it allows for a systematic analysis across several scientific disciplines. But it comes with limitations. “Because the authors wanted to do a very broad, systematic study, that meant that they were not able to necessarily go into a very intricate understanding behind why a specific verb or noun would appear in a paper,” she says. Just because certain verbs and nouns occur together in a paper, it does not mean that, if AI can perform the task described, it will necessarily be useful for that field, she notes.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:25:58.730+03:00",
+  "updated": "2024-10-18T05:35:32.391+03:00"
+}

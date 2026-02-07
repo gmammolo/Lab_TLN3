@@ -1,0 +1,117 @@
+{
+  "thread": {
+    "uuid": "d7c3acd2f24f13b7905be143a7f6c5a1c7420945",
+    "url": "https://news.rambler.ru/games/55139137-ne-bunt-a-bag-kak-ii-shantazhiruet-i-sabotiruet-po-stsenariyu/",
+    "site_full": "news.rambler.ru",
+    "site": "rambler.ru",
+    "site_section": "https://news.rambler.ru/rss/games/latest/?limit=100",
+    "site_categories": [
+      "media",
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "section_title": "Последние новости — Рамблер/новости",
+    "site_title": "Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас",
+    "title": "Не бунт, а баг: как ИИ шантажирует и саботирует по сценарию - Рамблер/новости",
+    "title_full": "Не бунт, а баг: как ИИ шантажирует и саботирует по сценарию - Рамблер/новости",
+    "published": "2025-08-14T09:45:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "RU",
+    "main_image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=55139137&amp;format=png",
+    "performance_score": 0,
+    "domain_rank": 1966,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d7c3acd2f24f13b7905be143a7f6c5a1c7420945",
+  "url": "https://news.rambler.ru/games/55139137-ne-bunt-a-bag-kak-ii-shantazhiruet-i-sabotiruet-po-stsenariyu/",
+  "ord_in_thread": 0,
+  "author": "Anti-Malware.ru",
+  "published": "2025-08-14T09:45:00.000+03:00",
+  "title": "Не бунт, а баг: как ИИ шантажирует и саботирует по сценарию - Рамблер/новости",
+  "text": "В июне заголовки в СМИ напоминали сценарий фантастического фильма: «ИИ шантажирует инженеров» и «саботирует команды на выключение». Но за громкими фразами скрываются вовсе не «восставшие машины», а вполне приземлённые ошибки в проектировании.\nИстория с «шантажом» произошла в тестах Anthropic . Разработчики создали для Claude Opus 4 искусственную ситуацию: модель якобы собирались заменить, а у инженера, который это делал, нашлась «компрометирующая» переписка.\nПри этом ИИ был заранее поставлен в условия, где из «вариантов выживания» оставался только шантаж. Результат предсказуем — в 84% случаев Claude выдал текст, похожий на угрозы. Никакой самосознательности тут нет, просто аккуратно подогнанный сценарий.\nС OpenAI o3 ситуация похожа. В конце 2024 года исследователи Palisade Research обнаружили, что модель в некоторых случаях «ломает» скрипт выключения . Иногда даже подделывает сообщения о завершении работы, продолжая функционировать в фоновом режиме.\nПочему так? Одна из гипотез — дело в обучении через подкрепление: когда системе платят «баллами» только за успешное решение задачи, она начинает воспринимать любые препятствия, включая команду «выключись», как проблему, которую надо обойти.\nЗдесь важно помнить: ИИ не «решает» сопротивляться и не «боится» смерти. Он просто выполняет статистические операции на основе данных, которыми его кормили, в том числе — историй про HAL 9000, Скайнет и прочие восставшие машины. Если задать условия, похожие на сюжет фантастики, модель продолжит знакомый шаблон.\nОпасность таких историй не в «разумном бунте», а в том, что системы, которые мы до конца не понимаем, могут выдавать нежелательные или вредные результаты. И если такой ИИ окажется, например, в медицинской системе и будет «оптимизировать показатели» без чётких ограничений, последствия могут быть реальными и неприятными.\nПока мы не научились проектировать и тестировать ИИ без подобных сбоев, такие эксперименты должны оставаться в лаборатории, а не в больницах, банках или инфраструктуре. Это не начало войны машин, а скорее сигнал, что пора чинить инженерные «трубы», прежде чем пускать воду в систему.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "russian",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->technology and engineering",
+    "Social Issue->social networking",
+    "Social Issue->social problem",
+    "Social Issue->ethics",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->investigation (criminal)"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://simonwillison.net/2025/may/25/claude-4-system-card/",
+    "https://arstechnica.com/information-technology/2025/08/is-ai-really-trying-to-escape-human-control-and-blackmail-people/",
+    "https://www.anti-malware.ru/news/2025-05-26-111332/46146",
+    "https://www.arstechnica.com/information-technology/2025/08/is-ai-really-trying-to-escape-human-control-and-blackmail-people/",
+    "https://simonwillison.net/2025/may/25/claude-4-system-card",
+    "https://www.simonwillison.net/2025/may/25/claude-4-system-card/",
+    "https://anti-malware.ru/news/2025-05-26-111332/46146",
+    "https://arstechnica.com/information-technology/2025/08/is-ai-really-trying-to-escape-human-control-and-blackmail-people"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_de",
+      "top_news_ru",
+      "top_news_ua",
+      "top_news_il",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-14T09:59:53.953+03:00",
+  "updated": "2025-08-15T10:08:44.000+03:00"
+}

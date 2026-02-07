@@ -1,0 +1,87 @@
+{
+  "thread": {
+    "uuid": "1002ab6fa39b8aca557738161ccf6c81ed00678c",
+    "url": "https://www.infosecurity-magazine.com/news/manufacturing-advanced-email",
+    "site_full": "www.infosecurity-magazine.com",
+    "site": "infosecurity-magazine.com",
+    "site_section": "https://www.infosecurity-magazine.com/news",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "\r\n\tInformation Security and IT Security News - Infosecurity Magazine\r\n",
+    "title": "Manufacturing Sector in the Crosshairs of Advanced Email Attacks - Infosecurity Magazine",
+    "title_full": "Manufacturing Sector in the Crosshairs of Advanced Email Attacks - Infosecurity Magazine",
+    "published": "2024-11-22T11:15:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://assets.infosecurity-magazine.com/webpage/og/008a2942-f04a-44a0-8482-4eb28ae8fcf0.jpg",
+    "performance_score": 0,
+    "domain_rank": 5440,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1002ab6fa39b8aca557738161ccf6c81ed00678c",
+  "url": "https://www.infosecurity-magazine.com/news/manufacturing-advanced-email",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "James Coker",
+  "published": "2024-11-22T11:15:00.000+02:00",
+  "title": "Manufacturing Sector in the Crosshairs of Advanced Email Attacks - Infosecurity Magazine",
+  "text": "Advanced email attacks, including phishing and business email compromise (BEC), are surging in the manufacturing sector as cybercriminals target an industry with a low tolerance for downtime.\nPhishing attacks in the sector have surged 83% in the past 12 months, with Generative AI technologies enabling threat actors create greater volumes of sophisticated email attacks.\nMike Britton, CIO at Abnormal Security, told Infosecurity that the spike in phishing activity is partly due to generative AI tools ensuring these messages lack the characteristics most commonly associated with phishing emails, such as poor spelling and grammar.\n“Now, even inexperienced petty criminals can leverage widely accessible tools like ChatGPT to craft perfectly written, personalized, and seemingly realistic emails, making them exponentially more difficult for employees to identify,” he explained.\nBritton added that attackers are now able to use AI to scale and layer in additional specificity and customization into phishing emails at ease, making such attempts “nearly impossible” for legacy email controls, such as secure email gateways, to stop.\nPhishing attacks targeting manufacturers. Source: Abnormal Security Manufacturing Especially Vulnerable to BEC and VEC Attacks The study by Abnormal Security also found that business email compromise (BEC) attacks targeting manufacturing firms increased by 56% from September 2023 to September 2024.\nBEC attacks see threat actors masquerade as trusted parties, such as a senior manager within an organization, often by compromising a legitimate account or using a spoofed email address.\nThese attacks involve significant research and monitoring of the individual and organization’s communication patterns.\nThe researchers said that manufacturing firms are particularly susceptible to BEC attacks due to a low tolerance for downtime in the sector. This means employees more likely to fulfill requests quickly.\nRead now: Manufacturing Firm Loses $60m in BEC Scam\nAdditionally, vendor email compromise (VEC) attacks targeting manufacturing rose by 24% over the same period.\nThese attacks differ from BEC as the threat actors poses as an external third party to dupe their victim into paying phony invoices, updating bank details for future transactions or initiating fraudulent wire transfers.\nAbnormal Security said that VEC attacks can be especially difficult to spot as vendor-client relationships are inherently financial and often managed via email, so requests asking for payment or requesting updates to bank account information may not raise any initial red flags.\nManufacturing firms tend to have complicated supply chains that involve numerous smaller vendors and suppliers.\n“Unfortunately, many of these smaller suppliers often don't run the same level of security as larger organizations. This leads to attackers being able to compromise, spoof, or otherwise leverage the implicit trust that companies have in their supply chain,” said Britton.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fmanufacturing-advanced-email%2f",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fmanufacturing-advanced-email%2f",
+    "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fmanufacturing-advanced-email%2f",
+    "https://www.facebook.com/sharer/sharer.php",
+    "https://x.com/intent/tweet",
+    "https://www.x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fmanufacturing-advanced-email%2f"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Mike Britton",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "BEC",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T11:53:14.610+02:00",
+  "updated": "2024-11-27T12:39:31.786+02:00"
+}

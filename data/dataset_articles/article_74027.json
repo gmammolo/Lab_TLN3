@@ -1,0 +1,102 @@
+{
+  "thread": {
+    "uuid": "01a579b8ca81e6166893bcb4fdd7d44af661344a",
+    "url": "https://www.heise.de/en/news/China-s-cyber-spies-intercept-phone-data-and-calls-from-US-network-operators-10036196.html",
+    "site_full": "www.heise.de",
+    "site": "heise.de",
+    "site_section": "https://www.heise.de/en",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "heise online – IT news, guides and background information | heise online",
+    "title": "China's cyber spies intercept phone data and calls from US network operators | heise online",
+    "title_full": "China's cyber spies intercept phone data and calls from US network operators | heise online",
+    "published": "2024-11-15T10:07:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "DE",
+    "main_image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/5/3/3/2/shutterstock_680078968-76f321e503092ca9.jpg",
+    "performance_score": 0,
+    "domain_rank": 909,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 15
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "01a579b8ca81e6166893bcb4fdd7d44af661344a",
+  "url": "https://www.heise.de/en/news/China-s-cyber-spies-intercept-phone-data-and-calls-from-US-network-operators-10036196.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Frank Schräer",
+  "published": "2024-11-15T10:07:00.000+02:00",
+  "title": "China's cyber spies intercept phone data and calls from US network operators | heise online",
+  "text": "Commercial network operators in the USA such as AT&T and Verizon have fallen victim to Chinese cyber spies. The attackers, supported by the Chinese government, have gained access to customer phone records and data as well as private communication data of politicians and government officials. Even court-authorized wiretaps carried out by police authorities were intercepted. The FBI and the US cyber security agency CISA describe it as a \"comprehensive and significant cyber espionage campaign\".\nAnzeige In doing so, the FBI and CISA (Cybersecurity and Infrastructure Security Agency) have confirmed what had previously become known. At the beginning of October, it was reported that AT&T, Verizon and Co. had allegedly been infiltrated by a Chinese espionage group . The campaign appears to be aimed at information gathering and is considered a potentially catastrophic security breach. This is because the cybercriminals could have had access to network infrastructures for several months or longer.\nTrump and his vice president targeted by spies The joint statement from the FBI and CISA does not provide details on the scope and duration of the cyberattack, but the attackers' connection to the People's Republic of China is mentioned several times. The investigation into the incidents is ongoing and affected victims are being informed. Names are not mentioned, but the cyber spies targeted Donald Trump, who has just been elected US President , and his Vice President-elect J.D. Vance, writes Politico .\nAccording to the report, the cyber spies had access to the phone data of several million Americans, but not every single person was monitored. The attackers were initially looking for around 40 victims to spy on. However, this number has now increased and could even include more than a thousand individuals, according to reports. In total, around 10 telecommunications companies were affected, including Verizon, AT&T and Lumen Technologies.\nFailure in counterintelligence The cybercriminals responsible for the attack are called \"Salt Typhoon\", \"GhostEmperor\" or \"FamousSparrow\". In addition to gaining access to network infrastructures, the attackers also had access to other, more general Internet data. According to information from an entry in the Fraunhofer FKIE Malpedia database , a rootkit for Windows kernels called Demodex was used.\nAnzeige Observers describe this cyberattack on US network operators as a serious error in counterintelligence. After all, government agencies are also affected, so it can be assumed that sensitive data may also have been tapped.\nRead also US network operators apparently targeted by Chinese cybercriminals",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.cisa.gov/news-events/news/joint-statement-fbi-and-cisa-peoples-republic-china-prc-targeting-commercial-telecommunications",
+    "https://malpedia.caad.fkie.fraunhofer.de/actor/ghostemperor",
+    "https://www.politico.com/news/2024/11/13/china-hackers-wiretap-data-telcos-00189445",
+    "https://www.malpedia.caad.fkie.fraunhofer.de/actor/ghostemperor",
+    "https://politico.com/news/2024/11/13/china-hackers-wiretap-data-telcos-00189445",
+    "https://cisa.gov/news-events/news/joint-statement-fbi-and-cisa-peoples-republic-china-prc-targeting-commercial-telecommunications"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Trump",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Verizon",
+        "sentiment": "negative"
+      },
+      {
+        "name": "AT&T",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Infrastructure Security Agency",
+        "sentiment": "none"
+      },
+      {
+        "name": "CISA",
+        "sentiment": "none"
+      },
+      {
+        "name": "FBI",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T11:51:49.838+02:00",
+  "updated": "2024-11-15T11:51:49.838+02:00"
+}

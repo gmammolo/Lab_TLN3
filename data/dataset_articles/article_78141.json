@@ -1,0 +1,110 @@
+{
+  "thread": {
+    "uuid": "fff1c420750b2dd37b1f049902aa8af9c7fdf9e7",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5151685",
+    "site_full": "ec.ltn.com.tw",
+    "site": "ltn.com.tw",
+    "site_section": "https://ltn.com.tw",
+    "site_categories": [
+      "financial_news",
+      "finance",
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "自由時報電子報",
+    "site_title": null,
+    "title": "企業外網遭駭釀個資外洩 專家籲2招提升網站資安 - 自由財經",
+    "title_full": "企業外網遭駭釀個資外洩 專家籲2招提升網站資安 - 自由財經",
+    "published": "2025-08-21T11:16:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "EC",
+    "main_image": "https://img.ltn.com.tw/Upload/business/page/800/2025/08/21/5151685_1.jpg",
+    "performance_score": 3,
+    "domain_rank": 7409,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 31,
+        "comments": 1,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "fff1c420750b2dd37b1f049902aa8af9c7fdf9e7",
+  "url": "https://ec.ltn.com.tw/article/breakingnews/5151685",
+  "ord_in_thread": 0,
+  "author": "自由時報電子報",
+  "published": "2025-08-21T11:16:00.000+03:00",
+  "title": "企業外網遭駭釀個資外洩 專家籲2招提升網站資安 - 自由財經",
+  "text": "相關報告顯示，網站成為最容易被駭客入侵企業的破口。（路透資料照）\n〔記者徐子苓／台北報導〕一般認為駭客常透過社交工程、釣魚郵件來入侵企業，但相關報告顯示，網站反而是最容易被攻擊的破口。Google報告指出，2024年亞太地區已確定初始入侵途徑的案件中，最多（39%）是來自漏洞利用的影響。資安公司卡巴斯基報告也顯示，2023年資安事件中，多數（42%）是因面向大眾的應用程式漏洞所造成。\n今年台灣也有數起駭客入侵的案件即是透過外網，年初，某醫療體系的2醫院院區在同一天遭到勒索病毒攻擊，根據主管機關說法，駭客入侵醫院外網網站後，將病毒傳送到內網主機，再從主機竊取高權限帳密，並派送勒索病毒到電腦，造成設備被加密無法使用。\n請繼續往下閱讀...",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "chinese",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue",
+    "Crime, Law and Justice"
+  ],
+  "topics": [
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->technology and engineering",
+    "Science and Technology->biomedical science",
+    "Social Issue->social problem",
+    "Social Issue->social networking",
+    "Social Issue->demographics",
+    "Crime, Law and Justice->law enforcement",
+    "Crime, Law and Justice->cyber crime",
+    "Crime, Law and Justice->investigation (criminal)"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "trusted_news"
+    ],
+    "top_news": [
+      "top_news_hk",
+      "top_news_nz",
+      "top_news_tw",
+      "top_news"
+    ],
+    "bias": "center",
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T11:33:25.827+03:00",
+  "updated": "2025-08-22T12:10:17.000+03:00"
+}

@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "0505201bd6bc7f67e92d51a26c44a5062693a0d6",
+    "url": "https://www.theregister.com/2024/11/15/on_call/?ref=biztoc.com",
+    "site_full": "www.theregister.com",
+    "site": "theregister.com",
+    "site_section": "https://biztoc.com",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "BizToc",
+    "title": "That hardware will be more reliable if you stop stabbing it all day",
+    "title_full": "That hardware will be more reliable if you stop stabbing it all day",
+    "published": "2024-11-15T10:27:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://regmedia.co.uk/2024/11/15/leonardo_ai_laser_knife.jpg",
+    "performance_score": 0,
+    "domain_rank": 694,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0505201bd6bc7f67e92d51a26c44a5062693a0d6",
+  "url": "https://www.theregister.com/2024/11/15/on_call/?ref=biztoc.com",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Simon Sharwood",
+  "published": "2024-11-15T10:27:00.000+02:00",
+  "title": "That hardware will be more reliable if you stop stabbing it all day",
+  "text": "Knives and lasers don't mix … until they do On Call By the end of the working week, many a tech support worker feels like bashing the hardware with which they work. Which is why The Register each Friday offers a less aggressive outlet for any workplace frustrations that have accumulated, in the form of a fresh instalment of On Call – the reader-contributed column in which you share tech support tales. This week, meet a reader we'll Regomize as \"Lionel\" who told us he once worked on the help desk for one of the world's largest retailers. \"We had just rolled out Laser Radio Terminals to several thousand stores,\" Lionel told On Call, before kindly describing the terminals as \"an early wireless handheld that looked like a laser gun with a screen.\" The devices included a laser barcode scanner that store employees would use to scan incoming stock so it could be registered in point-of-sale systems. The rollout did not go well. \"Despite lots of testing we kept getting calls about the LCD screen failing after as little as a week of use,\" Lionel told On Call. A new round of testing the devices in the mega-retailer's labs could not reproduce the problem, so Lionel was sent to a store to observe how the terminals were being used in the field. \"When I arrived, the store manager escorted me back to the receiving area, complaining the entire way about the 'garbage' we were making them use, and how the old paper-based system was so much better.\" Lionel endured that complaint and settled in to watch the staff wield the terminals. Tech support world record? 8.5 seconds from seeing to fixing Hide the keyboard – it's the only way to keep this software running Yes, your network is down – you annoyed us so much we crashed it Techie took five minutes to fix problem Adobe and Microsoft couldn't solve in two weeks The problem quickly became apparent. \"In those days, you had to open a case of items and scan each of the items inside, and the store staff did this with a box cutter.\" To speed that process, store staff had taped a box cutter to the reader device – so they could open and scan with one hand and one tool. \"This involved slamming the LRT with the attached box cutter into thousands of boxes a day, which inevitably damaged the LCD screens,\" Lionel discovered. He also discovered that 300 other stores in the mega-chain had independently devised the same \"solution.\" And those stores were all ones that had complained about the laser terminal's lousy reliability. Lionel wanted to tell store workers that knives and lasers don't mix. \"I'd like to say we just told everyone to stop taping knives to laser terminals and the problem went away, but that didn't work,\" he told On Call. \"We ended up actually redesigning the LRTs to handle this type of use.\" What's the weirdest hardware modification you've seen – or made to keep users happy? [Click here using whatever tool you feel is appropriate](mailto:oncall@theregister.com) to send On Call an email that tells your tale and we may feature it on a future Friday. ®",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Human Interest"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Lionel",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T11:46:26.516+02:00",
+  "updated": "2024-11-15T11:46:26.516+02:00"
+}

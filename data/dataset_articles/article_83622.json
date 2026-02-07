@@ -1,0 +1,92 @@
+{
+  "thread": {
+    "uuid": "24634bbfb251a015eaaed9d4f71b4c180627c6a2",
+    "url": "https://www.neowin.net/news/ea-publishes-source-code-from-classic-command--conquer-games-for-modders",
+    "site_full": "www.neowin.net",
+    "site": "neowin.net",
+    "site_section": "http://www.neowin.net/news/rss",
+    "site_categories": [
+      "windows",
+      "tech"
+    ],
+    "section_title": "Neowin",
+    "site_title": null,
+    "title": "EA publishes source code from classic Command & Conquer games for modders",
+    "title_full": "EA publishes source code from classic Command & Conquer games for modders",
+    "published": "2025-02-28T01:44:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.neowin.com/news/images/uploaded/2025/02/1740699599_ss_8f06dbe6130989f854dbea656a22f42490e2d1e6.1920x1080_story.jpg",
+    "performance_score": 0,
+    "domain_rank": 3668,
+    "domain_rank_updated": "2025-02-24T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "24634bbfb251a015eaaed9d4f71b4c180627c6a2",
+  "url": "https://www.neowin.net/news/ea-publishes-source-code-from-classic-command--conquer-games-for-modders",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Pulasthi Ariyasinghe",
+  "published": "2025-02-28T01:44:00.000+02:00",
+  "title": "EA publishes source code from classic Command & Conquer games for modders",
+  "text": "While the Command & Conquer (C&C) franchise doesn't seem to be spawning any new installments under EA, in a surprise move, the publisher has released the complete source for several of its classic installments. This includes Command & Conquer (Tiberian Dawn), Red Alert, Renegade, and Generals, as well as its expansion pack Zero Hour. Steam Workshop support is being added for more games in the series too.\nEA producer Jim Vessella explained in a Reddit post that this work comes thanks to Luke \"CCHyper\" Feenan, a Command & Conquer modder and veteran community member that has also helped with the 2020-released C&C Remastered Collection and the more recent Ultimate Collection Steam launch. He had researched improvements for each of the mentioned titles using EA's own archive of the franchise.\n\"Over the past year I have been working alongside the amazing C&C stakeholders here at EA to restore the Perforce source code archives for the C&C games back to buildable states, which now provides us with the ability to patch these classic games in a deeper way going forward,\" says Feenan while explaining the long process. \"As a long time modder, it was amazing to finally get a chance to deep dive into the source code for these games and see how they work!\"\nThe official GitHub page of EA now sports the valuable source code for the four games and sole expansion pack, all released under the GPL license.\nMeanwhile, the second part of this big announcement is the Steam Workshop support, which lets modders upload their custom maps to Command & Conquer Renegade, Generals and Zero Hour, C&C 3 Tiberium Wars and Kane’s Wrath, Red Alert 3 and Uprising, as well as C&C 4 Tiberian Twilight.\nAll of these games' Mission Editor and World Builder tools have been updated for easier Workshop publishing capabilities, while also letting players easily pull and install new maps with just one click from the platform.\nLastly, EA is releasing the source XML, Schema, Script, Shader, and Map files for all C&C games made in the classic SAGE engine, finally letting the community creators loose on the titles. Find the support pack also on the EA GitHub page here.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Arts, Culture and Entertainment"
+  ],
+  "topics": [
+    "Science and Technology->scientific innovation",
+    "Science and Technology->technology and engineering",
+    "Economy, Business and Finance->products and services",
+    "Economy, Business and Finance->media and entertainment industry",
+    "Economy, Business and Finance->business and market analysis",
+    "Arts, Culture and Entertainment->mass media",
+    "Arts, Culture and Entertainment->online media outlet"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://github.com/electronicarts/",
+    "https://github.com/electronicarts/CnC_Modding_Support",
+    "https://www.reddit.com/r/commandandconquer/comments/1izmpmb/cc_steam_workshop_support_source_code/",
+    "https://www.github.com/electronicarts/CnC_Modding_Support",
+    "https://reddit.com/r/commandandconquer/comments/1izmpmb/cc_steam_workshop_support_source_code/",
+    "https://www.github.com/electronicarts/",
+    "https://github.com/electronicarts",
+    "https://www.reddit.com/r/commandandconquer/comments/1izmpmb/cc_steam_workshop_support_source_code"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-02-28T01:47:08.638+02:00",
+  "updated": "2025-02-28T01:47:08.638+02:00"
+}

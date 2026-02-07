@@ -1,0 +1,80 @@
+{
+  "thread": {
+    "uuid": "2d09be4723521140e5d424b206d4eb85a8594189",
+    "url": "https://www.researchsquare.com/article/rs-4607795/v1",
+    "site_full": "www.researchsquare.com",
+    "site": "researchsquare.com",
+    "site_section": "https://www.researchsquare.com/rss.xml",
+    "site_categories": [],
+    "section_title": "Preprints",
+    "title": "Innovations in Animal Health: Artificial Intelligence-Enhanced Hematocrit Analysis for Rapid Anemia Detection in Small Ruminants",
+    "title_full": "Innovations in Animal Health: Artificial Intelligence-Enhanced Hematocrit Analysis for Rapid Anemia Detection in Small Ruminants",
+    "published": "2024-07-19T04:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 10,
+    "domain_rank": 5857,
+    "domain_rank_updated": "2024-07-16T13:07:25.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 45402,
+        "comments": 17268,
+        "shares": 21348
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "2d09be4723521140e5d424b206d4eb85a8594189",
+  "url": "https://www.researchsquare.com/article/rs-4607795/v1",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Ajit K. Mahapatra",
+  "published": "2024-07-19T04:13:00.000+03:00",
+  "title": "Innovations in Animal Health: Artificial Intelligence-Enhanced Hematocrit Analysis for Rapid Anemia Detection in Small Ruminants",
+  "text": "Due to their value as a food source, fiber, and other products globally, there has been a growing focus on the well-being and health of small ruminants, particularly in relation to anemia induced by blood-feeding gastrointestinal parasites like Haemonchus contortus. The objective of this study was to assess the hematocrit (HCT) levels in blood samples from small ruminants, specifically goats, and create an efficient biosensor for more convenient, yet accurate detection of anemia for on-farm use in agricultural environments for animal production optimization. The study encompassed 75 adult male Spanish goats, which underwent HCT testing to ascertain their HCT ranges and their association with anemic conditions. Using Artificial Intelligence-powered machine learning algorithms, an advanced, easy-to-use sensor was developed for rapidly alerting farmers as to low red blood cell count of their animals, in this way to enable timely medical intervention. The developed sensor utilizes a semi-invasive technique that requires only a small blood sample. More precisely, a volume of 30 µL of blood was placed onto Whatman filter paper No. 1 previously soaked with anhydrous glycerol. The blood dispersion pattern on the glycerol-infused paper was then recorded using a smartphone after 180 seconds. Subsequently, these images were examined in correlation with established HCT values obtained from conventional HCT analysis. Four separate artificial intelligence-machine learning models (AI-ML)supported models, namely Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Backpropagation Neural Network (BPNN), and image classification based Keras model, were created and assessed using the image dataset. The dataset consisted of 1,000 images that were divided into training and testing sets in an 80:20 ratio. Using the Adam optimizer with a learning rate of 0.001, the models were optimized and trained to reduce categorical cross-entropy loss to improve accuracy over several epochs. The initial findings indicated a detection accuracy of 76.06% after only 10 epochs for recognizing different levels of HCT in relation to anemia, ranging from healthy to severely anemic. This testing accuracy increased markedly, to 95.8% after 100 epochs and other model parameters optimization. Results for SVM learning algorithms had an overall F1-score of 74–100% in identifying the HCT range for blood pattern images representing healthy to severely anemic animals, KNN showed a range of 50%-97% accuracy in identifying the HCT range, and BPNN showed 91–100% accuracy in identifying the HCT range for anemia detection. This innovation not only greatly reduces the time and skill often needed for such evaluations, but also establishes the basis for a straightforward, efficient, and easy-to-use technique of screening for anemia. This has the potential to enhance the care and handling of livestock in agricultural environments.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Health",
+    "Environment"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "artificial intelligence-enhanced hematocrit analysis for rapid anemia detection",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-07-19T14:13:51.363+03:00",
+  "updated": "2024-07-19T14:13:51.363+03:00"
+}

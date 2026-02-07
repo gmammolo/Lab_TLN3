@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "b286162c000d0ce76ed5aeef739d13ded752ffe8",
+    "url": "https://developers.slashdot.org/story/24/12/05/2222220/the-rust-foundations-plan-to-grow-the-pool-of-well-trained-rust-developers",
+    "site_full": "developers.slashdot.org",
+    "site": "slashdot.org",
+    "site_section": "https://news.co.za/rss",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "News South Africa",
+    "title": "The Rust Foundation's Plan to Grow the Pool of Well-Trained Rust Developers - Slashdot",
+    "title_full": "The Rust Foundation's Plan to Grow the Pool of Well-Trained Rust Developers - Slashdot",
+    "published": "2024-12-05T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://a.fsdn.com/sd/topics/programming_64.png",
+    "performance_score": 0,
+    "domain_rank": 629,
+    "domain_rank_updated": "2024-12-02T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "b286162c000d0ce76ed5aeef739d13ded752ffe8",
+  "url": "https://developers.slashdot.org/story/24/12/05/2222220/the-rust-foundations-plan-to-grow-the-pool-of-well-trained-rust-developers",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2024-12-05T02:00:00.000+02:00",
+  "title": "The Rust Foundation's Plan to Grow the Pool of Well-Trained Rust Developers - Slashdot",
+  "text": "[The Rust Foundation's Plan to Grow the Pool of Well-Trained Rust Developers](//developers.slashdot.org/story/24/12/05/ 0/the-rust-foundations-plan-to-grow-the-pool-of-well-trained-rust-developers) (rust-lang.org) [5](//developers.slashdot.org/story/24/12/05/ 0/the-rust-foundations-plan-to-grow-the-pool-of-well-trained-rust-developers#comments) according to a new announcement today , \" which depends on a growing pool of well-trained developers to thrive.\" The latest SlashData Developer Nation survey found Rust to be the fastest-growing programming language , doubling its users over the past two years. As Rust's adoption continues to accelerate, the demand for a multifaceted ecosystem of quality training will too. Their blog post highlights three examples of the Rust community \"creating new pathways for learning Rust\" and \"addressing the critical need for Rust training in academic settings...\" Rust-Edu operates as a non-profit through Portland State University, with funding from Futurewei . Their mission is to \"spread Rust use and development through academic curricula and communities throughout the world, making Rust the language of choice for 'systems programming' in its broadest sense through shared efforts of faculty, students and the Rust community.\" They focus on three main areas: curriculum development, educational tools, and language improvements... teach-rs , pronounced \"teachers,\" is a modular and reusable university course designed for in-person teaching in Rust. Its mission is to introduce Rust in higher education and ensure that more students enter the job market with considerable Rust experience. The teach-rs project provides ready-to-use Rust teaching materials, including slide decks and exercises that can be adapted to various teaching contexts... As an open source permissively licensed project, teach-rs enables educators to share and improve resources, making introducing Rust instruction into their programs more accessible. Many institutions now use teach-rs in their courses, including the Slovak University of Technology, RustIEC (a collaboration between Vrije Universiteit Brussel and KU Leuven), and the University Politehnica of Bucharest . At the time of this writing, teach-rs has nearly 3000 stars on GitHub... Under the guidance of The Rust Foundation's Global Rust Coordinator and Rust Nation UK's organizer Ernest Kissiedu, Mordecai Etukudo (Mart) has developed a guide to help educational institutions adopt Rust in their systems. This resource walks organizations through the entire implementation process, from initial assessment to community engagement.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Education"
+  ],
+  "topics": null,
+  "ai_allow": true,
+  "has_canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://en.rustiec.be/workshops.html",
+    "https://foundation.rust-lang.org/news/supporting-the-future-of-rust-spotlight-on-teaching-initiatives/",
+    "https://www.notion.so/Step-By-Step-Guide-To-Help-You-Implement-Rust-Effectively-In-Your-University-ab5cfd8df94a4ae0ac9d8bea9d38d2fe?pvs=4",
+    "https://upb-cs-rust.github.io/101-rs/",
+    "https://rust-edu.org/",
+    "https://www.rustnationuk.com/",
+    "https://www.slashdata.co/post/59-of-developers-use-ai-tools-25-2m-javascript-users",
+    "https://github.com/trifectatechfoundation/teach-rs/",
+    "https://www.futurewei.com/",
+    "https://www.rust-edu.org/",
+    "https://www.en.rustiec.be/workshops.html",
+    "https://github.com/trifectatechfoundation/teach-rs",
+    "https://www.notion.so/Step-By-Step-Guide-To-Help-You-Implement-Rust-Effectively-In-Your-University-ab5cfd8df94a4ae0ac9d8bea9d38d2fe",
+    "https://www.github.com/trifectatechfoundation/teach-rs/",
+    "https://notion.so/Step-By-Step-Guide-To-Help-You-Implement-Rust-Effectively-In-Your-University-ab5cfd8df94a4ae0ac9d8bea9d38d2fe?pvs=4",
+    "https://rustnationuk.com/",
+    "https://rust-edu.org",
+    "https://foundation.rust-lang.org/news/supporting-the-future-of-rust-spotlight-on-teaching-initiatives",
+    "https://www.upb-cs-rust.github.io/101-rs/",
+    "https://slashdata.co/post/59-of-developers-use-ai-tools-25-2m-javascript-users",
+    "https://www.futurewei.com",
+    "https://futurewei.com/",
+    "https://upb-cs-rust.github.io/101-rs",
+    "https://www.foundation.rust-lang.org/news/supporting-the-future-of-rust-spotlight-on-teaching-initiatives/",
+    "https://www.rustnationuk.com"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-12-06T01:46:34.224+02:00",
+  "updated": "2024-12-06T01:46:34.224+02:00"
+}

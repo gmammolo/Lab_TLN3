@@ -1,0 +1,165 @@
+{
+  "thread": {
+    "uuid": "f05e2b72da5d2026db4b0b3af6302e5018fc6380",
+    "url": "https://www.giornaledibrescia.it/cronaca/incidente-mortale-verolanuova-tomaso-tomasoni-c76d2snt",
+    "site_full": "www.giornaledibrescia.it",
+    "site": "giornaledibrescia.it",
+    "site_section": "https://www.giornaledibrescia.it/",
+    "site_categories": [
+      "media",
+      "top_news_it",
+      "top_news",
+      "war, conflict and unrest",
+      "sport",
+      "politics",
+      "lifestyle and leisure",
+      "economy, business and finance",
+      "crime, law and justice",
+      "arts, culture and entertainment",
+      "disaster and accident"
+    ],
+    "section_title": "Giornale di Brescia: notizie e video di Brescia e provincia",
+    "site_title": "Giornale di Brescia: notizie e video di Brescia e provincia",
+    "title": "Schianto mortale a Verolanuova, addio a Tomaso Tomasoni",
+    "title_full": "Schianto mortale a Verolanuova, addio a Tomaso Tomasoni",
+    "published": "2026-01-08T08:33:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "IT",
+    "main_image": "https://api.gdb.atexcloud.io/image-service/view/acePublic/alias/contentid/1od3fbbll608kx6frkj/0/l-auto-della-vittima-si-e-accartocciata.webp?f=16%3A9&amp;w=1200",
+    "performance_score": 6,
+    "domain_rank": 60972,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 170,
+        "comments": 26,
+        "shares": 23
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "f05e2b72da5d2026db4b0b3af6302e5018fc6380",
+  "url": "https://www.giornaledibrescia.it/cronaca/incidente-mortale-verolanuova-tomaso-tomasoni-c76d2snt",
+  "ord_in_thread": 0,
+  "author": "Francesco Venturini",
+  "published": "2026-01-08T08:33:00.000+02:00",
+  "title": "Schianto mortale a Verolanuova, addio a Tomaso Tomasoni",
+  "text": "Schianto mortale a Verolanuova, addio a Tomaso Tomasoni\nLa nebbia, l’asfalto bagnato, forse un malore. È ancora tutta da ricostruire la dinamica dell’incidente che ieri sera è costato la vita a Tomaso Tomasoni, 65enne di Offlaga.\nIl tragico schianto è avvenuto lungo la Sp 9, al confine tra Verolanuova e San Paolo, alla rotonda della località Treponti della frazione Cadignano.\nLa prima ricostruzione\nSecondo le indagini degli agenti della Polizia stradale di Iseo, intervenuti sul posto, l’automobilista ha fatto tutto da solo: perso il controllo della sua Mercedes grigia, secondo alcuni testimoni avrebbe attraversato la rotatoria a tutta velocità, per poi finire al lato opposto della strada e terminare la sua corsa contro un guard rail. Non si esclude che il 65enne possa aver avuto un malore.\nSul posto sono subito intervenuti i soccorritori della Croce Verde di Quinzano con i Vigili del fuoco di Verolanuova, che hanno estratto l’uomo dalle lamiere ancora vivo, anche se le sue condizioni sono subito apparse molto gravi. Trasportato d’urgenza in ospedale a Manerbio a bordo di un’ambulanza e ricoverato in codice rosso, il 65enne non ce l’ha fatta ed è deceduto dopo poco.\nSi tratta purtroppo della seconda vittima della strada dall’inizio dell’anno. Solo tre giorni fa, lunedì 5 gennaio, il 79enne Livio Zanini è stato falciato da un’auto a Cologne, mentre percorreva in sella alla sua bicicletta la Sp573. Per lui non c’è stato nulla da fare: l’anziano residente a Palazzolo è morto tra le braccia degli operatori sanitari, che per oltre un’ora hanno cercato di rianimarlo.\nRiproduzione riservata © Giornale di Brescia\nIscriviti al canale WhatsApp del GdB e resta aggiornato\n@News in 5 minuti\nA sera il riassunto della giornata: i fatti principali, le novità per restare aggiornati.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "italian",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->transportation accident and incident"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://whatsapp.com/channel/0029VaCjau3BvvsbWtZsh102",
+    "https://www.whatsapp.com/channel/0029VaCjau3BvvsbWtZsh102"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Tomaso Tomasoni",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Verolanuova",
+        "sentiment": "none"
+      },
+      {
+        "name": "frazione Cadignano",
+        "sentiment": "none"
+      },
+      {
+        "name": "San Paolo",
+        "sentiment": "none"
+      },
+      {
+        "name": "Manerbio",
+        "sentiment": "none"
+      },
+      {
+        "name": "Offlaga",
+        "sentiment": "none"
+      },
+      {
+        "name": "Iseo",
+        "sentiment": "none"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Vigili del fuoco",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Polizia stradale",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      },
+      {
+        "name": "Croce Verde",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": null,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [
+      "top_news_it",
+      "top_news"
+    ],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T08:38:13.722+02:00",
+  "updated": "2026-01-09T09:08:02.000+02:00"
+}

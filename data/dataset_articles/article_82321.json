@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "436cbdd46aeb3fad644644bb63dd40ddc7530573",
+    "url": "https://www.embedded.com/silicon-labs-and-kudelski-iot-collaborate-to-expedite-matter-device-certification",
+    "site_full": "www.embedded.com",
+    "site": "embedded.com",
+    "site_section": "https://csa-iot.org/feed",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "CSA-IOT",
+    "title": "Silicon Labs and Kudelski IoT Collaborate to Expedite Matter Device Certification",
+    "title_full": "Silicon Labs and Kudelski IoT Collaborate to Expedite Matter Device Certification",
+    "published": "2024-10-17T23:27:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.embedded.com/wp-content/uploads/sites/2/2022/08/img20220809082414DECT-2020-NR-An-IoT-wonder-or_0_w729_h563.jpg",
+    "performance_score": 0,
+    "domain_rank": 16958,
+    "domain_rank_updated": "2024-10-15T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "436cbdd46aeb3fad644644bb63dd40ddc7530573",
+  "url": "https://www.embedded.com/silicon-labs-and-kudelski-iot-collaborate-to-expedite-matter-device-certification",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Alliance Marketing",
+  "published": "2024-10-17T23:27:00.000+03:00",
+  "title": "Silicon Labs and Kudelski IoT Collaborate to Expedite Matter Device Certification",
+  "text": "Silicon Labs and Kudelski IoT Collaborate to Expedite Matter Device Certification\nSilicon Labs, in collaboration with Kudelski IoT, unveiled a novel way to expedite the market entry of Matter-certified IoT products. The partnership incorporates Kudelski IoT’s Matter Device Attestation Certificates (DAC) into Silicon Labs’ Custom Part Manufacturing Service (CPMS), allowing device manufacturers to establish Zero Trust security from production to delivery, hence reducing time and expenses.\nThe Zero Trust model, characterized by its “never trust, always verify” philosophy and ongoing verification, is essential to Matter, a cohesive, IP-based communication protocol. Matter requires distinct device authentication certificates through Public Key Infrastructure (PKI) for enhanced security. This architecture greatly improves IoT device security but also presents new challenges for manufacturers, especially in the secure acquisition and transmission of certificates from Certificate Authorities to production sites.\nBy integrating Silicon Labs’ safe, cost-effective, and reliable manufacturing capabilities with Kudelski’s certified Matter PKI service, IoT manufacturers may now securely inject Matter DACs during production, thereby facilitating the transition to Matter volume manufacturing.\nSilicon Labs asserts that the volume manufacture of Matter need not be a complicated obstacle. Their unprecedented safe provisioning solution, along with Kudelski IoT’s proficiency and PKI services, will allow manufacturers to concentrate on innovation while maintaining security integrity.\nThe combined CPMS and DAC injection service offers numerous significant advantages:\n- Secure injection of signed DACs at Silicon Labs-designated factories\n- Simplified key management and reduced manufacturing complexity\n- Accelerated time-to-market for Matter-certified products\n- Enhanced protection against counterfeiting and overproduction\nSilicon Labs’ Matter DAC injection is now accessible for the MG24 wireless SoCs and modules equipped with Secure Vault technology. Upon finalizing product development and securing Matter certification with the Connectivity Standards Alliance (CSA), manufacturers can effortlessly place orders using the Silicon Labs CPMS web platform. Silicon Labs will dispatch sample components within 4-6 weeks for testing and validation, after which bulk orders may be placed.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.kudelski-iot.com/",
+    "https://www.silabs.com/",
+    "https://kudelski-iot.com/",
+    "https://www.silabs.com",
+    "https://www.kudelski-iot.com",
+    "https://silabs.com/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-18T00:14:08.799+03:00",
+  "updated": "2024-10-18T00:14:08.799+03:00"
+}

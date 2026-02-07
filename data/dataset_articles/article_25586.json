@@ -1,0 +1,96 @@
+{
+  "thread": {
+    "uuid": "341f274df12b4a93344ea6100f527c1d951990b0",
+    "url": "https://www.engineeringforchange.org/news/nature-inspires-industrial-optimization",
+    "site_full": "www.engineeringforchange.org",
+    "site": "engineeringforchange.org",
+    "site_section": "https://www.engineeringforchange.org",
+    "site_categories": [
+      "home_and_garden",
+      "environmental_safety",
+      "business",
+      "green_solutions"
+    ],
+    "section_title": "Engineering For Change – By Engineers, for Everyone",
+    "site_title": null,
+    "title": "Nature Inspires Industrial Optimization",
+    "title_full": "Nature Inspires Industrial Optimization",
+    "published": "2025-03-13T01:18:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 134456,
+    "domain_rank_updated": "2025-03-10T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "341f274df12b4a93344ea6100f527c1d951990b0",
+  "url": "https://www.engineeringforchange.org/news/nature-inspires-industrial-optimization",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Rob Goodier",
+  "published": "2025-03-13T01:18:00.000+02:00",
+  "title": "Nature Inspires Industrial Optimization",
+  "text": "Middle-school science teachers often display posters of the food web—the matrix of connections between predators and prey. That web is more than a metaphor; the connections in that ecological network are quantifiable. The metrics of the complexity of food webs and other ecological networks have begun to yield data that can inform designers of human-built systems.\n“Bio-inspired systems offer ways to combine sustainability, economic, and resilience goals,” said Astrid Layton, assistant professor of mechanical engineering at Texas A&M University in College Station. “This whole approach really is helping us to improve how we design our human networks. Essentially doing more with less.”\nLayton’s remarks were part of a virtual research seminar hosted by Engineering for Change in January 2025 . The work she shared applied principles observed in ecological networks to things like a carpet manufacturer and industrial parks. The research compares them to natural networks, and optimizes their systems to make them function more like the natural world. The result is greater sustainability, less waste, and more resilience when problems arise.\nThe research borrows a method from ecologists called ecological network analysis, which rates natural systems using a variety of metrics. Three metrics Layton’s team is working with are cyclicity, nestedness, and ecosystem resilience.\nCyclicity Natural ecosystems maximize resource efficiency through internal cycling, reducing waste, and the use of raw materials. At the foundation of these networks, detritivores and decomposers such as fungi and earthworms breakdown low-quality material into valuable resources. The complexity of the cycling in a system is measured as its cyclicity. If the system has no cycling, its cyclicity is 0; if it has one cycle, such as a food ladder, its cyclicity is 1. Natural ecosystems tend to have multiple cycles and high cyclicity ratings.\nThe famous eco-industrial park in Kalundborg, Denmark, applies the concept but lacks true ecosystem mimicry, Layton said. Despite its achievements in sustainability, the park has only three cycles and two active detritivore-like actors, resulting in a simplicity value of 1. (Confusingly, the complexity of a system is measured as a “simplicity value.”)\nIn contrast, a French eco-industrial park has two detritivore-like actors, but more than 15 cycles, giving it a simplicity value of 3.7, which is closer to a natural network.\n“We found a huge chunk of these eco-industrial networks didn’t have any of these types of actors,” Layton said. “They’re trying to be like nature, but they’re missing one of the key functional components.”\nUnderstanding cyclicity can lead to improvements. Layton’s team did a case study on a carpet recycling network using bio-inspired optimization. The researchers focused on nature-like cyclicity rather than cost or emissions. The results showed similar savings but achieved through different pathways, suggesting this approach can solve existing problems while unlocking additional benefits.\nNestedness A second metric Layton’s team has borrowed from ecology is ecosystem nestedness. A circle within a circle within a circle represents perfect nestedness. The largest circle has the biggest variety of things contained, while the circle within it contains some, but not all of the things in the largest circle. Layton describes nestedness as link placement in networks. It is commonly studied in mutualistic ecosystems like plant-pollinator systems. High nestedness in nature allows maximum resource use with minimal links. That translates to reduced costs in engineering systems, such as water distribution networks. By mimicking this structure, industrial networks can optimize resource use and minimize waste.\nThe researchers’ case study of Kalundborg’s industrial water network tested 2,000 designs that applied different levels of nestedness. Designs with higher nestedness values reduced freshwater use. High nestedness also proved cost-effective, especially when freshwater was expensive or scarce.\nFurther analysis found that bio-inspired designs were more resilient. In cases of system failure, such as broken pipelines, networks with high nestedness performed better, reallocating resources effectively and requiring less additional freshwater. The research suggests that mimicking nature can reduce the usage of resources and make for a more reliable system.\n“In cases of system failure, such as broken pipelines, networks with high nestedness performed better, reallocating resources effectively and requiring less additional freshwater.”\nResiliency A third metric Layton’s team is studying is resilience and the balance between redundancy and efficiency. Ecosystems find that balance, the “window of vitality,” to grow during times of stability, but to survive disruptions such as droughts and fires. By applying this principle, Layton’s team redesigned a water distribution network using ecological fitness metrics.\nThe researchers tested three solutions: cost-focused, bio-inspired, and a hybrid of the two. While bio-inspired designs initially cost more, they proved more resilient, using less freshwater during disruptions and saving money long-term.\n“Despite that extra sort of upfront cost, you are saving money when things go wrong,” Layton said.\nShe added that this might not be the right decision-making process for all engineering networks. “A company producing tennis shoes might not care about what happens during disruption as much as a company producing, say, insulin,” she said.\nLayton’s team is now exploring applications of the “window of vitality” concept to systems that could benefit from resiliency, like power grids and defense networks. They are focusing on transient modeling and multi-flow systems to enhance design efficiency, sustainability, and resilience.\nResiliency matters, after all, Layton said, because a sustainable design that doesn’t survive the next disruption is not a great design.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology",
+    "Education",
+    "Environment"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->scientific research",
+    "Science and Technology->natural science",
+    "Education->teachers",
+    "Environment->ecosystem",
+    "Environment->nature",
+    "Environment->sustainability"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Astrid Layton",
+        "sentiment": "none"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Texas A&M University in College Station",
+        "sentiment": "none",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": null,
+  "rating": null,
+  "crawled": "2025-03-13T03:01:28.887+02:00",
+  "updated": "2025-03-13T03:01:28.887+02:00"
+}

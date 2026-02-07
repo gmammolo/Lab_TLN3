@@ -1,0 +1,73 @@
+{
+  "thread": {
+    "uuid": "d622e30f6342372d8bfe05cea84181d89fd6ac9a",
+    "url": "https://www.digit.fyi/cloud-services-are-becoming-a-ransomware-hotspot",
+    "site_full": "www.digit.fyi",
+    "site": "digit.fyi",
+    "site_section": "https://www.digit.fyi",
+    "site_categories": [
+      "media"
+    ],
+    "section_title": "Scotland&#039;s Biggest Technology Community | DIGIT | News &amp; Events",
+    "title": "Cloud Services Are Becoming a Ransomware Hotspot",
+    "title_full": "Cloud Services Are Becoming a Ransomware Hotspot",
+    "published": "2024-11-15T15:16:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "GB",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 74043,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d622e30f6342372d8bfe05cea84181d89fd6ac9a",
+  "url": "https://www.digit.fyi/cloud-services-are-becoming-a-ransomware-hotspot",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Tom Quinn",
+  "published": "2024-11-15T15:16:00.000+02:00",
+  "title": "Cloud Services Are Becoming a Ransomware Hotspot",
+  "text": "Cloud ransomware attacks are becoming more common, with threat actors finding new ways to exploit large cloud storage services and exfiltrate data, according to a new report from cybersecurity firm SentinelOne.\n\\n According to the company\\u2019s State of Cloud Ransomware in 2024 report, threat researchers at SentinelOne have identified several new tools designed to target web servers with ransomware, but also saw a new trend in attackers using cloud based software to exfiltrate the data they\\u2019ve stolen.\n\\n Although cloud storage services like Amazon Web Services (AWS) and Microsoft Azure Blob Storage are built to safely handle and store large amounts of unstructured data, the researchers said that they have become attractive targets for cyber-attacks due to the number of organisations relying on them.\n\\n SentinelOne found that ransomware attackers are quickly finding and adapting their techniques in what has become a running battle with cloud service providers (CSPs).\n\\n One common method attackers use involves exploiting poorly secured Simple Storage Service (S3) buckets, with access gained through stolen credentials or misconfiguration.\n\\n Once inside, the threat actors create a new encryption key using AWS\\u2019s Key Management Service (KMS) to lock the data, then schedule the new key for deletion, giving the victim just seven days to respond before the attacker\\u2019s key, and potentially all of the victim\\u2019s data, is lost forever.\n\\n Notably, the seven-day window before deletion was first implemented by cloud providers themselves as a way to ensure data retention, but has been co-opted by threat actors as a new line of attack.\\xa0\n\\n Aside from ransomware targeting cloud services, the study found that threat actors are turning to cloud services to hold the data they intend to ransom.\n\\n The study highlights several examples of ransomware actors, including those mimicking the notorious LockBit group, using tools like Azure Storage Explorer and Amazon\\u2019s S3 storage services to remove and hold stolen data.\n\\n SentinelLab, SentilOne\\u2019s threat intelligence arm, said it had identified a simple Python script designed to run on Windows systems that would allow attackers to exfiltrate files to the cloud and then encrypt the local versions, although stressed that this method hasn\\u2019t yet been observed in the wild.\n\\n",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://www.sentinelone.com/blog/the-state-of-cloud-ransomware-in-2024/",
+    "https://www.sentinelone.com/blog/the-state-of-cloud-ransomware-in-2024",
+    "https://sentinelone.com/blog/the-state-of-cloud-ransomware-in-2024/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "d622e30f6342372d8bfe05cea84181d89fd6ac9a",
+    "first_syndicated": true
+  },
+  "rating": null,
+  "crawled": "2024-11-15T17:01:51.850+02:00",
+  "updated": "2024-11-15T17:01:51.850+02:00"
+}

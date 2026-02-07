@@ -1,0 +1,76 @@
+{
+  "thread": {
+    "uuid": "588fd7fada1c9497d292c268f6e8f7454710b4de",
+    "url": "https://video.sina.com.cn/p/finance/2025-01-10/detail-ineemwnc5697996.d.html",
+    "site_full": "video.sina.com.cn",
+    "site": "sina.com.cn",
+    "site_section": "https://sina.com.cn/",
+    "site_categories": [
+      "media",
+      "top_news_hk",
+      "top_news_sg",
+      "top_news_tw",
+      "top_news"
+    ],
+    "section_title": "新浪网",
+    "title": "打不开车门，系统出了问题？部分比亚迪车主傻眼 汽修专家：车企物联网技术有待提高 车主不能过度依赖手机",
+    "title_full": "打不开车门，系统出了问题？部分比亚迪车主傻眼 汽修专家：车企物联网技术有待提高 车主不能过度依赖手机",
+    "published": "2025-01-10T02:00:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 0,
+    "site_type": "news",
+    "country": "CN",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 244,
+    "domain_rank_updated": "2025-01-06T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "588fd7fada1c9497d292c268f6e8f7454710b4de",
+  "url": "https://video.sina.com.cn/p/finance/2025-01-10/detail-ineemwnc5697996.d.html",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": null,
+  "published": "2025-01-10T02:00:00.000+02:00",
+  "title": "打不开车门，系统出了问题？部分比亚迪车主傻眼 汽修专家：车企物联网技术有待提高 车主不能过度依赖手机",
+  "text": "相关视频 猜你喜欢 <#et paging source> <#list source.list as list> <#if (list.text != \"...\")> <a href=\"javascript:;\" role=\"pageTable\" role-index=\"${list.index}\">${list.text}</a> <#else> <span class=\"S_txt2\">...</span> </#if> </#list> </#et> 热门视频 正在加载...请稍等~\n<#et hotVideoTpl data> <ol class=\"vd_hotlst\"> <#list data.data as dataList> <#if (dataList_index < 3 && dataList.video.video_id)> <li class=\"topls\"> <span class=\"topnum_ico topnum_${++dataList_index}\">${++dataList_index}.</span> <span class=\"V_plyCount S_txt2\"><i class=\"V_icon V_icon5\" title=\"播放量\"></i><i task=\"playNum\" video_id=\"${dataList.video.video_id}\">${dataList.numFormate}</i></span> <span class=\"vdthumb\"><a href=\"${dataList.url}\" title=\"${dataList.overTitle}\"><img _src=\"${dataList.video.thumb}\" style=\"visibility:hidden;\"><i class=\"V_icon V_icon9\"></i></a></span> <span class=\"vdname\"><a href=\"${dataList.url}\" title=\"${dataList.overTitle}\">${dataList.overTitle}</a></span> </li> <#else> <li> <span class=\"num\">${++dataList_index}.</span> <span class=\"V_plyCount S_txt2\"><i class=\"V_icon V_icon5\" title=\"播放量\"></i><i task=\"playNum\" video_id=\"${dataList.video.video_id}\">${dataList.numFormate}</i></span> <span class=\"vdname\"><a href=\"${dataList.url}\" title=\"${dataList.overTitle}\">${dataList.shortTitle}</a></span> </li> </#if> </#list> </ol> </#et> 分享到：",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2025-01-10T03:02:26.757+02:00",
+  "updated": "2025-01-10T03:02:26.757+02:00"
+}

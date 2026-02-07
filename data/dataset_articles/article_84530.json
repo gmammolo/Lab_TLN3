@@ -1,0 +1,147 @@
+{
+  "thread": {
+    "uuid": "d8973d2c60bcb7e8386874faaa1dafcf9923cbca",
+    "url": "https://9to5mac.com/2025/04/02/airpods-max-lossless-firmwre",
+    "site_full": "9to5mac.com",
+    "site": "9to5mac.com",
+    "site_section": "https://9to5mac.wordpress.com/feed",
+    "site_categories": [
+      "mac_support",
+      "tech"
+    ],
+    "section_title": "9to5Mac",
+    "site_title": "9to5Mac - Apple News &amp; Mac Rumors Breaking All Day",
+    "title": "Apple re-launches AirPods Max firmware with lossless audio",
+    "title_full": "Apple re-launches AirPods Max firmware with lossless audio",
+    "published": "2025-04-03T02:29:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/new-airpods-max.jpg?resize=1200%2C628&amp;quality=82&amp;strip=all&amp;ssl=1",
+    "performance_score": 0,
+    "domain_rank": 1559,
+    "domain_rank_updated": "2025-04-01T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d8973d2c60bcb7e8386874faaa1dafcf9923cbca",
+  "url": "https://9to5mac.com/2025/04/02/airpods-max-lossless-firmwre",
+  "ord_in_thread": 0,
+  "author": "Filipe Espósito",
+  "published": "2025-04-03T02:29:00.000+03:00",
+  "title": "Apple re-launches AirPods Max firmware with lossless audio",
+  "text": "As we reported this morning , Apple has released a firmware update for the USB-C AirPods Max that enables lossless audio. However, due to a bug in iOS 18.4, the headphones were unable to download the update. Now the company has re-released the firmware that brings the new feature to AirPods Max .\nAirPods Max update with lossless audio now available Apple’s support webpage for AirPods firmware now lists a new build “7E101” available for USB-C AirPods Max. The build released on Tuesday along with iOS 18.4 was 7E99.\nFor some unknown reason, the AirPods Max failed when trying to download and install the latest firmware. As a result, users were unable to try out the new feature that enables lossless audio over USB-C. The update also brings ultra-low latency audio when using a USB-C cable, as well as enabling wired playback for the first time using Apple’s new USB-C to 3.5mm audio cable .\nYou can check which firmware version your AirPods are running by going to Settings in iOS and looking for the AirPods menu at the top of the screen. Of course, you need to connect your AirPods to your iPhone or iPad first.\nUnfortunately, there’s no easy way to install AirPods firmware updates. Apple recommends that users who want to update the new firmware as soon as possible follow these steps:\nUpdate to the latest version of iOS (lossless audio on USB-C AirPods Max requires iOS 18.4 or macOS 15.4). Connect your AirPods via Bluetooth to an iPhone, iPad, or Mac. Make sure your Apple device is connected to Wi-Fi. Plug your AirPods into the charger. Keep your AirPods in the case and keep them near your device for at least 30 minutes. Put on your AirPods and check the firmware version again. One thing to keep in mind is that the firmware update with lossless audio is exclusive to the USB-C version of the AirPods Max that was launched last year. The Lightning version won’t get this feature.\nH/T: Aaron Zollo !\nRead also Apple teases new short film with Pedro Pascal to promote AirPods 4 Gadgets I recommend:\nAdd 9to5Mac to your Google News feed.\nFTC: We use income earning auto affiliate links. More.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "topics": [
+    "Science and Technology->biomedical science",
+    "Science and Technology->technology and engineering"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://support.apple.com/en-us/106340",
+    "https://amzn.to/4iRy9hV",
+    "https://bit.ly/4j1dB6d",
+    "https://news.google.com/publications/CAAqBggKMLOFATDAGg?hl=en-US&gl=US&ceid=US:en",
+    "https://amzn.to/3E4ROLU",
+    "https://x.com/zollotech/status/1907562659282616330",
+    "https://www.support.apple.com/en-us/106340",
+    "https://www.bit.ly/4j1dB6d",
+    "https://www.x.com/zollotech/status/1907562659282616330",
+    "https://news.google.com/publications/CAAqBggKMLOFATDAGg",
+    "https://www.amzn.to/4iRy9hV",
+    "https://www.amzn.to/3E4ROLU",
+    "https://www.news.google.com/publications/CAAqBggKMLOFATDAGg?hl=en-US&gl=US&ceid=US:en"
+  ],
+  "entities": {
+    "persons": [
+      {
+        "name": "Aaron Zollo",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Pedro Pascal",
+        "sentiment": "neutral"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "Wi-Fi",
+        "sentiment": "positive",
+        "tickers": []
+      },
+      {
+        "name": "Apple",
+        "sentiment": "neutral",
+        "tickers": [
+          {
+            "ticker": "AAPL",
+            "exchange": "NASDAQ"
+          }
+        ]
+      },
+      {
+        "name": "USB-C.",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "iPhone",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "iPad",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Mac",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "Google News",
+        "sentiment": "neutral",
+        "tickers": []
+      },
+      {
+        "name": "FTC",
+        "sentiment": "neutral",
+        "tickers": []
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [],
+    "bias": null
+  },
+  "rating": null,
+  "crawled": "2025-04-03T02:39:13.027+03:00",
+  "updated": "2025-04-18T16:11:42.603+03:00"
+}

@@ -1,0 +1,72 @@
+{
+  "thread": {
+    "uuid": "d2ed5431bd06235f5a9609c967c2217167235881",
+    "url": "https://www.cyberdaily.au/security/11391-exclusive-snow-brand-australia-confirms-safepay-ransomware-attack",
+    "site_full": "www.cyberdaily.au",
+    "site": "cyberdaily.au",
+    "site_section": "https://www.cybersecurityconnect.com.au",
+    "site_categories": [],
+    "section_title": "Cyber Daily",
+    "title": "Exclusive: Snow Brand Australia confirms Safepay ransomware attack",
+    "title_full": "Exclusive: Snow Brand Australia confirms Safepay ransomware attack",
+    "published": "2024-11-21T14:36:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "AU",
+    "main_image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1732232432/Snow_Brand_Safepay_bb03si.jpg",
+    "performance_score": 0,
+    "domain_rank": 61709,
+    "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "d2ed5431bd06235f5a9609c967c2217167235881",
+  "url": "https://www.cyberdaily.au/security/11391-exclusive-snow-brand-australia-confirms-safepay-ransomware-attack",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "<a href=\"/authors/david-hollingworth\" title=\"View all articles from David Hollingworth\">David Hollingworth</a>",
+  "published": "2024-11-21T14:36:00.000+02:00",
+  "title": "Exclusive: Snow Brand Australia confirms Safepay ransomware attack",
+  "text": "Share this article on:\nThe Australian arm of a Japanese dairy company confirms hack by newcomer ransomware operation, limited employee data compromised.\nAustralian dairy supplier Snow Brand Australia has confirmed it was the victim of a recent ransomware attack by the Safepay ransomware gang.\nSnow Brand was listed on the gang’s darknet leak site sometime in the last week, alongside 23 other victims. The gang appears to be a new operation, possibly based in Russia.\nSafepay’s leak site is very minimal, simply listing each victim, their revenue, and, where it has been published, leaks to the stolen data and file listings.\nIn Snow Brand’s case, the gang has published an archived dataset of almost 24 gigabytes in size. According to the file listing, it’s largely financial data such as invoices, purchase orders, and details of the company’s business with various retail partners, such as the Romeo Retail Group.\nAlso included is some employee data, such as medical certificates, superannuation details, and Medicare applications.\nSnow Brand Australia has confirmed the incident.\n“Snow Brand recently experienced a cyber incident where unusual activity was detected on our network,” a Snow Brand spokesperson told Cyber Daily.\n“We acted immediately to secure our network and initiate an investigation to understand what happened, including any impact to information.”\nThe Australian Cyber Security Centre and the Office of the Australian Information Commissioner have been notified of the incident, and the company has been in communication with individuals impacted by the data breach.\n“We otherwise confirm our systems are secure and Snow Brand remains fully operational.”\nSafepay is a new ransomware operation, with Snow Brand being one of its first victims. According to research by cyber security firm Huntress, Safepay only began operating within the last couple of months. As part of its ransomware attacks, the gang first checks for systems whose default language uses some form of Cyrillic characters, in which case the attack is aborted, suggesting the gang is based somewhere in Eastern Europe, possibly Russia.\nHuntress has tracked two specific Safepay incidents, and in both “the threat actor’s activity was found to originate from a VPN gateway or portal, as all observed IP addresses assigned to threat actor workstations were within the internal range”.\n“The threat actor was able to use valid credentials to access customer endpoints, and was not observed enabling RDP, nor creating new user accounts, nor creating any other persistence,” Huntress researchers said in a November 14 blog post.\nDavid Hollingworth has been writing about technology for over 20 years, and has worked for a range of print and online titles in his career. He is enjoying getting to grips with cyber security, especially when it lets him talk about Lego.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "Romeo Retail Group",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-22T02:59:13.877+02:00",
+  "updated": "2024-11-22T02:59:13.877+02:00"
+}

@@ -1,0 +1,74 @@
+{
+  "thread": {
+    "uuid": "8995c23ac97846c30eab903cc9ba7eabed78a6f2",
+    "url": "https://www.searchenginejournal.com/wordpress-releases-a-performance-plugin-for-near-instant-load-times/513744",
+    "site_full": "www.searchenginejournal.com",
+    "site": "searchenginejournal.com",
+    "site_section": "https://www.searchenginejournal.com/category/news/feed/atom/",
+    "site_categories": [
+      "marketing",
+      "business"
+    ],
+    "section_title": "Breaking News &amp; Updates About SEO, PPC, Search &amp; Social Media",
+    "title": "WordPress Releases A Performance Plugin For “Near-Instant Load Times”",
+    "title_full": "WordPress Releases A Performance Plugin For “Near-Instant Load Times”",
+    "published": "2024-04-12T00:13:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://www.searchenginejournal.com/wp-content/uploads/2024/04/wordpress-speculative-loadi-738.jpg",
+    "performance_score": 0,
+    "domain_rank": 1153,
+    "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+    "reach": null,
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      },
+      "gplus": {
+        "shares": 0
+      },
+      "pinterest": {
+        "shares": 0
+      },
+      "linkedin": {
+        "shares": 0
+      },
+      "stumbledupon": {
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "8995c23ac97846c30eab903cc9ba7eabed78a6f2",
+  "url": "https://www.searchenginejournal.com/wordpress-releases-a-performance-plugin-for-near-instant-load-times/513744",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Roger Montti",
+  "published": "2024-04-12T00:13:00.000+03:00",
+  "title": "WordPress Releases A Performance Plugin For “Near-Instant Load Times”",
+  "text": "WordPress released an official plugin that adds support for a cutting edge technology called speculative loading that can help boost site performance and improve the user experience for site visitors. Speculative Loading Rendering means constructing the entire webpage so that it instantly displays (rendering). When your browser downloads the HTML, images, and other resources and puts it together into a webpage, that’s rendering. Prerendering is putting that webpage together (rendering it) in the background. What this plugin does is to enable the browser to prerender the entire webpage that a user might navigate to next. The plugin does that by anticipating which webpage the user might navigate to based on where they are hovering. Chrome lists a preference for only prerendering when there is an at least 80% probability of a user navigating to another webpage. The official Chrome support page for prerendering explains : “Pages should only be prerendered when there is a high probability the page will be loaded by the user. This is why the Chrome address bar prerendering options only happen when there is such a high probability (greater than 80% of the time). There is also a caveat in that same developer page that prerendering may not happen based on user settings, memory usage and other scenarios (more details below about how analytics handles prerendering). The Speculative Loading API solves a problem that previous solutions could not because in the past they were simply prefetching resources like JavaScript and CSS but not actually prerendering the entire webpage. The official WordPress announcement explains it like this: Introducing the Speculation Rules API The Speculation Rules API is a new web API that solves the above problems. It allows defining rules to dynamically prefetch and/or prerender URLs of certain structure based on user interaction, in JSON syntax—or in other words, speculatively preload those URLs before the navigation. This API can be used, for example, to prerender any links on a page whenever the user hovers over them.” The official WordPress page about this new functionality describes it: “The Speculation Rules API is a new web API… It allows defining rules to dynamically prefetch and/or prerender URLs of certain structure based on user interaction, in JSON syntax—or in other words, speculatively preload those URLs before the navigation. This API can be used, for example, to prerender any links on a page whenever the user hovers over them. Also, with the Speculation Rules API, “prerender” actually means to prerender the entire page, including running JavaScript. This can lead to near-instant load times once the user clicks on the link as the page would have most likely already been loaded in its entirety. However that is only one of the possible configurations.” The new WordPress plugin adds support for the Speculation Rules API. The Mozilla developer pages, a great resource for HTML technical understanding describes it like this: “The Speculation Rules API is designed to improve performance for future navigations. It targets document URLs rather than specific resource files, and so makes sense for multi-page applications (MPAs) rather than single-page applications (SPAs). The Speculation Rules API provides an alternative to the widely-available feature and is designed to supersede the Chrome-only deprecated feature. It provides many improvements over these technologies, along with a more expressive, configurable syntax for specifying which documents should be prefetched or prerendered.” See also: Are Websites Getting Faster? New Data Reveals Mixed Results Performance Lab Plugin The new plugin was developed by the official WordPress performance team which occasionally rolls out new plugins for users to test ahead of possible inclusion into the actual WordPress core. So it’s a good opportunity to be first to try out new performance technologies. The new WordPress plugin is by default set to prerender “WordPress frontend URLs” which are pages, posts, and archive pages. How it works can be fine-tuned under the settings: Settings > Reading > Speculative Loading Browser Compatibility The Speculative API is supported by Chrome 108 however the specific rules used by the new plugin require Chrome 121 or higher. Chrome 121 was released in early 2024. Browsers that do not support will simply ignore the plugin and will have no effect on the user experience. Check out the new Speculative Loading WordPress plugin developed by the official core WordPress performance team. How Analytics Handles Prerendering A WordPress developer commented with a question asking how Analytics would handle prerendering and someone else answered that it’s up to the Analytics provider to detect a prerender and not count it as a page load or site visit. Fortunately both Google Analytics and Google Publisher Tags (GPT) both are able to handle prerenders. The Chrome developers support page has a note about how analytics handles prerendering: “Google Analytics handles prerender by delaying until activation by default as of September 2023, and Google Publisher Tag (GPT) made a similar change to delay triggering advertisements until activation as of November 2023.” Possible Conflict With Ad Blocker Extensions There are a couple things to be aware of about this plugin, aside from the fact that it’s an experimental feature that requires Chrome 121 or higher. A comment by a WordPress plugin developer that this feature may not work with browsers that are using the uBlock Origin ad blocking browser extension. Download the plugin: Speculative Loading Plugin by the WordPress Performance Team Read the announcement at WordPress Speculative Loading in WordPress See also: WordPress, Wix & Squarespace Show Best CWV Rate Of Improvement",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "positive",
+  "categories": [
+    "Science and Technology"
+  ],
+  "external_links": [],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "rating": null,
+  "crawled": "2024-04-12T00:19:50.045+03:00",
+  "updated": "2024-04-15T00:07:23.141+03:00"
+}

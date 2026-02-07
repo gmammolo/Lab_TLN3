@@ -1,0 +1,99 @@
+{
+  "thread": {
+    "uuid": "1158e30d644c2c4002e316e674ce95b1123aea8d",
+    "url": "https://www.jpost.com/breaking-news/article-826018",
+    "site_full": "www.jpost.com",
+    "site": "jpost.com",
+    "site_section": "https://www.golf.einnews.com/live_feed",
+    "site_categories": [
+      "media",
+      "law_government_and_politics",
+      "politics",
+      "top_news_za",
+      "top_news_il",
+      "top_news_au",
+      "top_news_ph",
+      "top_news_us"
+    ],
+    "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+    "title": "Israel requests urgent UN investigation for UNRWA involvement on Oct. 7",
+    "title_full": "Israel requests urgent UN investigation for UNRWA involvement on Oct. 7",
+    "published": "2024-10-24T19:09:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+    "performance_score": 0,
+    "domain_rank": 947,
+    "domain_rank_updated": "2024-10-22T00:00:00.000+03:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "1158e30d644c2c4002e316e674ce95b1123aea8d",
+  "url": "https://www.jpost.com/breaking-news/article-826018",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "JERUSALEM POST STAFF",
+  "published": "2024-10-24T19:09:00.000+03:00",
+  "title": "Israel requests urgent UN investigation for UNRWA involvement on Oct. 7",
+  "text": "Israel has requested urgent clarification from senior UN officials regarding UNWRA employee involvement in the October 7 Hamas attack, the IDF announced on Thursday evening.The IDF also called for an\"urgent investigation\" into the UNWRA employees. ;console.log(\"2390 BODY2. CatId is:\"+catID);if(catID==120){ console.log(\"2390 BODY. YES for anyclip script\"); var script = document.createElement('script'); script.src = 'https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js'; script.setAttribute('pubname','jpostcom'); script.setAttribute('widgetname','0011r00001lcD1i_12258'); document.getElementsByClassName('divAnyClip')[0].appendChild(script); }else if(catID !== 151) { let widgetid = \"60fd6becf6393400049e6535\"; if(catID === 69){ widgetid = \"65c3a2148772803523c6f41b\"; }else if(catID === 161){ widgetid = \"65c3a224fb10822a0a7db2dd\"; } console.log(\"2390 BODY. YES for vidazoo script\"); var script = document.createElement('script'); script.src = 'https://static.vidazoo.com/basev/vwpt.js'; script.setAttribute('data-widget-id', widgetid); document.getElementsByClassName('divVidazoo')[0].appendChild(script);} This follows the IDF's Thursday statement that Hamas terrorist Mohammad Abu Itiwi, who commanded the attacks on October 7, was eliminated and confirmed to have been a UNRWA employee. ;",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Politics",
+    "War, Conflict and Unrest",
+    "Social Issue"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js&#x27;;",
+    "https://static.vidazoo.com/basev/vwpt.js&#x27;;",
+    "https://www.player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js&#x27;;",
+    "https://www.static.vidazoo.com/basev/vwpt.js&#x27;;"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [
+      {
+        "name": "UNRWA",
+        "sentiment": "negative"
+      },
+      {
+        "name": "UNWRA",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Hamas",
+        "sentiment": "none"
+      },
+      {
+        "name": "IDF",
+        "sentiment": "none"
+      }
+    ],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-10-25T00:42:39.507+03:00",
+  "updated": "2024-10-25T00:42:39.507+03:00"
+}

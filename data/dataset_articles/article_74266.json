@@ -1,0 +1,86 @@
+{
+  "thread": {
+    "uuid": "0b816accc8f9873bc009b784674b787d6f78a8af",
+    "url": "https://gbhackers.com/hackers-attacking-black-friday-shoppers",
+    "site_full": "gbhackers.com",
+    "site": "gbhackers.com",
+    "site_section": "https://www.gbhackers.com",
+    "site_categories": [
+      "hacking",
+      "tech"
+    ],
+    "section_title": "GBHackers News - No #1 Cybersecurity News Platform",
+    "title": "Chinese SilkSpecter Hackers Attacking Black Friday Shoppers",
+    "title_full": "Chinese SilkSpecter Hackers Attacking Black Friday Shoppers",
+    "published": "2024-11-15T13:20:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "",
+    "performance_score": 0,
+    "domain_rank": 62504,
+    "domain_rank_updated": "2024-11-11T23:00:00.000+02:00",
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "0b816accc8f9873bc009b784674b787d6f78a8af",
+  "url": "https://gbhackers.com/hackers-attacking-black-friday-shoppers",
+  "ord_in_thread": 0,
+  "parent_url": null,
+  "author": "Balaji",
+  "published": "2024-11-15T13:20:00.000+02:00",
+  "title": "Chinese SilkSpecter Hackers Attacking Black Friday Shoppers",
+  "text": "SilkSpecter, a Chinese financially motivated threat actor, launched a sophisticated phishing campaign targeting e-commerce shoppers in Europe and the USA during the Black Friday shopping season.\nThe campaign leveraged the legitimate payment processor Stripe to steal victims’ Cardholder Data (CHD) and Sensitive Authentication Data (SAD) while allowing legitimate transactions to proceed.\nThe threat actor used a Chinese SaaS platform, oemapps, to rapidly create convincing fake e-commerce sites with dynamic language adjustment based on victim IP location.\nThe phishing sites, often typosquatting legitimate domains, used .top, .shop, .store, and .vip TLDs to deceive victims into providing sensitive information.\nFree Ultimate Continuous Security Monitoring Guide - Download Here (PDF)\nAnalysts identify a pattern among Black Friday-themed phishing domains linked to the SilkSpecter threat actor, which were characterized by the presence of a deceptive “trusttollsvg” icon and a “/homeapi/collect” endpoint.\nUncovering the pattern among Black Friday-themed phishing pages. The icon was used to mimic trusted websites, while the endpoint allowed real-time tracking of victim interactions.\nBy recognizing these unique indicators, analysts were able to uncover additional discount-themed phishing domains associated with SilkSpecter’s ongoing campaign.\nSilkSpecter’s phishing kit employed a multi-layered approach to deceive victims, as the Black Friday-themed phishing pages, coupled with dynamic language translation and website trackers, created a convincing illusion of legitimacy.\nVictim data, including PII, banking details, and phone numbers, was exfiltrated to attacker-controlled servers.\nStripe was abused to process real transactions, and the stolen information could be further exploited in secondary attacks like vishing or smishing.\n Payment prompt screen on phishing page that uses Stripe It employed a sophisticated phishing scheme to target online shoppers and by mimicking legitimate platforms, they lured victims into providing sensitive financial information.\nThe stolen data, including card details, was exfiltrated to a remote server via Stripe’s APIs, bypassing security measures, where the attackers likely employed social media and SEO poisoning to disseminate the malicious phishing links, capitalizing on Black Friday promotions to increase their success rate.\nAccording to the EclecticIQ Threat Research Team , SilkSpecter, a likely Chinese threat actor, employs Mandarin-laden JavaScript comments and HTML language tags in their phishing pages, hinting at Chinese-speaking developers.\nUse of OEMAPPS library in phishing page. Their infrastructure leans heavily on Chinese CDNs and SaaS platforms like oemapps, where analysts have linked SilkSpecter to over 89 IP addresses and 4,000 domains, many of which are tied to Chinese ASNs and companies, further solidifying the attribution.\nIt is a sophisticated phishing group that leverages Chinese domain registrars like West263, Hong Kong Kouming International, Cloud Yuqu, and Alibaba Cloud to mask its operations by utilizing Cloudflare’s infrastructure for further obfuscation.\nTo mitigate risks, organizations should monitor URLs containing “discount,” “Black Friday,” or “/homeapi/collect” and flag domains with “trusttollsvg.”\nTracking network traffic from ASNs 24429, 140227, 3824, 139021, and 45102 can help identify suspicious connections, while to protect individual users, employing virtual cards and setting spending limits on credit cards are recommended practices.\nAnalyze Unlimited Phishing & Malware with ANY.RUN For Free - 14 Days Free Trial .",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Crime, Law and Justice",
+    "Economy, Business and Finance",
+    "Science and Technology"
+  ],
+  "ai_allow": true,
+  "canonical": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuJcG7eL42PWEymqcQVSTpNZQSN12lcCfR4qkZYODP7bTwAec5YiHFBxGfRUitWrNsxZqbV7RswrWnzSAiFcnFzZpCU-3QFDEyCQ0Su20Jm2ojrfN-XE6GMoDArL4i8E9p56tfGGn3X5PxGZhyhtM-ZY7t2hP3GyEu1lDwec3ss0J1sEqemo56xuv8w0h2/s693/Picture8.webp",
+    "https://blog.eclecticiq.com/inside-intelligence-center-financially-motivated-chinese-threat-actor-silkspecter-targeting-black-friday-shoppers",
+    "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwxecvUdRYfzrirluuBaVa_K3gmiDuB6d4byAuyMMk0VjrDuMo-ibz2kYLq7hyphenhyphenynECZSi0YzpCJSkMulgHF9tFgdNua0TRRQUwgOVD3vTgWeIFpAcjEnCAG3-9Slcmk5b2h9qCeoen1AEcPhGCTtPXwHiv_WHdhaFgqpkUM9o-6uEJrD0UKfmzjscPA7xB/s989/Picture2.webp",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcXrBj2LLNfI2Jl4RORKkV_J6mUEa73Gh1vvVoqzIFVAUSSqQFkAV4NI2ZTEDCgazl85s3wHwxnA-bd18omutGtF8-Bha4hWCzStoVX3fhTIvXdeMNcQE_um8G_Gosdh4MK8M5jE61HMxkxeiEnBSAWbAN5fOI-cSp9qnAppWi1wWf0AyfPxs8uhrWY7k/s692/Picture5.webp",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcXrBj2LLNfI2Jl4RORKkV_J6mUEa73Gh1vvVoqzIFVAUSSqQFkAV4NI2ZTEDCgazl85s3wHwxnA-bd18omutGtF8-Bha4hWCzStoVX3fhTIvXdeMNcQE_um8G_Gosdh4MK8M5jE61HMxkxeiEnBSAWbAN5fOI-cSp9qnAppWi1wWf0AyfPxs8uhrWY7k/s692/Picture5.webp",
+    "https://www.underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuJcG7eL42PWEymqcQVSTpNZQSN12lcCfR4qkZYODP7bTwAec5YiHFBxGfRUitWrNsxZqbV7RswrWnzSAiFcnFzZpCU-3QFDEyCQ0Su20Jm2ojrfN-XE6GMoDArL4i8E9p56tfGGn3X5PxGZhyhtM-ZY7t2hP3GyEu1lDwec3ss0J1sEqemo56xuv8w0h2/s693/Picture8.webp",
+    "https://underdefense.com/ultimate-continuous-security-monitoring-guide/",
+    "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwxecvUdRYfzrirluuBaVa_K3gmiDuB6d4byAuyMMk0VjrDuMo-ibz2kYLq7hyphenhyphenynECZSi0YzpCJSkMulgHF9tFgdNua0TRRQUwgOVD3vTgWeIFpAcjEnCAG3-9Slcmk5b2h9qCeoen1AEcPhGCTtPXwHiv_WHdhaFgqpkUM9o-6uEJrD0UKfmzjscPA7xB/s989/Picture2.webp",
+    "https://www.blog.eclecticiq.com/inside-intelligence-center-financially-motivated-chinese-threat-actor-silkspecter-targeting-black-friday-shoppers",
+    "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+    "https://app.any.run/"
+  ],
+  "external_images": [],
+  "entities": {
+    "persons": [],
+    "organizations": [],
+    "locations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "rating": null,
+  "crawled": "2024-11-15T14:36:16.086+02:00",
+  "updated": "2024-11-15T14:36:16.086+02:00"
+}

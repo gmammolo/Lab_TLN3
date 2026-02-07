@@ -1,0 +1,105 @@
+{
+  "thread": {
+    "uuid": "cf925b5fe3d3af5bcdc19e44c15e194129cdee06",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/chinas-great-firewall-blocked-all-traffic-to-a-common-https-port-for-over-an-hour-with-no-hint-as-to-its-intention",
+    "site_full": "www.tomshardware.com",
+    "site": "tomshardware.com",
+    "site_section": "http://www.tomshardware.com/",
+    "site_categories": [
+      "tech"
+    ],
+    "section_title": "Tom's Hardware: For The Hardcore PC Enthusiast",
+    "site_title": "Tom's Hardware: For The Hardcore PC Enthusiast",
+    "title": "China's Great Firewall blocked all traffic to a common HTTPS port for over an hour - with no hint as to its intention | Tom's Hardware",
+    "title_full": "China's Great Firewall blocked all traffic to a common HTTPS port for over an hour - with no hint as to its intention | Tom's Hardware",
+    "published": "2025-08-21T12:30:00.000+03:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://cdn.mos.cms.futurecdn.net/WdjaKVmhicMVY7W7byi6GV.jpg",
+    "performance_score": 0,
+    "domain_rank": 1286,
+    "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "cf925b5fe3d3af5bcdc19e44c15e194129cdee06",
+  "url": "https://www.tomshardware.com/tech-industry/cyber-security/chinas-great-firewall-blocked-all-traffic-to-a-common-https-port-for-over-an-hour-with-no-hint-as-to-its-intention",
+  "ord_in_thread": 0,
+  "author": "Nathaniel Mott",
+  "published": "2025-08-21T12:30:00.000+03:00",
+  "title": "China's Great Firewall blocked all traffic to a common HTTPS port for over an hour - with no hint as to its intention | Tom's Hardware",
+  "text": "Something weird happened with the Great Firewall of China (GFW), which the Chinese government uses to control internet access within the country, on August 20.\nA site dedicated to monitoring China's internet censorship systems called GFW Report claimed the Great Firewall \"exhibited anomalous behavior by unconditionally injecting forged TCP RST+ACK packets to disrupt all connections on TCP port 443\" for approximately 74 minutes before resuming its normal processes. (Or \"normal,\" I guess.)\nA quick aside: TCP port 443 is typically used for HTTPS — the more Secure version of the Hypertext Transfer Protocol that makes it more difficult for someone to spy on or tamper with the connection between devices — but the port and protocol aren't inextricably linked. Systems can be configured to manage HTTPS via different ports.\nThe behavior reported by GFW Report differs from China's previous efforts to censor encrypted communications in that it specifically targeted port 443, with the report saying \"the unconditional RST+ACK injections was on TCP port 443, but not on other common ports like 22, 80, 8443.\" (Often used for SSH, HTTP, and as an alternative for HTTPS, respectively.)\nContrast that with this from GFW Report in August 2020 detailing the GFW's efforts to block \"one of the foundational features of TLS 1.3 and HTTPS.\" In that case, the Chinese government was specifically targeting the TLS 1.3 and HTTPS protocols across every port (1-65535) rather than limiting its disruptions to a single port.\nThat alone isn't necessarily unusual. \"The [GFW] is not a single entity but a complex system composed of various network devices that perform censorship,\" GFW Report said, and it doesn't rely on a single method of disrupting traffic. Bypassing the GFW isn't a problem that only needs to be solved once; it's an ongoing concern.\nThe bigger mystery is whether or not the behavior seen on August 20 was intended.\nStay On the Cutting Edge: Get the Tom's Hardware Newsletter Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Science and Technology",
+    "Economy, Business and Finance",
+    "Social Issue"
+  ],
+  "topics": [
+    "Science and Technology->social sciences",
+    "Science and Technology->information technology and computer science",
+    "Science and Technology->political science",
+    "Economy, Business and Finance->business strategy and marketing",
+    "Social Issue->diversity, equity and inclusion",
+    "Social Issue->demographics",
+    "Social Issue->social condition"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": false,
+  "webz_reporter": false,
+  "external_links": [
+    "https://gfw.report/blog/gfw_esni_blocking/en/",
+    "https://gfw.report/blog/gfw_unconditional_rst_20250820/en/",
+    "https://newsletter-subscribe.futureplc.com/v2/submission/submit",
+    "https://www.newsletter-subscribe.futureplc.com/v2/submission/submit",
+    "https://gfw.report/blog/gfw_unconditional_rst_20250820/en",
+    "https://www.gfw.report/blog/gfw_esni_blocking/en/",
+    "https://www.gfw.report/blog/gfw_unconditional_rst_20250820/en/",
+    "https://gfw.report/blog/gfw_esni_blocking/en"
+  ],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [],
+    "locations": [],
+    "organizations": []
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": "cf925b5fe3d3af5bcdc19e44c15e194129cdee06",
+    "first_syndicated": true
+  },
+  "trust": {
+    "categories": [],
+    "top_news": [],
+    "bias": null,
+    "source": {
+      "type": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2025-08-21T12:58:43.954+03:00",
+  "updated": "2025-08-21T13:03:46.000+03:00"
+}

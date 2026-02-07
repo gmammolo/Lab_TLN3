@@ -1,0 +1,128 @@
+{
+  "thread": {
+    "uuid": "324520cbccf98b6f74c500187cb142979e794b64",
+    "url": "https://www.newsbreak.com/news/4430624230798-please-avoid-the-area-of-island-ave-between-adams-ave-and-monroe-in-la-grande",
+    "site_full": "www.newsbreak.com",
+    "site": "newsbreak.com",
+    "site_section": "https://www.newsbreak.com/ukiah-or",
+    "site_categories": [
+      "under_construction",
+      "arts, culture and entertainment",
+      "human interest",
+      "economy, business and finance",
+      "lifestyle and leisure",
+      "crime, law and justice",
+      "politics",
+      "sport"
+    ],
+    "section_title": "Ukiah, OR Local News and More | NewsBreak",
+    "site_title": "NewsBreak: Local News &amp; Alerts",
+    "title": "Please avoid the area of Island Ave between Adams Ave and Monroe in La Grande - NewsBreak",
+    "title_full": "Please avoid the area of Island Ave between Adams Ave and Monroe in La Grande - NewsBreak",
+    "published": "2026-01-08T03:54:00.000+02:00",
+    "replies_count": 0,
+    "participants_count": 1,
+    "site_type": "news",
+    "country": "US",
+    "main_image": "https://img.particlenews.com/img/id/09qs59_17sObjMq00",
+    "performance_score": 0,
+    "domain_rank": 2819,
+    "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+    "licensing_agency": [],
+    "social": {
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "vk": {
+        "shares": 0
+      }
+    }
+  },
+  "uuid": "324520cbccf98b6f74c500187cb142979e794b64",
+  "url": "https://www.newsbreak.com/news/4430624230798-please-avoid-the-area-of-island-ave-between-adams-ave-and-monroe-in-la-grande",
+  "ord_in_thread": 0,
+  "author": "Shannon Weidemann (McKone)",
+  "published": "2026-01-08T03:54:00.000+02:00",
+  "title": "Please avoid the area of Island Ave between Adams Ave and Monroe in La Grande - NewsBreak",
+  "text": "By Shannon Weidemann (McKone) ,\n4 hours ago UPDATE: The individual has voluntarily turned himself over to police, is being transported to the hospital, and has agreed to seek assistance. Island Avenue is reopening. Thanks to the efforts of our trained negotiator, the incident concluded safely. We also thank the Oregon State Police, Union County Sheriff’s Office, and La Grande Fire Department for their assistance. Read full article\nRead in NewsBreak 1",
+  "highlightText": "",
+  "highlightTitle": "",
+  "highlightThreadTitle": "",
+  "language": "english",
+  "sentiment": "negative",
+  "categories": [
+    "Disaster and Accident"
+  ],
+  "topics": [
+    "Disaster and Accident->emergency response"
+  ],
+  "ai_allow": true,
+  "has_canonical": false,
+  "breaking": null,
+  "webz_reporter": false,
+  "external_links": [],
+  "external_images": [],
+  "internal_images": [],
+  "entities": {
+    "persons": [
+      {
+        "name": "Monroe",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Shannon Weidemann",
+        "sentiment": "negative"
+      }
+    ],
+    "locations": [],
+    "organizations": [
+      {
+        "name": "La Grande Fire Department",
+        "sentiment": "none",
+        "tickers": []
+      },
+      {
+        "name": "Oregon State Police",
+        "sentiment": "none",
+        "tickers": [
+          {
+            "ticker": null,
+            "exchange": null
+          }
+        ]
+      }
+    ]
+  },
+  "syndication": {
+    "syndicated": false,
+    "syndicate_id": null,
+    "first_syndicated": false
+  },
+  "trust": {
+    "categories": [
+      "fake_news"
+    ],
+    "top_news": [],
+    "bias": "center",
+    "source": {
+      "type": "local_news",
+      "city": [
+        "Ukiah"
+      ],
+      "state": [
+        "Oregon"
+      ],
+      "country": [
+        "US"
+      ],
+      "domain_type": null,
+      "agency": null,
+      "organization_name": null
+    }
+  },
+  "rating": null,
+  "crawled": "2026-01-08T07:38:49.578+02:00",
+  "updated": "2026-01-08T08:41:10.678+02:00"
+}
