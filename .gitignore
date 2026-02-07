@@ -3,4 +3,5 @@
 outputs/*
 !outputs/content_to_form_results.csv
 __pycache__/
-data\embeddings
+data/embeddings
+data/dataset_articles
