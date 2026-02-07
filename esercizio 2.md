@@ -1,7 +1,6 @@
 # Esercizio di laboratorio: complessità definizionale [LAB-2]
 
 Misurazione dell’overlap lessicale tra una serie di definizioni per concetti generici/specifici e concreti/astratti.
-*Si vedano le slides ed il materiale su Moodle per maggiori dettagli.*
 Questo esercizio ha l’obiettivo di esplorare in modo pratico la complessità insita nella formulazione di definizioni. Attraverso un’attività collaborativa, i partecipanti saranno guidati nella produzione e nell’analisi di definizioni per concetti concreti e astratti, evidenziando le differenze nella rappresentazione linguistica e nella densità semantica.
 
 ## Fase 1: Creazione condivisa di definizioni

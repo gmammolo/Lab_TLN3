@@ -3,6 +3,10 @@ Funzioni di utilità per I/O, versioni e formattazione.
 """
 import ast
 import inspect
+import shutil
+import sys
+import re
+import subprocess
 from textwrap import dedent
 from pathlib import Path
 from typing import Any, Dict, Optional
@@ -36,7 +40,7 @@ def build_gloss_text(synset: wn.synset) -> str:
     return " ".join([p for p in parts if p])
 
 
-def safe_synset_name(name: str) -> Optional[wn.synset]:
+def safe_synset_name(name: str):
     """
     Recupera un synset in modo sicuro, restituendo None se non esiste.
 
@@ -90,3 +94,68 @@ def print_code(fn):
     except Exception:
         cleaned = src
     print(cleaned)
+    
+    
+
+def detect_cuda_version() -> Optional[str]:
+    """Try to detect CUDA version (returns e.g. '13.0' or None)."""
+    # Try nvidia-smi
+    nvs = shutil.which("nvidia-smi")
+    if nvs:
+        try:
+            out = subprocess.check_output([nvs, "--query-gpu=driver_version,compute_cap", "--format=csv,noheader"], stderr=subprocess.STDOUT, text=True)
+        except Exception:
+            try:
+                out = subprocess.check_output([nvs], stderr=subprocess.STDOUT, text=True)
+            except Exception:
+                out = ""
+        # Look for common patterns
+        m = re.search(r"CUDA\s*Version\s*:?\s*(\d+\.\d+)", out)
+        if m:
+            return m.group(1)
+    # Try nvcc
+    nvcc = shutil.which("nvcc")
+    if nvcc:
+        try:
+            out = subprocess.check_output([nvcc, "--version"], stderr=subprocess.STDOUT, text=True)
+            m = re.search(r"release\s*(\d+\.\d+)", out)
+            if m:
+                return m.group(1)
+        except Exception:
+            pass
+    # As a last resort, check environment variable
+    cuda_home = (sys.environ.get("CUDA_HOME") or sys.environ.get("CUDA_PATH"))
+    if cuda_home:
+        # Try to glean version from path
+        m = re.search(r"(\d+\.\d+)", cuda_home)
+        if m:
+            return m.group(1)
+    return None
+
+
+
+def get_spacy_ita_modelname() -> str:
+    """
+    Restituisce il nome del modello spacy italiano da utilizzare, in base alla versione di spacy installata.
+
+    Returns:
+        str: nome del modello spacy italiano (es. "it_core_news_sm").
+    """
+    cuda_version = detect_cuda_version()
+    if cuda_version and cuda_version.startswith("13"):
+        return "it_core_news_lg"
+    else:
+        return "it_core_news_sm"
+        
+def get_spacy_en_modelname() -> str:
+    """
+    Restituisce il nome del modello spacy inglese da utilizzare, in base alla versione di spacy installata.
+
+    Returns:
+        str: nome del modello spacy inglese (es. "en_core_web_sm").
+    """
+    cuda_version = detect_cuda_version()
+    if cuda_version and cuda_version.startswith("13"):
+        return "en_core_web_trf"
+    else:
+        return "en_core_web_sm"

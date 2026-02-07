@@ -90,7 +90,7 @@ def main(argv=None):
         else:
             chosen = "cpu"
 
-    # Construct command
+    # Construct command for torch
     pip_cmd = [sys.executable, "-m", "pip", "install", "-U"]
     if chosen == "cpu":
         pip_cmd += ["torch"]
@@ -108,7 +108,46 @@ def main(argv=None):
         print("Installation command failed with code", rc, "— you may need to run it manually or check driver install.")
         return rc
 
-    print("Installation finished.")
+    print("Torch installation finished.")
+    
+    # Install spacy
+    print("\n--- Installing spaCy ---")
+    spacy_cmd = [sys.executable, "-m", "pip", "install", "-U"]
+    if chosen == "cuda130":
+        spacy_cmd += ["spacy[cuda130]"]
+        spacy_note = "spaCy with CUDA 13.0 support"
+    else:
+        spacy_cmd += ["spacy"]
+        spacy_note = "spaCy (CPU)"
+    
+    print(f"Installing: {spacy_note}")
+    print("Command:", " ".join(spacy_cmd))
+    
+    rc = run(spacy_cmd, dry_run=args.dry_run)
+    if rc != 0:
+        print("spaCy installation failed with code", rc)
+        return rc
+    
+    print("spaCy installation finished.")
+    
+    # Download spacy models
+    print("\n--- Downloading spaCy models ---")
+    if chosen == "cuda130":
+        models = ["en_core_web_trf", "it_core_news_lg"]
+    else:
+        models = ["en_core_web_sm", "it_core_news_sm"]
+    
+    for model in models:
+        print(f"\nDownloading {model}...")
+        download_cmd = [sys.executable, "-m", "spacy", "download", model]
+        print("Command:", " ".join(download_cmd))
+        
+        rc = run(download_cmd, dry_run=args.dry_run)
+        if rc != 0:
+            print(f"Warning: Download of {model} failed with code {rc}")
+            # Continue with other models even if one fails
+    
+    print("\n=== All installations finished ===")
     return 0
 
 

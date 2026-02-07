@@ -15,7 +15,7 @@ def get_embedding_model(model_name: str ) -> SentenceTransformer:
     return SentenceTransformer(model_name)
 
 
-def embed_disambiguate(word: str, sentence: str, pos=None, model_name: str = "all-MiniLM-L6-v2") -> List[tuple]:
+def embed_disambiguate(word: str, sentence: str, pos=None, model_name: str = "all-MiniLM-L6-v2", lang: str = 'eng') -> List[tuple]:
     """
     Disambiguazione usando embeddings.
     
@@ -26,14 +26,14 @@ def embed_disambiguate(word: str, sentence: str, pos=None, model_name: str = "al
         word: parola target
         sentence: frase di contesto
         pos: POS filter (opzionale)
-    
+        lang: Lingua per WordNet (default: 'eng')
     Returns:
         list: lista di (synset_name, similarity_score) ordinata per score decrescente
     """
     model = get_embedding_model(model_name)
 
     try:
-        candidates = wn.synsets(word, pos=pos)
+        candidates = wn.synsets(word, pos=pos, lang=lang)
         if not candidates:
              return []
 

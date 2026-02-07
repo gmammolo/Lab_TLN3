@@ -78,7 +78,7 @@ def split_synsets_field(val):
 	return parts
 
 
-def extract_ambiguous_tokens_from_row(sentence_text, metadata_json):
+def extract_ambiguous_tokens_from_row(sentence_text, metadata_json, lang='eng'):
 	results = []
 	try:
 		data = json.loads(metadata_json)
@@ -103,7 +103,7 @@ def extract_ambiguous_tokens_from_row(sentence_text, metadata_json):
 		wn_pos = penn_to_wn_pos(penn)
 
 		# Check WordNet synsets for the normalized word
-		syns_list = wn.synsets(normalized_lemma, pos=wn_pos)
+		syns_list = wn.synsets(normalized_lemma, pos=wn_pos, lang=lang)
 
 		# CRITICAL: Only process if word has >= 2 synsets in WordNet
 		if len(syns_list) < 2:
