@@ -2,13 +2,9 @@
 Modulo per la ricerca onomasiologica (content-to-form) in WordNet.
 Implementa funzioni per identificare synset a partire da definizioni testuali.
 """
-from typing import List, Optional, Set, Tuple
-from collections import Counter
-import math
+from typing import List, Set, Tuple
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
 import nltk
 import src.wordnet_helpers as wnh
 

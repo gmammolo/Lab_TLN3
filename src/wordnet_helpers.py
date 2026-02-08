@@ -2,14 +2,15 @@
 Helper WordNet semplificato per WSD con Lesk e embeddings.
 """
 import math
-from typing import Any, Counter, Dict, List, Optional, Set, Tuple
-from functools import lru_cache
+from collections import deque
+from typing import Any, Counter, Dict, List, Optional, Set
 from nltk.corpus import wordnet as wn
-from nltk import word_tokenize, pos_tag
+from nltk import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import re
 import spacy
+
 import src.utils as utils
 
 lemmatizer = WordNetLemmatizer()
@@ -92,9 +93,6 @@ def shortest_path(syn1, syn2) -> Optional[List]:
     """
     if syn1 == syn2:
         return [syn1]
-
-    # BFS per trovare il percorso più breve
-    from collections import deque
 
     queue = deque([(syn1, [syn1])])
     visited = {syn1}
@@ -365,6 +363,10 @@ def translate_tokens(
         if len(synsets) == 0:
             synsets = wn.synsets(patch_tokens(tok.lemma_), pos=penn_to_wn_pos(tok.pos_), lang="eng")
         
+        # Wargning per token senza synset in italiano e senza workaround
+        if DEBUG >= 1 and len(synsets) == 0:
+            print(f"Warning: No synsets found for token '{tok.lemma_}' (original: '{tok.text}') in language '{lang}'")
+        
         if len(synsets) > 0:
             l= get_best_synset(
                 tok.lemma_,
@@ -396,8 +398,52 @@ def patch_tokens(token: str) -> str:
     """ 
     dict = {}
     dict['ingrandito'] = 'enlarged'
+    dict['ingradimento'] = 'enlarged'
     dict['invisibile'] = 'invisible'
     dict['rivelira'] = 'reveal'
+    dict['ottimale'] = 'optimal'
+    dict['ovvero'] = 'that_is'
+    dict['approssimare'] = 'approximate'
+    dict['dotare'] = 'provide'
+    dict['attare'] = 'suitable'
+    dict['microscopico'] = 'microscopic'
+    dict['microrganismi'] = 'microorganisms'
+    dict['decisionale'] = 'decision'
+    dict['ambientale'] = 'environmental'
+    dict['validare'] = 'validate'
+    dict['indossabile'] = 'wearable'
+    dict['adibire'] = 'suitable'
+    dict['elettronico'] = 'electronic'
+    dict['bontá'] = 'goodness'
+    dict['ritrovare si'] = 'find'
+    dict['tramite'] = 'through'
+    dict['assunta'] = 'assumed'
+    dict['visualizzare'] = 'see'
+    dict['visualizzazione'] = 'see'
+    dict['resistente'] = 'resistant'
+    dict['calcole'] = 'calculation'
+    dict['utilizza'] = 'use'
+    dict['vestibile'] = 'wearable'
+    dict['psicologicamente'] = 'psychologically'
+    dict['stipulare'] = 'contract'
+    dict['basato'] = 'based'
+    dict['metodologia'] = 'methodology'
+    
+    # termini sbagliati ????
+    dict['conivolto'] = 'involved'
+    dict['metedologia '] = 'methodology' 
+    dict['metodologio'] = 'methodology'
+    dict['Metedologia'] = 'methodology'
+    dict['caue'] = 'causes'
+    dict['pssono'] = 'maybe'
+    dict['compromettire'] = 'compromise'
+    dict['ingranire'] = 'enlarge'
+    dict['decisone'] = 'suitable'
+    dict['dimansione'] = 'size' 
+    dict['criro'] = 'short'
+    dict['ingranditare'] = 'enlarge'
+    dict['é'] = 'be'
+    dict['coperturare'] = 'coverage'
     
     return dict.get(token, token)
 
